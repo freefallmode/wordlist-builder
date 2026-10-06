@@ -61,7 +61,7 @@ Theme tree file (`data/themes.txt`; Import / export → Add starter theme tree, 
 
 ## Word filters
 
-Single words 3 to 12 letters; two-word names (shown on two lines in the game) up to 20 letters in total and 12 per word; more than two words is rejected. Filters only mark words disabled with a reason, never delete.
+Single words 3 to 20 letters; two-word names (shown on two lines in the game) up to 20 letters in total; more than two words is rejected. Filters only mark words disabled with a reason, never delete.
 
 ## Known gaps and next steps
 
