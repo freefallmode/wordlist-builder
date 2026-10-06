@@ -49,7 +49,7 @@ def zipf(t):
 
 # ---- filters, as filterReason() in app.js with default settings
 def reason(t):
-    c = re.sub(r"[ \-'’]", '', t); parts = re.split(r'[ -]+', t)
+    c = re.sub(r"[ \-'’.]", '', t); parts = re.split(r'[ -]+', t)
     if not re.fullmatch(r'[\w&]+', c) or '_' in c: return 'characters'
     if len(parts) > 2: return 'more than two words'
     if len(c) < 3 or len(c) > 20: return 'length'
@@ -80,6 +80,21 @@ for path in sorted(glob.glob(os.path.join(ROOT, 'data', 'gen', 'words', 'batch-*
             w['ze'].append(int(z10)); w['adult'] |= int(adult)
             if text.lower() in setno: w['notes'].append(f'anagram set {setno[text.lower()]}')
 
+# ---- cross-theme check results: batch-*.links.json {text: {"also": [[theme, fam]], "clash": [theme]}}
+n_also = n_clash = 0; bad_links = set()
+for path in sorted(glob.glob(os.path.join(ROOT, 'data', 'gen', 'words', 'batch-*.links.json'))):
+    for text, v in json.load(open(path, encoding='utf-8')).items():
+        w = words.get(slug(text.replace('’', "'")))
+        if not w: continue
+        for t, f in v.get('also', []):
+            ti = by_name.get(t)
+            if ti is None: bad_links.add(t); continue
+            if ti not in w['th']: w['th'].append(ti); w['fam'][ti] = int(f); n_also += 1
+        for t in v.get('clash', []):
+            ti = by_name.get(t)
+            if ti is None: bad_links.add(t); continue
+            if ti not in w['th'] and ti not in w.setdefault('x', []): w['x'].append(ti); n_clash += 1
+
 rows, n_est = [], 0
 for k, w in words.items():
     c = forms[k]
@@ -94,7 +109,7 @@ for k, w in words.items():
     r = reason(text)
     note = '; '.join(dict.fromkeys([r] + w['notes'] if r else w['notes']))
     rows.append([text, w['th'], 0 if r else 1, round(z * 10) if z else 0, 0, 'L', note, w['uk'],
-                 [], 0, [], [[t, f] for t, f in w['fam'].items()], round(zest * 10) if zest else 0, w['adult'],
+                 w.get('x', []), 1 if 'x' in w else 0, [], [[t, f] for t, f in w['fam'].items()], round(zest * 10) if zest else 0, w['adult'],
                  [[t, f] for t, f in w['tform'].items() if f != text]])
 
 out = {
@@ -114,5 +129,6 @@ print(f'{len(themes)} themes ({len(play)} playable), {len(rows)} words, {sum(len
 print('playable themes with no words yet:', sum(1 for i in play if not count[i]))
 print('playable themes under 12 words:', sum(1 for i in play if 0 < count[i] < 12))
 if missing: print('UNKNOWN theme names in batches:', missing[:20])
+print(f'cross-theme check: {n_also} extra links, {n_clash} clashes' + (f', unknown theme names: {sorted(bad_links)[:20]}' if bad_links else ''))
 open(os.path.join(ROOT, 'data', 'gen', 'words', 'flags.txt'), 'w', encoding='utf-8').write('\n'.join(flags) + '\n')
 print(len(flags), 'flagged themes (data/gen/words/flags.txt)')

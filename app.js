@@ -3,11 +3,11 @@
 // The project lives in IndexedDB (autosaved) and in project files. Both use
 // the compact format from serialize(): words point at themes by index.
 
-const VERSION = '19';  // must match data-v and the ?v= links in index.html
+const VERSION = '21';  // must match data-v and the ?v= links in index.html
 const $ = s => document.querySelector(s);
 const esc = s => String(s ?? '').replace(/[&<>"']/g, c => ({ '&': '&amp;', '<': '&lt;', '>': '&gt;', '"': '&quot;', "'": '&#39;' }[c]));
 const slug = t => t.normalize('NFKD').replace(/[̀-ͯ]/g, '').replace(/[^\p{L}\p{N}]+/gu, '_').replace(/^_|_$/g, '').toLowerCase();
-const core = t => t.replace(/[ \-'’]/g, '');  // what counts towards length: letters, digits, &
+const core = t => t.replace(/[ \-'’.]/g, '');  // what counts towards length: letters, digits, &
 // The form of a word to show and export, following the spelling setting.
 const form = w => SET.spelling === 'UK' && w.uk ? w.uk : w.t;
 // The form shown within a theme: some words are written differently per theme (Mercury the planet, mercury the metal).
@@ -795,7 +795,7 @@ function settingsDialog() {
     + '<h4>Filters for new words</h4><p class="muted">Words that fail are still added, but disabled, with the reason in the note.</p>'
     + `<div class="row"><label><input type="checkbox" id="se-len"${f.len ? ' checked' : ''}> Length</label> single words <input id="se-min" type="number" value="${f.min}"> to <input id="se-max" type="number" value="${f.max}"> letters</div>`
     + `<div class="row">two-word names (shown on two lines): at most <input id="se-mm" type="number" value="${f.maxMulti}"> letters in total</div>`
-    + `<div class="row"><label><input type="checkbox" id="se-let"${f.letters ? ' checked' : ''}> Letters, digits, apostrophes and &amp; only</label><label><input type="checkbox" id="se-mul"${f.multi ? ' checked' : ''}> Single words only</label><label><input type="checkbox" id="se-blk"${f.block ? ' checked' : ''}> Blocklist</label></div>`
+    + `<div class="row"><label><input type="checkbox" id="se-let"${f.letters ? ' checked' : ''}> Letters, digits, apostrophes, periods and &amp; only</label><label><input type="checkbox" id="se-mul"${f.multi ? ' checked' : ''}> Single words only</label><label><input type="checkbox" id="se-blk"${f.block ? ' checked' : ''}> Blocklist</label></div>`
     + `<textarea id="se-list" rows="2" placeholder="blocklist words, comma or space separated">${esc(f.list)}</textarea>`
     + `<div class="row"><button id="se-re">Re-apply filters to all words…</button></div>`,
     [['Cancel', () => { }], ['Save', d => {
@@ -817,7 +817,8 @@ function settingsDialog() {
 
 function dataDialog() {
   dialog('Import / export', '<h4>Project: theme tree and words (.json)</h4><p class="muted">Everything in the app. It is autosaved in this browser; save a file to back it up or move it to another browser. Opening one <b>replaces</b> the current project.</p>'
-    + '<div class="row"><button id="dx-save" class="p">Save project</button><button id="dx-open">Open project…</button><button id="dx-wl">Open starter wordlist</button></div>'
+    + '<div class="row"><button id="dx-save" class="p">Save project to a file</button><button id="dx-open">Open project file from your computer…</button></div>'
+    + '<div class="row"><button id="dx-wl">Open the starter wordlist</button><span class="muted">the ready-made tree and words that come with the app</span></div>'
     + '<h4>Theme tree only, no words (.txt)</h4><p class="muted">The tree as an indented text list you can edit in any text editor. Importing <b>adds</b> its themes to the current tree.</p>'
     + '<div class="row"><button id="dx-starter">Add starter theme tree</button><button id="dx-imp">Import theme tree…</button><button id="dx-out">Export theme tree</button></div>'
     + '<h4>For the game and spreadsheets (export only)</h4><p class="muted">The game file holds enabled words only, compact, family-friendly if set in Settings.</p>'
