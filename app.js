@@ -3,7 +3,7 @@
 // The project lives in IndexedDB (autosaved) and in project files. Both use
 // the compact format from serialize(): words point at themes by index.
 
-const VERSION = '12';  // must match data-v and the ?v= links in index.html
+const VERSION = '13';  // must match data-v and the ?v= links in index.html
 const $ = s => document.querySelector(s);
 const esc = s => String(s ?? '').replace(/[&<>"']/g, c => ({ '&': '&amp;', '<': '&lt;', '>': '&gt;', '"': '&quot;', "'": '&#39;' }[c]));
 const slug = t => t.normalize('NFKD').replace(/[̀-ͯ]/g, '').replace(/[^\p{L}\p{N}]+/gu, '_').replace(/^_|_$/g, '').toLowerCase();
@@ -436,7 +436,7 @@ function renderTree() {
   };
   $('#tree').innerHTML = kidsOf(null).map(id => row(id, 0)).join('') || '<p class="muted">No themes yet. Add one, or use Import / export to open the starter wordlist or add the starter theme tree.</p>';
   $('#lock').textContent = UI.unlock ? '🔓 Drag on' : '🔒 Drag off';
-  $('#lock').title = UI.unlock ? 'Drop a theme on another to nest it, near a row edge to reorder, or on "+ Top-level theme" to make it top level.' : 'Click to allow dragging themes.';
+  $('#lock').title = UI.unlock ? 'Drop a theme on another to nest it, near a row edge to reorder, or on "+ Group" to make it top level.' : 'Click to allow dragging themes.';
 }
 
 function shownWords() {
@@ -549,8 +549,22 @@ function ask(title, def = '') {
     let answer = null;
     const d = dialog(title, `<input id="askv" style="width:100%" value="${esc(def)}">`, [['Cancel', () => { }], ['OK', d => { answer = val(d, '#askv').trim(); }, 'p']]);
     const i = d.querySelector('#askv'); i.focus(); i.select();
-    i.onkeydown = e => { if (e.key === 'Enter') d.querySelector('[data-b="1"]').click(); };
+    i.onkeydown = e => { if (e.key === 'Enter') { e.preventDefault(); d.querySelector('[data-b="1"]').click(); } };  // preventDefault: Enter must not also press the button underneath
     // Answer only once the box has closed, so callers can report into the page.
+    d.addEventListener('close', () => setTimeout(() => res(answer)), { once: true });
+  });
+}
+// Asks for a new theme's name and whether it is a group. Resolves to {name, group} or null.
+function newThemeBox(parentId) {
+  return new Promise(res => {
+    let answer = null;
+    const where = parentId ? `under "${theme(parentId).name}"` : 'at the top level';
+    const d = dialog(parentId ? 'New sub-theme' : 'New top-level group', `<p class="muted">Adding ${esc(where)}.</p>`
+      + `<input id="nt-n" style="width:100%" placeholder="name">`
+      + `<label class="pick"><input type="checkbox" id="nt-g"${parentId ? '' : ' checked'}> Group: a folder for browsing, never used as a theme in a level</label>`,
+      [['Cancel', () => { }], ['Add', d => { const n = val(d, '#nt-n').trim(); if (n) answer = { name: n, group: chk(d, '#nt-g') }; }, 'p']]);
+    const i = d.querySelector('#nt-n'); i.focus();
+    i.onkeydown = e => { if (e.key === 'Enter') { e.preventDefault(); d.querySelector('[data-b="1"]').click(); } };  // preventDefault: Enter must not also press the button underneath
     d.addEventListener('close', () => setTimeout(() => res(answer)), { once: true });
   });
 }
@@ -1007,7 +1021,7 @@ document.addEventListener('click', async e => {
   if (!el || el.closest('dialog')) return;
   const ds = el.dataset;
   if (ds.tog) { UI.exp[ds.tog] = !UI.exp[ds.tog]; render(); }
-  else if (ds.add) { const n = await ask('New sub-theme of ' + theme(ds.add).name); if (n) { const id = makeTheme(n, ds.add); select(id); } }
+  else if (ds.add) { const n = await newThemeBox(ds.add); if (n) select(makeTheme(n.name, ds.add, { group: n.group })); }
   else if (ds.ren) { const n = await ask('Rename theme', theme(ds.ren).name); if (n) { theme(ds.ren).name = n; changed(); render(); } }
   else if (ds.del) { if (await confirmBox(`Delete "${theme(ds.del).name}" and its sub-themes? Words left with no theme are removed.`)) { deleteTheme(ds.del); render(); } }
   else if (ds.sel) select(UI.sel === ds.sel ? null : ds.sel);
@@ -1021,7 +1035,7 @@ document.addEventListener('click', async e => {
     case 'expall': P.themes.forEach(t => UI.exp[t.id] = true); render(); break;
     case 'colall': UI.exp = {}; render(); break;
     case 'lock': UI.unlock = !UI.unlock; render(); break;
-    case 'addroot': { const n = await ask('New top-level theme'); if (n) select(makeTheme(n, null)); break; }
+    case 'addroot': { const n = await newThemeBox(null); if (n) select(makeTheme(n.name, null, { group: n.group })); break; }
     case 'genWords': genWordsDialog(); break;
     case 'checkBtn': checkDialog(); break;
     case 'reviewBtn': reviewDialog(); break;
