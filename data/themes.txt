@@ -1561,7 +1561,7 @@ Arts & Entertainment:
     behind the camera
     cartoon words
     award words [separate]
-      entertainment awards [trademark]
+      entertainment awards
     film festivals [separate] [trademark]
     movie theater words [place]
     tv words
