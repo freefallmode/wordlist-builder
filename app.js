@@ -3,7 +3,7 @@
 // The project lives in IndexedDB (autosaved) and in project files. Both use
 // the compact format from serialize(): words point at themes by index.
 
-const VERSION = '15';  // must match data-v and the ?v= links in index.html
+const VERSION = '16';  // must match data-v and the ?v= links in index.html
 const $ = s => document.querySelector(s);
 const esc = s => String(s ?? '').replace(/[&<>"']/g, c => ({ '&': '&amp;', '<': '&lt;', '>': '&gt;', '"': '&quot;', "'": '&#39;' }[c]));
 const slug = t => t.normalize('NFKD').replace(/[̀-ͯ]/g, '').replace(/[^\p{L}\p{N}]+/gu, '_').replace(/^_|_$/g, '').toLowerCase();
@@ -554,15 +554,15 @@ function ask(title, def = '') {
     d.addEventListener('close', () => setTimeout(() => res(answer)), { once: true });
   });
 }
-// Asks for a new theme's name. Top-level entries are always groups (folders for browsing),
-// everything below is a playable theme. Resolves to {name, group} or null.
+// Asks for a new theme's name and whether it is a group. Resolves to {name, group} or null.
 function newThemeBox(parentId) {
   return new Promise(res => {
     let answer = null;
-    const d = dialog(parentId ? 'New sub-theme' : 'New top-level group',
-      `<p class="muted">${parentId ? `A playable theme under "${esc(theme(parentId).name)}".` : 'A group: a folder for browsing at the top of the tree, never used as a theme in a level.'}</p>`
-      + `<input id="nt-n" style="width:100%" placeholder="name">`,
-      [['Cancel', () => { }], ['Add', d => { const n = val(d, '#nt-n').trim(); if (n) answer = { name: n, group: !parentId }; }, 'p']]);
+    const where = parentId ? `under "${theme(parentId).name}"` : 'at the top level';
+    const d = dialog(parentId ? 'New sub-theme' : 'New top-level group', `<p class="muted">Adding ${esc(where)}.</p>`
+      + `<input id="nt-n" style="width:100%" placeholder="name">`
+      + `<label class="pick"><input type="checkbox" id="nt-g"${parentId ? '' : ' checked'}> Group: a folder for browsing, never used as a theme in a level</label>`,
+      [['Cancel', () => { }], ['Add', d => { const n = val(d, '#nt-n').trim(); if (n) answer = { name: n, group: chk(d, '#nt-g') }; }, 'p']]);
     const i = d.querySelector('#nt-n'); i.focus();
     i.onkeydown = e => { if (e.key === 'Enter') { e.preventDefault(); d.querySelector('[data-b="1"]').click(); } };  // preventDefault: Enter must not also press the button underneath
     d.addEventListener('close', () => setTimeout(() => res(answer)), { once: true });
@@ -677,12 +677,12 @@ function themeDialog() {
     + field('Region (acts: 1 Middle East incl. Turkey, Africa · 2 Asia · 3 Oceania · 4 Antarctica · 5 South America · 6 North America · 7 Europe, Turkey)', `<select id="ts-r">${options(REGIONS.map(r => [r, r || 'Any']), t.region || '')}</select>`)
     + field('Difficulty', `<select id="ts-d"><option value="">From depth (${Math.min(5, depth(t.id))})</option>${[1, 2, 3, 4, 5].map(n => `<option${t.d === n ? ' selected' : ''}>${n}</option>`).join('')}</select>`)
     + field('Notes (also sent to Claude to steer generation)', `<textarea id="ts-o" rows="2">${esc(t.note)}</textarea>`)
-    + (!t.parent || t.group ? `<label class="pick"><input type="checkbox" id="ts-g"${t.group ? ' checked' : ''}> Group: a container for browsing, never used as a theme in a level${t.parent ? ' (groups belong at the top level; untick to make this a theme)' : ''}</label>` : '')
+    + `<label class="pick"><input type="checkbox" id="ts-g"${t.group ? ' checked' : ''}> Group: a container for browsing, never used as a theme in a level</label>`
     + `<label class="pick"><input type="checkbox" id="ts-ff"${t.adult ? '' : ' checked'}> Family-friendly${!t.adult && themeAdult(t.id) ? ' (but a parent theme is not, so this one is left out too)' : ''}</label>`
     + `<h4>Danger</h4><button class="danger" id="ts-del">Delete theme and its sub-themes…</button>`,
     [['Cancel', () => { }], ['Save', d => {
       t.name = val(d, '#ts-n').trim() || t.name; t.label = val(d, '#ts-l').trim(); t.kind = val(d, '#ts-k'); t.region = val(d, '#ts-r');
-      t.d = val(d, '#ts-d') ? +val(d, '#ts-d') : null; t.note = val(d, '#ts-o').trim(); if (d.querySelector('#ts-g')) t.group = chk(d, '#ts-g'); t.adult = !chk(d, '#ts-ff');
+      t.d = val(d, '#ts-d') ? +val(d, '#ts-d') : null; t.note = val(d, '#ts-o').trim(); t.group = chk(d, '#ts-g'); t.adult = !chk(d, '#ts-ff');
       changed();
     }, 'p']], d => {
       d.querySelector('#ts-del').onclick = async () => { if (await confirmBox(`Delete "${t.name}" and its sub-themes? Words left with no theme are removed.`)) { deleteTheme(t.id); render(); } };
