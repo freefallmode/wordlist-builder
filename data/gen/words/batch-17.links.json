@@ -1,0 +1,4270 @@
+{
+"square knot": {
+"also": [],
+"clash": [
+"square things"
+]
+},
+"slipknot": {
+"also": [
+[
+"famous bands",
+2
+],
+[
+"knitting words",
+3
+]
+],
+"clash": []
+},
+"noose": {
+"also": [],
+"clash": [
+"punishments",
+"pirate punishments",
+"wild west"
+]
+},
+"reef knot": {
+"also": [],
+"clash": [
+"sailing words",
+"reef life"
+]
+},
+"bowline": {
+"also": [],
+"clash": [
+"sailing words",
+"climbing words",
+"ship parts"
+]
+},
+"figure eight": {
+"also": [
+[
+"figure skating moves",
+2
+],
+[
+"climbing words",
+3
+]
+],
+"clash": [
+"curves and spirals",
+"skating words",
+"hidden numbers"
+]
+},
+"Windsor knot": {
+"also": [],
+"clash": [
+"neckwear",
+"royal houses"
+]
+},
+"clove hitch": {
+"also": [],
+"clash": [
+"spices"
+]
+},
+"half Windsor": {
+"also": [],
+"clash": [
+"neckwear",
+"royal houses"
+]
+},
+"four-in-hand": {
+"also": [],
+"clash": [
+"neckwear",
+"horse-drawn vehicles"
+]
+},
+"cleat hitch": {
+"also": [],
+"clash": [
+"sailing words"
+]
+},
+"Prusik": {
+"also": [
+[
+"climbing words",
+4
+],
+[
+"climbing gear",
+4
+]
+],
+"clash": []
+},
+"alpine butterfly": {
+"also": [
+[
+"climbing words",
+4
+]
+],
+"clash": [
+"butterflies and moths",
+"alpine animals"
+]
+},
+"constrictor knot": {
+"also": [],
+"clash": [
+"constrictor snakes"
+]
+},
+"Palomar knot": {
+"also": [
+[
+"fishing words",
+4
+]
+],
+"clash": []
+},
+"clinch knot": {
+"also": [
+[
+"fishing words",
+4
+]
+],
+"clash": []
+},
+"blood knot": {
+"also": [
+[
+"fishing words",
+4
+]
+],
+"clash": [
+"blood words"
+]
+},
+"Munter hitch": {
+"also": [
+[
+"climbing words",
+4
+]
+],
+"clash": []
+},
+"water knot": {
+"also": [
+[
+"climbing words",
+4
+]
+],
+"clash": []
+},
+"Zeppelin bend": {
+"also": [],
+"clash": [
+"flying machines"
+]
+},
+"nail knot": {
+"also": [
+[
+"fishing words",
+4
+]
+],
+"clash": [
+"nail care"
+]
+},
+"Albright knot": {
+"also": [
+[
+"fishing words",
+4
+]
+],
+"clash": []
+},
+"Bimini twist": {
+"also": [
+[
+"fishing words",
+4
+]
+],
+"clash": []
+},
+"halyard hitch": {
+"also": [],
+"clash": [
+"sailing words"
+]
+},
+"hangman's knot": {
+"also": [],
+"clash": [
+"punishments",
+"wild west",
+"word games"
+]
+},
+"fisherman's knot": {
+"also": [
+[
+"fishing words",
+3
+],
+[
+"climbing words",
+4
+]
+],
+"clash": []
+},
+"lark's head": {
+"also": [],
+"clash": [
+"songbirds"
+]
+},
+"surgeon's knot": {
+"also": [],
+"clash": [
+"operating room"
+]
+},
+"crown knot": {
+"also": [],
+"clash": [
+"royal things"
+]
+},
+"diamond knot": {
+"also": [],
+"clash": [
+"gemstones"
+]
+},
+"monkey fist": {
+"also": [],
+"clash": [
+"monkeys"
+]
+},
+"Panama": {
+"also": [
+[
+"straits and canals",
+1
+],
+[
+"north american countries",
+2
+],
+[
+"spanish-speaking countries",
+2
+],
+[
+"hats",
+2
+]
+],
+"clash": [
+"capital cities"
+]
+},
+"Suez": {
+"also": [
+[
+"straits and canals",
+1
+],
+[
+"egyptian landmarks",
+2
+]
+],
+"clash": [
+"port cities"
+]
+},
+"Grand Canal": {
+"also": [
+[
+"straits and canals",
+2
+]
+],
+"clash": [
+"famous streets"
+]
+},
+"Erie": {
+"also": [
+[
+"straits and canals",
+2
+],
+[
+"famous lakes",
+1
+],
+[
+"american cities",
+3
+]
+],
+"clash": []
+},
+"Kiel": {
+"also": [
+[
+"straits and canals",
+2
+],
+[
+"german cities",
+3
+],
+[
+"port cities",
+4
+]
+],
+"clash": []
+},
+"Corinth": {
+"also": [
+[
+"straits and canals",
+2
+],
+[
+"ancient cities",
+2
+],
+[
+"ancient greece",
+3
+]
+],
+"clash": [
+"greek islands"
+]
+},
+"Love Canal": {
+"also": [],
+"clash": [
+"pollution words",
+"straits and canals"
+]
+},
+"Cape Cod": {
+"also": [
+[
+"peninsulas",
+2
+],
+[
+"house styles",
+3
+],
+[
+"beach destinations",
+3
+]
+],
+"clash": [
+"straits and canals"
+]
+},
+"Welland": {
+"also": [
+[
+"straits and canals",
+3
+]
+],
+"clash": []
+},
+"Caledonian": {
+"also": [
+[
+"straits and canals",
+3
+]
+],
+"clash": []
+},
+"Rideau": {
+"also": [
+[
+"straits and canals",
+4
+],
+[
+"canadian landmarks",
+4
+]
+],
+"clash": []
+},
+"Göta": {
+"also": [
+[
+"straits and canals",
+4
+]
+],
+"clash": []
+},
+"Canal du Midi": {
+"also": [
+[
+"straits and canals",
+3
+]
+],
+"clash": []
+},
+"Herengracht": {
+"also": [
+[
+"straits and canals",
+4
+]
+],
+"clash": []
+},
+"Prinsengracht": {
+"also": [
+[
+"straits and canals",
+4
+]
+],
+"clash": []
+},
+"Keizersgracht": {
+"also": [
+[
+"straits and canals",
+4
+]
+],
+"clash": []
+},
+"Volga-Don": {
+"also": [
+[
+"straits and canals",
+4
+]
+],
+"clash": [
+"european rivers"
+]
+},
+"Grand Union": {
+"also": [
+[
+"straits and canals",
+3
+]
+],
+"clash": []
+},
+"Bridgewater": {
+"also": [
+[
+"straits and canals",
+4
+]
+],
+"clash": []
+},
+"Manchester Ship Canal": {
+"also": [
+[
+"straits and canals",
+3
+]
+],
+"clash": []
+},
+"Kennet and Avon": {
+"also": [
+[
+"straits and canals",
+4
+]
+],
+"clash": [
+"european rivers"
+]
+},
+"Leeds and Liverpool": {
+"also": [
+[
+"straits and canals",
+4
+]
+],
+"clash": [
+"british cities"
+]
+},
+"Chesapeake and Ohio": {
+"also": [
+[
+"straits and canals",
+4
+]
+],
+"clash": [
+"us states",
+"gulfs and bays"
+]
+},
+"Forth and Clyde": {
+"also": [
+[
+"straits and canals",
+4
+]
+],
+"clash": [
+"european rivers"
+]
+},
+"Crinan": {
+"also": [
+[
+"straits and canals",
+4
+]
+],
+"clash": []
+},
+"Trent-Severn": {
+"also": [
+[
+"straits and canals",
+4
+]
+],
+"clash": [
+"european rivers"
+]
+},
+"Dortmund-Ems": {
+"also": [
+[
+"straits and canals",
+4
+]
+],
+"clash": [
+"german cities"
+]
+},
+"Mittelland": {
+"also": [
+[
+"straits and canals",
+4
+]
+],
+"clash": []
+},
+"Llangollen": {
+"also": [
+[
+"straits and canals",
+4
+]
+],
+"clash": []
+},
+"Pontcysyllte": {
+"also": [
+[
+"straits and canals",
+4
+],
+[
+"famous bridges",
+4
+]
+],
+"clash": []
+},
+"Karakum": {
+"also": [
+[
+"straits and canals",
+4
+]
+],
+"clash": [
+"famous deserts"
+]
+},
+"Saimaa": {
+"also": [
+[
+"straits and canals",
+4
+]
+],
+"clash": [
+"famous lakes"
+]
+},
+"Dismal Swamp": {
+"also": [
+[
+"straits and canals",
+4
+]
+],
+"clash": [
+"wetlands"
+]
+},
+"Union Canal": {
+"also": [
+[
+"straits and canals",
+4
+]
+],
+"clash": []
+},
+"Albert Canal": {
+"also": [
+[
+"straits and canals",
+4
+]
+],
+"clash": []
+},
+"Rhine-Main-Danube": {
+"also": [
+[
+"straits and canals",
+4
+]
+],
+"clash": [
+"european rivers"
+]
+},
+"Canal Saint-Martin": {
+"also": [
+[
+"straits and canals",
+4
+]
+],
+"clash": [
+"paris landmarks"
+]
+},
+"port": {
+"also": [
+[
+"ports and harbors",
+1
+],
+[
+"wines",
+2
+],
+[
+"computer parts",
+2
+],
+[
+"networking",
+3
+]
+],
+"clash": [
+"port cities",
+"homographs",
+"sailing words"
+]
+},
+"starboard": {
+"also": [
+[
+"___board",
+3
+],
+[
+"star___",
+2
+]
+],
+"clash": [
+"sailing words"
+]
+},
+"bow": {
+"also": [
+[
+"ship parts",
+1
+],
+[
+"archery terms",
+1
+],
+[
+"historic weapons",
+1
+],
+[
+"medieval weapons",
+2
+],
+[
+"gestures",
+1
+],
+[
+"hair accessories",
+1
+],
+[
+"homographs",
+2
+],
+[
+"instrument parts",
+2
+]
+],
+"clash": [
+"bowed instruments",
+"manners and etiquette",
+"body actions",
+"sailing words"
+]
+},
+"stern": {
+"also": [
+[
+"ship parts",
+1
+]
+],
+"clash": [
+"negative traits",
+"angry words",
+"personality traits"
+]
+},
+"aft": {
+"also": [],
+"clash": [
+"plane parts",
+"ship parts"
+]
+},
+"fore": {
+"also": [
+[
+"golf terms",
+2
+],
+[
+"sounds like a number",
+2
+],
+[
+"homophones",
+2
+]
+],
+"clash": []
+},
+"forward": {
+"also": [
+[
+"soccer positions",
+1
+],
+[
+"basketball terms",
+2
+],
+[
+"rugby terms",
+2
+],
+[
+"ice hockey terms",
+2
+],
+[
+"mail words",
+2
+]
+],
+"clash": [
+"giving directions"
+]
+},
+"ahead": {
+"also": [],
+"clash": [
+"giving directions"
+]
+},
+"below": {
+"also": [
+[
+"prepositions",
+1
+]
+],
+"clash": []
+},
+"overboard": {
+"also": [],
+"clash": [
+"pirate words",
+"cruise words"
+]
+},
+"leeward": {
+"also": [],
+"clash": [
+"sailing words",
+"wind words",
+"caribbean islands"
+]
+},
+"windward": {
+"also": [],
+"clash": [
+"sailing words",
+"wind words",
+"caribbean islands"
+]
+},
+"lee": {
+"also": [
+[
+"unisex names",
+2
+],
+[
+"chinese surnames",
+2
+],
+[
+"famous generals",
+2
+]
+],
+"clash": [
+"wind words",
+"sailing words"
+]
+},
+"aloft": {
+"also": [],
+"clash": [
+"sailing words"
+]
+},
+"outboard": {
+"also": [],
+"clash": [
+"engines",
+"small boats"
+]
+},
+"upwind": {
+"also": [],
+"clash": [
+"sailing words",
+"wind words"
+]
+},
+"downwind": {
+"also": [],
+"clash": [
+"sailing words",
+"wind words"
+]
+},
+"alongside": {
+"also": [
+[
+"prepositions",
+2
+]
+],
+"clash": []
+},
+"broadside": {
+"also": [
+[
+"navy words",
+3
+]
+],
+"clash": [
+"pirate words",
+"war words"
+]
+},
+"seaward": {
+"also": [
+[
+"sea___",
+2
+]
+],
+"clash": []
+},
+"dead ahead": {
+"also": [],
+"clash": [
+"giving directions"
+]
+},
+"abreast": {
+"also": [],
+"clash": [
+"hidden body parts"
+]
+},
+"abeam": {
+"also": [],
+"clash": [
+"sailing words"
+]
+},
+"astern": {
+"also": [],
+"clash": [
+"sailing words"
+]
+},
+"captain": {
+"also": [
+[
+"pirate crew",
+1
+],
+[
+"military ranks",
+1
+],
+[
+"flight crew",
+1
+],
+[
+"words for leader",
+1
+]
+],
+"clash": [
+"sports officials",
+"cruise words"
+]
+},
+"first mate": {
+"also": [
+[
+"pirate crew",
+1
+]
+],
+"clash": [
+"relationships"
+]
+},
+"sailor": {
+"also": [
+[
+"navy words",
+1
+]
+],
+"clash": [
+"hats",
+"kinds of travelers"
+]
+},
+"skipper": {
+"also": [
+[
+"words for leader",
+2
+],
+[
+"butterflies and moths",
+4
+],
+[
+"pirate crew",
+2
+]
+],
+"clash": []
+},
+"deckhand": {
+"also": [
+[
+"pirate crew",
+2
+]
+],
+"clash": []
+},
+"bosun": {
+"also": [
+[
+"pirate crew",
+2
+]
+],
+"clash": []
+},
+"purser": {
+"also": [
+[
+"flight crew",
+3
+],
+[
+"cruise words",
+3
+]
+],
+"clash": []
+},
+"helmsman": {
+"also": [
+[
+"pirate crew",
+2
+]
+],
+"clash": []
+},
+"navigator": {
+"also": [
+[
+"flight crew",
+3
+]
+],
+"clash": [
+"explorers",
+"pirate crew"
+]
+},
+"cook": {
+"also": [
+[
+"food jobs",
+1
+],
+[
+"pirate crew",
+2
+],
+[
+"explorers",
+1
+],
+[
+"kitchen brigade",
+2
+],
+[
+"surnames that are jobs",
+2
+]
+],
+"clash": [
+"cooking methods"
+]
+},
+"steward": {
+"also": [
+[
+"flight crew",
+2
+]
+],
+"clash": [
+"cruise words",
+"hotel staff"
+]
+},
+"stewardess": {
+"also": [
+[
+"flight crew",
+1
+]
+],
+"clash": [
+"cruise words"
+]
+},
+"engineer": {
+"also": [
+[
+"science jobs",
+2
+],
+[
+"tech jobs",
+2
+]
+],
+"clash": [
+"trades"
+]
+},
+"cabin boy": {
+"also": [
+[
+"pirate crew",
+2
+]
+],
+"clash": []
+},
+"lookout": {
+"also": [
+[
+"pirate crew",
+2
+]
+],
+"clash": [
+"army words"
+]
+},
+"mate": {
+"also": [
+[
+"words for friend",
+1
+],
+[
+"british slang",
+1
+],
+[
+"australian slang",
+1
+],
+[
+"chess terms",
+2
+],
+[
+"pirate crew",
+1
+]
+],
+"clash": []
+},
+"first officer": {
+"also": [
+[
+"flight crew",
+2
+]
+],
+"clash": []
+},
+"seaman": {
+"also": [
+[
+"navy words",
+1
+],
+[
+"military ranks",
+2
+],
+[
+"pirate crew",
+2
+]
+],
+"clash": []
+},
+"mariner": {
+"also": [],
+"clash": [
+"mlb teams",
+"kinds of travelers"
+]
+},
+"crewman": {
+"also": [],
+"clash": [
+"flight crew"
+]
+},
+"boatswain": {
+"also": [
+[
+"pirate crew",
+3
+]
+],
+"clash": []
+},
+"quartermaster": {
+"also": [
+[
+"pirate crew",
+2
+],
+[
+"military ranks",
+2
+]
+],
+"clash": [
+"army words"
+]
+},
+"coxswain": {
+"also": [
+[
+"rowing words",
+2
+]
+],
+"clash": []
+},
+"able seaman": {
+"also": [
+[
+"military ranks",
+3
+],
+[
+"navy words",
+3
+]
+],
+"clash": []
+},
+"carpenter": {
+"also": [
+[
+"trades",
+1
+],
+[
+"surnames that are jobs",
+1
+],
+[
+"woodworking words",
+2
+],
+[
+"pirate crew",
+3
+]
+],
+"clash": []
+},
+"surgeon": {
+"also": [
+[
+"medical jobs",
+1
+],
+[
+"operating room",
+1
+],
+[
+"hospital",
+1
+]
+],
+"clash": [
+"pirate crew"
+]
+},
+"gunner": {
+"also": [
+[
+"pirate crew",
+2
+],
+[
+"military ranks",
+2
+]
+],
+"clash": [
+"soldiers of history",
+"air force words"
+]
+},
+"midshipman": {
+"also": [
+[
+"navy words",
+2
+],
+[
+"military ranks",
+2
+]
+],
+"clash": []
+},
+"stoker": {
+"also": [
+[
+"old-time jobs",
+3
+]
+],
+"clash": [
+"fireplace words"
+]
+},
+"oarsman": {
+"also": [
+[
+"rowing words",
+2
+]
+],
+"clash": []
+},
+"ordinary seaman": {
+"also": [
+[
+"military ranks",
+3
+]
+],
+"clash": []
+},
+"radio officer": {
+"also": [],
+"clash": [
+"radio words"
+]
+},
+"sailmaker": {
+"also": [
+[
+"old-time jobs",
+3
+],
+[
+"pirate crew",
+3
+]
+],
+"clash": []
+},
+"powder monkey": {
+"also": [
+[
+"pirate crew",
+3
+]
+],
+"clash": [
+"monkeys"
+]
+},
+"yeoman": {
+"also": [
+[
+"feudal ranks",
+3
+],
+[
+"medieval jobs",
+3
+],
+[
+"navy words",
+3
+]
+],
+"clash": []
+},
+"oiler": {
+"also": [],
+"clash": [
+"nhl teams"
+]
+},
+"wiper": {
+"also": [],
+"clash": [
+"car parts"
+]
+},
+"bosun's mate": {
+"also": [
+[
+"pirate crew",
+3
+]
+],
+"clash": []
+},
+"ship's doctor": {
+"also": [
+[
+"pirate crew",
+3
+]
+],
+"clash": []
+},
+"master-at-arms": {
+"also": [
+[
+"navy words",
+3
+]
+],
+"clash": [
+"medieval jobs"
+]
+},
+"chief engineer": {
+"also": [],
+"clash": [
+"tech jobs"
+]
+},
+"rigger": {
+"also": [],
+"clash": [
+"trades"
+]
+},
+"freight train": {
+"also": [],
+"clash": [
+"long things",
+"heavy things"
+]
+},
+"bullet train": {
+"also": [
+[
+"japanese inventions",
+2
+],
+[
+"asian transport",
+2
+],
+[
+"fast things",
+1
+]
+],
+"clash": [
+"high-speed trains"
+]
+},
+"steam train": {
+"also": [],
+"clash": [
+"industrial revolution",
+"engines"
+]
+},
+"subway": {
+"also": [
+[
+"public transportation",
+1
+],
+[
+"commuting words",
+1
+]
+],
+"clash": [
+"metro systems",
+"fast food"
+]
+},
+"tram": {
+"also": [
+[
+"public transportation",
+1
+]
+],
+"clash": [
+"cable cars and lifts"
+]
+},
+"monorail": {
+"also": [
+[
+"public transportation",
+2
+],
+[
+"theme park words",
+2
+]
+],
+"clash": []
+},
+"metro": {
+"also": [
+[
+"public transportation",
+1
+],
+[
+"commuting words",
+2
+]
+],
+"clash": [
+"metro systems"
+]
+},
+"streetcar": {
+"also": [
+[
+"public transportation",
+2
+]
+],
+"clash": []
+},
+"trolley": {
+"also": [
+[
+"public transportation",
+2
+],
+[
+"supermarket",
+1
+],
+[
+"british english words",
+2
+]
+],
+"clash": [
+"airport words"
+]
+},
+"light rail": {
+"also": [
+[
+"public transportation",
+2
+]
+],
+"clash": []
+},
+"commuter train": {
+"also": [
+[
+"public transportation",
+2
+],
+[
+"commuting words",
+1
+]
+],
+"clash": []
+},
+"sleeper train": {
+"also": [
+[
+"european rail",
+2
+]
+],
+"clash": []
+},
+"night train": {
+"also": [
+[
+"european rail",
+2
+]
+],
+"clash": []
+},
+"cable car": {
+"also": [
+[
+"cable cars and lifts",
+1
+],
+[
+"ski trip",
+2
+],
+[
+"ski resort",
+2
+],
+[
+"public transportation",
+2
+]
+],
+"clash": []
+},
+"diesel train": {
+"also": [],
+"clash": [
+"engines"
+]
+},
+"electric train": {
+"also": [
+[
+"toys",
+2
+]
+],
+"clash": []
+},
+"model train": {
+"also": [
+[
+"model making",
+1
+],
+[
+"toys",
+1
+],
+[
+"collecting hobbies",
+3
+]
+],
+"clash": []
+},
+"toy train": {
+"also": [
+[
+"toys",
+1
+]
+],
+"clash": []
+},
+"high-speed train": {
+"also": [
+[
+"fast things",
+2
+],
+[
+"european rail",
+2
+]
+],
+"clash": []
+},
+"maglev": {
+"also": [
+[
+"fast things",
+2
+]
+],
+"clash": [
+"magnet words",
+"chinese inventions"
+]
+},
+"funicular": {
+"also": [
+[
+"cable cars and lifts",
+2
+]
+],
+"clash": [
+"public transportation"
+]
+},
+"cog railway": {
+"also": [],
+"clash": [
+"cable cars and lifts"
+]
+},
+"mail train": {
+"also": [],
+"clash": [
+"mail words",
+"old ways to communicate"
+]
+},
+"troop train": {
+"also": [],
+"clash": [
+"military vehicles"
+]
+},
+"ghost train": {
+"also": [
+[
+"fairground rides",
+1
+],
+[
+"theme park words",
+2
+]
+],
+"clash": [
+"halloween",
+"ghosts and spirits"
+]
+},
+"coal train": {
+"also": [],
+"clash": [
+"mining words"
+]
+},
+"intercity": {
+"also": [],
+"clash": [
+"european rail"
+]
+},
+"double-decker": {
+"also": [
+[
+"bus types",
+1
+]
+],
+"clash": [
+"sandwiches",
+"london landmarks"
+]
+},
+"rack railway": {
+"also": [],
+"clash": [
+"cable cars and lifts"
+]
+},
+"armored train": {
+"also": [],
+"clash": [
+"military vehicles"
+]
+},
+"people mover": {
+"also": [
+[
+"airport words",
+3
+]
+],
+"clash": [
+"public transportation"
+]
+},
+"miniature railway": {
+"also": [],
+"clash": [
+"theme park words",
+"model making",
+"toys"
+]
+},
+"mine train": {
+"also": [
+[
+"fairground rides",
+3
+]
+],
+"clash": [
+"mining words"
+]
+},
+"railbus": {
+"also": [],
+"clash": [
+"bus types"
+]
+},
+"tram-train": {
+"also": [],
+"clash": [
+"public transportation"
+]
+},
+"locomotive": {
+"also": [],
+"clash": [
+"engines"
+]
+},
+"engine": {
+"also": [
+[
+"car parts",
+1
+],
+[
+"plane parts",
+1
+]
+],
+"clash": [
+"engines",
+"emergency vehicles",
+"internet words"
+]
+},
+"carriage": {
+"also": [
+[
+"horse-drawn vehicles",
+1
+],
+[
+"baby gear",
+2
+]
+],
+"clash": [
+"retro tech"
+]
+},
+"car": {
+"also": [
+[
+"things with wheels",
+1
+]
+],
+"clash": [
+"cars",
+"car types"
+]
+},
+"wheel": {
+"also": [
+[
+"car parts",
+1
+],
+[
+"things that roll",
+1
+],
+[
+"things that spin",
+1
+],
+[
+"round things",
+1
+],
+[
+"pottery words",
+2
+],
+[
+"simple machines",
+1
+],
+[
+"inventions",
+2
+]
+],
+"clash": [
+"fairground rides",
+"casino games"
+]
+},
+"coach": {
+"also": [
+[
+"bus types",
+1
+],
+[
+"horse-drawn vehicles",
+1
+]
+],
+"clash": [
+"sports officials",
+"in-flight words",
+"school staff"
+]
+},
+"axle": {
+"also": [
+[
+"car parts",
+1
+]
+],
+"clash": [
+"simple machines",
+"figure skating moves"
+]
+},
+"whistle": {
+"also": [
+[
+"sports equipment",
+2
+],
+[
+"loud things",
+2
+],
+[
+"emergency supplies",
+2
+]
+],
+"clash": [
+"police words",
+"sports officials",
+"machine sounds"
+]
+},
+"horn": {
+"also": [
+[
+"animal body parts",
+1
+],
+[
+"brass instruments",
+1
+],
+[
+"car parts",
+1
+],
+[
+"loud things",
+2
+]
+],
+"clash": [
+"animals with horns",
+"dashboard items"
+]
+},
+"cab": {
+"also": [
+[
+"taxis of the world",
+1
+],
+[
+"truck types",
+3
+]
+],
+"clash": [
+"red wines",
+"driving words"
+]
+},
+"smokestack": {
+"also": [
+[
+"factory",
+2
+]
+],
+"clash": [
+"industrial buildings",
+"ship parts"
+]
+},
+"boiler": {
+"also": [
+[
+"heating and cooling",
+1
+]
+],
+"clash": [
+"appliances",
+"fireplace words"
+]
+},
+"dining car": {
+"also": [],
+"clash": [
+"restaurant"
+]
+},
+"compartment": {
+"also": [],
+"clash": [
+"car parts"
+]
+},
+"firebox": {
+"also": [],
+"clash": [
+"fireplace words"
+]
+},
+"cowcatcher": {
+"also": [],
+"clash": [
+"cowboy words"
+]
+},
+"tender": {
+"also": [
+[
+"small boats",
+4
+]
+],
+"clash": [
+"love words",
+"money words"
+]
+},
+"coupling": {
+"also": [],
+"clash": [
+"relationships"
+]
+},
+"buffer": {
+"also": [],
+"clash": [
+"coding words"
+]
+},
+"piston": {
+"also": [
+[
+"car parts",
+2
+]
+],
+"clash": [
+"engines",
+"nba teams"
+]
+},
+"sleeping car": {
+"also": [],
+"clash": [
+"european rail"
+]
+},
+"berth": {
+"also": [
+[
+"ports and harbors",
+2
+],
+[
+"cruise words",
+2
+],
+[
+"homophones",
+2
+]
+],
+"clash": [
+"beds"
+]
+},
+"luggage rack": {
+"also": [
+[
+"on a bus",
+2
+]
+],
+"clash": [
+"car parts"
+]
+},
+"headlight": {
+"also": [
+[
+"car parts",
+1
+]
+],
+"clash": [
+"bicycle parts"
+]
+},
+"bell": {
+"also": [
+[
+"church parts",
+1
+],
+[
+"christmas",
+2
+],
+[
+"percussion instruments",
+2
+],
+[
+"inventors",
+1
+]
+],
+"clash": [
+"tent types",
+"hotel",
+"classroom items"
+]
+},
+"throttle": {
+"also": [],
+"clash": [
+"car parts",
+"plane parts"
+]
+},
+"bogie": {
+"also": [],
+"clash": [
+"golf terms",
+"ghosts and spirits"
+]
+},
+"pantograph": {
+"also": [],
+"clash": [
+"math tools",
+"drawing techniques"
+]
+},
+"connecting rod": {
+"also": [],
+"clash": [
+"car parts",
+"engines"
+]
+},
+"stock car": {
+"also": [
+[
+"motor racing",
+2
+]
+],
+"clash": [
+"car types"
+]
+},
+"mail car": {
+"also": [],
+"clash": [
+"mail words"
+]
+},
+"couchette": {
+"also": [
+[
+"european rail",
+2
+]
+],
+"clash": []
+},
+"vestibule": {
+"also": [
+[
+"parts of a house",
+3
+]
+],
+"clash": [
+"church parts"
+]
+},
+"gangway": {
+"also": [
+[
+"ship parts",
+2
+]
+],
+"clash": [
+"ports and harbors",
+"theater building parts"
+]
+},
+"cylinder": {
+"also": [
+[
+"3d shapes",
+1
+]
+],
+"clash": [
+"car parts",
+"engines",
+"containers"
+]
+},
+"sandbox": {
+"also": [
+[
+"playground",
+1
+],
+[
+"video game genres",
+3
+]
+],
+"clash": [
+"software words"
+]
+},
+"regulator": {
+"also": [
+[
+"scuba words",
+3
+]
+],
+"clash": []
+},
+"gondola car": {
+"also": [],
+"clash": [
+"traditional boats",
+"cable cars and lifts"
+]
+},
+"driving wheel": {
+"also": [],
+"clash": [
+"car parts"
+]
+},
+"driver's cab": {
+"also": [],
+"clash": [
+"truck types"
+]
+},
+"flange": {
+"also": [],
+"clash": [
+"plumbing words"
+]
+},
+"caboose": {
+"also": [],
+"clash": [
+"long things"
+]
+},
+"track": {
+"also": [
+[
+"track events",
+2
+],
+[
+"sports venues",
+2
+],
+[
+"recording studio words",
+2
+]
+],
+"clash": [
+"hunting words",
+"trail words",
+"running words"
+]
+},
+"rail": {
+"also": [],
+"clash": [
+"staircase parts",
+"bathroom",
+"skateboard tricks"
+]
+},
+"railroad crossing": {
+"also": [
+[
+"road signs",
+2
+]
+],
+"clash": []
+},
+"level crossing": {
+"also": [
+[
+"road signs",
+2
+]
+],
+"clash": []
+},
+"grade crossing": {
+"also": [
+[
+"road signs",
+3
+]
+],
+"clash": []
+},
+"choo-choo": {
+"also": [
+[
+"onomatopoeia",
+1
+],
+[
+"baby talk",
+1
+],
+[
+"machine sounds",
+2
+]
+],
+"clash": []
+},
+"all aboard": {
+"also": [],
+"clash": [
+"cruise words",
+"pirate words"
+]
+},
+"signal": {
+"also": [
+[
+"phone words",
+2
+]
+],
+"clash": [
+"codes and signals",
+"networking",
+"traffic words"
+]
+},
+"junction": {
+"also": [],
+"clash": [
+"road types",
+"parts of a road",
+"giving directions"
+]
+},
+"tunnel": {
+"also": [],
+"clash": [
+"tent types",
+"road types",
+"mining words",
+"playground"
+]
+},
+"steam": {
+"also": [
+[
+"engines",
+2
+],
+[
+"cooking methods",
+1
+],
+[
+"turkish bath",
+2
+],
+[
+"spa",
+2
+],
+[
+"hot things",
+2
+]
+],
+"clash": [
+"gases",
+"states of matter",
+"water cycle words",
+"geothermal words"
+]
+},
+"coal": {
+"also": [
+[
+"fossil fuels",
+1
+],
+[
+"fuels",
+1
+],
+[
+"black things",
+1
+],
+[
+"mining words",
+1
+],
+[
+"fireplace words",
+2
+]
+],
+"clash": [
+"christmas",
+"sedimentary rocks",
+"rock types"
+]
+},
+"sleeper": {
+"also": [
+[
+"european rail",
+2
+],
+[
+"spy words",
+3
+]
+],
+"clash": [
+"sleep words"
+]
+},
+"tie": {
+"also": [
+[
+"neckwear",
+1
+],
+[
+"scoring words",
+1
+]
+],
+"clash": [
+"tournament words",
+"knots",
+"cords and strings"
+]
+},
+"switch": {
+"also": [
+[
+"electrical fittings",
+1
+],
+[
+"gaming hardware",
+2
+]
+],
+"clash": [
+"electricity words"
+]
+},
+"siding": {
+"also": [
+[
+"building materials",
+2
+]
+],
+"clash": [
+"parts of a house"
+]
+},
+"gauge": {
+"also": [
+[
+"measuring instruments",
+2
+]
+],
+"clash": [
+"dashboard items",
+"knitting words"
+]
+},
+"viaduct": {
+"also": [
+[
+"bridge types",
+2
+]
+],
+"clash": []
+},
+"trestle": {
+"also": [
+[
+"bridge types",
+3
+]
+],
+"clash": [
+"tables and desks"
+]
+},
+"embankment": {
+"also": [],
+"clash": [
+"london landmarks",
+"river features"
+]
+},
+"ballast": {
+"also": [],
+"clash": [
+"ship parts",
+"sailing words"
+]
+},
+"spur": {
+"also": [
+[
+"cowboy words",
+1
+],
+[
+"horse tack",
+2
+]
+],
+"clash": [
+"mountain features",
+"nba teams",
+"european soccer clubs"
+]
+},
+"turntable": {
+"also": [
+[
+"audio gear",
+2
+],
+[
+"retro tech",
+2
+]
+],
+"clash": []
+},
+"roundhouse": {
+"also": [],
+"clash": [
+"martial arts",
+"karate words"
+]
+},
+"spike": {
+"also": [
+[
+"volleyball terms",
+1
+]
+],
+"clash": [
+"prickly things",
+"hairstyles"
+]
+},
+"whistle stop": {
+"also": [
+[
+"election words",
+3
+]
+],
+"clash": []
+},
+"points": {
+"also": [],
+"clash": [
+"scoring words"
+]
+},
+"cutting": {
+"also": [],
+"clash": [
+"plant biology",
+"ways to cut food",
+"gardening verbs"
+]
+},
+"semaphore": {
+"also": [
+[
+"codes and signals",
+2
+],
+[
+"old ways to communicate",
+2
+]
+],
+"clash": [
+"flag words"
+]
+},
+"gradient": {
+"also": [],
+"clash": [
+"math terms",
+"color theory words"
+]
+},
+"switchback": {
+"also": [
+[
+"trail words",
+2
+]
+],
+"clash": [
+"road types",
+"fairground rides"
+]
+},
+"single track": {
+"also": [],
+"clash": [
+"road types"
+]
+},
+"catenary": {
+"also": [],
+"clash": [
+"curves and spirals",
+"math terms"
+]
+},
+"wye": {
+"also": [
+[
+"sounds like a letter",
+2
+],
+[
+"homophones",
+3
+]
+],
+"clash": []
+},
+"frog": {
+"also": [
+[
+"frogs and toads",
+1
+],
+[
+"parts of a horse",
+4
+]
+],
+"clash": []
+},
+"dead man's switch": {
+"also": [],
+"clash": [
+"pirate words"
+]
+},
+"rail yard": {
+"also": [],
+"clash": [
+"industrial buildings"
+]
+},
+"signal box": {
+"also": [],
+"clash": [
+"codes and signals"
+]
+},
+"platform": {
+"also": [
+[
+"shoes",
+2
+],
+[
+"diving terms",
+2
+],
+[
+"airport words",
+3
+]
+],
+"clash": [
+"social media words",
+"election words",
+"parts of a stage"
+]
+},
+"ticket": {
+"also": [
+[
+"ticket words",
+1
+],
+[
+"movie theater words",
+1
+],
+[
+"concert words",
+1
+],
+[
+"lottery words",
+2
+],
+[
+"parking words",
+2
+]
+],
+"clash": [
+"police words"
+]
+},
+"ticket office": {
+"also": [
+[
+"ticket words",
+2
+]
+],
+"clash": [
+"movie theater words"
+]
+},
+"timetable": {
+"also": [],
+"clash": [
+"clocks and calendars",
+"school"
+]
+},
+"departures": {
+"also": [
+[
+"airport words",
+1
+]
+],
+"clash": []
+},
+"arrivals": {
+"also": [
+[
+"airport words",
+1
+]
+],
+"clash": []
+},
+"waiting room": {
+"also": [
+[
+"doctor's office",
+1
+],
+[
+"airport words",
+2
+]
+],
+"clash": [
+"hospital"
+]
+},
+"schedule": {
+"also": [],
+"clash": [
+"clocks and calendars",
+"workplace words"
+]
+},
+"departure board": {
+"also": [
+[
+"airport words",
+2
+]
+],
+"clash": []
+},
+"turnstile": {
+"also": [
+[
+"commuting words",
+2
+]
+],
+"clash": [
+"sports venues"
+]
+},
+"ticket machine": {
+"also": [
+[
+"ticket words",
+2
+]
+],
+"clash": [
+"parking words"
+]
+},
+"announcement": {
+"also": [],
+"clash": [
+"airport words"
+]
+},
+"delay": {
+"also": [
+[
+"airport words",
+1
+],
+[
+"commuting words",
+1
+]
+],
+"clash": []
+},
+"terminal": {
+"also": [
+[
+"airport words",
+1
+]
+],
+"clash": [
+"computer parts",
+"electronic parts"
+]
+},
+"luggage": {
+"also": [
+[
+"airport words",
+1
+],
+[
+"luggage",
+1
+]
+],
+"clash": [
+"hotel"
+]
+},
+"return ticket": {
+"also": [
+[
+"ticket words",
+1
+]
+],
+"clash": []
+},
+"round trip": {
+"also": [
+[
+"ticket words",
+1
+]
+],
+"clash": []
+},
+"one-way": {
+"also": [
+[
+"ticket words",
+1
+],
+[
+"road signs",
+2
+]
+],
+"clash": [
+"traffic words"
+]
+},
+"fare": {
+"also": [
+[
+"ticket words",
+1
+],
+[
+"on a bus",
+1
+],
+[
+"commuting words",
+2
+],
+[
+"homophones",
+2
+]
+],
+"clash": [
+"taxis of the world"
+]
+},
+"concourse": {
+"also": [
+[
+"airport words",
+2
+]
+],
+"clash": []
+},
+"ticket barrier": {
+"also": [
+[
+"ticket words",
+3
+],
+[
+"commuting words",
+3
+]
+],
+"clash": []
+},
+"cancellation": {
+"also": [
+[
+"airport words",
+2
+]
+],
+"clash": []
+},
+"connection": {
+"also": [
+[
+"airport words",
+2
+]
+],
+"clash": [
+"internet words",
+"networking"
+]
+},
+"transfer": {
+"also": [
+[
+"airport words",
+2
+],
+[
+"soccer terms",
+2
+],
+[
+"banking words",
+2
+]
+],
+"clash": []
+},
+"terminus": {
+"also": [],
+"clash": [
+"on a bus"
+]
+},
+"luggage trolley": {
+"also": [
+[
+"airport words",
+2
+]
+],
+"clash": []
+},
+"lost property": {
+"also": [],
+"clash": [
+"british english words",
+"airport words"
+]
+},
+"information desk": {
+"also": [
+[
+"airport words",
+2
+]
+],
+"clash": [
+"museum"
+]
+},
+"kiosk": {
+"also": [
+[
+"shops",
+2
+]
+],
+"clash": [
+"street furniture",
+"street market"
+]
+},
+"newsstand": {
+"also": [
+[
+"newspaper words",
+2
+],
+[
+"shops",
+2
+]
+],
+"clash": []
+},
+"footbridge": {
+"also": [
+[
+"bridge types",
+2
+]
+],
+"clash": []
+},
+"underpass": {
+"also": [],
+"clash": [
+"road types",
+"parts of a road"
+]
+},
+"escalator": {
+"also": [
+[
+"airport words",
+2
+]
+],
+"clash": [
+"shopping words"
+]
+},
+"station clock": {
+"also": [],
+"clash": [
+"clock types"
+]
+},
+"bench": {
+"also": [
+[
+"seating",
+1
+],
+[
+"garden furniture",
+1
+],
+[
+"street furniture",
+1
+],
+[
+"gym equipment",
+2
+],
+[
+"courtroom words",
+3
+]
+],
+"clash": [
+"woodworking words"
+]
+},
+"single ticket": {
+"also": [
+[
+"ticket words",
+2
+]
+],
+"clash": []
+},
+"season ticket": {
+"also": [
+[
+"ticket words",
+2
+]
+],
+"clash": [
+"soccer terms"
+]
+},
+"canopy": {
+"also": [
+[
+"woodland features",
+2
+],
+[
+"rainforest",
+2
+]
+],
+"clash": [
+"beds",
+"forest types"
+]
+},
+"railcard": {
+"also": [
+[
+"ticket words",
+3
+]
+],
+"clash": [
+"european rail"
+]
+},
+"lost and found": {
+"also": [],
+"clash": [
+"airport words",
+"school"
+]
+},
+"park and ride": {
+"also": [
+[
+"parking words",
+2
+],
+[
+"commuting words",
+2
+]
+],
+"clash": []
+},
+"left luggage": {
+"also": [],
+"clash": [
+"airport words"
+]
+},
+"barrier": {
+"also": [],
+"clash": [
+"police words"
+]
+},
+"mind the gap": {
+"also": [],
+"clash": [
+"london landmarks",
+"commuting words"
+]
+},
+"Orient Express": {
+"also": [
+[
+"european rail",
+1
+]
+],
+"clash": [
+"classic novels"
+]
+},
+"Trans-Siberian": {
+"also": [],
+"clash": [
+"european rail"
+]
+},
+"Glacier Express": {
+"also": [],
+"clash": [
+"european rail"
+]
+},
+"Bernina Express": {
+"also": [],
+"clash": [
+"european rail"
+]
+},
+"Blue Train": {
+"also": [],
+"clash": [
+"blue things"
+]
+},
+"Ghan": {
+"also": [
+[
+"outback travel",
+2
+]
+],
+"clash": []
+},
+"Indian Pacific": {
+"also": [],
+"clash": [
+"outback travel",
+"oceans and seas"
+]
+},
+"Rocky Mountaineer": {
+"also": [],
+"clash": [
+"mountain ranges"
+]
+},
+"Royal Scotsman": {
+"also": [],
+"clash": [
+"famous locomotives"
+]
+},
+"Hiawatha": {
+"also": [],
+"clash": [
+"native american folklore"
+]
+},
+"Royal Train": {
+"also": [
+[
+"royal things",
+3
+]
+],
+"clash": []
+},
+"City of New Orleans": {
+"also": [],
+"clash": [
+"american cities"
+]
+},
+"Silver Meteor": {
+"also": [],
+"clash": [
+"space rocks"
+]
+},
+"Broadway Limited": {
+"also": [],
+"clash": [
+"famous streets"
+]
+},
+"Cornish Riviera": {
+"also": [],
+"clash": [
+"european holiday regions"
+]
+},
+"Golden Eagle": {
+"also": [],
+"clash": [
+"eagles"
+]
+},
+"Al Andalus": {
+"also": [],
+"clash": [
+"spanish regions"
+]
+},
+"Rheingold": {
+"also": [
+[
+"famous operas",
+3
+]
+],
+"clash": []
+},
+"Mistral": {
+"also": [
+[
+"named winds",
+2
+]
+],
+"clash": []
+},
+"Coronation Scot": {
+"also": [],
+"clash": [
+"famous locomotives"
+]
+},
+"Flying Scotsman": {
+"also": [],
+"clash": [
+"famous trains"
+]
+},
+"Eurostar": {
+"also": [
+[
+"european rail",
+1
+]
+],
+"clash": []
+},
+"Shinkansen": {
+"also": [
+[
+"japanese inventions",
+3
+],
+[
+"asian transport",
+2
+]
+],
+"clash": []
+},
+"TGV": {
+"also": [
+[
+"european rail",
+2
+]
+],
+"clash": []
+},
+"ICE": {
+"also": [],
+"clash": [
+"ice words",
+"cold things",
+"snow and ice"
+]
+},
+"AVE": {
+"also": [],
+"clash": [
+"latin phrases",
+"road types"
+]
+},
+"Thalys": {
+"also": [
+[
+"european rail",
+3
+]
+],
+"clash": []
+},
+"Pendolino": {
+"also": [],
+"clash": [
+"european rail"
+]
+},
+"Shanghai Maglev": {
+"also": [],
+"clash": [
+"chinese landmarks"
+]
+},
+"Hikari": {
+"also": [],
+"clash": [
+"japanese names"
+]
+},
+"Nozomi": {
+"also": [],
+"clash": [
+"japanese names"
+]
+},
+"Kodama": {
+"also": [
+[
+"yokai",
+3
+]
+],
+"clash": []
+},
+"Hayabusa": {
+"also": [
+[
+"space missions",
+3
+]
+],
+"clash": [
+"birds of prey"
+]
+},
+"Komachi": {
+"also": [],
+"clash": [
+"japanese names"
+]
+},
+"Mizuho": {
+"also": [],
+"clash": [
+"japanese names"
+]
+},
+"Javelin": {
+"also": [
+[
+"field events",
+1
+],
+[
+"historic weapons",
+2
+]
+],
+"clash": []
+},
+"Al Boraq": {
+"also": [],
+"clash": [
+"mythical creatures"
+]
+},
+"Whoosh": {
+"also": [
+[
+"onomatopoeia",
+1
+]
+],
+"clash": [
+"wind words"
+]
+},
+"Zefiro": {
+"also": [],
+"clash": [
+"named winds"
+]
+},
+"Mallard": {
+"also": [
+[
+"ducks",
+1
+]
+],
+"clash": []
+},
+"Rocket": {
+"also": [
+[
+"space vehicles",
+1
+],
+[
+"fast things",
+1
+],
+[
+"things that fly",
+2
+]
+],
+"clash": [
+"spaceflight words"
+]
+},
+"Big Boy": {
+"also": [],
+"clash": [
+"fast food"
+]
+},
+"Locomotion": {
+"also": [],
+"clash": [
+"dances",
+"motion verbs"
+]
+},
+"Tom Thumb": {
+"also": [
+[
+"fairy tale characters",
+2
+]
+],
+"clash": [
+"tiny things"
+]
+},
+"General": {
+"also": [
+[
+"military ranks",
+1
+]
+],
+"clash": [
+"words for leader"
+]
+},
+"Texas": {
+"also": [
+[
+"us states",
+1
+]
+],
+"clash": []
+},
+"John Bull": {
+"also": [],
+"clash": [
+"national symbols"
+]
+},
+"Tornado": {
+"also": [
+[
+"storms",
+1
+],
+[
+"natural disasters",
+1
+],
+[
+"wind words",
+1
+]
+],
+"clash": []
+},
+"Evening Star": {
+"also": [],
+"clash": [
+"stars",
+"times of day"
+]
+},
+"Challenger": {
+"also": [
+[
+"space vehicles",
+2
+],
+[
+"famous car models",
+3
+]
+],
+"clash": []
+},
+"Jupiter": {
+"also": [
+[
+"planets",
+1
+],
+[
+"roman gods",
+1
+]
+],
+"clash": []
+},
+"Princess Elizabeth": {
+"also": [],
+"clash": [
+"famous queens",
+"english monarchs"
+]
+},
+"Caerphilly Castle": {
+"also": [],
+"clash": [
+"cheeses",
+"famous castles"
+]
+},
+"Duchess of Hamilton": {
+"also": [],
+"clash": [
+"royal titles"
+]
+},
+"Stephenson's Rocket": {
+"also": [
+[
+"inventions",
+3
+],
+[
+"industrial revolution",
+3
+]
+],
+"clash": []
+},
+"Puffing Billy": {
+"also": [],
+"clash": [
+"industrial revolution"
+]
+},
+"Novelty": {
+"also": [],
+"clash": [
+"party supplies"
+]
+},
+"Blue Peter": {
+"also": [],
+"clash": [
+"flag words"
+]
+},
+"Green Arrow": {
+"also": [],
+"clash": [
+"green things"
+]
+},
+"Invicta": {
+"also": [],
+"clash": [
+"latin phrases"
+]
+},
+"Tube": {
+"also": [],
+"clash": [
+"bicycle parts",
+"london landmarks",
+"tv words"
+]
+},
+"PATH": {
+"also": [],
+"clash": [
+"trail words"
+]
+},
+"DART": {
+"also": [],
+"clash": [
+"darts terms"
+]
+},
+"BTS": {
+"also": [
+[
+"famous bands",
+2
+]
+],
+"clash": []
+},
+"MARTA": {
+"also": [],
+"clash": [
+"girls' names"
+]
+},
+"Marmaray": {
+"also": [
+[
+"turkish travel words",
+3
+]
+],
+"clash": []
+},
+"Elizabeth line": {
+"also": [],
+"clash": [
+"famous queens"
+]
+},
+"Underground": {
+"also": [],
+"clash": [
+"london landmarks"
+]
+},
+"Overground": {
+"also": [],
+"clash": [
+"london landmarks"
+]
+},
+"El": {
+"also": [],
+"clash": [
+"spanish numbers"
+]
+},
+"Grand Central": {
+"also": [
+[
+"new york landmarks",
+1
+],
+[
+"us landmarks",
+2
+]
+],
+"clash": []
+},
+"King's Cross": {
+"also": [
+[
+"london landmarks",
+2
+]
+],
+"clash": []
+},
+"Penn Station": {
+"also": [
+[
+"new york landmarks",
+2
+]
+],
+"clash": []
+},
+"Paddington": {
+"also": [
+[
+"london landmarks",
+2
+]
+],
+"clash": [
+"bears"
+]
+},
+"Waterloo": {
+"also": [
+[
+"famous battles",
+1
+],
+[
+"napoleonic battles",
+1
+],
+[
+"london landmarks",
+2
+]
+],
+"clash": []
+},
+"Euston": {
+"also": [
+[
+"london landmarks",
+3
+]
+],
+"clash": []
+},
+"St Pancras": {
+"also": [
+[
+"london landmarks",
+2
+]
+],
+"clash": []
+},
+"Victoria": {
+"also": [
+[
+"famous queens",
+1
+],
+[
+"english monarchs",
+1
+],
+[
+"girls' names",
+1
+],
+[
+"australian states and regions",
+1
+],
+[
+"london landmarks",
+3
+]
+],
+"clash": [
+"famous lakes",
+"famous waterfalls",
+"victorian era"
+]
+},
+"Gare du Nord": {
+"also": [
+[
+"paris landmarks",
+3
+]
+],
+"clash": []
+},
+"Liverpool Street": {
+"also": [],
+"clash": [
+"british cities"
+]
+},
+"Shinjuku": {
+"also": [],
+"clash": [
+"japanese cities"
+]
+},
+"Tokyo Station": {
+"also": [],
+"clash": [
+"japanese cities"
+]
+},
+"Gare de Lyon": {
+"also": [
+[
+"paris landmarks",
+3
+]
+],
+"clash": [
+"french cities"
+]
+},
+"Montparnasse": {
+"also": [
+[
+"paris landmarks",
+2
+]
+],
+"clash": []
+},
+"Austerlitz": {
+"also": [
+[
+"napoleonic battles",
+2
+],
+[
+"famous battles",
+2
+]
+],
+"clash": []
+},
+"Marylebone": {
+"also": [
+[
+"london landmarks",
+3
+]
+],
+"clash": []
+},
+"Shibuya": {
+"also": [],
+"clash": [
+"japanese cities"
+]
+},
+"Termini": {
+"also": [
+[
+"rome landmarks",
+3
+]
+],
+"clash": []
+},
+"Milano Centrale": {
+"also": [],
+"clash": [
+"italian cities"
+]
+},
+"Flinders Street": {
+"also": [
+[
+"australian landmarks",
+3
+]
+],
+"clash": []
+},
+"Southern Cross": {
+"also": [
+[
+"constellations",
+2
+],
+[
+"southern sky",
+2
+]
+],
+"clash": []
+},
+"Waverley": {
+"also": [],
+"clash": [
+"classic novels"
+]
+},
+"Howrah": {
+"also": [],
+"clash": [
+"indian cities"
+]
+},
+"Victoria Terminus": {
+"also": [
+[
+"indian landmarks",
+3
+]
+],
+"clash": []
+},
+"Chhatrapati Shivaji": {
+"also": [
+[
+"indian landmarks",
+3
+]
+],
+"clash": [
+"famous leaders"
+]
+},
+"Haydarpaşa": {
+"also": [
+[
+"istanbul landmarks",
+3
+],
+[
+"turkish landmarks",
+3
+]
+],
+"clash": []
+},
+"Sirkeci": {
+"also": [
+[
+"istanbul landmarks",
+3
+]
+],
+"clash": []
+},
+"Santa Maria Novella": {
+"also": [],
+"clash": [
+"famous churches"
+]
+},
+"Charing Cross": {
+"also": [
+[
+"london landmarks",
+3
+]
+],
+"clash": []
+},
+"Union Station": {
+"also": [],
+"clash": [
+"us landmarks"
+]
+},
+"conductor": {
+"also": [
+[
+"orchestra words",
+1
+],
+[
+"electricity words",
+1
+],
+[
+"on a bus",
+2
+]
+],
+"clash": []
+},
+"porter": {
+"also": [
+[
+"beers",
+2
+],
+[
+"airport words",
+3
+]
+],
+"clash": []
+},
+"fireman": {
+"also": [
+[
+"fire station",
+1
+]
+],
+"clash": []
+},
+"guard": {
+"also": [
+[
+"prison words",
+2
+],
+[
+"basketball terms",
+2
+]
+],
+"clash": [
+"fencing terms",
+"soldiers of history"
+]
+},
+"dispatcher": {
+"also": [],
+"clash": [
+"police words"
+]
+},
+"ticket agent": {
+"also": [],
+"clash": [
+"airport words"
+]
+},
+"baggage handler": {
+"also": [
+[
+"airport words",
+2
+]
+],
+"clash": []
+},
+"ticket inspector": {
+"also": [],
+"clash": [
+"on a bus"
+]
+},
+"ticket collector": {
+"also": [],
+"clash": [
+"on a bus"
+]
+},
+"navvy": {
+"also": [
+[
+"old-time jobs",
+3
+]
+],
+"clash": [
+"construction site"
+]
+},
+"telegrapher": {
+"also": [
+[
+"old-time jobs",
+3
+]
+],
+"clash": [
+"old ways to communicate"
+]
+},
+"gandy dancer": {
+"also": [],
+"clash": [
+"dances"
+]
+},
+"wheel tapper": {
+"also": [
+[
+"old-time jobs",
+4
+]
+],
+"clash": []
+},
+"hostler": {
+"also": [],
+"clash": [
+"medieval jobs"
+]
+},
+"signalman": {
+"also": [
+[
+"old-time jobs",
+3
+]
+],
+"clash": []
+},
+"flagman": {
+"also": [],
+"clash": [
+"construction site"
+]
+},
+"switchman": {
+"also": [
+[
+"old-time jobs",
+4
+]
+],
+"clash": []
+},
+"Pullman porter": {
+"also": [
+[
+"old-time jobs",
+4
+]
+],
+"clash": []
+}
+}

@@ -1,0 +1,2615 @@
+{
+"Colosseum": {
+"also": [
+[
+"famous buildings",
+1
+],
+[
+"ancient rome",
+1
+],
+[
+"ancient sites of europe",
+1
+]
+],
+"clash": [
+"famous stadiums",
+"roman life",
+"sports venues"
+]
+},
+"Vatican": {
+"also": [
+[
+"tiny countries",
+1
+],
+[
+"european countries",
+2
+],
+[
+"pilgrimage sites",
+2
+]
+],
+"clash": [
+"holy cities",
+"european capitals",
+"capital cities",
+"religious buildings"
+]
+},
+"Sistine Chapel": {
+"also": [
+[
+"famous churches",
+2
+],
+[
+"renaissance",
+2
+]
+],
+"clash": [
+"famous paintings",
+"famous museums"
+]
+},
+"Pantheon": {
+"also": [
+[
+"famous buildings",
+2
+],
+[
+"famous temples",
+2
+],
+[
+"ancient rome",
+2
+],
+[
+"ancient sites of europe",
+2
+]
+],
+"clash": [
+"paris landmarks",
+"ancient greece",
+"greek gods"
+]
+},
+"St Peter's": {
+"also": [
+[
+"famous churches",
+1
+],
+[
+"pilgrimage sites",
+2
+]
+],
+"clash": []
+},
+"Roman Forum": {
+"also": [
+[
+"ancient rome",
+1
+],
+[
+"ancient sites of europe",
+2
+],
+[
+"roman life",
+2
+]
+],
+"clash": []
+},
+"Vatican Museums": {
+"also": [
+[
+"famous museums",
+2
+]
+],
+"clash": []
+},
+"Tiber": {
+"also": [
+[
+"european rivers",
+2
+],
+[
+"famous rivers",
+2
+]
+],
+"clash": []
+},
+"Palatine Hill": {
+"also": [
+[
+"ancient rome",
+3
+],
+[
+"ancient sites of europe",
+3
+]
+],
+"clash": []
+},
+"Circus Maximus": {
+"also": [
+[
+"ancient rome",
+2
+],
+[
+"roman life",
+2
+],
+[
+"ancient sites of europe",
+3
+]
+],
+"clash": [
+"circus",
+"famous stadiums",
+"sports venues"
+]
+},
+"Piazza Navona": {
+"also": [
+[
+"famous squares",
+2
+]
+],
+"clash": []
+},
+"Capitoline Hill": {
+"also": [
+[
+"ancient rome",
+3
+]
+],
+"clash": []
+},
+"Villa Borghese": {
+"also": [
+[
+"famous gardens",
+3
+]
+],
+"clash": []
+},
+"Borghese Gallery": {
+"also": [
+[
+"famous museums",
+3
+]
+],
+"clash": []
+},
+"Appian Way": {
+"also": [
+[
+"famous routes",
+3
+],
+[
+"ancient rome",
+2
+],
+[
+"famous streets",
+3
+]
+],
+"clash": []
+},
+"Catacombs": {
+"also": [
+[
+"tombs and burials",
+2
+]
+],
+"clash": [
+"paris landmarks",
+"halloween"
+]
+},
+"Termini": {
+"also": [
+[
+"famous train stations",
+3
+]
+],
+"clash": []
+},
+"Baths of Caracalla": {
+"also": [
+[
+"ancient rome",
+3
+],
+[
+"ancient sites of europe",
+3
+],
+[
+"roman life",
+3
+]
+],
+"clash": [
+"roman emperors"
+]
+},
+"Arch of Constantine": {
+"also": [
+[
+"ancient rome",
+3
+],
+[
+"ancient sites of europe",
+3
+]
+],
+"clash": [
+"roman emperors",
+"istanbul landmarks"
+]
+},
+"Vittoriano": {
+"also": [
+[
+"famous buildings",
+4
+]
+],
+"clash": []
+},
+"Piazza Venezia": {
+"also": [
+[
+"famous squares",
+4
+]
+],
+"clash": [
+"italian cities"
+]
+},
+"Quirinal Palace": {
+"also": [
+[
+"famous palaces",
+4
+]
+],
+"clash": []
+},
+"Aventine Hill": {
+"also": [
+[
+"ancient rome",
+4
+]
+],
+"clash": []
+},
+"Domus Aurea": {
+"also": [
+[
+"ancient rome",
+4
+],
+[
+"famous palaces",
+4
+],
+[
+"ancient sites of europe",
+4
+]
+],
+"clash": []
+},
+"Ara Pacis": {
+"also": [
+[
+"ancient rome",
+4
+]
+],
+"clash": []
+},
+"Largo Argentina": {
+"also": [],
+"clash": [
+"south american countries"
+]
+},
+"Lateran": {
+"also": [
+[
+"famous churches",
+4
+]
+],
+"clash": []
+},
+"Capuchin Crypt": {
+"also": [
+[
+"tombs and burials",
+4
+]
+],
+"clash": []
+},
+"Aurelian Walls": {
+"also": [
+[
+"ancient rome",
+4
+]
+],
+"clash": [
+"roman emperors"
+]
+},
+"Via Condotti": {
+"also": [
+[
+"famous streets",
+4
+]
+],
+"clash": []
+},
+"Via Appia": {
+"also": [
+[
+"famous routes",
+4
+],
+[
+"ancient rome",
+4
+],
+[
+"famous streets",
+4
+]
+],
+"clash": []
+},
+"Stadio Olimpico": {
+"also": [
+[
+"famous stadiums",
+3
+],
+[
+"sports venues",
+3
+]
+],
+"clash": []
+},
+"Ostia Antica": {
+"also": [
+[
+"ancient sites of europe",
+3
+],
+[
+"ancient cities",
+3
+],
+[
+"ancient rome",
+3
+]
+],
+"clash": []
+},
+"Palazzo Farnese": {
+"also": [
+[
+"famous palaces",
+4
+]
+],
+"clash": []
+},
+"Villa Medici": {
+"also": [],
+"clash": [
+"renaissance"
+]
+},
+"Quirinale": {
+"also": [
+[
+"famous palaces",
+4
+]
+],
+"clash": []
+},
+"Capitoline Museums": {
+"also": [
+[
+"famous museums",
+4
+]
+],
+"clash": []
+},
+"Piazza del Popolo": {
+"also": [
+[
+"famous squares",
+3
+]
+],
+"clash": []
+},
+"Trinità dei Monti": {
+"also": [
+[
+"famous churches",
+4
+]
+],
+"clash": []
+},
+"Santa Maria Maggiore": {
+"also": [
+[
+"famous churches",
+4
+]
+],
+"clash": []
+},
+"Mamertine Prison": {
+"also": [
+[
+"ancient rome",
+4
+]
+],
+"clash": []
+},
+"San Clemente": {
+"also": [
+[
+"famous churches",
+4
+]
+],
+"clash": []
+},
+"Palazzo Barberini": {
+"also": [
+[
+"famous palaces",
+4
+],
+[
+"famous museums",
+4
+]
+],
+"clash": []
+},
+"Ludus Magnus": {
+"also": [
+[
+"ancient rome",
+4
+]
+],
+"clash": []
+},
+"Pyramid of Cestius": {
+"also": [
+[
+"ancient rome",
+4
+]
+],
+"clash": [
+"ancient egypt",
+"egyptian landmarks"
+]
+},
+"Theatre of Marcellus": {
+"also": [
+[
+"ancient rome",
+4
+]
+],
+"clash": []
+},
+"Baths of Diocletian": {
+"also": [
+[
+"ancient rome",
+4
+]
+],
+"clash": [
+"roman emperors"
+]
+},
+"Mausoleum of Augustus": {
+"also": [
+[
+"ancient rome",
+3
+],
+[
+"tombs and burials",
+3
+]
+],
+"clash": [
+"roman emperors",
+"ancient wonders"
+]
+},
+"St Peter's Basilica": {
+"also": [
+[
+"famous churches",
+1
+],
+[
+"pilgrimage sites",
+2
+]
+],
+"clash": []
+},
+"St Peter's Square": {
+"also": [
+[
+"famous squares",
+2
+]
+],
+"clash": []
+},
+"Castel Sant'Angelo": {
+"also": [
+[
+"famous castles",
+3
+]
+],
+"clash": []
+},
+"Trajan's Column": {
+"also": [
+[
+"ancient rome",
+3
+]
+],
+"clash": [
+"column styles",
+"roman emperors"
+]
+},
+"Trajan's Market": {
+"also": [
+[
+"ancient rome",
+4
+]
+],
+"clash": [
+"roman emperors"
+]
+},
+"Campo de' Fiori": {
+"also": [
+[
+"famous squares",
+3
+]
+],
+"clash": []
+},
+"Piazza di Spagna": {
+"also": [
+[
+"famous squares",
+3
+]
+],
+"clash": []
+},
+"Keats-Shelley House": {
+"also": [
+[
+"famous museums",
+4
+]
+],
+"clash": [
+"poets"
+]
+},
+"Times Square": {
+"also": [
+[
+"famous squares",
+1
+],
+[
+"us landmarks",
+1
+]
+],
+"clash": [
+"new year"
+]
+},
+"Central Park": {
+"also": [
+[
+"us landmarks",
+1
+]
+],
+"clash": [
+"famous gardens"
+]
+},
+"Brooklyn Bridge": {
+"also": [
+[
+"famous bridges",
+1
+],
+[
+"us landmarks",
+1
+]
+],
+"clash": []
+},
+"Empire State": {
+"also": [
+[
+"us landmarks",
+1
+],
+[
+"famous buildings",
+1
+],
+[
+"towers and skyscrapers",
+1
+],
+[
+"famous towers",
+2
+]
+],
+"clash": [
+"us states"
+]
+},
+"Lady Liberty": {
+"also": [
+[
+"famous statues",
+1
+],
+[
+"us landmarks",
+1
+]
+],
+"clash": []
+},
+"Broadway": {
+"also": [
+[
+"famous streets",
+1
+],
+[
+"theater words",
+1
+],
+[
+"musicals words",
+2
+]
+],
+"clash": []
+},
+"Wall Street": {
+"also": [
+[
+"famous streets",
+1
+],
+[
+"stock market words",
+1
+],
+[
+"business words",
+2
+]
+],
+"clash": [
+"money words"
+]
+},
+"Statue of Liberty": {
+"also": [
+[
+"famous statues",
+1
+],
+[
+"us landmarks",
+1
+],
+[
+"national symbols",
+2
+]
+],
+"clash": []
+},
+"Empire State Building": {
+"also": [
+[
+"famous buildings",
+1
+],
+[
+"us landmarks",
+1
+],
+[
+"famous towers",
+2
+],
+[
+"towers and skyscrapers",
+1
+]
+],
+"clash": []
+},
+"Madison Square Garden": {
+"also": [
+[
+"sports venues",
+2
+],
+[
+"us landmarks",
+3
+]
+],
+"clash": [
+"famous stadiums",
+"us presidents"
+]
+},
+"Rockefeller Center": {
+"also": [
+[
+"famous buildings",
+2
+],
+[
+"us landmarks",
+2
+]
+],
+"clash": [
+"christmas"
+]
+},
+"Grand Central": {
+"also": [
+[
+"famous train stations",
+1
+],
+[
+"us landmarks",
+2
+]
+],
+"clash": []
+},
+"Chrysler Building": {
+"also": [
+[
+"famous buildings",
+2
+],
+[
+"towers and skyscrapers",
+2
+],
+[
+"us landmarks",
+2
+]
+],
+"clash": [
+"american car brands"
+]
+},
+"Fifth Avenue": {
+"also": [
+[
+"famous streets",
+1
+]
+],
+"clash": []
+},
+"Ellis Island": {
+"also": [
+[
+"us landmarks",
+2
+]
+],
+"clash": [
+"famous islands"
+]
+},
+"Flatiron Building": {
+"also": [
+[
+"famous buildings",
+2
+],
+[
+"towers and skyscrapers",
+3
+]
+],
+"clash": []
+},
+"Coney Island": {
+"also": [
+[
+"famous theme parks",
+2
+],
+[
+"us landmarks",
+2
+]
+],
+"clash": [
+"famous beaches",
+"famous islands"
+]
+},
+"Yankee Stadium": {
+"also": [
+[
+"famous stadiums",
+1
+],
+[
+"sports venues",
+2
+]
+],
+"clash": []
+},
+"Freedom Tower": {
+"also": [
+[
+"famous towers",
+2
+],
+[
+"towers and skyscrapers",
+2
+],
+[
+"us landmarks",
+2
+]
+],
+"clash": []
+},
+"Guggenheim": {
+"also": [
+[
+"famous museums",
+2
+]
+],
+"clash": []
+},
+"Carnegie Hall": {
+"also": [
+[
+"famous buildings",
+3
+]
+],
+"clash": [
+"concert words"
+]
+},
+"Radio City": {
+"also": [],
+"clash": [
+"radio words"
+]
+},
+"Lincoln Center": {
+"also": [],
+"clash": [
+"us presidents"
+]
+},
+"Apollo Theater": {
+"also": [],
+"clash": [
+"greek gods",
+"space missions"
+]
+},
+"Ground Zero": {
+"also": [
+[
+"us landmarks",
+2
+]
+],
+"clash": []
+},
+"Washington Square": {
+"also": [
+[
+"famous squares",
+3
+]
+],
+"clash": [
+"us presidents"
+]
+},
+"Trump Tower": {
+"also": [
+[
+"famous towers",
+3
+],
+[
+"towers and skyscrapers",
+3
+]
+],
+"clash": [
+"us presidents",
+"card game words"
+]
+},
+"One World Trade Center": {
+"also": [
+[
+"famous towers",
+2
+],
+[
+"towers and skyscrapers",
+2
+],
+[
+"famous buildings",
+2
+],
+[
+"us landmarks",
+2
+]
+],
+"clash": []
+},
+"Grand Central Terminal": {
+"also": [
+[
+"famous train stations",
+2
+],
+[
+"us landmarks",
+2
+]
+],
+"clash": []
+},
+"MoMA": {
+"also": [
+[
+"famous museums",
+2
+]
+],
+"clash": []
+},
+"Charging Bull": {
+"also": [
+[
+"famous statues",
+2
+],
+[
+"stock market words",
+3
+]
+],
+"clash": []
+},
+"Union Square": {
+"also": [
+[
+"famous squares",
+3
+]
+],
+"clash": []
+},
+"Bronx Zoo": {
+"also": [],
+"clash": [
+"zoo"
+]
+},
+"Penn Station": {
+"also": [
+[
+"famous train stations",
+2
+]
+],
+"clash": []
+},
+"Manhattan Bridge": {
+"also": [
+[
+"famous bridges",
+3
+]
+],
+"clash": []
+},
+"Williamsburg Bridge": {
+"also": [
+[
+"famous bridges",
+4
+]
+],
+"clash": []
+},
+"Woolworth Building": {
+"also": [
+[
+"towers and skyscrapers",
+4
+]
+],
+"clash": []
+},
+"Plaza Hotel": {
+"also": [
+[
+"famous hotels",
+2
+]
+],
+"clash": []
+},
+"Waldorf Astoria": {
+"also": [
+[
+"famous hotels",
+2
+],
+[
+"hotel chains",
+3
+]
+],
+"clash": [
+"salads"
+]
+},
+"Chelsea Hotel": {
+"also": [
+[
+"famous hotels",
+3
+]
+],
+"clash": []
+},
+"Trinity Church": {
+"also": [
+[
+"famous churches",
+3
+]
+],
+"clash": []
+},
+"Citi Field": {
+"also": [
+[
+"sports venues",
+3
+],
+[
+"famous stadiums",
+3
+]
+],
+"clash": []
+},
+"Barclays Center": {
+"also": [
+[
+"sports venues",
+3
+]
+],
+"clash": []
+},
+"Wonder Wheel": {
+"also": [
+[
+"fairground rides",
+3
+]
+],
+"clash": []
+},
+"Columbus Circle": {
+"also": [],
+"clash": [
+"explorers"
+]
+},
+"Herald Square": {
+"also": [
+[
+"famous squares",
+3
+]
+],
+"clash": []
+},
+"Fearless Girl": {
+"also": [
+[
+"famous statues",
+3
+]
+],
+"clash": []
+},
+"Flushing Meadows": {
+"also": [],
+"clash": [
+"tennis terms",
+"famous sporting events"
+]
+},
+"Brooklyn Museum": {
+"also": [
+[
+"famous museums",
+3
+]
+],
+"clash": []
+},
+"New York Public Library": {
+"also": [
+[
+"famous buildings",
+3
+]
+],
+"clash": []
+},
+"George Washington Bridge": {
+"also": [
+[
+"famous bridges",
+2
+]
+],
+"clash": [
+"us presidents",
+"founding fathers"
+]
+},
+"Met": {
+"also": [
+[
+"famous museums",
+2
+]
+],
+"clash": [
+"opera words"
+]
+},
+"Vessel": {
+"also": [],
+"clash": [
+"boat types",
+"containers"
+]
+},
+"Verrazzano Bridge": {
+"also": [
+[
+"famous bridges",
+3
+]
+],
+"clash": [
+"explorers"
+]
+},
+"Queensboro Bridge": {
+"also": [
+[
+"famous bridges",
+4
+]
+],
+"clash": []
+},
+"Dakota": {
+"also": [],
+"clash": [
+"us states",
+"native north american languages"
+]
+},
+"Cloisters": {
+"also": [],
+"clash": [
+"monastery",
+"church parts"
+]
+},
+"Belvedere Castle": {
+"also": [
+[
+"famous castles",
+4
+]
+],
+"clash": []
+},
+"Intrepid": {
+"also": [
+[
+"famous ships",
+4
+],
+[
+"warships",
+4
+],
+[
+"famous museums",
+4
+]
+],
+"clash": [
+"positive traits"
+]
+},
+"Roosevelt Island": {
+"also": [],
+"clash": [
+"us presidents"
+]
+},
+"Cyclone": {
+"also": [
+[
+"fairground rides",
+3
+]
+],
+"clash": [
+"storms",
+"wind words"
+]
+},
+"Morgan Library": {
+"also": [
+[
+"famous museums",
+4
+]
+],
+"clash": []
+},
+"Macy's": {
+"also": [],
+"clash": [
+"thanksgiving"
+]
+},
+"St Patrick's Cathedral": {
+"also": [
+[
+"famous churches",
+2
+]
+],
+"clash": [
+"st. patrick's day"
+]
+},
+"Grant's Tomb": {
+"also": [
+[
+"tombs and burials",
+4
+]
+],
+"clash": [
+"us presidents"
+]
+},
+"Studio 54": {
+"also": [
+[
+"nightclub words",
+3
+]
+],
+"clash": []
+},
+"World Trade Center": {
+"also": [
+[
+"famous buildings",
+1
+],
+[
+"us landmarks",
+1
+],
+[
+"towers and skyscrapers",
+2
+]
+],
+"clash": []
+},
+"Metropolitan Museum of Art": {
+"also": [
+[
+"famous museums",
+1
+]
+],
+"clash": []
+},
+"Museum of Modern Art": {
+"also": [
+[
+"famous museums",
+2
+]
+],
+"clash": []
+},
+"American Museum of Natural History": {
+"also": [
+[
+"famous museums",
+2
+]
+],
+"clash": []
+},
+"Verrazzano-Narrows Bridge": {
+"also": [
+[
+"famous bridges",
+3
+]
+],
+"clash": [
+"explorers"
+]
+},
+"Asia": {
+"also": [
+[
+"names that are places",
+3
+]
+],
+"clash": [
+"girls' names"
+]
+},
+"Antarctica": {
+"also": [],
+"clash": [
+"polar regions",
+"antarctic places",
+"antarctic coast"
+]
+},
+"Australia": {
+"also": [
+[
+"oceanian countries",
+1
+],
+[
+"island nations",
+2
+]
+],
+"clash": [
+"australian states and regions",
+"famous islands"
+]
+},
+"Australasia": {
+"also": [
+[
+"world regions",
+2
+]
+],
+"clash": []
+},
+"Pangaea": {
+"also": [],
+"clash": [
+"dinosaur words",
+"prehistoric periods"
+]
+},
+"Gondwana": {
+"also": [],
+"clash": [
+"dinosaur words",
+"prehistoric periods"
+]
+},
+"Laurasia": {
+"also": [],
+"clash": [
+"dinosaur words",
+"prehistoric periods"
+]
+},
+"Columbia": {
+"also": [],
+"clash": [
+"space vehicles",
+"space missions",
+"canadian provinces",
+"south american countries",
+"famous rivers"
+]
+},
+"Avalonia": {
+"also": [],
+"clash": [
+"arthurian legend"
+]
+},
+"Caribbean": {
+"also": [
+[
+"oceans and seas",
+2
+]
+],
+"clash": [
+"caribbean islands",
+"beach destinations"
+]
+},
+"Mediterranean": {
+"also": [
+[
+"oceans and seas",
+1
+],
+[
+"diet types",
+2
+]
+],
+"clash": [
+"european holiday regions",
+"mediterranean trees"
+]
+},
+"Patagonia": {
+"also": [],
+"clash": [
+"south american countries",
+"famous deserts",
+"south american travel"
+]
+},
+"Siberia": {
+"also": [],
+"clash": [
+"extreme cold words",
+"cold things"
+]
+},
+"West Indies": {
+"also": [],
+"clash": [
+"caribbean islands"
+]
+},
+"Arabia": {
+"also": [],
+"clash": [
+"arabian nights",
+"famous deserts",
+"middle eastern countries"
+]
+},
+"Lapland": {
+"also": [],
+"clash": [
+"christmas"
+]
+},
+"Arctic": {
+"also": [
+[
+"polar regions",
+1
+]
+],
+"clash": [
+"oceans and seas",
+"polar exploration",
+"extreme cold words",
+"arctic animals"
+]
+},
+"Sahel": {
+"also": [],
+"clash": [
+"famous deserts"
+]
+},
+"Caucasus": {
+"also": [
+[
+"mountain ranges",
+2
+]
+],
+"clash": []
+},
+"Iberia": {
+"also": [
+[
+"european airlines",
+3
+]
+],
+"clash": [
+"peninsulas"
+]
+},
+"Polynesia": {
+"also": [],
+"clash": [
+"pacific islands",
+"polynesian voyaging"
+]
+},
+"Micronesia": {
+"also": [
+[
+"oceanian countries",
+3
+],
+[
+"island nations",
+3
+]
+],
+"clash": [
+"pacific islands"
+]
+},
+"Anatolia": {
+"also": [
+[
+"peninsulas",
+3
+]
+],
+"clash": [
+"turkish landmarks"
+]
+},
+"Amazonia": {
+"also": [],
+"clash": [
+"rainforest",
+"famous forests",
+"amazon animals"
+]
+},
+"Fertile Crescent": {
+"also": [
+[
+"mesopotamia",
+2
+]
+],
+"clash": [
+"ancient sites of the middle east"
+]
+},
+"Holy Land": {
+"also": [],
+"clash": [
+"pilgrimage sites",
+"holy cities"
+]
+},
+"Iberian Peninsula": {
+"also": [
+[
+"peninsulas",
+2
+]
+],
+"clash": []
+},
+"Asia Minor": {
+"also": [
+[
+"peninsulas",
+3
+]
+],
+"clash": []
+},
+"Arabian Peninsula": {
+"also": [
+[
+"peninsulas",
+2
+]
+],
+"clash": []
+},
+"Kashmir": {
+"also": [],
+"clash": [
+"indian states",
+"wool fabrics"
+]
+},
+"Punjab": {
+"also": [
+[
+"indian states",
+2
+]
+],
+"clash": []
+},
+"Bengal": {
+"also": [
+[
+"cat breeds",
+2
+]
+],
+"clash": [
+"indian states",
+"big cats"
+]
+},
+"Transylvania": {
+"also": [],
+"clash": [
+"undead",
+"halloween"
+]
+},
+"Highlands": {
+"also": [
+[
+"scottish landscape words",
+2
+]
+],
+"clash": [
+"mountain features"
+]
+},
+"Outback": {
+"also": [],
+"clash": [
+"australian slang",
+"australian landmarks",
+"outback travel"
+]
+},
+"Great Plains": {
+"also": [],
+"clash": [
+"prairie",
+"flat landscapes"
+]
+},
+"Sinai": {
+"also": [
+[
+"peninsulas",
+2
+],
+[
+"famous deserts",
+3
+]
+],
+"clash": [
+"famous mountains"
+]
+},
+"Tibet": {
+"also": [],
+"clash": [
+"asian countries",
+"buddhism words"
+]
+},
+"Andalusia": {
+"also": [
+[
+"spanish regions",
+2
+]
+],
+"clash": []
+},
+"Riviera": {
+"also": [
+[
+"european holiday regions",
+2
+],
+[
+"beach destinations",
+2
+]
+],
+"clash": []
+},
+"Maghreb": {
+"also": [],
+"clash": [
+"north african food"
+]
+},
+"Mesoamerica": {
+"also": [],
+"clash": [
+"aztecs and maya"
+]
+},
+"Bohemia": {
+"also": [],
+"clash": [
+"old country names"
+]
+},
+"Galicia": {
+"also": [
+[
+"spanish regions",
+3
+]
+],
+"clash": []
+},
+"Côte d'Azur": {
+"also": [
+[
+"european holiday regions",
+2
+],
+[
+"french regions",
+3
+],
+[
+"beach destinations",
+3
+]
+],
+"clash": []
+},
+"border": {
+"also": [
+[
+"garden features",
+2
+]
+],
+"clash": [
+"sewing words",
+"flower parts"
+]
+},
+"meridian": {
+"also": [],
+"clash": [
+"chinese medicine"
+]
+},
+"parallel": {
+"also": [
+[
+"geometry",
+2
+],
+[
+"math terms",
+2
+],
+[
+"line types",
+2
+]
+],
+"clash": [
+"gymnastics apparatus"
+]
+},
+"Arctic Circle": {
+"also": [],
+"clash": [
+"polar regions"
+]
+},
+"boundary": {
+"also": [
+[
+"cricket terms",
+2
+]
+],
+"clash": []
+},
+"coastline": {
+"also": [
+[
+"coastal features",
+2
+]
+],
+"clash": []
+},
+"shoreline": {
+"also": [
+[
+"coastal features",
+2
+]
+],
+"clash": []
+},
+"Tropic of Cancer": {
+"also": [],
+"clash": [
+"zodiac signs"
+]
+},
+"Tropic of Capricorn": {
+"also": [],
+"clash": [
+"zodiac signs"
+]
+},
+"isobar": {
+"also": [
+[
+"forecast words",
+3
+]
+],
+"clash": []
+},
+"Greenwich meridian": {
+"also": [],
+"clash": [
+"london landmarks"
+]
+},
+"tree line": {
+"also": [
+[
+"mountain features",
+3
+]
+],
+"clash": []
+},
+"frontier": {
+"also": [],
+"clash": [
+"wild west"
+]
+},
+"isotherm": {
+"also": [
+[
+"forecast words",
+4
+]
+],
+"clash": []
+},
+"snow line": {
+"also": [
+[
+"mountain features",
+3
+]
+],
+"clash": [
+"snow and ice"
+]
+},
+"isoseismal": {
+"also": [],
+"clash": [
+"earthquake words"
+]
+},
+"38th parallel": {
+"also": [],
+"clash": [
+"cold war"
+]
+},
+"legend": {
+"also": [],
+"clash": [
+"folklore",
+"legendary heroes"
+]
+},
+"key": {
+"also": [
+[
+"music terms",
+2
+],
+[
+"instrument parts",
+1
+],
+[
+"___board",
+1
+],
+[
+"in a handbag",
+2
+],
+[
+"junk drawer",
+2
+]
+],
+"clash": [
+"parts of a door",
+"things with keys"
+]
+},
+"scale": {
+"also": [
+[
+"music terms",
+1
+],
+[
+"measuring instruments",
+2
+]
+],
+"clash": [
+"animal coverings",
+"fish body parts",
+"bathroom",
+"kitchen utensils"
+]
+},
+"North Pole": {
+"also": [
+[
+"christmas",
+1
+]
+],
+"clash": [
+"polar regions",
+"polar exploration"
+]
+},
+"South Pole": {
+"also": [
+[
+"polar exploration",
+2
+]
+],
+"clash": [
+"antarctic places",
+"polar regions"
+]
+},
+"route": {
+"also": [],
+"clash": [
+"giving directions"
+]
+},
+"coordinates": {
+"also": [],
+"clash": [
+"geometry",
+"math terms"
+]
+},
+"index": {
+"also": [
+[
+"parts of a book",
+1
+],
+[
+"stock market words",
+2
+]
+],
+"clash": [
+"hands and feet"
+]
+},
+"altitude": {
+"also": [],
+"clash": [
+"in-flight words"
+]
+},
+"grid": {
+"also": [
+[
+"power grid words",
+2
+]
+],
+"clash": []
+},
+"hemisphere": {
+"also": [
+[
+"brain parts",
+2
+]
+],
+"clash": []
+},
+"pole": {
+"also": [
+[
+"magnet words",
+2
+],
+[
+"tent parts",
+1
+],
+[
+"fishing tackle",
+2
+],
+[
+"skiing words",
+2
+]
+],
+"clash": [
+"nationalities",
+"field events",
+"street furniture"
+]
+},
+"GPS": {
+"also": [
+[
+"handheld gadgets",
+2
+],
+[
+"dashboard items",
+2
+],
+[
+"phone features",
+2
+]
+],
+"clash": []
+},
+"zoom": {
+"also": [
+[
+"photography words",
+2
+],
+[
+"camera parts",
+3
+]
+],
+"clash": [
+"motion verbs"
+]
+},
+"pin": {
+"also": [
+[
+"sewing kit",
+1
+],
+[
+"bowling terms",
+1
+],
+[
+"golf terms",
+2
+],
+[
+"wrestling terms",
+2
+],
+[
+"chess terms",
+3
+]
+],
+"clash": [
+"hair accessories",
+"jewelry",
+"fixings",
+"banking words"
+]
+},
+"projection": {
+"also": [],
+"clash": [
+"movie theater words"
+]
+},
+"cartographer": {
+"also": [],
+"clash": [
+"science jobs"
+]
+},
+"surveyor": {
+"also": [
+[
+"outdoor jobs",
+3
+]
+],
+"clash": []
+},
+"layer": {
+"also": [],
+"clash": [
+"hairstyles",
+"cakes"
+]
+},
+"azimuth": {
+"also": [
+[
+"astronomy terms",
+3
+],
+[
+"angle words",
+3
+]
+],
+"clash": []
+},
+"triangulation": {
+"also": [],
+"clash": [
+"geometry"
+]
+},
+"pushpin": {
+"also": [
+[
+"office",
+2
+],
+[
+"stationery",
+2
+]
+],
+"clash": []
+},
+"orienteering": {
+"also": [
+[
+"outdoor activities",
+3
+]
+],
+"clash": []
+},
+"cartouche": {
+"also": [
+[
+"ancient egypt",
+3
+],
+[
+"ancient writing",
+3
+]
+],
+"clash": []
+},
+"here be dragons": {
+"also": [],
+"clash": [
+"dragons"
+]
+},
+"X marks the spot": {
+"also": [
+[
+"treasure",
+2
+],
+[
+"pirate words",
+2
+]
+],
+"clash": []
+},
+"atlas": {
+"also": [
+[
+"titans",
+2
+],
+[
+"mountain ranges",
+2
+],
+[
+"bones",
+4
+],
+[
+"words from mythology",
+2
+]
+],
+"clash": [
+"greek gods",
+"greek heroes"
+]
+},
+"globe": {
+"also": [
+[
+"round things",
+1
+],
+[
+"things that spin",
+2
+],
+[
+"classroom items",
+2
+]
+],
+"clash": [
+"3d shapes",
+"entertainment awards"
+]
+},
+"treasure map": {
+"also": [
+[
+"pirate words",
+1
+],
+[
+"treasure",
+2
+]
+],
+"clash": []
+},
+"chart": {
+"also": [
+[
+"navigation tools",
+2
+]
+],
+"clash": [
+"statistics words",
+"math tools",
+"music words"
+]
+},
+"weather map": {
+"also": [
+[
+"forecast words",
+2
+]
+],
+"clash": []
+},
+"star chart": {
+"also": [
+[
+"astronomy terms",
+2
+],
+[
+"observatory",
+2
+]
+],
+"clash": []
+},
+"floor plan": {
+"also": [
+[
+"real estate words",
+2
+]
+],
+"clash": []
+},
+"nautical chart": {
+"also": [
+[
+"navigation tools",
+2
+]
+],
+"clash": []
+},
+"sea chart": {
+"also": [
+[
+"navigation tools",
+2
+]
+],
+"clash": []
+},
+"site plan": {
+"also": [
+[
+"construction site",
+2
+]
+],
+"clash": []
+},
+"heat map": {
+"also": [
+[
+"statistics words",
+4
+]
+],
+"clash": []
+},
+"trail map": {
+"also": [
+[
+"hiking gear",
+2
+]
+],
+"clash": []
+},
+"hiking map": {
+"also": [
+[
+"hiking gear",
+2
+]
+],
+"clash": []
+},
+"wall map": {
+"also": [
+[
+"classroom items",
+2
+]
+],
+"clash": []
+},
+"tourist map": {
+"also": [
+[
+"sightseeing words",
+2
+]
+],
+"clash": []
+},
+"piste map": {
+"also": [
+[
+"ski trip",
+2
+]
+],
+"clash": []
+},
+"north": {
+"also": [
+[
+"giving directions",
+2
+]
+],
+"clash": [
+"nautical directions"
+]
+},
+"south": {
+"also": [
+[
+"giving directions",
+2
+]
+],
+"clash": [
+"nautical directions"
+]
+},
+"east": {
+"also": [
+[
+"giving directions",
+2
+]
+],
+"clash": [
+"nautical directions"
+]
+},
+"west": {
+"also": [
+[
+"giving directions",
+2
+]
+],
+"clash": [
+"nautical directions"
+]
+},
+"northeast": {
+"also": [
+[
+"giving directions",
+3
+]
+],
+"clash": []
+},
+"northwest": {
+"also": [
+[
+"giving directions",
+3
+]
+],
+"clash": []
+},
+"southeast": {
+"also": [
+[
+"giving directions",
+3
+]
+],
+"clash": []
+},
+"southwest": {
+"also": [
+[
+"giving directions",
+3
+]
+],
+"clash": []
+}
+}

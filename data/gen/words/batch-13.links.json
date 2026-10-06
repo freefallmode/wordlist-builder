@@ -1,0 +1,10048 @@
+{
+"Nile": {
+"also": [
+[
+"ancient egypt",
+1
+],
+[
+"long things",
+2
+],
+[
+"egyptian landmarks",
+1
+],
+[
+"african landmarks",
+1
+]
+],
+"clash": [
+"ancient sites of africa"
+]
+},
+"Congo": {
+"also": [
+[
+"famous forests",
+3
+],
+[
+"rainforest",
+2
+],
+[
+"african countries",
+2
+],
+[
+"french-speaking countries",
+3
+]
+],
+"clash": []
+},
+"Niger": {
+"also": [
+[
+"west african countries",
+3
+],
+[
+"landlocked countries",
+3
+],
+[
+"french-speaking countries",
+3
+],
+[
+"tricolor flags",
+4
+],
+[
+"african countries",
+2
+]
+],
+"clash": []
+},
+"Orange": {
+"also": [
+[
+"citrus fruits",
+1
+],
+[
+"juices",
+1
+],
+[
+"lunchbox",
+2
+],
+[
+"fruit trees",
+1
+],
+[
+"mediterranean trees",
+2
+],
+[
+"places that are also words",
+2
+],
+[
+"revolutions",
+3
+],
+[
+"words from persian",
+4
+],
+[
+"shades of orange",
+1
+],
+[
+"round things",
+2
+],
+[
+"things that smell good",
+3
+],
+[
+"candle scents",
+2
+]
+],
+"clash": []
+},
+"Senegal": {
+"also": [
+[
+"west african countries",
+2
+],
+[
+"french-speaking countries",
+2
+],
+[
+"flags with stars",
+4
+],
+[
+"tricolor flags",
+4
+],
+[
+"african countries",
+2
+]
+],
+"clash": []
+},
+"Okavango": {
+"also": [
+[
+"wetlands",
+3
+],
+[
+"famous natural features",
+3
+],
+[
+"african landmarks",
+2
+]
+],
+"clash": []
+},
+"Volta": {
+"also": [
+[
+"dances",
+5
+],
+[
+"poetry terms",
+4
+],
+[
+"inventors",
+3
+],
+[
+"electricity words",
+3
+],
+[
+"famous physicists",
+3
+]
+],
+"clash": [
+"units named after people"
+]
+},
+"Gambia": {
+"also": [
+[
+"west african countries",
+3
+],
+[
+"tricolor flags",
+4
+],
+[
+"countries ending in ia",
+3
+],
+[
+"african countries",
+2
+]
+],
+"clash": []
+},
+"Juba": {
+"also": [
+[
+"african capitals",
+4
+],
+[
+"african cities",
+4
+],
+[
+"north american folk dances",
+4
+],
+[
+"capital cities",
+3
+]
+],
+"clash": []
+},
+"Chobe": {
+"also": [
+[
+"african national parks",
+3
+],
+[
+"national parks",
+3
+]
+],
+"clash": []
+},
+"Kafue": {
+"also": [
+[
+"african national parks",
+4
+]
+],
+"clash": []
+},
+"Omo": {
+"also": [
+[
+"african national parks",
+5
+]
+],
+"clash": []
+},
+"Mara": {
+"also": [
+[
+"rodents",
+4
+],
+[
+"south american animals",
+4
+]
+],
+"clash": [
+"african landmarks",
+"african national parks"
+]
+},
+"Awash": {
+"also": [
+[
+"african national parks",
+5
+]
+],
+"clash": []
+},
+"Yangtze": {
+"also": [
+[
+"long things",
+2
+]
+],
+"clash": []
+},
+"Ganges": {
+"also": [
+[
+"pilgrimage sites",
+2
+],
+[
+"ancient india",
+2
+],
+[
+"indian landmarks",
+2
+]
+],
+"clash": [
+"holy cities"
+]
+},
+"Indus": {
+"also": [
+[
+"constellations",
+4
+],
+[
+"ancient india",
+2
+]
+],
+"clash": [
+"ancient civilizations"
+]
+},
+"Yellow River": {
+"also": [
+[
+"ancient china",
+3
+]
+],
+"clash": [
+"chinese landmarks",
+"yellow things"
+]
+},
+"Euphrates": {
+"also": [
+[
+"mesopotamia",
+2
+]
+],
+"clash": []
+},
+"Tigris": {
+"also": [
+[
+"mesopotamia",
+2
+]
+],
+"clash": []
+},
+"Jordan": {
+"also": [
+[
+"middle eastern countries",
+2
+],
+[
+"arabic-speaking countries",
+1
+],
+[
+"flags with stars",
+3
+],
+[
+"unisex names",
+1
+]
+],
+"clash": []
+},
+"Amur": {
+"also": [
+[
+"taiga",
+4
+]
+],
+"clash": []
+},
+"Krishna": {
+"also": [
+[
+"diwali",
+4
+],
+[
+"holi",
+2
+],
+[
+"hindu gods",
+1
+],
+[
+"indian names",
+1
+],
+[
+"blue things",
+4
+]
+],
+"clash": [
+"indian states"
+]
+},
+"Ravi": {
+"also": [
+[
+"indian names",
+1
+]
+],
+"clash": []
+},
+"Han": {
+"also": [
+[
+"mahjong words",
+5
+],
+[
+"ancient china",
+3
+],
+[
+"chinese dynasties",
+1
+],
+[
+"chinese surnames",
+2
+]
+],
+"clash": []
+},
+"Liao": {
+"also": [
+[
+"chinese dynasties",
+4
+]
+],
+"clash": []
+},
+"Kura": {
+"also": [
+[
+"east asian buildings",
+5
+]
+],
+"clash": []
+},
+"Yarmouk": {
+"also": [
+[
+"medieval battles",
+4
+]
+],
+"clash": []
+},
+"Thames": {
+"also": [
+[
+"silent letter words",
+3
+],
+[
+"london landmarks",
+1
+]
+],
+"clash": []
+},
+"Loire": {
+"also": [
+[
+"wine regions",
+2
+],
+[
+"french regions",
+3
+]
+],
+"clash": []
+},
+"Rhône": {
+"also": [
+[
+"wine regions",
+3
+]
+],
+"clash": []
+},
+"Tiber": {
+"also": [
+[
+"rome landmarks",
+2
+],
+[
+"ancient rome",
+3
+]
+],
+"clash": []
+},
+"Don": {
+"also": [
+[
+"honorifics",
+3
+],
+[
+"university words",
+4
+],
+[
+"reversible words",
+2
+],
+[
+"boys' names",
+2
+],
+[
+"short forms of names",
+2
+]
+],
+"clash": []
+},
+"Shannon": {
+"also": [
+[
+"famous airports",
+4
+],
+[
+"unisex names",
+2
+],
+[
+"girls' names",
+1
+]
+],
+"clash": []
+},
+"Douro": {
+"also": [
+[
+"red wines",
+4
+],
+[
+"wine regions",
+3
+]
+],
+"clash": []
+},
+"Dordogne": {
+"also": [
+[
+"french regions",
+2
+],
+[
+"european holiday regions",
+2
+],
+[
+"wine regions",
+4
+]
+],
+"clash": []
+},
+"Moselle": {
+"also": [
+[
+"white wines",
+3
+],
+[
+"european holiday regions",
+4
+],
+[
+"wine regions",
+3
+],
+[
+"french regions",
+4
+]
+],
+"clash": []
+},
+"Ural": {
+"also": [
+[
+"motorcycle brands",
+4
+]
+],
+"clash": [
+"mountain ranges"
+]
+},
+"Kama": {
+"also": [
+[
+"hindu gods",
+3
+]
+],
+"clash": []
+},
+"Oka": {
+"also": [
+[
+"pacific islands food",
+4
+]
+],
+"clash": []
+},
+"Boyne": {
+"also": [
+[
+"famous battles",
+3
+]
+],
+"clash": []
+},
+"Clyde": {
+"also": [
+[
+"names that are places",
+3
+],
+[
+"boys' names",
+3
+],
+[
+"old-fashioned names",
+3
+]
+],
+"clash": []
+},
+"Tay": {
+"also": [
+[
+"___berry",
+2
+]
+],
+"clash": [
+"famous bridges"
+]
+},
+"Tweed": {
+"also": [
+[
+"wool fabrics",
+1
+],
+[
+"rough things",
+3
+],
+[
+"fabrics",
+2
+]
+],
+"clash": []
+},
+"Humber": {
+"also": [
+[
+"british car brands",
+4
+],
+[
+"famous bridges",
+3
+]
+],
+"clash": []
+},
+"Wye": {
+"also": [
+[
+"railway words",
+5
+],
+[
+"sounds like a letter",
+5
+],
+[
+"homophones",
+3
+]
+],
+"clash": []
+},
+"Tamar": {
+"also": [
+[
+"biblical names",
+4
+],
+[
+"girls' names",
+3
+]
+],
+"clash": [
+"famous bridges"
+]
+},
+"Somme": {
+"also": [
+[
+"world war i battles",
+1
+]
+],
+"clash": [
+"famous battles"
+]
+},
+"Marne": {
+"also": [
+[
+"world war i battles",
+2
+]
+],
+"clash": [
+"famous battles"
+]
+},
+"Piave": {
+"also": [
+[
+"hard cheeses",
+4
+],
+[
+"italian cheeses",
+4
+],
+[
+"world war i battles",
+4
+]
+],
+"clash": []
+},
+"Ticino": {
+"also": [
+[
+"european holiday regions",
+4
+]
+],
+"clash": []
+},
+"Mississippi": {
+"also": [
+[
+"us states",
+1
+],
+[
+"double letters",
+1
+],
+[
+"long things",
+2
+]
+],
+"clash": []
+},
+"Missouri": {
+"also": [
+[
+"us states",
+1
+],
+[
+"famous ships",
+3
+]
+],
+"clash": []
+},
+"Colorado": {
+"also": [
+[
+"pizza styles",
+5
+],
+[
+"us states",
+1
+],
+[
+"colors in spanish",
+3
+],
+[
+"us landmarks",
+3
+]
+],
+"clash": []
+},
+"Hudson": {
+"also": [
+[
+"american car brands",
+4
+],
+[
+"arctic explorers",
+3
+],
+[
+"names that are places",
+3
+],
+[
+"boys' names",
+3
+]
+],
+"clash": [
+"new york landmarks"
+]
+},
+"Ohio": {
+"also": [
+[
+"us states",
+1
+]
+],
+"clash": []
+},
+"Columbia": {
+"also": [
+[
+"sheep breeds",
+5
+],
+[
+"american cities",
+3
+],
+[
+"continents and supercontinents",
+5
+],
+[
+"places named after people",
+2
+],
+[
+"space vehicles",
+3
+],
+[
+"space missions",
+3
+]
+],
+"clash": [
+"south american countries"
+]
+},
+"Yukon": {
+"also": [
+[
+"gold rush words",
+2
+],
+[
+"canadian provinces",
+2
+],
+[
+"cold things",
+3
+]
+],
+"clash": [
+"famous car models"
+]
+},
+"Niagara": {
+"also": [
+[
+"wine regions",
+4
+]
+],
+"clash": [
+"canadian landmarks",
+"famous waterfalls",
+"us landmarks"
+]
+},
+"Mackenzie": {
+"also": [
+[
+"unisex names",
+3
+],
+[
+"scottish clan names",
+2
+],
+[
+"girls' names",
+3
+]
+],
+"clash": []
+},
+"Delaware": {
+"also": [
+[
+"chicken breeds",
+4
+],
+[
+"us states",
+1
+],
+[
+"places named after people",
+3
+],
+[
+"rhymes with bear",
+3
+]
+],
+"clash": []
+},
+"Snake": {
+"also": [
+[
+"snakes",
+1
+],
+[
+"pets",
+2
+],
+[
+"zoo",
+2
+],
+[
+"st. patrick's day",
+2
+],
+[
+"chinese zodiac",
+1
+],
+[
+"___fly",
+3
+],
+[
+"___board",
+2
+],
+[
+"sea___",
+2
+],
+[
+"water___",
+3
+],
+[
+"rhymes with cake",
+1
+],
+[
+"long things",
+1
+],
+[
+"things with teeth",
+3
+]
+],
+"clash": []
+},
+"Arkansas": {
+"also": [
+[
+"us states",
+1
+]
+],
+"clash": []
+},
+"Tennessee": {
+"also": [
+[
+"us states",
+1
+],
+[
+"double letters",
+1
+],
+[
+"names that are places",
+4
+]
+],
+"clash": []
+},
+"Sacramento": {
+"also": [
+[
+"gold rush words",
+3
+],
+[
+"american cities",
+2
+]
+],
+"clash": []
+},
+"Shenandoah": {
+"also": [
+[
+"us national parks",
+2
+],
+[
+"national parks",
+3
+]
+],
+"clash": []
+},
+"Fraser": {
+"also": [
+[
+"scottish clan names",
+3
+]
+],
+"clash": [
+"boys' names"
+]
+},
+"Savannah": {
+"also": [
+[
+"cat breeds",
+3
+],
+[
+"savanna",
+1
+],
+[
+"american cities",
+2
+],
+[
+"port cities",
+3
+],
+[
+"names that are places",
+2
+],
+[
+"girls' names",
+2
+]
+],
+"clash": []
+},
+"Yellowstone": {
+"also": [
+[
+"geothermal words",
+2
+],
+[
+"famous natural features",
+2
+],
+[
+"us national parks",
+1
+],
+[
+"national parks",
+1
+]
+],
+"clash": []
+},
+"Illinois": {
+"also": [
+[
+"us states",
+1
+]
+],
+"clash": []
+},
+"Cumberland": {
+"also": [
+[
+"sausages",
+2
+],
+[
+"english counties",
+4
+],
+[
+"foods named after places",
+3
+]
+],
+"clash": []
+},
+"Connecticut": {
+"also": [
+[
+"us states",
+1
+]
+],
+"clash": []
+},
+"Merrimack": {
+"also": [
+[
+"famous ships",
+4
+]
+],
+"clash": []
+},
+"Willamette": {
+"also": [
+[
+"wine regions",
+4
+]
+],
+"clash": []
+},
+"Klamath": {
+"also": [
+[
+"native north american languages",
+5
+]
+],
+"clash": []
+},
+"Saskatchewan": {
+"also": [
+[
+"prairie",
+2
+],
+[
+"canadian provinces",
+2
+]
+],
+"clash": []
+},
+"Assiniboine": {
+"also": [
+[
+"famous mountains",
+5
+],
+[
+"native north american languages",
+4
+]
+],
+"clash": []
+},
+"Ottawa": {
+"also": [
+[
+"capital cities",
+1
+],
+[
+"canadian cities",
+1
+],
+[
+"famous marathons",
+5
+]
+],
+"clash": []
+},
+"Saguenay": {
+"also": [
+[
+"canadian cities",
+5
+]
+],
+"clash": []
+},
+"Grijalva": {
+"also": [
+[
+"conquistadors",
+4
+]
+],
+"clash": []
+},
+"Bighorn": {
+"also": [
+[
+"wild goats and sheep",
+2
+],
+[
+"animals with horns",
+3
+]
+],
+"clash": []
+},
+"Roanoke": {
+"also": [
+[
+"colonial america",
+2
+],
+[
+"american cities",
+4
+]
+],
+"clash": []
+},
+"Detroit": {
+"also": [
+[
+"american cities",
+1
+]
+],
+"clash": []
+},
+"Amazon": {
+"also": [
+[
+"famous forests",
+1
+],
+[
+"rainforest",
+1
+],
+[
+"tech companies",
+1
+],
+[
+"long things",
+2
+],
+[
+"south american landmarks",
+1
+],
+[
+"silicon valley companies",
+1
+]
+],
+"clash": []
+},
+"River Plate": {
+"also": [
+[
+"south american soccer clubs",
+1
+],
+[
+"world war ii battles",
+3
+]
+],
+"clash": [
+"south american landmarks"
+]
+},
+"Uruguay": {
+"also": [
+[
+"south american countries",
+2
+],
+[
+"spanish-speaking countries",
+2
+],
+[
+"countries",
+1
+]
+],
+"clash": []
+},
+"Paraguay": {
+"also": [
+[
+"south american countries",
+2
+],
+[
+"landlocked countries",
+2
+],
+[
+"spanish-speaking countries",
+2
+],
+[
+"tricolor flags",
+4
+],
+[
+"countries",
+1
+]
+],
+"clash": []
+},
+"Magdalena": {
+"also": [
+[
+"spanish food",
+4
+],
+[
+"girls' names",
+3
+]
+],
+"clash": [
+"south american landmarks"
+]
+},
+"Madeira": {
+"also": [
+[
+"wines",
+3
+],
+[
+"famous islands",
+2
+],
+[
+"foods named after places",
+3
+],
+[
+"___cake",
+2
+],
+[
+"words named after places",
+4
+]
+],
+"clash": []
+},
+"Bermejo": {
+"also": [
+[
+"colors in spanish",
+5
+]
+],
+"clash": []
+},
+"Superior": {
+"also": [
+[
+"room types",
+3
+],
+[
+"words for good",
+2
+]
+],
+"clash": []
+},
+"Michigan": {
+"also": [
+[
+"us states",
+1
+]
+],
+"clash": [
+"american cities"
+]
+},
+"Erie": {
+"also": [
+[
+"famous canals",
+2
+]
+],
+"clash": [
+"american cities"
+]
+},
+"Ontario": {
+"also": [
+[
+"canadian provinces",
+1
+]
+],
+"clash": [
+"canadian cities"
+]
+},
+"Victoria": {
+"also": [
+[
+"canadian cities",
+3
+],
+[
+"australian states and regions",
+1
+],
+[
+"places named after people",
+1
+],
+[
+"street names",
+2
+],
+[
+"famous train stations",
+3
+],
+[
+"english monarchs",
+1
+],
+[
+"roman gods",
+4
+],
+[
+"girls' names",
+1
+],
+[
+"names that are places",
+2
+],
+[
+"famous queens",
+1
+]
+],
+"clash": [
+"african landmarks",
+"famous waterfalls"
+]
+},
+"Loch Ness": {
+"also": [
+[
+"famous marathons",
+4
+],
+[
+"landmarks",
+3
+]
+],
+"clash": [
+"cryptids",
+"mythical creatures"
+]
+},
+"Baikal": {
+"also": [
+[
+"taiga",
+3
+]
+],
+"clash": []
+},
+"Tanganyika": {
+"also": [
+[
+"old country names",
+4
+]
+],
+"clash": [
+"african countries"
+]
+},
+"Malawi": {
+"also": [
+[
+"southern african countries",
+2
+],
+[
+"landlocked countries",
+3
+],
+[
+"african countries",
+2
+],
+[
+"african landmarks",
+3
+]
+],
+"clash": []
+},
+"Tahoe": {
+"also": [
+[
+"famous car models",
+3
+],
+[
+"us landmarks",
+3
+]
+],
+"clash": []
+},
+"Geneva": {
+"also": [
+[
+"european cities",
+1
+],
+[
+"names that are places",
+3
+]
+],
+"clash": [
+"international organizations"
+]
+},
+"Como": {
+"also": [
+[
+"italian cities",
+3
+]
+],
+"clash": []
+},
+"Lucerne": {
+"also": [
+[
+"european cities",
+3
+]
+],
+"clash": [
+"european holiday regions"
+]
+},
+"Constance": {
+"also": [
+[
+"old-fashioned names",
+3
+],
+[
+"names that are virtues",
+2
+]
+],
+"clash": []
+},
+"Loch Lomond": {
+"also": [
+[
+"national parks",
+2
+]
+],
+"clash": []
+},
+"Winnipeg": {
+"also": [
+[
+"canadian cities",
+2
+]
+],
+"clash": []
+},
+"Champlain": {
+"also": [
+[
+"explorers",
+3
+]
+],
+"clash": []
+},
+"Crater Lake": {
+"also": [
+[
+"us national parks",
+2
+]
+],
+"clash": []
+},
+"Lake Placid": {
+"also": [
+[
+"olympic host cities",
+2
+]
+],
+"clash": []
+},
+"Chad": {
+"also": [
+[
+"african countries",
+3
+],
+[
+"landlocked countries",
+3
+],
+[
+"french-speaking countries",
+3
+],
+[
+"arabic-speaking countries",
+5
+],
+[
+"tricolor flags",
+3
+],
+[
+"countries",
+2
+],
+[
+"boys' names",
+2
+]
+],
+"clash": []
+},
+"Albert": {
+"also": [
+[
+"street names",
+3
+],
+[
+"boys' names",
+1
+]
+],
+"clash": []
+},
+"Nasser": {
+"also": [
+[
+"arabic names",
+2
+],
+[
+"egyptian landmarks",
+3
+]
+],
+"clash": [
+"famous leaders"
+]
+},
+"Toba": {
+"also": [
+[
+"famous volcanoes",
+4
+],
+[
+"indigenous south american languages",
+5
+]
+],
+"clash": []
+},
+"Biwa": {
+"also": [
+[
+"string instruments",
+4
+],
+[
+"japanese instruments",
+2
+]
+],
+"clash": []
+},
+"Bled": {
+"also": [
+[
+"irregular past tenses",
+2
+]
+],
+"clash": []
+},
+"Ohrid": {
+"also": [
+[
+"european cities",
+4
+]
+],
+"clash": []
+},
+"Annecy": {
+"also": [
+[
+"french cities",
+3
+],
+[
+"film festivals",
+4
+]
+],
+"clash": [
+"european holiday regions"
+]
+},
+"Lugano": {
+"also": [
+[
+"european cities",
+4
+]
+],
+"clash": [
+"european holiday regions"
+]
+},
+"Zürich": {
+"also": [
+[
+"european cities",
+1
+]
+],
+"clash": []
+},
+"Saimaa": {
+"also": [
+[
+"famous canals",
+5
+]
+],
+"clash": []
+},
+"Van": {
+"also": [
+[
+"turkish cities",
+4
+],
+[
+"post office",
+3
+],
+[
+"car types",
+1
+],
+[
+"things with wheels",
+1
+],
+[
+"turkish landmarks",
+3
+]
+],
+"clash": []
+},
+"Galilee": {
+"also": [
+[
+"regions",
+3
+]
+],
+"clash": [
+"holy cities",
+"pilgrimage sites"
+]
+},
+"Maracaibo": {
+"also": [
+[
+"south american cities",
+4
+],
+[
+"pirate places",
+4
+]
+],
+"clash": []
+},
+"Nicaragua": {
+"also": [
+[
+"north american countries",
+2
+],
+[
+"spanish-speaking countries",
+2
+]
+],
+"clash": []
+},
+"Taupo": {
+"also": [
+[
+"new zealand cities",
+3
+],
+[
+"new zealand landmarks",
+2
+]
+],
+"clash": []
+},
+"Eyre": {
+"also": [
+[
+"peninsulas",
+4
+],
+[
+"australian landmarks",
+3
+]
+],
+"clash": []
+},
+"Louise": {
+"also": [
+[
+"girls' names",
+2
+],
+[
+"canadian landmarks",
+3
+]
+],
+"clash": []
+},
+"Natron": {
+"also": [
+[
+"egyptian afterlife",
+4
+],
+[
+"african landmarks",
+4
+]
+],
+"clash": []
+},
+"Niagara Falls": {
+"also": [
+[
+"canadian cities",
+3
+]
+],
+"clash": []
+},
+"Victoria Falls": {
+"also": [
+[
+"places named after people",
+2
+],
+[
+"discoveries",
+3
+]
+],
+"clash": []
+},
+"Angel Falls": {
+"also": [
+[
+"tall things",
+3
+],
+[
+"landmarks",
+2
+]
+],
+"clash": []
+},
+"Murchison Falls": {
+"also": [
+[
+"african national parks",
+4
+]
+],
+"clash": []
+},
+"Augrabies Falls": {
+"also": [
+[
+"african national parks",
+5
+],
+[
+"african landmarks",
+4
+]
+],
+"clash": []
+},
+"Gibraltar": {
+"also": [
+[
+"coffee drinks",
+5
+]
+],
+"clash": [
+"landmarks",
+"tiny countries"
+]
+},
+"Suez": {
+"also": [
+[
+"famous canals",
+1
+],
+[
+"egyptian landmarks",
+2
+]
+],
+"clash": []
+},
+"Panama": {
+"also": [
+[
+"north american countries",
+2
+],
+[
+"spanish-speaking countries",
+2
+],
+[
+"flags with stars",
+3
+],
+[
+"places that are also words",
+2
+],
+[
+"famous canals",
+1
+],
+[
+"hats",
+2
+],
+[
+"countries",
+1
+]
+],
+"clash": []
+},
+"Bosporus": {
+"also": [
+[
+"byzantine empire",
+3
+],
+[
+"turkish landmarks",
+2
+]
+],
+"clash": []
+},
+"Bering": {
+"also": [
+[
+"arctic explorers",
+3
+],
+[
+"explorers",
+3
+]
+],
+"clash": []
+},
+"Malacca": {
+"also": [
+[
+"asian cities",
+3
+],
+[
+"spice trade",
+3
+]
+],
+"clash": []
+},
+"Dardanelles": {
+"also": [
+[
+"anzac day",
+3
+],
+[
+"turkish landmarks",
+3
+],
+[
+"world war i battles",
+3
+]
+],
+"clash": []
+},
+"Dover": {
+"also": [
+[
+"port cities",
+2
+],
+[
+"foods named after places",
+3
+],
+[
+"castles",
+3
+]
+],
+"clash": []
+},
+"Magellan": {
+"also": [
+[
+"space vehicles",
+4
+],
+[
+"portuguese explorers",
+1
+],
+[
+"famous voyages",
+2
+],
+[
+"space missions",
+4
+],
+[
+"explorers",
+1
+]
+],
+"clash": []
+},
+"Kiel": {
+"also": [
+[
+"german cities",
+3
+],
+[
+"port cities",
+3
+],
+[
+"famous canals",
+3
+]
+],
+"clash": []
+},
+"Corinth": {
+"also": [
+[
+"ancient cities",
+2
+],
+[
+"famous canals",
+3
+],
+[
+"ancient greece",
+3
+],
+[
+"civil war battles",
+4
+],
+[
+"ancient sites of europe",
+3
+]
+],
+"clash": []
+},
+"Messina": {
+"also": [
+[
+"italian cities",
+3
+],
+[
+"black death",
+4
+]
+],
+"clash": []
+},
+"Kerch": {
+"also": [
+[
+"peninsulas",
+4
+]
+],
+"clash": []
+},
+"Drake Passage": {
+"also": [
+[
+"antarctic coast",
+3
+],
+[
+"places named after people",
+4
+]
+],
+"clash": []
+},
+"Grand Canal": {
+"also": [
+[
+"famous canals",
+2
+],
+[
+"chinese landmarks",
+3
+]
+],
+"clash": []
+},
+"Lombok": {
+"also": [
+[
+"indonesian islands",
+2
+],
+[
+"beach destinations",
+3
+]
+],
+"clash": []
+},
+"Tsushima": {
+"also": [
+[
+"famous battles",
+4
+]
+],
+"clash": []
+},
+"La Pérouse": {
+"also": [
+[
+"explorers",
+4
+],
+[
+"famous voyages",
+5
+]
+],
+"clash": []
+},
+"Makassar": {
+"also": [
+[
+"spice trade",
+4
+]
+],
+"clash": []
+},
+"Caledonian": {
+"also": [
+[
+"famous forests",
+4
+],
+[
+"famous canals",
+4
+]
+],
+"clash": []
+},
+"Rideau": {
+"also": [
+[
+"famous canals",
+4
+],
+[
+"canadian landmarks",
+2
+]
+],
+"clash": []
+},
+"Welland": {
+"also": [
+[
+"famous canals",
+4
+]
+],
+"clash": []
+},
+"Volga-Don": {
+"also": [
+[
+"famous canals",
+4
+]
+],
+"clash": []
+},
+"Göta": {
+"also": [
+[
+"famous canals",
+4
+]
+],
+"clash": []
+},
+"Canal du Midi": {
+"also": [
+[
+"famous canals",
+4
+]
+],
+"clash": []
+},
+"Mittelland": {
+"also": [
+[
+"famous canals",
+5
+]
+],
+"clash": []
+},
+"Grand Union": {
+"also": [
+[
+"famous canals",
+4
+]
+],
+"clash": []
+},
+"Bass Strait": {
+"also": [
+[
+"places named after people",
+4
+]
+],
+"clash": [
+"australian landmarks"
+]
+},
+"Cook Strait": {
+"also": [
+[
+"places named after people",
+4
+]
+],
+"clash": [
+"explorers",
+"new zealand landmarks"
+]
+},
+"Hudson Bay": {
+"also": [
+[
+"places named after people",
+3
+]
+],
+"clash": [
+"canadian landmarks"
+]
+},
+"Gulf of Aden": {
+"also": [
+[
+"pirate places",
+3
+]
+],
+"clash": []
+},
+"Manila Bay": {
+"also": [
+[
+"famous battles",
+4
+]
+],
+"clash": []
+},
+"Halong Bay": {
+"also": [
+[
+"famous natural features",
+2
+]
+],
+"clash": [
+"landmarks"
+]
+},
+"Mobile Bay": {
+"also": [
+[
+"civil war battles",
+4
+]
+],
+"clash": []
+},
+"Walvis Bay": {
+"also": [
+[
+"african cities",
+4
+],
+[
+"port cities",
+4
+]
+],
+"clash": []
+},
+"Bay of Pigs": {
+"also": [
+[
+"cold war",
+2
+]
+],
+"clash": []
+},
+"Pacific": {
+"also": [
+[
+"ocean",
+2
+]
+],
+"clash": [
+"pacific islands"
+]
+},
+"Atlantic": {
+"also": [
+[
+"ocean",
+2
+]
+],
+"clash": []
+},
+"Arctic": {
+"also": [
+[
+"polar regions",
+1
+],
+[
+"world regions",
+2
+],
+[
+"polar exploration",
+1
+],
+[
+"cold things",
+1
+],
+[
+"words for cold",
+2
+]
+],
+"clash": []
+},
+"Southern Ocean": {
+"also": [
+[
+"antarctic coast",
+2
+],
+[
+"antarctic places",
+3
+]
+],
+"clash": []
+},
+"Mediterranean": {
+"also": [
+[
+"climate words",
+3
+],
+[
+"world regions",
+1
+],
+[
+"diet types",
+1
+],
+[
+"house styles",
+3
+]
+],
+"clash": [
+"mediterranean trees"
+]
+},
+"Caribbean": {
+"also": [
+[
+"world regions",
+1
+],
+[
+"pirate places",
+1
+]
+],
+"clash": [
+"caribbean islands"
+]
+},
+"Baltic": {
+"also": [
+[
+"words for cold",
+4
+]
+],
+"clash": []
+},
+"Aegean": {
+"also": [
+[
+"cat breeds",
+5
+]
+],
+"clash": [
+"greek islands",
+"turkish landmarks"
+]
+},
+"Ionian": {
+"also": [
+[
+"music terms",
+4
+]
+],
+"clash": []
+},
+"Ligurian": {
+"also": [
+[
+"romance languages",
+4
+]
+],
+"clash": []
+},
+"Coral Sea": {
+"also": [
+[
+"world war ii battles",
+2
+]
+],
+"clash": [
+"reef life"
+]
+},
+"Tasman Sea": {
+"also": [
+[
+"places named after people",
+3
+]
+],
+"clash": []
+},
+"Bering Sea": {
+"also": [
+[
+"places named after people",
+3
+]
+],
+"clash": []
+},
+"Barents Sea": {
+"also": [
+[
+"places named after people",
+4
+]
+],
+"clash": []
+},
+"Weddell Sea": {
+"also": [
+[
+"antarctic coast",
+3
+],
+[
+"antarctic places",
+2
+],
+[
+"places named after people",
+5
+],
+[
+"polar exploration",
+4
+]
+],
+"clash": []
+},
+"Ross Sea": {
+"also": [
+[
+"antarctic coast",
+3
+],
+[
+"antarctic places",
+2
+],
+[
+"places named after people",
+4
+],
+[
+"polar exploration",
+4
+]
+],
+"clash": []
+},
+"Philippine Sea": {
+"also": [
+[
+"world war ii battles",
+4
+]
+],
+"clash": []
+},
+"Amundsen Sea": {
+"also": [
+[
+"antarctic places",
+4
+]
+],
+"clash": []
+},
+"Scotia Sea": {
+"also": [
+[
+"antarctic places",
+4
+]
+],
+"clash": []
+},
+"Stonehenge": {
+"also": [
+[
+"midsummer",
+2
+],
+[
+"ancient sites of europe",
+1
+],
+[
+"stone age",
+2
+]
+],
+"clash": []
+},
+"Grand Canyon": {
+"also": [
+[
+"erosion words",
+2
+],
+[
+"famous natural features",
+1
+],
+[
+"us national parks",
+1
+],
+[
+"huge things",
+2
+]
+],
+"clash": []
+},
+"Berlin Wall": {
+"also": [
+[
+"cold war",
+1
+]
+],
+"clash": []
+},
+"Mount Everest": {
+"also": [
+[
+"huge things",
+2
+],
+[
+"tall things",
+2
+],
+[
+"cold things",
+3
+]
+],
+"clash": []
+},
+"Mount Fuji": {
+"also": [
+[
+"volcano words",
+2
+],
+[
+"famous volcanoes",
+1
+]
+],
+"clash": []
+},
+"Pompeii": {
+"also": [
+[
+"volcano words",
+2
+],
+[
+"ancient cities",
+1
+],
+[
+"ancient rome",
+2
+],
+[
+"discoveries",
+2
+],
+[
+"ancient sites of europe",
+1
+],
+[
+"famous discoveries",
+2
+]
+],
+"clash": []
+},
+"Acropolis": {
+"also": [
+[
+"ancient greece",
+2
+],
+[
+"ancient sites of europe",
+1
+]
+],
+"clash": []
+},
+"Easter Island": {
+"also": [
+[
+"pacific islands",
+2
+],
+[
+"polynesian voyaging",
+2
+],
+[
+"ancient sites",
+1
+]
+],
+"clash": []
+},
+"Uluru": {
+"also": [
+[
+"outback",
+1
+],
+[
+"famous natural features",
+2
+],
+[
+"national parks",
+3
+],
+[
+"outback travel",
+2
+],
+[
+"aboriginal culture",
+2
+],
+[
+"aboriginal dreaming",
+2
+]
+],
+"clash": []
+},
+"Washington Monument": {
+"also": [
+[
+"tall things",
+3
+]
+],
+"clash": []
+},
+"Gateway Arch": {
+"also": [
+[
+"us national parks",
+3
+]
+],
+"clash": []
+},
+"Western Wall": {
+"also": [
+[
+"pilgrimage sites",
+2
+]
+],
+"clash": []
+},
+"Kilimanjaro": {
+"also": [
+[
+"mountains",
+2
+],
+[
+"famous volcanoes",
+2
+],
+[
+"african national parks",
+2
+],
+[
+"tall things",
+3
+]
+],
+"clash": []
+},
+"Matterhorn": {
+"also": [
+[
+"mountains",
+2
+],
+[
+"alpine peaks",
+1
+],
+[
+"fairground rides",
+4
+],
+[
+"tall things",
+3
+]
+],
+"clash": []
+},
+"Table Mountain": {
+"also": [
+[
+"famous mountains",
+2
+],
+[
+"african national parks",
+3
+]
+],
+"clash": []
+},
+"Sugarloaf": {
+"also": [
+[
+"famous mountains",
+3
+],
+[
+"famous ski resorts",
+4
+]
+],
+"clash": []
+},
+"Old Faithful": {
+"also": [
+[
+"geothermal words",
+2
+],
+[
+"famous waters",
+2
+]
+],
+"clash": []
+},
+"Ground Zero": {
+"also": [
+[
+"new york landmarks",
+2
+]
+],
+"clash": []
+},
+"Checkpoint Charlie": {
+"also": [
+[
+"spy words",
+3
+],
+[
+"cold war",
+2
+]
+],
+"clash": []
+},
+"Nazca Lines": {
+"also": [
+[
+"andean sites",
+2
+]
+],
+"clash": []
+},
+"Giant's Causeway": {
+"also": [
+[
+"famous natural features",
+2
+],
+[
+"celtic folklore",
+2
+]
+],
+"clash": []
+},
+"White Cliffs": {
+"also": [
+[
+"famous natural features",
+3
+]
+],
+"clash": []
+},
+"Monument Valley": {
+"also": [
+[
+"famous natural features",
+2
+]
+],
+"clash": []
+},
+"Teotihuacan": {
+"also": [
+[
+"ancient civilizations",
+3
+],
+[
+"ancient sites",
+2
+]
+],
+"clash": []
+},
+"Persepolis": {
+"also": [
+[
+"ancient cities",
+2
+],
+[
+"ancient persia",
+2
+],
+[
+"ancient sites of the middle east",
+2
+]
+],
+"clash": []
+},
+"Palmyra": {
+"also": [
+[
+"oasis",
+4
+],
+[
+"middle eastern cities",
+3
+],
+[
+"silk road cities",
+3
+],
+[
+"ancient cities",
+2
+],
+[
+"silk road",
+3
+],
+[
+"ancient sites of the middle east",
+2
+]
+],
+"clash": []
+},
+"Ephesus": {
+"also": [
+[
+"ancient cities",
+2
+],
+[
+"turkish travel words",
+3
+],
+[
+"ancient sites of turkey",
+2
+]
+],
+"clash": []
+},
+"Knossos": {
+"also": [
+[
+"ancient cities",
+2
+],
+[
+"ancient greece",
+3
+],
+[
+"discoveries",
+3
+],
+[
+"ancient sites of europe",
+2
+],
+[
+"bronze age",
+3
+]
+],
+"clash": []
+},
+"Delphi": {
+"also": [
+[
+"ancient cities",
+2
+],
+[
+"ancient greece",
+2
+],
+[
+"ancient sites of europe",
+2
+],
+[
+"programming languages",
+4
+]
+],
+"clash": []
+},
+"Mycenae": {
+"also": [
+[
+"ancient cities",
+2
+],
+[
+"ancient greece",
+3
+],
+[
+"ancient sites of europe",
+2
+],
+[
+"bronze age",
+3
+]
+],
+"clash": []
+},
+"Carthage": {
+"also": [
+[
+"ancient cities",
+1
+],
+[
+"ancient civilizations",
+2
+],
+[
+"ancient sites of africa",
+2
+]
+],
+"clash": []
+},
+"Avebury": {
+"also": [
+[
+"ancient sites of europe",
+3
+]
+],
+"clash": []
+},
+"Newgrange": {
+"also": [
+[
+"ancient sites of europe",
+3
+]
+],
+"clash": []
+},
+"Carnac": {
+"also": [
+[
+"ancient sites of europe",
+3
+]
+],
+"clash": []
+},
+"Skara Brae": {
+"also": [
+[
+"ancient sites of europe",
+3
+],
+[
+"stone age",
+3
+]
+],
+"clash": []
+},
+"Göbekli Tepe": {
+"also": [
+[
+"ancient sites of turkey",
+2
+],
+[
+"stone age",
+4
+]
+],
+"clash": []
+},
+"Mesa Verde": {
+"also": [
+[
+"us national parks",
+2
+],
+[
+"ancient sites",
+2
+]
+],
+"clash": []
+},
+"Chaco Canyon": {
+"also": [
+[
+"ancient sites",
+3
+]
+],
+"clash": []
+},
+"Cahokia": {
+"also": [
+[
+"ancient sites",
+3
+]
+],
+"clash": []
+},
+"Tikal": {
+"also": [
+[
+"ancient cities",
+3
+],
+[
+"national parks",
+3
+],
+[
+"aztecs and maya",
+3
+],
+[
+"maya and aztec sites",
+2
+]
+],
+"clash": []
+},
+"Palenque": {
+"also": [
+[
+"ancient cities",
+3
+],
+[
+"aztecs and maya",
+3
+],
+[
+"maya and aztec sites",
+2
+]
+],
+"clash": []
+},
+"Leptis Magna": {
+"also": [
+[
+"ancient cities",
+3
+],
+[
+"ancient sites of africa",
+3
+]
+],
+"clash": []
+},
+"Baalbek": {
+"also": [
+[
+"ancient sites of the middle east",
+3
+]
+],
+"clash": []
+},
+"Great Zimbabwe": {
+"also": [
+[
+"ancient cities",
+3
+],
+[
+"ancient civilizations",
+4
+],
+[
+"ancient sites of africa",
+2
+]
+],
+"clash": []
+},
+"Bagan": {
+"also": [
+[
+"ancient sites of asia",
+3
+]
+],
+"clash": []
+},
+"Ayutthaya": {
+"also": [
+[
+"asian cities",
+4
+]
+],
+"clash": []
+},
+"Sigiriya": {
+"also": [
+[
+"ancient sites of asia",
+3
+]
+],
+"clash": []
+},
+"Ellora": {
+"also": [
+[
+"ancient india",
+4
+],
+[
+"ancient sites of asia",
+3
+]
+],
+"clash": []
+},
+"Ajanta": {
+"also": [
+[
+"ancient india",
+4
+],
+[
+"ancient sites of asia",
+3
+]
+],
+"clash": []
+},
+"Great Barrier Reef": {
+"also": [
+[
+"ocean",
+2
+],
+[
+"famous natural features",
+1
+]
+],
+"clash": []
+},
+"Cliffs of Moher": {
+"also": [
+[
+"famous natural features",
+3
+]
+],
+"clash": []
+},
+"Gardens by the Bay": {
+"also": [
+[
+"famous gardens",
+2
+]
+],
+"clash": []
+},
+"White House": {
+"also": [
+[
+"us government",
+1
+],
+[
+"white things",
+2
+]
+],
+"clash": []
+},
+"Pentagon": {
+"also": [
+[
+"us government",
+1
+],
+[
+"military",
+2
+],
+[
+"polygons",
+1
+],
+[
+"2d shapes",
+1
+]
+],
+"clash": []
+},
+"Empire State Building": {
+"also": [
+[
+"new york landmarks",
+1
+],
+[
+"towers and skyscrapers",
+1
+],
+[
+"tall things",
+1
+]
+],
+"clash": []
+},
+"Sydney Opera House": {
+"also": [
+[
+"opera words",
+2
+]
+],
+"clash": []
+},
+"Capitol": {
+"also": [
+[
+"public buildings",
+2
+],
+[
+"us government",
+1
+]
+],
+"clash": []
+},
+"Kremlin": {
+"also": [
+[
+"cold war",
+2
+]
+],
+"clash": []
+},
+"Chrysler Building": {
+"also": [
+[
+"new york landmarks",
+2
+],
+[
+"towers and skyscrapers",
+2
+]
+],
+"clash": []
+},
+"Rockefeller Center": {
+"also": [
+[
+"new york landmarks",
+2
+]
+],
+"clash": []
+},
+"Alamo": {
+"also": [
+[
+"famous battles",
+1
+]
+],
+"clash": []
+},
+"Shard": {
+"also": [
+[
+"towers and skyscrapers",
+2
+],
+[
+"artifacts",
+2
+],
+[
+"tall things",
+3
+]
+],
+"clash": []
+},
+"Gherkin": {
+"also": [
+[
+"vegetables",
+3
+],
+[
+"pickles and preserves",
+1
+],
+[
+"towers and skyscrapers",
+3
+],
+[
+"british english words",
+2
+],
+[
+"words from dutch",
+3
+],
+[
+"sour foods",
+3
+]
+],
+"clash": []
+},
+"Carnegie Hall": {
+"also": [
+[
+"new york landmarks",
+2
+]
+],
+"clash": []
+},
+"Radio City": {
+"also": [
+[
+"new york landmarks",
+2
+]
+],
+"clash": []
+},
+"Lincoln Center": {
+"also": [
+[
+"new york landmarks",
+2
+],
+[
+"theater",
+3
+]
+],
+"clash": []
+},
+"La Scala": {
+"also": [
+[
+"opera words",
+3
+]
+],
+"clash": []
+},
+"Bolshoi": {
+"also": [
+[
+"opera words",
+3
+]
+],
+"clash": []
+},
+"Globe Theatre": {
+"also": [
+[
+"theater",
+2
+]
+],
+"clash": []
+},
+"Palais Garnier": {
+"also": [
+[
+"opera words",
+4
+]
+],
+"clash": []
+},
+"Mount Vernon": {
+"also": [
+[
+"places named after people",
+3
+]
+],
+"clash": []
+},
+"Biltmore": {
+"also": [
+[
+"famous hotels",
+4
+]
+],
+"clash": []
+},
+"Kaaba": {
+"also": [
+[
+"pilgrimage sites",
+2
+]
+],
+"clash": []
+},
+"Seagram Building": {
+"also": [
+[
+"new york landmarks",
+4
+]
+],
+"clash": []
+},
+"Woolworth Building": {
+"also": [
+[
+"new york landmarks",
+3
+]
+],
+"clash": []
+},
+"Burj Al Arab": {
+"also": [
+[
+"famous hotels",
+2
+]
+],
+"clash": []
+},
+"Marina Bay Sands": {
+"also": [
+[
+"famous hotels",
+2
+]
+],
+"clash": []
+},
+"Walkie-Talkie": {
+"also": [
+[
+"police words",
+2
+],
+[
+"media and communication",
+1
+],
+[
+"home electronics",
+3
+],
+[
+"emergency supplies",
+3
+],
+[
+"things with buttons",
+2
+],
+[
+"handheld gadgets",
+2
+]
+],
+"clash": []
+},
+"Dome of the Rock": {
+"also": [
+[
+"pilgrimage sites",
+2
+]
+],
+"clash": []
+},
+"Brooklyn Bridge": {
+"also": [
+[
+"new york landmarks",
+1
+]
+],
+"clash": []
+},
+"London Bridge": {
+"also": [
+[
+"outdoor games",
+2
+]
+],
+"clash": []
+},
+"Verrazzano": {
+"also": [
+[
+"explorers",
+4
+]
+],
+"clash": []
+},
+"Manhattan Bridge": {
+"also": [
+[
+"new york landmarks",
+3
+]
+],
+"clash": []
+},
+"Williamsburg Bridge": {
+"also": [
+[
+"new york landmarks",
+3
+]
+],
+"clash": []
+},
+"Queensboro Bridge": {
+"also": [
+[
+"new york landmarks",
+4
+]
+],
+"clash": []
+},
+"Iron Bridge": {
+"also": [
+[
+"industrial revolution",
+4
+]
+],
+"clash": []
+},
+"Eiffel Tower": {
+"also": [
+[
+"towers and skyscrapers",
+1
+],
+[
+"huge things",
+2
+],
+[
+"tall things",
+1
+]
+],
+"clash": []
+},
+"Leaning Tower of Pisa": {
+"also": [
+[
+"towers and skyscrapers",
+2
+],
+[
+"tall things",
+2
+]
+],
+"clash": []
+},
+"Big Ben": {
+"also": [
+[
+"towers and skyscrapers",
+1
+],
+[
+"british politics",
+1
+],
+[
+"victorian era",
+2
+],
+[
+"tall things",
+2
+],
+[
+"things that tick",
+3
+]
+],
+"clash": []
+},
+"CN Tower": {
+"also": [
+[
+"towers and skyscrapers",
+2
+],
+[
+"tall things",
+3
+]
+],
+"clash": []
+},
+"Space Needle": {
+"also": [
+[
+"towers and skyscrapers",
+2
+],
+[
+"tall things",
+3
+]
+],
+"clash": []
+},
+"Burj Khalifa": {
+"also": [
+[
+"towers and skyscrapers",
+2
+],
+[
+"tall things",
+2
+]
+],
+"clash": []
+},
+"Tokyo Tower": {
+"also": [
+[
+"towers and skyscrapers",
+3
+]
+],
+"clash": []
+},
+"Petronas Towers": {
+"also": [
+[
+"towers and skyscrapers",
+2
+],
+[
+"tall things",
+3
+]
+],
+"clash": []
+},
+"Willis Tower": {
+"also": [
+[
+"towers and skyscrapers",
+2
+],
+[
+"tall things",
+3
+]
+],
+"clash": []
+},
+"Shanghai Tower": {
+"also": [
+[
+"towers and skyscrapers",
+3
+],
+[
+"tall things",
+4
+]
+],
+"clash": []
+},
+"Trump Tower": {
+"also": [
+[
+"new york landmarks",
+2
+]
+],
+"clash": []
+},
+"Blackpool Tower": {
+"also": [
+[
+"towers and skyscrapers",
+3
+]
+],
+"clash": []
+},
+"Taipei 101": {
+"also": [
+[
+"towers and skyscrapers",
+3
+],
+[
+"tall things",
+2
+]
+],
+"clash": []
+},
+"Statue of Liberty": {
+"also": [
+[
+"new york landmarks",
+1
+],
+[
+"national symbols",
+1
+],
+[
+"huge things",
+2
+],
+[
+"tall things",
+2
+],
+[
+"green things",
+3
+]
+],
+"clash": []
+},
+"David": {
+"also": [
+[
+"famous saints",
+2
+],
+[
+"renaissance",
+3
+],
+[
+"boys' names",
+1
+],
+[
+"biblical names",
+1
+]
+],
+"clash": []
+},
+"Little Mermaid": {
+"also": [
+[
+"fairy tales",
+1
+],
+[
+"fairy tale characters",
+2
+]
+],
+"clash": []
+},
+"Sphinx": {
+"also": [
+[
+"yoga poses",
+3
+],
+[
+"stretches",
+3
+],
+[
+"ancient egypt",
+1
+],
+[
+"greek monsters",
+2
+],
+[
+"mythical creatures",
+2
+]
+],
+"clash": []
+},
+"Mount Rushmore": {
+"also": [
+[
+"famous mountains",
+1
+]
+],
+"clash": []
+},
+"Moai": {
+"also": [
+[
+"pacific art words",
+3
+]
+],
+"clash": []
+},
+"Terracotta Army": {
+"also": [
+[
+"ancient china",
+2
+],
+[
+"discoveries",
+2
+],
+[
+"ancient sites of asia",
+2
+],
+[
+"famous discoveries",
+2
+]
+],
+"clash": []
+},
+"Laocoön": {
+"also": [
+[
+"trojan war",
+3
+]
+],
+"clash": []
+},
+"Pietà": {
+"also": [
+[
+"renaissance",
+2
+]
+],
+"clash": []
+},
+"Charging Bull": {
+"also": [
+[
+"new york landmarks",
+3
+]
+],
+"clash": []
+},
+"Fearless Girl": {
+"also": [
+[
+"new york landmarks",
+3
+]
+],
+"clash": []
+},
+"Crazy Horse": {
+"also": [
+[
+"wild west",
+2
+]
+],
+"clash": []
+},
+"The Kiss": {
+"also": [
+[
+"famous paintings",
+2
+]
+],
+"clash": []
+},
+"Statue of Unity": {
+"also": [
+[
+"tall things",
+4
+]
+],
+"clash": []
+},
+"Perseus": {
+"also": [
+[
+"greek heroes",
+1
+],
+[
+"constellations",
+2
+]
+],
+"clash": []
+},
+"Buckingham Palace": {
+"also": [
+[
+"royal things",
+1
+]
+],
+"clash": []
+},
+"Versailles": {
+"also": [
+[
+"famous gardens",
+1
+],
+[
+"french cities",
+2
+],
+[
+"french revolution",
+2
+]
+],
+"clash": []
+},
+"Alhambra": {
+"also": [
+[
+"famous gardens",
+2
+],
+[
+"islamic art words",
+3
+]
+],
+"clash": []
+},
+"Schönbrunn": {
+"also": [
+[
+"famous gardens",
+3
+]
+],
+"clash": []
+},
+"Hampton Court": {
+"also": [
+[
+"famous gardens",
+2
+]
+],
+"clash": []
+},
+"Blenheim": {
+"also": [
+[
+"new zealand cities",
+4
+],
+[
+"famous battles",
+3
+]
+],
+"clash": []
+},
+"Holyrood": {
+"also": [
+[
+"british politics",
+3
+]
+],
+"clash": []
+},
+"Peterhof": {
+"also": [
+[
+"famous gardens",
+3
+]
+],
+"clash": []
+},
+"Sanssouci": {
+"also": [
+[
+"famous gardens",
+4
+]
+],
+"clash": []
+},
+"Dolmabahçe": {
+"also": [
+[
+"ottoman empire",
+4
+]
+],
+"clash": []
+},
+"Belvedere": {
+"also": [
+[
+"spirits",
+3
+],
+[
+"towers and skyscrapers",
+4
+],
+[
+"architectural features",
+4
+]
+],
+"clash": []
+},
+"Het Loo": {
+"also": [
+[
+"famous gardens",
+4
+]
+],
+"clash": []
+},
+"Windsor": {
+"also": [
+[
+"street names",
+3
+],
+[
+"castles",
+2
+],
+[
+"royal houses",
+1
+]
+],
+"clash": []
+},
+"Neuschwanstein": {
+"also": [
+[
+"castles",
+2
+]
+],
+"clash": []
+},
+"Edinburgh": {
+"also": [
+[
+"british cities",
+1
+],
+[
+"film festivals",
+4
+],
+[
+"castles",
+2
+]
+],
+"clash": []
+},
+"Bran": {
+"also": [
+[
+"celtic gods",
+3
+]
+],
+"clash": []
+},
+"Himeji": {
+"also": [
+[
+"japanese cities",
+4
+],
+[
+"castles",
+3
+]
+],
+"clash": []
+},
+"Tower of London": {
+"also": [
+[
+"towers and skyscrapers",
+2
+],
+[
+"castles",
+3
+]
+],
+"clash": []
+},
+"Warwick": {
+"also": [
+[
+"castles",
+3
+],
+[
+"silent w words",
+3
+]
+],
+"clash": []
+},
+"Balmoral": {
+"also": [
+[
+"famous hotels",
+4
+],
+[
+"european folk costume",
+4
+],
+[
+"boots",
+4
+],
+[
+"castles",
+3
+],
+[
+"victorian era",
+3
+]
+],
+"clash": []
+},
+"Stirling": {
+"also": [
+[
+"british cities",
+3
+],
+[
+"castles",
+3
+],
+[
+"engines",
+4
+]
+],
+"clash": []
+},
+"Eilean Donan": {
+"also": [
+[
+"castles",
+3
+]
+],
+"clash": []
+},
+"Conwy": {
+"also": [
+[
+"castles",
+3
+]
+],
+"clash": []
+},
+"Caernarfon": {
+"also": [
+[
+"castles",
+3
+]
+],
+"clash": []
+},
+"Harlech": {
+"also": [
+[
+"castles",
+3
+]
+],
+"clash": []
+},
+"Bamburgh": {
+"also": [
+[
+"famous beaches",
+4
+],
+[
+"castles",
+3
+]
+],
+"clash": []
+},
+"Alnwick": {
+"also": [
+[
+"castles",
+3
+]
+],
+"clash": []
+},
+"Hohenzollern": {
+"also": [
+[
+"castles",
+4
+],
+[
+"royal houses",
+3
+]
+],
+"clash": []
+},
+"Eltz": {
+"also": [
+[
+"castles",
+4
+]
+],
+"clash": []
+},
+"Heidelberg": {
+"also": [
+[
+"german cities",
+2
+]
+],
+"clash": []
+},
+"Prague Castle": {
+"also": [
+[
+"castles",
+3
+]
+],
+"clash": []
+},
+"Malbork": {
+"also": [
+[
+"castles",
+4
+]
+],
+"clash": []
+},
+"Chillon": {
+"also": [
+[
+"castles",
+4
+]
+],
+"clash": []
+},
+"Carcassonne": {
+"also": [
+[
+"french cities",
+3
+],
+[
+"board games",
+3
+],
+[
+"castles",
+3
+]
+],
+"clash": []
+},
+"Chambord": {
+"also": [
+[
+"liqueurs",
+3
+],
+[
+"castles",
+4
+]
+],
+"clash": []
+},
+"Alcázar": {
+"also": [
+[
+"castles",
+3
+]
+],
+"clash": []
+},
+"Glamis": {
+"also": [
+[
+"castles",
+4
+]
+],
+"clash": []
+},
+"Urquhart": {
+"also": [
+[
+"castles",
+4
+],
+[
+"scottish clan names",
+3
+]
+],
+"clash": []
+},
+"Blarney": {
+"also": [
+[
+"castles",
+3
+]
+],
+"clash": []
+},
+"Kilkenny": {
+"also": [
+[
+"beers",
+4
+],
+[
+"castles",
+4
+]
+],
+"clash": []
+},
+"Bodiam": {
+"also": [
+[
+"castles",
+4
+]
+],
+"clash": []
+},
+"Corfe": {
+"also": [
+[
+"castles",
+4
+]
+],
+"clash": []
+},
+"Osaka Castle": {
+"also": [
+[
+"feudal japan",
+4
+]
+],
+"clash": []
+},
+"Peleș": {
+"also": [
+[
+"castles",
+4
+]
+],
+"clash": []
+},
+"Kronborg": {
+"also": [
+[
+"castles",
+4
+]
+],
+"clash": []
+},
+"Arundel": {
+"also": [
+[
+"castles",
+4
+]
+],
+"clash": []
+},
+"Caerphilly": {
+"also": [
+[
+"hard cheeses",
+4
+],
+[
+"foods named after places",
+4
+],
+[
+"castles",
+4
+]
+],
+"clash": []
+},
+"Beaumaris": {
+"also": [
+[
+"castles",
+4
+]
+],
+"clash": []
+},
+"Dunnottar": {
+"also": [
+[
+"castles",
+4
+]
+],
+"clash": []
+},
+"Cawdor": {
+"also": [
+[
+"castles",
+4
+]
+],
+"clash": []
+},
+"Kenilworth": {
+"also": [
+[
+"castles",
+4
+]
+],
+"clash": []
+},
+"Tintagel": {
+"also": [
+[
+"castles",
+3
+],
+[
+"arthurian legend",
+3
+]
+],
+"clash": []
+},
+"Wartburg": {
+"also": [
+[
+"german car brands",
+4
+],
+[
+"castles",
+4
+]
+],
+"clash": []
+},
+"Chapultepec": {
+"also": [
+[
+"famous battles",
+4
+]
+],
+"clash": []
+},
+"Leeds Castle": {
+"also": [
+[
+"castles",
+3
+]
+],
+"clash": []
+},
+"Cardiff Castle": {
+"also": [
+[
+"castles",
+3
+]
+],
+"clash": []
+},
+"Great Pyramid": {
+"also": [
+[
+"ancient egypt",
+2
+]
+],
+"clash": []
+},
+"Hanging Gardens": {
+"also": [
+[
+"famous gardens",
+2
+],
+[
+"mesopotamia",
+2
+]
+],
+"clash": []
+},
+"Colossus": {
+"also": [
+[
+"sculpture words",
+4
+],
+[
+"computers",
+4
+],
+[
+"tall things",
+3
+]
+],
+"clash": []
+},
+"Mausoleum": {
+"also": [
+[
+"buildings",
+2
+],
+[
+"tourist attractions",
+3
+],
+[
+"tombs and burials",
+1
+],
+[
+"words named after people",
+3
+]
+],
+"clash": []
+},
+"Temple of Artemis": {
+"also": [
+[
+"ancient sites of turkey",
+3
+]
+],
+"clash": []
+},
+"Great Wall": {
+"also": [
+[
+"car brands",
+4
+],
+[
+"famous marathons",
+4
+],
+[
+"ancient china",
+1
+],
+[
+"ancient sites of asia",
+1
+],
+[
+"huge things",
+2
+],
+[
+"long things",
+2
+]
+],
+"clash": []
+},
+"Petra": {
+"also": [
+[
+"ancient cities",
+2
+],
+[
+"discoveries",
+3
+],
+[
+"ancient sites of the middle east",
+1
+]
+],
+"clash": []
+},
+"Colosseum": {
+"also": [
+[
+"rome landmarks",
+1
+],
+[
+"buildings",
+2
+],
+[
+"sports venues",
+2
+],
+[
+"ancient rome",
+1
+],
+[
+"ancient sites of europe",
+1
+]
+],
+"clash": []
+},
+"Chichen Itza": {
+"also": [
+[
+"aztecs and maya",
+2
+],
+[
+"maya and aztec sites",
+1
+]
+],
+"clash": []
+},
+"Machu Picchu": {
+"also": [
+[
+"andes",
+1
+],
+[
+"south american travel",
+1
+],
+[
+"inca empire",
+1
+],
+[
+"discoveries",
+2
+],
+[
+"andean sites",
+1
+],
+[
+"famous discoveries",
+3
+],
+[
+"inca engineering",
+1
+]
+],
+"clash": []
+},
+"Taj Mahal": {
+"also": [
+[
+"tombs and burials",
+2
+],
+[
+"white things",
+3
+]
+],
+"clash": []
+},
+"Christ the Redeemer": {
+"also": [
+[
+"tall things",
+3
+]
+],
+"clash": []
+},
+"Times Square": {
+"also": [
+[
+"new york landmarks",
+1
+],
+[
+"new year",
+2
+]
+],
+"clash": []
+},
+"Union Square": {
+"also": [
+[
+"new york landmarks",
+3
+]
+],
+"clash": []
+},
+"Concorde": {
+"also": [
+[
+"fast things",
+2
+]
+],
+"clash": []
+},
+"Piazza Navona": {
+"also": [
+[
+"rome landmarks",
+3
+]
+],
+"clash": []
+},
+"Washington Square": {
+"also": [
+[
+"new york landmarks",
+2
+]
+],
+"clash": []
+},
+"Herald Square": {
+"also": [
+[
+"new york landmarks",
+3
+]
+],
+"clash": []
+},
+"St Peter's Square": {
+"also": [
+[
+"rome landmarks",
+2
+]
+],
+"clash": []
+},
+"Broadway": {
+"also": [
+[
+"new york landmarks",
+1
+],
+[
+"poker terms",
+4
+],
+[
+"musicals words",
+1
+]
+],
+"clash": []
+},
+"Fifth Avenue": {
+"also": [
+[
+"new york landmarks",
+2
+]
+],
+"clash": []
+},
+"Wall Street": {
+"also": [
+[
+"new york landmarks",
+1
+],
+[
+"stock market words",
+1
+]
+],
+"clash": []
+},
+"Downing Street": {
+"also": [
+[
+"british politics",
+1
+]
+],
+"clash": []
+},
+"Baker Street": {
+"also": [
+[
+"detective words",
+2
+]
+],
+"clash": []
+},
+"Whitehall": {
+"also": [
+[
+"british politics",
+2
+]
+],
+"clash": []
+},
+"Strand": {
+"also": [
+[
+"coastal features",
+4
+],
+[
+"hair",
+3
+],
+[
+"cords and strings",
+3
+]
+],
+"clash": []
+},
+"Appian Way": {
+"also": [
+[
+"rome landmarks",
+3
+],
+[
+"famous routes",
+3
+],
+[
+"ancient rome",
+3
+]
+],
+"clash": []
+},
+"Via Dolorosa": {
+"also": [
+[
+"pilgrimage sites",
+3
+]
+],
+"clash": []
+},
+"Route 66": {
+"also": [
+[
+"streets and roads",
+2
+],
+[
+"famous routes",
+1
+],
+[
+"american road trip",
+1
+],
+[
+"long things",
+2
+]
+],
+"clash": []
+},
+"Uffizi": {
+"also": [
+[
+"renaissance",
+3
+]
+],
+"clash": []
+},
+"Hermitage": {
+"also": [
+[
+"red wines",
+4
+],
+[
+"wine regions",
+4
+],
+[
+"religious buildings",
+3
+],
+[
+"places of worship",
+3
+]
+],
+"clash": []
+},
+"Guggenheim": {
+"also": [
+[
+"new york landmarks",
+2
+]
+],
+"clash": []
+},
+"MoMA": {
+"also": [
+[
+"new york landmarks",
+2
+]
+],
+"clash": []
+},
+"Vatican Museums": {
+"also": [
+[
+"rome landmarks",
+2
+]
+],
+"clash": []
+},
+"Whitney": {
+"also": [
+[
+"new york landmarks",
+4
+]
+],
+"clash": []
+},
+"Frick": {
+"also": [
+[
+"new york landmarks",
+4
+],
+[
+"polite swears",
+2
+]
+],
+"clash": []
+},
+"Pergamon": {
+"also": [
+[
+"ancient cities",
+3
+],
+[
+"ancient sites of turkey",
+3
+]
+],
+"clash": []
+},
+"Capitoline": {
+"also": [
+[
+"ancient rome",
+4
+]
+],
+"clash": []
+},
+"Brooklyn Museum": {
+"also": [
+[
+"new york landmarks",
+3
+]
+],
+"clash": []
+},
+"Angkor Wat": {
+"also": [
+[
+"discoveries",
+3
+],
+[
+"ancient sites of asia",
+1
+]
+],
+"clash": []
+},
+"Parthenon": {
+"also": [
+[
+"ancient greece",
+2
+],
+[
+"ancient sites of europe",
+1
+]
+],
+"clash": []
+},
+"Borobudur": {
+"also": [
+[
+"ancient sites of asia",
+2
+]
+],
+"clash": []
+},
+"Golden Temple": {
+"also": [
+[
+"pilgrimage sites",
+2
+]
+],
+"clash": []
+},
+"Karnak": {
+"also": [
+[
+"ancient egypt",
+3
+],
+[
+"ancient sites of africa",
+2
+]
+],
+"clash": []
+},
+"Abu Simbel": {
+"also": [
+[
+"ancient egypt",
+3
+],
+[
+"ancient sites of africa",
+2
+]
+],
+"clash": []
+},
+"Prambanan": {
+"also": [
+[
+"ancient sites of asia",
+3
+]
+],
+"clash": []
+},
+"Jokhang": {
+"also": [
+[
+"pilgrimage sites",
+4
+]
+],
+"clash": []
+},
+"Shaolin": {
+"also": [
+[
+"chinese martial arts",
+2
+]
+],
+"clash": []
+},
+"Meenakshi": {
+"also": [
+[
+"hindu gods",
+4
+]
+],
+"clash": []
+},
+"Khajuraho": {
+"also": [
+[
+"ancient sites of asia",
+3
+]
+],
+"clash": []
+},
+"Jagannath": {
+"also": [
+[
+"hindu gods",
+4
+]
+],
+"clash": []
+},
+"Kedarnath": {
+"also": [
+[
+"pilgrimage sites",
+4
+]
+],
+"clash": []
+},
+"Badrinath": {
+"also": [
+[
+"pilgrimage sites",
+4
+]
+],
+"clash": []
+},
+"Philae": {
+"also": [
+[
+"space vehicles",
+4
+],
+[
+"ancient egypt",
+4
+],
+[
+"ancient sites of africa",
+3
+],
+[
+"space missions",
+4
+]
+],
+"clash": []
+},
+"Edfu": {
+"also": [
+[
+"ancient egypt",
+4
+],
+[
+"ancient sites of africa",
+4
+]
+],
+"clash": []
+},
+"Kom Ombo": {
+"also": [
+[
+"ancient egypt",
+4
+],
+[
+"ancient sites of africa",
+4
+]
+],
+"clash": []
+},
+"Dendera": {
+"also": [
+[
+"ancient egypt",
+4
+],
+[
+"ancient sites of africa",
+4
+]
+],
+"clash": []
+},
+"Bayon": {
+"also": [
+[
+"ancient sites of asia",
+4
+]
+],
+"clash": []
+},
+"Ta Prohm": {
+"also": [
+[
+"ancient sites of asia",
+3
+]
+],
+"clash": []
+},
+"Preah Vihear": {
+"also": [
+[
+"ancient sites of asia",
+4
+]
+],
+"clash": []
+},
+"Uluwatu": {
+"also": [
+[
+"famous beaches",
+4
+]
+],
+"clash": []
+},
+"Bulguksa": {
+"also": [
+[
+"ancient sites of asia",
+4
+]
+],
+"clash": []
+},
+"El Castillo": {
+"also": [
+[
+"aztecs and maya",
+3
+]
+],
+"clash": []
+},
+"Templo Mayor": {
+"also": [
+[
+"aztecs and maya",
+3
+],
+[
+"maya and aztec sites",
+3
+]
+],
+"clash": []
+},
+"Pantheon": {
+"also": [
+[
+"rome landmarks",
+2
+],
+[
+"places of worship",
+3
+],
+[
+"ancient rome",
+2
+],
+[
+"ancient sites of europe",
+2
+],
+[
+"mythology",
+2
+]
+],
+"clash": []
+},
+"Tirupati": {
+"also": [
+[
+"indian cities",
+4
+],
+[
+"holy cities",
+4
+],
+[
+"pilgrimage sites",
+4
+]
+],
+"clash": []
+},
+"Blue Mosque": {
+"also": [
+[
+"turkish travel words",
+2
+],
+[
+"ottoman empire",
+3
+],
+[
+"blue things",
+4
+]
+],
+"clash": []
+},
+"Hagia Sophia": {
+"also": [
+[
+"turkish travel words",
+2
+],
+[
+"byzantine empire",
+2
+]
+],
+"clash": []
+},
+"Selimiye": {
+"also": [
+[
+"turkish resorts",
+5
+]
+],
+"clash": []
+},
+"St Peter's": {
+"also": [
+[
+"rome landmarks",
+2
+]
+],
+"clash": []
+},
+"Sistine Chapel": {
+"also": [
+[
+"rome landmarks",
+1
+],
+[
+"renaissance",
+1
+]
+],
+"clash": []
+},
+"Notre-Dame": {
+"also": [
+[
+"medieval times",
+2
+]
+],
+"clash": []
+},
+"Westminster Abbey": {
+"also": [
+[
+"monastery",
+3
+]
+],
+"clash": []
+},
+"Duomo": {
+"also": [
+[
+"places of worship",
+4
+]
+],
+"clash": []
+},
+"Chartres": {
+"also": [
+[
+"french cities",
+3
+],
+[
+"pilgrimage sites",
+3
+],
+[
+"medieval times",
+3
+]
+],
+"clash": []
+},
+"Lateran": {
+"also": [
+[
+"rome landmarks",
+4
+]
+],
+"clash": []
+},
+"Reims": {
+"also": [
+[
+"french cities",
+3
+]
+],
+"clash": []
+},
+"Amiens": {
+"also": [
+[
+"french cities",
+3
+],
+[
+"world war i battles",
+3
+]
+],
+"clash": []
+},
+"Holy Sepulchre": {
+"also": [
+[
+"pilgrimage sites",
+3
+],
+[
+"crusades",
+3
+]
+],
+"clash": []
+},
+"Lalibela": {
+"also": [
+[
+"african cities",
+4
+],
+[
+"holy cities",
+4
+],
+[
+"pilgrimage sites",
+4
+]
+],
+"clash": []
+},
+"Tintern Abbey": {
+"also": [
+[
+"monastery",
+3
+]
+],
+"clash": []
+},
+"Fountains Abbey": {
+"also": [
+[
+"monastery",
+4
+]
+],
+"clash": []
+},
+"Montserrat": {
+"also": [
+[
+"caribbean islands",
+3
+],
+[
+"pilgrimage sites",
+3
+],
+[
+"fonts",
+4
+]
+],
+"clash": []
+},
+"Cluny": {
+"also": [
+[
+"monastery",
+4
+]
+],
+"clash": []
+},
+"Trinity Church": {
+"also": [
+[
+"new york landmarks",
+3
+]
+],
+"clash": []
+},
+"Mont-Saint-Michel": {
+"also": [
+[
+"monastery",
+3
+]
+],
+"clash": []
+},
+"Cappadocia": {
+"also": [
+[
+"turkish resorts",
+2
+],
+[
+"turkish travel words",
+2
+],
+[
+"ancient sites of turkey",
+2
+]
+],
+"clash": []
+},
+"Pamukkale": {
+"also": [
+[
+"geothermal words",
+4
+],
+[
+"turkish resorts",
+3
+],
+[
+"famous natural features",
+3
+],
+[
+"turkish travel words",
+3
+],
+[
+"ancient sites of turkey",
+2
+]
+],
+"clash": []
+},
+"Troy": {
+"also": [
+[
+"ancient cities",
+1
+],
+[
+"ancient greece",
+2
+],
+[
+"discoveries",
+2
+],
+[
+"ancient sites of turkey",
+1
+],
+[
+"bronze age",
+2
+],
+[
+"trojan war",
+1
+],
+[
+"famous discoveries",
+3
+]
+],
+"clash": []
+},
+"Mount Nemrut": {
+"also": [
+[
+"ancient sites of turkey",
+3
+]
+],
+"clash": []
+},
+"Göreme": {
+"also": [
+[
+"cappadocia",
+2
+]
+],
+"clash": []
+},
+"Hierapolis": {
+"also": [
+[
+"ancient sites of turkey",
+3
+]
+],
+"clash": []
+},
+"Gallipoli": {
+"also": [
+[
+"peninsulas",
+2
+],
+[
+"anzac day",
+1
+],
+[
+"ottoman empire",
+3
+],
+[
+"world war i battles",
+1
+]
+],
+"clash": []
+},
+"Ölüdeniz": {
+"also": [
+[
+"turkish resorts",
+3
+]
+],
+"clash": []
+},
+"Aspendos": {
+"also": [
+[
+"ancient sites of turkey",
+4
+]
+],
+"clash": []
+},
+"Perge": {
+"also": [
+[
+"ancient sites of turkey",
+4
+]
+],
+"clash": []
+},
+"Myra": {
+"also": [
+[
+"ancient sites of turkey",
+4
+]
+],
+"clash": []
+},
+"Olympos": {
+"also": [
+[
+"turkish resorts",
+4
+],
+[
+"ancient sites of turkey",
+4
+]
+],
+"clash": []
+},
+"Lycian Way": {
+"also": [
+[
+"famous hiking trails",
+4
+],
+[
+"turkish travel words",
+4
+]
+],
+"clash": []
+},
+"Çatalhöyük": {
+"also": [
+[
+"ancient cities",
+3
+],
+[
+"ancient sites of turkey",
+3
+],
+[
+"stone age",
+4
+]
+],
+"clash": []
+},
+"Hattusa": {
+"also": [
+[
+"ancient cities",
+3
+],
+[
+"ancient sites of turkey",
+3
+]
+],
+"clash": []
+},
+"Ani": {
+"also": [
+[
+"birds",
+5
+],
+[
+"ancient sites of turkey",
+4
+]
+],
+"clash": []
+},
+"Aphrodisias": {
+"also": [
+[
+"ancient sites of turkey",
+3
+]
+],
+"clash": []
+},
+"Miletus": {
+"also": [
+[
+"ancient cities",
+3
+],
+[
+"ancient sites of turkey",
+3
+]
+],
+"clash": []
+},
+"Priene": {
+"also": [
+[
+"ancient sites of turkey",
+4
+]
+],
+"clash": []
+},
+"Didyma": {
+"also": [
+[
+"ancient sites of turkey",
+4
+]
+],
+"clash": []
+},
+"Termessos": {
+"also": [
+[
+"ancient sites of turkey",
+4
+]
+],
+"clash": []
+},
+"Derinkuyu": {
+"also": [
+[
+"cappadocia",
+3
+],
+[
+"ancient sites of turkey",
+3
+]
+],
+"clash": []
+},
+"Kaymaklı": {
+"also": [
+[
+"cappadocia",
+4
+]
+],
+"clash": []
+},
+"Uçhisar": {
+"also": [
+[
+"cappadocia",
+3
+]
+],
+"clash": []
+},
+"Zeugma": {
+"also": [
+[
+"poetry terms",
+5
+],
+[
+"ancient sites of turkey",
+4
+],
+[
+"figures of speech",
+5
+]
+],
+"clash": []
+},
+"Sagalassos": {
+"also": [
+[
+"ancient sites of turkey",
+4
+]
+],
+"clash": []
+},
+"Kaunos": {
+"also": [
+[
+"ancient sites of turkey",
+4
+]
+],
+"clash": []
+},
+"Assos": {
+"also": [
+[
+"ancient sites of turkey",
+4
+]
+],
+"clash": []
+},
+"Xanthos": {
+"also": [
+[
+"ancient sites of turkey",
+4
+]
+],
+"clash": []
+},
+"Patara": {
+"also": [
+[
+"turkish resorts",
+4
+],
+[
+"ancient sites of turkey",
+4
+]
+],
+"clash": []
+},
+"Sardis": {
+"also": [
+[
+"ancient cities",
+3
+],
+[
+"ancient sites of turkey",
+3
+]
+],
+"clash": []
+},
+"Love Valley": {
+"also": [
+[
+"cappadocia",
+3
+]
+],
+"clash": []
+},
+"Mount Ida": {
+"also": [
+[
+"famous mountains",
+4
+],
+[
+"trojan war",
+4
+]
+],
+"clash": []
+},
+"Giza": {
+"also": [
+[
+"african cities",
+3
+],
+[
+"ancient egypt",
+2
+],
+[
+"ancient sites of africa",
+1
+]
+],
+"clash": []
+},
+"Luxor": {
+"also": [
+[
+"african cities",
+3
+],
+[
+"ancient egypt",
+2
+],
+[
+"ancient sites of africa",
+2
+]
+],
+"clash": []
+},
+"Valley of the Kings": {
+"also": [
+[
+"ancient egypt",
+2
+],
+[
+"ancient sites of africa",
+2
+],
+[
+"tombs and burials",
+2
+]
+],
+"clash": []
+},
+"Mount Sinai": {
+"also": [
+[
+"famous mountains",
+2
+],
+[
+"pilgrimage sites",
+2
+]
+],
+"clash": []
+},
+"Saqqara": {
+"also": [
+[
+"ancient egypt",
+4
+],
+[
+"ancient sites of africa",
+3
+]
+],
+"clash": []
+},
+"Step Pyramid": {
+"also": [
+[
+"ancient egypt",
+3
+]
+],
+"clash": []
+},
+"Siwa": {
+"also": [
+[
+"oasis",
+4
+],
+[
+"ancient sites of africa",
+3
+]
+],
+"clash": []
+},
+"White Desert": {
+"also": [
+[
+"famous deserts",
+4
+]
+],
+"clash": []
+},
+"Abydos": {
+"also": [
+[
+"ancient cities",
+4
+],
+[
+"ancient egypt",
+4
+],
+[
+"ancient sites of africa",
+3
+]
+],
+"clash": []
+},
+"Dahshur": {
+"also": [
+[
+"ancient sites of africa",
+4
+]
+],
+"clash": []
+},
+"Medinet Habu": {
+"also": [
+[
+"ancient sites of africa",
+4
+]
+],
+"clash": []
+},
+"Amarna": {
+"also": [
+[
+"ancient cities",
+3
+],
+[
+"ancient egypt",
+4
+],
+[
+"ancient sites of africa",
+3
+],
+[
+"bronze age",
+4
+]
+],
+"clash": []
+},
+"Tanis": {
+"also": [
+[
+"ancient cities",
+4
+],
+[
+"ancient sites of africa",
+3
+]
+],
+"clash": []
+},
+"Blue Hole": {
+"also": [
+[
+"famous waters",
+3
+]
+],
+"clash": []
+},
+"Ras Mohammed": {
+"also": [
+[
+"african national parks",
+4
+]
+],
+"clash": []
+},
+"Bahariya": {
+"also": [
+[
+"oasis",
+5
+]
+],
+"clash": []
+},
+"Elephantine": {
+"also": [
+[
+"animal adjectives",
+3
+],
+[
+"ancient sites of africa",
+4
+],
+[
+"words for big",
+3
+]
+],
+"clash": []
+},
+"Timbuktu": {
+"also": [
+[
+"african cities",
+2
+],
+[
+"rhymes with blue",
+3
+]
+],
+"clash": []
+},
+"Serengeti": {
+"also": [
+[
+"cat breeds",
+5
+],
+[
+"savanna",
+2
+],
+[
+"famous natural features",
+2
+],
+[
+"african national parks",
+1
+]
+],
+"clash": []
+},
+"Robben Island": {
+"also": [
+[
+"famous islands",
+3
+],
+[
+"prison words",
+3
+]
+],
+"clash": []
+},
+"Kruger": {
+"also": [
+[
+"savanna",
+3
+],
+[
+"african national parks",
+1
+]
+],
+"clash": []
+},
+"Masai Mara": {
+"also": [
+[
+"savanna",
+2
+]
+],
+"clash": []
+},
+"Ngorongoro": {
+"also": [
+[
+"famous natural features",
+3
+]
+],
+"clash": []
+},
+"Okavango Delta": {
+"also": [
+[
+"famous waters",
+3
+]
+],
+"clash": []
+},
+"Mount Kenya": {
+"also": [
+[
+"famous volcanoes",
+3
+],
+[
+"african national parks",
+3
+]
+],
+"clash": []
+},
+"Lake Victoria": {
+"also": [
+[
+"places named after people",
+2
+]
+],
+"clash": []
+},
+"Djenné": {
+"also": [
+[
+"african cities",
+5
+]
+],
+"clash": []
+},
+"Volubilis": {
+"also": [
+[
+"ancient cities",
+4
+],
+[
+"ancient sites of africa",
+4
+]
+],
+"clash": []
+},
+"Skeleton Coast": {
+"also": [
+[
+"shipwreck coast words",
+4
+],
+[
+"african national parks",
+4
+]
+],
+"clash": []
+},
+"Etosha": {
+"also": [
+[
+"african national parks",
+3
+]
+],
+"clash": []
+},
+"Drakensberg": {
+"also": [
+[
+"mountain ranges",
+3
+]
+],
+"clash": []
+},
+"Aksum": {
+"also": [
+[
+"ancient civilizations",
+4
+],
+[
+"ancient sites of africa",
+3
+]
+],
+"clash": []
+},
+"Simien": {
+"also": [
+[
+"mountain ranges",
+5
+]
+],
+"clash": []
+},
+"Bwindi": {
+"also": [
+[
+"african national parks",
+3
+]
+],
+"clash": []
+},
+"Nyiragongo": {
+"also": [
+[
+"famous volcanoes",
+4
+]
+],
+"clash": []
+},
+"Danakil": {
+"also": [
+[
+"famous deserts",
+4
+]
+],
+"clash": []
+},
+"Erta Ale": {
+"also": [
+[
+"famous volcanoes",
+4
+]
+],
+"clash": []
+},
+"Mount Cameroon": {
+"also": [
+[
+"famous volcanoes",
+4
+]
+],
+"clash": []
+},
+"Boulders Beach": {
+"also": [
+[
+"famous beaches",
+4
+]
+],
+"clash": []
+},
+"Namib": {
+"also": [
+[
+"desert",
+3
+],
+[
+"famous deserts",
+2
+]
+],
+"clash": []
+},
+"Toubkal": {
+"also": [
+[
+"famous mountains",
+4
+],
+[
+"african national parks",
+4
+]
+],
+"clash": []
+},
+"Cape of Good Hope": {
+"also": [
+[
+"spice trade",
+2
+]
+],
+"clash": []
+},
+"Lake Malawi": {
+"also": [
+[
+"african national parks",
+4
+]
+],
+"clash": []
+},
+"Chefchaouen": {
+"also": [
+[
+"african cities",
+4
+]
+],
+"clash": []
+},
+"Sahara": {
+"also": [
+[
+"desert",
+1
+],
+[
+"famous deserts",
+1
+],
+[
+"huge things",
+2
+],
+[
+"hot things",
+2
+]
+],
+"clash": []
+},
+"Gondar": {
+"also": [
+[
+"african cities",
+4
+]
+],
+"clash": []
+},
+"Sanchi": {
+"also": [
+[
+"ancient india",
+4
+],
+[
+"ancient sites of asia",
+3
+]
+],
+"clash": []
+},
+"Elephanta": {
+"also": [
+[
+"named winds",
+5
+]
+],
+"clash": []
+},
+"Golconda": {
+"also": [
+[
+"famous paintings",
+5
+]
+],
+"clash": []
+},
+"Nalanda": {
+"also": [
+[
+"ancient india",
+4
+],
+[
+"ancient sites of asia",
+3
+]
+],
+"clash": []
+},
+"Rock Garden": {
+"also": [
+[
+"garden styles",
+1
+],
+[
+"asian temple features",
+3
+]
+],
+"clash": []
+},
+"Potala Palace": {
+"also": [
+[
+"pilgrimage sites",
+3
+]
+],
+"clash": []
+},
+"Huangshan": {
+"also": [
+[
+"famous mountains",
+4
+]
+],
+"clash": []
+},
+"Zhangjiajie": {
+"also": [
+[
+"famous natural features",
+3
+],
+[
+"national parks",
+3
+]
+],
+"clash": []
+},
+"Jiuzhaigou": {
+"also": [
+[
+"national parks",
+4
+]
+],
+"clash": []
+},
+"Yu Garden": {
+"also": [
+[
+"famous gardens",
+4
+]
+],
+"clash": []
+},
+"Mogao Caves": {
+"also": [
+[
+"silk road",
+4
+],
+[
+"ancient sites of asia",
+3
+]
+],
+"clash": []
+},
+"Yungang": {
+"also": [
+[
+"ancient sites of asia",
+4
+]
+],
+"clash": []
+},
+"Mount Tai": {
+"also": [
+[
+"famous mountains",
+4
+]
+],
+"clash": []
+},
+"Mount Emei": {
+"also": [
+[
+"famous mountains",
+5
+],
+[
+"pilgrimage sites",
+5
+]
+],
+"clash": []
+},
+"Wudang": {
+"also": [
+[
+"chinese martial arts",
+4
+]
+],
+"clash": []
+},
+"Pingyao": {
+"also": [
+[
+"chinese cities",
+5
+]
+],
+"clash": []
+},
+"Lijiang": {
+"also": [
+[
+"chinese cities",
+4
+]
+],
+"clash": []
+},
+"Tulou": {
+"also": [
+[
+"traditional dwellings",
+5
+],
+[
+"east asian buildings",
+5
+]
+],
+"clash": []
+},
+"Yuanyang": {
+"also": [
+[
+"coffee drinks",
+5
+],
+[
+"asian drinks",
+5
+]
+],
+"clash": []
+},
+"Bird's Nest": {
+"also": [
+[
+"famous stadiums",
+2
+]
+],
+"clash": []
+},
+"Mount Hua": {
+"also": [
+[
+"famous mountains",
+5
+]
+],
+"clash": []
+},
+"Star Ferry": {
+"also": [
+[
+"asian transport",
+4
+]
+],
+"clash": []
+},
+"Fenghuang": {
+"also": [
+[
+"chinese mythology",
+3
+],
+[
+"winged beasts",
+4
+]
+],
+"clash": []
+},
+"Arashiyama": {
+"also": [
+[
+"famous forests",
+4
+]
+],
+"clash": []
+},
+"Kenrokuen": {
+"also": [
+[
+"famous gardens",
+4
+]
+],
+"clash": []
+},
+"Akihabara": {
+"also": [
+[
+"anime and manga words",
+3
+]
+],
+"clash": []
+},
+"Harajuku": {
+"also": [
+[
+"fashion styles",
+4
+]
+],
+"clash": []
+},
+"Sakurajima": {
+"also": [
+[
+"famous volcanoes",
+4
+]
+],
+"clash": []
+},
+"Kumano Kodo": {
+"also": [
+[
+"famous hiking trails",
+4
+],
+[
+"pilgrimage sites",
+4
+]
+],
+"clash": []
+},
+"Yakushima": {
+"also": [
+[
+"famous forests",
+4
+]
+],
+"clash": []
+},
+"Bamboo Forest": {
+"also": [
+[
+"forest types",
+3
+]
+],
+"clash": []
+},
+"Opera House": {
+"also": [
+[
+"buildings",
+2
+],
+[
+"tourist attractions",
+2
+],
+[
+"opera words",
+2
+]
+],
+"clash": []
+},
+"Twelve Apostles": {
+"also": [
+[
+"famous natural features",
+3
+]
+],
+"clash": []
+},
+"Kata Tjuta": {
+"also": [
+[
+"outback",
+3
+],
+[
+"aboriginal culture",
+4
+],
+[
+"aboriginal dreaming",
+4
+]
+],
+"clash": []
+},
+"Kakadu": {
+"also": [
+[
+"australian states and regions",
+3
+],
+[
+"national parks",
+3
+],
+[
+"aboriginal culture",
+3
+]
+],
+"clash": []
+},
+"Blue Mountains": {
+"also": [
+[
+"australian states and regions",
+3
+],
+[
+"mountain ranges",
+3
+],
+[
+"national parks",
+3
+]
+],
+"clash": []
+},
+"Daintree": {
+"also": [
+[
+"famous forests",
+3
+],
+[
+"rainforest",
+4
+],
+[
+"australian states and regions",
+3
+],
+[
+"famous natural features",
+3
+],
+[
+"national parks",
+3
+]
+],
+"clash": []
+},
+"Whitsundays": {
+"also": [
+[
+"australian states and regions",
+3
+],
+[
+"beach destinations",
+3
+]
+],
+"clash": []
+},
+"Whitehaven Beach": {
+"also": [
+[
+"beach destinations",
+4
+]
+],
+"clash": []
+},
+"Great Ocean Road": {
+"also": [
+[
+"famous routes",
+3
+]
+],
+"clash": []
+},
+"Wave Rock": {
+"also": [
+[
+"famous natural features",
+3
+]
+],
+"clash": []
+},
+"Pinnacles": {
+"also": [
+[
+"us national parks",
+4
+]
+],
+"clash": []
+},
+"Kings Canyon": {
+"also": [
+[
+"famous natural features",
+3
+],
+[
+"us national parks",
+3
+]
+],
+"clash": []
+},
+"Port Arthur": {
+"also": [
+[
+"old city names",
+4
+]
+],
+"clash": []
+},
+"Cradle Mountain": {
+"also": [
+[
+"famous mountains",
+4
+],
+[
+"national parks",
+3
+]
+],
+"clash": []
+},
+"Wineglass Bay": {
+"also": [
+[
+"famous beaches",
+3
+]
+],
+"clash": []
+},
+"Luna Park": {
+"also": [
+[
+"famous theme parks",
+4
+]
+],
+"clash": []
+},
+"Purnululu": {
+"also": [
+[
+"national parks",
+5
+]
+],
+"clash": []
+},
+"Karijini": {
+"also": [
+[
+"national parks",
+4
+]
+],
+"clash": []
+},
+"Flinders Ranges": {
+"also": [
+[
+"outback",
+3
+],
+[
+"australian states and regions",
+4
+],
+[
+"mountain ranges",
+4
+]
+],
+"clash": []
+},
+"Lord Howe": {
+"also": [
+[
+"pacific islands",
+4
+]
+],
+"clash": []
+},
+"Byron Bay": {
+"also": [
+[
+"famous beaches",
+3
+],
+[
+"beach destinations",
+3
+]
+],
+"clash": []
+},
+"Bells Beach": {
+"also": [
+[
+"famous beaches",
+4
+]
+],
+"clash": []
+},
+"Phillip Island": {
+"also": [
+[
+"famous race tracks",
+3
+]
+],
+"clash": []
+},
+"Kangaroo Island": {
+"also": [
+[
+"australian states and regions",
+3
+]
+],
+"clash": []
+},
+"War Memorial": {
+"also": [
+[
+"anzac day",
+2
+]
+],
+"clash": []
+},
+"Lake Eyre": {
+"also": [
+[
+"outback",
+3
+]
+],
+"clash": []
+},
+"Milford Sound": {
+"also": [
+[
+"famous waters",
+3
+]
+],
+"clash": []
+},
+"Mount Cook": {
+"also": [
+[
+"famous mountains",
+3
+],
+[
+"places named after people",
+4
+]
+],
+"clash": []
+},
+"Tongariro": {
+"also": [
+[
+"famous volcanoes",
+4
+],
+[
+"national parks",
+3
+]
+],
+"clash": []
+},
+"Rotorua": {
+"also": [
+[
+"geothermal words",
+3
+],
+[
+"new zealand cities",
+2
+]
+],
+"clash": []
+},
+"Fox Glacier": {
+"also": [
+[
+"famous natural features",
+4
+]
+],
+"clash": []
+},
+"Abel Tasman": {
+"also": [
+[
+"national parks",
+3
+],
+[
+"australian explorers",
+2
+],
+[
+"famous voyages",
+3
+]
+],
+"clash": []
+},
+"Doubtful Sound": {
+"also": [
+[
+"famous waters",
+4
+]
+],
+"clash": []
+},
+"Ruapehu": {
+"also": [
+[
+"famous volcanoes",
+4
+]
+],
+"clash": []
+},
+"Ngauruhoe": {
+"also": [
+[
+"famous volcanoes",
+5
+]
+],
+"clash": []
+},
+"Cathedral Cove": {
+"also": [
+[
+"famous beaches",
+4
+]
+],
+"clash": []
+},
+"Kaikoura": {
+"also": [
+[
+"new zealand cities",
+4
+]
+],
+"clash": []
+},
+"Coromandel": {
+"also": [
+[
+"peninsulas",
+4
+],
+[
+"spice trade",
+4
+]
+],
+"clash": []
+},
+"Champagne Pool": {
+"also": [
+[
+"geothermal words",
+5
+],
+[
+"famous waters",
+5
+]
+],
+"clash": []
+},
+"Kepler Track": {
+"also": [
+[
+"famous hiking trails",
+4
+]
+],
+"clash": []
+},
+"Fiordland": {
+"also": [
+[
+"national parks",
+3
+]
+],
+"clash": []
+},
+"White Island": {
+"also": [
+[
+"famous volcanoes",
+4
+]
+],
+"clash": []
+},
+"Piha": {
+"also": [
+[
+"famous beaches",
+4
+]
+],
+"clash": []
+},
+"Copacabana": {
+"also": [
+[
+"famous beaches",
+1
+],
+[
+"beach destinations",
+2
+]
+],
+"clash": []
+},
+"Galápagos": {
+"also": [
+[
+"national parks",
+2
+],
+[
+"evolution words",
+2
+]
+],
+"clash": []
+},
+"Lake Titicaca": {
+"also": [
+[
+"andes",
+2
+],
+[
+"south american travel",
+2
+],
+[
+"inca empire",
+2
+]
+],
+"clash": []
+},
+"Atacama": {
+"also": [
+[
+"desert",
+3
+],
+[
+"andes",
+3
+],
+[
+"famous deserts",
+2
+]
+],
+"clash": []
+},
+"Torres del Paine": {
+"also": [
+[
+"famous natural features",
+3
+],
+[
+"national parks",
+3
+]
+],
+"clash": []
+},
+"Perito Moreno": {
+"also": [
+[
+"famous natural features",
+3
+]
+],
+"clash": []
+},
+"Uyuni": {
+"also": [
+[
+"andes",
+3
+],
+[
+"famous natural features",
+3
+]
+],
+"clash": []
+},
+"Sacred Valley": {
+"also": [
+[
+"andes",
+3
+]
+],
+"clash": []
+},
+"Kuélap": {
+"also": [
+[
+"andean sites",
+4
+]
+],
+"clash": []
+},
+"Chan Chan": {
+"also": [
+[
+"andean sites",
+3
+]
+],
+"clash": []
+},
+"Tayrona": {
+"also": [
+[
+"national parks",
+4
+]
+],
+"clash": []
+},
+"Roraima": {
+"also": [
+[
+"famous mountains",
+4
+]
+],
+"clash": []
+},
+"Fitz Roy": {
+"also": [
+[
+"famous mountains",
+4
+]
+],
+"clash": []
+},
+"Ushuaia": {
+"also": [
+[
+"south american cities",
+3
+]
+],
+"clash": []
+},
+"Maracanã": {
+"also": [
+[
+"famous stadiums",
+2
+]
+],
+"clash": []
+},
+"Lençóis Maranhenses": {
+"also": [
+[
+"national parks",
+5
+]
+],
+"clash": []
+},
+"Pantanal": {
+"also": [
+[
+"wetlands",
+3
+],
+[
+"famous natural features",
+3
+]
+],
+"clash": []
+},
+"Chapada Diamantina": {
+"also": [
+[
+"national parks",
+5
+]
+],
+"clash": []
+},
+"Cotopaxi": {
+"also": [
+[
+"andes",
+3
+],
+[
+"famous volcanoes",
+3
+],
+[
+"national parks",
+4
+]
+],
+"clash": []
+},
+"Tiwanaku": {
+"also": [
+[
+"ancient civilizations",
+4
+],
+[
+"andean sites",
+3
+],
+[
+"empires",
+5
+]
+],
+"clash": []
+},
+"Potosí": {
+"also": [
+[
+"south american cities",
+4
+]
+],
+"clash": []
+},
+"Colca Canyon": {
+"also": [
+[
+"famous natural features",
+4
+]
+],
+"clash": []
+},
+"Ipanema": {
+"also": [
+[
+"famous beaches",
+2
+],
+[
+"beach destinations",
+3
+]
+],
+"clash": []
+},
+"Tierra del Fuego": {
+"also": [
+[
+"famous islands",
+3
+],
+[
+"national parks",
+3
+]
+],
+"clash": []
+},
+"Sacsayhuamán": {
+"also": [
+[
+"inca empire",
+4
+],
+[
+"andean sites",
+3
+],
+[
+"inca engineering",
+3
+]
+],
+"clash": []
+},
+"Aconcagua": {
+"also": [
+[
+"mountains",
+3
+],
+[
+"andes",
+2
+],
+[
+"famous mountains",
+2
+]
+],
+"clash": []
+},
+"Tulum": {
+"also": [
+[
+"turkish breakfast",
+4
+],
+[
+"cities",
+3
+],
+[
+"famous beaches",
+3
+],
+[
+"beach destinations",
+2
+],
+[
+"turkish instruments",
+4
+],
+[
+"aztecs and maya",
+3
+],
+[
+"maya and aztec sites",
+2
+]
+],
+"clash": []
+},
+"Monte Albán": {
+"also": [
+[
+"ancient sites",
+4
+]
+],
+"clash": []
+},
+"Uxmal": {
+"also": [
+[
+"aztecs and maya",
+4
+],
+[
+"maya and aztec sites",
+3
+]
+],
+"clash": []
+},
+"Copper Canyon": {
+"also": [
+[
+"famous natural features",
+4
+]
+],
+"clash": []
+},
+"Cholula": {
+"also": [
+[
+"sauces and condiments",
+4
+],
+[
+"ancient sites",
+4
+]
+],
+"clash": []
+},
+"Calakmul": {
+"also": [
+[
+"aztecs and maya",
+4
+],
+[
+"maya and aztec sites",
+4
+]
+],
+"clash": []
+},
+"Cobá": {
+"also": [
+[
+"maya and aztec sites",
+3
+]
+],
+"clash": []
+},
+"Mitla": {
+"also": [
+[
+"ancient sites",
+4
+]
+],
+"clash": []
+},
+"El Tajín": {
+"also": [
+[
+"ancient sites",
+4
+]
+],
+"clash": []
+},
+"Bonampak": {
+"also": [
+[
+"aztecs and maya",
+4
+],
+[
+"maya and aztec sites",
+4
+]
+],
+"clash": []
+},
+"Yaxchilan": {
+"also": [
+[
+"aztecs and maya",
+4
+],
+[
+"maya and aztec sites",
+4
+]
+],
+"clash": []
+},
+"Popocatépetl": {
+"also": [
+[
+"volcano words",
+4
+],
+[
+"famous volcanoes",
+3
+]
+],
+"clash": []
+},
+"Paricutín": {
+"also": [
+[
+"famous volcanoes",
+4
+]
+],
+"clash": []
+},
+"Pyramid of the Sun": {
+"also": [
+[
+"ancient sites",
+3
+]
+],
+"clash": []
+},
+"Tenochtitlan": {
+"also": [
+[
+"old city names",
+3
+],
+[
+"aztecs and maya",
+2
+],
+[
+"maya and aztec sites",
+2
+]
+],
+"clash": []
+},
+"Garibaldi": {
+"also": [
+[
+"cookies",
+3
+],
+[
+"foods named after people",
+4
+],
+[
+"famous generals",
+2
+],
+[
+"famous leaders",
+3
+]
+],
+"clash": []
+},
+"Central Park": {
+"also": [
+[
+"new york landmarks",
+1
+]
+],
+"clash": []
+},
+"Alcatraz": {
+"also": [
+[
+"famous islands",
+2
+],
+[
+"prison words",
+2
+]
+],
+"clash": []
+},
+"Yosemite": {
+"also": [
+[
+"famous natural features",
+2
+],
+[
+"us national parks",
+1
+]
+],
+"clash": []
+},
+"Liberty Bell": {
+"also": [
+[
+"national symbols",
+2
+],
+[
+"american revolution",
+2
+]
+],
+"clash": []
+},
+"Death Valley": {
+"also": [
+[
+"desert",
+2
+],
+[
+"famous natural features",
+2
+],
+[
+"us national parks",
+2
+],
+[
+"hot things",
+3
+]
+],
+"clash": []
+},
+"Everglades": {
+"also": [
+[
+"wetlands",
+2
+],
+[
+"famous natural features",
+2
+],
+[
+"us national parks",
+1
+]
+],
+"clash": []
+},
+"Pearl Harbor": {
+"also": [
+[
+"world war ii battles",
+1
+]
+],
+"clash": []
+},
+"Coney Island": {
+"also": [
+[
+"famous beaches",
+2
+],
+[
+"new york landmarks",
+2
+],
+[
+"famous theme parks",
+2
+],
+[
+"theme park words",
+3
+]
+],
+"clash": []
+},
+"Ellis Island": {
+"also": [
+[
+"famous islands",
+2
+],
+[
+"new york landmarks",
+2
+]
+],
+"clash": []
+},
+"Disneyland": {
+"also": [
+[
+"famous theme parks",
+1
+],
+[
+"theme park words",
+1
+]
+],
+"clash": []
+},
+"Half Dome": {
+"also": [
+[
+"famous mountains",
+3
+],
+[
+"famous hiking trails",
+3
+]
+],
+"clash": []
+},
+"El Capitan": {
+"also": [
+[
+"famous natural features",
+3
+]
+],
+"clash": []
+},
+"Arches": {
+"also": [
+[
+"us national parks",
+2
+]
+],
+"clash": []
+},
+"Grand Teton": {
+"also": [
+[
+"famous mountains",
+3
+],
+[
+"us national parks",
+2
+]
+],
+"clash": []
+},
+"Devils Tower": {
+"also": [
+[
+"famous natural features",
+3
+]
+],
+"clash": []
+},
+"Mount St Helens": {
+"also": [
+[
+"volcano words",
+2
+],
+[
+"famous volcanoes",
+2
+],
+[
+"places named after people",
+4
+]
+],
+"clash": []
+},
+"Fenway Park": {
+"also": [
+[
+"famous stadiums",
+1
+]
+],
+"clash": []
+},
+"Wrigley Field": {
+"also": [
+[
+"famous stadiums",
+2
+]
+],
+"clash": []
+},
+"Cape Canaveral": {
+"also": [
+[
+"spaceflight words",
+2
+],
+[
+"launch pad",
+2
+]
+],
+"clash": []
+},
+"Diamond Head": {
+"also": [
+[
+"famous volcanoes",
+3
+]
+],
+"clash": []
+},
+"Carlsbad Caverns": {
+"also": [
+[
+"famous natural features",
+3
+],
+[
+"us national parks",
+3
+]
+],
+"clash": []
+},
+"Mammoth Cave": {
+"also": [
+[
+"famous natural features",
+3
+],
+[
+"us national parks",
+3
+]
+],
+"clash": []
+},
+"Antelope Canyon": {
+"also": [
+[
+"famous natural features",
+3
+]
+],
+"clash": []
+},
+"Horseshoe Bend": {
+"also": [
+[
+"famous natural features",
+3
+]
+],
+"clash": []
+},
+"Bryce Canyon": {
+"also": [
+[
+"famous natural features",
+2
+],
+[
+"us national parks",
+2
+]
+],
+"clash": []
+},
+"Zion": {
+"also": [
+[
+"us national parks",
+2
+],
+[
+"judaism words",
+3
+]
+],
+"clash": []
+},
+"Mount Rainier": {
+"also": [
+[
+"famous volcanoes",
+3
+],
+[
+"places named after people",
+4
+],
+[
+"us national parks",
+2
+]
+],
+"clash": []
+},
+"Denali": {
+"also": [
+[
+"mountains",
+3
+],
+[
+"famous mountains",
+2
+],
+[
+"us national parks",
+2
+]
+],
+"clash": []
+},
+"Plymouth Rock": {
+"also": [
+[
+"poultry",
+4
+],
+[
+"chicken breeds",
+3
+],
+[
+"thanksgiving",
+2
+],
+[
+"colonial america",
+1
+]
+],
+"clash": []
+},
+"Stone Mountain": {
+"also": [
+[
+"famous mountains",
+4
+]
+],
+"clash": []
+},
+"Little Bighorn": {
+"also": [
+[
+"famous battles",
+2
+],
+[
+"wild west",
+2
+]
+],
+"clash": []
+},
+"Gettysburg": {
+"also": [
+[
+"civil war battles",
+1
+]
+],
+"clash": []
+},
+"Mount Whitney": {
+"also": [
+[
+"famous mountains",
+3
+]
+],
+"clash": []
+},
+"Mount Hood": {
+"also": [
+[
+"famous volcanoes",
+3
+]
+],
+"clash": []
+},
+"Haleakala": {
+"also": [
+[
+"famous volcanoes",
+3
+]
+],
+"clash": []
+},
+"Waikiki": {
+"also": [
+[
+"famous beaches",
+1
+],
+[
+"beach destinations",
+2
+]
+],
+"clash": []
+},
+"Freedom Tower": {
+"also": [
+[
+"new york landmarks",
+2
+]
+],
+"clash": []
+},
+"Ford's Theatre": {
+"also": [
+[
+"theater",
+3
+]
+],
+"clash": []
+},
+"Banff": {
+"also": [
+[
+"canadian cities",
+3
+],
+[
+"national parks",
+2
+],
+[
+"famous ski resorts",
+3
+]
+],
+"clash": []
+},
+"Lake Louise": {
+"also": [
+[
+"places named after people",
+4
+],
+[
+"famous ski resorts",
+3
+]
+],
+"clash": []
+},
+"Jasper": {
+"also": [
+[
+"quartz varieties",
+3
+],
+[
+"canadian cities",
+4
+],
+[
+"places that are also words",
+4
+],
+[
+"national parks",
+3
+],
+[
+"boys' names",
+2
+],
+[
+"names that are gems",
+2
+],
+[
+"precious materials",
+4
+]
+],
+"clash": []
+},
+"Château Frontenac": {
+"also": [
+[
+"famous hotels",
+4
+]
+],
+"clash": []
+},
+"Whistler": {
+"also": [
+[
+"famous ski resorts",
+2
+],
+[
+"painters",
+3
+]
+],
+"clash": []
+},
+"Cabot Trail": {
+"also": [
+[
+"famous routes",
+4
+]
+],
+"clash": []
+},
+"Gros Morne": {
+"also": [
+[
+"national parks",
+4
+]
+],
+"clash": []
+},
+"Algonquin": {
+"also": [
+[
+"famous hotels",
+4
+],
+[
+"native north american languages",
+3
+]
+],
+"clash": []
+},
+"Yoho": {
+"also": [
+[
+"national parks",
+4
+]
+],
+"clash": []
+},
+"Kluane": {
+"also": [
+[
+"national parks",
+4
+]
+],
+"clash": []
+},
+"Nahanni": {
+"also": [
+[
+"national parks",
+5
+]
+],
+"clash": []
+},
+"Fort Henry": {
+"also": [
+[
+"civil war battles",
+4
+]
+],
+"clash": []
+},
+"Grand Bazaar": {
+"also": [
+[
+"turkish travel words",
+2
+],
+[
+"bazaar",
+2
+]
+],
+"clash": []
+},
+"Basilica Cistern": {
+"also": [
+[
+"byzantine empire",
+3
+]
+],
+"clash": []
+},
+"Spice Bazaar": {
+"also": [
+[
+"bazaar",
+3
+]
+],
+"clash": []
+},
+"Hippodrome": {
+"also": [
+[
+"sports venues",
+4
+],
+[
+"horse racing terms",
+4
+],
+[
+"byzantine empire",
+3
+]
+],
+"clash": []
+},
+"Theodosian Walls": {
+"also": [
+[
+"byzantine empire",
+4
+]
+],
+"clash": []
+},
+"Golden Horn": {
+"also": [
+[
+"byzantine empire",
+3
+]
+],
+"clash": []
+},
+"Hagia Irene": {
+"also": [
+[
+"byzantine empire",
+4
+]
+],
+"clash": []
+},
+"Pera Palace": {
+"also": [
+[
+"famous hotels",
+4
+]
+],
+"clash": []
+},
+"Covent Garden": {
+"also": [
+[
+"opera words",
+3
+]
+],
+"clash": []
+},
+"Wembley": {
+"also": [
+[
+"famous stadiums",
+1
+]
+],
+"clash": []
+},
+"Greenwich": {
+"also": [
+[
+"silent w words",
+3
+]
+],
+"clash": []
+},
+"Cutty Sark": {
+"also": [
+[
+"famous ships",
+2
+],
+[
+"age of sail",
+2
+]
+],
+"clash": []
+},
+"Cenotaph": {
+"also": [
+[
+"anzac day",
+3
+],
+[
+"tombs and burials",
+3
+]
+],
+"clash": []
+},
+"Albert Memorial": {
+"also": [
+[
+"victorian era",
+4
+]
+],
+"clash": []
+},
+"Soho": {
+"also": [
+[
+"space telescopes",
+4
+]
+],
+"clash": []
+},
+"Barbican": {
+"also": [
+[
+"towers and skyscrapers",
+4
+],
+[
+"castle parts",
+3
+]
+],
+"clash": []
+},
+"Houses of Parliament": {
+"also": [
+[
+"british politics",
+2
+]
+],
+"clash": []
+},
+"King's Cross": {
+"also": [
+[
+"famous train stations",
+2
+],
+[
+"european rail",
+3
+]
+],
+"clash": []
+},
+"Bank of England": {
+"also": [
+[
+"banking words",
+2
+]
+],
+"clash": []
+},
+"Lord's": {
+"also": [
+[
+"cricket terms",
+3
+],
+[
+"famous stadiums",
+2
+]
+],
+"clash": []
+},
+"Tuileries": {
+"also": [
+[
+"famous gardens",
+3
+],
+[
+"french revolution",
+3
+]
+],
+"clash": []
+},
+"Catacombs": {
+"also": [
+[
+"rome landmarks",
+3
+],
+[
+"tourist attractions",
+3
+]
+],
+"clash": []
+},
+"Montparnasse": {
+"also": [
+[
+"famous train stations",
+4
+]
+],
+"clash": []
+},
+"Marais": {
+"also": [
+[
+"baroque composers",
+4
+]
+],
+"clash": []
+},
+"Bastille": {
+"also": [
+[
+"prison words",
+3
+],
+[
+"french revolution",
+1
+]
+],
+"clash": []
+},
+"Champ de Mars": {
+"also": [
+[
+"french revolution",
+4
+]
+],
+"clash": []
+},
+"Conciergerie": {
+"also": [
+[
+"french revolution",
+4
+]
+],
+"clash": []
+},
+"Madeleine": {
+"also": [
+[
+"french pastries",
+2
+],
+[
+"french food",
+2
+],
+[
+"foods named after people",
+3
+]
+],
+"clash": []
+},
+"Lido": {
+"also": [
+[
+"swimming words",
+3
+],
+[
+"sports venues",
+4
+]
+],
+"clash": []
+},
+"Blue Nile": {
+"also": [],
+"clash": [
+"shades of blue"
+]
+},
+"Zambezi": {
+"also": [
+[
+"african landmarks",
+3
+]
+],
+"clash": []
+},
+"Limpopo": {
+"also": [],
+"clash": [
+"african landmarks"
+]
+},
+"Tana": {
+"also": [],
+"clash": [
+"famous lakes"
+]
+},
+"Victoria Nile": {
+"also": [],
+"clash": [
+"famous lakes"
+]
+},
+"Albert Nile": {
+"also": [],
+"clash": [
+"famous lakes"
+]
+},
+"Lena": {
+"also": [
+[
+"girls' names",
+1
+],
+[
+"russian names",
+3
+]
+],
+"clash": []
+},
+"Tonle Sap": {
+"also": [
+[
+"famous lakes",
+3
+]
+],
+"clash": []
+},
+"Aras": {
+"also": [],
+"clash": [
+"turkish names"
+]
+},
+"Sakarya": {
+"also": [
+[
+"turkish cities",
+4
+]
+],
+"clash": [
+"turkish landmarks"
+]
+},
+"Kızılırmak": {
+"also": [],
+"clash": [
+"turkish landmarks"
+]
+},
+"Rhine": {
+"also": [],
+"clash": [
+"wine regions"
+]
+},
+"Volga": {
+"also": [],
+"clash": [
+"car brands"
+]
+},
+"Severn": {
+"also": [],
+"clash": [
+"famous bridges"
+]
+},
+"Tyne": {
+"also": [],
+"clash": [
+"famous bridges"
+]
+},
+"Mersey": {
+"also": [],
+"clash": [
+"music genres"
+]
+},
+"Trent": {
+"also": [
+[
+"boys' names",
+3
+]
+],
+"clash": []
+},
+"Garonne": {
+"also": [],
+"clash": [
+"wine regions"
+]
+},
+"Arno": {
+"also": [],
+"clash": [
+"boys' names"
+]
+},
+"Spree": {
+"also": [
+[
+"shopping words",
+2
+]
+],
+"clash": []
+},
+"Ouse": {
+"also": [],
+"clash": [
+"homophones"
+]
+},
+"Pripyat": {
+"also": [
+[
+"nuclear words",
+3
+]
+],
+"clash": [
+"cold war"
+]
+},
+"Narva": {
+"also": [],
+"clash": [
+"european cities"
+]
+},
+"Rio Grande": {
+"also": [],
+"clash": [
+"american road trip",
+"us landmarks"
+]
+},
+"St Lawrence": {
+"also": [],
+"clash": [
+"canadian landmarks",
+"famous saints"
+]
+},
+"Potomac": {
+"also": [],
+"clash": [
+"us landmarks"
+]
+},
+"Red River": {
+"also": [],
+"clash": [
+"red things",
+"shades of red"
+]
+},
+"Pecos": {
+"also": [],
+"clash": [
+"wild west"
+]
+},
+"Gila": {
+"also": [],
+"clash": [
+"lizards"
+]
+},
+"Allegheny": {
+"also": [],
+"clash": [
+"mountain ranges"
+]
+},
+"Athabasca": {
+"also": [
+[
+"canadian landmarks",
+3
+]
+],
+"clash": []
+},
+"Sabine": {
+"also": [],
+"clash": [
+"ancient rome"
+]
+},
+"Cimarron": {
+"also": [],
+"clash": [
+"wild west"
+]
+},
+"Orinoco": {
+"also": [],
+"clash": [
+"south american landmarks"
+]
+},
+"Paraná": {
+"also": [],
+"clash": [
+"south american cities"
+]
+},
+"Rio Negro": {
+"also": [],
+"clash": [
+"south american landmarks"
+]
+},
+"Iguazu": {
+"also": [],
+"clash": [
+"famous waterfalls",
+"south american landmarks"
+]
+},
+"Urubamba": {
+"also": [],
+"clash": [
+"south american landmarks"
+]
+},
+"Rio Branco": {
+"also": [
+[
+"south american cities",
+5
+]
+],
+"clash": []
+},
+"Yamuna": {
+"also": [],
+"clash": [
+"hindu gods"
+]
+},
+"Huron": {
+"also": [
+[
+"native north american languages",
+4
+]
+],
+"clash": []
+},
+"Titicaca": {
+"also": [
+[
+"south american landmarks",
+2
+],
+[
+"andes",
+3
+]
+],
+"clash": []
+},
+"Caspian Sea": {
+"also": [
+[
+"oceans and seas",
+2
+]
+],
+"clash": []
+},
+"Aral Sea": {
+"also": [
+[
+"oceans and seas",
+3
+]
+],
+"clash": [
+"environment"
+]
+},
+"Dead Sea": {
+"also": [
+[
+"oceans and seas",
+2
+]
+],
+"clash": []
+},
+"Great Salt Lake": {
+"also": [
+[
+"us landmarks",
+3
+]
+],
+"clash": []
+},
+"Great Bear": {
+"also": [],
+"clash": [
+"bears",
+"constellations"
+]
+},
+"Lake Mead": {
+"also": [
+[
+"us landmarks",
+3
+]
+],
+"clash": []
+},
+"Lake Powell": {
+"also": [
+[
+"us landmarks",
+3
+]
+],
+"clash": []
+},
+"Turkana": {
+"also": [
+[
+"african landmarks",
+3
+]
+],
+"clash": []
+},
+"Kivu": {
+"also": [
+[
+"african landmarks",
+4
+]
+],
+"clash": []
+},
+"Chapala": {
+"also": [
+[
+"mexican landmarks",
+4
+]
+],
+"clash": []
+},
+"Wakatipu": {
+"also": [
+[
+"new zealand landmarks",
+3
+]
+],
+"clash": []
+},
+"Kariba": {
+"also": [
+[
+"african landmarks",
+4
+]
+],
+"clash": []
+},
+"Nakuru": {
+"also": [
+[
+"african national parks",
+4
+],
+[
+"african landmarks",
+4
+],
+[
+"african cities",
+5
+]
+],
+"clash": []
+},
+"Plitvice": {
+"also": [
+[
+"national parks",
+3
+]
+],
+"clash": [
+"famous waterfalls"
+]
+},
+"Windermere": {
+"also": [],
+"clash": [
+"english counties"
+]
+},
+"Balaton": {
+"also": [],
+"clash": [
+"european holiday regions"
+]
+},
+"Garda": {
+"also": [],
+"clash": [
+"european holiday regions"
+]
+},
+"Atitlán": {
+"also": [],
+"clash": [
+"famous volcanoes"
+]
+},
+"Mono Lake": {
+"also": [],
+"clash": [
+"us landmarks"
+]
+},
+"Iguazu Falls": {
+"also": [
+[
+"landmarks",
+2
+]
+],
+"clash": []
+},
+"Yosemite Falls": {
+"also": [
+[
+"us landmarks",
+2
+]
+],
+"clash": [
+"us national parks"
+]
+},
+"Horseshoe Falls": {
+"also": [],
+"clash": [
+"us landmarks"
+]
+},
+"Sutherland Falls": {
+"also": [
+[
+"new zealand landmarks",
+4
+]
+],
+"clash": []
+},
+"Tugela Falls": {
+"also": [
+[
+"african landmarks",
+4
+]
+],
+"clash": []
+},
+"Detian": {
+"also": [
+[
+"chinese landmarks",
+5
+]
+],
+"clash": []
+},
+"Jog Falls": {
+"also": [
+[
+"indian landmarks",
+4
+]
+],
+"clash": []
+},
+"Dudhsagar": {
+"also": [
+[
+"indian landmarks",
+4
+]
+],
+"clash": []
+},
+"Nachi Falls": {
+"also": [
+[
+"japanese landmarks",
+5
+]
+],
+"clash": []
+},
+"Multnomah Falls": {
+"also": [
+[
+"us landmarks",
+3
+]
+],
+"clash": []
+},
+"Havasu Falls": {
+"also": [
+[
+"us landmarks",
+3
+]
+],
+"clash": []
+},
+"Shoshone Falls": {
+"also": [
+[
+"us landmarks",
+4
+]
+],
+"clash": []
+},
+"Bridalveil Fall": {
+"also": [
+[
+"us landmarks",
+4
+]
+],
+"clash": []
+},
+"Vernal Fall": {
+"also": [
+[
+"us landmarks",
+4
+]
+],
+"clash": []
+},
+"Nevada Fall": {
+"also": [
+[
+"us landmarks",
+4
+]
+],
+"clash": [
+"us states"
+]
+},
+"Ouzoud Falls": {
+"also": [
+[
+"african landmarks",
+4
+]
+],
+"clash": []
+},
+"Wallaman Falls": {
+"also": [
+[
+"australian landmarks",
+4
+]
+],
+"clash": []
+},
+"Gocta Falls": {
+"also": [
+[
+"south american landmarks",
+4
+]
+],
+"clash": []
+},
+"Tequendama": {
+"also": [
+[
+"south american landmarks",
+5
+]
+],
+"clash": []
+},
+"Kaaterskill Falls": {
+"also": [
+[
+"us landmarks",
+5
+]
+],
+"clash": []
+},
+"Burney Falls": {
+"also": [
+[
+"us landmarks",
+5
+]
+],
+"clash": []
+},
+"Snoqualmie Falls": {
+"also": [
+[
+"us landmarks",
+4
+]
+],
+"clash": []
+},
+"Ruby Falls": {
+"also": [
+[
+"us landmarks",
+4
+]
+],
+"clash": []
+},
+"Akaka Falls": {
+"also": [
+[
+"us landmarks",
+4
+]
+],
+"clash": []
+},
+"Rainbow Falls": {
+"also": [
+[
+"us landmarks",
+4
+]
+],
+"clash": []
+},
+"Wailua Falls": {
+"also": [
+[
+"us landmarks",
+4
+]
+],
+"clash": []
+},
+"Epupa Falls": {
+"also": [
+[
+"african landmarks",
+5
+]
+],
+"clash": []
+},
+"Howick Falls": {
+"also": [
+[
+"african landmarks",
+5
+]
+],
+"clash": []
+},
+"Maletsunyane": {
+"also": [
+[
+"african landmarks",
+5
+]
+],
+"clash": []
+},
+"Øresund": {
+"also": [],
+"clash": [
+"famous bridges"
+]
+},
+"Menai": {
+"also": [],
+"clash": [
+"famous bridges"
+]
+},
+"Juan de Fuca": {
+"also": [],
+"clash": [
+"explorers"
+]
+},
+"Chesapeake Bay": {
+"also": [],
+"clash": [
+"us landmarks"
+]
+},
+"Monterey Bay": {
+"also": [],
+"clash": [
+"us landmarks"
+]
+},
+"Botany Bay": {
+"also": [
+[
+"australian landmarks",
+3
+]
+],
+"clash": [
+"famous voyages"
+]
+},
+"Tokyo Bay": {
+"also": [],
+"clash": [
+"japanese landmarks"
+]
+},
+"Guanabara Bay": {
+"also": [],
+"clash": [
+"south american landmarks"
+]
+},
+"Baffin Bay": {
+"also": [],
+"clash": [
+"arctic explorers"
+]
+},
+"Biscayne Bay": {
+"also": [],
+"clash": [
+"us national parks"
+]
+},
+"Tampa Bay": {
+"also": [],
+"clash": [
+"american cities",
+"mlb teams",
+"nfl teams",
+"nhl teams"
+]
+},
+"Table Bay": {
+"also": [],
+"clash": [
+"african landmarks"
+]
+},
+"False Bay": {
+"also": [],
+"clash": [
+"african landmarks"
+]
+},
+"Bay of Plenty": {
+"also": [],
+"clash": [
+"new zealand landmarks"
+]
+},
+"Shark Bay": {
+"also": [],
+"clash": [
+"sharks"
+]
+},
+"Jervis Bay": {
+"also": [],
+"clash": [
+"australian landmarks"
+]
+},
+"Port Phillip": {
+"also": [],
+"clash": [
+"australian landmarks"
+]
+},
+"Cape Cod Bay": {
+"also": [],
+"clash": [
+"famous canals"
+]
+},
+"Golden Bay": {
+"also": [],
+"clash": [
+"new zealand landmarks"
+]
+},
+"Hawke Bay": {
+"also": [],
+"clash": [
+"new zealand landmarks"
+]
+},
+"Gulf of Tonkin": {
+"also": [],
+"clash": [
+"cold war"
+]
+},
+"Persian Gulf": {
+"also": [],
+"clash": [
+"ancient persia"
+]
+},
+"Bay of Naples": {
+"also": [],
+"clash": [
+"italian cities"
+]
+},
+"Prudhoe Bay": {
+"also": [],
+"clash": [
+"fossil fuels"
+]
+},
+"Gulf of Mexico": {
+"also": [],
+"clash": [
+"mexican landmarks"
+]
+},
+"Indian Ocean": {
+"also": [],
+"clash": [
+"indian landmarks"
+]
+},
+"Red Sea": {
+"also": [],
+"clash": [
+"egyptian landmarks",
+"red things"
+]
+},
+"Black Sea": {
+"also": [],
+"clash": [
+"black things",
+"turkish landmarks"
+]
+},
+"Marmara": {
+"also": [],
+"clash": [
+"istanbul landmarks",
+"turkish landmarks"
+]
+},
+"Yellow Sea": {
+"also": [],
+"clash": [
+"yellow things"
+]
+},
+"White Sea": {
+"also": [],
+"clash": [
+"white things"
+]
+},
+"Sargasso Sea": {
+"also": [],
+"clash": [
+"seaweeds"
+]
+}
+}

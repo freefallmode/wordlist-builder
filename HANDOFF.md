@@ -64,6 +64,8 @@ Theme tree file (`data/themes.txt`; Import / export → Load starter theme tree,
 
 Single words 3 to 20 letters; two-word names (shown on two lines in the game) up to 20 letters in total; more than two words is rejected. Filters only mark words disabled with a reason, never delete.
 
+Content rules for the starter library: no trademarked fiction from films, TV, comics or cartoons (characters, invented places, items). Allowed: video and tabletop game titles, characters and items; single novels, including ones still under copyright; public-domain fiction; real brands and toy lines. Removals and restorations are recorded per batch in `data/gen/words/batch-NN.extra.json`.
+
 ## Known gaps and next steps
 
 - The theme check only knows themes that exist when it runs; after adding themes, re-check (or check "every word, again").

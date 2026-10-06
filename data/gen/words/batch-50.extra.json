@@ -4,7 +4,6 @@
   "Superman (things that fly)",
   "Tigger (things that bounce)",
   "Flubber (things that bounce)",
-  "Sonic (fast things)",
   "Flash (fast things)",
   "Speedy Gonzales (fast things)",
   "Quicksilver (fast things)",
@@ -15,14 +14,12 @@
   "Clifford (red things)",
   "ruby slippers (red things)",
   "SpongeBob (yellow things)",
-  "Pikachu (yellow things)",
   "Big Bird (yellow things)",
   "Tweety (yellow things)",
   "Homer Simpson (yellow things)",
   "Minion (yellow things)",
   "Bart Simpson (yellow things)",
   "Winnie the Pooh (yellow things)",
-  "Pac-Man (yellow things)",
   "Kermit (green things)",
   "Hulk (green things)",
   "Shrek (green things)",
@@ -36,7 +33,6 @@
   "Slimer (green things)",
   "Smurf (blue things)",
   "Cookie Monster (blue things)",
-  "Sonic (blue things)",
   "Stitch (blue things)",
   "Dory (blue things)",
   "Grover (blue things)",
@@ -60,10 +56,9 @@
   "Zorro (black things)",
   "Tinker Bell (things with wings)",
   "Jaws (things with teeth)",
-  "Koopa (things with shells)",
   "Hellboy (things with horns)",
   "Maleficent (things with horns)",
   "Loki (things with horns)"
  ],
- "notes": "No theme in this batch sits under another playable theme (parents are Qualities categories), so nothing is separate. Kept as non-modern-fiction: Santa, Pegasus, Cupid, Icarus, Dracula, Moby Dick, Bagheera (Kipling 1894), Robin Hood, Snow White, Little Red Riding Hood, Black Beauty (1877), leprechaun, Krampus, Baphomet, Pan, Grim Reaper, tooth fairy, crocodile in things that tick (Peter Pan's, public-domain reference). Removed Tinker Bell, Tigger, Winnie the Pooh and Zorro as heavily trademarked even where the source book is public domain in the US. Kept toy/brand names (Beyblade, Slinky, Lego man, Post-it, Pop Rocks, Mylar, Swarovski, Segway, Vespa, Brompton, X-Acto knife, Hot Wheels). Left lowercase as dictionaries do: popsicle, salchow, axel, lutz, crepe, serac, zorb, superball. Kept 'eight ball' in black things (common spelling). zipper got uk 'zip'. Colour themes lost many cartoon characters (blue things went 50 -> 44 after additions)."
+ "notes": "No theme in this batch sits under another playable theme (parents are Qualities categories), so nothing is separate. Kept as non-modern-fiction: Santa, Pegasus, Cupid, Icarus, Dracula, Moby Dick, Bagheera (Kipling 1894), Robin Hood, Snow White, Little Red Riding Hood, Black Beauty (1877), leprechaun, Krampus, Baphomet, Pan, Grim Reaper, tooth fairy, crocodile in things that tick (Peter Pan's, public-domain reference). Removed Tinker Bell, Tigger, Winnie the Pooh and Zorro as heavily trademarked even where the source book is public domain in the US. Kept toy/brand names (Beyblade, Slinky, Lego man, Post-it, Pop Rocks, Mylar, Swarovski, Segway, Vespa, Brompton, X-Acto knife, Hot Wheels). Left lowercase as dictionaries do: popsicle, salchow, axel, lutz, crepe, serac, zorb, superball. Kept 'eight ball' in black things (common spelling). zipper got uk 'zip'. Colour themes lost many cartoon characters (blue things went 50 -> 44 after additions).\nRestored at the owner's request (video games and copyrighted novels allowed): Sonic (fast things), Pikachu (yellow things), Pac-Man (yellow things), Sonic (blue things), Koopa (things with shells)"
 }

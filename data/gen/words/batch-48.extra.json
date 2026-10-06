@@ -1,5 +1,13 @@
 {
- "separate": ["color terms", "line types", "things that rust", "rough things", "smooth things", "soft things", "sticky things"],
- "removed": ["Triforce (symbols)"],
- "notes": "Separate rationale: color terms (hue, palette, saturation are not colors); line types (perpendicular, median, vertical are not shapes or patterns); things that rust (nail, old car are objects, not materials); rough/smooth/soft/sticky things (honey, pillow, sandpaper are objects, not textures). Not separate: shades of X and metallic colors under colors; symbols and curves and spirals under shapes and patterns; colors in spanish/french/turkish (they sit under 'colors in other languages', where they fit); round/square/triangular things under 'shaped things'; things made of X under 'made of...'; materials by region. Turkish colors now use Turkish letters (kırmızı, yeşil, sarı, altın, gümüş, fıstık yeşili, camgöbeği), including dotless ı. Kept public-domain or real items: Pinocchio, Trojan Horse, Jenga, Lincoln Logs, Barbie pink, Tiffany blue. Pre-existing overlaps left as they were: heart, star, cross, arrow and crescent are in both 2d shapes and symbols, and meander is in both patterns and curves and spirals. 'pound sign' means # in the US and £ in the UK. The swastika entry already had adult=1 and was left unchanged."
+ "separate": [
+  "color terms",
+  "line types",
+  "things that rust",
+  "rough things",
+  "smooth things",
+  "soft things",
+  "sticky things"
+ ],
+ "removed": [],
+ "notes": "Separate rationale: color terms (hue, palette, saturation are not colors); line types (perpendicular, median, vertical are not shapes or patterns); things that rust (nail, old car are objects, not materials); rough/smooth/soft/sticky things (honey, pillow, sandpaper are objects, not textures). Not separate: shades of X and metallic colors under colors; symbols and curves and spirals under shapes and patterns; colors in spanish/french/turkish (they sit under 'colors in other languages', where they fit); round/square/triangular things under 'shaped things'; things made of X under 'made of...'; materials by region. Turkish colors now use Turkish letters (kırmızı, yeşil, sarı, altın, gümüş, fıstık yeşili, camgöbeği), including dotless ı. Kept public-domain or real items: Pinocchio, Trojan Horse, Jenga, Lincoln Logs, Barbie pink, Tiffany blue. Pre-existing overlaps left as they were: heart, star, cross, arrow and crescent are in both 2d shapes and symbols, and meander is in both patterns and curves and spirals. 'pound sign' means # in the US and £ in the UK. The swastika entry already had adult=1 and was left unchanged.\nRestored at the owner's request (video games and copyrighted novels allowed): Triforce (symbols)"
 }
