@@ -8,6 +8,10 @@ Builds the theme tree and wordlists for Word Safari (a word-sorting puzzle: word
 
 Static files, no build. Hosted on GitHub Pages from `main`. Locally, serve the folder over HTTP (`python3 -m http.server`); opened as `file://` the frequency list cannot load.
 
+## Releasing changes
+
+GitHub Pages lets browsers cache files for about 10 minutes. Bump the version in three places on every change: `data-v` and the two `?v=` links in `index.html`, and `VERSION` in `app.js`. The app warns if the page and script versions differ.
+
 ## Layout
 
 - Left pane: search (words and themes), theme tree with on/total word counts, Import / export…, Settings….

@@ -3,6 +3,7 @@
 // The project lives in IndexedDB (autosaved) and in project files. Both use
 // the compact format from serialize(): words point at themes by index.
 
+const VERSION = '5';  // must match data-v and the ?v= links in index.html
 const $ = s => document.querySelector(s);
 const esc = s => String(s ?? '').replace(/[&<>"']/g, c => ({ '&': '&amp;', '<': '&lt;', '>': '&gt;', '"': '&quot;', "'": '&#39;' }[c]));
 const slug = t => t.normalize('NFKD').replace(/[̀-ͯ]/g, '').replace(/[^\p{L}\p{N}]+/gu, '_').replace(/^_|_$/g, '').toLowerCase();
@@ -903,6 +904,8 @@ document.addEventListener('dragend', () => { drag = null; render(); });
 function fillFreq() { if (FREQ) for (const w of Object.values(P.words)) if (w.z === undefined) w.z = wordZipf(w); }
 
 (async function start() {
+  if (document.documentElement.dataset.v !== VERSION)
+    status('This page is out of date in your browser cache. Reload with Ctrl+Shift+R (Cmd+Shift+R on a Mac).', true);
   try {
     const saved = await DB.get('project');
     if (saved) P = deserialize(saved);
