@@ -24,7 +24,7 @@ Called straight from the browser (`anthropic-dangerous-direct-browser-access`). 
 
 ## Frequency and difficulty
 
-- Frequency is stored as a Zipf value: log10 of occurrences per billion words. 7 is "the", 5 to 6 everyday words, 4 common, 3 uncommon, 2 rare, under 1.5 not in the list. Looked up in `data/freq-en.txt` (wordfreq "large" English list, single letter-only words down to Zipf 1.5, about 170k words). Phrases combine like wordfreq: 1/f = sum of 1/f_i.
+- Frequency is stored as a Zipf value: log10 of occurrences per billion words. 7 is "the", 5 to 6 everyday words, 4 common, 3 uncommon, 2 rare, under 1.5 not in the list. Looked up in `data/freq-en.txt` (wordfreq "large" English list, single letter-only words down to Zipf 1.5, about 170k words). Names of two or more words use the generator's estimate for the whole name instead, because combining the parts overrates names made of common words (star apple).
 - Difficulty 1 to 5 is "auto" from Zipf (`autoDiff` in `app.js`: 4.8, 4.0, 3.3, 2.6 cut points) unless set by hand. Frequency is not familiarity (kiwi is rarer in text than it is unfamiliar, and homographs like mercury or apple are inflated), so hand overrides matter.
 - Theme difficulty defaults to depth in the tree (groups not counted), or is set by hand.
 
@@ -45,6 +45,7 @@ P = {
 - `region`: '' or one of Africa, Middle East (including Turkey), Asia, Oceania, Antarctica, South America, North America, Europe. Acts: 1 Turkey / Middle East / Africa, 2 Asia, 3 Oceania, 4 Antarctica, 5 South America, 6 North America, 7 Europe / Turkey.
 - `adult`: not family-friendly; inherited by everything under it. Settings → "Family-friendly game file" leaves adult themes and words out of the game export.
 - `group`: a container for browsing, never a playable theme.
+- `sep` (outline tag `[separate]`): the theme's words do not count as members of its parent. A theme's word pool is itself plus its sub-themes, skipping separate ones (apple varieties are not fruits on their own: "Rome", "Jazz").
 - `label`: the name shown in the game when it differs from `name`.
 - Word `t` is the American spelling (capitals kept for proper nouns such as Paris or Plato); `uk` is the British spelling when it differs. The key is a lowercase slug of `t`. The Spelling setting (toolbar toggle) picks which form is shown and written to the game file; search and duplicate checks use both. Import / export → "Find British spellings" asks Claude to fill in `uk` for older words.
 - Word `fam`: `{themeId: 1..5}` familiarity of the word as a member of that theme (1 everyone, 5 specialists). Difficulty in a theme is: set by hand (`d`), else familiarity there, else from Zipf. `ze`: estimated Zipf, used only when the word is not in the frequency list (shown with ~). `adult`: word not family-friendly.

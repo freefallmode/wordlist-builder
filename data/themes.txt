@@ -6,9 +6,9 @@ Food & Drink:
     stone fruits
     melons
     dried fruits
-    apple varieties
+    apple varieties [separate] -- named apple cultivars; they only read as apples within this theme
     asian fruits [region:Asia] -- lychee, durian, rambutan, mangosteen, longan, yuzu
-    nuts -- culinary nuts: almond, cashew, pecan, walnut, pistachio, peanut
+    nuts [separate] -- culinary nuts: almond, cashew, pecan, walnut, pistachio, peanut
   vegetables
     root vegetables
     leafy greens
