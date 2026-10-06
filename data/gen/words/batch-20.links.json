@@ -1,0 +1,8211 @@
+{
+ "pill": {
+  "also": [],
+  "clash": [
+   "illegal drugs",
+   "medicines",
+   "round things"
+  ]
+ },
+ "tablet": {
+  "also": [
+   [
+    "gadgets",
+    1
+   ]
+  ],
+  "clash": [
+   "ancient writing",
+   "archaeology words",
+   "computers"
+  ]
+ },
+ "capsule": {
+  "also": [
+   [
+    "space vehicles",
+    2
+   ]
+  ],
+  "clash": [
+   "medicines"
+  ]
+ },
+ "syrup": {
+  "also": [
+   [
+    "sweeteners",
+    1
+   ],
+   [
+    "toppings",
+    1
+   ]
+  ],
+  "clash": [
+   "breakfast foods",
+   "sauces and condiments"
+  ]
+ },
+ "ointment": {
+  "also": [],
+  "clash": [
+   "skincare products",
+   "slippery things"
+  ]
+ },
+ "cream": {
+  "also": [
+   [
+    "skincare products",
+    1
+   ],
+   [
+    "dairy and eggs",
+    1
+   ],
+   [
+    "toppings",
+    1
+   ]
+  ],
+  "clash": [
+   "makeup",
+   "shades of yellow"
+  ]
+ },
+ "drops": {
+  "also": [],
+  "clash": [
+   "candy",
+   "rain words"
+  ]
+ },
+ "inhaler": {
+  "also": [
+   [
+    "medical equipment",
+    2
+   ]
+  ],
+  "clash": [
+   "allergies"
+  ]
+ },
+ "injection": {
+  "also": [],
+  "clash": [
+   "car parts"
+  ]
+ },
+ "patch": {
+  "also": [],
+  "clash": [
+   "pirate words",
+   "garden",
+   "smoking words",
+   "first aid",
+   "fabrics and sewing"
+  ]
+ },
+ "lozenge": {
+  "also": [
+   [
+    "2d shapes",
+    2
+   ],
+   [
+    "shapes and patterns",
+    3
+   ]
+  ],
+  "clash": [
+   "candy"
+  ]
+ },
+ "nasal spray": {
+  "also": [],
+  "clash": [
+   "allergies"
+  ]
+ },
+ "eye drops": {
+  "also": [],
+  "clash": [
+   "allergies"
+  ]
+ },
+ "gel": {
+  "also": [
+   [
+    "hair care",
+    1
+   ]
+  ],
+  "clash": [
+   "toiletries for washing",
+   "nail care",
+   "sticky things",
+   "states of matter"
+  ]
+ },
+ "lotion": {
+  "also": [
+   [
+    "skincare products",
+    1
+   ]
+  ],
+  "clash": [
+   "beach gear",
+   "bath time"
+  ]
+ },
+ "powder": {
+  "also": [],
+  "clash": [
+   "baking ingredients",
+   "newborn care",
+   "illegal drugs",
+   "pirate words",
+   "cleaning products",
+   "laundry words",
+   "soft things",
+   "shades of blue"
+  ]
+ },
+ "gummy": {
+  "also": [
+   [
+    "chewy foods",
+    1
+   ]
+  ],
+  "clash": [
+   "candy",
+   "sticky things"
+  ]
+ },
+ "tincture": {
+  "also": [],
+  "clash": [
+   "native american remedies"
+  ]
+ },
+ "elixir": {
+  "also": [
+   [
+    "magic items",
+    2
+   ],
+   [
+    "wizard words",
+    2
+   ]
+  ],
+  "clash": [
+   "witchcraft",
+   "fantasy"
+  ]
+ },
+ "suspension": {
+  "also": [],
+  "clash": [
+   "bridge types"
+  ]
+ },
+ "chewable": {
+  "also": [],
+  "clash": [
+   "chewy foods"
+  ]
+ },
+ "salve": {
+  "also": [],
+  "clash": [
+   "skincare products",
+   "first aid",
+   "latin phrases"
+  ]
+ },
+ "balm": {
+  "also": [
+   [
+    "skincare products",
+    2
+   ]
+  ],
+  "clash": [
+   "makeup",
+   "herbs",
+   "chinese medicine",
+   "first aid"
+  ]
+ },
+ "infusion": {
+  "also": [],
+  "clash": [
+   "teas",
+   "hot drinks",
+   "hospital words",
+   "cooking methods"
+  ]
+ },
+ "drip": {
+  "also": [],
+  "clash": [
+   "medical equipment",
+   "rain words",
+   "plumbing words"
+  ]
+ },
+ "implant": {
+  "also": [
+   [
+    "hidden insects",
+    3
+   ]
+  ],
+  "clash": [
+   "medical equipment",
+   "pregnancy words"
+  ]
+ },
+ "shot": {
+  "also": [
+   [
+    "coffee words",
+    2
+   ],
+   [
+    "photography words",
+    2
+   ],
+   [
+    "basketball terms",
+    1
+   ],
+   [
+    "soccer terms",
+    1
+   ],
+   [
+    "golf terms",
+    2
+   ],
+   [
+    "hunting words",
+    2
+   ]
+  ],
+  "clash": [
+   "field events",
+   "spirits",
+   "cocktails",
+   "tennis shots",
+   "doctor's office",
+   "pirate words"
+  ]
+ },
+ "jab": {
+  "also": [
+   [
+    "hand actions",
+    2
+   ]
+  ],
+  "clash": [
+   "doctor's office",
+   "body actions",
+   "fencing terms"
+  ]
+ },
+ "sachet": {
+  "also": [],
+  "clash": [
+   "things that smell good",
+   "teas",
+   "in the pantry"
+  ]
+ },
+ "granules": {
+  "also": [],
+  "clash": [
+   "coffee words"
+  ]
+ },
+ "emulsion": {
+  "also": [
+   [
+    "photography words",
+    3
+   ]
+  ],
+  "clash": [
+   "salad dressings",
+   "french sauces"
+  ]
+ },
+ "paste": {
+  "also": [
+   [
+    "jewelry",
+    4
+   ]
+  ],
+  "clash": [
+   "spreads",
+   "dental words",
+   "art materials",
+   "baking words",
+   "sauces and condiments"
+  ]
+ },
+ "foam": {
+  "also": [
+   [
+    "coffee words",
+    2
+   ],
+   [
+    "man-made materials",
+    2
+   ]
+  ],
+  "clash": [
+   "toiletries for washing",
+   "bath time",
+   "beers",
+   "surfing words",
+   "fire station"
+  ]
+ },
+ "mouthwash": {
+  "also": [
+   [
+    "hidden trees",
+    3
+   ]
+  ],
+  "clash": [
+   "bedtime routine"
+  ]
+ },
+ "gargle": {
+  "also": [
+   [
+    "body noises",
+    2
+   ],
+   [
+    "onomatopoeia",
+    2
+   ]
+  ],
+  "clash": [
+   "voice sounds",
+   "ways of speaking"
+  ]
+ },
+ "poultice": {
+  "also": [],
+  "clash": [
+   "first aid",
+   "native american remedies"
+  ]
+ },
+ "tonic": {
+  "also": [
+   [
+    "soft drinks",
+    1
+   ],
+   [
+    "fizzy drinks",
+    1
+   ]
+  ],
+  "clash": [
+   "cocktails",
+   "hair care"
+  ]
+ },
+ "draught": {
+  "also": [
+   [
+    "beers",
+    2
+   ],
+   [
+    "wind words",
+    2
+   ],
+   [
+    "british english words",
+    2
+   ],
+   [
+    "homophones",
+    3
+   ]
+  ],
+  "clash": [
+   "board games",
+   "heating and cooling"
+  ]
+ },
+ "wafer": {
+  "also": [
+   [
+    "religion words",
+    3
+   ]
+  ],
+  "clash": [
+   "frozen desserts",
+   "electronic parts"
+  ]
+ },
+ "spray": {
+  "also": [],
+  "clash": [
+   "hair care",
+   "art materials",
+   "garden tools",
+   "cleaning products",
+   "rain words",
+   "bouquet flowers",
+   "surfing words"
+  ]
+ },
+ "solution": {
+  "also": [
+   [
+    "puzzles",
+    2
+   ]
+  ],
+  "clash": [
+   "logic puzzles",
+   "eyewear"
+  ]
+ },
+ "vapor rub": {
+  "also": [],
+  "clash": [
+   "smelly things"
+  ]
+ },
+ "nebulizer": {
+  "also": [],
+  "clash": [
+   "pharmacy",
+   "allergies"
+  ]
+ },
+ "autoinjector": {
+  "also": [],
+  "clash": [
+   "first aid"
+  ]
+ },
+ "effervescent tablet": {
+  "also": [],
+  "clash": [
+   "fizzy drinks"
+  ]
+ },
+ "transdermal patch": {
+  "also": [],
+  "clash": [
+   "smoking words"
+  ]
+ },
+ "needle": {
+  "also": [
+   [
+    "knitting words",
+    1
+   ],
+   [
+    "sewing words",
+    1
+   ],
+   [
+    "prickly things",
+    2
+   ]
+  ],
+  "clash": [
+   "navigation tools",
+   "chinese medicine",
+   "things that cut",
+   "illegal drugs",
+   "doctor's office"
+  ]
+ },
+ "syringe": {
+  "also": [],
+  "clash": [
+   "illegal drugs",
+   "things that sting"
+  ]
+ },
+ "scalpel": {
+  "also": [
+   [
+    "hidden body parts",
+    3
+   ]
+  ],
+  "clash": []
+ },
+ "wheelchair": {
+  "also": [
+   [
+    "seating",
+    2
+   ],
+   [
+    "hidden body parts",
+    3
+   ]
+  ],
+  "clash": []
+ },
+ "crutch": {
+  "also": [],
+  "clash": [
+   "things that come in pairs"
+  ]
+ },
+ "stretcher": {
+  "also": [
+   [
+    "first aid",
+    1
+   ]
+  ],
+  "clash": []
+ },
+ "ventilator": {
+  "also": [],
+  "clash": [
+   "heating and cooling"
+  ]
+ },
+ "oxygen mask": {
+  "also": [
+   [
+    "mountaineering words",
+    3
+   ]
+  ],
+  "clash": [
+   "scuba words",
+   "first aid",
+   "fire station"
+  ]
+ },
+ "oxygen tank": {
+  "also": [
+   [
+    "mountaineering words",
+    2
+   ]
+  ],
+  "clash": [
+   "space station"
+  ]
+ },
+ "MRI scanner": {
+  "also": [
+   [
+    "hospital",
+    1
+   ]
+  ],
+  "clash": [
+   "magnet words"
+  ]
+ },
+ "CT scanner": {
+  "also": [
+   [
+    "hospital",
+    1
+   ]
+  ],
+  "clash": []
+ },
+ "heart monitor": {
+  "also": [
+   [
+    "hospital words",
+    1
+   ]
+  ],
+  "clash": [
+   "wearable tech",
+   "fitness"
+  ]
+ },
+ "drip stand": {
+  "also": [
+   [
+    "hospital",
+    1
+   ],
+   [
+    "hospital words",
+    1
+   ]
+  ],
+  "clash": []
+ },
+ "IV pole": {
+  "also": [
+   [
+    "hospital",
+    1
+   ],
+   [
+    "hospital words",
+    1
+   ]
+  ],
+  "clash": []
+ },
+ "forceps": {
+  "also": [],
+  "clash": [
+   "dental words",
+   "maternity ward"
+  ]
+ },
+ "clamp": {
+  "also": [],
+  "clash": [
+   "plumbing words",
+   "fixings",
+   "diy words"
+  ]
+ },
+ "catheter": {
+  "also": [
+   [
+    "hidden animals",
+    3
+   ]
+  ],
+  "clash": []
+ },
+ "cannula": {
+  "also": [],
+  "clash": [
+   "operating room",
+   "hospital words"
+  ]
+ },
+ "glucometer": {
+  "also": [
+   [
+    "pharmacy",
+    2
+   ]
+  ],
+  "clash": [
+   "handheld gadgets"
+  ]
+ },
+ "walker": {
+  "also": [],
+  "clash": [
+   "baby gear",
+   "ways of walking",
+   "undead",
+   "kinds of travelers"
+  ]
+ },
+ "cane": {
+  "also": [
+   [
+    "grasses and reeds",
+    2
+   ],
+   [
+    "punishments",
+    2
+   ],
+   [
+    "natural materials",
+    3
+   ]
+  ],
+  "clash": [
+   "sweeteners",
+   "candy",
+   "christmas",
+   "things made of wood",
+   "garden tools",
+   "magic show words"
+  ]
+ },
+ "cast": {
+  "also": [
+   [
+    "wizard words",
+    2
+   ],
+   [
+    "witchcraft",
+    2
+   ],
+   [
+    "film words",
+    1
+   ],
+   [
+    "irregular past tenses",
+    3
+   ]
+  ],
+  "clash": [
+   "first aid",
+   "injuries"
+  ]
+ },
+ "brace": {
+  "also": [
+   [
+    "keyboard symbols",
+    3
+   ]
+  ],
+  "clash": [
+   "dental words",
+   "fastenings"
+  ]
+ },
+ "endoscope": {
+  "also": [],
+  "clash": [
+   "medical tests"
+  ]
+ },
+ "bronchoscope": {
+  "also": [],
+  "clash": [
+   "medical tests"
+  ]
+ },
+ "incubator": {
+  "also": [
+   [
+    "business words",
+    3
+   ]
+  ],
+  "clash": [
+   "farm"
+  ]
+ },
+ "dialysis machine": {
+  "also": [
+   [
+    "hospital",
+    1
+   ]
+  ],
+  "clash": []
+ },
+ "pacemaker": {
+  "also": [],
+  "clash": [
+   "track events",
+   "cycling words"
+  ]
+ },
+ "ECG machine": {
+  "also": [
+   [
+    "hospital",
+    1
+   ]
+  ],
+  "clash": []
+ },
+ "reflex hammer": {
+  "also": [],
+  "clash": [
+   "hand tools"
+  ]
+ },
+ "suture": {
+  "also": [],
+  "clash": [
+   "first aid"
+  ]
+ },
+ "surgical stapler": {
+  "also": [
+   [
+    "operating room",
+    1
+   ]
+  ],
+  "clash": [
+   "stationery"
+  ]
+ },
+ "IV drip": {
+  "also": [
+   [
+    "hospital words",
+    1
+   ],
+   [
+    "hospital",
+    1
+   ],
+   [
+    "operating room",
+    1
+   ]
+  ],
+  "clash": []
+ },
+ "infusion pump": {
+  "also": [
+   [
+    "hospital",
+    1
+   ]
+  ],
+  "clash": []
+ },
+ "hearing aid": {
+  "also": [
+   [
+    "gadgets",
+    2
+   ]
+  ],
+  "clash": [
+   "ear parts"
+  ]
+ },
+ "Zimmer frame": {
+  "also": [
+   [
+    "british english words",
+    2
+   ]
+  ],
+  "clash": []
+ },
+ "lancet": {
+  "also": [
+   [
+    "window styles",
+    3
+   ]
+  ],
+  "clash": [
+   "church parts",
+   "architectural features"
+  ]
+ },
+ "sharps bin": {
+  "also": [],
+  "clash": [
+   "bins and recycling"
+  ]
+ },
+ "autoclave": {
+  "also": [
+   [
+    "dentist's office",
+    2
+   ]
+  ],
+  "clash": []
+ },
+ "defibrillator": {
+  "also": [
+   [
+    "hospital words",
+    1
+   ]
+  ],
+  "clash": []
+ },
+ "AED": {
+  "also": [
+   [
+    "acronyms",
+    2
+   ],
+   [
+    "hospital",
+    2
+   ]
+  ],
+  "clash": []
+ },
+ "X-ray machine": {
+  "also": [
+   [
+    "dentist's office",
+    1
+   ]
+  ],
+  "clash": [
+   "airport words"
+  ]
+ },
+ "sphygmomanometer": {
+  "also": [
+   [
+    "doctor's office",
+    2
+   ],
+   [
+    "hospital",
+    1
+   ]
+  ],
+  "clash": []
+ },
+ "blood pressure cuff": {
+  "also": [
+   [
+    "hospital",
+    1
+   ]
+  ],
+  "clash": []
+ },
+ "CPAP machine": {
+  "also": [
+   [
+    "sleep disorders",
+    3
+   ]
+  ],
+  "clash": [
+   "sleep"
+  ]
+ },
+ "iron lung": {
+  "also": [],
+  "clash": [
+   "historic diseases",
+   "inventions",
+   "retro tech"
+  ]
+ },
+ "cardiology": {
+  "also": [
+   [
+    "hidden vehicles",
+    3
+   ]
+  ],
+  "clash": []
+ },
+ "neurology": {
+  "also": [],
+  "clash": [
+   "science fields"
+  ]
+ },
+ "dermatology": {
+  "also": [],
+  "clash": [
+   "skin words"
+  ]
+ },
+ "radiology": {
+  "also": [
+   [
+    "hospital",
+    1
+   ]
+  ],
+  "clash": []
+ },
+ "psychiatry": {
+  "also": [
+   [
+    "mental health words",
+    1
+   ]
+  ],
+  "clash": []
+ },
+ "orthopedics": {
+  "also": [
+   [
+    "hospital",
+    1
+   ]
+  ],
+  "clash": []
+ },
+ "pathology": {
+  "also": [
+   [
+    "branches of biology",
+    3
+   ]
+  ],
+  "clash": [
+   "science fields"
+  ]
+ },
+ "anesthetics": {
+  "also": [
+   [
+    "operating room",
+    1
+   ]
+  ],
+  "clash": [
+   "medicines"
+  ]
+ },
+ "surgery": {
+  "also": [
+   [
+    "british english words",
+    2
+   ]
+  ],
+  "clash": []
+ },
+ "sports medicine": {
+  "also": [],
+  "clash": [
+   "fitness"
+  ]
+ },
+ "plastic surgery": {
+  "also": [],
+  "clash": [
+   "plastics"
+  ]
+ },
+ "virology": {
+  "also": [],
+  "clash": [
+   "science fields",
+   "viruses",
+   "microbes"
+  ]
+ },
+ "toxicology": {
+  "also": [
+   [
+    "science fields",
+    3
+   ]
+  ],
+  "clash": [
+   "detective words"
+  ]
+ },
+ "audiology": {
+  "also": [
+   [
+    "hearing words",
+    3
+   ]
+  ],
+  "clash": []
+ },
+ "nuclear medicine": {
+  "also": [],
+  "clash": [
+   "nuclear words"
+  ]
+ },
+ "critical care": {
+  "also": [
+   [
+    "hospital words",
+    1
+   ],
+   [
+    "hospital",
+    1
+   ]
+  ],
+  "clash": []
+ },
+ "forensic medicine": {
+  "also": [],
+  "clash": [
+   "detective words",
+   "police words"
+  ]
+ },
+ "sleep medicine": {
+  "also": [],
+  "clash": [
+   "sleep disorders"
+  ]
+ },
+ "infectious disease": {
+  "also": [],
+  "clash": [
+   "infections"
+  ]
+ },
+ "medical genetics": {
+  "also": [],
+  "clash": [
+   "genetics words"
+  ]
+ },
+ "endocrinology": {
+  "also": [],
+  "clash": [
+   "hormones"
+  ]
+ },
+ "ophthalmology": {
+  "also": [],
+  "clash": [
+   "sight words"
+  ]
+ },
+ "ENT": {
+  "also": [
+   [
+    "acronyms",
+    2
+   ]
+  ],
+  "clash": [
+   "fantasy races"
+  ]
+ },
+ "OB-GYN": {
+  "also": [
+   [
+    "maternity ward",
+    2
+   ],
+   [
+    "pregnancy words",
+    2
+   ]
+  ],
+  "clash": []
+ },
+ "blood test": {
+  "also": [
+   [
+    "doctor's office",
+    1
+   ]
+  ],
+  "clash": []
+ },
+ "urine test": {
+  "also": [
+   [
+    "doctor's office",
+    2
+   ]
+  ],
+  "clash": [
+   "pregnancy words"
+  ]
+ },
+ "X-ray": {
+  "also": [],
+  "clash": [
+   "tropical fish",
+   "sight words"
+  ]
+ },
+ "MRI": {
+  "also": [
+   [
+    "acronyms",
+    2
+   ]
+  ],
+  "clash": []
+ },
+ "ECG": {
+  "also": [
+   [
+    "hospital",
+    1
+   ]
+  ],
+  "clash": []
+ },
+ "EKG": {
+  "also": [
+   [
+    "hospital",
+    1
+   ]
+  ],
+  "clash": []
+ },
+ "EEG": {
+  "also": [
+   [
+    "hospital",
+    1
+   ]
+  ],
+  "clash": [
+   "brain parts"
+  ]
+ },
+ "colonoscopy": {
+  "also": [],
+  "clash": [
+   "punctuation"
+  ]
+ },
+ "Pap smear": {
+  "also": [
+   [
+    "doctor's office",
+    2
+   ]
+  ],
+  "clash": []
+ },
+ "eye test": {
+  "also": [
+   [
+    "doctor's office",
+    1
+   ]
+  ],
+  "clash": [
+   "eyewear"
+  ]
+ },
+ "allergy test": {
+  "also": [
+   [
+    "allergies",
+    2
+   ]
+  ],
+  "clash": []
+ },
+ "cholesterol test": {
+  "also": [
+   [
+    "doctor's office",
+    2
+   ]
+  ],
+  "clash": []
+ },
+ "glucose test": {
+  "also": [],
+  "clash": [
+   "pregnancy words"
+  ]
+ },
+ "stress test": {
+  "also": [],
+  "clash": [
+   "mental health words"
+  ]
+ },
+ "bone scan": {
+  "also": [],
+  "clash": [
+   "bones"
+  ]
+ },
+ "spinal tap": {
+  "also": [],
+  "clash": [
+   "famous bands"
+  ]
+ },
+ "throat swab": {
+  "also": [
+   [
+    "doctor's office",
+    2
+   ]
+  ],
+  "clash": []
+ },
+ "strep test": {
+  "also": [],
+  "clash": [
+   "infections"
+  ]
+ },
+ "skin test": {
+  "also": [],
+  "clash": [
+   "skin words"
+  ]
+ },
+ "patch test": {
+  "also": [
+   [
+    "allergies",
+    3
+   ]
+  ],
+  "clash": []
+ },
+ "TB test": {
+  "also": [],
+  "clash": [
+   "historic diseases"
+  ]
+ },
+ "Holter monitor": {
+  "also": [
+   [
+    "wearable tech",
+    3
+   ]
+  ],
+  "clash": []
+ },
+ "blood count": {
+  "also": [
+   [
+    "blood words",
+    1
+   ]
+  ],
+  "clash": []
+ },
+ "thyroid test": {
+  "also": [],
+  "clash": [
+   "hormones"
+  ]
+ },
+ "HIV test": {
+  "also": [],
+  "clash": [
+   "infections"
+  ]
+ },
+ "drug test": {
+  "also": [],
+  "clash": [
+   "illegal drugs"
+  ]
+ },
+ "sleep study": {
+  "also": [
+   [
+    "sleep disorders",
+    2
+   ]
+  ],
+  "clash": []
+ },
+ "blood culture": {
+  "also": [
+   [
+    "blood words",
+    2
+   ]
+  ],
+  "clash": []
+ },
+ "genetic test": {
+  "also": [
+   [
+    "genetics words",
+    2
+   ]
+  ],
+  "clash": []
+ },
+ "DNA test": {
+  "also": [
+   [
+    "genetics words",
+    2
+   ]
+  ],
+  "clash": [
+   "detective words",
+   "police words"
+  ]
+ },
+ "heel prick": {
+  "also": [
+   [
+    "newborn care",
+    2
+   ]
+  ],
+  "clash": []
+ },
+ "eye exam": {
+  "also": [
+   [
+    "doctor's office",
+    1
+   ]
+  ],
+  "clash": []
+ },
+ "physical exam": {
+  "also": [
+   [
+    "doctor's office",
+    1
+   ]
+  ],
+  "clash": []
+ },
+ "vision test": {
+  "also": [
+   [
+    "sight words",
+    2
+   ]
+  ],
+  "clash": []
+ },
+ "laparoscopy": {
+  "also": [],
+  "clash": [
+   "operating room"
+  ]
+ },
+ "Doppler": {
+  "also": [
+   [
+    "acoustics words",
+    3
+   ],
+   [
+    "physics words",
+    3
+   ]
+  ],
+  "clash": [
+   "weather instruments",
+   "forecast words"
+  ]
+ },
+ "bone density": {
+  "also": [],
+  "clash": [
+   "bones"
+  ]
+ },
+ "glucose tolerance test": {
+  "also": [
+   [
+    "pregnancy words",
+    3
+   ]
+  ],
+  "clash": []
+ },
+ "amniocentesis": {
+  "also": [
+   [
+    "pregnancy words",
+    2
+   ]
+  ],
+  "clash": []
+ },
+ "treadmill test": {
+  "also": [],
+  "clash": [
+   "gym equipment"
+  ]
+ },
+ "scan": {
+  "also": [
+   [
+    "computer actions",
+    2
+   ]
+  ],
+  "clash": [
+   "airport words"
+  ]
+ },
+ "smear": {
+  "also": [],
+  "clash": [
+   "painting words",
+   "makeup"
+  ]
+ },
+ "swab": {
+  "also": [
+   [
+    "pirate words",
+    2
+   ]
+  ],
+  "clash": [
+   "first aid",
+   "sailing words"
+  ]
+ },
+ "COVID-19 test": {
+  "also": [],
+  "clash": [
+   "pharmacy"
+  ]
+ },
+ "ward": {
+  "also": [
+   [
+    "election words",
+    3
+   ],
+   [
+    "british politics",
+    3
+   ]
+  ],
+  "clash": [
+   "prison words"
+  ]
+ },
+ "nurse": {
+  "also": [
+   [
+    "newborn care",
+    2
+   ]
+  ],
+  "clash": [
+   "sharks"
+  ]
+ },
+ "doctor": {
+  "also": [
+   [
+    "honorifics",
+    1
+   ]
+  ],
+  "clash": [
+   "words for expert",
+   "university degrees"
+  ]
+ },
+ "ER": {
+  "also": [
+   [
+    "acronyms",
+    2
+   ]
+  ],
+  "clash": []
+ },
+ "ICU": {
+  "also": [
+   [
+    "acronyms",
+    2
+   ]
+  ],
+  "clash": [
+   "text speak"
+  ]
+ },
+ "admission": {
+  "also": [
+   [
+    "university words",
+    2
+   ]
+  ],
+  "clash": [
+   "courtroom words",
+   "police words"
+  ]
+ },
+ "discharge": {
+  "also": [
+   [
+    "army words",
+    3
+   ],
+   [
+    "electricity words",
+    3
+   ]
+  ],
+  "clash": [
+   "prison words"
+  ]
+ },
+ "hospital gown": {
+  "also": [],
+  "clash": [
+   "nightwear"
+  ]
+ },
+ "chart": {
+  "also": [
+   [
+    "statistics words",
+    2
+   ]
+  ],
+  "clash": []
+ },
+ "waiting room": {
+  "also": [
+   [
+    "dentist's office",
+    1
+   ]
+  ],
+  "clash": []
+ },
+ "reception": {
+  "also": [
+   [
+    "radio words",
+    2
+   ],
+   [
+    "american football terms",
+    2
+   ],
+   [
+    "tv words",
+    3
+   ]
+  ],
+  "clash": []
+ },
+ "maternity": {
+  "also": [
+   [
+    "maternity ward",
+    1
+   ],
+   [
+    "childbirth words",
+    2
+   ]
+  ],
+  "clash": []
+ },
+ "orderly": {
+  "also": [],
+  "clash": [
+   "positive traits"
+  ]
+ },
+ "resident": {
+  "also": [],
+  "clash": [
+   "real estate words"
+  ]
+ },
+ "operation": {
+  "also": [
+   [
+    "war words",
+    2
+   ],
+   [
+    "army words",
+    2
+   ],
+   [
+    "hidden animals",
+    3
+   ]
+  ],
+  "clash": [
+   "math operations",
+   "spy words"
+  ]
+ },
+ "theater": {
+  "also": [
+   [
+    "theater words",
+    1
+   ]
+  ],
+  "clash": [
+   "movie theater words",
+   "war words"
+  ]
+ },
+ "monitor": {
+  "also": [],
+  "clash": [
+   "lizards",
+   "baby gear",
+   "school staff"
+  ]
+ },
+ "stitches": {
+  "also": [
+   [
+    "sewing words",
+    1
+   ],
+   [
+    "knitting words",
+    1
+   ]
+  ],
+  "clash": [
+   "first aid",
+   "embroidery stitches",
+   "comedy words"
+  ]
+ },
+ "rounds": {
+  "also": [
+   [
+    "boxing terms",
+    2
+   ],
+   [
+    "song types",
+    3
+   ]
+  ],
+  "clash": [
+   "music terms",
+   "modern weapons"
+  ]
+ },
+ "ward round": {
+  "also": [],
+  "clash": [
+   "boxing terms"
+  ]
+ },
+ "bedside": {
+  "also": [],
+  "clash": [
+   "bedroom",
+   "sleep"
+  ]
+ },
+ "code blue": {
+  "also": [],
+  "clash": [
+   "codes and signals"
+  ]
+ },
+ "morgue": {
+  "also": [],
+  "clash": [
+   "detective words",
+   "police words"
+  ]
+ },
+ "mortuary": {
+  "also": [],
+  "clash": [
+   "tombs and burials"
+  ]
+ },
+ "pharmacy": {
+  "also": [
+   [
+    "hidden body parts",
+    3
+   ]
+  ],
+  "clash": [
+   "pharmacy"
+  ]
+ },
+ "isolation": {
+  "also": [],
+  "clash": [
+   "prison words",
+   "mental health words"
+  ]
+ },
+ "quarantine": {
+  "also": [
+   [
+    "hidden insects",
+    3
+   ]
+  ],
+  "clash": []
+ },
+ "diagnosis": {
+  "also": [],
+  "clash": [
+   "forecast words"
+  ]
+ },
+ "prognosis": {
+  "also": [],
+  "clash": [
+   "forecast words"
+  ]
+ },
+ "stable": {
+  "also": [],
+  "clash": [
+   "calm words",
+   "chemistry words"
+  ]
+ },
+ "attending": {
+  "also": [
+   [
+    "hidden numbers",
+    3
+   ]
+  ],
+  "clash": []
+ },
+ "scrubs": {
+  "also": [
+   [
+    "cleaning verbs",
+    2
+   ]
+  ],
+  "clash": [
+   "spa",
+   "skincare products"
+  ]
+ },
+ "infirmary": {
+  "also": [
+   [
+    "hidden trees",
+    3
+   ],
+   [
+    "hidden names",
+    3
+   ]
+  ],
+  "clash": []
+ },
+ "sick bay": {
+  "also": [
+   [
+    "navy words",
+    2
+   ],
+   [
+    "ship parts",
+    3
+   ]
+  ],
+  "clash": []
+ },
+ "night shift": {
+  "also": [],
+  "clash": [
+   "nightwear",
+   "times of day"
+  ]
+ },
+ "cardiac arrest": {
+  "also": [],
+  "clash": [
+   "police words"
+  ]
+ },
+ "A&E": {
+  "also": [
+   [
+    "british english words",
+    2
+   ]
+  ],
+  "clash": []
+ },
+ "scale": {
+  "also": [
+   [
+    "measuring tools",
+    1
+   ],
+   [
+    "kitchen utensils",
+    2
+   ],
+   [
+    "animal coverings",
+    1
+   ]
+  ],
+  "clash": [
+   "bathroom",
+   "climbing words",
+   "dental words"
+  ]
+ },
+ "eye chart": {
+  "also": [
+   [
+    "sight words",
+    2
+   ]
+  ],
+  "clash": []
+ },
+ "prescription": {
+  "also": [],
+  "clash": [
+   "eyewear"
+  ]
+ },
+ "clipboard": {
+  "also": [
+   [
+    "software words",
+    3
+   ],
+   [
+    "hidden animals",
+    3
+   ]
+  ],
+  "clash": [
+   "classroom items"
+  ]
+ },
+ "paper gown": {
+  "also": [
+   [
+    "things made of paper",
+    2
+   ]
+  ],
+  "clash": []
+ },
+ "cotton swab": {
+  "also": [
+   [
+    "toiletries",
+    2
+   ]
+  ],
+  "clash": [
+   "first aid"
+  ]
+ },
+ "GP": {
+  "also": [
+   [
+    "british english words",
+    2
+   ]
+  ],
+  "clash": []
+ },
+ "booster": {
+  "also": [],
+  "clash": [
+   "baby gear"
+  ]
+ },
+ "symptom": {
+  "also": [],
+  "clash": [
+   "symptoms"
+  ]
+ },
+ "sick note": {
+  "also": [
+   [
+    "british english words",
+    3
+   ]
+  ],
+  "clash": []
+ },
+ "examination": {
+  "also": [
+   [
+    "exam words",
+    1
+   ]
+  ],
+  "clash": [
+   "school",
+   "courtroom words",
+   "medical tests"
+  ]
+ },
+ "weight": {
+  "also": [],
+  "clash": [
+   "fitness words",
+   "gym equipment"
+  ]
+ },
+ "pulse": {
+  "also": [
+   [
+    "beans and pulses",
+    1
+   ]
+  ],
+  "clash": [
+   "tempo words"
+  ]
+ },
+ "clinic": {
+  "also": [],
+  "clash": [
+   "hospital",
+   "vet clinic"
+  ]
+ },
+ "paperwork": {
+  "also": [
+   [
+    "hidden animals",
+    3
+   ]
+  ],
+  "clash": []
+ },
+ "walk-in": {
+  "also": [],
+  "clash": [
+   "wardrobe",
+   "hair salon"
+  ]
+ },
+ "pharmacist": {
+  "also": [
+   [
+    "hidden body parts",
+    3
+   ]
+  ],
+  "clash": [
+   "science jobs"
+  ]
+ },
+ "counter": {
+  "also": [],
+  "clash": [
+   "nuclear words",
+   "math tools",
+   "boxing terms"
+  ]
+ },
+ "refill": {
+  "also": [
+   [
+    "cafe",
+    2
+   ]
+  ],
+  "clash": []
+ },
+ "medication": {
+  "also": [
+   [
+    "hidden animals",
+    3
+   ]
+  ],
+  "clash": []
+ },
+ "medicine": {
+  "also": [],
+  "clash": [
+   "medicines",
+   "native american remedies"
+  ]
+ },
+ "label": {
+  "also": [
+   [
+    "music words",
+    2
+   ],
+   [
+    "clothing parts",
+    2
+   ]
+  ],
+  "clash": []
+ },
+ "vitamin": {
+  "also": [
+   [
+    "nutrients",
+    1
+   ]
+  ],
+  "clash": [
+   "vitamins",
+   "healthy habits"
+  ]
+ },
+ "supplement": {
+  "also": [],
+  "clash": [
+   "vitamins",
+   "diet types"
+  ]
+ },
+ "aspirin": {
+  "also": [],
+  "clash": [
+   "native american remedies"
+  ]
+ },
+ "ibuprofen": {
+  "also": [],
+  "clash": [
+   "first aid"
+  ]
+ },
+ "paracetamol": {
+  "also": [],
+  "clash": [
+   "first aid"
+  ]
+ },
+ "Tylenol": {
+  "also": [],
+  "clash": [
+   "first aid"
+  ]
+ },
+ "Advil": {
+  "also": [],
+  "clash": [
+   "first aid"
+  ]
+ },
+ "antibiotic": {
+  "also": [
+   [
+    "hidden insects",
+    3
+   ]
+  ],
+  "clash": [
+   "infections"
+  ]
+ },
+ "antacid": {
+  "also": [
+   [
+    "hidden insects",
+    3
+   ]
+  ],
+  "clash": []
+ },
+ "cough drop": {
+  "also": [],
+  "clash": [
+   "candy"
+  ]
+ },
+ "apothecary": {
+  "also": [
+   [
+    "old-time jobs",
+    2
+   ]
+  ],
+  "clash": [
+   "alchemy"
+  ]
+ },
+ "mortar": {
+  "also": [],
+  "clash": [
+   "graduation words"
+  ]
+ },
+ "technician": {
+  "also": [
+   [
+    "science jobs",
+    2
+   ],
+   [
+    "tech jobs",
+    2
+   ]
+  ],
+  "clash": []
+ },
+ "drive-through": {
+  "also": [
+   [
+    "fast food",
+    2
+   ]
+  ],
+  "clash": [
+   "restaurant words"
+  ]
+ },
+ "face mask": {
+  "also": [
+   [
+    "spa",
+    2
+   ]
+  ],
+  "clash": [
+   "halloween",
+   "korean skincare",
+   "operating room",
+   "doctor's office"
+  ]
+ },
+ "glucose meter": {
+  "also": [
+   [
+    "medical equipment",
+    2
+   ]
+  ],
+  "clash": []
+ },
+ "measuring spoon": {
+  "also": [
+   [
+    "measuring tools",
+    2
+   ]
+  ],
+  "clash": [
+   "baking words"
+  ]
+ },
+ "dropper": {
+  "also": [
+   [
+    "lab glassware",
+    2
+   ]
+  ],
+  "clash": []
+ },
+ "cough medicine": {
+  "also": [
+   [
+    "medicines",
+    1
+   ]
+  ],
+  "clash": []
+ },
+ "cold medicine": {
+  "also": [
+   [
+    "medicines",
+    1
+   ]
+  ],
+  "clash": []
+ },
+ "allergy pills": {
+  "also": [
+   [
+    "medicines",
+    1
+   ],
+   [
+    "allergies",
+    2
+   ]
+  ],
+  "clash": []
+ },
+ "Boots": {
+  "also": [
+   [
+    "shoes",
+    1
+   ]
+  ],
+  "clash": [
+   "boots"
+  ]
+ },
+ "Walgreens": {
+  "also": [
+   [
+    "hidden colors",
+    3
+   ]
+  ],
+  "clash": []
+ },
+ "pharmacy tech": {
+  "also": [
+   [
+    "medical jobs",
+    2
+   ]
+  ],
+  "clash": []
+ },
+ "prescription pad": {
+  "also": [],
+  "clash": [
+   "stationery"
+  ]
+ },
+ "repeat prescription": {
+  "also": [
+   [
+    "british english words",
+    3
+   ]
+  ],
+  "clash": []
+ },
+ "anesthesia": {
+  "also": [],
+  "clash": [
+   "dentist's office"
+  ]
+ },
+ "anesthetist": {
+  "also": [],
+  "clash": [
+   "dentist's office"
+  ]
+ },
+ "surgical mask": {
+  "also": [],
+  "clash": [
+   "pharmacy"
+  ]
+ },
+ "gloves": {
+  "also": [
+   [
+    "scarves and gloves",
+    1
+   ],
+   [
+    "accessories",
+    1
+   ]
+  ],
+  "clash": []
+ },
+ "gown": {
+  "also": [],
+  "clash": [
+   "nightwear",
+   "university words"
+  ]
+ },
+ "sponge": {
+  "also": [
+   [
+    "sea life",
+    2
+   ],
+   [
+    "reef life",
+    2
+   ],
+   [
+    "bath time",
+    1
+   ]
+  ],
+  "clash": [
+   "makeup"
+  ]
+ },
+ "operating table": {
+  "also": [],
+  "clash": [
+   "tables and desks"
+  ]
+ },
+ "surgical lamp": {
+  "also": [],
+  "clash": [
+   "lights and lamps"
+  ]
+ },
+ "laser": {
+  "also": [],
+  "clash": [
+   "modern weapons",
+   "science lab"
+  ]
+ },
+ "surgical cap": {
+  "also": [],
+  "clash": [
+   "hats"
+  ]
+ },
+ "surgical drill": {
+  "also": [],
+  "clash": [
+   "power tools"
+  ]
+ },
+ "laparoscope": {
+  "also": [
+   [
+    "medical equipment",
+    2
+   ]
+  ],
+  "clash": []
+ },
+ "drain": {
+  "also": [],
+  "clash": [
+   "under the sink",
+   "kitchen"
+  ]
+ },
+ "general anesthetic": {
+  "also": [],
+  "clash": [
+   "medicines",
+   "military ranks"
+  ]
+ },
+ "instrument tray": {
+  "also": [
+   [
+    "dentist's office",
+    2
+   ]
+  ],
+  "clash": []
+ },
+ "kidney dish": {
+  "also": [],
+  "clash": [
+   "organs"
+  ]
+ },
+ "operating theater": {
+  "also": [
+   [
+    "british english words",
+    2
+   ]
+  ],
+  "clash": [
+   "theater words"
+  ]
+ },
+ "graft": {
+  "also": [
+   [
+    "british slang",
+    2
+   ],
+   [
+    "crimes",
+    2
+   ]
+  ],
+  "clash": [
+   "skin words"
+  ]
+ },
+ "transplant": {
+  "also": [
+   [
+    "hidden insects",
+    3
+   ]
+  ],
+  "clash": [
+   "organs"
+  ]
+ },
+ "stent": {
+  "also": [
+   [
+    "hidden numbers",
+    3
+   ]
+  ],
+  "clash": []
+ },
+ "staples": {
+  "also": [
+   [
+    "stationery",
+    1
+   ],
+   [
+    "in the pantry",
+    2
+   ]
+  ],
+  "clash": [
+   "supermarket"
+  ]
+ },
+ "dressing": {
+  "also": [
+   [
+    "salad dressings",
+    1
+   ],
+   [
+    "thanksgiving",
+    2
+   ]
+  ],
+  "clash": [
+   "sauces and condiments",
+   "nightwear"
+  ]
+ },
+ "curette": {
+  "also": [],
+  "clash": [
+   "dentist's office"
+  ]
+ },
+ "probe": {
+  "also": [],
+  "clash": [
+   "detective words",
+   "police words"
+  ]
+ },
+ "scrub cap": {
+  "also": [],
+  "clash": [
+   "hats"
+  ]
+ },
+ "heart-lung machine": {
+  "also": [
+   [
+    "medical equipment",
+    2
+   ]
+  ],
+  "clash": []
+ },
+ "CPR": {
+  "also": [
+   [
+    "acronyms",
+    2
+   ]
+  ],
+  "clash": []
+ },
+ "antiseptic": {
+  "also": [
+   [
+    "hidden insects",
+    3
+   ]
+  ],
+  "clash": [
+   "cleaning products"
+  ]
+ },
+ "tweezers": {
+  "also": [],
+  "clash": [
+   "makeup",
+   "nail care"
+  ]
+ },
+ "scissors": {
+  "also": [],
+  "clash": [
+   "classic games"
+  ]
+ },
+ "bruise": {
+  "also": [],
+  "clash": [
+   "shades of purple",
+   "boxing terms"
+  ]
+ },
+ "burn": {
+  "also": [
+   [
+    "gen z slang",
+    3
+   ]
+  ],
+  "clash": []
+ },
+ "shock": {
+  "also": [
+   [
+    "electricity words",
+    2
+   ]
+  ],
+  "clash": [
+   "car parts"
+  ]
+ },
+ "bee sting": {
+  "also": [],
+  "clash": [
+   "things that sting"
+  ]
+ },
+ "triangular bandage": {
+  "also": [
+   [
+    "triangular things",
+    2
+   ]
+  ],
+  "clash": []
+ },
+ "eyewash": {
+  "also": [
+   [
+    "hidden trees",
+    3
+   ]
+  ],
+  "clash": []
+ },
+ "saline": {
+  "also": [],
+  "clash": [
+   "eyewear"
+  ]
+ },
+ "disposable gloves": {
+  "also": [],
+  "clash": [
+   "cleaning items"
+  ]
+ },
+ "calamine": {
+  "also": [
+   [
+    "pharmacy",
+    2
+   ],
+   [
+    "medicine cabinet",
+    2
+   ]
+  ],
+  "clash": [
+   "childhood illnesses",
+   "shades of pink"
+  ]
+ },
+ "emergency": {
+  "also": [
+   [
+    "hospital words",
+    1
+   ]
+  ],
+  "clash": []
+ },
+ "adrenaline": {
+  "also": [],
+  "clash": [
+   "extreme sports"
+  ]
+ },
+ "heatstroke": {
+  "also": [],
+  "clash": [
+   "signs of summer",
+   "desert travel",
+   "injuries"
+  ]
+ },
+ "dislocation": {
+  "also": [
+   [
+    "hidden animals",
+    3
+   ]
+  ],
+  "clash": []
+ },
+ "butterfly stitch": {
+  "also": [],
+  "clash": [
+   "butterflies and moths",
+   "embroidery stitches"
+  ]
+ },
+ "space blanket": {
+  "also": [],
+  "clash": [
+   "spaceflight words",
+   "running words"
+  ]
+ },
+ "foil blanket": {
+  "also": [],
+  "clash": [
+   "running words"
+  ]
+ },
+ "poison": {
+  "also": [
+   [
+    "detective words",
+    2
+   ]
+  ],
+  "clash": [
+   "poisonous plants",
+   "witchcraft",
+   "venomous animals"
+  ]
+ },
+ "insect bite": {
+  "also": [],
+  "clash": [
+   "biting bugs"
+  ]
+ },
+ "snakebite": {
+  "also": [
+   [
+    "cocktails",
+    3
+   ]
+  ],
+  "clash": [
+   "snakes"
+  ]
+ },
+ "seizure": {
+  "also": [],
+  "clash": [
+   "police words"
+  ]
+ },
+ "Red Cross": {
+  "also": [],
+  "clash": [
+   "flags with crosses",
+   "red and white flags"
+  ]
+ },
+ "tooth": {
+  "also": [],
+  "clash": [
+   "teeth"
+  ]
+ },
+ "filling": {
+  "also": [
+   [
+    "baking words",
+    2
+   ]
+  ],
+  "clash": [
+   "sandwiches",
+   "pies and tarts"
+  ]
+ },
+ "cavity": {
+  "also": [],
+  "clash": [
+   "cave features"
+  ]
+ },
+ "crown": {
+  "also": [
+   [
+    "hats",
+    2
+   ]
+  ],
+  "clash": [
+   "currencies"
+  ]
+ },
+ "braces": {
+  "also": [
+   [
+    "punctuation",
+    2
+   ],
+   [
+    "keyboard symbols",
+    3
+   ]
+  ],
+  "clash": [
+   "fastenings"
+  ]
+ },
+ "toothbrush": {
+  "also": [
+   [
+    "brooms and brushes",
+    2
+   ]
+  ],
+  "clash": []
+ },
+ "tartar": {
+  "also": [],
+  "clash": [
+   "sauces and condiments"
+  ]
+ },
+ "gum": {
+  "also": [
+   [
+    "candy",
+    1
+   ],
+   [
+    "australian trees",
+    2
+   ]
+  ],
+  "clash": []
+ },
+ "enamel": {
+  "also": [
+   [
+    "painting and decorating",
+    3
+   ]
+  ],
+  "clash": [
+   "pottery words",
+   "jewelry"
+  ]
+ },
+ "molar": {
+  "also": [
+   [
+    "chemistry words",
+    3
+   ]
+  ],
+  "clash": []
+ },
+ "canine": {
+  "also": [],
+  "clash": [
+   "domestic animals"
+  ]
+ },
+ "retainer": {
+  "also": [],
+  "clash": [
+   "courtroom words"
+  ]
+ },
+ "drill": {
+  "also": [
+   [
+    "fire station",
+    2
+   ],
+   [
+    "power tools",
+    1
+   ]
+  ],
+  "clash": [
+   "school"
+  ]
+ },
+ "cleaning": {
+  "also": [
+   [
+    "chores",
+    1
+   ]
+  ],
+  "clash": [
+   "cleaning",
+   "cleaning verbs"
+  ]
+ },
+ "scaling": {
+  "also": [],
+  "clash": [
+   "climbing words"
+  ]
+ },
+ "extraction": {
+  "also": [
+   [
+    "mining words",
+    2
+   ]
+  ],
+  "clash": []
+ },
+ "decay": {
+  "also": [
+   [
+    "nuclear words",
+    3
+   ]
+  ],
+  "clash": [
+   "erosion words",
+   "soil words"
+  ]
+ },
+ "fluoride": {
+  "also": [
+   [
+    "chemical compounds",
+    3
+   ]
+  ],
+  "clash": []
+ },
+ "sealant": {
+  "also": [
+   [
+    "hidden animals",
+    3
+   ],
+   [
+    "hidden names",
+    3
+   ]
+  ],
+  "clash": []
+ },
+ "pulp": {
+  "also": [
+   [
+    "juices",
+    2
+   ],
+   [
+    "book genres",
+    3
+   ]
+  ],
+  "clash": [
+   "comic book words"
+  ]
+ },
+ "Novocain": {
+  "also": [
+   [
+    "medicines",
+    3
+   ]
+  ],
+  "clash": []
+ },
+ "inlay": {
+  "also": [
+   [
+    "woodworking words",
+    2
+   ]
+  ],
+  "clash": []
+ },
+ "mouth guard": {
+  "also": [
+   [
+    "sports equipment",
+    1
+   ],
+   [
+    "boxing terms",
+    2
+   ]
+  ],
+  "clash": [
+   "rugby terms",
+   "ice hockey terms"
+  ]
+ },
+ "dental chair": {
+  "also": [],
+  "clash": [
+   "seating"
+  ]
+ },
+ "rinse": {
+  "also": [
+   [
+    "laundry words",
+    2
+   ]
+  ],
+  "clash": [
+   "hair care"
+  ]
+ },
+ "tooth fairy": {
+  "also": [],
+  "clash": [
+   "folklore"
+  ]
+ },
+ "whitening": {
+  "also": [
+   [
+    "hidden numbers",
+    3
+   ]
+  ],
+  "clash": []
+ },
+ "periodontist": {
+  "also": [
+   [
+    "medical jobs",
+    2
+   ]
+  ],
+  "clash": []
+ },
+ "endodontist": {
+  "also": [
+   [
+    "medical jobs",
+    2
+   ]
+  ],
+  "clash": []
+ },
+ "oral surgeon": {
+  "also": [
+   [
+    "medical jobs",
+    2
+   ]
+  ],
+  "clash": [
+   "medical specialties"
+  ]
+ },
+ "palate": {
+  "also": [
+   [
+    "homophones",
+    2
+   ],
+   [
+    "taste words",
+    2
+   ]
+  ],
+  "clash": [
+   "art materials"
+  ]
+ },
+ "gold tooth": {
+  "also": [],
+  "clash": [
+   "pirate words",
+   "hip hop words"
+  ]
+ },
+ "laughing gas": {
+  "also": [
+   [
+    "chemical compounds",
+    3
+   ]
+  ],
+  "clash": []
+ },
+ "dental hygiene": {
+  "also": [
+   [
+    "healthy habits",
+    2
+   ],
+   [
+    "dental care",
+    2
+   ]
+  ],
+  "clash": []
+ },
+ "bleaching": {
+  "also": [
+   [
+    "laundry words",
+    2
+   ],
+   [
+    "hidden body parts",
+    3
+   ]
+  ],
+  "clash": [
+   "hair care",
+   "reef life"
+  ]
+ },
+ "cigarette": {
+  "also": [
+   [
+    "bad habits",
+    1
+   ]
+  ],
+  "clash": [
+   "pollution words"
+  ]
+ },
+ "pipe": {
+  "also": [
+   [
+    "folk instruments",
+    2
+   ]
+  ],
+  "clash": [
+   "woodwind instruments",
+   "celtic instruments",
+   "detective words"
+  ]
+ },
+ "ashtray": {
+  "also": [
+   [
+    "hidden trees",
+    3
+   ]
+  ],
+  "clash": []
+ },
+ "lighter": {
+  "also": [],
+  "clash": [
+   "light words"
+  ]
+ },
+ "vape": {
+  "also": [
+   [
+    "hidden animals",
+    3
+   ],
+   [
+    "bad habits",
+    2
+   ]
+  ],
+  "clash": []
+ },
+ "match": {
+  "also": [
+   [
+    "soccer terms",
+    1
+   ],
+   [
+    "sporting events",
+    1
+   ],
+   [
+    "tournament words",
+    1
+   ],
+   [
+    "camping gear",
+    2
+   ],
+   [
+    "things made of wood",
+    2
+   ],
+   [
+    "emergency supplies",
+    2
+   ]
+  ],
+  "clash": [
+   "love words"
+  ]
+ },
+ "ash": {
+  "also": [],
+  "clash": [
+   "religious festivals"
+  ]
+ },
+ "butt": {
+  "also": [
+   [
+    "body parts",
+    1
+   ]
+  ],
+  "clash": [
+   "comedy words"
+  ]
+ },
+ "smoke": {
+  "also": [],
+  "clash": [
+   "old ways to communicate",
+   "codes and signals",
+   "smell words"
+  ]
+ },
+ "puff": {
+  "also": [
+   [
+    "dragons",
+    3
+   ]
+  ],
+  "clash": [
+   "pastries",
+   "clothing parts",
+   "makeup"
+  ]
+ },
+ "drag": {
+  "also": [
+   [
+    "motor racing",
+    2
+   ]
+  ],
+  "clash": [
+   "stage genres"
+  ]
+ },
+ "inhale": {
+  "also": [
+   [
+    "body actions",
+    2
+   ]
+  ],
+  "clash": [
+   "yoga words"
+  ]
+ },
+ "roll-up": {
+  "also": [
+   [
+    "british slang",
+    2
+   ],
+   [
+    "british english words",
+    2
+   ]
+  ],
+  "clash": []
+ },
+ "menthol": {
+  "also": [],
+  "clash": [
+   "cold things",
+   "things that smell good"
+  ]
+ },
+ "snuff": {
+  "also": [
+   [
+    "candle words",
+    2
+   ]
+  ],
+  "clash": []
+ },
+ "chewing tobacco": {
+  "also": [],
+  "clash": [
+   "wild west",
+   "baseball terms"
+  ]
+ },
+ "tar": {
+  "also": [],
+  "clash": [
+   "parts of a road",
+   "building materials",
+   "fossil fuels"
+  ]
+ },
+ "pack": {
+  "also": [
+   [
+    "hiking gear",
+    1
+   ],
+   [
+    "luggage",
+    2
+   ]
+  ],
+  "clash": []
+ },
+ "smoke ring": {
+  "also": [],
+  "clash": [
+   "round things"
+  ]
+ },
+ "Zippo": {
+  "also": [],
+  "clash": [
+   "camping gear",
+   "brand names used as words"
+  ]
+ },
+ "nicotine patch": {
+  "also": [
+   [
+    "pharmacy",
+    2
+   ]
+  ],
+  "clash": []
+ },
+ "nicotine gum": {
+  "also": [
+   [
+    "pharmacy",
+    2
+   ]
+  ],
+  "clash": []
+ },
+ "cold turkey": {
+  "also": [],
+  "clash": [
+   "poultry",
+   "thanksgiving"
+  ]
+ },
+ "withdrawal": {
+  "also": [],
+  "clash": [
+   "war words"
+  ]
+ },
+ "secondhand smoke": {
+  "also": [
+   [
+    "pollution words",
+    2
+   ]
+  ],
+  "clash": []
+ },
+ "smoker": {
+  "also": [],
+  "clash": [
+   "barbecue foods",
+   "cookware"
+  ]
+ },
+ "no smoking": {
+  "also": [
+   [
+    "in-flight words",
+    2
+   ]
+  ],
+  "clash": [
+   "road signs"
+  ]
+ },
+ "ember": {
+  "also": [
+   [
+    "campsite",
+    2
+   ],
+   [
+    "fireplace words",
+    1
+   ]
+  ],
+  "clash": []
+ },
+ "fag": {
+  "also": [
+   [
+    "british slang",
+    2
+   ]
+  ],
+  "clash": []
+ },
+ "ciggie": {
+  "also": [
+   [
+    "british slang",
+    2
+   ],
+   [
+    "australian slang",
+    2
+   ]
+  ],
+  "clash": []
+ },
+ "smoke break": {
+  "also": [
+   [
+    "workplace words",
+    2
+   ]
+  ],
+  "clash": []
+ },
+ "pipe cleaner": {
+  "also": [
+   [
+    "crafts",
+    2
+   ]
+  ],
+  "clash": []
+ },
+ "tamper": {
+  "also": [],
+  "clash": [
+   "crimes"
+  ]
+ },
+ "briar": {
+  "also": [],
+  "clash": [
+   "hedge plants"
+  ]
+ },
+ "meerschaum": {
+  "also": [
+   [
+    "words from german",
+    3
+   ]
+  ],
+  "clash": []
+ },
+ "Havana": {
+  "also": [
+   [
+    "shades of brown",
+    3
+   ]
+  ],
+  "clash": [
+   "cat breeds",
+   "caribbean islands"
+  ]
+ },
+ "bidi": {
+  "also": [],
+  "clash": [
+   "words from hindi"
+  ]
+ },
+ "water pipe": {
+  "also": [
+   [
+    "plumbing words",
+    1
+   ]
+  ],
+  "clash": []
+ },
+ "Lucky Strike": {
+  "also": [],
+  "clash": [
+   "bowling terms"
+  ]
+ },
+ "heroin": {
+  "also": [
+   [
+    "homophones",
+    2
+   ]
+  ],
+  "clash": []
+ },
+ "weed": {
+  "also": [],
+  "clash": [
+   "weeds"
+  ]
+ },
+ "pot": {
+  "also": [
+   [
+    "pottery words",
+    1
+   ]
+  ],
+  "clash": []
+ },
+ "grass": {
+  "also": [
+   [
+    "grasses and reeds",
+    1
+   ],
+   [
+    "british slang",
+    2
+   ]
+  ],
+  "clash": [
+   "police words",
+   "garden features"
+  ]
+ },
+ "hash": {
+  "also": [
+   [
+    "hidden trees",
+    3
+   ]
+  ],
+  "clash": [
+   "breakfast foods",
+   "social media words"
+  ]
+ },
+ "hashish": {
+  "also": [
+   [
+    "hidden trees",
+    3
+   ]
+  ],
+  "clash": []
+ },
+ "ganja": {
+  "also": [
+   [
+    "words from hindi",
+    3
+   ]
+  ],
+  "clash": []
+ },
+ "reefer": {
+  "also": [
+   [
+    "coats and jackets",
+    3
+   ]
+  ],
+  "clash": []
+ },
+ "crack": {
+  "also": [
+   [
+    "onomatopoeia",
+    2
+   ],
+   [
+    "earthquake words",
+    2
+   ]
+  ],
+  "clash": []
+ },
+ "speed": {
+  "also": [
+   [
+    "words for fast",
+    1
+   ]
+  ],
+  "clash": [
+   "fast things",
+   "traffic words",
+   "motor racing"
+  ]
+ },
+ "acid": {
+  "also": [],
+  "clash": [
+   "sour foods",
+   "electronic music styles"
+  ]
+ },
+ "ketamine": {
+  "also": [],
+  "clash": [
+   "vet clinic"
+  ]
+ },
+ "opium": {
+  "also": [],
+  "clash": [
+   "poisonous plants"
+  ]
+ },
+ "shrooms": {
+  "also": [],
+  "clash": [
+   "mushrooms"
+  ]
+ },
+ "magic mushroom": {
+  "also": [
+   [
+    "mushrooms",
+    2
+   ]
+  ],
+  "clash": [
+   "magic items",
+   "magic tricks"
+  ]
+ },
+ "angel dust": {
+  "also": [],
+  "clash": [
+   "angels and spirits"
+  ]
+ },
+ "coke": {
+  "also": [
+   [
+    "brand names used as words",
+    2
+   ]
+  ],
+  "clash": []
+ },
+ "blow": {
+  "also": [
+   [
+    "body actions",
+    2
+   ]
+  ],
+  "clash": [
+   "boxing terms"
+  ]
+ },
+ "crank": {
+  "also": [],
+  "clash": [
+   "words for strange"
+  ]
+ },
+ "spice": {
+  "also": [],
+  "clash": [
+   "spices",
+   "herbs, spices and sauces"
+  ]
+ },
+ "bath salts": {
+  "also": [
+   [
+    "spa",
+    2
+   ],
+   [
+    "toiletries for washing",
+    2
+   ]
+  ],
+  "clash": []
+ },
+ "krokodil": {
+  "also": [],
+  "clash": [
+   "crocodilians"
+  ]
+ },
+ "horse": {
+  "also": [
+   [
+    "gymnastics apparatus",
+    2
+   ]
+  ],
+  "clash": [
+   "chess terms",
+   "game pieces"
+  ]
+ },
+ "junk": {
+  "also": [],
+  "clash": [
+   "junk drawer"
+  ]
+ },
+ "snow": {
+  "also": [
+   [
+    "weather",
+    1
+   ]
+  ],
+  "clash": [
+   "christmas"
+  ]
+ },
+ "ginseng": {
+  "also": [
+   [
+    "teas",
+    2
+   ],
+   [
+    "korean food",
+    3
+   ]
+  ],
+  "clash": [
+   "superfoods"
+  ]
+ },
+ "qi": {
+  "also": [],
+  "clash": [
+   "yoga words"
+  ]
+ },
+ "yin": {
+  "also": [],
+  "clash": [
+   "yoga words"
+  ]
+ },
+ "qigong": {
+  "also": [],
+  "clash": [
+   "chinese martial arts",
+   "workout types"
+  ]
+ },
+ "meridian": {
+  "also": [
+   [
+    "astronomy terms",
+    3
+   ],
+   [
+    "map words",
+    2
+   ]
+  ],
+  "clash": []
+ },
+ "gua sha": {
+  "also": [
+   [
+    "massage types",
+    2
+   ],
+   [
+    "spa",
+    2
+   ]
+  ],
+  "clash": [
+   "korean skincare"
+  ]
+ },
+ "goji berry": {
+  "also": [
+   [
+    "superfoods",
+    1
+   ],
+   [
+    "berries",
+    1
+   ]
+  ],
+  "clash": []
+ },
+ "reishi": {
+  "also": [
+   [
+    "superfoods",
+    3
+   ]
+  ],
+  "clash": []
+ },
+ "cordyceps": {
+  "also": [
+   [
+    "superfoods",
+    3
+   ]
+  ],
+  "clash": []
+ },
+ "licorice root": {
+  "also": [
+   [
+    "teas",
+    2
+   ]
+  ],
+  "clash": [
+   "candy"
+  ]
+ },
+ "ginkgo": {
+  "also": [
+   [
+    "nuts",
+    3
+   ]
+  ],
+  "clash": [
+   "prehistoric life"
+  ]
+ },
+ "wolfberry": {
+  "also": [
+   [
+    "hidden animals",
+    2
+   ],
+   [
+    "___berry",
+    3
+   ],
+   [
+    "superfoods",
+    2
+   ]
+  ],
+  "clash": []
+ },
+ "jujube": {
+  "also": [
+   [
+    "silly-sounding words",
+    3
+   ]
+  ],
+  "clash": [
+   "candy"
+  ]
+ },
+ "herbalist": {
+  "also": [
+   [
+    "old-time jobs",
+    2
+   ]
+  ],
+  "clash": [
+   "witchcraft"
+  ]
+ },
+ "five elements": {
+  "also": [],
+  "clash": [
+   "chemical elements",
+   "alchemy"
+  ]
+ },
+ "Tiger Balm": {
+  "also": [
+   [
+    "medicine cabinet",
+    2
+   ],
+   [
+    "pharmacy",
+    2
+   ]
+  ],
+  "clash": [
+   "skincare products"
+  ]
+ },
+ "schisandra": {
+  "also": [
+   [
+    "hidden names",
+    3
+   ]
+  ],
+  "clash": []
+ },
+ "mugwort": {
+  "also": [],
+  "clash": [
+   "witchcraft"
+  ]
+ },
+ "lingzhi": {
+  "also": [
+   [
+    "mushrooms",
+    2
+   ]
+  ],
+  "clash": []
+ },
+ "angelica": {
+  "also": [
+   [
+    "girls' names",
+    2
+   ]
+  ],
+  "clash": []
+ },
+ "skullcap": {
+  "also": [
+   [
+    "hidden body parts",
+    3
+   ],
+   [
+    "medicinal plants",
+    3
+   ]
+  ],
+  "clash": []
+ },
+ "hawthorn": {
+  "also": [],
+  "clash": [
+   "american novelists"
+  ]
+ },
+ "poria": {
+  "also": [
+   [
+    "mushrooms",
+    3
+   ]
+  ],
+  "clash": []
+ },
+ "cinnamon bark": {
+  "also": [
+   [
+    "spices",
+    1
+   ]
+  ],
+  "clash": [
+   "tree parts"
+  ]
+ },
+ "white peony": {
+  "also": [
+   [
+    "garden flowers",
+    2
+   ],
+   [
+    "bouquet flowers",
+    2
+   ]
+  ],
+  "clash": [
+   "white things"
+  ]
+ },
+ "honeysuckle": {
+  "also": [
+   [
+    "hidden numbers",
+    3
+   ]
+  ],
+  "clash": []
+ },
+ "magnolia bark": {
+  "also": [],
+  "clash": [
+   "tree parts"
+  ]
+ },
+ "lotus seed": {
+  "also": [
+   [
+    "mid-autumn festival",
+    3
+   ]
+  ],
+  "clash": [
+   "yoga poses",
+   "water plants"
+  ]
+ },
+ "decoction": {
+  "also": [],
+  "clash": [
+   "cooking methods",
+   "teas"
+  ]
+ },
+ "dampness": {
+  "also": [],
+  "clash": [
+   "rain words"
+  ]
+ },
+ "deer antler": {
+  "also": [],
+  "clash": [
+   "deer",
+   "animal body parts",
+   "animals with horns"
+  ]
+ },
+ "chrysanthemum tea": {
+  "also": [
+   [
+    "teas",
+    1
+   ]
+  ],
+  "clash": []
+ },
+ "yin and yang": {
+  "also": [
+   [
+    "symbols",
+    1
+   ]
+  ],
+  "clash": [
+   "chinese mythology",
+   "religion words"
+  ]
+ },
+ "black seed": {
+  "also": [
+   [
+    "spices",
+    2
+   ]
+  ],
+  "clash": []
+ },
+ "nigella": {
+  "also": [
+   [
+    "hidden names",
+    3
+   ]
+  ],
+  "clash": [
+   "girls' names"
+  ]
+ },
+ "miswak": {
+  "also": [
+   [
+    "dental care",
+    2
+   ],
+   [
+    "words from arabic",
+    3
+   ]
+  ],
+  "clash": []
+ },
+ "frankincense": {
+  "also": [
+   [
+    "hidden names",
+    3
+   ]
+  ],
+  "clash": [
+   "religion words"
+  ]
+ },
+ "myrrh": {
+  "also": [],
+  "clash": [
+   "words from arabic"
+  ]
+ },
+ "rose water": {
+  "also": [
+   [
+    "middle eastern food",
+    2
+   ],
+   [
+    "skincare products",
+    2
+   ]
+  ],
+  "clash": [
+   "baking ingredients"
+  ]
+ },
+ "honey": {
+  "also": [
+   [
+    "spreads",
+    1
+   ],
+   [
+    "breakfast foods",
+    2
+   ],
+   [
+    "toppings",
+    2
+   ],
+   [
+    "baking ingredients",
+    1
+   ]
+  ],
+  "clash": []
+ },
+ "olive oil": {
+  "also": [
+   [
+    "oils and vinegars",
+    1
+   ]
+  ],
+  "clash": [
+   "salad dressings",
+   "italian food",
+   "greek food"
+  ]
+ },
+ "dates": {
+  "also": [
+   [
+    "dried fruits",
+    1
+   ],
+   [
+    "homographs",
+    3
+   ]
+  ],
+  "clash": [
+   "clocks and calendars",
+   "days and weeks",
+   "love words"
+  ]
+ },
+ "sage tea": {
+  "also": [
+   [
+    "teas",
+    2
+   ]
+  ],
+  "clash": []
+ },
+ "chamomile": {
+  "also": [],
+  "clash": [
+   "bedtime routine"
+  ]
+ },
+ "mint tea": {
+  "also": [],
+  "clash": [
+   "turkish drinks"
+  ]
+ },
+ "anise": {
+  "also": [],
+  "clash": [
+   "liqueurs",
+   "candy"
+  ]
+ },
+ "fennel": {
+  "also": [
+   [
+    "herbs",
+    1
+   ],
+   [
+    "spices",
+    2
+   ]
+  ],
+  "clash": []
+ },
+ "henna": {
+  "also": [
+   [
+    "hair care",
+    2
+   ]
+  ],
+  "clash": [
+   "shades of red",
+   "weddings"
+  ]
+ },
+ "kohl": {
+  "also": [
+   [
+    "makeup",
+    1
+   ]
+  ],
+  "clash": []
+ },
+ "cardamom": {
+  "also": [],
+  "clash": [
+   "indian food",
+   "coffee words"
+  ]
+ },
+ "fenugreek": {
+  "also": [
+   [
+    "herbs",
+    2
+   ]
+  ],
+  "clash": [
+   "indian food"
+  ]
+ },
+ "mastic": {
+  "also": [],
+  "clash": [
+   "sweet treats of turkey",
+   "liqueurs"
+  ]
+ },
+ "mastic gum": {
+  "also": [],
+  "clash": [
+   "candy",
+   "sticky things"
+  ]
+ },
+ "olive leaf": {
+  "also": [],
+  "clash": [
+   "tree parts",
+   "peace words"
+  ]
+ },
+ "Zamzam water": {
+  "also": [
+   [
+    "islam words",
+    2
+   ]
+  ],
+  "clash": [
+   "pilgrimage sites"
+  ]
+ },
+ "senna": {
+  "also": [],
+  "clash": [
+   "formula one drivers"
+  ]
+ },
+ "Ajwa dates": {
+  "also": [
+   [
+    "dried fruits",
+    3
+   ]
+  ],
+  "clash": []
+ },
+ "camel milk": {
+  "also": [
+   [
+    "types of milk",
+    2
+   ]
+  ],
+  "clash": [
+   "desert travel"
+  ]
+ },
+ "thyme": {
+  "also": [
+   [
+    "homophones",
+    1
+   ]
+  ],
+  "clash": []
+ },
+ "attar": {
+  "also": [],
+  "clash": [
+   "perfume notes"
+  ]
+ },
+ "hammam": {
+  "also": [
+   [
+    "spa",
+    1
+   ]
+  ],
+  "clash": []
+ },
+ "licorice": {
+  "also": [],
+  "clash": [
+   "spices",
+   "teas"
+  ]
+ },
+ "orange blossom": {
+  "also": [
+   [
+    "spring flowers",
+    2
+   ]
+  ],
+  "clash": [
+   "national flowers",
+   "weddings"
+  ]
+ },
+ "sage": {
+  "also": [],
+  "clash": [
+   "teas"
+  ]
+ },
+ "za'atar": {
+  "also": [
+   [
+    "herbs",
+    2
+   ]
+  ],
+  "clash": [
+   "spices"
+  ]
+ },
+ "rooibos": {
+  "also": [
+   [
+    "south african food",
+    2
+   ]
+  ],
+  "clash": []
+ },
+ "buchu": {
+  "also": [
+   [
+    "medicinal plants",
+    2
+   ]
+  ],
+  "clash": [
+   "south african flowers"
+  ]
+ },
+ "shea butter": {
+  "also": [],
+  "clash": [
+   "spreads"
+  ]
+ },
+ "African potato": {
+  "also": [],
+  "clash": [
+   "root vegetables",
+   "vegetables"
+  ]
+ },
+ "aloe ferox": {
+  "also": [
+   [
+    "cacti and succulents",
+    2
+   ],
+   [
+    "medicinal plants",
+    2
+   ]
+  ],
+  "clash": []
+ },
+ "Cape aloe": {
+  "also": [
+   [
+    "cacti and succulents",
+    2
+   ],
+   [
+    "medicinal plants",
+    2
+   ]
+  ],
+  "clash": []
+ },
+ "marula oil": {
+  "also": [
+   [
+    "skincare products",
+    2
+   ]
+  ],
+  "clash": []
+ },
+ "marula": {
+  "also": [],
+  "clash": [
+   "liqueurs"
+  ]
+ },
+ "sausage tree": {
+  "also": [],
+  "clash": [
+   "sausages"
+  ]
+ },
+ "pelargonium": {
+  "also": [
+   [
+    "garden flowers",
+    2
+   ],
+   [
+    "houseplants",
+    2
+   ]
+  ],
+  "clash": []
+ },
+ "kola nut": {
+  "also": [
+   [
+    "west african food",
+    3
+   ]
+  ],
+  "clash": [
+   "soft drinks"
+  ]
+ },
+ "bissap": {
+  "also": [
+   [
+    "teas",
+    2
+   ]
+  ],
+  "clash": [
+   "juices"
+  ]
+ },
+ "karkade": {
+  "also": [
+   [
+    "teas",
+    2
+   ],
+   [
+    "north african food",
+    3
+   ]
+  ],
+  "clash": []
+ },
+ "argan oil": {
+  "also": [
+   [
+    "hair care",
+    1
+   ],
+   [
+    "skincare products",
+    1
+   ],
+   [
+    "oils and vinegars",
+    3
+   ]
+  ],
+  "clash": []
+ },
+ "bitter leaf": {
+  "also": [
+   [
+    "bitter foods",
+    2
+   ],
+   [
+    "west african food",
+    2
+   ],
+   [
+    "leafy greens",
+    3
+   ]
+  ],
+  "clash": []
+ },
+ "artemisia": {
+  "also": [
+   [
+    "medicinal plants",
+    2
+   ]
+  ],
+  "clash": [
+   "herbs"
+  ]
+ },
+ "sangoma": {
+  "also": [],
+  "clash": [
+   "religious leaders",
+   "medical jobs"
+  ]
+ },
+ "inyanga": {
+  "also": [],
+  "clash": [
+   "medical jobs"
+  ]
+ },
+ "sour fig": {
+  "also": [
+   [
+    "south african food",
+    3
+   ],
+   [
+    "cacti and succulents",
+    3
+   ]
+  ],
+  "clash": [
+   "sour foods"
+  ]
+ },
+ "black soap": {
+  "also": [
+   [
+    "toiletries for washing",
+    2
+   ],
+   [
+    "skincare products",
+    2
+   ]
+  ],
+  "clash": []
+ },
+ "manuka honey": {
+  "also": [],
+  "clash": [
+   "sweeteners",
+   "spreads"
+  ]
+ },
+ "kawakawa": {
+  "also": [
+   [
+    "maori words",
+    3
+   ]
+  ],
+  "clash": []
+ },
+ "lemon myrtle": {
+  "also": [
+   [
+    "herbs",
+    2
+   ]
+  ],
+  "clash": []
+ },
+ "Kakadu plum": {
+  "also": [
+   [
+    "superfoods",
+    3
+   ]
+  ],
+  "clash": [
+   "stone fruits",
+   "national parks"
+  ]
+ },
+ "rongoā": {
+  "also": [
+   [
+    "maori culture",
+    2
+   ],
+   [
+    "maori words",
+    2
+   ]
+  ],
+  "clash": []
+ },
+ "harakeke": {
+  "also": [
+   [
+    "fiber plants",
+    2
+   ],
+   [
+    "maori words",
+    2
+   ]
+  ],
+  "clash": []
+ },
+ "manuka": {
+  "also": [],
+  "clash": [
+   "superfoods"
+  ]
+ },
+ "pawpaw ointment": {
+  "also": [],
+  "clash": [
+   "skincare products"
+  ]
+ },
+ "coconut oil": {
+  "also": [
+   [
+    "oils and vinegars",
+    2
+   ],
+   [
+    "skincare products",
+    2
+   ]
+  ],
+  "clash": []
+ },
+ "kukui oil": {
+  "also": [
+   [
+    "hawaiian words",
+    3
+   ]
+  ],
+  "clash": []
+ },
+ "awapuhi": {
+  "also": [
+   [
+    "hawaiian words",
+    3
+   ]
+  ],
+  "clash": [
+   "hair care"
+  ]
+ },
+ "olena": {
+  "also": [
+   [
+    "hawaiian words",
+    3
+   ]
+  ],
+  "clash": []
+ },
+ "lomilomi": {
+  "also": [
+   [
+    "massage types",
+    2
+   ],
+   [
+    "hawaiian words",
+    2
+   ]
+  ],
+  "clash": []
+ },
+ "mamaki": {
+  "also": [
+   [
+    "teas",
+    3
+   ],
+   [
+    "hawaiian words",
+    3
+   ]
+  ],
+  "clash": []
+ },
+ "tamanu oil": {
+  "also": [
+   [
+    "skincare products",
+    3
+   ]
+  ],
+  "clash": []
+ },
+ "monoi oil": {
+  "also": [
+   [
+    "skincare products",
+    3
+   ]
+  ],
+  "clash": []
+ },
+ "tea tree oil": {
+  "also": [
+   [
+    "skincare products",
+    2
+   ],
+   [
+    "medicine cabinet",
+    2
+   ]
+  ],
+  "clash": []
+ },
+ "eucalyptus oil": {
+  "also": [
+   [
+    "things that smell good",
+    2
+   ],
+   [
+    "candle scents",
+    2
+   ]
+  ],
+  "clash": []
+ },
+ "tea tree": {
+  "also": [],
+  "clash": [
+   "teas"
+  ]
+ },
+ "noni juice": {
+  "also": [
+   [
+    "juices",
+    2
+   ]
+  ],
+  "clash": []
+ },
+ "river mint": {
+  "also": [
+   [
+    "herbs",
+    2
+   ],
+   [
+    "bush tucker",
+    3
+   ]
+  ],
+  "clash": []
+ },
+ "dosha": {
+  "also": [],
+  "clash": [
+   "indian food"
+  ]
+ },
+ "pitta": {
+  "also": [
+   [
+    "flatbreads",
+    2
+   ],
+   [
+    "breads",
+    2
+   ]
+  ],
+  "clash": []
+ },
+ "turmeric": {
+  "also": [
+   [
+    "hidden names",
+    3
+   ]
+  ],
+  "clash": [
+   "indian food"
+  ]
+ },
+ "ghee": {
+  "also": [
+   [
+    "indian food",
+    1
+   ]
+  ],
+  "clash": []
+ },
+ "tulsi": {
+  "also": [
+   [
+    "herbs",
+    2
+   ],
+   [
+    "hinduism words",
+    3
+   ]
+  ],
+  "clash": []
+ },
+ "amla": {
+  "also": [
+   [
+    "superfoods",
+    3
+   ]
+  ],
+  "clash": [
+   "hair care"
+  ]
+ },
+ "shirodhara": {
+  "also": [
+   [
+    "massage types",
+    3
+   ],
+   [
+    "spa",
+    3
+   ]
+  ],
+  "clash": []
+ },
+ "marma": {
+  "also": [],
+  "clash": [
+   "massage types"
+  ]
+ },
+ "agni": {
+  "also": [],
+  "clash": [
+   "fire words"
+  ]
+ },
+ "sesame oil": {
+  "also": [
+   [
+    "oils and vinegars",
+    1
+   ]
+  ],
+  "clash": [
+   "asian sauces"
+  ]
+ },
+ "oil pulling": {
+  "also": [
+   [
+    "dental care",
+    3
+   ]
+  ],
+  "clash": []
+ },
+ "tongue scraper": {
+  "also": [],
+  "clash": [
+   "bathroom"
+  ]
+ },
+ "neti pot": {
+  "also": [],
+  "clash": [
+   "yoga words"
+  ]
+ },
+ "kitchari": {
+  "also": [
+   [
+    "indian food",
+    2
+   ],
+   [
+    "rice dishes",
+    2
+   ]
+  ],
+  "clash": []
+ },
+ "Dhanvantari": {
+  "also": [
+   [
+    "hindu gods",
+    2
+   ]
+  ],
+  "clash": []
+ },
+ "vaidya": {
+  "also": [],
+  "clash": [
+   "medical jobs"
+  ]
+ },
+ "sattva": {
+  "also": [
+   [
+    "hinduism words",
+    4
+   ]
+  ],
+  "clash": [
+   "yoga words"
+  ]
+ },
+ "rajas": {
+  "also": [
+   [
+    "hinduism words",
+    4
+   ]
+  ],
+  "clash": [
+   "yoga words"
+  ]
+ },
+ "tamas": {
+  "also": [
+   [
+    "hinduism words",
+    4
+   ]
+  ],
+  "clash": [
+   "yoga words"
+  ]
+ },
+ "guna": {
+  "also": [
+   [
+    "hinduism words",
+    4
+   ]
+  ],
+  "clash": [
+   "yoga words"
+  ]
+ },
+ "shilajit": {
+  "also": [],
+  "clash": [
+   "rocks and minerals"
+  ]
+ },
+ "arjuna": {
+  "also": [],
+  "clash": [
+   "indian names"
+  ]
+ },
+ "bhringraj": {
+  "also": [],
+  "clash": [
+   "hair care"
+  ]
+ },
+ "Ayurveda": {
+  "also": [],
+  "clash": [
+   "hinduism words"
+  ]
+ },
+ "kansa wand": {
+  "also": [],
+  "clash": [
+   "magic items",
+   "wizard words"
+  ]
+ },
+ "willow bark": {
+  "also": [
+   [
+    "medicinal plants",
+    2
+   ]
+  ],
+  "clash": [
+   "tree parts"
+  ]
+ },
+ "witch hazel": {
+  "also": [],
+  "clash": [
+   "witchcraft",
+   "halloween"
+  ]
+ },
+ "sweat lodge": {
+  "also": [],
+  "clash": [
+   "spa"
+  ]
+ },
+ "slippery elm": {
+  "also": [
+   [
+    "deciduous trees",
+    2
+   ]
+  ],
+  "clash": [
+   "slippery things"
+  ]
+ },
+ "wild cherry": {
+  "also": [
+   [
+    "fruit trees",
+    2
+   ],
+   [
+    "stone fruits",
+    2
+   ]
+  ],
+  "clash": []
+ },
+ "bearberry": {
+  "also": [
+   [
+    "hidden animals",
+    3
+   ],
+   [
+    "___berry",
+    2
+   ]
+  ],
+  "clash": []
+ },
+ "uva ursi": {
+  "also": [],
+  "clash": [
+   "latin phrases"
+  ]
+ },
+ "yerba santa": {
+  "also": [
+   [
+    "words from spanish",
+    3
+   ]
+  ],
+  "clash": [
+   "south american drinks"
+  ]
+ },
+ "juniper": {
+  "also": [
+   [
+    "girls' names",
+    3
+   ]
+  ],
+  "clash": [
+   "spirits"
+  ]
+ },
+ "cranberry": {
+  "also": [
+   [
+    "thanksgiving",
+    1
+   ]
+  ],
+  "clash": [
+   "sauces and condiments"
+  ]
+ },
+ "wintergreen": {
+  "also": [],
+  "clash": [
+   "candy",
+   "shades of green"
+  ]
+ },
+ "cattail": {
+  "also": [
+   [
+    "hidden animals",
+    2
+   ]
+  ],
+  "clash": []
+ },
+ "Labrador tea": {
+  "also": [
+   [
+    "teas",
+    3
+   ]
+  ],
+  "clash": [
+   "dog breeds"
+  ]
+ },
+ "American ginseng": {
+  "also": [
+   [
+    "medicinal plants",
+    2
+   ]
+  ],
+  "clash": []
+ },
+ "skunk cabbage": {
+  "also": [],
+  "clash": [
+   "cabbage family"
+  ]
+ },
+ "prickly ash": {
+  "also": [],
+  "clash": [
+   "prickly things"
+  ]
+ },
+ "chokecherry": {
+  "also": [],
+  "clash": [
+   "berries"
+  ]
+ },
+ "elderberry": {
+  "also": [
+   [
+    "___berry",
+    1
+   ]
+  ],
+  "clash": []
+ },
+ "medicine man": {
+  "also": [],
+  "clash": [
+   "religious leaders",
+   "native american folklore"
+  ]
+ },
+ "white sage": {
+  "also": [
+   [
+    "herbs",
+    2
+   ]
+  ],
+  "clash": [
+   "candle scents",
+   "witchcraft"
+  ]
+ },
+ "pipsissewa": {
+  "also": [
+   [
+    "silly-sounding words",
+    3
+   ]
+  ],
+  "clash": []
+ },
+ "Solomon's seal": {
+  "also": [],
+  "clash": [
+   "biblical names",
+   "symbols"
+  ]
+ },
+ "baby": {
+  "also": [
+   [
+    "terms of endearment",
+    1
+   ]
+  ],
+  "clash": [
+   "baby animals",
+   "baby talk"
+  ]
+ },
+ "twins": {
+  "also": [
+   [
+    "family members",
+    2
+   ]
+  ],
+  "clash": [
+   "zodiac signs"
+  ]
+ },
+ "triplets": {
+  "also": [],
+  "clash": [
+   "music terms"
+  ]
+ },
+ "stork": {
+  "also": [],
+  "clash": [
+   "folklore"
+  ]
+ },
+ "christening": {
+  "also": [
+   [
+    "religion words",
+    2
+   ],
+   [
+    "hidden names",
+    3
+   ],
+   [
+    "hidden numbers",
+    3
+   ]
+  ],
+  "clash": []
+ },
+ "baby shower": {
+  "also": [
+   [
+    "pregnancy words",
+    1
+   ]
+  ],
+  "clash": []
+ },
+ "birth announcement": {
+  "also": [],
+  "clash": [
+   "newspaper words"
+  ]
+ },
+ "nanny": {
+  "also": [
+   [
+    "female animals",
+    2
+   ],
+   [
+    "family members",
+    2
+   ]
+  ],
+  "clash": []
+ },
+ "godmother": {
+  "also": [],
+  "clash": [
+   "fairy tale characters"
+  ]
+ },
+ "godfather": {
+  "also": [],
+  "clash": [
+   "crimes"
+  ]
+ },
+ "adoption": {
+  "also": [],
+  "clash": [
+   "pets"
+  ]
+ },
+ "baby name": {
+  "also": [],
+  "clash": [
+   "names"
+  ]
+ },
+ "nursery": {
+  "also": [
+   [
+    "school types",
+    1
+   ],
+   [
+    "garden",
+    2
+   ]
+  ],
+  "clash": [
+   "song types"
+  ]
+ },
+ "birthmark": {
+  "also": [
+   [
+    "hidden names",
+    3
+   ]
+  ],
+  "clash": []
+ },
+ "pregnant": {
+  "also": [
+   [
+    "hidden insects",
+    3
+   ]
+  ],
+  "clash": []
+ },
+ "bump": {
+  "also": [
+   [
+    "dance moves",
+    3
+   ],
+   [
+    "hidden body parts",
+    3
+   ]
+  ],
+  "clash": [
+   "parts of a road"
+  ]
+ },
+ "trimester": {
+  "also": [
+   [
+    "university words",
+    2
+   ]
+  ],
+  "clash": [
+   "school"
+  ]
+ },
+ "morning sickness": {
+  "also": [
+   [
+    "symptoms",
+    2
+   ]
+  ],
+  "clash": [
+   "times of day"
+  ]
+ },
+ "kick": {
+  "also": [
+   [
+    "soccer terms",
+    1
+   ]
+  ],
+  "clash": [
+   "drums"
+  ]
+ },
+ "antenatal": {
+  "also": [
+   [
+    "hidden insects",
+    3
+   ],
+   [
+    "hidden numbers",
+    3
+   ]
+  ],
+  "clash": []
+ },
+ "fertility": {
+  "also": [],
+  "clash": [
+   "soil words"
+  ]
+ },
+ "IVF": {
+  "also": [
+   [
+    "acronyms",
+    2
+   ]
+  ],
+  "clash": []
+ },
+ "umbilical cord": {
+  "also": [],
+  "clash": [
+   "cords and strings"
+  ]
+ },
+ "maternity wear": {
+  "also": [
+   [
+    "clothes",
+    2
+   ]
+  ],
+  "clash": []
+ },
+ "heartburn": {
+  "also": [
+   [
+    "hidden body parts",
+    2
+   ]
+  ],
+  "clash": []
+ },
+ "stretch mark": {
+  "also": [],
+  "clash": [
+   "stretches"
+  ]
+ },
+ "prenatal vitamin": {
+  "also": [
+   [
+    "vitamins",
+    2
+   ]
+  ],
+  "clash": []
+ },
+ "nesting": {
+  "also": [],
+  "clash": [
+   "animal homes",
+   "birdwatching words"
+  ]
+ },
+ "Braxton Hicks": {
+  "also": [
+   [
+    "words named after people",
+    3
+   ]
+  ],
+  "clash": []
+ },
+ "miscarriage": {
+  "also": [],
+  "clash": [
+   "courtroom words"
+  ]
+ },
+ "expectant": {
+  "also": [
+   [
+    "hidden insects",
+    3
+   ]
+  ],
+  "clash": []
+ },
+ "glow": {
+  "also": [
+   [
+    "candle words",
+    2
+   ]
+  ],
+  "clash": [
+   "things that glow"
+  ]
+ },
+ "pregnancy": {
+  "also": [
+   [
+    "hidden names",
+    3
+   ]
+  ],
+  "clash": []
+ },
+ "linea nigra": {
+  "also": [],
+  "clash": [
+   "latin phrases"
+  ]
+ },
+ "implantation": {
+  "also": [
+   [
+    "hidden insects",
+    3
+   ]
+  ],
+  "clash": []
+ },
+ "labor": {
+  "also": [
+   [
+    "workplace words",
+    2
+   ]
+  ],
+  "clash": [
+   "british politics"
+  ]
+ },
+ "delivery": {
+  "also": [
+   [
+    "cricket terms",
+    2
+   ],
+   [
+    "baseball terms",
+    2
+   ],
+   [
+    "hidden body parts",
+    3
+   ]
+  ],
+  "clash": [
+   "ways of speaking"
+  ]
+ },
+ "contraction": {
+  "also": [],
+  "clash": [
+   "punctuation"
+  ]
+ },
+ "cesarean": {
+  "also": [],
+  "clash": [
+   "roman emperors",
+   "words named after people"
+  ]
+ },
+ "C-section": {
+  "also": [],
+  "clash": [
+   "roman emperors"
+  ]
+ },
+ "dilation": {
+  "also": [],
+  "clash": [
+   "eye parts"
+  ]
+ },
+ "crowning": {
+  "also": [
+   [
+    "hidden birds",
+    3
+   ]
+  ],
+  "clash": [
+   "royal things"
+  ]
+ },
+ "breech": {
+  "also": [
+   [
+    "homophones",
+    2
+   ]
+  ],
+  "clash": []
+ },
+ "induction": {
+  "also": [
+   [
+    "electricity words",
+    3
+   ]
+  ],
+  "clash": [
+   "magnet words",
+   "kitchen appliances"
+  ]
+ },
+ "breathing": {
+  "also": [
+   [
+    "body actions",
+    2
+   ]
+  ],
+  "clash": [
+   "yoga words"
+  ]
+ },
+ "Apgar score": {
+  "also": [],
+  "clash": [
+   "scoring words"
+  ]
+ },
+ "Pitocin": {
+  "also": [
+   [
+    "medicines",
+    3
+   ]
+  ],
+  "clash": []
+ },
+ "oxytocin": {
+  "also": [],
+  "clash": [
+   "love words"
+  ]
+ },
+ "pethidine": {
+  "also": [
+   [
+    "medicines",
+    3
+   ]
+  ],
+  "clash": []
+ },
+ "nitrous oxide": {
+  "also": [
+   [
+    "dental words",
+    2
+   ]
+  ],
+  "clash": []
+ },
+ "birthing ball": {
+  "also": [],
+  "clash": [
+   "gym equipment"
+  ]
+ },
+ "pushing": {
+  "also": [
+   [
+    "hidden body parts",
+    3
+   ]
+  ],
+  "clash": []
+ },
+ "birth": {
+  "also": [
+   [
+    "homophones",
+    2
+   ]
+  ],
+  "clash": []
+ },
+ "diaper": {
+  "also": [
+   [
+    "hidden animals",
+    3
+   ]
+  ],
+  "clash": []
+ },
+ "burping": {
+  "also": [
+   [
+    "body noises",
+    1
+   ]
+  ],
+  "clash": []
+ },
+ "formula": {
+  "also": [
+   [
+    "motor racing",
+    2
+   ]
+  ],
+  "clash": []
+ },
+ "breast milk": {
+  "also": [
+   [
+    "types of milk",
+    2
+   ]
+  ],
+  "clash": []
+ },
+ "dummy": {
+  "also": [
+   [
+    "old-fashioned insults",
+    2
+   ]
+  ],
+  "clash": []
+ },
+ "bath": {
+  "also": [],
+  "clash": [
+   "bath time"
+  ]
+ },
+ "onesie": {
+  "also": [
+   [
+    "hidden numbers",
+    3
+   ]
+  ],
+  "clash": []
+ },
+ "latch": {
+  "also": [
+   [
+    "fastenings",
+    2
+   ]
+  ],
+  "clash": []
+ },
+ "colostrum": {
+  "also": [],
+  "clash": [
+   "types of milk"
+  ]
+ },
+ "jaundice": {
+  "also": [],
+  "clash": [
+   "shades of yellow"
+  ]
+ },
+ "cradle cap": {
+  "also": [],
+  "clash": [
+   "hats"
+  ]
+ },
+ "reflux": {
+  "also": [
+   [
+    "symptoms",
+    2
+   ]
+  ],
+  "clash": []
+ },
+ "hiccups": {
+  "also": [
+   [
+    "body noises",
+    1
+   ]
+  ],
+  "clash": []
+ },
+ "mittens": {
+  "also": [
+   [
+    "scarves and gloves",
+    1
+   ],
+   [
+    "hidden numbers",
+    3
+   ]
+  ],
+  "clash": []
+ },
+ "SIDS": {
+  "also": [
+   [
+    "acronyms",
+    3
+   ]
+  ],
+  "clash": []
+ },
+ "dream feed": {
+  "also": [],
+  "clash": [
+   "dream words"
+  ]
+ },
+ "formula milk": {
+  "also": [
+   [
+    "types of milk",
+    2
+   ]
+  ],
+  "clash": []
+ },
+ "baby lotion": {
+  "also": [
+   [
+    "skincare products",
+    2
+   ]
+  ],
+  "clash": []
+ },
+ "nappy cream": {
+  "also": [
+   [
+    "skincare products",
+    2
+   ]
+  ],
+  "clash": []
+ },
+ "Sudocrem": {
+  "also": [
+   [
+    "medicine cabinet",
+    2
+   ]
+  ],
+  "clash": []
+ },
+ "pushchair": {
+  "also": [],
+  "clash": [
+   "seating"
+  ]
+ },
+ "buggy": {
+  "also": [
+   [
+    "software words",
+    3
+   ],
+   [
+    "car types",
+    2
+   ]
+  ],
+  "clash": []
+ },
+ "crib": {
+  "also": [],
+  "clash": [
+   "exam words"
+  ]
+ },
+ "car seat": {
+  "also": [
+   [
+    "car parts",
+    1
+   ]
+  ],
+  "clash": []
+ },
+ "rocker": {
+  "also": [],
+  "clash": [
+   "rock styles",
+   "musicians"
+  ]
+ },
+ "Moses basket": {
+  "also": [],
+  "clash": [
+   "biblical names"
+  ]
+ },
+ "activity gym": {
+  "also": [],
+  "clash": [
+   "gym equipment"
+  ]
+ },
+ "stair gate": {
+  "also": [],
+  "clash": [
+   "staircase parts"
+  ]
+ },
+ "bath seat": {
+  "also": [],
+  "clash": [
+   "bathroom"
+  ]
+ },
+ "rattle": {
+  "also": [
+   [
+    "hidden animals",
+    3
+   ]
+  ],
+  "clash": [
+   "snakes"
+  ]
+ },
+ "sleep sack": {
+  "also": [],
+  "clash": [
+   "nightwear"
+  ]
+ },
+ "potty": {
+  "also": [
+   [
+    "british slang",
+    2
+   ]
+  ],
+  "clash": [
+   "words for strange"
+  ]
+ },
+ "changing bag": {
+  "also": [
+   [
+    "bags",
+    2
+   ]
+  ],
+  "clash": []
+ },
+ "bouncy chair": {
+  "also": [],
+  "clash": [
+   "seating"
+  ]
+ },
+ "Bugaboo": {
+  "also": [
+   [
+    "hidden insects",
+    3
+   ]
+  ],
+  "clash": []
+ },
+ "nappy bin": {
+  "also": [],
+  "clash": [
+   "bins and recycling"
+  ]
+ },
+ "diaper pail": {
+  "also": [],
+  "clash": [
+   "bins and recycling"
+  ]
+ },
+ "crawling": {
+  "also": [
+   [
+    "animal movements",
+    2
+   ]
+  ],
+  "clash": [
+   "swimming strokes",
+   "ways of walking"
+  ]
+ },
+ "sitting up": {
+  "also": [],
+  "clash": [
+   "exercises"
+  ]
+ },
+ "babbling": {
+  "also": [
+   [
+    "water sounds",
+    2
+   ],
+   [
+    "ways of speaking",
+    1
+   ]
+  ],
+  "clash": []
+ },
+ "walking": {
+  "also": [],
+  "clash": [
+   "ways of walking"
+  ]
+ },
+ "cooing": {
+  "also": [
+   [
+    "animal sounds",
+    2
+   ],
+   [
+    "voice sounds",
+    2
+   ]
+  ],
+  "clash": []
+ },
+ "laughing": {
+  "also": [
+   [
+    "happy words",
+    2
+   ]
+  ],
+  "clash": [
+   "voice sounds",
+   "facial expressions"
+  ]
+ },
+ "cruising": {
+  "also": [
+   [
+    "cruise words",
+    1
+   ]
+  ],
+  "clash": []
+ },
+ "clapping": {
+  "also": [
+   [
+    "hand actions",
+    1
+   ]
+  ],
+  "clash": [
+   "gestures"
+  ]
+ },
+ "waving": {
+  "also": [
+   [
+    "gestures",
+    1
+   ],
+   [
+    "hand actions",
+    1
+   ]
+  ],
+  "clash": []
+ },
+ "pointing": {
+  "also": [
+   [
+    "gestures",
+    1
+   ],
+   [
+    "hand actions",
+    1
+   ]
+  ],
+  "clash": []
+ },
+ "grasping": {
+  "also": [
+   [
+    "hand actions",
+    1
+   ]
+  ],
+  "clash": []
+ },
+ "solids": {
+  "also": [],
+  "clash": [
+   "states of matter"
+  ]
+ },
+ "scooting": {
+  "also": [
+   [
+    "hidden birds",
+    3
+   ]
+  ],
+  "clash": [
+   "scooters and skates"
+  ]
+ },
+ "toddling": {
+  "also": [
+   [
+    "ways of walking",
+    2
+   ]
+  ],
+  "clash": []
+ },
+ "separation anxiety": {
+  "also": [
+   [
+    "mental health words",
+    2
+   ]
+  ],
+  "clash": []
+ },
+ "stranger anxiety": {
+  "also": [],
+  "clash": [
+   "mental health words"
+  ]
+ },
+ "smiling": {
+  "also": [
+   [
+    "facial expressions",
+    1
+   ]
+  ],
+  "clash": [
+   "happy words"
+  ]
+ },
+ "finger foods": {
+  "also": [
+   [
+    "snacks",
+    2
+   ]
+  ],
+  "clash": []
+ },
+ "talking": {
+  "also": [],
+  "clash": [
+   "ways of speaking"
+  ]
+ },
+ "NICU": {
+  "also": [
+   [
+    "acronyms",
+    2
+   ],
+   [
+    "hospital",
+    2
+   ]
+  ],
+  "clash": []
+ },
+ "flowers": {
+  "also": [],
+  "clash": [
+   "flowers",
+   "bouquet flowers",
+   "weddings",
+   "valentine's day"
+  ]
+ },
+ "balloons": {
+  "also": [
+   [
+    "party supplies",
+    1
+   ],
+   [
+    "birthdays",
+    1
+   ],
+   [
+    "hidden birds",
+    3
+   ]
+  ],
+  "clash": []
+ },
+ "lactation consultant": {
+  "also": [
+   [
+    "medical jobs",
+    3
+   ]
+  ],
+  "clash": []
+ },
+ "stirrups": {
+  "also": [
+   [
+    "horse tack",
+    2
+   ],
+   [
+    "horse riding words",
+    2
+   ]
+  ],
+  "clash": []
+ },
+ "maternity nurse": {
+  "also": [
+   [
+    "medical jobs",
+    2
+   ]
+  ],
+  "clash": []
+ },
+ "trainer": {
+  "also": [
+   [
+    "animal jobs",
+    2
+   ]
+  ],
+  "clash": []
+ },
+ "instructor": {
+  "also": [],
+  "clash": [
+   "school staff",
+   "driving words"
+  ]
+ },
+ "spotter": {
+  "also": [
+   [
+    "birdwatching words",
+    2
+   ]
+  ],
+  "clash": [
+   "railway words"
+  ]
+ },
+ "gym buddy": {
+  "also": [],
+  "clash": [
+   "words for friend"
+  ]
+ },
+ "membership": {
+  "also": [
+   [
+    "hidden vehicles",
+    3
+   ],
+   [
+    "hidden body parts",
+    3
+   ]
+  ],
+  "clash": []
+ },
+ "coach": {
+  "also": [
+   [
+    "public transportation",
+    2
+   ]
+  ],
+  "clash": [
+   "sports officials"
+  ]
+ },
+ "step counter": {
+  "also": [
+   [
+    "wearable tech",
+    2
+   ],
+   [
+    "measuring instruments",
+    2
+   ]
+  ],
+  "clash": []
+ },
+ "weightlifting belt": {
+  "also": [
+   [
+    "sports equipment",
+    2
+   ]
+  ],
+  "clash": []
+ },
+ "lifting shoes": {
+  "also": [
+   [
+    "shoes",
+    2
+   ]
+  ],
+  "clash": []
+ },
+ "Peloton": {
+  "also": [],
+  "clash": [
+   "cycling races"
+  ]
+ },
+ "whey": {
+  "also": [
+   [
+    "milk products",
+    2
+   ]
+  ],
+  "clash": []
+ },
+ "energy gel": {
+  "also": [
+   [
+    "running words",
+    2
+   ],
+   [
+    "triathlon words",
+    2
+   ]
+  ],
+  "clash": []
+ },
+ "gym class": {
+  "also": [],
+  "clash": [
+   "school"
+  ]
+ },
+ "fitness instructor": {
+  "also": [],
+  "clash": [
+   "service jobs"
+  ]
+ },
+ "Apple Watch": {
+  "also": [
+   [
+    "clock types",
+    2
+   ]
+  ],
+  "clash": []
+ },
+ "squat": {
+  "also": [
+   [
+    "british slang",
+    3
+   ]
+  ],
+  "clash": []
+ },
+ "plank": {
+  "also": [
+   [
+    "pirate punishments",
+    2
+   ],
+   [
+    "building materials",
+    2
+   ]
+  ],
+  "clash": []
+ },
+ "burpee": {
+  "also": [],
+  "clash": [
+   "body noises"
+  ]
+ },
+ "jumping jack": {
+  "also": [
+   [
+    "toys",
+    3
+   ]
+  ],
+  "clash": []
+ },
+ "crunch": {
+  "also": [],
+  "clash": [
+   "crunchy foods"
+  ]
+ },
+ "chin-up": {
+  "also": [],
+  "clash": [
+   "gymnastics moves"
+  ]
+ },
+ "dip": {
+  "also": [
+   [
+    "swimming words",
+    2
+   ]
+  ],
+  "clash": [
+   "dips"
+  ]
+ },
+ "mountain climber": {
+  "also": [],
+  "clash": [
+   "mountaineering words",
+   "climbing words"
+  ]
+ },
+ "star jump": {
+  "also": [
+   [
+    "british english words",
+    2
+   ]
+  ],
+  "clash": []
+ },
+ "row": {
+  "also": [
+   [
+    "rowing words",
+    1
+   ],
+   [
+    "angry words",
+    2
+   ]
+  ],
+  "clash": []
+ },
+ "Russian twist": {
+  "also": [],
+  "clash": [
+   "dance moves"
+  ]
+ },
+ "snatch": {
+  "also": [
+   [
+    "crimes",
+    2
+   ]
+  ],
+  "clash": []
+ },
+ "thruster": {
+  "also": [
+   [
+    "hidden colors",
+    3
+   ]
+  ],
+  "clash": []
+ },
+ "superman": {
+  "also": [],
+  "clash": [
+   "comic book words"
+  ]
+ },
+ "bear crawl": {
+  "also": [],
+  "clash": [
+   "bears",
+   "animal movements"
+  ]
+ },
+ "skipping": {
+  "also": [
+   [
+    "playground",
+    2
+   ],
+   [
+    "ways to jump",
+    2
+   ]
+  ],
+  "clash": []
+ },
+ "sprint": {
+  "also": [
+   [
+    "running words",
+    1
+   ]
+  ],
+  "clash": []
+ },
+ "inchworm": {
+  "also": [],
+  "clash": [
+   "garden bugs"
+  ]
+ },
+ "good morning": {
+  "also": [],
+  "clash": [
+   "times of day"
+  ]
+ },
+ "shrug": {
+  "also": [
+   [
+    "body actions",
+    2
+   ]
+  ],
+  "clash": []
+ },
+ "sumo squat": {
+  "also": [],
+  "clash": [
+   "sumo words"
+  ]
+ },
+ "dead bug": {
+  "also": [],
+  "clash": [
+   "insects and bugs"
+  ]
+ },
+ "bird dog": {
+  "also": [
+   [
+    "hunting words",
+    3
+   ]
+  ],
+  "clash": []
+ },
+ "crab walk": {
+  "also": [
+   [
+    "animal movements",
+    3
+   ]
+  ],
+  "clash": [
+   "crustaceans"
+  ]
+ },
+ "frog jump": {
+  "also": [
+   [
+    "ways to jump",
+    2
+   ]
+  ],
+  "clash": [
+   "frogs and toads"
+  ]
+ },
+ "preacher curl": {
+  "also": [],
+  "clash": [
+   "religious leaders"
+  ]
+ },
+ "donkey kick": {
+  "also": [],
+  "clash": [
+   "horse family"
+  ]
+ },
+ "clamshell": {
+  "also": [
+   [
+    "seashells",
+    2
+   ],
+   [
+    "phone words",
+    3
+   ]
+  ],
+  "clash": [
+   "mollusks"
+  ]
+ },
+ "press-up": {
+  "also": [
+   [
+    "british english words",
+    2
+   ]
+  ],
+  "clash": []
+ },
+ "dumbbell": {
+  "also": [
+   [
+    "old-fashioned insults",
+    2
+   ]
+  ],
+  "clash": []
+ },
+ "elliptical": {
+  "also": [
+   [
+    "hidden body parts",
+    3
+   ]
+  ],
+  "clash": [
+   "curves and spirals",
+   "2d shapes"
+  ]
+ },
+ "weight bench": {
+  "also": [],
+  "clash": [
+   "seating"
+  ]
+ },
+ "foam roller": {
+  "also": [],
+  "clash": [
+   "hair accessories"
+  ]
+ },
+ "collar": {
+  "also": [
+   [
+    "police words",
+    3
+   ]
+  ],
+  "clash": []
+ },
+ "cross trainer": {
+  "also": [],
+  "clash": [
+   "shoes"
+  ]
+ },
+ "spin bike": {
+  "also": [
+   [
+    "bike types",
+    2
+   ]
+  ],
+  "clash": []
+ },
+ "sled": {
+  "also": [
+   [
+    "snow sports",
+    2
+   ]
+  ],
+  "clash": []
+ },
+ "gymnastic rings": {
+  "also": [
+   [
+    "gymnastics apparatus",
+    1
+   ]
+  ],
+  "clash": []
+ },
+ "boxing gloves": {
+  "also": [
+   [
+    "boxing terms",
+    1
+   ]
+  ],
+  "clash": [
+   "scarves and gloves"
+  ]
+ },
+ "mountain": {
+  "also": [],
+  "clash": [
+   "mountains"
+  ]
+ },
+ "fish": {
+  "also": [
+   [
+    "fish to eat",
+    1
+   ]
+  ],
+  "clash": [
+   "fish"
+  ]
+ },
+ "scorpion": {
+  "also": [],
+  "clash": [
+   "spiders",
+   "zodiac signs"
+  ]
+ },
+ "crane": {
+  "also": [
+   [
+    "birds",
+    1
+   ]
+  ],
+  "clash": []
+ },
+ "garland": {
+  "also": [
+   [
+    "christmas",
+    2
+   ]
+  ],
+  "clash": []
+ },
+ "headstand": {
+  "also": [
+   [
+    "gymnastics moves",
+    2
+   ]
+  ],
+  "clash": []
+ },
+ "warrior": {
+  "also": [],
+  "clash": [
+   "nba teams"
+  ]
+ },
+ "bound angle": {
+  "also": [],
+  "clash": [
+   "angle words"
+  ]
+ },
+ "sphinx": {
+  "also": [],
+  "clash": [
+   "cat breeds"
+  ]
+ },
+ "puppy pose": {
+  "also": [],
+  "clash": [
+   "baby animals"
+  ]
+ },
+ "fire log": {
+  "also": [],
+  "clash": [
+   "fireplace words"
+  ]
+ },
+ "splits": {
+  "also": [],
+  "clash": [
+   "bowling terms"
+  ]
+ },
+ "lord of the dance": {
+  "also": [],
+  "clash": [
+   "hindu gods"
+  ]
+ },
+ "yogi": {
+  "also": [],
+  "clash": [
+   "cartoon words"
+  ]
+ },
+ "hatha": {
+  "also": [
+   [
+    "workout types",
+    3
+   ]
+  ],
+  "clash": []
+ },
+ "ashtanga": {
+  "also": [
+   [
+    "workout types",
+    3
+   ]
+  ],
+  "clash": []
+ },
+ "kundalini": {
+  "also": [
+   [
+    "workout types",
+    3
+   ]
+  ],
+  "clash": []
+ },
+ "Iyengar": {
+  "also": [
+   [
+    "workout types",
+    3
+   ]
+  ],
+  "clash": []
+ },
+ "Bikram": {
+  "also": [
+   [
+    "workout types",
+    2
+   ]
+  ],
+  "clash": []
+ },
+ "sutra": {
+  "also": [
+   [
+    "holy books",
+    2
+   ]
+  ],
+  "clash": []
+ },
+ "karma": {
+  "also": [],
+  "clash": [
+   "superstitions"
+  ]
+ },
+ "samadhi": {
+  "also": [
+   [
+    "buddhism words",
+    2
+   ]
+  ],
+  "clash": []
+ },
+ "ujjayi": {
+  "also": [
+   [
+    "hidden birds",
+    3
+   ]
+  ],
+  "clash": []
+ },
+ "shanti": {
+  "also": [
+   [
+    "hinduism words",
+    2
+   ]
+  ],
+  "clash": [
+   "peace words"
+  ]
+ },
+ "Patanjali": {
+  "also": [
+   [
+    "ancient india",
+    2
+   ]
+  ],
+  "clash": []
+ },
+ "ahimsa": {
+  "also": [
+   [
+    "buddhism words",
+    3
+   ]
+  ],
+  "clash": [
+   "peace words"
+  ]
+ },
+ "flow": {
+  "also": [],
+  "clash": [
+   "river features"
+  ]
+ },
+ "mala": {
+  "also": [
+   [
+    "jewelry",
+    2
+   ],
+   [
+    "buddhism words",
+    2
+   ]
+  ],
+  "clash": []
+ },
+ "meditation": {
+  "also": [
+   [
+    "healthy habits",
+    2
+   ],
+   [
+    "buddhism words",
+    1
+   ]
+  ],
+  "clash": []
+ },
+ "yin yoga": {
+  "also": [
+   [
+    "workout types",
+    2
+   ]
+  ],
+  "clash": []
+ },
+ "third eye": {
+  "also": [
+   [
+    "hinduism words",
+    2
+   ]
+  ],
+  "clash": [
+   "eye parts"
+  ]
+ },
+ "aum": {
+  "also": [
+   [
+    "hinduism words",
+    2
+   ],
+   [
+    "symbols",
+    2
+   ]
+  ],
+  "clash": []
+ },
+ "chakras": {
+  "also": [
+   [
+    "hinduism words",
+    2
+   ],
+   [
+    "ayurveda words",
+    1
+   ]
+  ],
+  "clash": []
+ },
+ "shavasana": {
+  "also": [
+   [
+    "yoga poses",
+    1
+   ]
+  ],
+  "clash": []
+ },
+ "cardio": {
+  "also": [
+   [
+    "hidden vehicles",
+    3
+   ]
+  ],
+  "clash": []
+ },
+ "HIIT": {
+  "also": [
+   [
+    "acronyms",
+    2
+   ],
+   [
+    "double letters",
+    3
+   ]
+  ],
+  "clash": []
+ },
+ "spinning": {
+  "also": [
+   [
+    "fabrics and sewing",
+    2
+   ]
+  ],
+  "clash": [
+   "things that spin",
+   "knitting words"
+  ]
+ },
+ "weightlifting": {
+  "also": [
+   [
+    "hidden numbers",
+    3
+   ]
+  ],
+  "clash": []
+ },
+ "boxing": {
+  "also": [],
+  "clash": [
+   "boxing terms",
+   "christmas"
+  ]
+ },
+ "running": {
+  "also": [],
+  "clash": [
+   "running words"
+  ]
+ },
+ "swimming": {
+  "also": [],
+  "clash": [
+   "swimming words"
+  ]
+ },
+ "rowing": {
+  "also": [],
+  "clash": [
+   "rowing words"
+  ]
+ },
+ "cycling": {
+  "also": [],
+  "clash": [
+   "cycling words"
+  ]
+ },
+ "Jazzercise": {
+  "also": [],
+  "clash": [
+   "jazz words"
+  ]
+ },
+ "Tae Bo": {
+  "also": [],
+  "clash": [
+   "martial arts"
+  ]
+ },
+ "rebounding": {
+  "also": [],
+  "clash": [
+   "basketball terms"
+  ]
+ },
+ "trampolining": {
+  "also": [
+   [
+    "hidden vehicles",
+    3
+   ]
+  ],
+  "clash": []
+ },
+ "fartlek": {
+  "also": [],
+  "clash": [
+   "silly-sounding words"
+  ]
+ },
+ "sprinting": {
+  "also": [
+   [
+    "running words",
+    1
+   ]
+  ],
+  "clash": []
+ },
+ "reformer": {
+  "also": [],
+  "clash": [
+   "reformers"
+  ]
+ },
+ "parkour": {
+  "also": [
+   [
+    "words from french",
+    3
+   ]
+  ],
+  "clash": []
+ },
+ "set": {
+  "also": [
+   [
+    "film words",
+    2
+   ],
+   [
+    "irregular past tenses",
+    3
+   ],
+   [
+    "theater words",
+    2
+   ]
+  ],
+  "clash": []
+ },
+ "gains": {
+  "also": [],
+  "clash": [
+   "money words"
+  ]
+ },
+ "endurance": {
+  "also": [],
+  "clash": [
+   "positive traits"
+  ]
+ },
+ "strength": {
+  "also": [],
+  "clash": [
+   "positive traits"
+  ]
+ },
+ "core": {
+  "also": [],
+  "clash": [
+   "nuclear words",
+   "computer parts"
+  ]
+ },
+ "abs": {
+  "also": [],
+  "clash": [
+   "car parts"
+  ]
+ },
+ "calories": {
+  "also": [
+   [
+    "nutrition",
+    2
+   ]
+  ],
+  "clash": [
+   "diet types",
+   "nutrients"
+  ]
+ },
+ "BMI": {
+  "also": [
+   [
+    "acronyms",
+    2
+   ],
+   [
+    "doctor's office",
+    2
+   ]
+  ],
+  "clash": []
+ },
+ "toned": {
+  "also": [
+   [
+    "hidden numbers",
+    3
+   ]
+  ],
+  "clash": []
+ },
+ "shredded": {
+  "also": [
+   [
+    "ways to cut food",
+    2
+   ]
+  ],
+  "clash": []
+ },
+ "bulk": {
+  "also": [
+   [
+    "words for big",
+    2
+   ],
+   [
+    "shopping words",
+    2
+   ]
+  ],
+  "clash": []
+ },
+ "macros": {
+  "also": [
+   [
+    "software words",
+    3
+   ]
+  ],
+  "clash": [
+   "photography words"
+  ]
+ },
+ "form": {
+  "also": [
+   [
+    "horse racing terms",
+    3
+   ]
+  ],
+  "clash": [
+   "school"
+  ]
+ },
+ "six-pack": {
+  "also": [
+   [
+    "beers",
+    2
+   ]
+  ],
+  "clash": []
+ },
+ "aerobic": {
+  "also": [],
+  "clash": [
+   "biology words"
+  ]
+ },
+ "anaerobic": {
+  "also": [],
+  "clash": [
+   "biology words"
+  ]
+ },
+ "training": {
+  "also": [
+   [
+    "hidden vehicles",
+    3
+   ]
+  ],
+  "clash": []
+ },
+ "conditioning": {
+  "also": [],
+  "clash": [
+   "hair care",
+   "heating and cooling"
+  ]
+ },
+ "balance": {
+  "also": [
+   [
+    "hidden names",
+    3
+   ]
+  ],
+  "clash": [
+   "yoga words",
+   "gymnastics"
+  ]
+ },
+ "power": {
+  "also": [
+   [
+    "electricity words",
+    1
+   ]
+  ],
+  "clash": [
+   "energy types"
+  ]
+ },
+ "hydration": {
+  "also": [
+   [
+    "hidden animals",
+    3
+   ]
+  ],
+  "clash": []
+ },
+ "electrolytes": {
+  "also": [
+   [
+    "chemistry words",
+    3
+   ]
+  ],
+  "clash": []
+ },
+ "endorphins": {
+  "also": [
+   [
+    "hormones",
+    2
+   ]
+  ],
+  "clash": [
+   "happy words"
+  ]
+ },
+ "swole": {
+  "also": [
+   [
+    "gen z slang",
+    2
+   ]
+  ],
+  "clash": []
+ },
+ "shred": {
+  "also": [
+   [
+    "hidden colors",
+    3
+   ]
+  ],
+  "clash": [
+   "snowboard tricks"
+  ]
+ },
+ "AMRAP": {
+  "also": [
+   [
+    "acronyms",
+    3
+   ]
+  ],
+  "clash": []
+ },
+ "EMOM": {
+  "also": [
+   [
+    "acronyms",
+    3
+   ]
+  ],
+  "clash": []
+ },
+ "WOD": {
+  "also": [
+   [
+    "acronyms",
+    3
+   ]
+  ],
+  "clash": []
+ },
+ "beast mode": {
+  "also": [],
+  "clash": [
+   "gen z slang"
+  ]
+ },
+ "bodyweight": {
+  "also": [
+   [
+    "hidden numbers",
+    3
+   ]
+  ],
+  "clash": []
+ },
+ "PR": {
+  "also": [
+   [
+    "running words",
+    2
+   ]
+  ],
+  "clash": [
+   "acronyms"
+  ]
+ },
+ "spotting": {
+  "also": [
+   [
+    "birdwatching words",
+    2
+   ]
+  ],
+  "clash": []
+ },
+ "butterfly": {
+  "also": [
+   [
+    "butterflies and moths",
+    1
+   ]
+  ],
+  "clash": []
+ },
+ "pike stretch": {
+  "also": [],
+  "clash": [
+   "freshwater fish",
+   "medieval weapons"
+  ]
+ },
+ "cobbler pose": {
+  "also": [],
+  "clash": [
+   "old-time jobs",
+   "pies and tarts"
+  ]
+ },
+ "windshield wiper": {
+  "also": [
+   [
+    "car parts",
+    1
+   ]
+  ],
+  "clash": []
+ },
+ "bed": {
+  "also": [
+   [
+    "garden features",
+    2
+   ],
+   [
+    "river features",
+    2
+   ]
+  ],
+  "clash": []
+ },
+ "berth": {
+  "also": [
+   [
+    "homophones",
+    2
+   ]
+  ],
+  "clash": []
+ },
+ "eye mask": {
+  "also": [],
+  "clash": [
+   "skincare products"
+  ]
+ },
+ "sleeping pill": {
+  "also": [
+   [
+    "pharmacy",
+    2
+   ]
+  ],
+  "clash": []
+ },
+ "melatonin": {
+  "also": [
+   [
+    "pharmacy",
+    2
+   ]
+  ],
+  "clash": []
+ },
+ "air mattress": {
+  "also": [],
+  "clash": [
+   "beach gear"
+  ]
+ },
+ "headboard": {
+  "also": [
+   [
+    "hidden animals",
+    3
+   ]
+  ],
+  "clash": []
+ },
+ "sleepy": {
+  "also": [],
+  "clash": [
+   "fairy tale characters"
+  ]
+ },
+ "REM": {
+  "also": [
+   [
+    "famous bands",
+    2
+   ],
+   [
+    "acronyms",
+    2
+   ]
+  ],
+  "clash": []
+ },
+ "catnap": {
+  "also": [
+   [
+    "hidden animals",
+    2
+   ]
+  ],
+  "clash": []
+ },
+ "zzz": {
+  "also": [
+   [
+    "no vowels",
+    1
+   ],
+   [
+    "palindromes",
+    2
+   ],
+   [
+    "double letters",
+    2
+   ]
+  ],
+  "clash": []
+ },
+ "dozy": {
+  "also": [
+   [
+    "british slang",
+    2
+   ]
+  ],
+  "clash": [
+   "old-fashioned insults"
+  ]
+ },
+ "lie-in": {
+  "also": [
+   [
+    "british english words",
+    2
+   ]
+  ],
+  "clash": []
+ },
+ "hibernate": {
+  "also": [
+   [
+    "computer actions",
+    2
+   ]
+  ],
+  "clash": [
+   "hibernating animals"
+  ]
+ },
+ "dormant": {
+  "also": [
+   [
+    "hidden insects",
+    3
+   ]
+  ],
+  "clash": []
+ },
+ "rest": {
+  "also": [
+   [
+    "notes and rests",
+    1
+   ]
+  ],
+  "clash": []
+ },
+ "sandman": {
+  "also": [],
+  "clash": [
+   "mythical creatures"
+  ]
+ },
+ "sleepyhead": {
+  "also": [
+   [
+    "terms of endearment",
+    2
+   ]
+  ],
+  "clash": []
+ },
+ "torpor": {
+  "also": [],
+  "clash": [
+   "hibernating animals"
+  ]
+ },
+ "crash": {
+  "also": [
+   [
+    "percussion instruments",
+    2
+   ]
+  ],
+  "clash": []
+ },
+ "insomniac": {
+  "also": [
+   [
+    "sleep disorders",
+    2
+   ]
+  ],
+  "clash": []
+ },
+ "night owl": {
+  "also": [
+   [
+    "personality traits",
+    2
+   ]
+  ],
+  "clash": [
+   "owls",
+   "nocturnal animals"
+  ]
+ },
+ "early bird": {
+  "also": [
+   [
+    "personality traits",
+    2
+   ]
+  ],
+  "clash": [
+   "birds"
+  ]
+ },
+ "body clock": {
+  "also": [],
+  "clash": [
+   "clock types"
+  ]
+ },
+ "sleep like a log": {
+  "also": [
+   [
+    "figures of speech",
+    2
+   ]
+  ],
+  "clash": []
+ },
+ "sheet": {
+  "also": [
+   [
+    "paper goods",
+    2
+   ]
+  ],
+  "clash": [
+   "music words",
+   "things made of paper"
+  ]
+ },
+ "eiderdown": {
+  "also": [
+   [
+    "hidden birds",
+    2
+   ]
+  ],
+  "clash": [
+   "ducks"
+  ]
+ },
+ "sham": {
+  "also": [
+   [
+    "words meaning nonsense",
+    2
+   ]
+  ],
+  "clash": []
+ },
+ "valance": {
+  "also": [
+   [
+    "hidden names",
+    3
+   ]
+  ],
+  "clash": []
+ },
+ "bed skirt": {
+  "also": [],
+  "clash": [
+   "dresses and skirts"
+  ]
+ },
+ "afghan": {
+  "also": [
+   [
+    "knitting words",
+    2
+   ]
+  ],
+  "clash": [
+   "dog breeds",
+   "hounds"
+  ]
+ },
+ "featherbed": {
+  "also": [
+   [
+    "beds",
+    2
+   ]
+  ],
+  "clash": []
+ },
+ "thread count": {
+  "also": [],
+  "clash": [
+   "sewing words"
+  ]
+ },
+ "linen": {
+  "also": [
+   [
+    "laundry words",
+    2
+   ]
+  ],
+  "clash": []
+ },
+ "flannel": {
+  "also": [
+   [
+    "hidden names",
+    3
+   ]
+  ],
+  "clash": [
+   "tops"
+  ]
+ },
+ "bedclothes": {
+  "also": [],
+  "clash": [
+   "clothes"
+  ]
+ },
+ "pillowslip": {
+  "also": [
+   [
+    "hidden body parts",
+    3
+   ]
+  ],
+  "clash": []
+ },
+ "patchwork quilt": {
+  "also": [
+   [
+    "fabrics and sewing",
+    2
+   ]
+  ],
+  "clash": []
+ },
+ "robe": {
+  "also": [],
+  "clash": [
+   "graduation words"
+  ]
+ },
+ "slippers": {
+  "also": [],
+  "clash": [
+   "fairy tales"
+  ]
+ },
+ "nightcap": {
+  "also": [
+   [
+    "cocktails",
+    2
+   ],
+   [
+    "hats",
+    2
+   ]
+  ],
+  "clash": []
+ },
+ "babydoll": {
+  "also": [],
+  "clash": [
+   "dolls and figures"
+  ]
+ },
+ "teddy": {
+  "also": [],
+  "clash": [
+   "toys"
+  ]
+ },
+ "peignoir": {
+  "also": [
+   [
+    "words from french",
+    3
+   ]
+  ],
+  "clash": []
+ },
+ "bed jacket": {
+  "also": [],
+  "clash": [
+   "coats and jackets"
+  ]
+ },
+ "bed socks": {
+  "also": [
+   [
+    "things that come in pairs",
+    1
+   ]
+  ],
+  "clash": []
+ },
+ "nightdress": {
+  "also": [],
+  "clash": [
+   "dresses and skirts"
+  ]
+ },
+ "sleep shirt": {
+  "also": [],
+  "clash": [
+   "tops"
+  ]
+ },
+ "sleep shorts": {
+  "also": [],
+  "clash": [
+   "pants and shorts"
+  ]
+ },
+ "lounge pants": {
+  "also": [
+   [
+    "pants and shorts",
+    2
+   ]
+  ],
+  "clash": []
+ },
+ "hair bonnet": {
+  "also": [
+   [
+    "hair accessories",
+    2
+   ]
+  ],
+  "clash": [
+   "hats",
+   "historical hats"
+  ]
+ },
+ "sleep bra": {
+  "also": [
+   [
+    "underwear",
+    2
+   ]
+  ],
+  "clash": []
+ },
+ "sleep tee": {
+  "also": [
+   [
+    "tops",
+    2
+   ]
+  ],
+  "clash": []
+ },
+ "dreamcatcher": {
+  "also": [
+   [
+    "hidden animals",
+    3
+   ]
+  ],
+  "clash": []
+ },
+ "fantasy": {
+  "also": [],
+  "clash": [
+   "fantasy"
+  ]
+ },
+ "subconscious": {
+  "also": [],
+  "clash": [
+   "mental health words"
+  ]
+ },
+ "Freud": {
+  "also": [],
+  "clash": [
+   "mental health words"
+  ]
+ },
+ "Jung": {
+  "also": [
+   [
+    "famous people",
+    3
+   ]
+  ],
+  "clash": []
+ },
+ "dreamy": {
+  "also": [
+   [
+    "hidden names",
+    3
+   ]
+  ],
+  "clash": []
+ },
+ "premonition": {
+  "also": [],
+  "clash": [
+   "superstitions"
+  ]
+ },
+ "astral projection": {
+  "also": [],
+  "clash": [
+   "witchcraft"
+  ]
+ },
+ "incubus": {
+  "also": [
+   [
+    "mythical creatures",
+    2
+   ]
+  ],
+  "clash": [
+   "famous bands"
+  ]
+ },
+ "succubus": {
+  "also": [
+   [
+    "mythical creatures",
+    2
+   ]
+  ],
+  "clash": []
+ },
+ "sleepwalk": {
+  "also": [
+   [
+    "sleep disorders",
+    2
+   ]
+  ],
+  "clash": []
+ },
+ "REM sleep": {
+  "also": [
+   [
+    "sleep words",
+    1
+   ]
+  ],
+  "clash": []
+ },
+ "pipe dream": {
+  "also": [],
+  "clash": [
+   "smoking words"
+  ]
+ },
+ "brush teeth": {
+  "also": [
+   [
+    "dental care",
+    2
+   ]
+  ],
+  "clash": []
+ },
+ "bath time": {
+  "also": [],
+  "clash": [
+   "bath time"
+  ]
+ },
+ "prayers": {
+  "also": [
+   [
+    "religion words",
+    2
+   ]
+  ],
+  "clash": []
+ },
+ "hot milk": {
+  "also": [
+   [
+    "hot drinks",
+    2
+   ]
+  ],
+  "clash": []
+ },
+ "chamomile tea": {
+  "also": [
+   [
+    "teas",
+    2
+   ],
+   [
+    "hot drinks",
+    2
+   ]
+  ],
+  "clash": []
+ },
+ "reading": {
+  "also": [
+   [
+    "british cities",
+    2
+   ]
+  ],
+  "clash": []
+ },
+ "goodnight": {
+  "also": [
+   [
+    "ways to say goodbye",
+    1
+   ]
+  ],
+  "clash": []
+ },
+ "nighty night": {
+  "also": [
+   [
+    "ways to say goodbye",
+    2
+   ],
+   [
+    "baby talk",
+    2
+   ]
+  ],
+  "clash": []
+ },
+ "comb hair": {
+  "also": [
+   [
+    "hair care",
+    2
+   ]
+  ],
+  "clash": []
+ },
+ "brush hair": {
+  "also": [
+   [
+    "hair care",
+    2
+   ]
+  ],
+  "clash": []
+ }
+}

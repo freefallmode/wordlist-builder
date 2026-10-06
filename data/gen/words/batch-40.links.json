@@ -1,0 +1,15444 @@
+{
+ "vampire": {
+  "also": [
+   [
+    "halloween",
+    1
+   ],
+   [
+    "things with teeth",
+    2
+   ],
+   [
+    "slavic folklore",
+    3
+   ]
+  ],
+  "clash": [
+   "bats",
+   "shapeshifters"
+  ]
+ },
+ "zombie": {
+  "also": [
+   [
+    "cocktails",
+    3
+   ],
+   [
+    "cybersecurity words",
+    4
+   ],
+   [
+    "halloween",
+    1
+   ]
+  ],
+  "clash": [
+   "ghosts and spirits"
+  ]
+ },
+ "mummy": {
+  "also": [
+   [
+    "egyptian afterlife",
+    1
+   ],
+   [
+    "halloween",
+    2
+   ],
+   [
+    "museum",
+    1
+   ],
+   [
+    "tombs and burials",
+    1
+   ],
+   [
+    "words from persian",
+    4
+   ],
+   [
+    "ancient egypt",
+    1
+   ],
+   [
+    "family members",
+    2
+   ],
+   [
+    "british english words",
+    2
+   ]
+  ],
+  "clash": []
+ },
+ "skeleton": {
+  "also": [
+   [
+    "biology words",
+    1
+   ],
+   [
+    "day of the dead",
+    1
+   ],
+   [
+    "dinosaur words",
+    1
+   ],
+   [
+    "halloween",
+    1
+   ],
+   [
+    "museum",
+    1
+   ],
+   [
+    "olympic sports",
+    2
+   ],
+   [
+    "winter olympic events",
+    2
+   ]
+  ],
+  "clash": [
+   "bones",
+   "body systems"
+  ]
+ },
+ "ghoul": {
+  "also": [
+   [
+    "angels and spirits",
+    3
+   ],
+   [
+    "halloween",
+    2
+   ],
+   [
+    "words from arabic",
+    3
+   ]
+  ],
+  "clash": [
+   "ghosts and spirits",
+   "arabian nights"
+  ]
+ },
+ "wraith": {
+  "also": [
+   [
+    "angels and spirits",
+    3
+   ],
+   [
+    "silent w words",
+    4
+   ]
+  ],
+  "clash": []
+ },
+ "revenant": {
+  "also": [
+   [
+    "angels and spirits",
+    3
+   ]
+  ],
+  "clash": [
+   "ghosts and spirits"
+  ]
+ },
+ "wight": {
+  "also": [
+   [
+    "rhymes with light",
+    5
+   ],
+   [
+    "words for a person",
+    5
+   ]
+  ],
+  "clash": [
+   "ghosts and spirits"
+  ]
+ },
+ "draugr": {
+  "also": [
+   [
+    "norse mythology",
+    4
+   ]
+  ],
+  "clash": [
+   "vikings"
+  ]
+ },
+ "jiangshi": {
+  "also": [
+   [
+    "chinese mythology",
+    3
+   ]
+  ],
+  "clash": [
+   "ghosts and spirits"
+  ]
+ },
+ "Dracula": {
+  "also": [
+   [
+    "classic novels",
+    1
+   ],
+   [
+    "halloween",
+    1
+   ],
+   [
+    "things with teeth",
+    3
+   ]
+  ],
+  "clash": [
+   "victorian era"
+  ]
+ },
+ "Hercules": {
+  "also": [
+   [
+    "constellations",
+    2
+   ],
+   [
+    "roman gods",
+    2
+   ]
+  ],
+  "clash": [
+   "labors of hercules",
+   "greek gods"
+  ]
+ },
+ "Perseus": {
+  "also": [
+   [
+    "constellations",
+    2
+   ],
+   [
+    "famous statues",
+    4
+   ]
+  ],
+  "clash": []
+ },
+ "Achilles": {
+  "also": [
+   [
+    "trojan war",
+    1
+   ]
+  ],
+  "clash": []
+ },
+ "Odysseus": {
+  "also": [
+   [
+    "famous voyages",
+    2
+   ],
+   [
+    "trojan war",
+    2
+   ]
+  ],
+  "clash": []
+ },
+ "Theseus": {
+  "also": [
+   [
+    "shakespeare characters",
+    4
+   ]
+  ],
+  "clash": []
+ },
+ "Jason": {
+  "also": [
+   [
+    "boys' names",
+    1
+   ]
+  ],
+  "clash": []
+ },
+ "Ajax": {
+  "also": [
+   [
+    "cleaning products",
+    3
+   ],
+   [
+    "european soccer clubs",
+    2
+   ],
+   [
+    "trojan war",
+    2
+   ]
+  ],
+  "clash": []
+ },
+ "Atalanta": {
+  "also": [
+   [
+    "european soccer clubs",
+    3
+   ]
+  ],
+  "clash": []
+ },
+ "Castor": {
+  "also": [
+   [
+    "stars",
+    3
+   ]
+  ],
+  "clash": [
+   "constellations",
+   "zodiac signs"
+  ]
+ },
+ "Pollux": {
+  "also": [
+   [
+    "stars",
+    3
+   ]
+  ],
+  "clash": [
+   "constellations",
+   "zodiac signs"
+  ]
+ },
+ "Diomedes": {
+  "also": [
+   [
+    "trojan war",
+    3
+   ]
+  ],
+  "clash": []
+ },
+ "Agamemnon": {
+  "also": [
+   [
+    "monarchs",
+    3
+   ],
+   [
+    "trojan war",
+    2
+   ]
+  ],
+  "clash": []
+ },
+ "Menelaus": {
+  "also": [
+   [
+    "trojan war",
+    2
+   ]
+  ],
+  "clash": []
+ },
+ "Patroclus": {
+  "also": [
+   [
+    "trojan war",
+    2
+   ]
+  ],
+  "clash": []
+ },
+ "Telamon": {
+  "also": [
+   [
+    "column styles",
+    5
+   ]
+  ],
+  "clash": []
+ },
+ "Oedipus": {
+  "also": [
+   [
+    "monarchs",
+    3
+   ]
+  ],
+  "clash": [
+   "mental health words"
+  ]
+ },
+ "Nestor": {
+  "also": [
+   [
+    "trojan war",
+    3
+   ]
+  ],
+  "clash": []
+ },
+ "Neoptolemus": {
+  "also": [
+   [
+    "trojan war",
+    3
+   ]
+  ],
+  "clash": []
+ },
+ "Philoctetes": {
+  "also": [
+   [
+    "trojan war",
+    3
+   ]
+  ],
+  "clash": []
+ },
+ "Teucer": {
+  "also": [
+   [
+    "trojan war",
+    4
+   ]
+  ],
+  "clash": []
+ },
+ "Pelops": {
+  "also": [
+   [
+    "ancient olympics",
+    4
+   ]
+  ],
+  "clash": []
+ },
+ "Laertes": {
+  "also": [
+   [
+    "shakespeare characters",
+    3
+   ]
+  ],
+  "clash": []
+ },
+ "Palamedes": {
+  "also": [
+   [
+    "trojan war",
+    4
+   ]
+  ],
+  "clash": []
+ },
+ "Calais": {
+  "also": [
+   [
+    "french cities",
+    2
+   ],
+   [
+    "port cities",
+    3
+   ]
+  ],
+  "clash": []
+ },
+ "Nemean lion": {
+  "also": [
+   [
+    "greek monsters",
+    2
+   ]
+  ],
+  "clash": [
+   "mythical creatures"
+  ]
+ },
+ "Hydra": {
+  "also": [
+   [
+    "constellations",
+    3
+   ],
+   [
+    "greek islands",
+    3
+   ],
+   [
+    "greek monsters",
+    1
+   ],
+   [
+    "jellyfish and relatives",
+    3
+   ],
+   [
+    "pond life",
+    4
+   ],
+   [
+    "mythical creatures",
+    2
+   ]
+  ],
+  "clash": []
+ },
+ "Cerberus": {
+  "also": [
+   [
+    "greek monsters",
+    1
+   ],
+   [
+    "mythical creatures",
+    2
+   ]
+  ],
+  "clash": [
+   "afterlife words"
+  ]
+ },
+ "Erymanthian boar": {
+  "also": [
+   [
+    "greek monsters",
+    4
+   ]
+  ],
+  "clash": []
+ },
+ "Stymphalian birds": {
+  "also": [
+   [
+    "greek monsters",
+    4
+   ]
+  ],
+  "clash": [
+   "winged beasts"
+  ]
+ },
+ "Cretan bull": {
+  "also": [
+   [
+    "greek monsters",
+    4
+   ]
+  ],
+  "clash": []
+ },
+ "Atlantis": {
+  "also": [
+   [
+    "famous hotels",
+    3
+   ],
+   [
+    "space missions",
+    3
+   ],
+   [
+    "space vehicles",
+    3
+   ]
+  ],
+  "clash": []
+ },
+ "El Dorado": {
+  "also": [
+   [
+    "exploration",
+    2
+   ],
+   [
+    "famous airports",
+    4
+   ],
+   [
+    "gold rush words",
+    3
+   ],
+   [
+    "words from spanish",
+    3
+   ]
+  ],
+  "clash": []
+ },
+ "Avalon": {
+  "also": [
+   [
+    "afterlife words",
+    3
+   ],
+   [
+    "cruise lines",
+    5
+   ],
+   [
+    "peninsulas",
+    4
+   ],
+   [
+    "celtic folklore",
+    3
+   ]
+  ],
+  "clash": []
+ },
+ "Shangri-La": {
+  "also": [
+   [
+    "hotel chains",
+    3
+   ]
+  ],
+  "clash": []
+ },
+ "Elysium": {
+  "also": [
+   [
+    "afterlife words",
+    3
+   ]
+  ],
+  "clash": [
+   "ancient greece"
+  ]
+ },
+ "Valhalla": {
+  "also": [
+   [
+    "afterlife words",
+    2
+   ],
+   [
+    "norse mythology",
+    1
+   ],
+   [
+    "vikings",
+    2
+   ]
+  ],
+  "clash": []
+ },
+ "Eden": {
+  "also": [
+   [
+    "unisex names",
+    3
+   ]
+  ],
+  "clash": [
+   "famous gardens",
+   "biblical names"
+  ]
+ },
+ "Mount Olympus": {
+  "also": [
+   [
+    "famous mountains",
+    1
+   ]
+  ],
+  "clash": [
+   "greek gods",
+   "ancient greece"
+  ]
+ },
+ "Asgard": {
+  "also": [
+   [
+    "norse mythology",
+    1
+   ]
+  ],
+  "clash": []
+ },
+ "Xanadu": {
+  "also": [
+   [
+    "rhymes with blue",
+    4
+   ]
+  ],
+  "clash": []
+ },
+ "Mu": {
+  "also": [
+   [
+    "greek letters",
+    2
+   ]
+  ],
+  "clash": []
+ },
+ "Seven Cities of Gold": {
+  "also": [
+   [
+    "exploration",
+    4
+   ]
+  ],
+  "clash": [
+   "conquistadors"
+  ]
+ },
+ "Tír na nÓg": {
+  "also": [
+   [
+    "afterlife words",
+    4
+   ]
+  ],
+  "clash": []
+ },
+ "Elysian Fields": {
+  "also": [
+   [
+    "afterlife words",
+    3
+   ]
+  ],
+  "clash": []
+ },
+ "Tartarus": {
+  "also": [
+   [
+    "afterlife words",
+    3
+   ]
+  ],
+  "clash": [
+   "titans",
+   "greek gods"
+  ]
+ },
+ "Midgard": {
+  "also": [
+   [
+    "norse mythology",
+    2
+   ]
+  ],
+  "clash": []
+ },
+ "Niflheim": {
+  "also": [
+   [
+    "norse mythology",
+    3
+   ]
+  ],
+  "clash": []
+ },
+ "Mount Meru": {
+  "also": [
+   [
+    "famous volcanoes",
+    4
+   ]
+  ],
+  "clash": [
+   "hindu gods",
+   "buddhism words"
+  ]
+ },
+ "Penglai": {
+  "also": [
+   [
+    "chinese mythology",
+    4
+   ]
+  ],
+  "clash": []
+ },
+ "Kunlun": {
+  "also": [
+   [
+    "chinese mythology",
+    3
+   ],
+   [
+    "mountain ranges",
+    4
+   ]
+  ],
+  "clash": []
+ },
+ "Xibalba": {
+  "also": [
+   [
+    "afterlife words",
+    4
+   ],
+   [
+    "aztecs and maya",
+    4
+   ]
+  ],
+  "clash": []
+ },
+ "Mictlan": {
+  "also": [
+   [
+    "afterlife words",
+    4
+   ],
+   [
+    "aztecs and maya",
+    4
+   ],
+   [
+    "day of the dead",
+    4
+   ]
+  ],
+  "clash": []
+ },
+ "Tower of Babel": {
+  "also": [
+   [
+    "mesopotamia",
+    3
+   ],
+   [
+    "tall things",
+    3
+   ]
+  ],
+  "clash": [
+   "famous towers"
+  ]
+ },
+ "Annwn": {
+  "also": [
+   [
+    "afterlife words",
+    5
+   ]
+  ],
+  "clash": []
+ },
+ "Neverland": {
+  "also": [
+   [
+    "pirate places",
+    2
+   ]
+  ],
+  "clash": [
+   "fairy tales"
+  ]
+ },
+ "quest": {
+  "also": [
+   [
+    "expedition ships",
+    3
+   ],
+   [
+    "gaming words",
+    2
+   ],
+   [
+    "journeys",
+    2
+   ],
+   [
+    "knights",
+    2
+   ]
+  ],
+  "clash": []
+ },
+ "prophecy": {
+  "also": [
+   [
+    "mythology",
+    2
+   ],
+   [
+    "religion words",
+    2
+   ]
+  ],
+  "clash": []
+ },
+ "sword and sorcery": {
+  "also": [
+   [
+    "book genres",
+    4
+   ]
+  ],
+  "clash": []
+ },
+ "high fantasy": {
+  "also": [
+   [
+    "book genres",
+    4
+   ]
+  ],
+  "clash": []
+ },
+ "epic fantasy": {
+  "also": [
+   [
+    "book genres",
+    4
+   ]
+  ],
+  "clash": []
+ },
+ "Tolkien": {
+  "also": [
+   [
+    "british novelists",
+    2
+   ]
+  ],
+  "clash": [
+   "children's authors"
+  ]
+ },
+ "realm": {
+  "also": [
+   [
+    "royal things",
+    2
+   ]
+  ],
+  "clash": []
+ },
+ "kingdom": {
+  "also": [
+   [
+    "classification words",
+    1
+   ],
+   [
+    "royal things",
+    1
+   ]
+  ],
+  "clash": []
+ },
+ "knight": {
+  "also": [
+   [
+    "black___",
+    4
+   ],
+   [
+    "chess terms",
+    1
+   ],
+   [
+    "feudal ranks",
+    1
+   ],
+   [
+    "game pieces",
+    3
+   ],
+   [
+    "homophones",
+    1
+   ],
+   [
+    "knights",
+    1
+   ],
+   [
+    "rhymes with light",
+    1
+   ],
+   [
+    "silent k words",
+    1
+   ],
+   [
+    "social classes",
+    2
+   ],
+   [
+    "soldiers of history",
+    1
+   ],
+   [
+    "surnames that are jobs",
+    2
+   ]
+  ],
+  "clash": [
+   "arthurian legend"
+  ]
+ },
+ "portal": {
+  "also": [
+   [
+    "video games",
+    3
+   ]
+  ],
+  "clash": []
+ },
+ "dark fantasy": {
+  "also": [
+   [
+    "book genres",
+    4
+   ]
+  ],
+  "clash": []
+ },
+ "urban fantasy": {
+  "also": [
+   [
+    "book genres",
+    3
+   ]
+  ],
+  "clash": []
+ },
+ "grimdark": {
+  "also": [
+   [
+    "book genres",
+    5
+   ]
+  ],
+  "clash": []
+ },
+ "sidekick": {
+  "also": [
+   [
+    "comic book words",
+    2
+   ],
+   [
+    "detective words",
+    2
+   ],
+   [
+    "film words",
+    2
+   ],
+   [
+    "words for friend",
+    2
+   ]
+  ],
+  "clash": []
+ },
+ "Lewis Carroll": {
+  "also": [
+   [
+    "children's authors",
+    2
+   ],
+   [
+    "british novelists",
+    2
+   ]
+  ],
+  "clash": []
+ },
+ "Neil Gaiman": {
+  "also": [
+   [
+    "children's authors",
+    3
+   ],
+   [
+    "british novelists",
+    3
+   ]
+  ],
+  "clash": []
+ },
+ "elf": {
+  "also": [
+   [
+    "christmas",
+    1
+   ],
+   [
+    "fairy tale characters",
+    2
+   ],
+   [
+    "mythical creatures",
+    1
+   ],
+   [
+    "fairy folk",
+    2
+   ]
+  ],
+  "clash": []
+ },
+ "dwarf": {
+  "also": [
+   [
+    "mythical creatures",
+    1
+   ],
+   [
+    "words for small",
+    3
+   ],
+   [
+    "fairy tale characters",
+    1
+   ]
+  ],
+  "clash": [
+   "star types",
+   "planets",
+   "norse mythology"
+  ]
+ },
+ "goblin": {
+  "also": [
+   [
+    "fairy tale characters",
+    2
+   ],
+   [
+    "halloween",
+    2
+   ],
+   [
+    "mythical creatures",
+    1
+   ],
+   [
+    "fairy folk",
+    2
+   ]
+  ],
+  "clash": []
+ },
+ "troll": {
+  "also": [
+   [
+    "fairy tale characters",
+    2
+   ],
+   [
+    "internet words",
+    2
+   ],
+   [
+    "mythical creatures",
+    1
+   ],
+   [
+    "social media words",
+    2
+   ]
+  ],
+  "clash": [
+   "norse mythology"
+  ]
+ },
+ "gnome": {
+  "also": [
+   [
+    "garden",
+    2
+   ],
+   [
+    "mythical creatures",
+    1
+   ],
+   [
+    "silent letter words",
+    2
+   ],
+   [
+    "fairy folk",
+    2
+   ]
+  ],
+  "clash": []
+ },
+ "ogre": {
+  "also": [
+   [
+    "fairy tale characters",
+    2
+   ],
+   [
+    "huge things",
+    3
+   ],
+   [
+    "mythical creatures",
+    1
+   ]
+  ],
+  "clash": []
+ },
+ "giant": {
+  "also": [
+   [
+    "fairy tale characters",
+    2
+   ],
+   [
+    "hidden insects",
+    2
+   ],
+   [
+    "hidden names",
+    2
+   ],
+   [
+    "huge things",
+    1
+   ],
+   [
+    "mythical creatures",
+    2
+   ],
+   [
+    "size labels",
+    2
+   ],
+   [
+    "tall things",
+    2
+   ],
+   [
+    "words for big",
+    1
+   ]
+  ],
+  "clash": [
+   "norse mythology"
+  ]
+ },
+ "centaur": {
+  "also": [
+   [
+    "fonts",
+    5
+   ],
+   [
+    "greek monsters",
+    2
+   ],
+   [
+    "mythical creatures",
+    1
+   ],
+   [
+    "space rocks",
+    5
+   ]
+  ],
+  "clash": [
+   "constellations"
+  ]
+ },
+ "kobold": {
+  "also": [
+   [
+    "mythical creatures",
+    3
+   ]
+  ],
+  "clash": [
+   "fairy folk"
+  ]
+ },
+ "hobgoblin": {
+  "also": [
+   [
+    "mythical creatures",
+    2
+   ],
+   [
+    "fairy folk",
+    3
+   ]
+  ],
+  "clash": []
+ },
+ "minotaur": {
+  "also": [
+   [
+    "greek monsters",
+    1
+   ],
+   [
+    "mythical creatures",
+    2
+   ],
+   [
+    "things with horns",
+    2
+   ]
+  ],
+  "clash": []
+ },
+ "satyr": {
+  "also": [
+   [
+    "mythical creatures",
+    2
+   ],
+   [
+    "things with horns",
+    4
+   ]
+  ],
+  "clash": []
+ },
+ "faun": {
+  "also": [
+   [
+    "mythical creatures",
+    2
+   ],
+   [
+    "things with horns",
+    3
+   ]
+  ],
+  "clash": []
+ },
+ "mermaid": {
+  "also": [
+   [
+    "mythical creatures",
+    1
+   ]
+  ],
+  "clash": [
+   "sea monsters",
+   "fairy folk"
+  ]
+ },
+ "cyclops": {
+  "also": [
+   [
+    "greek monsters",
+    1
+   ],
+   [
+    "mythical creatures",
+    2
+   ],
+   [
+    "pond life",
+    5
+   ]
+  ],
+  "clash": []
+ },
+ "harpy": {
+  "also": [
+   [
+    "greek monsters",
+    2
+   ],
+   [
+    "old-fashioned insults",
+    3
+   ],
+   [
+    "things with wings",
+    4
+   ],
+   [
+    "winged beasts",
+    2
+   ],
+   [
+    "words from mythology",
+    4
+   ]
+  ],
+  "clash": []
+ },
+ "frost giant": {
+  "also": [
+   [
+    "norse mythology",
+    2
+   ]
+  ],
+  "clash": []
+ },
+ "werewolf": {
+  "also": [
+   [
+    "halloween",
+    1
+   ],
+   [
+    "party games",
+    3
+   ],
+   [
+    "shapeshifters",
+    1
+   ]
+  ],
+  "clash": []
+ },
+ "goliath": {
+  "also": [
+   [
+    "biblical names",
+    1
+   ],
+   [
+    "tall things",
+    2
+   ]
+  ],
+  "clash": []
+ },
+ "crystal ball": {
+  "also": [
+   [
+    "halloween",
+    2
+   ],
+   [
+    "round things",
+    2
+   ],
+   [
+    "things made of glass",
+    2
+   ],
+   [
+    "witchcraft",
+    2
+   ]
+  ],
+  "clash": [
+   "wizard words",
+   "superstitions"
+  ]
+ },
+ "magic carpet": {
+  "also": [
+   [
+    "cable cars and lifts",
+    3
+   ],
+   [
+    "ski resort",
+    4
+   ],
+   [
+    "ski trip",
+    4
+   ],
+   [
+    "things that fly",
+    2
+   ],
+   [
+    "arabian nights",
+    2
+   ]
+  ],
+  "clash": []
+ },
+ "flying carpet": {
+  "also": [
+   [
+    "flying machines",
+    2
+   ]
+  ],
+  "clash": []
+ },
+ "magic mirror": {
+  "also": [
+   [
+    "fairy tale characters",
+    2
+   ],
+   [
+    "fairy tales",
+    2
+   ]
+  ],
+  "clash": []
+ },
+ "golden fleece": {
+  "also": [
+   [
+    "orders of knighthood",
+    3
+   ]
+  ],
+  "clash": [
+   "greek heroes"
+  ]
+ },
+ "Gungnir": {
+  "also": [
+   [
+    "norse mythology",
+    3
+   ]
+  ],
+  "clash": []
+ },
+ "Draupnir": {
+  "also": [
+   [
+    "norse mythology",
+    4
+   ]
+  ],
+  "clash": []
+ },
+ "Brisingamen": {
+  "also": [
+   [
+    "norse mythology",
+    4
+   ]
+  ],
+  "clash": []
+ },
+ "Megingjord": {
+  "also": [
+   [
+    "norse mythology",
+    4
+   ]
+  ],
+  "clash": []
+ },
+ "Gleipnir": {
+  "also": [
+   [
+    "norse mythology",
+    4
+   ]
+  ],
+  "clash": []
+ },
+ "Aegis": {
+  "also": [
+   [
+    "words from mythology",
+    4
+   ]
+  ],
+  "clash": [
+   "greek gods"
+  ]
+ },
+ "cornucopia": {
+  "also": [
+   [
+    "thanksgiving",
+    2
+   ]
+  ],
+  "clash": [
+   "symbols"
+  ]
+ },
+ "Holy Grail": {
+  "also": [
+   [
+    "medieval times",
+    2
+   ]
+  ],
+  "clash": []
+ },
+ "Pandora's box": {
+  "also": [
+   [
+    "mythology",
+    2
+   ],
+   [
+    "words from mythology",
+    2
+   ]
+  ],
+  "clash": []
+ },
+ "magic wand": {
+  "also": [
+   [
+    "magic tricks",
+    1
+   ],
+   [
+    "sparkly things",
+    3
+   ]
+  ],
+  "clash": [
+   "wizard words"
+  ]
+ },
+ "golden goose": {
+  "also": [
+   [
+    "fairy tales",
+    3
+   ]
+  ],
+  "clash": []
+ },
+ "abracadabra": {
+  "also": [
+   [
+    "magic show words",
+    1
+   ],
+   [
+    "magic tricks",
+    1
+   ],
+   [
+    "silly-sounding words",
+    3
+   ]
+  ],
+  "clash": []
+ },
+ "hocus pocus": {
+  "also": [
+   [
+    "magic show words",
+    2
+   ],
+   [
+    "magic tricks",
+    2
+   ],
+   [
+    "rhyming pairs",
+    2
+   ]
+  ],
+  "clash": [
+   "witchcraft"
+  ]
+ },
+ "spell": {
+  "also": [
+   [
+    "___book",
+    2
+   ],
+   [
+    "cricket terms",
+    4
+   ],
+   [
+    "witchcraft",
+    1
+   ]
+  ],
+  "clash": []
+ },
+ "wand": {
+  "also": [
+   [
+    "magic show words",
+    1
+   ]
+  ],
+  "clash": [
+   "witchcraft"
+  ]
+ },
+ "staff": {
+  "also": [
+   [
+    "business words",
+    1
+   ],
+   [
+    "groups of people",
+    2
+   ],
+   [
+    "music terms",
+    3
+   ],
+   [
+    "workplace words",
+    1
+   ]
+  ],
+  "clash": []
+ },
+ "illusionist": {
+  "also": [
+   [
+    "magic show words",
+    2
+   ]
+  ],
+  "clash": []
+ },
+ "tome": {
+  "also": [
+   [
+    "library",
+    3
+   ]
+  ],
+  "clash": []
+ },
+ "rune": {
+  "also": [
+   [
+    "power-ups and pickups",
+    3
+   ],
+   [
+    "vikings",
+    2
+   ]
+  ],
+  "clash": [
+   "ancient writing",
+   "writing systems"
+  ]
+ },
+ "scroll": {
+  "also": [
+   [
+    "alphabets and writing",
+    1
+   ],
+   [
+    "ancient writing",
+    2
+   ],
+   [
+    "artifacts",
+    2
+   ],
+   [
+    "computer actions",
+    1
+   ],
+   [
+    "curves and spirals",
+    3
+   ],
+   [
+    "graduation words",
+    3
+   ],
+   [
+    "instrument parts",
+    3
+   ],
+   [
+    "long things",
+    2
+   ],
+   [
+    "museum",
+    2
+   ],
+   [
+    "social media words",
+    2
+   ],
+   [
+    "things made of paper",
+    3
+   ]
+  ],
+  "clash": []
+ },
+ "mana": {
+  "also": [
+   [
+    "gaming words",
+    3
+   ],
+   [
+    "hawaiian words",
+    3
+   ],
+   [
+    "maori culture",
+    3
+   ],
+   [
+    "maori words",
+    3
+   ]
+  ],
+  "clash": []
+ },
+ "levitate": {
+  "also": [
+   [
+    "magic show words",
+    3
+   ]
+  ],
+  "clash": []
+ },
+ "alakazam": {
+  "also": [
+   [
+    "magic show words",
+    3
+   ]
+  ],
+  "clash": []
+ },
+ "presto": {
+  "also": [
+   [
+    "magic show words",
+    2
+   ],
+   [
+    "magic tricks",
+    3
+   ],
+   [
+    "tempo words",
+    1
+   ]
+  ],
+  "clash": []
+ },
+ "sim sala bim": {
+  "also": [
+   [
+    "magic show words",
+    4
+   ],
+   [
+    "magic tricks",
+    3
+   ]
+  ],
+  "clash": []
+ },
+ "fireball": {
+  "also": [
+   [
+    "liqueurs",
+    2
+   ],
+   [
+    "space rocks",
+    2
+   ]
+  ],
+  "clash": []
+ },
+ "thaumaturgy": {
+  "also": [
+   [
+    "magic show words",
+    5
+   ]
+  ],
+  "clash": []
+ },
+ "magic word": {
+  "also": [
+   [
+    "magic show words",
+    2
+   ]
+  ],
+  "clash": []
+ },
+ "wizard": {
+  "also": [
+   [
+    "software words",
+    3
+   ],
+   [
+    "words for expert",
+    2
+   ]
+  ],
+  "clash": []
+ },
+ "witch": {
+  "also": [
+   [
+    "fairy tale characters",
+    2
+   ],
+   [
+    "halloween",
+    1
+   ],
+   [
+    "homophones",
+    1
+   ]
+  ],
+  "clash": [
+   "fairy tales"
+  ]
+ },
+ "broomstick": {
+  "also": [
+   [
+    "brooms and brushes",
+    2
+   ],
+   [
+    "halloween",
+    1
+   ],
+   [
+    "things that fly",
+    2
+   ]
+  ],
+  "clash": []
+ },
+ "cauldron": {
+  "also": [
+   [
+    "black things",
+    3
+   ],
+   [
+    "celts",
+    3
+   ],
+   [
+    "collective nouns",
+    4
+   ],
+   [
+    "halloween",
+    1
+   ],
+   [
+    "things with lids",
+    2
+   ]
+  ],
+  "clash": [
+   "wizard words"
+  ]
+ },
+ "potion": {
+  "also": [
+   [
+    "halloween",
+    3
+   ],
+   [
+    "power-ups and pickups",
+    1
+   ]
+  ],
+  "clash": [
+   "wizard words",
+   "alchemy"
+  ]
+ },
+ "hex": {
+  "also": [
+   [
+    "climbing gear",
+    4
+   ],
+   [
+    "climbing words",
+    5
+   ]
+  ],
+  "clash": [
+   "polygons",
+   "wizard words"
+  ]
+ },
+ "Wicca": {
+  "also": [
+   [
+    "religion",
+    3
+   ]
+  ],
+  "clash": []
+ },
+ "pentagram": {
+  "also": [
+   [
+    "polygons",
+    3
+   ],
+   [
+    "symbols",
+    3
+   ]
+  ],
+  "clash": []
+ },
+ "Book of Shadows": {
+  "also": [
+   [
+    "holy books",
+    4
+   ]
+  ],
+  "clash": []
+ },
+ "besom": {
+  "also": [
+   [
+    "brooms and brushes",
+    4
+   ]
+  ],
+  "clash": []
+ },
+ "poppet": {
+  "also": [
+   [
+    "silly-sounding words",
+    3
+   ],
+   [
+    "terms of endearment",
+    3
+   ]
+  ],
+  "clash": []
+ },
+ "voodoo doll": {
+  "also": [
+   [
+    "dolls and figures",
+    2
+   ]
+  ],
+  "clash": []
+ },
+ "charm": {
+  "also": [
+   [
+    "collective nouns",
+    4
+   ],
+   [
+    "hidden body parts",
+    2
+   ],
+   [
+    "jewelry",
+    2
+   ]
+  ],
+  "clash": [
+   "superstitions",
+   "wizard words"
+  ]
+ },
+ "brew": {
+  "also": [
+   [
+    "coffee words",
+    2
+   ],
+   [
+    "rhymes with blue",
+    2
+   ]
+  ],
+  "clash": [
+   "beers"
+  ]
+ },
+ "mandrake": {
+  "also": [
+   [
+    "medicinal plants",
+    3
+   ],
+   [
+    "poisonous plants",
+    3
+   ],
+   [
+    "rhymes with cake",
+    4
+   ]
+  ],
+  "clash": []
+ },
+ "wolfsbane": {
+  "also": [
+   [
+    "flowers with animal names",
+    2
+   ],
+   [
+    "poisonous plants",
+    2
+   ]
+  ],
+  "clash": []
+ },
+ "belladonna": {
+  "also": [
+   [
+    "medicinal plants",
+    3
+   ],
+   [
+    "poisonous plants",
+    2
+   ],
+   [
+    "words from italian",
+    4
+   ]
+  ],
+  "clash": []
+ },
+ "henbane": {
+  "also": [
+   [
+    "flowers with animal names",
+    3
+   ],
+   [
+    "poisonous plants",
+    3
+   ]
+  ],
+  "clash": []
+ },
+ "Hecate": {
+  "also": [
+   [
+    "greek gods",
+    3
+   ],
+   [
+    "shakespeare characters",
+    4
+   ]
+  ],
+  "clash": []
+ },
+ "hag": {
+  "also": [
+   [
+    "___fish",
+    2
+   ],
+   [
+    "old-fashioned insults",
+    2
+   ]
+  ],
+  "clash": [
+   "words for old"
+  ]
+ },
+ "Walpurgis Night": {
+  "also": [
+   [
+    "festivals of the world",
+    4
+   ]
+  ],
+  "clash": []
+ },
+ "tarot": {
+  "also": [
+   [
+    "card games",
+    4
+   ]
+  ],
+  "clash": [
+   "superstitions"
+  ]
+ },
+ "black magic": {
+  "also": [
+   [
+    "chocolates",
+    4
+   ]
+  ],
+  "clash": []
+ },
+ "ducking stool": {
+  "also": [
+   [
+    "punishments",
+    4
+   ]
+  ],
+  "clash": []
+ },
+ "altar": {
+  "also": [
+   [
+    "church parts",
+    1
+   ],
+   [
+    "day of the dead",
+    2
+   ],
+   [
+    "religion words",
+    2
+   ],
+   [
+    "weddings",
+    2
+   ]
+  ],
+  "clash": []
+ },
+ "chalice": {
+  "also": [
+   [
+    "artifacts",
+    3
+   ],
+   [
+    "hidden insects",
+    3
+   ],
+   [
+    "treasure",
+    2
+   ]
+  ],
+  "clash": []
+ },
+ "witch's brew": {
+  "also": [
+   [
+    "halloween",
+    3
+   ]
+  ],
+  "clash": []
+ },
+ "elixir": {
+  "also": [
+   [
+    "forms of medicine",
+    3
+   ],
+   [
+    "medicine",
+    3
+   ],
+   [
+    "power-ups and pickups",
+    2
+   ],
+   [
+    "programming languages",
+    4
+   ],
+   [
+    "words from arabic",
+    3
+   ]
+  ],
+  "clash": []
+ },
+ "panacea": {
+  "also": [
+   [
+    "medicine",
+    4
+   ]
+  ],
+  "clash": []
+ },
+ "alembic": {
+  "also": [
+   [
+    "words from arabic",
+    5
+   ]
+  ],
+  "clash": [
+   "lab glassware"
+  ]
+ },
+ "crucible": {
+  "also": [
+   [
+    "lab equipment",
+    3
+   ],
+   [
+    "science lab",
+    3
+   ]
+  ],
+  "clash": []
+ },
+ "retort": {
+  "also": [
+   [
+    "lab glassware",
+    3
+   ],
+   [
+    "ways of speaking",
+    3
+   ]
+  ],
+  "clash": []
+ },
+ "aqua regia": {
+  "also": [
+   [
+    "acids and bases",
+    4
+   ]
+  ],
+  "clash": []
+ },
+ "mercury": {
+  "also": [
+   [
+    "american car brands",
+    3
+   ],
+   [
+    "chemical elements",
+    2
+   ],
+   [
+    "hot things",
+    3
+   ],
+   [
+    "metals",
+    2
+   ],
+   [
+    "planets",
+    1
+   ],
+   [
+    "pollution words",
+    3
+   ],
+   [
+    "roman gods",
+    1
+   ],
+   [
+    "shiny things",
+    3
+   ],
+   [
+    "space vehicles",
+    3
+   ],
+   [
+    "things that reflect",
+    4
+   ]
+  ],
+  "clash": []
+ },
+ "sulfur": {
+  "also": [
+   [
+    "chemical elements",
+    2
+   ],
+   [
+    "dietary minerals",
+    4
+   ],
+   [
+    "geothermal words",
+    2
+   ],
+   [
+    "minerals",
+    2
+   ],
+   [
+    "shades of yellow",
+    4
+   ],
+   [
+    "smelly things",
+    2
+   ],
+   [
+    "things that smell bad",
+    2
+   ],
+   [
+    "volcano words",
+    3
+   ],
+   [
+    "yellow things",
+    3
+   ]
+  ],
+  "clash": []
+ },
+ "calcination": {
+  "also": [
+   [
+    "chemical reactions",
+    5
+   ]
+  ],
+  "clash": []
+ },
+ "sublimation": {
+  "also": [
+   [
+    "states of matter",
+    3
+   ],
+   [
+    "water cycle words",
+    3
+   ]
+  ],
+  "clash": []
+ },
+ "distillation": {
+  "also": [
+   [
+    "chemistry words",
+    2
+   ]
+  ],
+  "clash": []
+ },
+ "albedo": {
+  "also": [
+   [
+    "astronomy terms",
+    4
+   ],
+   [
+    "climate words",
+    4
+   ]
+  ],
+  "clash": []
+ },
+ "homunculus": {
+  "also": [
+   [
+    "mythical creatures",
+    4
+   ]
+  ],
+  "clash": []
+ },
+ "ouroboros": {
+  "also": [
+   [
+    "symbols",
+    4
+   ]
+  ],
+  "clash": [
+   "dragons"
+  ]
+ },
+ "Jabir ibn Hayyan": {
+  "also": [
+   [
+    "islamic golden age scholars",
+    4
+   ]
+  ],
+  "clash": []
+ },
+ "magnum opus": {
+  "also": [
+   [
+    "latin phrases",
+    2
+   ]
+  ],
+  "clash": []
+ },
+ "cinnabar": {
+  "also": [
+   [
+    "minerals",
+    3
+   ],
+   [
+    "red things",
+    5
+   ],
+   [
+    "shades of red",
+    4
+   ]
+  ],
+  "clash": []
+ },
+ "orpiment": {
+  "also": [
+   [
+    "minerals",
+    5
+   ]
+  ],
+  "clash": []
+ },
+ "antimony": {
+  "also": [
+   [
+    "chemical elements",
+    4
+   ]
+  ],
+  "clash": []
+ },
+ "tincture": {
+  "also": [
+   [
+    "forms of medicine",
+    3
+   ],
+   [
+    "heraldry",
+    3
+   ]
+  ],
+  "clash": []
+ },
+ "Tiamat": {
+  "also": [
+   [
+    "mesopotamia",
+    3
+   ],
+   [
+    "mesopotamian gods",
+    2
+   ],
+   [
+    "sea monsters",
+    4
+   ]
+  ],
+  "clash": []
+ },
+ "Nidhogg": {
+  "also": [
+   [
+    "norse mythology",
+    4
+   ]
+  ],
+  "clash": []
+ },
+ "Ladon": {
+  "also": [
+   [
+    "greek monsters",
+    4
+   ]
+  ],
+  "clash": []
+ },
+ "Ryūjin": {
+  "also": [
+   [
+    "shinto kami",
+    3
+   ]
+  ],
+  "clash": [
+   "japanese folklore"
+  ]
+ },
+ "wyvern": {
+  "also": [
+   [
+    "winged beasts",
+    2
+   ],
+   [
+    "heraldry",
+    3
+   ]
+  ],
+  "clash": []
+ },
+ "drake": {
+  "also": [
+   [
+    "farm animals",
+    3
+   ],
+   [
+    "fire___",
+    2
+   ],
+   [
+    "male animals",
+    2
+   ],
+   [
+    "rhymes with cake",
+    2
+   ]
+  ],
+  "clash": []
+ },
+ "amphiptere": {
+  "also": [
+   [
+    "winged beasts",
+    5
+   ]
+  ],
+  "clash": []
+ },
+ "Chinese dragon": {
+  "also": [
+   [
+    "chinese mythology",
+    2
+   ],
+   [
+    "long things",
+    3
+   ],
+   [
+    "lunar new year",
+    2
+   ]
+  ],
+  "clash": [
+   "chinese zodiac"
+  ]
+ },
+ "Quetzalcoatl": {
+  "also": [
+   [
+    "aztec gods",
+    1
+   ],
+   [
+    "aztecs and maya",
+    2
+   ]
+  ],
+  "clash": []
+ },
+ "Ryu": {
+  "also": [
+   [
+    "video games",
+    4
+   ]
+  ],
+  "clash": []
+ },
+ "Jörmungandr": {
+  "also": [
+   [
+    "norse mythology",
+    3
+   ],
+   [
+    "sea monsters",
+    3
+   ]
+  ],
+  "clash": []
+ },
+ "Leviathan": {
+  "also": [
+   [
+    "sea monsters",
+    2
+   ]
+  ],
+  "clash": []
+ },
+ "Typhon": {
+  "also": [
+   [
+    "greek monsters",
+    3
+   ]
+  ],
+  "clash": []
+ },
+ "Apep": {
+  "also": [
+   [
+    "egyptian afterlife",
+    5
+   ],
+   [
+    "egyptian gods",
+    3
+   ]
+  ],
+  "clash": []
+ },
+ "Python": {
+  "also": [
+   [
+    "constrictor snakes",
+    1
+   ],
+   [
+    "greek monsters",
+    3
+   ],
+   [
+    "long things",
+    2
+   ],
+   [
+    "programming languages",
+    1
+   ],
+   [
+    "words from mythology",
+    4
+   ]
+  ],
+  "clash": []
+ },
+ "Spyro": {
+  "also": [
+   [
+    "video games",
+    3
+   ]
+  ],
+  "clash": []
+ },
+ "fairy": {
+  "also": [
+   [
+    "___cake",
+    2
+   ],
+   [
+    "___light",
+    2
+   ],
+   [
+    "fairy tale characters",
+    2
+   ],
+   [
+    "midsummer",
+    2
+   ],
+   [
+    "mythical creatures",
+    1
+   ],
+   [
+    "power-ups and pickups",
+    3
+   ],
+   [
+    "things that fly",
+    2
+   ],
+   [
+    "things with wings",
+    2
+   ],
+   [
+    "tiny things",
+    3
+   ]
+  ],
+  "clash": [
+   "fairy tales"
+  ]
+ },
+ "pixie": {
+  "also": [
+   [
+    "hairstyles",
+    3
+   ],
+   [
+    "mythical creatures",
+    2
+   ],
+   [
+    "tiny things",
+    3
+   ]
+  ],
+  "clash": []
+ },
+ "sprite": {
+  "also": [
+   [
+    "fizzy drinks",
+    1
+   ],
+   [
+    "gaming words",
+    3
+   ],
+   [
+    "mythical creatures",
+    2
+   ],
+   [
+    "rhymes with light",
+    2
+   ],
+   [
+    "soft drinks",
+    1
+   ],
+   [
+    "water___",
+    4
+   ]
+  ],
+  "clash": []
+ },
+ "nymph": {
+  "also": [
+   [
+    "baby animals",
+    3
+   ],
+   [
+    "fishing tackle",
+    4
+   ],
+   [
+    "insect life cycle",
+    2
+   ],
+   [
+    "life cycle words",
+    2
+   ],
+   [
+    "mythical creatures",
+    2
+   ],
+   [
+    "no vowels",
+    2
+   ],
+   [
+    "sea___",
+    2
+   ],
+   [
+    "water___",
+    4
+   ]
+  ],
+  "clash": [
+   "greek gods"
+  ]
+ },
+ "dryad": {
+  "also": [
+   [
+    "mythical creatures",
+    2
+   ]
+  ],
+  "clash": [
+   "greek gods"
+  ]
+ },
+ "naiad": {
+  "also": [
+   [
+    "insect life cycle",
+    4
+   ],
+   [
+    "moons",
+    5
+   ],
+   [
+    "mythical creatures",
+    3
+   ]
+  ],
+  "clash": [
+   "greek gods"
+  ]
+ },
+ "nereid": {
+  "also": [
+   [
+    "moons",
+    5
+   ],
+   [
+    "mythical creatures",
+    3
+   ]
+  ],
+  "clash": []
+ },
+ "sylph": {
+  "also": [
+   [
+    "mythical creatures",
+    3
+   ],
+   [
+    "no vowels",
+    4
+   ]
+  ],
+  "clash": []
+ },
+ "undine": {
+  "also": [
+   [
+    "mythical creatures",
+    4
+   ]
+  ],
+  "clash": []
+ },
+ "imp": {
+  "also": [
+   [
+    "angels and spirits",
+    3
+   ],
+   [
+    "mythical creatures",
+    2
+   ],
+   [
+    "troublemakers",
+    2
+   ]
+  ],
+  "clash": []
+ },
+ "hob": {
+  "also": [
+   [
+    "british english words",
+    2
+   ],
+   [
+    "cooking",
+    3
+   ],
+   [
+    "kitchen",
+    3
+   ],
+   [
+    "kitchen appliances",
+    3
+   ],
+   [
+    "male animals",
+    5
+   ]
+  ],
+  "clash": []
+ },
+ "boggart": {
+  "also": [
+   [
+    "mythical creatures",
+    3
+   ]
+  ],
+  "clash": []
+ },
+ "changeling": {
+  "also": [
+   [
+    "mythical creatures",
+    3
+   ]
+  ],
+  "clash": []
+ },
+ "Oberon": {
+  "also": [
+   [
+    "midsummer",
+    3
+   ],
+   [
+    "moons",
+    4
+   ],
+   [
+    "programming languages",
+    5
+   ],
+   [
+    "shakespeare characters",
+    3
+   ]
+  ],
+  "clash": []
+ },
+ "Titania": {
+  "also": [
+   [
+    "midsummer",
+    3
+   ],
+   [
+    "moons",
+    4
+   ],
+   [
+    "shakespeare characters",
+    3
+   ]
+  ],
+  "clash": []
+ },
+ "Puck": {
+  "also": [
+   [
+    "game pieces",
+    3
+   ],
+   [
+    "ice hockey terms",
+    1
+   ],
+   [
+    "midsummer",
+    3
+   ],
+   [
+    "moons",
+    5
+   ],
+   [
+    "shakespeare characters",
+    2
+   ],
+   [
+    "sports balls",
+    2
+   ],
+   [
+    "sports equipment",
+    1
+   ]
+  ],
+  "clash": []
+ },
+ "will-o'-the-wisp": {
+  "also": [
+   [
+    "angels and spirits",
+    3
+   ],
+   [
+    "mythical creatures",
+    3
+   ],
+   [
+    "nature at night",
+    3
+   ],
+   [
+    "things that glow",
+    4
+   ]
+  ],
+  "clash": [
+   "ghosts and spirits"
+  ]
+ },
+ "Tooth Fairy": {
+  "also": [
+   [
+    "dental words",
+    1
+   ],
+   [
+    "things with wings",
+    2
+   ]
+  ],
+  "clash": []
+ },
+ "fairy godmother": {
+  "also": [
+   [
+    "fairy tale characters",
+    1
+   ]
+  ],
+  "clash": [
+   "fairy tales"
+  ]
+ },
+ "knocker": {
+  "also": [
+   [
+    "parts of a door",
+    2
+   ],
+   [
+    "silent k words",
+    2
+   ]
+  ],
+  "clash": [
+   "celtic folklore"
+  ]
+ },
+ "Peaseblossom": {
+  "also": [
+   [
+    "shakespeare characters",
+    5
+   ]
+  ],
+  "clash": []
+ },
+ "Mustardseed": {
+  "also": [
+   [
+    "shakespeare characters",
+    5
+   ]
+  ],
+  "clash": []
+ },
+ "nixie": {
+  "also": [
+   [
+    "mythical creatures",
+    4
+   ]
+  ],
+  "clash": []
+ },
+ "nix": {
+  "also": [
+   [
+    "moons",
+    5
+   ],
+   [
+    "words from german",
+    4
+   ]
+  ],
+  "clash": []
+ },
+ "brownie": {
+  "also": [
+   [
+    "bakery",
+    2
+   ],
+   [
+    "cafe",
+    2
+   ],
+   [
+    "cameras",
+    4
+   ],
+   [
+    "desserts and sweets",
+    1
+   ],
+   [
+    "mythical creatures",
+    3
+   ],
+   [
+    "north american food",
+    1
+   ],
+   [
+    "square things",
+    3
+   ],
+   [
+    "sweet foods",
+    1
+   ]
+  ],
+  "clash": []
+ },
+ "leprechaun": {
+  "also": [
+   [
+    "green things",
+    2
+   ],
+   [
+    "mythical creatures",
+    1
+   ],
+   [
+    "st. patrick's day",
+    1
+   ]
+  ],
+  "clash": []
+ },
+ "Beowulf": {
+  "also": [
+   [
+    "medieval times",
+    2
+   ]
+  ],
+  "clash": [
+   "classic novels"
+  ]
+ },
+ "Gilgamesh": {
+  "also": [
+   [
+    "mesopotamia",
+    2
+   ],
+   [
+    "mesopotamian gods",
+    3
+   ]
+  ],
+  "clash": []
+ },
+ "Siegfried": {
+  "also": [
+   [
+    "famous operas",
+    4
+   ]
+  ],
+  "clash": [
+   "norse mythology"
+  ]
+ },
+ "Roland": {
+  "also": [
+   [
+    "boys' names",
+    2
+   ],
+   [
+    "knights",
+    3
+   ]
+  ],
+  "clash": []
+ },
+ "El Cid": {
+  "also": [
+   [
+    "famous generals",
+    3
+   ],
+   [
+    "medieval times",
+    3
+   ]
+  ],
+  "clash": []
+ },
+ "William Tell": {
+  "also": [
+   [
+    "famous operas",
+    3
+   ]
+  ],
+  "clash": []
+ },
+ "Saint George": {
+  "also": [
+   [
+    "african soccer clubs",
+    5
+   ],
+   [
+    "famous saints",
+    1
+   ]
+  ],
+  "clash": [
+   "dragons"
+  ]
+ },
+ "Rama": {
+  "also": [
+   [
+    "diwali",
+    2
+   ],
+   [
+    "hindu gods",
+    1
+   ]
+  ],
+  "clash": []
+ },
+ "Arjuna": {
+  "also": [
+   [
+    "ayurveda words",
+    4
+   ]
+  ],
+  "clash": [
+   "hindu gods"
+  ]
+ },
+ "Sun Wukong": {
+  "also": [
+   [
+    "chinese mythology",
+    2
+   ]
+  ],
+  "clash": []
+ },
+ "Monkey King": {
+  "also": [
+   [
+    "chinese mythology",
+    1
+   ]
+  ],
+  "clash": []
+ },
+ "Aeneas": {
+  "also": [
+   [
+    "trojan war",
+    2
+   ]
+  ],
+  "clash": [
+   "greek heroes"
+  ]
+ },
+ "Romulus": {
+  "also": [
+   [
+    "ancient rome",
+    2
+   ]
+  ],
+  "clash": []
+ },
+ "Väinämöinen": {
+  "also": [
+   [
+    "mythology",
+    4
+   ]
+  ],
+  "clash": []
+ },
+ "Orlando": {
+  "also": [
+   [
+    "american cities",
+    2
+   ],
+   [
+    "names that are places",
+    3
+   ],
+   [
+    "shakespeare characters",
+    4
+   ]
+  ],
+  "clash": []
+ },
+ "Hiawatha": {
+  "also": [
+   [
+    "famous trains",
+    4
+   ]
+  ],
+  "clash": []
+ },
+ "Cú Chulainn": {
+  "also": [
+   [
+    "celts",
+    3
+   ]
+  ],
+  "clash": []
+ },
+ "Guan Yu": {
+  "also": [
+   [
+    "chinese mythology",
+    3
+   ]
+  ],
+  "clash": []
+ },
+ "King Arthur": {
+  "also": [
+   [
+    "medieval times",
+    1
+   ],
+   [
+    "monarchs",
+    1
+   ],
+   [
+    "legendary heroes",
+    1
+   ]
+  ],
+  "clash": []
+ },
+ "Merlin": {
+  "also": [
+   [
+    "birds of prey",
+    3
+   ],
+   [
+    "wizard words",
+    2
+   ]
+  ],
+  "clash": []
+ },
+ "Lancelot": {
+  "also": [
+   [
+    "knights",
+    2
+   ],
+   [
+    "legendary heroes",
+    2
+   ]
+  ],
+  "clash": []
+ },
+ "Excalibur": {
+  "also": [
+   [
+    "medieval times",
+    2
+   ],
+   [
+    "magic items",
+    1
+   ]
+  ],
+  "clash": []
+ },
+ "Round Table": {
+  "also": [
+   [
+    "knights",
+    2
+   ],
+   [
+    "tables and desks",
+    2
+   ]
+  ],
+  "clash": []
+ },
+ "Galahad": {
+  "also": [
+   [
+    "knights",
+    2
+   ],
+   [
+    "legendary heroes",
+    3
+   ]
+  ],
+  "clash": []
+ },
+ "Gawain": {
+  "also": [
+   [
+    "knights",
+    2
+   ],
+   [
+    "legendary heroes",
+    3
+   ]
+  ],
+  "clash": []
+ },
+ "Percival": {
+  "also": [
+   [
+    "knights",
+    3
+   ],
+   [
+    "old-fashioned names",
+    2
+   ],
+   [
+    "legendary heroes",
+    3
+   ]
+  ],
+  "clash": []
+ },
+ "Tristan": {
+  "also": [
+   [
+    "knights",
+    3
+   ],
+   [
+    "legendary heroes",
+    3
+   ],
+   [
+    "famous operas",
+    3
+   ]
+  ],
+  "clash": []
+ },
+ "Mordred": {
+  "also": [
+   [
+    "knights",
+    3
+   ]
+  ],
+  "clash": []
+ },
+ "Sir Kay": {
+  "also": [
+   [
+    "knights",
+    4
+   ]
+  ],
+  "clash": []
+ },
+ "Bedivere": {
+  "also": [
+   [
+    "knights",
+    3
+   ]
+  ],
+  "clash": []
+ },
+ "Bors": {
+  "also": [
+   [
+    "knights",
+    4
+   ]
+  ],
+  "clash": []
+ },
+ "Gareth": {
+  "also": [
+   [
+    "knights",
+    4
+   ],
+   [
+    "boys' names",
+    3
+   ]
+  ],
+  "clash": []
+ },
+ "Green Knight": {
+  "also": [
+   [
+    "knights",
+    3
+   ]
+  ],
+  "clash": []
+ },
+ "Tintagel": {
+  "also": [
+   [
+    "castles",
+    3
+   ],
+   [
+    "famous castles",
+    3
+   ]
+  ],
+  "clash": []
+ },
+ "Glastonbury": {
+  "also": [
+   [
+    "holy cities",
+    3
+   ],
+   [
+    "music festivals",
+    1
+   ],
+   [
+    "pilgrimage sites",
+    3
+   ]
+  ],
+  "clash": []
+ },
+ "Robin Hood": {
+  "also": [
+   [
+    "archery terms",
+    3
+   ],
+   [
+    "darts terms",
+    4
+   ],
+   [
+    "green things",
+    3
+   ],
+   [
+    "medieval times",
+    1
+   ],
+   [
+    "legendary heroes",
+    1
+   ]
+  ],
+  "clash": []
+ },
+ "Sherwood Forest": {
+  "also": [
+   [
+    "famous natural features",
+    3
+   ],
+   [
+    "famous forests",
+    1
+   ]
+  ],
+  "clash": []
+ },
+ "Nottingham": {
+  "also": [
+   [
+    "british cities",
+    1
+   ]
+  ],
+  "clash": []
+ },
+ "Richard the Lionheart": {
+  "also": [
+   [
+    "crusades",
+    2
+   ],
+   [
+    "english monarchs",
+    2
+   ]
+  ],
+  "clash": []
+ },
+ "longbow": {
+  "also": [
+   [
+    "archery terms",
+    2
+   ],
+   [
+    "historic weapons",
+    2
+   ],
+   [
+    "medieval weapons",
+    2
+   ],
+   [
+    "things made of wood",
+    3
+   ]
+  ],
+  "clash": []
+ },
+ "Lincoln green": {
+  "also": [
+   [
+    "shades of green",
+    4
+   ]
+  ],
+  "clash": []
+ },
+ "quarterstaff": {
+  "also": [
+   [
+    "historic weapons",
+    3
+   ],
+   [
+    "medieval weapons",
+    3
+   ]
+  ],
+  "clash": []
+ },
+ "golden arrow": {
+  "also": [
+   [
+    "famous trains",
+    4
+   ]
+  ],
+  "clash": [
+   "archery terms"
+  ]
+ },
+ "legend": {
+  "also": [
+   [
+    "book genres",
+    3
+   ],
+   [
+    "hidden body parts",
+    2
+   ],
+   [
+    "map words",
+    1
+   ],
+   [
+    "mythology",
+    1
+   ],
+   [
+    "spy words",
+    4
+   ]
+  ],
+  "clash": []
+ },
+ "myth": {
+  "also": [
+   [
+    "mythology",
+    1
+   ],
+   [
+    "no vowels",
+    1
+   ]
+  ],
+  "clash": []
+ },
+ "trickster": {
+  "also": [
+   [
+    "mythology",
+    3
+   ],
+   [
+    "troublemakers",
+    2
+   ]
+  ],
+  "clash": []
+ },
+ "Krampus": {
+  "also": [
+   [
+    "christmas",
+    3
+   ],
+   [
+    "things with horns",
+    4
+   ]
+  ],
+  "clash": []
+ },
+ "Befana": {
+  "also": [
+   [
+    "christmas",
+    4
+   ]
+  ],
+  "clash": []
+ },
+ "Golem": {
+  "also": [
+   [
+    "mythical creatures",
+    2
+   ]
+  ],
+  "clash": []
+ },
+ "Dybbuk": {
+  "also": [
+   [
+    "angels and spirits",
+    4
+   ]
+  ],
+  "clash": [
+   "judaism words"
+  ]
+ },
+ "Pied Piper": {
+  "also": [
+   [
+    "fairy tale characters",
+    2
+   ],
+   [
+    "fairy tales",
+    2
+   ]
+  ],
+  "clash": []
+ },
+ "Jack Frost": {
+  "also": [
+   [
+    "cold things",
+    3
+   ],
+   [
+    "snow and ice",
+    2
+   ]
+  ],
+  "clash": []
+ },
+ "bogeyman": {
+  "also": [
+   [
+    "mythical creatures",
+    2
+   ]
+  ],
+  "clash": [
+   "halloween"
+  ]
+ },
+ "Sandman": {
+  "also": [
+   [
+    "sleep words",
+    3
+   ]
+  ],
+  "clash": [
+   "dream words"
+  ]
+ },
+ "Easter Bunny": {
+  "also": [
+   [
+    "easter",
+    1
+   ]
+  ],
+  "clash": []
+ },
+ "Father Christmas": {
+  "also": [
+   [
+    "british english words",
+    2
+   ],
+   [
+    "christmas",
+    1
+   ]
+  ],
+  "clash": []
+ },
+ "tomte": {
+  "also": [
+   [
+    "mythical creatures",
+    4
+   ]
+  ],
+  "clash": [
+   "christmas",
+   "fairy folk"
+  ]
+ },
+ "nisse": {
+  "also": [
+   [
+    "mythical creatures",
+    4
+   ]
+  ],
+  "clash": [
+   "christmas",
+   "fairy folk"
+  ]
+ },
+ "huldra": {
+  "also": [
+   [
+    "mythical creatures",
+    4
+   ]
+  ],
+  "clash": []
+ },
+ "Mother Goose": {
+  "also": [
+   [
+    "fairy tale characters",
+    2
+   ]
+  ],
+  "clash": []
+ },
+ "Faust": {
+  "also": [
+   [
+    "famous operas",
+    3
+   ]
+  ],
+  "clash": []
+ },
+ "Flying Dutchman": {
+  "also": [
+   [
+    "famous operas",
+    3
+   ],
+   [
+    "famous ships",
+    2
+   ],
+   [
+    "pirate ships",
+    1
+   ]
+  ],
+  "clash": []
+ },
+ "Rumpelstiltskin": {
+  "also": [
+   [
+    "fairy tale characters",
+    2
+   ],
+   [
+    "fairy tales",
+    2
+   ]
+  ],
+  "clash": []
+ },
+ "Bigfoot": {
+  "also": [
+   [
+    "cryptids",
+    1
+   ]
+  ],
+  "clash": []
+ },
+ "Loch Ness Monster": {
+  "also": [
+   [
+    "cryptids",
+    1
+   ]
+  ],
+  "clash": [
+   "sea monsters"
+  ]
+ },
+ "Puss in Boots": {
+  "also": [
+   [
+    "fairy tale characters",
+    2
+   ],
+   [
+    "fairy tales",
+    2
+   ]
+  ],
+  "clash": []
+ },
+ "Tom Thumb": {
+  "also": [
+   [
+    "fairy tale characters",
+    2
+   ],
+   [
+    "fairy tales",
+    2
+   ],
+   [
+    "famous locomotives",
+    3
+   ],
+   [
+    "tiny things",
+    2
+   ]
+  ],
+  "clash": []
+ },
+ "Jack and the Beanstalk": {
+  "also": [
+   [
+    "fairy tales",
+    1
+   ]
+  ],
+  "clash": []
+ },
+ "Hansel and Gretel": {
+  "also": [
+   [
+    "fairy tales",
+    1
+   ],
+   [
+    "famous operas",
+    3
+   ]
+  ],
+  "clash": []
+ },
+ "Red Riding Hood": {
+  "also": [
+   [
+    "fairy tale characters",
+    1
+   ],
+   [
+    "fairy tales",
+    1
+   ]
+  ],
+  "clash": []
+ },
+ "Cinderella": {
+  "also": [
+   [
+    "fairy tale characters",
+    1
+   ],
+   [
+    "fairy tales",
+    1
+   ],
+   [
+    "famous ballets",
+    3
+   ],
+   [
+    "tournament words",
+    3
+   ]
+  ],
+  "clash": []
+ },
+ "Snow White": {
+  "also": [
+   [
+    "colors",
+    3
+   ],
+   [
+    "fairy tale characters",
+    1
+   ],
+   [
+    "fairy tales",
+    1
+   ],
+   [
+    "white things",
+    2
+   ]
+  ],
+  "clash": []
+ },
+ "Rapunzel": {
+  "also": [
+   [
+    "fairy tale characters",
+    1
+   ],
+   [
+    "fairy tales",
+    1
+   ]
+  ],
+  "clash": []
+ },
+ "Bluebeard": {
+  "also": [
+   [
+    "fairy tale characters",
+    3
+   ],
+   [
+    "fairy tales",
+    3
+   ]
+  ],
+  "clash": []
+ },
+ "jack-o'-lantern": {
+  "also": [
+   [
+    "halloween",
+    1
+   ],
+   [
+    "things that glow",
+    2
+   ]
+  ],
+  "clash": []
+ },
+ "Brothers Grimm": {
+  "also": [
+   [
+    "children's authors",
+    2
+   ]
+  ],
+  "clash": []
+ },
+ "Goldilocks": {
+  "also": [
+   [
+    "fairy tale characters",
+    1
+   ],
+   [
+    "fairy tales",
+    1
+   ]
+  ],
+  "clash": []
+ },
+ "Little Red Riding Hood": {
+  "also": [
+   [
+    "red things",
+    2
+   ],
+   [
+    "fairy tales",
+    1
+   ],
+   [
+    "fairy tale characters",
+    1
+   ]
+  ],
+  "clash": []
+ },
+ "Tanabata": {
+  "also": [
+   [
+    "festivals of the world",
+    4
+   ]
+  ],
+  "clash": []
+ },
+ "maneki-neko": {
+  "also": [
+   [
+    "japanese home",
+    3
+   ],
+   [
+    "japanese souvenirs",
+    3
+   ]
+  ],
+  "clash": []
+ },
+ "Ebisu": {
+  "also": [
+   [
+    "shinto kami",
+    3
+   ]
+  ],
+  "clash": []
+ },
+ "Benzaiten": {
+  "also": [
+   [
+    "shinto kami",
+    3
+   ]
+  ],
+  "clash": []
+ },
+ "daruma": {
+  "also": [
+   [
+    "dolls and figures",
+    4
+   ],
+   [
+    "japanese home",
+    4
+   ],
+   [
+    "japanese souvenirs",
+    3
+   ]
+  ],
+  "clash": [
+   "buddhism words"
+  ]
+ },
+ "omamori": {
+  "also": [
+   [
+    "japanese souvenirs",
+    4
+   ]
+  ],
+  "clash": []
+ },
+ "Susanoo": {
+  "also": [
+   [
+    "shinto kami",
+    2
+   ]
+  ],
+  "clash": []
+ },
+ "Amaterasu": {
+  "also": [
+   [
+    "shinto kami",
+    2
+   ]
+  ],
+  "clash": []
+ },
+ "koinobori": {
+  "also": [
+   [
+    "japanese souvenirs",
+    5
+   ]
+  ],
+  "clash": []
+ },
+ "Tsukimi": {
+  "also": [
+   [
+    "mid-autumn festival",
+    4
+   ]
+  ],
+  "clash": []
+ },
+ "Bon Odori": {
+  "also": [
+   [
+    "asian dances",
+    4
+   ]
+  ],
+  "clash": []
+ },
+ "kitsune": {
+  "also": [
+   [
+    "japanese animals",
+    4
+   ],
+   [
+    "shapeshifters",
+    2
+   ]
+  ],
+  "clash": [
+   "wild dogs and foxes"
+  ]
+ },
+ "tanuki": {
+  "also": [
+   [
+    "japanese animals",
+    3
+   ],
+   [
+    "shapeshifters",
+    3
+   ],
+   [
+    "words from japanese",
+    5
+   ]
+  ],
+  "clash": []
+ },
+ "kappa": {
+  "also": [
+   [
+    "greek letters",
+    2
+   ],
+   [
+    "mythical creatures",
+    3
+   ]
+  ],
+  "clash": []
+ },
+ "tengu": {
+  "also": [
+   [
+    "winged beasts",
+    3
+   ]
+  ],
+  "clash": []
+ },
+ "oni": {
+  "also": [
+   [
+    "mythical creatures",
+    3
+   ]
+  ],
+  "clash": []
+ },
+ "bakeneko": {
+  "also": [
+   [
+    "shapeshifters",
+    4
+   ]
+  ],
+  "clash": []
+ },
+ "baku": {
+  "also": [
+   [
+    "capital cities",
+    3
+   ],
+   [
+    "mythical creatures",
+    4
+   ]
+  ],
+  "clash": []
+ },
+ "nurikabe": {
+  "also": [
+   [
+    "logic puzzles",
+    5
+   ]
+  ],
+  "clash": []
+ },
+ "kodama": {
+  "also": [
+   [
+    "high-speed trains",
+    5
+   ]
+  ],
+  "clash": []
+ },
+ "mujina": {
+  "also": [
+   [
+    "shapeshifters",
+    4
+   ]
+  ],
+  "clash": []
+ },
+ "banshee": {
+  "also": [
+   [
+    "angels and spirits",
+    2
+   ],
+   [
+    "halloween",
+    3
+   ],
+   [
+    "mythical creatures",
+    2
+   ]
+  ],
+  "clash": []
+ },
+ "selkie": {
+  "also": [
+   [
+    "shapeshifters",
+    2
+   ]
+  ],
+  "clash": [
+   "fairy folk"
+  ]
+ },
+ "kelpie": {
+  "also": [
+   [
+    "herding dogs",
+    3
+   ],
+   [
+    "shapeshifters",
+    2
+   ]
+  ],
+  "clash": [
+   "horses"
+  ]
+ },
+ "pooka": {
+  "also": [
+   [
+    "shapeshifters",
+    3
+   ]
+  ],
+  "clash": [
+   "fairy folk"
+  ]
+ },
+ "Oisín": {
+  "also": [
+   [
+    "irish names",
+    1
+   ]
+  ],
+  "clash": []
+ },
+ "Morrígan": {
+  "also": [
+   [
+    "celtic gods",
+    2
+   ],
+   [
+    "celts",
+    3
+   ]
+  ],
+  "clash": []
+ },
+ "Brigid": {
+  "also": [
+   [
+    "celtic gods",
+    2
+   ],
+   [
+    "celts",
+    3
+   ],
+   [
+    "famous saints",
+    3
+   ],
+   [
+    "irish names",
+    2
+   ]
+  ],
+  "clash": []
+ },
+ "Dagda": {
+  "also": [
+   [
+    "celtic gods",
+    2
+   ],
+   [
+    "celts",
+    4
+   ]
+  ],
+  "clash": []
+ },
+ "Lugh": {
+  "also": [
+   [
+    "celtic gods",
+    2
+   ],
+   [
+    "celts",
+    4
+   ]
+  ],
+  "clash": []
+ },
+ "Cernunnos": {
+  "also": [
+   [
+    "celtic gods",
+    2
+   ],
+   [
+    "celts",
+    3
+   ]
+  ],
+  "clash": []
+ },
+ "Nuada": {
+  "also": [
+   [
+    "celtic gods",
+    3
+   ]
+  ],
+  "clash": []
+ },
+ "Balor": {
+  "also": [
+   [
+    "celtic gods",
+    3
+   ]
+  ],
+  "clash": []
+ },
+ "Danu": {
+  "also": [
+   [
+    "celtic gods",
+    2
+   ],
+   [
+    "celts",
+    4
+   ]
+  ],
+  "clash": []
+ },
+ "Deirdre": {
+  "also": [
+   [
+    "irish names",
+    1
+   ]
+  ],
+  "clash": []
+ },
+ "each-uisge": {
+  "also": [
+   [
+    "shapeshifters",
+    4
+   ]
+  ],
+  "clash": []
+ },
+ "Nessie": {
+  "also": [
+   [
+    "cryptids",
+    1
+   ]
+  ],
+  "clash": [
+   "sea monsters"
+  ]
+ },
+ "Rhiannon": {
+  "also": [
+   [
+    "celtic gods",
+    2
+   ]
+  ],
+  "clash": []
+ },
+ "Arawn": {
+  "also": [
+   [
+    "celtic gods",
+    3
+   ]
+  ],
+  "clash": []
+ },
+ "Beltane": {
+  "also": [
+   [
+    "celts",
+    2
+   ],
+   [
+    "festivals of the world",
+    3
+   ],
+   [
+    "religious festivals",
+    3
+   ]
+  ],
+  "clash": [
+   "witchcraft"
+  ]
+ },
+ "Samhain": {
+  "also": [
+   [
+    "celts",
+    2
+   ],
+   [
+    "halloween",
+    3
+   ],
+   [
+    "religious festivals",
+    3
+   ]
+  ],
+  "clash": [
+   "witchcraft"
+  ]
+ },
+ "Imbolc": {
+  "also": [
+   [
+    "celts",
+    3
+   ],
+   [
+    "festivals of the world",
+    4
+   ],
+   [
+    "religious festivals",
+    4
+   ]
+  ],
+  "clash": []
+ },
+ "Lughnasadh": {
+  "also": [
+   [
+    "celts",
+    3
+   ],
+   [
+    "festivals of the world",
+    5
+   ]
+  ],
+  "clash": []
+ },
+ "druid": {
+  "also": [
+   [
+    "celts",
+    1
+   ],
+   [
+    "midsummer",
+    3
+   ],
+   [
+    "religious leaders",
+    3
+   ]
+  ],
+  "clash": [
+   "wizard words"
+  ]
+ },
+ "ogham": {
+  "also": [
+   [
+    "ancient writing",
+    3
+   ],
+   [
+    "celts",
+    3
+   ],
+   [
+    "writing systems",
+    3
+   ]
+  ],
+  "clash": []
+ },
+ "Blarney Stone": {
+  "also": [
+   [
+    "st. patrick's day",
+    3
+   ]
+  ],
+  "clash": []
+ },
+ "Giant's Causeway": {
+  "also": [
+   [
+    "famous natural features",
+    2
+   ],
+   [
+    "landmarks",
+    3
+   ]
+  ],
+  "clash": []
+ },
+ "adze": {
+  "also": [
+   [
+    "artifacts",
+    4
+   ],
+   [
+    "hand tools",
+    4
+   ],
+   [
+    "things that cut",
+    4
+   ]
+  ],
+  "clash": []
+ },
+ "Mokele-mbembe": {
+  "also": [
+   [
+    "cryptids",
+    4
+   ]
+  ],
+  "clash": []
+ },
+ "Baba Yaga": {
+  "also": [
+   [
+    "fairy tale characters",
+    3
+   ],
+   [
+    "mythology",
+    2
+   ]
+  ],
+  "clash": [
+   "witchcraft"
+  ]
+ },
+ "Koschei": {
+  "also": [
+   [
+    "fairy tale characters",
+    4
+   ],
+   [
+    "mythology",
+    4
+   ]
+  ],
+  "clash": []
+ },
+ "firebird": {
+  "also": [
+   [
+    "fairy tale characters",
+    3
+   ],
+   [
+    "fairy tales",
+    3
+   ],
+   [
+    "famous car models",
+    2
+   ],
+   [
+    "winged beasts",
+    3
+   ],
+   [
+    "famous ballets",
+    2
+   ]
+  ],
+  "clash": []
+ },
+ "rusalka": {
+  "also": [
+   [
+    "famous operas",
+    4
+   ]
+  ],
+  "clash": [
+   "fairy folk"
+  ]
+ },
+ "leshy": {
+  "also": [
+   [
+    "shapeshifters",
+    4
+   ]
+  ],
+  "clash": []
+ },
+ "Perun": {
+  "also": [
+   [
+    "mythology",
+    3
+   ]
+  ],
+  "clash": []
+ },
+ "Veles": {
+  "also": [
+   [
+    "mythology",
+    4
+   ]
+  ],
+  "clash": []
+ },
+ "Vasilisa": {
+  "also": [
+   [
+    "fairy tale characters",
+    4
+   ]
+  ],
+  "clash": []
+ },
+ "Alkonost": {
+  "also": [
+   [
+    "winged beasts",
+    5
+   ]
+  ],
+  "clash": []
+ },
+ "Sirin": {
+  "also": [
+   [
+    "winged beasts",
+    4
+   ]
+  ],
+  "clash": []
+ },
+ "Gamayun": {
+  "also": [
+   [
+    "winged beasts",
+    5
+   ]
+  ],
+  "clash": []
+ },
+ "Svarog": {
+  "also": [
+   [
+    "mythology",
+    4
+   ]
+  ],
+  "clash": []
+ },
+ "Dazhbog": {
+  "also": [
+   [
+    "mythology",
+    4
+   ]
+  ],
+  "clash": []
+ },
+ "Mokosh": {
+  "also": [
+   [
+    "mythology",
+    4
+   ]
+  ],
+  "clash": []
+ },
+ "Ded Moroz": {
+  "also": [
+   [
+    "christmas",
+    4
+   ]
+  ],
+  "clash": []
+ },
+ "Stribog": {
+  "also": [
+   [
+    "mythology",
+    4
+   ]
+  ],
+  "clash": []
+ },
+ "Coyote": {
+  "also": [
+   [
+    "city animals",
+    2
+   ],
+   [
+    "desert",
+    2
+   ],
+   [
+    "desert animals",
+    2
+   ],
+   [
+    "north american animals",
+    1
+   ],
+   [
+    "prairie",
+    1
+   ],
+   [
+    "scavengers",
+    3
+   ],
+   [
+    "things with teeth",
+    3
+   ],
+   [
+    "wild dogs and foxes",
+    1
+   ],
+   [
+    "words from nahuatl",
+    2
+   ]
+  ],
+  "clash": []
+ },
+ "Raven": {
+  "also": [
+   [
+    "black things",
+    1
+   ],
+   [
+    "colors",
+    4
+   ],
+   [
+    "scavengers",
+    2
+   ],
+   [
+    "songbirds",
+    1
+   ],
+   [
+    "taiga",
+    2
+   ]
+  ],
+  "clash": []
+ },
+ "thunderbird": {
+  "also": [
+   [
+    "famous car models",
+    2
+   ],
+   [
+    "winged beasts",
+    2
+   ]
+  ],
+  "clash": []
+ },
+ "wendigo": {
+  "also": [
+   [
+    "angels and spirits",
+    4
+   ]
+  ],
+  "clash": [
+   "cryptids"
+  ]
+ },
+ "skinwalker": {
+  "also": [
+   [
+    "shapeshifters",
+    2
+   ]
+  ],
+  "clash": []
+ },
+ "Kokopelli": {
+  "also": [
+   [
+    "mythology",
+    3
+   ]
+  ],
+  "clash": []
+ },
+ "Nanabozho": {
+  "also": [
+   [
+    "mythology",
+    4
+   ]
+  ],
+  "clash": []
+ },
+ "dreamcatcher": {
+  "also": [
+   [
+    "dream words",
+    2
+   ],
+   [
+    "home decor",
+    3
+   ],
+   [
+    "souvenirs",
+    3
+   ]
+  ],
+  "clash": []
+ },
+ "totem pole": {
+  "also": [
+   [
+    "museum",
+    3
+   ],
+   [
+    "tall things",
+    2
+   ],
+   [
+    "things made of wood",
+    2
+   ]
+  ],
+  "clash": []
+ },
+ "kachina": {
+  "also": [
+   [
+    "angels and spirits",
+    4
+   ]
+  ],
+  "clash": []
+ },
+ "Sedna": {
+  "also": [
+   [
+    "mythology",
+    4
+   ],
+   [
+    "space rocks",
+    4
+   ]
+  ],
+  "clash": []
+ },
+ "Piasa": {
+  "also": [
+   [
+    "winged beasts",
+    5
+   ]
+  ],
+  "clash": []
+ },
+ "Wakan Tanka": {
+  "also": [
+   [
+    "mythology",
+    4
+   ]
+  ],
+  "clash": []
+ },
+ "medicine wheel": {
+  "also": [
+   [
+    "native american remedies",
+    3
+   ]
+  ],
+  "clash": []
+ },
+ "Sasquatch": {
+  "also": [
+   [
+    "cryptids",
+    2
+   ],
+   [
+    "music festivals",
+    4
+   ],
+   [
+    "words from native american languages",
+    3
+   ]
+  ],
+  "clash": []
+ },
+ "Kushtaka": {
+  "also": [
+   [
+    "shapeshifters",
+    4
+   ]
+  ],
+  "clash": []
+ },
+ "Manitou": {
+  "also": [
+   [
+    "angels and spirits",
+    4
+   ]
+  ],
+  "clash": []
+ },
+ "chupacabra": {
+  "also": [
+   [
+    "cryptids",
+    2
+   ]
+  ],
+  "clash": []
+ },
+ "boto": {
+  "also": [
+   [
+    "amazon animals",
+    4
+   ],
+   [
+    "sea mammals",
+    5
+   ],
+   [
+    "whales and dolphins",
+    5
+   ],
+   [
+    "shapeshifters",
+    4
+   ]
+  ],
+  "clash": []
+ },
+ "Mapinguari": {
+  "also": [
+   [
+    "cryptids",
+    5
+   ]
+  ],
+  "clash": []
+ },
+ "nahual": {
+  "also": [
+   [
+    "shapeshifters",
+    4
+   ]
+  ],
+  "clash": []
+ },
+ "duende": {
+  "also": [
+   [
+    "mythical creatures",
+    4
+   ]
+  ],
+  "clash": [
+   "fairy folk"
+  ]
+ },
+ "Ekeko": {
+  "also": [
+   [
+    "inca gods",
+    4
+   ]
+  ],
+  "clash": []
+ },
+ "Pachamama": {
+  "also": [
+   [
+    "andes",
+    3
+   ],
+   [
+    "inca empire",
+    3
+   ],
+   [
+    "inca gods",
+    2
+   ]
+  ],
+  "clash": []
+ },
+ "Mohan": {
+  "also": [
+   [
+    "indian names",
+    2
+   ]
+  ],
+  "clash": []
+ },
+ "Karagöz": {
+  "also": [
+   [
+    "puppets",
+    4
+   ],
+   [
+    "turkish arts",
+    4
+   ],
+   [
+    "turkish souvenirs",
+    5
+   ]
+  ],
+  "clash": []
+ },
+ "Hacivat": {
+  "also": [
+   [
+    "puppets",
+    5
+   ],
+   [
+    "turkish arts",
+    4
+   ]
+  ],
+  "clash": []
+ },
+ "Tengri": {
+  "also": [
+   [
+    "mythology",
+    4
+   ]
+  ],
+  "clash": []
+ },
+ "meddah": {
+  "also": [
+   [
+    "turkish arts",
+    5
+   ]
+  ],
+  "clash": []
+ },
+ "Aladdin": {
+  "also": [
+   [
+    "fairy tale characters",
+    2
+   ],
+   [
+    "fairy tales",
+    2
+   ]
+  ],
+  "clash": []
+ },
+ "Ali Baba": {
+  "also": [
+   [
+    "fairy tale characters",
+    2
+   ],
+   [
+    "fairy tales",
+    2
+   ]
+  ],
+  "clash": []
+ },
+ "Sinbad": {
+  "also": [
+   [
+    "fairy tale characters",
+    2
+   ],
+   [
+    "fairy tales",
+    2
+   ],
+   [
+    "famous voyages",
+    2
+   ]
+  ],
+  "clash": []
+ },
+ "Scheherazade": {
+  "also": [
+   [
+    "famous ballets",
+    4
+   ]
+  ],
+  "clash": []
+ },
+ "genie": {
+  "also": [
+   [
+    "angels and spirits",
+    2
+   ],
+   [
+    "fairy tale characters",
+    2
+   ],
+   [
+    "mythical creatures",
+    1
+   ],
+   [
+    "words from arabic",
+    2
+   ]
+  ],
+  "clash": []
+ },
+ "roc": {
+  "also": [
+   [
+    "winged beasts",
+    3
+   ]
+  ],
+  "clash": []
+ },
+ "jinn": {
+  "also": [
+   [
+    "angels and spirits",
+    3
+   ],
+   [
+    "words from arabic",
+    3
+   ]
+  ],
+  "clash": []
+ },
+ "ifrit": {
+  "also": [
+   [
+    "angels and spirits",
+    4
+   ]
+  ],
+  "clash": []
+ },
+ "Baghdad": {
+  "also": [
+   [
+    "asian capitals",
+    1
+   ],
+   [
+    "middle eastern cities",
+    1
+   ],
+   [
+    "silk road",
+    3
+   ],
+   [
+    "silk road cities",
+    3
+   ]
+  ],
+  "clash": []
+ },
+ "Basra": {
+  "also": [
+   [
+    "middle eastern cities",
+    2
+   ],
+   [
+    "middle eastern pastimes",
+    5
+   ],
+   [
+    "port cities",
+    3
+   ]
+  ],
+  "clash": []
+ },
+ "caliph": {
+  "also": [
+   [
+    "ottoman empire",
+    3
+   ],
+   [
+    "religious leaders",
+    3
+   ],
+   [
+    "royal titles",
+    3
+   ],
+   [
+    "words from arabic",
+    4
+   ]
+  ],
+  "clash": []
+ },
+ "vizier": {
+  "also": [
+   [
+    "ancient egypt",
+    3
+   ],
+   [
+    "ottoman titles",
+    2
+   ],
+   [
+    "words from turkish",
+    4
+   ]
+  ],
+  "clash": []
+ },
+ "sultan": {
+  "also": [
+   [
+    "ottoman empire",
+    1
+   ],
+   [
+    "ottoman titles",
+    1
+   ],
+   [
+    "words from arabic",
+    3
+   ]
+  ],
+  "clash": []
+ },
+ "bazaar": {
+  "also": [
+   [
+    "hindi everyday words",
+    2
+   ],
+   [
+    "middle eastern buildings",
+    1
+   ],
+   [
+    "silk road",
+    2
+   ],
+   [
+    "tourist attractions",
+    2
+   ],
+   [
+    "turkish travel words",
+    1
+   ],
+   [
+    "words from persian",
+    2
+   ]
+  ],
+  "clash": []
+ },
+ "Rainbow Serpent": {
+  "also": [
+   [
+    "aboriginal culture",
+    3
+   ],
+   [
+    "pacific art words",
+    3
+   ]
+  ],
+  "clash": []
+ },
+ "bunyip": {
+  "also": [
+   [
+    "cryptids",
+    3
+   ]
+  ],
+  "clash": []
+ },
+ "yowie": {
+  "also": [
+   [
+    "cryptids",
+    3
+   ]
+  ],
+  "clash": []
+ },
+ "Baiame": {
+  "also": [
+   [
+    "aboriginal culture",
+    5
+   ]
+  ],
+  "clash": []
+ },
+ "Bunjil": {
+  "also": [
+   [
+    "aboriginal culture",
+    5
+   ]
+  ],
+  "clash": []
+ },
+ "Wandjina": {
+  "also": [
+   [
+    "aboriginal culture",
+    4
+   ],
+   [
+    "pacific art words",
+    4
+   ]
+  ],
+  "clash": []
+ },
+ "Dreamtime": {
+  "also": [
+   [
+    "aboriginal culture",
+    2
+   ],
+   [
+    "dream words",
+    4
+   ],
+   [
+    "outback",
+    3
+   ],
+   [
+    "pacific art words",
+    3
+   ]
+  ],
+  "clash": []
+ },
+ "songline": {
+  "also": [
+   [
+    "pacific art words",
+    4
+   ]
+  ],
+  "clash": []
+ },
+ "Uluru": {
+  "also": [
+   [
+    "aboriginal culture",
+    2
+   ],
+   [
+    "australian landmarks",
+    1
+   ],
+   [
+    "famous natural features",
+    2
+   ],
+   [
+    "landmarks",
+    2
+   ],
+   [
+    "national parks",
+    3
+   ],
+   [
+    "outback",
+    1
+   ],
+   [
+    "outback travel",
+    2
+   ]
+  ],
+  "clash": []
+ },
+ "Kata Tjuta": {
+  "also": [
+   [
+    "aboriginal culture",
+    4
+   ],
+   [
+    "australian landmarks",
+    3
+   ],
+   [
+    "outback",
+    3
+   ]
+  ],
+  "clash": []
+ },
+ "Mimi spirits": {
+  "also": [
+   [
+    "pacific art words",
+    5
+   ]
+  ],
+  "clash": []
+ },
+ "corroboree": {
+  "also": [
+   [
+    "aboriginal culture",
+    3
+   ],
+   [
+    "folk dances",
+    4
+   ]
+  ],
+  "clash": []
+ },
+ "walkabout": {
+  "also": [
+   [
+    "aboriginal culture",
+    2
+   ],
+   [
+    "journeys",
+    3
+   ]
+  ],
+  "clash": []
+ },
+ "Emu in the Sky": {
+  "also": [
+   [
+    "southern sky",
+    4
+   ]
+  ],
+  "clash": []
+ },
+ "Widowmaker": {
+  "also": [
+   [
+    "things that fall from trees",
+    4
+   ]
+  ],
+  "clash": []
+ },
+ "jackalope": {
+  "also": [
+   [
+    "cryptids",
+    3
+   ],
+   [
+    "portmanteau words",
+    4
+   ]
+  ],
+  "clash": []
+ },
+ "hodag": {
+  "also": [
+   [
+    "cryptids",
+    4
+   ]
+  ],
+  "clash": []
+ },
+ "snipe": {
+  "also": [
+   [
+    "___fly",
+    3
+   ],
+   [
+    "game birds",
+    3
+   ],
+   [
+    "game meats",
+    3
+   ],
+   [
+    "wading birds",
+    3
+   ]
+  ],
+  "clash": []
+ },
+ "wampus cat": {
+  "also": [
+   [
+    "cryptids",
+    4
+   ]
+  ],
+  "clash": []
+ },
+ "Headless Horseman": {
+  "also": [
+   [
+    "halloween",
+    2
+   ]
+  ],
+  "clash": [
+   "ghosts and spirits"
+  ]
+ },
+ "Calamity Jane": {
+  "also": [
+   [
+    "famous women in history",
+    2
+   ]
+  ],
+  "clash": []
+ },
+ "ghost": {
+  "also": [
+   [
+    "angels and spirits",
+    1
+   ],
+   [
+    "gen z slang",
+    1
+   ],
+   [
+    "halloween",
+    1
+   ],
+   [
+    "letters in alphabetical order",
+    1
+   ],
+   [
+    "quiet things",
+    3
+   ],
+   [
+    "silent letter words",
+    2
+   ],
+   [
+    "white things",
+    1
+   ]
+  ],
+  "clash": []
+ },
+ "spirit": {
+  "also": [
+   [
+    "angels and spirits",
+    1
+   ],
+   [
+    "day of the dead",
+    2
+   ],
+   [
+    "robots",
+    5
+   ],
+   [
+    "space missions",
+    4
+   ]
+  ],
+  "clash": [
+   "spirits"
+  ]
+ },
+ "phantom": {
+  "also": [
+   [
+    "angels and spirits",
+    2
+   ],
+   [
+    "famous car models",
+    3
+   ],
+   [
+    "halloween",
+    3
+   ]
+  ],
+  "clash": []
+ },
+ "specter": {
+  "also": [
+   [
+    "angels and spirits",
+    2
+   ],
+   [
+    "halloween",
+    3
+   ]
+  ],
+  "clash": []
+ },
+ "poltergeist": {
+  "also": [
+   [
+    "angels and spirits",
+    2
+   ],
+   [
+    "halloween",
+    3
+   ],
+   [
+    "words from german",
+    2
+   ]
+  ],
+  "clash": []
+ },
+ "apparition": {
+  "also": [
+   [
+    "angels and spirits",
+    2
+   ]
+  ],
+  "clash": []
+ },
+ "spook": {
+  "also": [
+   [
+    "angels and spirits",
+    3
+   ],
+   [
+    "halloween",
+    2
+   ],
+   [
+    "words from dutch",
+    3
+   ]
+  ],
+  "clash": []
+ },
+ "shade": {
+  "also": [
+   [
+    "color terms",
+    1
+   ],
+   [
+    "color theory words",
+    2
+   ],
+   [
+    "light words",
+    2
+   ],
+   [
+    "oasis",
+    1
+   ],
+   [
+    "painting words",
+    2
+   ],
+   [
+    "sun___",
+    2
+   ]
+  ],
+  "clash": []
+ },
+ "ectoplasm": {
+  "also": [
+   [
+    "halloween",
+    4
+   ]
+  ],
+  "clash": []
+ },
+ "séance": {
+  "also": [
+   [
+    "halloween",
+    3
+   ]
+  ],
+  "clash": []
+ },
+ "medium": {
+  "also": [
+   [
+    "size labels",
+    1
+   ]
+  ],
+  "clash": []
+ },
+ "Ouija board": {
+  "also": [
+   [
+    "halloween",
+    2
+   ]
+  ],
+  "clash": [
+   "board games"
+  ]
+ },
+ "orb": {
+  "also": [
+   [
+    "royal things",
+    2
+   ]
+  ],
+  "clash": []
+ },
+ "White Lady": {
+  "also": [
+   [
+    "cocktails",
+    4
+   ]
+  ],
+  "clash": []
+ },
+ "Bloody Mary": {
+  "also": [
+   [
+    "cocktails",
+    1
+   ],
+   [
+    "words named after people",
+    3
+   ]
+  ],
+  "clash": []
+ },
+ "doppelgänger": {
+  "also": [
+   [
+    "words from german",
+    3
+   ]
+  ],
+  "clash": []
+ },
+ "phantasm": {
+  "also": [
+   [
+    "angels and spirits",
+    4
+   ]
+  ],
+  "clash": []
+ },
+ "ghost ship": {
+  "also": [
+   [
+    "shipwreck coast words",
+    3
+   ]
+  ],
+  "clash": []
+ },
+ "haunted house": {
+  "also": [
+   [
+    "fairground rides",
+    2
+   ],
+   [
+    "halloween",
+    1
+   ]
+  ],
+  "clash": []
+ },
+ "ghost light": {
+  "also": [
+   [
+    "parts of a stage",
+    4
+   ]
+  ],
+  "clash": []
+ },
+ "possession": {
+  "also": [
+   [
+    "double letters",
+    2
+   ]
+  ],
+  "clash": []
+ },
+ "preta": {
+  "also": [
+   [
+    "angels and spirits",
+    5
+   ]
+  ],
+  "clash": []
+ },
+ "duppy": {
+  "also": [
+   [
+    "angels and spirits",
+    5
+   ]
+  ],
+  "clash": []
+ },
+ "black cat": {
+  "also": [
+   [
+    "black things",
+    1
+   ],
+   [
+    "halloween",
+    1
+   ]
+  ],
+  "clash": [
+   "witchcraft"
+  ]
+ },
+ "horseshoe": {
+  "also": [
+   [
+    "horse riding words",
+    2
+   ],
+   [
+    "horses",
+    1
+   ],
+   [
+    "sports equipment",
+    2
+   ],
+   [
+    "things that rust",
+    2
+   ]
+  ],
+  "clash": []
+ },
+ "four-leaf clover": {
+  "also": [
+   [
+    "green things",
+    2
+   ],
+   [
+    "st. patrick's day",
+    2
+   ]
+  ],
+  "clash": []
+ },
+ "wishbone": {
+  "also": [
+   [
+    "american football terms",
+    4
+   ],
+   [
+    "bird body parts",
+    2
+   ],
+   [
+    "thanksgiving",
+    2
+   ]
+  ],
+  "clash": []
+ },
+ "crossed fingers": {
+  "also": [
+   [
+    "gestures",
+    2
+   ]
+  ],
+  "clash": []
+ },
+ "evil eye": {
+  "also": [
+   [
+    "bazaar",
+    2
+   ],
+   [
+    "turkish home",
+    1
+   ],
+   [
+    "turkish souvenirs",
+    2
+   ]
+  ],
+  "clash": []
+ },
+ "shooting star": {
+  "also": [
+   [
+    "fast things",
+    2
+   ],
+   [
+    "sky phenomena",
+    2
+   ],
+   [
+    "space rocks",
+    1
+   ]
+  ],
+  "clash": []
+ },
+ "triskaidekaphobia": {
+  "also": [
+   [
+    "phobias",
+    3
+   ]
+  ],
+  "clash": []
+ },
+ "omen": {
+  "also": [
+   [
+    "mythology",
+    3
+   ]
+  ],
+  "clash": []
+ },
+ "talisman": {
+  "also": [
+   [
+    "board games",
+    4
+   ],
+   [
+    "words from arabic",
+    4
+   ]
+  ],
+  "clash": [
+   "magic items"
+  ]
+ },
+ "amulet": {
+  "also": [
+   [
+    "artifacts",
+    2
+   ],
+   [
+    "egyptian afterlife",
+    3
+   ],
+   [
+    "jewelry",
+    3
+   ],
+   [
+    "treasure",
+    3
+   ]
+  ],
+  "clash": [
+   "magic items"
+  ]
+ },
+ "magpie": {
+  "also": [
+   [
+    "australian backyard",
+    2
+   ],
+   [
+    "black and white animals",
+    2
+   ],
+   [
+    "british wildlife",
+    2
+   ],
+   [
+    "city animals",
+    2
+   ],
+   [
+    "garden birds",
+    1
+   ],
+   [
+    "songbirds",
+    1
+   ],
+   [
+    "things that fly",
+    2
+   ]
+  ],
+  "clash": []
+ },
+ "hamsa": {
+  "also": [
+   [
+    "bazaar",
+    3
+   ],
+   [
+    "moroccan souvenirs",
+    3
+   ],
+   [
+    "symbols",
+    4
+   ]
+  ],
+  "clash": []
+ },
+ "nazar": {
+  "also": [
+   [
+    "bazaar",
+    3
+   ],
+   [
+    "turkish everyday words",
+    3
+   ],
+   [
+    "turkish home",
+    3
+   ],
+   [
+    "turkish souvenirs",
+    3
+   ],
+   [
+    "turkish travel words",
+    4
+   ]
+  ],
+  "clash": []
+ },
+ "Enlightenment": {
+  "also": [
+   [
+    "buddhism words",
+    2
+   ]
+  ],
+  "clash": []
+ },
+ "Belle Époque": {
+  "also": [
+   [
+    "french phrases in english",
+    3
+   ]
+  ],
+  "clash": []
+ },
+ "Regency": {
+  "also": [
+   [
+    "architecture styles",
+    3
+   ],
+   [
+    "house styles",
+    3
+   ],
+   [
+    "types of government",
+    3
+   ]
+  ],
+  "clash": []
+ },
+ "Cold War": {
+  "also": [
+   [
+    "military",
+    2
+   ]
+  ],
+  "clash": [
+   "cold war"
+  ]
+ },
+ "Baroque": {
+  "also": [
+   [
+    "architecture styles",
+    2
+   ],
+   [
+    "art movements",
+    2
+   ]
+  ],
+  "clash": []
+ },
+ "Restoration": {
+  "also": [
+   [
+    "conservation words",
+    3
+   ],
+   [
+    "museum",
+    3
+   ]
+  ],
+  "clash": []
+ },
+ "Warring States": {
+  "also": [
+   [
+    "ancient china",
+    3
+   ]
+  ],
+  "clash": []
+ },
+ "Spring and Autumn": {
+  "also": [
+   [
+    "ancient china",
+    4
+   ]
+  ],
+  "clash": []
+ },
+ "Three Kingdoms": {
+  "also": [
+   [
+    "ancient china",
+    3
+   ]
+  ],
+  "clash": []
+ },
+ "Hellenistic": {
+  "also": [
+   [
+    "ancient greece",
+    3
+   ]
+  ],
+  "clash": []
+ },
+ "Pax Romana": {
+  "also": [
+   [
+    "latin phrases",
+    3
+   ],
+   [
+    "ancient rome",
+    3
+   ]
+  ],
+  "clash": []
+ },
+ "Crusades": {
+  "also": [
+   [
+    "crusades",
+    1
+   ],
+   [
+    "wars and battles",
+    1
+   ]
+  ],
+  "clash": []
+ },
+ "Jacobean": {
+  "also": [
+   [
+    "architecture styles",
+    4
+   ]
+  ],
+  "clash": []
+ },
+ "Norman Conquest": {
+  "also": [
+   [
+    "medieval times",
+    3
+   ],
+   [
+    "wars and battles",
+    2
+   ]
+  ],
+  "clash": []
+ },
+ "Stone Age": {
+  "also": [
+   [
+    "prehistoric periods",
+    1
+   ]
+  ],
+  "clash": [
+   "stone age"
+  ]
+ },
+ "Bronze Age": {
+  "also": [
+   [
+    "prehistoric periods",
+    2
+   ]
+  ],
+  "clash": [
+   "bronze age"
+  ]
+ },
+ "Iron Age": {
+  "also": [
+   [
+    "prehistoric periods",
+    2
+   ]
+  ],
+  "clash": []
+ },
+ "Middle Ages": {
+  "also": [
+   [
+    "medieval times",
+    1
+   ]
+  ],
+  "clash": []
+ },
+ "Dark Ages": {
+  "also": [
+   [
+    "medieval times",
+    2
+   ]
+  ],
+  "clash": []
+ },
+ "Ice Age": {
+  "also": [
+   [
+    "climate words",
+    3
+   ],
+   [
+    "earth science",
+    2
+   ],
+   [
+    "ice words",
+    1
+   ],
+   [
+    "prehistoric periods",
+    1
+   ],
+   [
+    "stone age",
+    2
+   ]
+  ],
+  "clash": []
+ },
+ "Paleolithic": {
+  "also": [
+   [
+    "prehistoric periods",
+    3
+   ],
+   [
+    "stone age",
+    2
+   ]
+  ],
+  "clash": []
+ },
+ "Neolithic": {
+  "also": [
+   [
+    "prehistoric periods",
+    3
+   ],
+   [
+    "stone age",
+    2
+   ]
+  ],
+  "clash": []
+ },
+ "Mesolithic": {
+  "also": [
+   [
+    "prehistoric periods",
+    4
+   ],
+   [
+    "stone age",
+    3
+   ]
+  ],
+  "clash": []
+ },
+ "Copper Age": {
+  "also": [
+   [
+    "prehistoric periods",
+    4
+   ]
+  ],
+  "clash": []
+ },
+ "Chalcolithic": {
+  "also": [
+   [
+    "prehistoric periods",
+    5
+   ]
+  ],
+  "clash": []
+ },
+ "Space Age": {
+  "also": [
+   [
+    "space",
+    2
+   ]
+  ],
+  "clash": []
+ },
+ "Age of Discovery": {
+  "also": [
+   [
+    "exploration",
+    3
+   ]
+  ],
+  "clash": []
+ },
+ "Golden Age": {
+  "also": [
+   [
+    "comic book words",
+    4
+   ],
+   [
+    "hip hop words",
+    3
+   ]
+  ],
+  "clash": []
+ },
+ "antiquity": {
+  "also": [
+   [
+    "archaeology words",
+    2
+   ],
+   [
+    "museum",
+    3
+   ],
+   [
+    "time",
+    3
+   ]
+  ],
+  "clash": []
+ },
+ "prehistory": {
+  "also": [
+   [
+    "archaeology words",
+    2
+   ],
+   [
+    "time",
+    3
+   ]
+  ],
+  "clash": []
+ },
+ "Heroic Age": {
+  "also": [
+   [
+    "polar exploration",
+    4
+   ]
+  ],
+  "clash": []
+ },
+ "Russian": {
+  "also": [
+   [
+    "nationalities",
+    1
+   ],
+   [
+    "salad dressings",
+    3
+   ],
+   [
+    "school subjects",
+    2
+   ],
+   [
+    "slavic languages",
+    1
+   ]
+  ],
+  "clash": []
+ },
+ "Glorious": {
+  "also": [
+   [
+    "words for good",
+    2
+   ]
+  ],
+  "clash": []
+ },
+ "Cuban": {
+  "also": [
+   [
+    "nationalities",
+    2
+   ],
+   [
+    "sandwiches",
+    2
+   ]
+  ],
+  "clash": []
+ },
+ "Chinese": {
+  "also": [
+   [
+    "nationalities",
+    1
+   ],
+   [
+    "school subjects",
+    2
+   ]
+  ],
+  "clash": []
+ },
+ "Haitian": {
+  "also": [
+   [
+    "nationalities",
+    2
+   ]
+  ],
+  "clash": []
+ },
+ "Iranian": {
+  "also": [
+   [
+    "nationalities",
+    1
+   ]
+  ],
+  "clash": []
+ },
+ "Mexican": {
+  "also": [
+   [
+    "nationalities",
+    1
+   ]
+  ],
+  "clash": []
+ },
+ "Velvet": {
+  "also": [
+   [
+    "animal coverings",
+    4
+   ],
+   [
+    "fabrics",
+    1
+   ],
+   [
+    "soft materials",
+    1
+   ],
+   [
+    "soft things",
+    1
+   ],
+   [
+    "texture words",
+    3
+   ]
+  ],
+  "clash": []
+ },
+ "Orange": {
+  "also": [
+   [
+    "african rivers",
+    3
+   ],
+   [
+    "candle scents",
+    2
+   ],
+   [
+    "citrus fruits",
+    1
+   ],
+   [
+    "fruit trees",
+    1
+   ],
+   [
+    "juices",
+    1
+   ],
+   [
+    "lunchbox",
+    2
+   ],
+   [
+    "mediterranean trees",
+    2
+   ],
+   [
+    "places that are also words",
+    2
+   ],
+   [
+    "round things",
+    2
+   ],
+   [
+    "shades of orange",
+    1
+   ],
+   [
+    "things that smell good",
+    3
+   ],
+   [
+    "words from persian",
+    4
+   ]
+  ],
+  "clash": []
+ },
+ "October": {
+  "also": [
+   [
+    "halloween",
+    2
+   ],
+   [
+    "months",
+    1
+   ],
+   [
+    "oktoberfest",
+    2
+   ]
+  ],
+  "clash": []
+ },
+ "February": {
+  "also": [
+   [
+    "months",
+    1
+   ],
+   [
+    "valentine's day",
+    2
+   ]
+  ],
+  "clash": []
+ },
+ "Carnation": {
+  "also": [
+   [
+    "anatolian flowers",
+    2
+   ],
+   [
+    "bouquet flowers",
+    1
+   ],
+   [
+    "edible flowers",
+    4
+   ],
+   [
+    "garden flowers",
+    1
+   ],
+   [
+    "national flowers",
+    3
+   ],
+   [
+    "shades of pink",
+    3
+   ],
+   [
+    "summer flowers",
+    3
+   ],
+   [
+    "things that smell good",
+    3
+   ]
+  ],
+  "clash": []
+ },
+ "Rose": {
+  "also": [
+   [
+    "anagrams of each other",
+    1
+   ],
+   [
+    "anatolian flowers",
+    2
+   ],
+   [
+    "bouquet flowers",
+    1
+   ],
+   [
+    "candle scents",
+    2
+   ],
+   [
+    "edible flowers",
+    2
+   ],
+   [
+    "english cottage",
+    3
+   ],
+   [
+    "garden flowers",
+    1
+   ],
+   [
+    "homophones",
+    1
+   ],
+   [
+    "ice cream flavors",
+    4
+   ],
+   [
+    "irregular past tenses",
+    2
+   ],
+   [
+    "middle eastern scents",
+    2
+   ],
+   [
+    "names that are flowers",
+    1
+   ],
+   [
+    "national flowers",
+    1
+   ],
+   [
+    "perfume notes",
+    1
+   ],
+   [
+    "prickly things",
+    2
+   ],
+   [
+    "red things",
+    1
+   ],
+   [
+    "shades of pink",
+    1
+   ],
+   [
+    "street names",
+    3
+   ],
+   [
+    "summer flowers",
+    1
+   ],
+   [
+    "sun___",
+    3
+   ],
+   [
+    "things that smell good",
+    1
+   ],
+   [
+    "valentine's day",
+    1
+   ]
+  ],
+  "clash": []
+ },
+ "Tulip": {
+  "also": [
+   [
+    "anatolian flowers",
+    1
+   ],
+   [
+    "bouquet flowers",
+    1
+   ],
+   [
+    "easter",
+    3
+   ],
+   [
+    "edible flowers",
+    4
+   ],
+   [
+    "garden flowers",
+    1
+   ],
+   [
+    "hidden body parts",
+    2
+   ],
+   [
+    "national flowers",
+    1
+   ],
+   [
+    "plants of the middle east",
+    3
+   ],
+   [
+    "spring flowers",
+    1
+   ],
+   [
+    "words from turkish",
+    2
+   ]
+  ],
+  "clash": []
+ },
+ "Jasmine": {
+  "also": [
+   [
+    "bouquet flowers",
+    3
+   ],
+   [
+    "candle scents",
+    2
+   ],
+   [
+    "edible flowers",
+    2
+   ],
+   [
+    "flowers of east asia",
+    3
+   ],
+   [
+    "girls' names",
+    2
+   ],
+   [
+    "middle eastern scents",
+    2
+   ],
+   [
+    "names that are flowers",
+    2
+   ],
+   [
+    "national flowers",
+    3
+   ],
+   [
+    "perfume notes",
+    1
+   ],
+   [
+    "shades of yellow",
+    4
+   ],
+   [
+    "star___",
+    2
+   ],
+   [
+    "summer flowers",
+    3
+   ],
+   [
+    "teas",
+    2
+   ],
+   [
+    "things that smell good",
+    2
+   ],
+   [
+    "tropical flowers",
+    3
+   ],
+   [
+    "vines and climbers",
+    2
+   ],
+   [
+    "white things",
+    3
+   ],
+   [
+    "words from persian",
+    3
+   ]
+  ],
+  "clash": []
+ },
+ "Saffron": {
+  "also": [
+   [
+    "bazaar",
+    2
+   ],
+   [
+    "middle eastern remedies",
+    2
+   ],
+   [
+    "middle eastern scents",
+    2
+   ],
+   [
+    "moroccan souvenirs",
+    3
+   ],
+   [
+    "names that are colors",
+    3
+   ],
+   [
+    "perfume notes",
+    3
+   ],
+   [
+    "plants of the middle east",
+    2
+   ],
+   [
+    "shades of yellow",
+    3
+   ],
+   [
+    "spice trade",
+    2
+   ],
+   [
+    "spices",
+    1
+   ],
+   [
+    "words from arabic",
+    3
+   ],
+   [
+    "yellow things",
+    3
+   ]
+  ],
+  "clash": []
+ },
+ "Cedar": {
+  "also": [
+   [
+    "evergreen trees",
+    1
+   ],
+   [
+    "names that are trees",
+    3
+   ],
+   [
+    "native american remedies",
+    3
+   ],
+   [
+    "plants of the middle east",
+    2
+   ],
+   [
+    "shades of brown",
+    4
+   ],
+   [
+    "street names",
+    2
+   ],
+   [
+    "taiga",
+    3
+   ],
+   [
+    "things that smell good",
+    3
+   ],
+   [
+    "types of wood",
+    1
+   ]
+  ],
+  "clash": []
+ },
+ "Singing": {
+  "also": [
+   [
+    "hobbies and crafts",
+    1
+   ]
+  ],
+  "clash": []
+ },
+ "Hungarian": {
+  "also": [
+   [
+    "european languages",
+    1
+   ],
+   [
+    "nationalities",
+    2
+   ]
+  ],
+  "clash": []
+ },
+ "Industrial": {
+  "also": [
+   [
+    "electronic music styles",
+    3
+   ],
+   [
+    "engineering fields",
+    2
+   ]
+  ],
+  "clash": [
+   "industrial revolution"
+  ]
+ },
+ "Agricultural": {
+  "also": [
+   [
+    "engineering fields",
+    3
+   ]
+  ],
+  "clash": []
+ },
+ "Green": {
+  "also": [
+   [
+    "___fly",
+    2
+   ],
+   [
+    "___house",
+    1
+   ],
+   [
+    "___light",
+    1
+   ],
+   [
+    "environment",
+    3
+   ],
+   [
+    "golf terms",
+    1
+   ],
+   [
+    "sea___",
+    2
+   ],
+   [
+    "shades of green",
+    1
+   ],
+   [
+    "st. patrick's day",
+    1
+   ],
+   [
+    "street names",
+    2
+   ]
+  ],
+  "clash": []
+ },
+ "Quiet": {
+  "also": [
+   [
+    "hearing words",
+    2
+   ],
+   [
+    "library",
+    2
+   ],
+   [
+    "personality traits",
+    1
+   ],
+   [
+    "sound qualities",
+    1
+   ]
+  ],
+  "clash": []
+ },
+ "Texas": {
+  "also": [
+   [
+    "famous locomotives",
+    4
+   ],
+   [
+    "us states",
+    1
+   ]
+  ],
+  "clash": []
+ },
+ "Umbrella": {
+  "also": [
+   [
+    "___bird",
+    2
+   ],
+   [
+    "accessories",
+    1
+   ],
+   [
+    "beach gear",
+    1
+   ],
+   [
+    "garden furniture",
+    2
+   ],
+   [
+    "hidden names",
+    2
+   ],
+   [
+    "household objects",
+    1
+   ],
+   [
+    "in a handbag",
+    2
+   ],
+   [
+    "monsoon season",
+    1
+   ],
+   [
+    "things that fold",
+    1
+   ],
+   [
+    "things to pack",
+    1
+   ],
+   [
+    "things with handles",
+    1
+   ],
+   [
+    "words from italian",
+    2
+   ]
+  ],
+  "clash": []
+ },
+ "Nicaraguan": {
+  "also": [
+   [
+    "nationalities",
+    3
+   ]
+  ],
+  "clash": []
+ },
+ "Egyptian": {
+  "also": [
+   [
+    "column styles",
+    3
+   ],
+   [
+    "nationalities",
+    1
+   ]
+  ],
+  "clash": []
+ },
+ "Tunisian": {
+  "also": [
+   [
+    "nationalities",
+    3
+   ]
+  ],
+  "clash": []
+ },
+ "Algerian": {
+  "also": [
+   [
+    "nationalities",
+    3
+   ]
+  ],
+  "clash": []
+ },
+ "Robespierre": {
+  "also": [
+   [
+    "famous leaders",
+    3
+   ]
+  ],
+  "clash": []
+ },
+ "Bastille": {
+  "also": [
+   [
+    "paris landmarks",
+    2
+   ],
+   [
+    "prison words",
+    3
+   ]
+  ],
+  "clash": []
+ },
+ "guillotine": {
+  "also": [
+   [
+    "european inventions",
+    3
+   ],
+   [
+    "punishments",
+    2
+   ],
+   [
+    "things that cut",
+    2
+   ],
+   [
+    "words named after people",
+    2
+   ]
+  ],
+  "clash": []
+ },
+ "Louis XVI": {
+  "also": [
+   [
+    "french kings",
+    1
+   ]
+  ],
+  "clash": []
+ },
+ "Marie Antoinette": {
+  "also": [
+   [
+    "famous queens",
+    1
+   ],
+   [
+    "famous women in history",
+    1
+   ]
+  ],
+  "clash": []
+ },
+ "Versailles": {
+  "also": [
+   [
+    "famous gardens",
+    1
+   ],
+   [
+    "famous palaces",
+    1
+   ],
+   [
+    "french cities",
+    2
+   ]
+  ],
+  "clash": [
+   "historic documents"
+  ]
+ },
+ "tricolor": {
+  "also": [
+   [
+    "flag words",
+    3
+   ],
+   [
+    "national symbols",
+    2
+   ],
+   [
+    "st. patrick's day",
+    3
+   ]
+  ],
+  "clash": []
+ },
+ "Napoleon": {
+  "also": [
+   [
+    "card games",
+    4
+   ],
+   [
+    "emperors",
+    1
+   ],
+   [
+    "famous generals",
+    1
+   ],
+   [
+    "french pastries",
+    3
+   ]
+  ],
+  "clash": []
+ },
+ "Lafayette": {
+  "also": [
+   [
+    "famous generals",
+    3
+   ],
+   [
+    "places named after people",
+    4
+   ]
+  ],
+  "clash": []
+ },
+ "Bastille Day": {
+  "also": [
+   [
+    "holidays and celebrations",
+    2
+   ]
+  ],
+  "clash": []
+ },
+ "Phrygian cap": {
+  "also": [
+   [
+    "historical hats",
+    4
+   ]
+  ],
+  "clash": []
+ },
+ "Vendée": {
+  "also": [
+   [
+    "french regions",
+    4
+   ]
+  ],
+  "clash": []
+ },
+ "Tuileries": {
+  "also": [
+   [
+    "famous gardens",
+    3
+   ],
+   [
+    "paris landmarks",
+    2
+   ]
+  ],
+  "clash": []
+ },
+ "Conciergerie": {
+  "also": [
+   [
+    "paris landmarks",
+    3
+   ]
+  ],
+  "clash": []
+ },
+ "Champ de Mars": {
+  "also": [
+   [
+    "paris landmarks",
+    3
+   ]
+  ],
+  "clash": []
+ },
+ "Marianne": {
+  "also": [
+   [
+    "national symbols",
+    3
+   ],
+   [
+    "girls' names",
+    4
+   ]
+  ],
+  "clash": []
+ },
+ "Ancien Régime": {
+  "also": [
+   [
+    "french phrases in english",
+    4
+   ]
+  ],
+  "clash": []
+ },
+ "Germinal": {
+  "also": [
+   [
+    "classic novels",
+    4
+   ]
+  ],
+  "clash": []
+ },
+ "George Washington": {
+  "also": [
+   [
+    "famous generals",
+    2
+   ],
+   [
+    "founding fathers",
+    1
+   ],
+   [
+    "us presidents",
+    1
+   ]
+  ],
+  "clash": []
+ },
+ "Lexington": {
+  "also": [
+   [
+    "american cities",
+    3
+   ],
+   [
+    "famous battles",
+    2
+   ]
+  ],
+  "clash": []
+ },
+ "Concord": {
+  "also": [
+   [
+    "peace words",
+    3
+   ],
+   [
+    "places that are also words",
+    3
+   ],
+   [
+    "red wines",
+    4
+   ]
+  ],
+  "clash": []
+ },
+ "Bunker Hill": {
+  "also": [
+   [
+    "famous battles",
+    2
+   ]
+  ],
+  "clash": []
+ },
+ "Yorktown": {
+  "also": [
+   [
+    "famous battles",
+    2
+   ]
+  ],
+  "clash": []
+ },
+ "Saratoga": {
+  "also": [
+   [
+    "famous battles",
+    3
+   ]
+  ],
+  "clash": []
+ },
+ "Patriots": {
+  "also": [
+   [
+    "nfl teams",
+    1
+   ]
+  ],
+  "clash": []
+ },
+ "Tories": {
+  "also": [
+   [
+    "british politics",
+    1
+   ]
+  ],
+  "clash": []
+ },
+ "Thomas Jefferson": {
+  "also": [
+   [
+    "founding fathers",
+    1
+   ],
+   [
+    "us presidents",
+    1
+   ]
+  ],
+  "clash": []
+ },
+ "Benjamin Franklin": {
+  "also": [
+   [
+    "founding fathers",
+    1
+   ],
+   [
+    "inventors",
+    2
+   ]
+  ],
+  "clash": []
+ },
+ "John Adams": {
+  "also": [
+   [
+    "founding fathers",
+    1
+   ],
+   [
+    "us presidents",
+    1
+   ]
+  ],
+  "clash": []
+ },
+ "Samuel Adams": {
+  "also": [
+   [
+    "beers",
+    3
+   ],
+   [
+    "founding fathers",
+    2
+   ]
+  ],
+  "clash": []
+ },
+ "John Hancock": {
+  "also": [
+   [
+    "founding fathers",
+    2
+   ]
+  ],
+  "clash": []
+ },
+ "Patrick Henry": {
+  "also": [
+   [
+    "founding fathers",
+    2
+   ]
+  ],
+  "clash": []
+ },
+ "Thomas Paine": {
+  "also": [
+   [
+    "founding fathers",
+    2
+   ]
+  ],
+  "clash": []
+ },
+ "Declaration of Independence": {
+  "also": [
+   [
+    "us government",
+    2
+   ]
+  ],
+  "clash": []
+ },
+ "Cornwallis": {
+  "also": [
+   [
+    "famous generals",
+    3
+   ]
+  ],
+  "clash": []
+ },
+ "Trenton": {
+  "also": [
+   [
+    "famous battles",
+    3
+   ]
+  ],
+  "clash": []
+ },
+ "Brandywine": {
+  "also": [
+   [
+    "famous battles",
+    4
+   ]
+  ],
+  "clash": []
+ },
+ "Cowpens": {
+  "also": [
+   [
+    "famous battles",
+    4
+   ]
+  ],
+  "clash": []
+ },
+ "Nathanael Greene": {
+  "also": [
+   [
+    "famous generals",
+    4
+   ]
+  ],
+  "clash": []
+ },
+ "Liberty Bell": {
+  "also": [
+   [
+    "national symbols",
+    2
+   ],
+   [
+    "us landmarks",
+    2
+   ]
+  ],
+  "clash": []
+ },
+ "Alexander Hamilton": {
+  "also": [
+   [
+    "founding fathers",
+    1
+   ]
+  ],
+  "clash": []
+ },
+ "Burgoyne": {
+  "also": [
+   [
+    "famous generals",
+    4
+   ]
+  ],
+  "clash": []
+ },
+ "Kosciuszko": {
+  "also": [
+   [
+    "famous mountains",
+    3
+   ],
+   [
+    "national parks",
+    3
+   ],
+   [
+    "places named after people",
+    5
+   ]
+  ],
+  "clash": []
+ },
+ "Pahlavi": {
+  "also": [
+   [
+    "ancient languages",
+    4
+   ],
+   [
+    "ancient persia",
+    4
+   ]
+  ],
+  "clash": []
+ },
+ "Maurya": {
+  "also": [
+   [
+    "ancient india",
+    3
+   ]
+  ],
+  "clash": []
+ },
+ "Gupta": {
+  "also": [
+   [
+    "ancient india",
+    3
+   ]
+  ],
+  "clash": []
+ },
+ "Chola": {
+  "also": [
+   [
+    "ancient india",
+    4
+   ]
+  ],
+  "clash": []
+ },
+ "Tokugawa": {
+  "also": [
+   [
+    "feudal japan",
+    3
+   ]
+  ],
+  "clash": []
+ },
+ "Ashikaga": {
+  "also": [
+   [
+    "feudal japan",
+    4
+   ]
+  ],
+  "clash": []
+ },
+ "Seleucid": {
+  "also": [
+   [
+    "hanukkah",
+    5
+   ]
+  ],
+  "clash": []
+ },
+ "Mamluk": {
+  "also": [
+   [
+    "soldiers of history",
+    3
+   ]
+  ],
+  "clash": []
+ },
+ "Satavahana": {
+  "also": [
+   [
+    "ancient india",
+    5
+   ]
+  ],
+  "clash": []
+ },
+ "Solomonic": {
+  "also": [
+   [
+    "column styles",
+    4
+   ]
+  ],
+  "clash": []
+ },
+ "Lodi": {
+  "also": [
+   [
+    "napoleonic battles",
+    4
+   ]
+  ],
+  "clash": []
+ },
+ "Saadi": {
+  "also": [
+   [
+    "persian poets",
+    3
+   ]
+  ],
+  "clash": []
+ },
+ "Ming": {
+  "also": [
+   [
+    "rhymes with ring",
+    3
+   ]
+  ],
+  "clash": [
+   "chinese emperors"
+  ]
+ },
+ "Han": {
+  "also": [
+   [
+    "ancient china",
+    3
+   ],
+   [
+    "asian rivers",
+    4
+   ],
+   [
+    "chinese surnames",
+    2
+   ],
+   [
+    "mahjong words",
+    5
+   ]
+  ],
+  "clash": []
+ },
+ "Tang": {
+  "also": [
+   [
+    "aquarium",
+    3
+   ],
+   [
+    "chinese surnames",
+    2
+   ],
+   [
+    "fencing terms",
+    4
+   ],
+   [
+    "reversible words",
+    3
+   ],
+   [
+    "tropical fish",
+    2
+   ]
+  ],
+  "clash": []
+ },
+ "Song": {
+  "also": [
+   [
+    "___bird",
+    1
+   ],
+   [
+    "___book",
+    1
+   ],
+   [
+    "chinese surnames",
+    3
+   ],
+   [
+    "music words",
+    1
+   ]
+  ],
+  "clash": []
+ },
+ "Yuan": {
+  "also": [
+   [
+    "asian currencies",
+    2
+   ],
+   [
+    "chinese surnames",
+    2
+   ]
+  ],
+  "clash": []
+ },
+ "Qin": {
+  "also": [
+   [
+    "ancient china",
+    3
+   ],
+   [
+    "chinese surnames",
+    3
+   ]
+  ],
+  "clash": []
+ },
+ "Zhou": {
+  "also": [
+   [
+    "ancient china",
+    3
+   ],
+   [
+    "chinese surnames",
+    2
+   ]
+  ],
+  "clash": []
+ },
+ "Shang": {
+  "also": [
+   [
+    "ancient china",
+    3
+   ]
+  ],
+  "clash": []
+ },
+ "Xia": {
+  "also": [
+   [
+    "ancient china",
+    4
+   ]
+  ],
+  "clash": []
+ },
+ "Sui": {
+  "also": [
+   [
+    "languages of china",
+    5
+   ]
+  ],
+  "clash": []
+ },
+ "Jin": {
+  "also": [
+   [
+    "chinese surnames",
+    3
+   ],
+   [
+    "languages of china",
+    5
+   ]
+  ],
+  "clash": []
+ },
+ "Liao": {
+  "also": [
+   [
+    "asian rivers",
+    5
+   ]
+  ],
+  "clash": []
+ },
+ "Liang": {
+  "also": [
+   [
+    "chinese surnames",
+    2
+   ]
+  ],
+  "clash": []
+ },
+ "Chen": {
+  "also": [
+   [
+    "chinese surnames",
+    1
+   ]
+  ],
+  "clash": []
+ },
+ "Tudor": {
+  "also": [
+   [
+    "architecture styles",
+    2
+   ],
+   [
+    "house styles",
+    2
+   ]
+  ],
+  "clash": []
+ },
+ "Stuart": {
+  "also": [
+   [
+    "boys' names",
+    2
+   ]
+  ],
+  "clash": []
+ },
+ "Bourbon": {
+  "also": [
+   [
+    "foods named after places",
+    3
+   ],
+   [
+    "spirits",
+    2
+   ],
+   [
+    "words named after places",
+    2
+   ],
+   [
+    "cookies",
+    3
+   ]
+  ],
+  "clash": []
+ },
+ "Romanov": {
+  "also": [
+   [
+    "sheep breeds",
+    4
+   ]
+  ],
+  "clash": []
+ },
+ "Plantagenet": {
+  "also": [
+   [
+    "medieval times",
+    3
+   ]
+  ],
+  "clash": []
+ },
+ "Windsor": {
+  "also": [
+   [
+    "castles",
+    2
+   ],
+   [
+    "famous castles",
+    1
+   ],
+   [
+    "street names",
+    3
+   ]
+  ],
+  "clash": []
+ },
+ "Hanover": {
+  "also": [
+   [
+    "german cities",
+    2
+   ]
+  ],
+  "clash": []
+ },
+ "York": {
+  "also": [
+   [
+    "british cities",
+    1
+   ],
+   [
+    "places after new",
+    1
+   ],
+   [
+    "street names",
+    3
+   ]
+  ],
+  "clash": []
+ },
+ "Lancaster": {
+  "also": [
+   [
+    "british cities",
+    2
+   ],
+   [
+    "world war ii terms",
+    4
+   ]
+  ],
+  "clash": []
+ },
+ "Valois": {
+  "also": [
+   [
+    "medieval times",
+    4
+   ]
+  ],
+  "clash": []
+ },
+ "Hohenzollern": {
+  "also": [
+   [
+    "castles",
+    4
+   ],
+   [
+    "famous castles",
+    4
+   ]
+  ],
+  "clash": []
+ },
+ "Savoy": {
+  "also": [
+   [
+    "cabbage family",
+    3
+   ],
+   [
+    "famous hotels",
+    2
+   ],
+   [
+    "french regions",
+    3
+   ]
+  ],
+  "clash": []
+ },
+ "Oldenburg": {
+  "also": [
+   [
+    "german cities",
+    4
+   ],
+   [
+    "horse breeds",
+    4
+   ]
+  ],
+  "clash": []
+ },
+ "Vasa": {
+  "also": [
+   [
+    "famous ships",
+    3
+   ]
+  ],
+  "clash": []
+ },
+ "Sforza": {
+  "also": [
+   [
+    "castles",
+    4
+   ]
+  ],
+  "clash": []
+ },
+ "Wessex": {
+  "also": [
+   [
+    "regions",
+    3
+   ]
+  ],
+  "clash": []
+ },
+ "Anjou": {
+  "also": [
+   [
+    "french regions",
+    4
+   ]
+  ],
+  "clash": []
+ },
+ "Merovingian": {
+  "also": [
+   [
+    "medieval times",
+    3
+   ]
+  ],
+  "clash": []
+ },
+ "Carolingian": {
+  "also": [
+   [
+    "architecture styles",
+    4
+   ],
+   [
+    "medieval times",
+    3
+   ]
+  ],
+  "clash": []
+ },
+ "Ottonian": {
+  "also": [
+   [
+    "architecture styles",
+    5
+   ]
+  ],
+  "clash": []
+ },
+ "Luxembourg": {
+  "also": [
+   [
+    "european capitals",
+    2
+   ],
+   [
+    "european cities",
+    2
+   ],
+   [
+    "french-speaking countries",
+    2
+   ],
+   [
+    "landlocked countries",
+    2
+   ],
+   [
+    "tricolor flags",
+    3
+   ],
+   [
+    "western european countries",
+    2
+   ]
+  ],
+  "clash": []
+ },
+ "Orléans": {
+  "also": [
+   [
+    "french cities",
+    3
+   ],
+   [
+    "medieval battles",
+    3
+   ]
+  ],
+  "clash": []
+ },
+ "Battenberg": {
+  "also": [
+   [
+    "___cake",
+    2
+   ],
+   [
+    "british food",
+    3
+   ],
+   [
+    "cakes",
+    3
+   ],
+   [
+    "foods named after people",
+    3
+   ]
+  ],
+  "clash": []
+ },
+ "Bruce": {
+  "also": [
+   [
+    "boys' names",
+    1
+   ],
+   [
+    "scottish clan names",
+    3
+   ]
+  ],
+  "clash": []
+ },
+ "Normandy": {
+  "also": [
+   [
+    "european holiday regions",
+    2
+   ],
+   [
+    "french regions",
+    1
+   ],
+   [
+    "world war ii battles",
+    1
+   ]
+  ],
+  "clash": []
+ },
+ "Liechtenstein": {
+  "also": [
+   [
+    "landlocked countries",
+    2
+   ],
+   [
+    "tiny countries",
+    1
+   ],
+   [
+    "western european countries",
+    3
+   ]
+  ],
+  "clash": []
+ },
+ "Lorraine": {
+  "also": [
+   [
+    "french regions",
+    2
+   ],
+   [
+    "names that are places",
+    2
+   ]
+  ],
+  "clash": []
+ },
+ "Hesse": {
+  "also": [
+   [
+    "german states",
+    2
+   ],
+   [
+    "nobel laureates",
+    3
+   ]
+  ],
+  "clash": []
+ },
+ "Brunswick": {
+  "also": [
+   [
+    "places after new",
+    2
+   ]
+  ],
+  "clash": []
+ },
+ "Rurik": {
+  "also": [
+   [
+    "monarchs",
+    4
+   ]
+  ],
+  "clash": []
+ },
+ "Roman": {
+  "also": [
+   [
+    "city demonyms",
+    1
+   ],
+   [
+    "pizza styles",
+    3
+   ],
+   [
+    "typography words",
+    4
+   ],
+   [
+    "ancient rome",
+    1
+   ]
+  ],
+  "clash": []
+ },
+ "Ottoman": {
+  "also": [
+   [
+    "architecture styles",
+    3
+   ],
+   [
+    "household objects",
+    3
+   ],
+   [
+    "living room",
+    3
+   ],
+   [
+    "seating",
+    2
+   ],
+   [
+    "things with legs",
+    2
+   ],
+   [
+    "things with lids",
+    3
+   ],
+   [
+    "ottoman empire",
+    1
+   ]
+  ],
+  "clash": []
+ },
+ "British": {
+  "also": [
+   [
+    "nationalities",
+    1
+   ]
+  ],
+  "clash": []
+ },
+ "Persian": {
+  "also": [
+   [
+    "cat breeds",
+    1
+   ],
+   [
+    "column styles",
+    4
+   ],
+   [
+    "middle eastern languages",
+    1
+   ]
+  ],
+  "clash": [
+   "ancient persia"
+  ]
+ },
+ "Byzantine": {
+  "also": [
+   [
+    "architecture styles",
+    3
+   ],
+   [
+    "byzantine empire",
+    2
+   ],
+   [
+    "city demonyms",
+    3
+   ],
+   [
+    "words named after places",
+    4
+   ]
+  ],
+  "clash": []
+ },
+ "Inca": {
+  "also": [
+   [
+    "andes",
+    1
+   ],
+   [
+    "inca empire",
+    1
+   ]
+  ],
+  "clash": []
+ },
+ "Mughal": {
+  "also": [
+   [
+    "architecture styles",
+    3
+   ]
+  ],
+  "clash": []
+ },
+ "Achaemenid": {
+  "also": [
+   [
+    "ancient persia",
+    3
+   ]
+  ],
+  "clash": []
+ },
+ "Sasanian": {
+  "also": [
+   [
+    "ancient persia",
+    3
+   ]
+  ],
+  "clash": []
+ },
+ "Austrian": {
+  "also": [
+   [
+    "nationalities",
+    2
+   ]
+  ],
+  "clash": []
+ },
+ "German": {
+  "also": [
+   [
+    "germanic languages",
+    1
+   ],
+   [
+    "nationalities",
+    1
+   ],
+   [
+    "school subjects",
+    1
+   ]
+  ],
+  "clash": []
+ },
+ "French": {
+  "also": [
+   [
+    "nationalities",
+    1
+   ],
+   [
+    "romance languages",
+    1
+   ],
+   [
+    "salad dressings",
+    2
+   ],
+   [
+    "school subjects",
+    1
+   ]
+  ],
+  "clash": []
+ },
+ "Spanish": {
+  "also": [
+   [
+    "___fly",
+    3
+   ],
+   [
+    "nationalities",
+    1
+   ],
+   [
+    "romance languages",
+    1
+   ],
+   [
+    "school subjects",
+    1
+   ]
+  ],
+  "clash": []
+ },
+ "Portuguese": {
+  "also": [
+   [
+    "nationalities",
+    1
+   ],
+   [
+    "romance languages",
+    1
+   ]
+  ],
+  "clash": []
+ },
+ "Japanese": {
+  "also": [
+   [
+    "asian languages",
+    1
+   ],
+   [
+    "nationalities",
+    1
+   ],
+   [
+    "school subjects",
+    2
+   ]
+  ],
+  "clash": []
+ },
+ "Macedonian": {
+  "also": [
+   [
+    "nationalities",
+    3
+   ],
+   [
+    "slavic languages",
+    2
+   ]
+  ],
+  "clash": []
+ },
+ "Assyrian": {
+  "also": [
+   [
+    "middle eastern languages",
+    3
+   ],
+   [
+    "mesopotamia",
+    2
+   ]
+  ],
+  "clash": []
+ },
+ "Babylonian": {
+  "also": [
+   [
+    "ancient languages",
+    3
+   ],
+   [
+    "city demonyms",
+    3
+   ],
+   [
+    "mesopotamia",
+    2
+   ]
+  ],
+  "clash": []
+ },
+ "Akkadian": {
+  "also": [
+   [
+    "ancient languages",
+    3
+   ],
+   [
+    "ancient writing",
+    3
+   ],
+   [
+    "mesopotamia",
+    3
+   ]
+  ],
+  "clash": []
+ },
+ "Hittite": {
+  "also": [
+   [
+    "ancient languages",
+    3
+   ],
+   [
+    "bronze age",
+    3
+   ]
+  ],
+  "clash": []
+ },
+ "Mali": {
+  "also": [
+   [
+    "french-speaking countries",
+    3
+   ],
+   [
+    "landlocked countries",
+    3
+   ],
+   [
+    "tricolor flags",
+    3
+   ],
+   [
+    "west african countries",
+    2
+   ]
+  ],
+  "clash": []
+ },
+ "Songhai": {
+  "also": [
+   [
+    "african languages",
+    4
+   ]
+  ],
+  "clash": []
+ },
+ "Ghana": {
+  "also": [
+   [
+    "flags with stars",
+    3
+   ],
+   [
+    "tricolor flags",
+    3
+   ],
+   [
+    "west african countries",
+    1
+   ]
+  ],
+  "clash": []
+ },
+ "Benin": {
+  "also": [
+   [
+    "french-speaking countries",
+    3
+   ],
+   [
+    "west african countries",
+    3
+   ]
+  ],
+  "clash": []
+ },
+ "Zulu": {
+  "also": [
+   [
+    "african languages",
+    1
+   ],
+   [
+    "phonetic alphabet",
+    1
+   ]
+  ],
+  "clash": []
+ },
+ "Ethiopian": {
+  "also": [
+   [
+    "nationalities",
+    2
+   ]
+  ],
+  "clash": []
+ },
+ "Khmer": {
+  "also": [
+   [
+    "asian languages",
+    2
+   ]
+  ],
+  "clash": []
+ },
+ "Parthian": {
+  "also": [
+   [
+    "ancient languages",
+    4
+   ]
+  ],
+  "clash": []
+ },
+ "Carthaginian": {
+  "also": [
+   [
+    "city demonyms",
+    3
+   ]
+  ],
+  "clash": []
+ },
+ "Athenian": {
+  "also": [
+   [
+    "city demonyms",
+    2
+   ],
+   [
+    "ancient greece",
+    2
+   ]
+  ],
+  "clash": []
+ },
+ "Kushan": {
+  "also": [
+   [
+    "ancient india",
+    4
+   ],
+   [
+    "silk road",
+    5
+   ]
+  ],
+  "clash": []
+ },
+ "Wari": {
+  "also": [
+   [
+    "ancient civilizations",
+    5
+   ],
+   [
+    "andean sites",
+    5
+   ]
+  ],
+  "clash": []
+ },
+ "Tiwanaku": {
+  "also": [
+   [
+    "ancient civilizations",
+    4
+   ],
+   [
+    "andean sites",
+    3
+   ],
+   [
+    "south american landmarks",
+    4
+   ]
+  ],
+  "clash": []
+ },
+ "Brazilian": {
+  "also": [
+   [
+    "nationalities",
+    1
+   ]
+  ],
+  "clash": []
+ },
+ "Korean": {
+  "also": [
+   [
+    "asian languages",
+    1
+   ],
+   [
+    "nationalities",
+    1
+   ],
+   [
+    "peninsulas",
+    1
+   ]
+  ],
+  "clash": []
+ },
+ "Elamite": {
+  "also": [
+   [
+    "ancient languages",
+    4
+   ]
+  ],
+  "clash": []
+ },
+ "Toltec": {
+  "also": [
+   [
+    "ancient civilizations",
+    3
+   ]
+  ],
+  "clash": []
+ },
+ "Abyssinian": {
+  "also": [
+   [
+    "cat breeds",
+    3
+   ]
+  ],
+  "clash": []
+ },
+ "Kongo": {
+  "also": [
+   [
+    "african languages",
+    4
+   ]
+  ],
+  "clash": []
+ },
+ "steam engine": {
+  "also": [
+   [
+    "european inventions",
+    1
+   ],
+   [
+    "engines",
+    1
+   ]
+  ],
+  "clash": []
+ },
+ "spinning jenny": {
+  "also": [
+   [
+    "european inventions",
+    3
+   ]
+  ],
+  "clash": []
+ },
+ "cotton gin": {
+  "also": [
+   [
+    "american inventions",
+    2
+   ]
+  ],
+  "clash": []
+ },
+ "factory": {
+  "also": [
+   [
+    "industrial buildings",
+    1
+   ]
+  ],
+  "clash": []
+ },
+ "coal": {
+  "also": [
+   [
+    "___man",
+    2
+   ],
+   [
+    "black things",
+    1
+   ],
+   [
+    "energy sources",
+    1
+   ],
+   [
+    "fireplace words",
+    2
+   ],
+   [
+    "fossil fuels",
+    1
+   ],
+   [
+    "hot things",
+    3
+   ],
+   [
+    "railway words",
+    2
+   ],
+   [
+    "sedimentary rocks",
+    1
+   ],
+   [
+    "things that glow",
+    2
+   ]
+  ],
+  "clash": []
+ },
+ "locomotive": {
+  "also": [
+   [
+    "heavy things",
+    2
+   ],
+   [
+    "model making",
+    2
+   ],
+   [
+    "parts of a train",
+    1
+   ],
+   [
+    "things with wheels",
+    2
+   ]
+  ],
+  "clash": []
+ },
+ "railway": {
+  "also": [
+   [
+    "engineering fields",
+    4
+   ],
+   [
+    "railway words",
+    1
+   ],
+   [
+    "street names",
+    3
+   ]
+  ],
+  "clash": []
+ },
+ "canal": {
+  "also": [
+   [
+    "bodies of water",
+    2
+   ],
+   [
+    "inca engineering",
+    3
+   ],
+   [
+    "long things",
+    3
+   ],
+   [
+    "street names",
+    3
+   ],
+   [
+    "tourist attractions",
+    2
+   ]
+  ],
+  "clash": []
+ },
+ "Eli Whitney": {
+  "also": [
+   [
+    "inventors",
+    3
+   ]
+  ],
+  "clash": []
+ },
+ "flying shuttle": {
+  "also": [
+   [
+    "european inventions",
+    4
+   ]
+  ],
+  "clash": []
+ },
+ "Brunel": {
+  "also": [
+   [
+    "famous engineers",
+    2
+   ]
+  ],
+  "clash": []
+ },
+ "textile mill": {
+  "also": [
+   [
+    "industrial buildings",
+    3
+   ]
+  ],
+  "clash": []
+ },
+ "smokestack": {
+  "also": [
+   [
+    "factory",
+    2
+   ],
+   [
+    "parts of a train",
+    2
+   ],
+   [
+    "pollution words",
+    2
+   ],
+   [
+    "ship parts",
+    2
+   ],
+   [
+    "tall things",
+    3
+   ]
+  ],
+  "clash": []
+ },
+ "Stephenson's Rocket": {
+  "also": [
+   [
+    "famous locomotives",
+    2
+   ]
+  ],
+  "clash": []
+ },
+ "blast furnace": {
+  "also": [
+   [
+    "chinese inventions",
+    4
+   ],
+   [
+    "hot things",
+    3
+   ],
+   [
+    "industrial buildings",
+    2
+   ]
+  ],
+  "clash": []
+ },
+ "coke": {
+  "also": [
+   [
+    "fizzy drinks",
+    1
+   ],
+   [
+    "fossil fuels",
+    4
+   ],
+   [
+    "fuels",
+    4
+   ],
+   [
+    "illegal drugs",
+    1
+   ],
+   [
+    "soft drinks",
+    1
+   ]
+  ],
+  "clash": []
+ },
+ "Iron Bridge": {
+  "also": [
+   [
+    "famous bridges",
+    3
+   ]
+  ],
+  "clash": []
+ },
+ "mass production": {
+  "also": [
+   [
+    "factory",
+    2
+   ]
+  ],
+  "clash": []
+ },
+ "telegraph": {
+  "also": [
+   [
+    "american inventions",
+    2
+   ],
+   [
+    "old ways to communicate",
+    1
+   ],
+   [
+    "retro tech",
+    2
+   ]
+  ],
+  "clash": []
+ },
+ "steamboat": {
+  "also": [
+   [
+    "boat types",
+    2
+   ],
+   [
+    "famous ski resorts",
+    3
+   ]
+  ],
+  "clash": []
+ },
+ "Puffing Billy": {
+  "also": [
+   [
+    "famous locomotives",
+    3
+   ]
+  ],
+  "clash": []
+ },
+ "Robert Owen": {
+  "also": [
+   [
+    "reformers",
+    3
+   ]
+  ],
+  "clash": []
+ },
+ "cotton mill": {
+  "also": [
+   [
+    "industrial buildings",
+    2
+   ]
+  ],
+  "clash": []
+ },
+ "Manchester": {
+  "also": [
+   [
+    "british cities",
+    1
+   ],
+   [
+    "hidden body parts",
+    3
+   ]
+  ],
+  "clash": []
+ },
+ "mill town": {
+  "also": [
+   [
+    "kinds of settlements",
+    3
+   ]
+  ],
+  "clash": []
+ },
+ "Leonardo da Vinci": {
+  "also": [
+   [
+    "famous people",
+    1
+   ],
+   [
+    "inventors",
+    2
+   ],
+   [
+    "renaissance painters",
+    1
+   ]
+  ],
+  "clash": []
+ },
+ "Michelangelo": {
+  "also": [
+   [
+    "famous people",
+    1
+   ],
+   [
+    "renaissance painters",
+    1
+   ]
+  ],
+  "clash": []
+ },
+ "Raphael": {
+  "also": [
+   [
+    "angels and spirits",
+    3
+   ],
+   [
+    "renaissance painters",
+    1
+   ]
+  ],
+  "clash": []
+ },
+ "Botticelli": {
+  "also": [
+   [
+    "renaissance painters",
+    2
+   ]
+  ],
+  "clash": []
+ },
+ "Titian": {
+  "also": [
+   [
+    "renaissance painters",
+    2
+   ]
+  ],
+  "clash": []
+ },
+ "Florence": {
+  "also": [
+   [
+    "foods named after places",
+    4
+   ],
+   [
+    "italian cities",
+    1
+   ],
+   [
+    "names that are places",
+    2
+   ]
+  ],
+  "clash": []
+ },
+ "Machiavelli": {
+  "also": [
+   [
+    "famous people",
+    2
+   ]
+  ],
+  "clash": []
+ },
+ "fresco": {
+  "also": [
+   [
+    "art gallery",
+    3
+   ],
+   [
+    "painting words",
+    2
+   ],
+   [
+    "roman life",
+    3
+   ],
+   [
+    "words from italian",
+    2
+   ]
+  ],
+  "clash": []
+ },
+ "Sistine Chapel": {
+  "also": [
+   [
+    "famous churches",
+    1
+   ],
+   [
+    "rome landmarks",
+    1
+   ]
+  ],
+  "clash": []
+ },
+ "Mona Lisa": {
+  "also": [
+   [
+    "famous paintings",
+    1
+   ]
+  ],
+  "clash": []
+ },
+ "David": {
+  "also": [
+   [
+    "biblical names",
+    1
+   ],
+   [
+    "boys' names",
+    1
+   ],
+   [
+    "famous saints",
+    2
+   ],
+   [
+    "famous statues",
+    2
+   ]
+  ],
+  "clash": []
+ },
+ "Last Supper": {
+  "also": [
+   [
+    "famous paintings",
+    2
+   ]
+  ],
+  "clash": []
+ },
+ "Brunelleschi": {
+  "also": [
+   [
+    "architects",
+    3
+   ],
+   [
+    "famous engineers",
+    3
+   ]
+  ],
+  "clash": []
+ },
+ "printing press": {
+  "also": [
+   [
+    "european inventions",
+    1
+   ],
+   [
+    "newspaper words",
+    2
+   ],
+   [
+    "publishing words",
+    2
+   ]
+  ],
+  "clash": []
+ },
+ "Gutenberg": {
+  "also": [
+   [
+    "inventors",
+    2
+   ]
+  ],
+  "clash": []
+ },
+ "Petrarch": {
+  "also": [
+   [
+    "authors",
+    4
+   ],
+   [
+    "poets",
+    3
+   ]
+  ],
+  "clash": []
+ },
+ "Boccaccio": {
+  "also": [
+   [
+    "authors",
+    4
+   ],
+   [
+    "black death",
+    3
+   ]
+  ],
+  "clash": []
+ },
+ "Giotto": {
+  "also": [
+   [
+    "renaissance painters",
+    3
+   ],
+   [
+    "space missions",
+    4
+   ]
+  ],
+  "clash": []
+ },
+ "Masaccio": {
+  "also": [
+   [
+    "renaissance painters",
+    4
+   ]
+  ],
+  "clash": []
+ },
+ "Bramante": {
+  "also": [
+   [
+    "architects",
+    4
+   ]
+  ],
+  "clash": []
+ },
+ "Giovanni Bellini": {
+  "also": [
+   [
+    "renaissance painters",
+    4
+   ]
+  ],
+  "clash": []
+ },
+ "Giorgione": {
+  "also": [
+   [
+    "renaissance painters",
+    4
+   ]
+  ],
+  "clash": []
+ },
+ "Tintoretto": {
+  "also": [
+   [
+    "renaissance painters",
+    3
+   ]
+  ],
+  "clash": []
+ },
+ "Veronese": {
+  "also": [
+   [
+    "city demonyms",
+    4
+   ],
+   [
+    "renaissance painters",
+    3
+   ]
+  ],
+  "clash": []
+ },
+ "Correggio": {
+  "also": [
+   [
+    "renaissance painters",
+    4
+   ]
+  ],
+  "clash": []
+ },
+ "Dürer": {
+  "also": [
+   [
+    "renaissance painters",
+    2
+   ]
+  ],
+  "clash": []
+ },
+ "Holbein": {
+  "also": [
+   [
+    "renaissance painters",
+    3
+   ]
+  ],
+  "clash": []
+ },
+ "Jan van Eyck": {
+  "also": [
+   [
+    "renaissance painters",
+    3
+   ]
+  ],
+  "clash": []
+ },
+ "Hieronymus Bosch": {
+  "also": [
+   [
+    "dutch painters",
+    2
+   ],
+   [
+    "renaissance painters",
+    3
+   ]
+  ],
+  "clash": []
+ },
+ "Bruegel": {
+  "also": [
+   [
+    "renaissance painters",
+    3
+   ]
+  ],
+  "clash": []
+ },
+ "Copernicus": {
+  "also": [
+   [
+    "famous people",
+    2
+   ],
+   [
+    "scientists",
+    1
+   ]
+  ],
+  "clash": [
+   "famous physicists"
+  ]
+ },
+ "Vesalius": {
+  "also": [
+   [
+    "scientists",
+    4
+   ]
+  ],
+  "clash": []
+ },
+ "Thomas More": {
+  "also": [
+   [
+    "famous saints",
+    3
+   ]
+  ],
+  "clash": []
+ },
+ "Castiglione": {
+  "also": [
+   [
+    "napoleonic battles",
+    5
+   ]
+  ],
+  "clash": []
+ },
+ "sfumato": {
+  "also": [
+   [
+    "drawing techniques",
+    5
+   ],
+   [
+    "painting words",
+    4
+   ]
+  ],
+  "clash": []
+ },
+ "chiaroscuro": {
+  "also": [
+   [
+    "drawing techniques",
+    4
+   ],
+   [
+    "painting words",
+    4
+   ],
+   [
+    "words from italian",
+    5
+   ]
+  ],
+  "clash": []
+ },
+ "Birth of Venus": {
+  "also": [
+   [
+    "famous paintings",
+    2
+   ]
+  ],
+  "clash": []
+ },
+ "School of Athens": {
+  "also": [
+   [
+    "famous paintings",
+    3
+   ]
+  ],
+  "clash": []
+ },
+ "Pietà": {
+  "also": [
+   [
+    "famous statues",
+    3
+   ]
+  ],
+  "clash": []
+ },
+ "Uffizi": {
+  "also": [
+   [
+    "famous museums",
+    2
+   ]
+  ],
+  "clash": []
+ },
+ "patronage": {
+  "also": [
+   [
+    "charity words",
+    3
+   ],
+   [
+    "government words",
+    4
+   ]
+  ],
+  "clash": []
+ },
+ "cinquecento": {
+  "also": [
+   [
+    "famous car models",
+    4
+   ]
+  ],
+  "clash": []
+ },
+ "Alberti": {
+  "also": [
+   [
+    "architects",
+    4
+   ]
+  ],
+  "clash": []
+ },
+ "Tasso": {
+  "also": [
+   [
+    "cured meats",
+    4
+   ],
+   [
+    "southern food",
+    4
+   ]
+  ],
+  "clash": []
+ },
+ "Palladio": {
+  "also": [
+   [
+    "architects",
+    3
+   ]
+  ],
+  "clash": []
+ },
+ "Fra Angelico": {
+  "also": [
+   [
+    "renaissance painters",
+    3
+   ]
+  ],
+  "clash": []
+ },
+ "Filippo Lippi": {
+  "also": [
+   [
+    "renaissance painters",
+    4
+   ]
+  ],
+  "clash": []
+ },
+ "Mantegna": {
+  "also": [
+   [
+    "renaissance painters",
+    4
+   ]
+  ],
+  "clash": []
+ },
+ "Perugino": {
+  "also": [
+   [
+    "renaissance painters",
+    4
+   ]
+  ],
+  "clash": []
+ },
+ "Verrocchio": {
+  "also": [
+   [
+    "renaissance painters",
+    4
+   ]
+  ],
+  "clash": []
+ },
+ "Ghirlandaio": {
+  "also": [
+   [
+    "renaissance painters",
+    4
+   ]
+  ],
+  "clash": []
+ },
+ "Shakespeare": {
+  "also": [
+   [
+    "famous people",
+    1
+   ],
+   [
+    "midsummer",
+    2
+   ],
+   [
+    "poets",
+    1
+   ]
+  ],
+  "clash": []
+ },
+ "Spenser": {
+  "also": [
+   [
+    "poets",
+    3
+   ]
+  ],
+  "clash": []
+ },
+ "Christopher Marlowe": {
+  "also": [
+   [
+    "theater",
+    3
+   ]
+  ],
+  "clash": []
+ },
+ "Queen Victoria": {
+  "also": [
+   [
+    "famous queens",
+    1
+   ],
+   [
+    "famous women in history",
+    1
+   ]
+  ],
+  "clash": []
+ },
+ "Charles Dickens": {
+  "also": [
+   [
+    "famous people",
+    1
+   ],
+   [
+    "british novelists",
+    1
+   ]
+  ],
+  "clash": []
+ },
+ "Crystal Palace": {
+  "also": [
+   [
+    "european soccer clubs",
+    3
+   ]
+  ],
+  "clash": []
+ },
+ "corset": {
+  "also": [
+   [
+    "underwear",
+    2
+   ]
+  ],
+  "clash": []
+ },
+ "bustle": {
+  "also": [
+   [
+    "clothing parts",
+    3
+   ],
+   [
+    "dresses and skirts",
+    4
+   ],
+   [
+    "silent letter words",
+    2
+   ],
+   [
+    "street market",
+    3
+   ]
+  ],
+  "clash": []
+ },
+ "crinoline": {
+  "also": [
+   [
+    "dresses and skirts",
+    4
+   ]
+  ],
+  "clash": []
+ },
+ "top hat": {
+  "also": [
+   [
+    "black things",
+    2
+   ],
+   [
+    "circus",
+    3
+   ],
+   [
+    "game pieces",
+    3
+   ],
+   [
+    "historical hats",
+    1
+   ],
+   [
+    "magic show words",
+    2
+   ],
+   [
+    "magic tricks",
+    2
+   ],
+   [
+    "tall things",
+    3
+   ]
+  ],
+  "clash": []
+ },
+ "hansom cab": {
+  "also": [
+   [
+    "horse-drawn vehicles",
+    3
+   ],
+   [
+    "taxis of the world",
+    3
+   ]
+  ],
+  "clash": []
+ },
+ "gas lamp": {
+  "also": [
+   [
+    "lights and lamps",
+    3
+   ]
+  ],
+  "clash": []
+ },
+ "workhouse": {
+  "also": [
+   [
+    "public buildings",
+    4
+   ]
+  ],
+  "clash": []
+ },
+ "Jack the Ripper": {
+  "also": [
+   [
+    "cockney rhyming slang",
+    3
+   ]
+  ],
+  "clash": []
+ },
+ "Sherlock Holmes": {
+  "also": [
+   [
+    "detective words",
+    1
+   ],
+   [
+    "literature",
+    1
+   ]
+  ],
+  "clash": []
+ },
+ "Florence Nightingale": {
+  "also": [
+   [
+    "famous women in history",
+    1
+   ],
+   [
+    "reformers",
+    1
+   ]
+  ],
+  "clash": []
+ },
+ "Crimean War": {
+  "also": [
+   [
+    "wars and battles",
+    2
+   ]
+  ],
+  "clash": []
+ },
+ "Charles Darwin": {
+  "also": [
+   [
+    "famous people",
+    1
+   ],
+   [
+    "scientists",
+    1
+   ],
+   [
+    "famous naturalists",
+    1
+   ]
+  ],
+  "clash": []
+ },
+ "Disraeli": {
+  "also": [
+   [
+    "british novelists",
+    4
+   ],
+   [
+    "famous leaders",
+    3
+   ]
+  ],
+  "clash": []
+ },
+ "Gladstone": {
+  "also": [
+   [
+    "australian cities",
+    4
+   ],
+   [
+    "famous leaders",
+    3
+   ]
+  ],
+  "clash": []
+ },
+ "Tennyson": {
+  "also": [
+   [
+    "poets",
+    2
+   ]
+  ],
+  "clash": []
+ },
+ "Oscar Wilde": {
+  "also": [
+   [
+    "authors",
+    1
+   ]
+  ],
+  "clash": []
+ },
+ "penny-farthing": {
+  "also": [
+   [
+    "bike types",
+    2
+   ],
+   [
+    "things with wheels",
+    3
+   ]
+  ],
+  "clash": []
+ },
+ "chimney sweep": {
+  "also": [
+   [
+    "black things",
+    3
+   ],
+   [
+    "fireplace words",
+    2
+   ],
+   [
+    "old-time jobs",
+    1
+   ]
+  ],
+  "clash": []
+ },
+ "governess": {
+  "also": [
+   [
+    "old-time jobs",
+    2
+   ]
+  ],
+  "clash": []
+ },
+ "parlor": {
+  "also": [
+   [
+    "parts of a house",
+    3
+   ],
+   [
+    "sun___",
+    2
+   ]
+  ],
+  "clash": []
+ },
+ "steam train": {
+  "also": [
+   [
+    "train types",
+    1
+   ]
+  ],
+  "clash": [
+   "industrial revolution"
+  ]
+ },
+ "Gothic Revival": {
+  "also": [
+   [
+    "architecture styles",
+    3
+   ],
+   [
+    "house styles",
+    4
+   ]
+  ],
+  "clash": []
+ },
+ "Big Ben": {
+  "also": [
+   [
+    "british politics",
+    1
+   ],
+   [
+    "famous towers",
+    1
+   ],
+   [
+    "london landmarks",
+    1
+   ],
+   [
+    "tall things",
+    2
+   ],
+   [
+    "things that tick",
+    3
+   ],
+   [
+    "towers and skyscrapers",
+    1
+   ]
+  ],
+  "clash": []
+ },
+ "Boer War": {
+  "also": [
+   [
+    "wars and battles",
+    2
+   ]
+  ],
+  "clash": []
+ },
+ "music hall": {
+  "also": [
+   [
+    "music genres",
+    3
+   ],
+   [
+    "stage genres",
+    3
+   ]
+  ],
+  "clash": []
+ },
+ "Punch and Judy": {
+  "also": [
+   [
+    "beach",
+    4
+   ],
+   [
+    "party entertainment",
+    3
+   ],
+   [
+    "puppets",
+    2
+   ]
+  ],
+  "clash": []
+ },
+ "Albert Memorial": {
+  "also": [
+   [
+    "london landmarks",
+    3
+   ]
+  ],
+  "clash": []
+ },
+ "Balmoral": {
+  "also": [
+   [
+    "boots",
+    4
+   ],
+   [
+    "castles",
+    3
+   ],
+   [
+    "european folk costume",
+    4
+   ],
+   [
+    "famous castles",
+    2
+   ],
+   [
+    "famous hotels",
+    4
+   ]
+  ],
+  "clash": []
+ },
+ "Christmas card": {
+  "also": [
+   [
+    "christmas",
+    1
+   ],
+   [
+    "paper goods",
+    2
+   ]
+  ],
+  "clash": []
+ },
+ "peeler": {
+  "also": [
+   [
+    "household objects",
+    2
+   ],
+   [
+    "kitchen",
+    2
+   ],
+   [
+    "kitchen utensils",
+    1
+   ],
+   [
+    "things that cut",
+    3
+   ]
+  ],
+  "clash": []
+ },
+ "bobby": {
+  "also": [
+   [
+    "british slang",
+    2
+   ],
+   [
+    "police words",
+    3
+   ],
+   [
+    "short forms of names",
+    1
+   ],
+   [
+    "words named after people",
+    4
+   ]
+  ],
+  "clash": []
+ },
+ "Scotland Yard": {
+  "also": [
+   [
+    "board games",
+    3
+   ],
+   [
+    "police words",
+    2
+   ]
+  ],
+  "clash": []
+ },
+ "Bram Stoker": {
+  "also": [
+   [
+    "authors",
+    3
+   ]
+  ],
+  "clash": []
+ },
+ "Rudyard Kipling": {
+  "also": [
+   [
+    "children's authors",
+    3
+   ]
+  ],
+  "clash": []
+ },
+ "Thomas Cook": {
+  "also": [
+   [
+    "european airlines",
+    3
+   ]
+  ],
+  "clash": []
+ },
+ "Arts and Crafts": {
+  "also": [
+   [
+    "architecture styles",
+    3
+   ],
+   [
+    "art movements",
+    3
+   ],
+   [
+    "house styles",
+    4
+   ]
+  ],
+  "clash": []
+ },
+ "Thackeray": {
+  "also": [
+   [
+    "british novelists",
+    3
+   ]
+  ],
+  "clash": []
+ },
+ "Victoria Cross": {
+  "also": [
+   [
+    "medals and honors",
+    2
+   ],
+   [
+    "world war ii terms",
+    3
+   ]
+  ],
+  "clash": []
+ },
+ "mutton chops": {
+  "also": [
+   [
+    "hair",
+    4
+   ]
+  ],
+  "clash": []
+ },
+ "bonnet": {
+  "also": [
+   [
+    "british english words",
+    1
+   ],
+   [
+    "historical hats",
+    2
+   ],
+   [
+    "knitwear",
+    4
+   ],
+   [
+    "rain___",
+    2
+   ],
+   [
+    "sun___",
+    2
+   ]
+  ],
+  "clash": []
+ },
+ "parasol": {
+  "also": [
+   [
+    "accessories",
+    2
+   ],
+   [
+    "beach",
+    2
+   ],
+   [
+    "beach vacation",
+    2
+   ],
+   [
+    "garden furniture",
+    2
+   ],
+   [
+    "mushrooms",
+    4
+   ],
+   [
+    "street market",
+    3
+   ]
+  ],
+  "clash": []
+ },
+ "frock coat": {
+  "also": [
+   [
+    "coats and jackets",
+    4
+   ]
+  ],
+  "clash": []
+ },
+ "pocket watch": {
+  "also": [
+   [
+    "accessories",
+    2
+   ],
+   [
+    "clock types",
+    2
+   ],
+   [
+    "round things",
+    3
+   ],
+   [
+    "things that tick",
+    2
+   ]
+  ],
+  "clash": []
+ },
+ "magic lantern": {
+  "also": [
+   [
+    "shows and fun",
+    4
+   ]
+  ],
+  "clash": []
+ },
+ "daguerreotype": {
+  "also": [
+   [
+    "photography words",
+    4
+   ]
+  ],
+  "clash": []
+ },
+ "cowboy": {
+  "also": [
+   [
+    "cowboy words",
+    1
+   ],
+   [
+    "prairie",
+    2
+   ],
+   [
+    "rodeo words",
+    1
+   ]
+  ],
+  "clash": []
+ },
+ "sheriff": {
+  "also": [
+   [
+    "cowboy words",
+    1
+   ],
+   [
+    "police words",
+    1
+   ]
+  ],
+  "clash": []
+ },
+ "saloon": {
+  "also": [
+   [
+    "british english words",
+    2
+   ],
+   [
+    "buildings",
+    3
+   ],
+   [
+    "car types",
+    3
+   ],
+   [
+    "cowboy words",
+    1
+   ],
+   [
+    "gold rush words",
+    2
+   ],
+   [
+    "hidden birds",
+    3
+   ]
+  ],
+  "clash": []
+ },
+ "outlaw": {
+  "also": [
+   [
+    "cowboy words",
+    2
+   ],
+   [
+    "law and order",
+    2
+   ],
+   [
+    "troublemakers",
+    3
+   ]
+  ],
+  "clash": []
+ },
+ "stagecoach": {
+  "also": [
+   [
+    "animal-powered travel",
+    1
+   ],
+   [
+    "cowboy words",
+    2
+   ],
+   [
+    "gold rush words",
+    2
+   ],
+   [
+    "horse-drawn vehicles",
+    1
+   ],
+   [
+    "music festivals",
+    3
+   ],
+   [
+    "things with wheels",
+    2
+   ]
+  ],
+  "clash": []
+ },
+ "gunslinger": {
+  "also": [
+   [
+    "cowboy slang",
+    3
+   ],
+   [
+    "cowboy words",
+    2
+   ]
+  ],
+  "clash": []
+ },
+ "Billy the Kid": {
+  "also": [
+   [
+    "famous ballets",
+    4
+   ]
+  ],
+  "clash": []
+ },
+ "Wyatt Earp": {
+  "also": [
+   [
+    "expedition ships",
+    5
+   ]
+  ],
+  "clash": []
+ },
+ "Annie Oakley": {
+  "also": [
+   [
+    "famous women in history",
+    2
+   ]
+  ],
+  "clash": []
+ },
+ "Tombstone": {
+  "also": [
+   [
+    "halloween",
+    2
+   ],
+   [
+    "heavy things",
+    3
+   ],
+   [
+    "silent b words",
+    2
+   ],
+   [
+    "tombs and burials",
+    2
+   ]
+  ],
+  "clash": []
+ },
+ "Deadwood": {
+  "also": [
+   [
+    "forest floor",
+    3
+   ],
+   [
+    "gold rush words",
+    3
+   ],
+   [
+    "things that fall from trees",
+    3
+   ]
+  ],
+  "clash": []
+ },
+ "Pony Express": {
+  "also": [
+   [
+    "famous routes",
+    2
+   ],
+   [
+    "old ways to communicate",
+    2
+   ]
+  ],
+  "clash": []
+ },
+ "gold rush": {
+  "also": [
+   [
+    "cowboy words",
+    2
+   ]
+  ],
+  "clash": []
+ },
+ "homestead": {
+  "also": [
+   [
+    "cowboy words",
+    3
+   ],
+   [
+    "houses and homes",
+    3
+   ],
+   [
+    "prairie",
+    2
+   ]
+  ],
+  "clash": []
+ },
+ "rodeo": {
+  "also": [
+   [
+    "cowboy words",
+    1
+   ],
+   [
+    "famous ballets",
+    4
+   ],
+   [
+    "horses",
+    2
+   ],
+   [
+    "national sports",
+    2
+   ],
+   [
+    "shows and fun",
+    2
+   ],
+   [
+    "snowboard tricks",
+    3
+   ],
+   [
+    "words from spanish",
+    1
+   ]
+  ],
+  "clash": []
+ },
+ "lasso": {
+  "also": [
+   [
+    "cords and strings",
+    2
+   ],
+   [
+    "cowboy slang",
+    1
+   ],
+   [
+    "cowboy words",
+    1
+   ],
+   [
+    "rodeo words",
+    2
+   ],
+   [
+    "words from spanish",
+    2
+   ]
+  ],
+  "clash": []
+ },
+ "lariat": {
+  "also": [
+   [
+    "cords and strings",
+    4
+   ],
+   [
+    "cowboy slang",
+    2
+   ],
+   [
+    "cowboy words",
+    3
+   ],
+   [
+    "rodeo words",
+    3
+   ],
+   [
+    "words from spanish",
+    4
+   ],
+   [
+    "wrestling terms",
+    4
+   ]
+  ],
+  "clash": []
+ },
+ "Stetson": {
+  "also": [
+   [
+    "cowboy words",
+    2
+   ],
+   [
+    "hats",
+    2
+   ],
+   [
+    "rodeo words",
+    2
+   ],
+   [
+    "western wear",
+    2
+   ],
+   [
+    "words named after people",
+    3
+   ]
+  ],
+  "clash": []
+ },
+ "spurs": {
+  "also": [
+   [
+    "cowboy words",
+    1
+   ],
+   [
+    "horse riding words",
+    2
+   ],
+   [
+    "knights",
+    2
+   ],
+   [
+    "nba teams",
+    2
+   ],
+   [
+    "rodeo words",
+    2
+   ],
+   [
+    "things that come in pairs",
+    4
+   ],
+   [
+    "western wear",
+    2
+   ]
+  ],
+  "clash": []
+ },
+ "chaps": {
+  "also": [
+   [
+    "cowboy slang",
+    2
+   ],
+   [
+    "cowboy words",
+    2
+   ],
+   [
+    "rodeo words",
+    2
+   ],
+   [
+    "things made of leather",
+    3
+   ],
+   [
+    "western wear",
+    2
+   ]
+  ],
+  "clash": []
+ },
+ "revolver": {
+  "also": [
+   [
+    "american inventions",
+    3
+   ],
+   [
+    "cowboy words",
+    2
+   ],
+   [
+    "modern weapons",
+    1
+   ]
+  ],
+  "clash": []
+ },
+ "Colt": {
+  "also": [
+   [
+    "farm animals",
+    2
+   ],
+   [
+    "horse racing terms",
+    3
+   ],
+   [
+    "horses",
+    1
+   ],
+   [
+    "inventors",
+    3
+   ],
+   [
+    "male animals",
+    2
+   ],
+   [
+    "modern weapons",
+    3
+   ]
+  ],
+  "clash": []
+ },
+ "Winchester": {
+  "also": [
+   [
+    "british cities",
+    2
+   ],
+   [
+    "modern weapons",
+    3
+   ]
+  ],
+  "clash": []
+ },
+ "bounty hunter": {
+  "also": [
+   [
+    "law and order",
+    2
+   ]
+  ],
+  "clash": []
+ },
+ "posse": {
+  "also": [
+   [
+    "cowboy slang",
+    1
+   ],
+   [
+    "cowboy words",
+    2
+   ],
+   [
+    "groups of people",
+    2
+   ],
+   [
+    "hip hop words",
+    2
+   ],
+   [
+    "law and order",
+    3
+   ]
+  ],
+  "clash": []
+ },
+ "deputy": {
+  "also": [
+   [
+    "cowboy words",
+    2
+   ],
+   [
+    "police words",
+    2
+   ]
+  ],
+  "clash": []
+ },
+ "marshal": {
+  "also": [
+   [
+    "cowboy words",
+    2
+   ],
+   [
+    "jousting tournament",
+    4
+   ],
+   [
+    "law and order",
+    3
+   ],
+   [
+    "military ranks",
+    2
+   ],
+   [
+    "motor racing",
+    3
+   ],
+   [
+    "sports officials",
+    3
+   ]
+  ],
+  "clash": []
+ },
+ "cattle drive": {
+  "also": [
+   [
+    "cowboy words",
+    2
+   ],
+   [
+    "prairie",
+    3
+   ]
+  ],
+  "clash": []
+ },
+ "Chisholm Trail": {
+  "also": [
+   [
+    "famous routes",
+    3
+   ]
+  ],
+  "clash": []
+ },
+ "Oregon Trail": {
+  "also": [
+   [
+    "famous routes",
+    2
+   ]
+  ],
+  "clash": []
+ },
+ "wagon train": {
+  "also": [
+   [
+    "prairie",
+    2
+   ]
+  ],
+  "clash": []
+ },
+ "covered wagon": {
+  "also": [
+   [
+    "animal-powered travel",
+    1
+   ],
+   [
+    "gold rush words",
+    2
+   ],
+   [
+    "horse-drawn vehicles",
+    2
+   ],
+   [
+    "prairie",
+    2
+   ]
+  ],
+  "clash": []
+ },
+ "prospector": {
+  "also": [
+   [
+    "gold rush words",
+    1
+   ],
+   [
+    "outdoor jobs",
+    3
+   ]
+  ],
+  "clash": []
+ },
+ "frontier": {
+  "also": [
+   [
+    "cowboy words",
+    2
+   ],
+   [
+    "exploration",
+    3
+   ],
+   [
+    "lines on a map",
+    3
+   ]
+  ],
+  "clash": []
+ },
+ "ranch": {
+  "also": [
+   [
+    "architecture styles",
+    3
+   ],
+   [
+    "cowboy words",
+    1
+   ],
+   [
+    "house styles",
+    2
+   ],
+   [
+    "houses and homes",
+    2
+   ],
+   [
+    "prairie",
+    1
+   ],
+   [
+    "salad dressings",
+    1
+   ],
+   [
+    "words from spanish",
+    1
+   ]
+  ],
+  "clash": []
+ },
+ "tumbleweed": {
+  "also": [
+   [
+    "cowboy words",
+    2
+   ],
+   [
+    "desert",
+    2
+   ],
+   [
+    "plants",
+    2
+   ],
+   [
+    "things that roll",
+    2
+   ],
+   [
+    "weeds",
+    2
+   ]
+  ],
+  "clash": []
+ },
+ "Crazy Horse": {
+  "also": [
+   [
+    "famous statues",
+    3
+   ]
+  ],
+  "clash": []
+ },
+ "Custer": {
+  "also": [
+   [
+    "famous generals",
+    2
+   ]
+  ],
+  "clash": []
+ },
+ "Little Bighorn": {
+  "also": [
+   [
+    "famous battles",
+    2
+   ],
+   [
+    "us landmarks",
+    4
+   ]
+  ],
+  "clash": []
+ },
+ "wanted poster": {
+  "also": [
+   [
+    "cowboy words",
+    2
+   ],
+   [
+    "police station",
+    2
+   ]
+  ],
+  "clash": []
+ },
+ "showdown": {
+  "also": [
+   [
+    "cowboy words",
+    2
+   ],
+   [
+    "poker terms",
+    3
+   ]
+  ],
+  "clash": []
+ },
+ "high noon": {
+  "also": [
+   [
+    "cowboy words",
+    2
+   ],
+   [
+    "times of day",
+    3
+   ]
+  ],
+  "clash": []
+ },
+ "bandana": {
+  "also": [
+   [
+    "cowboy words",
+    2
+   ],
+   [
+    "hiking gear",
+    2
+   ],
+   [
+    "pirates",
+    2
+   ],
+   [
+    "scarves and gloves",
+    2
+   ],
+   [
+    "square things",
+    3
+   ],
+   [
+    "western wear",
+    2
+   ],
+   [
+    "words from hindi",
+    2
+   ]
+  ],
+  "clash": []
+ },
+ "holster": {
+  "also": [
+   [
+    "cowboy words",
+    2
+   ],
+   [
+    "police station",
+    3
+   ],
+   [
+    "police words",
+    2
+   ],
+   [
+    "things made of leather",
+    2
+   ]
+  ],
+  "clash": []
+ },
+ "six-shooter": {
+  "also": [
+   [
+    "cowboy slang",
+    2
+   ],
+   [
+    "cowboy words",
+    2
+   ]
+  ],
+  "clash": []
+ },
+ "mustang": {
+  "also": [
+   [
+    "cowboy words",
+    2
+   ],
+   [
+    "famous car models",
+    1
+   ],
+   [
+    "hoofed mammals",
+    2
+   ],
+   [
+    "horse breeds",
+    1
+   ],
+   [
+    "rodeo words",
+    3
+   ],
+   [
+    "words from spanish",
+    2
+   ]
+  ],
+  "clash": []
+ },
+ "bronco": {
+  "also": [
+   [
+    "cowboy slang",
+    1
+   ],
+   [
+    "cowboy words",
+    2
+   ],
+   [
+    "famous car models",
+    2
+   ],
+   [
+    "horses",
+    2
+   ],
+   [
+    "rodeo words",
+    2
+   ],
+   [
+    "words from spanish",
+    2
+   ]
+  ],
+  "clash": [
+   "nfl teams"
+  ]
+ },
+ "Black Bart": {
+  "also": [
+   [
+    "famous pirates",
+    3
+   ]
+  ],
+  "clash": []
+ },
+ "buffalo": {
+  "also": [
+   [
+    "___berry",
+    2
+   ],
+   [
+    "___fish",
+    3
+   ],
+   [
+    "american cities",
+    2
+   ],
+   [
+    "animals with horns",
+    1
+   ],
+   [
+    "foods named after places",
+    2
+   ],
+   [
+    "game meats",
+    3
+   ],
+   [
+    "hidden colors",
+    3
+   ],
+   [
+    "places that are also words",
+    2
+   ],
+   [
+    "prairie",
+    1
+   ],
+   [
+    "safari words",
+    1
+   ],
+   [
+    "savanna",
+    2
+   ],
+   [
+    "savanna animals",
+    2
+   ],
+   [
+    "things with horns",
+    1
+   ],
+   [
+    "types of milk",
+    3
+   ],
+   [
+    "water___",
+    2
+   ],
+   [
+    "wild cattle",
+    1
+   ]
+  ],
+  "clash": []
+ },
+ "longhorn": {
+  "also": [
+   [
+    "animals with horns",
+    3
+   ],
+   [
+    "cattle breeds",
+    2
+   ],
+   [
+    "cowboy words",
+    2
+   ],
+   [
+    "things with horns",
+    3
+   ]
+  ],
+  "clash": []
+ },
+ "branding iron": {
+  "also": [
+   [
+    "cowboy words",
+    2
+   ],
+   [
+    "hot things",
+    3
+   ]
+  ],
+  "clash": []
+ },
+ "chuck wagon": {
+  "also": [
+   [
+    "cowboy words",
+    2
+   ]
+  ],
+  "clash": []
+ },
+ "wrangler": {
+  "also": [
+   [
+    "cowboy slang",
+    2
+   ],
+   [
+    "cowboy words",
+    2
+   ],
+   [
+    "famous car models",
+    2
+   ],
+   [
+    "rodeo words",
+    3
+   ]
+  ],
+  "clash": []
+ },
+ "vaquero": {
+  "also": [
+   [
+    "cowboy slang",
+    2
+   ],
+   [
+    "cowboy words",
+    3
+   ],
+   [
+    "rodeo words",
+    4
+   ],
+   [
+    "words from spanish",
+    4
+   ]
+  ],
+  "clash": []
+ },
+ "tenderfoot": {
+  "also": [
+   [
+    "cowboy slang",
+    2
+   ],
+   [
+    "cowboy words",
+    3
+   ],
+   [
+    "words for beginner",
+    3
+   ]
+  ],
+  "clash": []
+ },
+ "hitching post": {
+  "also": [
+   [
+    "cowboy words",
+    3
+   ]
+  ],
+  "clash": []
+ },
+ "boomtown": {
+  "also": [
+   [
+    "gold rush words",
+    2
+   ],
+   [
+    "kinds of settlements",
+    3
+   ],
+   [
+    "music festivals",
+    4
+   ]
+  ],
+  "clash": []
+ },
+ "ghost town": {
+  "also": [
+   [
+    "american road trip",
+    2
+   ],
+   [
+    "gold rush words",
+    2
+   ],
+   [
+    "kinds of settlements",
+    2
+   ]
+  ],
+  "clash": []
+ },
+ "Klondike": {
+  "also": [
+   [
+    "card games",
+    4
+   ],
+   [
+    "gold rush words",
+    2
+   ]
+  ],
+  "clash": []
+ },
+ "Comstock Lode": {
+  "also": [
+   [
+    "gold rush words",
+    4
+   ]
+  ],
+  "clash": []
+ },
+ "Kit Carson": {
+  "also": [
+   [
+    "explorers",
+    3
+   ]
+  ],
+  "clash": []
+ },
+ "Colt .45": {
+  "also": [
+   [
+    "modern weapons",
+    3
+   ]
+  ],
+  "clash": []
+ },
+ "Pilgrims": {
+  "also": [
+   [
+    "thanksgiving",
+    1
+   ]
+  ],
+  "clash": []
+ },
+ "Mayflower": {
+  "also": [
+   [
+    "famous hotels",
+    4
+   ],
+   [
+    "famous ships",
+    1
+   ],
+   [
+    "famous voyages",
+    1
+   ],
+   [
+    "thanksgiving",
+    1
+   ]
+  ],
+  "clash": []
+ },
+ "Plymouth": {
+  "also": [
+   [
+    "american car brands",
+    2
+   ],
+   [
+    "british cities",
+    2
+   ],
+   [
+    "places after new",
+    4
+   ],
+   [
+    "port cities",
+    2
+   ],
+   [
+    "thanksgiving",
+    2
+   ]
+  ],
+  "clash": []
+ },
+ "Jamestown": {
+  "also": [
+   [
+    "places named after people",
+    3
+   ]
+  ],
+  "clash": []
+ },
+ "Pocahontas": {
+  "also": [
+   [
+    "famous women in history",
+    1
+   ]
+  ],
+  "clash": []
+ },
+ "Squanto": {
+  "also": [
+   [
+    "thanksgiving",
+    3
+   ]
+  ],
+  "clash": []
+ },
+ "Massasoit": {
+  "also": [
+   [
+    "thanksgiving",
+    4
+   ]
+  ],
+  "clash": []
+ },
+ "Wampanoag": {
+  "also": [
+   [
+    "native north american languages",
+    4
+   ],
+   [
+    "thanksgiving",
+    3
+   ]
+  ],
+  "clash": []
+ },
+ "Roanoke": {
+  "also": [
+   [
+    "north american rivers",
+    4
+   ]
+  ],
+  "clash": []
+ },
+ "New Amsterdam": {
+  "also": [
+   [
+    "old city names",
+    2
+   ]
+  ],
+  "clash": []
+ },
+ "Henry Hudson": {
+  "also": [
+   [
+    "explorers",
+    3
+   ],
+   [
+    "famous voyages",
+    3
+   ]
+  ],
+  "clash": []
+ },
+ "Williamsburg": {
+  "also": [
+   [
+    "places named after people",
+    4
+   ]
+  ],
+  "clash": []
+ },
+ "Plymouth Rock": {
+  "also": [
+   [
+    "chicken breeds",
+    3
+   ],
+   [
+    "poultry",
+    4
+   ],
+   [
+    "thanksgiving",
+    2
+   ],
+   [
+    "us landmarks",
+    3
+   ]
+  ],
+  "clash": []
+ },
+ "tobacco": {
+  "also": [
+   [
+    "candle scents",
+    3
+   ],
+   [
+    "native american remedies",
+    4
+   ],
+   [
+    "perfume notes",
+    3
+   ],
+   [
+    "shades of brown",
+    4
+   ],
+   [
+    "smoking words",
+    1
+   ],
+   [
+    "words from native american languages",
+    3
+   ]
+  ],
+  "clash": []
+ },
+ "French and Indian War": {
+  "also": [
+   [
+    "wars and battles",
+    3
+   ]
+  ],
+  "clash": []
+ },
+ "Powhatan": {
+  "also": [
+   [
+    "native north american languages",
+    4
+   ]
+  ],
+  "clash": []
+ },
+ "stocks": {
+  "also": [
+   [
+    "medieval times",
+    3
+   ],
+   [
+    "punishments",
+    3
+   ]
+  ],
+  "clash": []
+ },
+ "pillory": {
+  "also": [
+   [
+    "medieval times",
+    3
+   ],
+   [
+    "punishments",
+    3
+   ]
+  ],
+  "clash": []
+ },
+ "town crier": {
+  "also": [
+   [
+    "medieval jobs",
+    2
+   ],
+   [
+    "old ways to communicate",
+    2
+   ],
+   [
+    "old-time jobs",
+    2
+   ]
+  ],
+  "clash": []
+ },
+ "blacksmith": {
+  "also": [
+   [
+    "medieval jobs",
+    1
+   ],
+   [
+    "trades",
+    2
+   ]
+  ],
+  "clash": []
+ },
+ "tricorn hat": {
+  "also": [
+   [
+    "pirates",
+    2
+   ],
+   [
+    "triangular things",
+    3
+   ],
+   [
+    "historical hats",
+    2
+   ]
+  ],
+  "clash": []
+ },
+ "musket": {
+  "also": [
+   [
+    "historic weapons",
+    2
+   ],
+   [
+    "pirate weapons",
+    2
+   ]
+  ],
+  "clash": []
+ },
+ "wigwam": {
+  "also": [
+   [
+    "tent types",
+    2
+   ],
+   [
+    "traditional dwellings",
+    2
+   ],
+   [
+    "words from native american languages",
+    2
+   ],
+   [
+    "zigzag words",
+    3
+   ]
+  ],
+  "clash": []
+ },
+ "log cabin": {
+  "also": [
+   [
+    "house styles",
+    1
+   ],
+   [
+    "houses and homes",
+    1
+   ],
+   [
+    "things made of wood",
+    1
+   ],
+   [
+    "traditional dwellings",
+    2
+   ],
+   [
+    "vacation homes",
+    1
+   ]
+  ],
+  "clash": []
+ },
+ "King Philip's War": {
+  "also": [
+   [
+    "wars and battles",
+    4
+   ]
+  ],
+  "clash": []
+ },
+ "flapper": {
+  "also": [
+   [
+    "1920s slang",
+    2
+   ],
+   [
+    "fashion styles",
+    3
+   ]
+  ],
+  "clash": []
+ },
+ "jazz": {
+  "also": [
+   [
+    "apple varieties",
+    3
+   ],
+   [
+    "music genres",
+    1
+   ],
+   [
+    "nba teams",
+    3
+   ]
+  ],
+  "clash": []
+ },
+ "Charleston": {
+  "also": [
+   [
+    "american cities",
+    2
+   ],
+   [
+    "ballroom dances",
+    3
+   ],
+   [
+    "dance moves",
+    2
+   ],
+   [
+    "dance music",
+    2
+   ],
+   [
+    "dances",
+    2
+   ],
+   [
+    "mahjong words",
+    4
+   ],
+   [
+    "places named after people",
+    3
+   ],
+   [
+    "port cities",
+    3
+   ],
+   [
+    "words named after places",
+    4
+   ]
+  ],
+  "clash": []
+ },
+ "speakeasy": {
+  "also": [
+   [
+    "1920s slang",
+    2
+   ]
+  ],
+  "clash": []
+ },
+ "bootlegger": {
+  "also": [
+   [
+    "1920s slang",
+    2
+   ]
+  ],
+  "clash": []
+ },
+ "gangster": {
+  "also": [
+   [
+    "movie genres",
+    2
+   ]
+  ],
+  "clash": []
+ },
+ "Art Deco": {
+  "also": [
+   [
+    "architecture styles",
+    2
+   ],
+   [
+    "art movements",
+    2
+   ],
+   [
+    "french phrases in english",
+    2
+   ],
+   [
+    "house styles",
+    3
+   ]
+  ],
+  "clash": []
+ },
+ "Louis Armstrong": {
+  "also": [
+   [
+    "jazz musicians",
+    1
+   ]
+  ],
+  "clash": []
+ },
+ "Duke Ellington": {
+  "also": [
+   [
+    "jazz musicians",
+    1
+   ]
+  ],
+  "clash": []
+ },
+ "Harlem Renaissance": {
+  "also": [
+   [
+    "art movements",
+    3
+   ]
+  ],
+  "clash": [
+   "renaissance"
+  ]
+ },
+ "Langston Hughes": {
+  "also": [
+   [
+    "authors",
+    3
+   ],
+   [
+    "poets",
+    3
+   ]
+  ],
+  "clash": []
+ },
+ "Model T": {
+  "also": [
+   [
+    "black things",
+    4
+   ],
+   [
+    "famous car models",
+    1
+   ]
+  ],
+  "clash": []
+ },
+ "silent film": {
+  "also": [
+   [
+    "movie genres",
+    3
+   ],
+   [
+    "quiet things",
+    3
+   ]
+  ],
+  "clash": []
+ },
+ "Charlie Chaplin": {
+  "also": [
+   [
+    "classic film stars",
+    1
+   ],
+   [
+    "comedians",
+    1
+   ],
+   [
+    "famous people",
+    1
+   ]
+  ],
+  "clash": []
+ },
+ "Buster Keaton": {
+  "also": [
+   [
+    "classic film stars",
+    3
+   ],
+   [
+    "comedians",
+    3
+   ]
+  ],
+  "clash": []
+ },
+ "Rudolph Valentino": {
+  "also": [
+   [
+    "classic film stars",
+    3
+   ]
+  ],
+  "clash": []
+ },
+ "Clara Bow": {
+  "also": [
+   [
+    "classic film stars",
+    4
+   ]
+  ],
+  "clash": []
+ },
+ "Babe Ruth": {
+  "also": [
+   [
+    "famous athletes",
+    1
+   ],
+   [
+    "famous people",
+    2
+   ]
+  ],
+  "clash": []
+ },
+ "moonshine": {
+  "also": [
+   [
+    "spirits",
+    2
+   ],
+   [
+    "words meaning nonsense",
+    2
+   ]
+  ],
+  "clash": []
+ },
+ "Hemingway": {
+  "also": [
+   [
+    "american novelists",
+    1
+   ],
+   [
+    "nobel laureates",
+    2
+   ]
+  ],
+  "clash": []
+ },
+ "Wall Street Crash": {
+  "also": [
+   [
+    "stock market words",
+    3
+   ]
+  ],
+  "clash": []
+ },
+ "bee's knees": {
+  "also": [
+   [
+    "1920s slang",
+    2
+   ],
+   [
+    "cocktails",
+    4
+   ]
+  ],
+  "clash": []
+ },
+ "cat's pajamas": {
+  "also": [
+   [
+    "1920s slang",
+    2
+   ]
+  ],
+  "clash": []
+ },
+ "foxtrot": {
+  "also": [
+   [
+    "ballroom dances",
+    1
+   ],
+   [
+    "dance music",
+    1
+   ],
+   [
+    "dances",
+    2
+   ],
+   [
+    "phonetic alphabet",
+    1
+   ]
+  ],
+  "clash": []
+ },
+ "Lindy Hop": {
+  "also": [
+   [
+    "ballroom dances",
+    3
+   ],
+   [
+    "dances",
+    3
+   ]
+  ],
+  "clash": []
+ },
+ "dance marathon": {
+  "also": [
+   [
+    "dance",
+    3
+   ]
+  ],
+  "clash": []
+ },
+ "feather boa": {
+  "also": [
+   [
+    "scarves and gloves",
+    2
+   ],
+   [
+    "soft things",
+    3
+   ]
+  ],
+  "clash": []
+ },
+ "Bessie Smith": {
+  "also": [
+   [
+    "musicians",
+    3
+   ]
+  ],
+  "clash": []
+ },
+ "King Oliver": {
+  "also": [
+   [
+    "jazz musicians",
+    4
+   ]
+  ],
+  "clash": []
+ },
+ "Jelly Roll Morton": {
+  "also": [
+   [
+    "jazz musicians",
+    3
+   ]
+  ],
+  "clash": []
+ },
+ "Bix Beiderbecke": {
+  "also": [
+   [
+    "jazz musicians",
+    4
+   ]
+  ],
+  "clash": []
+ },
+ "Tutankhamun": {
+  "also": [
+   [
+    "discoveries",
+    1
+   ],
+   [
+    "famous discoveries",
+    1
+   ],
+   [
+    "monarchs",
+    1
+   ],
+   [
+    "pharaohs",
+    1
+   ],
+   [
+    "tombs and burials",
+    1
+   ]
+  ],
+  "clash": []
+ },
+ "dapper": {
+  "also": [
+   [
+    "1920s slang",
+    2
+   ]
+  ],
+  "clash": []
+ },
+ "ragtime": {
+  "also": [
+   [
+    "american roots music",
+    2
+   ],
+   [
+    "jazz words",
+    2
+   ]
+  ],
+  "clash": []
+ },
+ "Jack Dempsey": {
+  "also": [
+   [
+    "famous boxers",
+    3
+   ]
+  ],
+  "clash": []
+ },
+ "Coco Chanel": {
+  "also": [
+   [
+    "famous women in history",
+    2
+   ],
+   [
+    "fashion designers",
+    2
+   ]
+  ],
+  "clash": []
+ },
+ "little black dress": {
+  "also": [
+   [
+    "dresses and skirts",
+    2
+   ]
+  ],
+  "clash": []
+ },
+ "Magna Carta": {
+  "also": [
+   [
+    "latin phrases",
+    3
+   ],
+   [
+    "medieval times",
+    2
+   ]
+  ],
+  "clash": []
+ },
+ "Domesday Book": {
+  "also": [
+   [
+    "medieval times",
+    3
+   ]
+  ],
+  "clash": []
+ },
+ "Code of Hammurabi": {
+  "also": [
+   [
+    "mesopotamia",
+    2
+   ]
+  ],
+  "clash": []
+ },
+ "Constitution": {
+  "also": [
+   [
+    "famous ships",
+    3
+   ],
+   [
+    "government words",
+    1
+   ],
+   [
+    "hidden birds",
+    3
+   ],
+   [
+    "us government",
+    1
+   ]
+  ],
+  "clash": []
+ },
+ "Bill of Rights": {
+  "also": [
+   [
+    "government words",
+    2
+   ],
+   [
+    "us government",
+    2
+   ]
+  ],
+  "clash": []
+ },
+ "Rosetta Stone": {
+  "also": [
+   [
+    "ancient egypt",
+    2
+   ],
+   [
+    "artifacts",
+    1
+   ],
+   [
+    "discoveries",
+    1
+   ],
+   [
+    "famous discoveries",
+    2
+   ],
+   [
+    "museum",
+    2
+   ]
+  ],
+  "clash": []
+ },
+ "Dead Sea Scrolls": {
+  "also": [
+   [
+    "ancient writing",
+    2
+   ],
+   [
+    "discoveries",
+    2
+   ],
+   [
+    "famous discoveries",
+    2
+   ]
+  ],
+  "clash": []
+ },
+ "Justinian Code": {
+  "also": [
+   [
+    "byzantine empire",
+    3
+   ]
+  ],
+  "clash": []
+ },
+ "Treaty of Waitangi": {
+  "also": [
+   [
+    "maori culture",
+    3
+   ]
+  ],
+  "clash": []
+ },
+ "Truman Doctrine": {
+  "also": [
+   [
+    "cold war",
+    3
+   ]
+  ],
+  "clash": []
+ },
+ "Helsinki Accords": {
+  "also": [
+   [
+    "cold war",
+    4
+   ]
+  ],
+  "clash": []
+ },
+ "Cyrus Cylinder": {
+  "also": [
+   [
+    "ancient persia",
+    3
+   ]
+  ],
+  "clash": []
+ },
+ "Mishnah": {
+  "also": [
+   [
+    "holy books",
+    3
+   ]
+  ],
+  "clash": []
+ },
+ "strigoi": {
+  "also": [],
+  "clash": [
+   "slavic folklore"
+  ]
+ },
+ "vrykolakas": {
+  "also": [],
+  "clash": [
+   "ghosts and spirits"
+  ]
+ },
+ "vetala": {
+  "also": [],
+  "clash": [
+   "ghosts and spirits"
+  ]
+ },
+ "walking dead": {
+  "also": [],
+  "clash": [
+   "halloween"
+  ]
+ },
+ "Frankenstein's monster": {
+  "also": [
+   [
+    "halloween",
+    1
+   ]
+  ],
+  "clash": [
+   "classic novels"
+  ]
+ },
+ "death knight": {
+  "also": [],
+  "clash": [
+   "knights"
+  ]
+ },
+ "nosferatu": {
+  "also": [],
+  "clash": [
+   "halloween"
+  ]
+ },
+ "Heracles": {
+  "also": [],
+  "clash": [
+   "labors of hercules",
+   "greek gods"
+  ]
+ },
+ "Orpheus": {
+  "also": [
+   [
+    "famous operas",
+    3
+   ]
+  ],
+  "clash": [
+   "greek gods"
+  ]
+ },
+ "Argonauts": {
+  "also": [
+   [
+    "famous voyages",
+    3
+   ]
+  ],
+  "clash": [
+   "famous ships"
+  ]
+ },
+ "Telemachus": {
+  "also": [],
+  "clash": [
+   "trojan war"
+  ]
+ },
+ "Iolaus": {
+  "also": [],
+  "clash": [
+   "labors of hercules"
+  ]
+ },
+ "apples of the Hesperides": {
+  "also": [],
+  "clash": [
+   "legendary places"
+  ]
+ },
+ "girdle of Hippolyta": {
+  "also": [],
+  "clash": [
+   "magic items"
+  ]
+ },
+ "Camelot": {
+  "also": [],
+  "clash": [
+   "famous castles",
+   "castles"
+  ]
+ },
+ "Utopia": {
+  "also": [],
+  "clash": [
+   "renaissance"
+  ]
+ },
+ "Garden of Eden": {
+  "also": [],
+  "clash": [
+   "famous gardens"
+  ]
+ },
+ "Arcadia": {
+  "also": [],
+  "clash": [
+   "ancient greece"
+  ]
+ },
+ "Ys": {
+  "also": [
+   [
+    "celtic folklore",
+    4
+   ]
+  ],
+  "clash": []
+ },
+ "Shambhala": {
+  "also": [],
+  "clash": [
+   "buddhism words"
+  ]
+ },
+ "Hy-Brasil": {
+  "also": [
+   [
+    "celtic folklore",
+    4
+   ]
+  ],
+  "clash": []
+ },
+ "Cibola": {
+  "also": [],
+  "clash": [
+   "conquistadors"
+  ]
+ },
+ "Quivira": {
+  "also": [],
+  "clash": [
+   "conquistadors"
+  ]
+ },
+ "Paititi": {
+  "also": [],
+  "clash": [
+   "inca empire"
+  ]
+ },
+ "Hesperides": {
+  "also": [],
+  "clash": [
+   "labors of hercules"
+  ]
+ },
+ "Jotunheim": {
+  "also": [
+   [
+    "norse mythology",
+    3
+   ]
+  ],
+  "clash": []
+ },
+ "Iram of the Pillars": {
+  "also": [],
+  "clash": [
+   "arabian nights"
+  ]
+ },
+ "Aztlán": {
+  "also": [
+   [
+    "aztecs and maya",
+    3
+   ]
+  ],
+  "clash": []
+ },
+ "Sodom": {
+  "also": [],
+  "clash": [
+   "ancient cities"
+  ]
+ },
+ "Gomorrah": {
+  "also": [],
+  "clash": [
+   "ancient cities"
+  ]
+ },
+ "Fusang": {
+  "also": [],
+  "clash": [
+   "chinese mythology"
+  ]
+ },
+ "Cockaigne": {
+  "also": [],
+  "clash": [
+   "medieval times"
+  ]
+ },
+ "Wonderland": {
+  "also": [],
+  "clash": [
+   "fairy tales"
+  ]
+ },
+ "Oz": {
+  "also": [
+   [
+    "australian slang",
+    2
+   ]
+  ],
+  "clash": [
+   "fairy tales"
+  ]
+ },
+ "Terry Pratchett": {
+  "also": [
+   [
+    "british novelists",
+    2
+   ]
+  ],
+  "clash": []
+ },
+ "Ursula Le Guin": {
+  "also": [
+   [
+    "american novelists",
+    3
+   ]
+  ],
+  "clash": []
+ },
+ "Brandon Sanderson": {
+  "also": [
+   [
+    "american novelists",
+    4
+   ]
+  ],
+  "clash": []
+ },
+ "Robert Jordan": {
+  "also": [
+   [
+    "american novelists",
+    4
+   ]
+  ],
+  "clash": []
+ },
+ "C.S. Lewis": {
+  "also": [
+   [
+    "british novelists",
+    2
+   ],
+   [
+    "children's authors",
+    2
+   ]
+  ],
+  "clash": []
+ },
+ "J.R.R. Tolkien": {
+  "also": [
+   [
+    "british novelists",
+    2
+   ]
+  ],
+  "clash": []
+ },
+ "J.K. Rowling": {
+  "also": [
+   [
+    "british novelists",
+    1
+   ],
+   [
+    "children's authors",
+    1
+   ]
+  ],
+  "clash": []
+ },
+ "George R.R. Martin": {
+  "also": [
+   [
+    "american novelists",
+    2
+   ]
+  ],
+  "clash": []
+ },
+ "L. Frank Baum": {
+  "also": [
+   [
+    "children's authors",
+    2
+   ],
+   [
+    "american novelists",
+    3
+   ]
+  ],
+  "clash": []
+ },
+ "fairyland": {
+  "also": [],
+  "clash": [
+   "fairy folk"
+  ]
+ },
+ "enchanted forest": {
+  "also": [],
+  "clash": [
+   "fairy tales"
+  ]
+ },
+ "damsel in distress": {
+  "also": [],
+  "clash": [
+   "knights",
+   "fairy tales"
+  ]
+ },
+ "Lilliput": {
+  "also": [],
+  "clash": [
+   "classic novels",
+   "tiny things"
+  ]
+ },
+ "Hyrule": {
+  "also": [],
+  "clash": [
+   "video games"
+  ]
+ },
+ "Azeroth": {
+  "also": [],
+  "clash": [
+   "video games"
+  ]
+ },
+ "Tamriel": {
+  "also": [],
+  "clash": [
+   "video games"
+  ]
+ },
+ "merfolk": {
+  "also": [
+   [
+    "mythical creatures",
+    2
+   ]
+  ],
+  "clash": []
+ },
+ "night elf": {
+  "also": [],
+  "clash": [
+   "video games"
+  ]
+ },
+ "tauren": {
+  "also": [],
+  "clash": [
+   "video games"
+  ]
+ },
+ "worgen": {
+  "also": [],
+  "clash": [
+   "video games"
+  ]
+ },
+ "draenei": {
+  "also": [],
+  "clash": [
+   "video games"
+  ]
+ },
+ "dragonborn": {
+  "also": [],
+  "clash": [
+   "dragons"
+  ]
+ },
+ "genie lamp": {
+  "also": [
+   [
+    "arabian nights",
+    1
+   ]
+  ],
+  "clash": []
+ },
+ "Aladdin's lamp": {
+  "also": [
+   [
+    "arabian nights",
+    1
+   ],
+   [
+    "fairy tales",
+    2
+   ]
+  ],
+  "clash": []
+ },
+ "invisibility cloak": {
+  "also": [],
+  "clash": [
+   "wizard words"
+  ]
+ },
+ "cloak of invisibility": {
+  "also": [],
+  "clash": [
+   "wizard words"
+  ]
+ },
+ "magic beans": {
+  "also": [
+   [
+    "fairy tales",
+    2
+   ]
+  ],
+  "clash": []
+ },
+ "seven-league boots": {
+  "also": [
+   [
+    "fairy tales",
+    3
+   ]
+  ],
+  "clash": []
+ },
+ "glass slipper": {
+  "also": [
+   [
+    "fairy tales",
+    1
+   ]
+  ],
+  "clash": [
+   "shoes"
+  ]
+ },
+ "Mjolnir": {
+  "also": [
+   [
+    "norse mythology",
+    2
+   ]
+  ],
+  "clash": []
+ },
+ "Helm of Darkness": {
+  "also": [],
+  "clash": [
+   "greek gods"
+  ]
+ },
+ "cap of invisibility": {
+  "also": [],
+  "clash": [
+   "greek gods"
+  ]
+ },
+ "talaria": {
+  "also": [],
+  "clash": [
+   "greek gods"
+  ]
+ },
+ "Kibisis": {
+  "also": [],
+  "clash": [
+   "greek heroes"
+  ]
+ },
+ "Andvaranaut": {
+  "also": [
+   [
+    "norse mythology",
+    4
+   ]
+  ],
+  "clash": []
+ },
+ "Kusanagi": {
+  "also": [],
+  "clash": [
+   "shinto kami",
+   "japanese folklore"
+  ]
+ },
+ "Brahmastra": {
+  "also": [],
+  "clash": [
+   "hindu gods"
+  ]
+ },
+ "Sudarshana Chakra": {
+  "also": [],
+  "clash": [
+   "hindu gods"
+  ]
+ },
+ "magic harp": {
+  "also": [],
+  "clash": [
+   "fairy tales"
+  ]
+ },
+ "incantation": {
+  "also": [],
+  "clash": [
+   "witchcraft"
+  ]
+ },
+ "enchantment": {
+  "also": [],
+  "clash": [
+   "witchcraft"
+  ]
+ },
+ "sorcery": {
+  "also": [],
+  "clash": [
+   "witchcraft"
+  ]
+ },
+ "conjure": {
+  "also": [],
+  "clash": [
+   "witchcraft",
+   "magic tricks"
+  ]
+ },
+ "arcane": {
+  "also": [],
+  "clash": [
+   "words for strange"
+  ]
+ },
+ "sorcerer": {
+  "also": [],
+  "clash": [
+   "witchcraft"
+  ]
+ },
+ "warlock": {
+  "also": [
+   [
+    "witchcraft",
+    2
+   ]
+  ],
+  "clash": []
+ },
+ "magus": {
+  "also": [],
+  "clash": [
+   "christmas"
+  ]
+ },
+ "necromancer": {
+  "also": [],
+  "clash": [
+   "undead"
+  ]
+ },
+ "conjurer": {
+  "also": [
+   [
+    "magic show words",
+    2
+   ]
+  ],
+  "clash": []
+ },
+ "spellbook": {
+  "also": [],
+  "clash": [
+   "witchcraft"
+  ]
+ },
+ "sigil": {
+  "also": [],
+  "clash": [
+   "witchcraft"
+  ]
+ },
+ "pointed hat": {
+  "also": [],
+  "clash": [
+   "witchcraft"
+  ]
+ },
+ "grimoire": {
+  "also": [
+   [
+    "witchcraft",
+    3
+   ]
+  ],
+  "clash": []
+ },
+ "divination": {
+  "also": [
+   [
+    "witchcraft",
+    3
+   ]
+  ],
+  "clash": [
+   "superstitions"
+  ]
+ },
+ "coven": {
+  "also": [],
+  "clash": [
+   "collective nouns"
+  ]
+ },
+ "curse": {
+  "also": [],
+  "clash": [
+   "wizard words"
+  ]
+ },
+ "familiar": {
+  "also": [],
+  "clash": [
+   "wizard words"
+  ]
+ },
+ "pentacle": {
+  "also": [],
+  "clash": [
+   "symbols"
+  ]
+ },
+ "eye of newt": {
+  "also": [],
+  "clash": [
+   "salamanders and newts"
+  ]
+ },
+ "witch trial": {
+  "also": [],
+  "clash": [
+   "colonial america"
+  ]
+ },
+ "crone": {
+  "also": [],
+  "clash": [
+   "words for old"
+  ]
+ },
+ "sorceress": {
+  "also": [],
+  "clash": [
+   "wizard words"
+  ]
+ },
+ "enchantress": {
+  "also": [],
+  "clash": [
+   "wizard words"
+  ]
+ },
+ "love potion": {
+  "also": [],
+  "clash": [
+   "valentine's day"
+  ]
+ },
+ "witch hat": {
+  "also": [
+   [
+    "halloween",
+    1
+   ]
+  ],
+  "clash": [
+   "hats"
+  ]
+ },
+ "witch bottle": {
+  "also": [],
+  "clash": [
+   "superstitions"
+  ]
+ },
+ "witch doctor": {
+  "also": [],
+  "clash": [
+   "african folklore"
+  ]
+ },
+ "philosopher's stone": {
+  "also": [],
+  "clash": [
+   "magic items"
+  ]
+ },
+ "elixir of life": {
+  "also": [],
+  "clash": [
+   "magic items"
+  ]
+ },
+ "aqua vitae": {
+  "also": [],
+  "clash": [
+   "spirits",
+   "latin phrases"
+  ]
+ },
+ "quicksilver": {
+  "also": [],
+  "clash": [
+   "metals",
+   "chemical elements"
+  ]
+ },
+ "Hermes Trismegistus": {
+  "also": [],
+  "clash": [
+   "greek gods"
+  ]
+ },
+ "Paracelsus": {
+  "also": [],
+  "clash": [
+   "renaissance"
+  ]
+ },
+ "vitriol": {
+  "also": [
+   [
+    "acids and bases",
+    4
+   ]
+  ],
+  "clash": []
+ },
+ "base metal": {
+  "also": [],
+  "clash": [
+   "metals"
+  ]
+ },
+ "Fafnir": {
+  "also": [
+   [
+    "norse mythology",
+    3
+   ]
+  ],
+  "clash": []
+ },
+ "Wawel Dragon": {
+  "also": [],
+  "clash": [
+   "slavic folklore"
+  ]
+ },
+ "Y Ddraig Goch": {
+  "also": [
+   [
+    "national symbols",
+    4
+   ]
+  ],
+  "clash": [
+   "celtic folklore"
+  ]
+ },
+ "lindworm": {
+  "also": [],
+  "clash": [
+   "heraldry"
+  ]
+ },
+ "Shenlong": {
+  "also": [],
+  "clash": [
+   "chinese mythology"
+  ]
+ },
+ "Vritra": {
+  "also": [],
+  "clash": [
+   "hindu gods"
+  ]
+ },
+ "Welsh dragon": {
+  "also": [
+   [
+    "national symbols",
+    3
+   ],
+   [
+    "national animals",
+    3
+   ]
+  ],
+  "clash": []
+ },
+ "Bahamut": {
+  "also": [],
+  "clash": [
+   "video games"
+  ]
+ },
+ "Alduin": {
+  "also": [],
+  "clash": [
+   "video games"
+  ]
+ },
+ "Paarthurnax": {
+  "also": [],
+  "clash": [
+   "video games"
+  ]
+ },
+ "Deathwing": {
+  "also": [],
+  "clash": [
+   "video games"
+  ]
+ },
+ "Tinker Bell": {
+  "also": [
+   [
+    "fairy tale characters",
+    2
+   ]
+  ],
+  "clash": []
+ },
+ "Queen Mab": {
+  "also": [],
+  "clash": [
+   "shakespeare characters"
+  ]
+ },
+ "Robin Goodfellow": {
+  "also": [
+   [
+    "shakespeare characters",
+    4
+   ]
+  ],
+  "clash": []
+ },
+ "Sugar Plum Fairy": {
+  "also": [],
+  "clash": [
+   "famous ballets",
+   "christmas"
+  ]
+ },
+ "Seelie": {
+  "also": [
+   [
+    "celtic folklore",
+    4
+   ]
+  ],
+  "clash": []
+ },
+ "Unseelie": {
+  "also": [
+   [
+    "celtic folklore",
+    4
+   ]
+  ],
+  "clash": []
+ },
+ "redcap": {
+  "also": [],
+  "clash": [
+   "celtic folklore"
+  ]
+ },
+ "spriggan": {
+  "also": [
+   [
+    "celtic folklore",
+    4
+   ]
+  ],
+  "clash": []
+ },
+ "piskie": {
+  "also": [],
+  "clash": [
+   "celtic folklore"
+  ]
+ },
+ "Sigurd": {
+  "also": [
+   [
+    "norse mythology",
+    3
+   ]
+  ],
+  "clash": [
+   "vikings"
+  ]
+ },
+ "Rostam": {
+  "also": [],
+  "clash": [
+   "ancient persia"
+  ]
+ },
+ "Mulan": {
+  "also": [],
+  "clash": [
+   "chinese mythology",
+   "famous women in history"
+  ]
+ },
+ "Yamato Takeru": {
+  "also": [],
+  "clash": [
+   "japanese folklore"
+  ]
+ },
+ "Wayland the Smith": {
+  "also": [],
+  "clash": [
+   "norse mythology"
+  ]
+ },
+ "Ragnar Lodbrok": {
+  "also": [
+   [
+    "vikings",
+    2
+   ]
+  ],
+  "clash": []
+ },
+ "Amleth": {
+  "also": [],
+  "clash": [
+   "shakespeare characters"
+  ]
+ },
+ "Horatius": {
+  "also": [],
+  "clash": [
+   "ancient rome"
+  ]
+ },
+ "Isolde": {
+  "also": [
+   [
+    "famous operas",
+    3
+   ]
+  ],
+  "clash": []
+ },
+ "Morgan le Fay": {
+  "also": [],
+  "clash": [
+   "witchcraft",
+   "fairy folk",
+   "wizard words"
+  ]
+ },
+ "Lady of the Lake": {
+  "also": [],
+  "clash": [
+   "fairy folk"
+  ]
+ },
+ "Sword in the Stone": {
+  "also": [],
+  "clash": [
+   "magic items"
+  ]
+ },
+ "Thomas Malory": {
+  "also": [
+   [
+    "authors",
+    3
+   ]
+  ],
+  "clash": []
+ },
+ "Mabinogion": {
+  "also": [
+   [
+    "celtic folklore",
+    3
+   ]
+  ],
+  "clash": []
+ },
+ "Le Morte d'Arthur": {
+  "also": [],
+  "clash": [
+   "classic novels"
+  ]
+ },
+ "Joseph of Arimathea": {
+  "also": [
+   [
+    "famous saints",
+    3
+   ]
+  ],
+  "clash": []
+ },
+ "Mount Badon": {
+  "also": [
+   [
+    "medieval battles",
+    4
+   ]
+  ],
+  "clash": []
+ },
+ "Camlann": {
+  "also": [],
+  "clash": [
+   "medieval battles"
+  ]
+ },
+ "Questing Beast": {
+  "also": [],
+  "clash": [
+   "mythical creatures"
+  ]
+ },
+ "Prince John": {
+  "also": [],
+  "clash": [
+   "english monarchs"
+  ]
+ },
+ "King Richard": {
+  "also": [
+   [
+    "english monarchs",
+    2
+   ]
+  ],
+  "clash": [
+   "crusades"
+  ]
+ },
+ "Nottingham Castle": {
+  "also": [
+   [
+    "famous castles",
+    4
+   ]
+  ],
+  "clash": []
+ },
+ "archery contest": {
+  "also": [],
+  "clash": [
+   "archery terms"
+  ]
+ },
+ "fable": {
+  "also": [
+   [
+    "book genres",
+    3
+   ]
+  ],
+  "clash": []
+ },
+ "fairy tale": {
+  "also": [
+   [
+    "fairy tales",
+    1
+   ],
+   [
+    "book genres",
+    2
+   ]
+  ],
+  "clash": []
+ },
+ "folk tale": {
+  "also": [
+   [
+    "book genres",
+    3
+   ]
+  ],
+  "clash": []
+ },
+ "Lorelei": {
+  "also": [],
+  "clash": [
+   "fairy folk"
+  ]
+ },
+ "Perchta": {
+  "also": [],
+  "clash": [
+   "christmas"
+  ]
+ },
+ "Black Shuck": {
+  "also": [],
+  "clash": [
+   "ghosts and spirits"
+  ]
+ },
+ "Melusine": {
+  "also": [],
+  "clash": [
+   "fairy folk"
+  ]
+ },
+ "Yule Lads": {
+  "also": [
+   [
+    "christmas",
+    4
+   ]
+  ],
+  "clash": []
+ },
+ "Grýla": {
+  "also": [],
+  "clash": [
+   "christmas"
+  ]
+ },
+ "Krampusnacht": {
+  "also": [],
+  "clash": [
+   "christmas"
+  ]
+ },
+ "Old Man Winter": {
+  "also": [],
+  "clash": [
+   "signs of winter"
+  ]
+ },
+ "Seven Lucky Gods": {
+  "also": [],
+  "clash": [
+   "shinto kami"
+  ]
+ },
+ "Daikokuten": {
+  "also": [],
+  "clash": [
+   "shinto kami"
+  ]
+ },
+ "Bishamonten": {
+  "also": [],
+  "clash": [
+   "shinto kami"
+  ]
+ },
+ "Hotei": {
+  "also": [],
+  "clash": [
+   "shinto kami",
+   "buddhism words"
+  ]
+ },
+ "Hachikō": {
+  "also": [
+   [
+    "famous statues",
+    3
+   ]
+  ],
+  "clash": []
+ },
+ "teru teru bōzu": {
+  "also": [],
+  "clash": [
+   "dolls and figures"
+  ]
+ },
+ "senbazuru": {
+  "also": [
+   [
+    "paper crafts",
+    3
+   ]
+  ],
+  "clash": []
+ },
+ "Benkei": {
+  "also": [],
+  "clash": [
+   "feudal japan"
+  ]
+ },
+ "Yoshitsune": {
+  "also": [],
+  "clash": [
+   "feudal japan"
+  ]
+ },
+ "yuki-onna": {
+  "also": [],
+  "clash": [
+   "ghosts and spirits"
+  ]
+ },
+ "funayūrei": {
+  "also": [
+   [
+    "ghosts and spirits",
+    4
+   ]
+  ],
+  "clash": []
+ },
+ "ubume": {
+  "also": [
+   [
+    "ghosts and spirits",
+    4
+   ]
+  ],
+  "clash": []
+ },
+ "gashadokuro": {
+  "also": [],
+  "clash": [
+   "undead"
+  ]
+ },
+ "hitodama": {
+  "also": [],
+  "clash": [
+   "ghosts and spirits"
+  ]
+ },
+ "onibi": {
+  "also": [],
+  "clash": [
+   "ghosts and spirits"
+  ]
+ },
+ "ningyo": {
+  "also": [],
+  "clash": [
+   "mythical creatures"
+  ]
+ },
+ "tsuchinoko": {
+  "also": [
+   [
+    "cryptids",
+    4
+   ]
+  ],
+  "clash": []
+ },
+ "hannya": {
+  "also": [],
+  "clash": [
+   "asian theater forms"
+  ]
+ },
+ "jorōgumo": {
+  "also": [],
+  "clash": [
+   "shapeshifters"
+  ]
+ },
+ "púca": {
+  "also": [],
+  "clash": [
+   "fairy folk"
+  ]
+ },
+ "dullahan": {
+  "also": [],
+  "clash": [
+   "ghosts and spirits"
+  ]
+ },
+ "Finn McCool": {
+  "also": [
+   [
+    "legendary heroes",
+    2
+   ]
+  ],
+  "clash": []
+ },
+ "Fionn mac Cumhaill": {
+  "also": [
+   [
+    "legendary heroes",
+    3
+   ]
+  ],
+  "clash": []
+ },
+ "Tuatha Dé Danann": {
+  "also": [
+   [
+    "celtic gods",
+    3
+   ]
+  ],
+  "clash": []
+ },
+ "Manannán mac Lir": {
+  "also": [
+   [
+    "celtic gods",
+    3
+   ]
+  ],
+  "clash": []
+ },
+ "Cailleach": {
+  "also": [],
+  "clash": [
+   "witchcraft"
+  ]
+ },
+ "sidhe": {
+  "also": [
+   [
+    "fairy folk",
+    3
+   ]
+  ],
+  "clash": []
+ },
+ "fear dearg": {
+  "also": [
+   [
+    "fairy folk",
+    4
+   ]
+  ],
+  "clash": []
+ },
+ "clurichaun": {
+  "also": [
+   [
+    "fairy folk",
+    4
+   ]
+  ],
+  "clash": []
+ },
+ "merrow": {
+  "also": [
+   [
+    "fairy folk",
+    4
+   ]
+  ],
+  "clash": []
+ },
+ "bogle": {
+  "also": [],
+  "clash": [
+   "fairy folk"
+  ]
+ },
+ "Tam Lin": {
+  "also": [],
+  "clash": [
+   "fairy folk"
+  ]
+ },
+ "Taliesin": {
+  "also": [],
+  "clash": [
+   "poets"
+  ]
+ },
+ "Gwyn ap Nudd": {
+  "also": [],
+  "clash": [
+   "celtic gods"
+  ]
+ },
+ "Ceridwen": {
+  "also": [
+   [
+    "celtic gods",
+    4
+   ]
+  ],
+  "clash": [
+   "witchcraft"
+  ]
+ },
+ "Tylwyth Teg": {
+  "also": [
+   [
+    "fairy folk",
+    4
+   ]
+  ],
+  "clash": []
+ },
+ "Cŵn Annwn": {
+  "also": [],
+  "clash": [
+   "ghosts and spirits"
+  ]
+ },
+ "fairy fort": {
+  "also": [],
+  "clash": [
+   "fairy folk"
+  ]
+ },
+ "Anansi": {
+  "also": [],
+  "clash": [
+   "spiders"
+  ]
+ },
+ "Kwaku Ananse": {
+  "also": [],
+  "clash": [
+   "spiders"
+  ]
+ },
+ "Mami Wata": {
+  "also": [],
+  "clash": [
+   "mythical creatures"
+  ]
+ },
+ "Sundiata": {
+  "also": [
+   [
+    "african historical leaders",
+    3
+   ]
+  ],
+  "clash": []
+ },
+ "impundulu": {
+  "also": [],
+  "clash": [
+   "winged beasts"
+  ]
+ },
+ "Sadko": {
+  "also": [
+   [
+    "famous operas",
+    4
+   ]
+  ],
+  "clash": []
+ },
+ "Ilya Muromets": {
+  "also": [
+   [
+    "legendary heroes",
+    3
+   ]
+  ],
+  "clash": []
+ },
+ "Dobrynya Nikitich": {
+  "also": [],
+  "clash": [
+   "legendary heroes"
+  ]
+ },
+ "Alyosha Popovich": {
+  "also": [],
+  "clash": [
+   "legendary heroes"
+  ]
+ },
+ "bogatyr": {
+  "also": [],
+  "clash": [
+   "knights"
+  ]
+ },
+ "vila": {
+  "also": [],
+  "clash": [
+   "fairy folk"
+  ]
+ },
+ "Snegurochka": {
+  "also": [],
+  "clash": [
+   "christmas"
+  ]
+ },
+ "Kupala Night": {
+  "also": [
+   [
+    "midsummer",
+    3
+   ]
+  ],
+  "clash": []
+ },
+ "Maslenitsa": {
+  "also": [
+   [
+    "festivals of the world",
+    4
+   ]
+  ],
+  "clash": []
+ },
+ "Kolobok": {
+  "also": [],
+  "clash": [
+   "fairy tales"
+  ]
+ },
+ "La Llorona": {
+  "also": [
+   [
+    "ghosts and spirits",
+    3
+   ]
+  ],
+  "clash": []
+ },
+ "La Siguanaba": {
+  "also": [],
+  "clash": [
+   "ghosts and spirits"
+  ]
+ },
+ "La Sayona": {
+  "also": [],
+  "clash": [
+   "ghosts and spirits"
+  ]
+ },
+ "alux": {
+  "also": [],
+  "clash": [
+   "aztecs and maya"
+  ]
+ },
+ "Xtabay": {
+  "also": [],
+  "clash": [
+   "aztecs and maya"
+  ]
+ },
+ "lobisón": {
+  "also": [
+   [
+    "shapeshifters",
+    4
+   ]
+  ],
+  "clash": []
+ },
+ "huay chivo": {
+  "also": [],
+  "clash": [
+   "shapeshifters"
+  ]
+ },
+ "Caleuche": {
+  "also": [],
+  "clash": [
+   "ghosts and spirits"
+  ]
+ },
+ "Iara": {
+  "also": [],
+  "clash": [
+   "fairy folk"
+  ]
+ },
+ "Mount Kaf": {
+  "also": [
+   [
+    "legendary places",
+    4
+   ]
+  ],
+  "clash": []
+ },
+ "Zümrüdüanka": {
+  "also": [],
+  "clash": [
+   "winged beasts"
+  ]
+ },
+ "Tulpar": {
+  "also": [],
+  "clash": [
+   "winged beasts"
+  ]
+ },
+ "Hüma bird": {
+  "also": [],
+  "clash": [
+   "winged beasts"
+  ]
+ },
+ "Battal Gazi": {
+  "also": [],
+  "clash": [
+   "legendary heroes"
+  ]
+ },
+ "Köroğlu": {
+  "also": [],
+  "clash": [
+   "legendary heroes"
+  ]
+ },
+ "Ejderha": {
+  "also": [
+   [
+    "dragons",
+    4
+   ]
+  ],
+  "clash": []
+ },
+ "open sesame": {
+  "also": [],
+  "clash": [
+   "wizard words"
+  ]
+ },
+ "Harun al-Rashid": {
+  "also": [],
+  "clash": [
+   "famous leaders"
+  ]
+ },
+ "Jafar": {
+  "also": [
+   [
+    "arabic names",
+    3
+   ]
+  ],
+  "clash": []
+ },
+ "City of Brass": {
+  "also": [],
+  "clash": [
+   "legendary places"
+  ]
+ },
+ "Seven Sisters": {
+  "also": [],
+  "clash": [
+   "constellations"
+  ]
+ },
+ "min min light": {
+  "also": [],
+  "clash": [
+   "ghosts and spirits"
+  ]
+ },
+ "Davy Crockett": {
+  "also": [],
+  "clash": [
+   "wild west"
+  ]
+ },
+ "Casey Jones": {
+  "also": [],
+  "clash": [
+   "railroad jobs"
+  ]
+ },
+ "John Henry": {
+  "also": [],
+  "clash": [
+   "railroad jobs"
+  ]
+ },
+ "Jim Bridger": {
+  "also": [],
+  "clash": [
+   "wild west",
+   "explorers"
+  ]
+ },
+ "Pecos Bill": {
+  "also": [],
+  "clash": [
+   "wild west"
+  ]
+ },
+ "haunting": {
+  "also": [],
+  "clash": [
+   "halloween"
+  ]
+ },
+ "exorcism": {
+  "also": [],
+  "clash": [
+   "religion words"
+  ]
+ },
+ "lucky charm": {
+  "also": [],
+  "clash": [
+   "magic items"
+  ]
+ },
+ "St. Christopher": {
+  "also": [
+   [
+    "famous saints",
+    2
+   ]
+  ],
+  "clash": []
+ },
+ "tetraphobia": {
+  "also": [
+   [
+    "phobias",
+    4
+   ]
+  ],
+  "clash": []
+ },
+ "old wives' tale": {
+  "also": [],
+  "clash": [
+   "folklore"
+  ]
+ },
+ "make a wish": {
+  "also": [],
+  "clash": [
+   "birthdays"
+  ]
+ },
+ "Reformation": {
+  "also": [],
+  "clash": [
+   "religion words"
+  ]
+ },
+ "Elizabethan era": {
+  "also": [],
+  "clash": [
+   "renaissance"
+  ]
+ },
+ "Great Depression": {
+  "also": [],
+  "clash": [
+   "roaring twenties"
+  ]
+ },
+ "Edo period": {
+  "also": [
+   [
+    "feudal japan",
+    2
+   ]
+  ],
+  "clash": []
+ },
+ "Sengoku period": {
+  "also": [
+   [
+    "feudal japan",
+    3
+   ]
+  ],
+  "clash": []
+ },
+ "Heian period": {
+  "also": [
+   [
+    "feudal japan",
+    3
+   ]
+  ],
+  "clash": []
+ },
+ "Kamakura period": {
+  "also": [
+   [
+    "feudal japan",
+    3
+   ]
+  ],
+  "clash": []
+ },
+ "Muromachi period": {
+  "also": [
+   [
+    "feudal japan",
+    4
+   ]
+  ],
+  "clash": []
+ },
+ "Meiji era": {
+  "also": [],
+  "clash": [
+   "feudal japan"
+  ]
+ },
+ "Tudor period": {
+  "also": [],
+  "clash": [
+   "royal houses"
+  ]
+ },
+ "Byzantine period": {
+  "also": [
+   [
+    "byzantine empire",
+    2
+   ]
+  ],
+  "clash": []
+ },
+ "Ottoman period": {
+  "also": [
+   [
+    "ottoman empire",
+    2
+   ]
+  ],
+  "clash": []
+ },
+ "fin de siècle": {
+  "also": [
+   [
+    "french phrases in english",
+    4
+   ]
+  ],
+  "clash": []
+ },
+ "Age of Exploration": {
+  "also": [
+   [
+    "exploration",
+    2
+   ]
+  ],
+  "clash": []
+ },
+ "Viking Age": {
+  "also": [
+   [
+    "vikings",
+    2
+   ]
+  ],
+  "clash": []
+ },
+ "Age of Sail": {
+  "also": [],
+  "clash": [
+   "age of sail"
+  ]
+ },
+ "Industrial Age": {
+  "also": [],
+  "clash": [
+   "industrial revolution"
+  ]
+ },
+ "Late Middle Ages": {
+  "also": [
+   [
+    "medieval times",
+    2
+   ]
+  ],
+  "clash": []
+ },
+ "Early Middle Ages": {
+  "also": [
+   [
+    "medieval times",
+    2
+   ]
+  ],
+  "clash": []
+ },
+ "High Middle Ages": {
+  "also": [
+   [
+    "medieval times",
+    2
+   ]
+  ],
+  "clash": []
+ },
+ "medieval": {
+  "also": [],
+  "clash": [
+   "medieval times"
+  ]
+ },
+ "Classical Age": {
+  "also": [],
+  "clash": [
+   "ancient greece"
+  ]
+ },
+ "Young Turk": {
+  "also": [],
+  "clash": [
+   "ottoman empire"
+  ]
+ },
+ "National Assembly": {
+  "also": [],
+  "clash": [
+   "government words"
+  ]
+ },
+ "Rights of Man": {
+  "also": [],
+  "clash": [
+   "historic documents"
+  ]
+ },
+ "Thermidor": {
+  "also": [],
+  "clash": [
+   "seafood dishes"
+  ]
+ },
+ "assignat": {
+  "also": [],
+  "clash": [
+   "historic coins"
+  ]
+ },
+ "King George": {
+  "also": [],
+  "clash": [
+   "english monarchs"
+  ]
+ },
+ "Betsy Ross": {
+  "also": [
+   [
+    "famous women in history",
+    3
+   ]
+  ],
+  "clash": []
+ },
+ "Abigail Adams": {
+  "also": [
+   [
+    "famous women in history",
+    3
+   ]
+  ],
+  "clash": []
+ },
+ "Continental Congress": {
+  "also": [],
+  "clash": [
+   "us government"
+  ]
+ },
+ "Ptolemaic": {
+  "also": [
+   [
+    "ancient egypt",
+    3
+   ]
+  ],
+  "clash": []
+ },
+ "Fujiwara": {
+  "also": [],
+  "clash": [
+   "feudal japan"
+  ]
+ },
+ "Qing": {
+  "also": [],
+  "clash": [
+   "chinese emperors"
+  ]
+ },
+ "Habsburg": {
+  "also": [],
+  "clash": [
+   "empires"
+  ]
+ },
+ "Visconti": {
+  "also": [],
+  "clash": [
+   "renaissance"
+  ]
+ },
+ "Este": {
+  "also": [],
+  "clash": [
+   "renaissance"
+  ]
+ },
+ "Gonzaga": {
+  "also": [],
+  "clash": [
+   "renaissance"
+  ]
+ },
+ "Bonaparte": {
+  "also": [],
+  "clash": [
+   "french revolution"
+  ]
+ },
+ "Aztec": {
+  "also": [
+   [
+    "aztecs and maya",
+    1
+   ]
+  ],
+  "clash": []
+ },
+ "James Watt": {
+  "also": [
+   [
+    "inventors",
+    2
+   ],
+   [
+    "famous engineers",
+    2
+   ]
+  ],
+  "clash": [
+   "units named after people"
+  ]
+ },
+ "George Stephenson": {
+  "also": [
+   [
+    "famous engineers",
+    2
+   ]
+  ],
+  "clash": []
+ },
+ "Richard Arkwright": {
+  "also": [
+   [
+    "inventors",
+    3
+   ]
+  ],
+  "clash": []
+ },
+ "Samuel Morse": {
+  "also": [
+   [
+    "inventors",
+    2
+   ]
+  ],
+  "clash": [
+   "codes and signals"
+  ]
+ },
+ "Robert Fulton": {
+  "also": [
+   [
+    "inventors",
+    3
+   ]
+  ],
+  "clash": []
+ },
+ "Cyrus McCormick": {
+  "also": [
+   [
+    "inventors",
+    4
+   ]
+  ],
+  "clash": []
+ },
+ "Thomas Telford": {
+  "also": [
+   [
+    "famous engineers",
+    3
+   ]
+  ],
+  "clash": []
+ },
+ "Donatello": {
+  "also": [],
+  "clash": [
+   "renaissance painters"
+  ]
+ },
+ "Vitruvian Man": {
+  "also": [
+   [
+    "famous paintings",
+    2
+   ]
+  ],
+  "clash": []
+ },
+ "Borgia": {
+  "also": [],
+  "clash": [
+   "royal houses"
+  ]
+ },
+ "Lucrezia Borgia": {
+  "also": [],
+  "clash": [
+   "famous women in history"
+  ]
+ },
+ "Renaissance man": {
+  "also": [],
+  "clash": [
+   "words for expert"
+  ]
+ },
+ "Florence Cathedral": {
+  "also": [
+   [
+    "famous churches",
+    2
+   ]
+  ],
+  "clash": []
+ },
+ "Charlotte Brontë": {
+  "also": [
+   [
+    "british novelists",
+    1
+   ]
+  ],
+  "clash": []
+ },
+ "Penny Black": {
+  "also": [],
+  "clash": [
+   "mail words"
+  ]
+ },
+ "Thomas Hardy": {
+  "also": [
+   [
+    "british novelists",
+    2
+   ]
+  ],
+  "clash": []
+ },
+ "Pre-Raphaelites": {
+  "also": [
+   [
+    "art movements",
+    3
+   ]
+  ],
+  "clash": []
+ },
+ "Robert Louis Stevenson": {
+  "also": [
+   [
+    "british novelists",
+    2
+   ]
+  ],
+  "clash": []
+ },
+ "Elizabeth Gaskell": {
+  "also": [
+   [
+    "british novelists",
+    3
+   ]
+  ],
+  "clash": []
+ },
+ "George Eliot": {
+  "also": [
+   [
+    "british novelists",
+    2
+   ]
+  ],
+  "clash": []
+ },
+ "Anthony Trollope": {
+  "also": [
+   [
+    "british novelists",
+    3
+   ]
+  ],
+  "clash": []
+ },
+ "Robert Browning": {
+  "also": [
+   [
+    "poets",
+    3
+   ]
+  ],
+  "clash": []
+ },
+ "Isambard Kingdom Brunel": {
+  "also": [
+   [
+    "famous engineers",
+    2
+   ]
+  ],
+  "clash": [
+   "industrial revolution"
+  ]
+ },
+ "Texas Rangers": {
+  "also": [
+   [
+    "mlb teams",
+    2
+   ]
+  ],
+  "clash": []
+ },
+ "first Thanksgiving": {
+  "also": [
+   [
+    "thanksgiving",
+    1
+   ]
+  ],
+  "clash": []
+ },
+ "Salem witch trials": {
+  "also": [
+   [
+    "witchcraft",
+    2
+   ]
+  ],
+  "clash": []
+ },
+ "St. Augustine": {
+  "also": [],
+  "clash": [
+   "famous saints"
+  ]
+ },
+ "The Great Gatsby": {
+  "also": [
+   [
+    "classic novels",
+    1
+   ]
+  ],
+  "clash": []
+ },
+ "F. Scott Fitzgerald": {
+  "also": [
+   [
+    "american novelists",
+    1
+   ]
+  ],
+  "clash": []
+ },
+ "George Gershwin": {
+  "also": [
+   [
+    "composers",
+    2
+   ]
+  ],
+  "clash": []
+ },
+ "Calvin Coolidge": {
+  "also": [
+   [
+    "us presidents",
+    3
+   ]
+  ],
+  "clash": []
+ },
+ "Warren Harding": {
+  "also": [
+   [
+    "us presidents",
+    3
+   ]
+  ],
+  "clash": []
+ },
+ "19th Amendment": {
+  "also": [],
+  "clash": [
+   "historic documents"
+  ]
+ },
+ "cloche hat": {
+  "also": [
+   [
+    "historical hats",
+    3
+   ]
+  ],
+  "clash": []
+ },
+ "Communist Manifesto": {
+  "also": [],
+  "clash": [
+   "political ideologies"
+  ]
+ },
+ "Gutenberg Bible": {
+  "also": [],
+  "clash": [
+   "renaissance",
+   "holy books"
+  ]
+ },
+ "Book of Kells": {
+  "also": [],
+  "clash": [
+   "celts"
+  ]
+ },
+ "Declaration of the Rights of Man": {
+  "also": [
+   [
+    "french revolution",
+    2
+   ]
+  ],
+  "clash": []
+ },
+ "Instrument of Surrender": {
+  "also": [],
+  "clash": [
+   "world war ii terms"
+  ]
+ },
+ "Yalta Agreement": {
+  "also": [],
+  "clash": [
+   "world war ii terms"
+  ]
+ },
+ "Potsdam Declaration": {
+  "also": [],
+  "clash": [
+   "world war ii terms"
+  ]
+ },
+ "Munich Agreement": {
+  "also": [],
+  "clash": [
+   "world war ii terms"
+  ]
+ },
+ "Wannsee Protocol": {
+  "also": [],
+  "clash": [
+   "world war ii terms"
+  ]
+ },
+ "Molotov-Ribbentrop Pact": {
+  "also": [],
+  "clash": [
+   "world war ii terms"
+  ]
+ }
+}

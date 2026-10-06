@@ -1,0 +1,11990 @@
+{
+"ADHD": {
+"also": [
+[
+"mental health words",
+1
+]
+],
+"clash": [
+"acronyms"
+]
+},
+"ALS": {
+"also": [],
+"clash": [
+"acronyms"
+]
+},
+"Achilles tendon": {
+"also": [],
+"clash": [
+"greek heroes",
+"trojan war",
+"words from mythology"
+]
+},
+"Achilles tendon rupture": {
+"also": [],
+"clash": [
+"words from mythology"
+]
+},
+"Adam's apple": {
+"also": [],
+"clash": [
+"apple varieties",
+"biblical names",
+"words named after people"
+]
+},
+"Adderall": {
+"also": [],
+"clash": [
+"illegal drugs"
+]
+},
+"Addison's disease": {
+"also": [],
+"clash": [
+"words named after people"
+]
+},
+"Alzheimer's": {
+"also": [],
+"clash": [
+"words named after people"
+]
+},
+"Antonine plague": {
+"also": [],
+"clash": [
+"ancient rome",
+"roman emperors"
+]
+},
+"Asian flu": {
+"also": [
+[
+"viruses",
+3
+]
+],
+"clash": []
+},
+"Ayurveda": {
+"also": [
+[
+"ayurveda words",
+1
+]
+],
+"clash": [
+"indian food"
+]
+},
+"Bantu knots": {
+"also": [],
+"clash": [
+"knots"
+]
+},
+"Bell's palsy": {
+"also": [],
+"clash": [
+"historic diseases",
+"words named after people"
+]
+},
+"Botox": {
+"also": [],
+"clash": [
+"brand names used as words",
+"skincare products"
+]
+},
+"Bright's disease": {
+"also": [],
+"clash": [
+"words named after people"
+]
+},
+"Broca's area": {
+"also": [],
+"clash": [
+"words named after people"
+]
+},
+"C diff": {
+"also": [
+[
+"microbes",
+4
+]
+],
+"clash": []
+},
+"COPD": {
+"also": [],
+"clash": [
+"acronyms"
+]
+},
+"COVID": {
+"also": [
+[
+"acronyms",
+2
+],
+[
+"viruses",
+1
+]
+],
+"clash": []
+},
+"Caesar cut": {
+"also": [],
+"clash": [
+"roman emperors",
+"words named after people"
+]
+},
+"Camembert": {
+"also": [
+[
+"cheeses",
+1
+],
+[
+"foods named after places",
+3
+],
+[
+"french cheeses",
+1
+],
+[
+"pungent foods",
+3
+],
+[
+"soft cheeses",
+1
+]
+],
+"clash": []
+},
+"Chagas disease": {
+"also": [],
+"clash": [
+"words named after people"
+]
+},
+"Crohn's disease": {
+"also": [],
+"clash": [
+"words named after people"
+]
+},
+"Cushing's syndrome": {
+"also": [],
+"clash": [
+"words named after people"
+]
+},
+"DNA": {
+"also": [
+[
+"biology words",
+1
+],
+[
+"genetics words",
+1
+]
+],
+"clash": [
+"acronyms",
+"famous discoveries"
+]
+},
+"Down syndrome": {
+"also": [],
+"clash": [
+"words named after people"
+]
+},
+"E coli": {
+"also": [
+[
+"microbes",
+2
+]
+],
+"clash": []
+},
+"Ebola": {
+"also": [
+[
+"infections",
+2
+],
+[
+"viruses",
+1
+],
+[
+"words named after places",
+3
+]
+],
+"clash": [
+"african rivers"
+]
+},
+"EpiPen": {
+"also": [
+[
+"first aid",
+2
+],
+[
+"medical equipment",
+2
+]
+],
+"clash": [
+"brand names used as words"
+]
+},
+"Epstein-Barr": {
+"also": [
+[
+"viruses",
+3
+]
+],
+"clash": [
+"words named after people"
+]
+},
+"Eton crop": {
+"also": [],
+"clash": [
+"roaring twenties",
+"words named after places"
+]
+},
+"Eustachian tube": {
+"also": [
+[
+"words named after people",
+4
+]
+],
+"clash": []
+},
+"German measles": {
+"also": [
+[
+"viruses",
+2
+]
+],
+"clash": []
+},
+"Graves' disease": {
+"also": [],
+"clash": [
+"words named after people"
+]
+},
+"Guillain-Barré syndrome": {
+"also": [],
+"clash": [
+"words named after people"
+]
+},
+"HIV": {
+"also": [
+[
+"viruses",
+1
+]
+],
+"clash": [
+"acronyms"
+]
+},
+"HPV": {
+"also": [
+[
+"viruses",
+2
+]
+],
+"clash": [
+"acronyms"
+]
+},
+"Hashimoto's disease": {
+"also": [],
+"clash": [
+"words named after people"
+]
+},
+"Hippocrates": {
+"also": [
+[
+"ancient greece",
+2
+],
+[
+"ancient greek thinkers",
+1
+],
+[
+"hidden body parts",
+3
+]
+],
+"clash": []
+},
+"Hippocratic oath": {
+"also": [],
+"clash": [
+"ancient greece",
+"words named after people"
+]
+},
+"Hodgkin's lymphoma": {
+"also": [],
+"clash": [
+"words named after people"
+]
+},
+"Hong Kong flu": {
+"also": [
+[
+"viruses",
+3
+]
+],
+"clash": []
+},
+"Huntington's disease": {
+"also": [],
+"clash": [
+"words named after people"
+]
+},
+"Japanese encephalitis": {
+"also": [
+[
+"viruses",
+3
+]
+],
+"clash": []
+},
+"Jheri curl": {
+"also": [],
+"clash": [
+"words named after people"
+]
+},
+"Justinian plague": {
+"also": [],
+"clash": [
+"byzantine empire"
+]
+},
+"Kawasaki disease": {
+"also": [],
+"clash": [
+"motorcycle brands",
+"words named after people"
+]
+},
+"Lassa fever": {
+"also": [
+[
+"viruses",
+3
+]
+],
+"clash": []
+},
+"Legionnaires' disease": {
+"also": [],
+"clash": [
+"ancient rome",
+"roman army"
+]
+},
+"Limburger": {
+"also": [
+[
+"cheeses",
+3
+],
+[
+"pungent foods",
+2
+],
+[
+"soft cheeses",
+4
+],
+[
+"things that smell bad",
+2
+]
+],
+"clash": [
+"words named after places"
+]
+},
+"Lipitor": {
+"also": [
+[
+"hidden body parts",
+4
+]
+],
+"clash": []
+},
+"Lou Gehrig's disease": {
+"also": [],
+"clash": [
+"baseball terms",
+"words named after people"
+]
+},
+"Lyme disease": {
+"also": [],
+"clash": [
+"words named after places"
+]
+},
+"MERS": {
+"also": [
+[
+"acronyms",
+2
+],
+[
+"viruses",
+2
+]
+],
+"clash": []
+},
+"MRSA": {
+"also": [
+[
+"acronyms",
+3
+],
+[
+"microbes",
+3
+]
+],
+"clash": []
+},
+"Marburg virus": {
+"also": [
+[
+"viruses",
+2
+]
+],
+"clash": [
+"german cities"
+]
+},
+"Marcel wave": {
+"also": [
+[
+"roaring twenties",
+4
+]
+],
+"clash": [
+"words named after people"
+]
+},
+"Munster": {
+"also": [
+[
+"cheeses",
+3
+],
+[
+"french cheeses",
+3
+],
+[
+"pungent foods",
+3
+],
+[
+"soft cheeses",
+3
+]
+],
+"clash": []
+},
+"Ménière's disease": {
+"also": [],
+"clash": [
+"words named after people"
+]
+},
+"Night Nurse": {
+"also": [],
+"clash": [
+"medical jobs"
+]
+},
+"OCD": {
+"also": [
+[
+"mental health words",
+1
+]
+],
+"clash": [
+"acronyms"
+]
+},
+"Oropouche fever": {
+"also": [
+[
+"viruses",
+4
+]
+],
+"clash": []
+},
+"PTSD": {
+"also": [
+[
+"mental health words",
+1
+]
+],
+"clash": [
+"acronyms"
+]
+},
+"Parkinson's": {
+"also": [],
+"clash": [
+"words named after people"
+]
+},
+"Plan B": {
+"also": [],
+"clash": [
+"pregnancy words"
+]
+},
+"RSV": {
+"also": [
+[
+"viruses",
+3
+]
+],
+"clash": [
+"acronyms"
+]
+},
+"Raynaud's disease": {
+"also": [],
+"clash": [
+"words named after people"
+]
+},
+"Reye's syndrome": {
+"also": [],
+"clash": [
+"words named after people"
+]
+},
+"Rift Valley fever": {
+"also": [
+[
+"viruses",
+3
+]
+],
+"clash": []
+},
+"Roquefort": {
+"also": [
+[
+"blue cheeses",
+2
+],
+[
+"cheeses",
+2
+],
+[
+"foods named after places",
+3
+],
+[
+"french cheeses",
+2
+],
+[
+"pungent foods",
+2
+]
+],
+"clash": []
+},
+"Russian flu": {
+"also": [
+[
+"viruses",
+3
+]
+],
+"clash": []
+},
+"SARS": {
+"also": [
+[
+"acronyms",
+2
+],
+[
+"viruses",
+1
+]
+],
+"clash": []
+},
+"Spanish flu": {
+"also": [
+[
+"infections",
+3
+],
+[
+"viruses",
+2
+]
+],
+"clash": []
+},
+"St Anthony's fire": {
+"also": [],
+"clash": [
+"famous saints",
+"words named after people"
+]
+},
+"St John's wort": {
+"also": [
+[
+"medicinal plants",
+2
+],
+[
+"wildflowers",
+4
+]
+],
+"clash": [
+"famous saints",
+"flowers named after people",
+"herbs",
+"words named after people"
+]
+},
+"St Vitus' dance": {
+"also": [
+[
+"famous saints",
+4
+]
+],
+"clash": [
+"dances",
+"words named after people"
+]
+},
+"Stilton": {
+"also": [
+[
+"blue cheeses",
+2
+],
+[
+"british food",
+3
+],
+[
+"cheeses",
+2
+],
+[
+"foods named after places",
+3
+],
+[
+"hard cheeses",
+3
+],
+[
+"pungent foods",
+3
+]
+],
+"clash": []
+},
+"Tourette syndrome": {
+"also": [],
+"clash": [
+"words named after people"
+]
+},
+"Tylenol": {
+"also": [],
+"clash": [
+"brand names used as words"
+]
+},
+"Valium": {
+"also": [],
+"clash": [
+"illegal drugs"
+]
+},
+"Van Dyke": {
+"also": [
+[
+"words named after people",
+4
+]
+],
+"clash": [
+"dutch painters",
+"painters"
+]
+},
+"Viagra": {
+"also": [],
+"clash": [
+"brand names used as words"
+]
+},
+"Weil's disease": {
+"also": [],
+"clash": [
+"words named after people"
+]
+},
+"Wernicke's area": {
+"also": [],
+"clash": [
+"words named after people"
+]
+},
+"West Nile virus": {
+"also": [
+[
+"viruses",
+2
+]
+],
+"clash": []
+},
+"Xanax": {
+"also": [],
+"clash": [
+"illegal drugs"
+]
+},
+"Zika": {
+"also": [
+[
+"viruses",
+1
+]
+],
+"clash": []
+},
+"abdomen": {
+"also": [
+[
+"insect body parts",
+2
+]
+],
+"clash": []
+},
+"abs": {
+"also": [
+[
+"letters in alphabetical order",
+3
+]
+],
+"clash": [
+"fitness words",
+"gym equipment",
+"torso"
+]
+},
+"acetaminophen": {
+"also": [
+[
+"medicine cabinet",
+2
+],
+[
+"pharmacy",
+2
+]
+],
+"clash": []
+},
+"ache": {
+"also": [
+[
+"back___",
+2
+],
+[
+"head___",
+1
+],
+[
+"rhymes with cake",
+1
+]
+],
+"clash": []
+},
+"acid reflux": {
+"also": [
+[
+"symptoms",
+2
+]
+],
+"clash": []
+},
+"acne": {
+"also": [],
+"clash": [
+"symptoms"
+]
+},
+"acoustic": {
+"also": [
+[
+"acoustics words",
+2
+],
+[
+"guitar types",
+1
+]
+],
+"clash": []
+},
+"acupuncture": {
+"also": [
+[
+"chinese medicine",
+1
+],
+[
+"forms of medicine",
+3
+]
+],
+"clash": []
+},
+"adrenaline": {
+"also": [],
+"clash": [
+"extreme sports",
+"scared words"
+]
+},
+"aftertaste": {
+"also": [
+[
+"taste words",
+2
+],
+[
+"wine words",
+3
+]
+],
+"clash": []
+},
+"ague": {
+"also": [],
+"clash": [
+"rhymes with blue"
+]
+},
+"air freshener": {
+"also": [],
+"clash": [
+"cleaning products"
+]
+},
+"allergist": {
+"also": [
+[
+"medical jobs",
+2
+]
+],
+"clash": []
+},
+"almond": {
+"also": [
+[
+"flours",
+3
+],
+[
+"nut trees",
+2
+],
+[
+"nuts",
+1
+],
+[
+"types of milk",
+1
+]
+],
+"clash": [
+"silent letter words"
+]
+},
+"ammonia": {
+"also": [
+[
+"chemical compounds",
+1
+],
+[
+"cleaning products",
+2
+],
+[
+"gases",
+2
+],
+[
+"household chemicals",
+1
+],
+[
+"things that smell bad",
+2
+]
+],
+"clash": []
+},
+"amplify": {
+"also": [],
+"clash": [
+"audio gear"
+]
+},
+"anabolic steroid": {
+"also": [
+[
+"illegal drugs",
+2
+]
+],
+"clash": [
+"medicines"
+]
+},
+"anatomy": {
+"also": [
+[
+"branches of biology",
+1
+]
+],
+"clash": []
+},
+"anesthesia": {
+"also": [
+[
+"operating room",
+1
+]
+],
+"clash": [
+"medical specialties"
+]
+},
+"anesthetic": {
+"also": [
+[
+"dental words",
+2
+],
+[
+"operating room",
+1
+]
+],
+"clash": []
+},
+"anorexia": {
+"also": [
+[
+"mental health words",
+2
+]
+],
+"clash": []
+},
+"antacid": {
+"also": [
+[
+"medicine cabinet",
+2
+],
+[
+"pharmacy",
+2
+]
+],
+"clash": []
+},
+"antidepressant": {
+"also": [
+[
+"mental health words",
+3
+]
+],
+"clash": []
+},
+"antihistamine": {
+"also": [
+[
+"medicine cabinet",
+2
+],
+[
+"pharmacy",
+2
+]
+],
+"clash": []
+},
+"antiseptic": {
+"also": [
+[
+"first aid",
+1
+],
+[
+"medicine cabinet",
+2
+],
+[
+"pharmacy",
+2
+]
+],
+"clash": []
+},
+"anvil": {
+"also": [
+[
+"heavy things",
+1
+],
+[
+"tools",
+2
+]
+],
+"clash": [
+"percussion instruments"
+]
+},
+"anxiety disorder": {
+"also": [
+[
+"mental health words",
+1
+]
+],
+"clash": []
+},
+"appendix": {
+"also": [
+[
+"parts of a book",
+1
+]
+],
+"clash": []
+},
+"aqueous humor": {
+"also": [],
+"clash": [
+"comedy words"
+]
+},
+"arch": {
+"also": [
+[
+"architectural features",
+1
+],
+[
+"bridge types",
+2
+],
+[
+"coastal features",
+3
+]
+],
+"clash": [
+"castle parts",
+"church parts"
+]
+},
+"arm": {
+"also": [
+[
+"fire___",
+2
+],
+[
+"things that come in pairs",
+2
+]
+],
+"clash": [
+"military",
+"river features",
+"seating"
+]
+},
+"armpit": {
+"also": [
+[
+"things that smell bad",
+2
+]
+],
+"clash": []
+},
+"aroma": {
+"also": [],
+"clash": [
+"coffee words",
+"things that smell good"
+]
+},
+"aromatic": {
+"also": [],
+"clash": [
+"herbs"
+]
+},
+"arrhythmia": {
+"also": [],
+"clash": [
+"music terms"
+]
+},
+"artery": {
+"also": [],
+"clash": [
+"road types",
+"streets and roads"
+]
+},
+"asafetida": {
+"also": [
+[
+"indian food",
+4
+],
+[
+"pungent foods",
+3
+],
+[
+"spices",
+3
+]
+],
+"clash": []
+},
+"ashtray": {
+"also": [
+[
+"smoking words",
+1
+],
+[
+"things that smell bad",
+2
+]
+],
+"clash": []
+},
+"aspirin": {
+"also": [
+[
+"brand names used as words",
+2
+],
+[
+"hidden animals",
+3
+],
+[
+"medicine cabinet",
+1
+],
+[
+"pharmacy",
+2
+]
+],
+"clash": []
+},
+"asthma": {
+"also": [
+[
+"allergies",
+2
+]
+],
+"clash": []
+},
+"atlas": {
+"also": [
+[
+"kinds of maps",
+1
+],
+[
+"maps and globes",
+1
+],
+[
+"titans",
+2
+],
+[
+"words from mythology",
+2
+]
+],
+"clash": []
+},
+"auburn": {
+"also": [
+[
+"names that are colors",
+3
+],
+[
+"shades of brown",
+2
+],
+[
+"shades of red",
+2
+]
+],
+"clash": []
+},
+"audio": {
+"also": [],
+"clash": [
+"audio gear"
+]
+},
+"audiologist": {
+"also": [
+[
+"medical jobs",
+2
+]
+],
+"clash": []
+},
+"audiometry": {
+"also": [
+[
+"all five vowels",
+4
+]
+],
+"clash": [
+"medical tests"
+]
+},
+"aural": {
+"also": [
+[
+"homophones",
+3
+]
+],
+"clash": []
+},
+"axis": {
+"also": [
+[
+"geometry",
+2
+],
+[
+"math terms",
+2
+],
+[
+"world war ii terms",
+2
+]
+],
+"clash": []
+},
+"baby acne": {
+"also": [
+[
+"newborn care",
+3
+]
+],
+"clash": []
+},
+"baby tooth": {
+"also": [],
+"clash": [
+"baby milestones"
+]
+},
+"back": {
+"also": [
+[
+"___board",
+3
+],
+[
+"compass directions",
+4
+],
+[
+"nautical directions",
+3
+],
+[
+"rugby terms",
+3
+],
+[
+"soccer positions",
+2
+]
+],
+"clash": [
+"back___",
+"parts of a book"
+]
+},
+"backache": {
+"also": [],
+"clash": [
+"back___",
+"rhymes with cake"
+]
+},
+"backbone": {
+"also": [],
+"clash": [
+"positive traits"
+]
+},
+"bad breath": {
+"also": [
+[
+"things that smell bad",
+1
+]
+],
+"clash": []
+},
+"balance": {
+"also": [],
+"clash": [
+"banking words",
+"gymnastics"
+]
+},
+"bald": {
+"also": [
+[
+"homophones",
+3
+]
+],
+"clash": [
+"eagles",
+"hairstyles"
+]
+},
+"ball and socket": {
+"also": [],
+"clash": [
+"electrical fittings"
+]
+},
+"bangs": {
+"also": [],
+"clash": [
+"impact sounds",
+"onomatopoeia"
+]
+},
+"barber": {
+"also": [
+[
+"hair salon",
+1
+],
+[
+"service jobs",
+2
+],
+[
+"surnames that are jobs",
+2
+],
+[
+"trades",
+2
+]
+],
+"clash": [
+"medieval jobs"
+]
+},
+"beard": {
+"also": [
+[
+"hidden animals",
+3
+],
+[
+"hidden body parts",
+1
+]
+],
+"clash": [
+"face"
+]
+},
+"beehive": {
+"also": [],
+"clash": [
+"animal homes",
+"farm"
+]
+},
+"belly": {
+"also": [
+[
+"baby talk",
+3
+],
+[
+"cuts of meat",
+2
+]
+],
+"clash": []
+},
+"belly button": {
+"also": [],
+"clash": [
+"baby talk"
+]
+},
+"billy goat": {
+"also": [
+[
+"animals with horns",
+2
+],
+[
+"farm animals",
+1
+],
+[
+"male animals",
+1
+],
+[
+"things with horns",
+1
+]
+],
+"clash": []
+},
+"bipolar disorder": {
+"also": [
+[
+"mental health words",
+1
+]
+],
+"clash": []
+},
+"bird flu": {
+"also": [
+[
+"viruses",
+2
+]
+],
+"clash": []
+},
+"bird's-eye view": {
+"also": [],
+"clash": [
+"birdwatching words"
+]
+},
+"bite": {
+"also": [
+[
+"rhymes with light",
+1
+]
+],
+"clash": []
+},
+"bitter": {
+"also": [
+[
+"beers",
+2
+],
+[
+"taste words",
+1
+],
+[
+"words for cold",
+2
+]
+],
+"clash": [
+"bitter foods"
+]
+},
+"black death": {
+"also": [
+[
+"infections",
+3
+],
+[
+"medieval times",
+2
+]
+],
+"clash": [
+"black___"
+]
+},
+"black eye": {
+"also": [],
+"clash": [
+"black___"
+]
+},
+"blackhead": {
+"also": [],
+"clash": [
+"black___"
+]
+},
+"bladder": {
+"also": [],
+"clash": [
+"fish body parts"
+]
+},
+"bland": {
+"also": [
+[
+"taste words",
+1
+]
+],
+"clash": []
+},
+"bleach": {
+"also": [
+[
+"cleaning products",
+1
+],
+[
+"household chemicals",
+1
+],
+[
+"laundry words",
+1
+],
+[
+"under the sink",
+1
+]
+],
+"clash": []
+},
+"blind": {
+"also": [
+[
+"poker terms",
+3
+],
+[
+"window coverings",
+1
+]
+],
+"clash": []
+},
+"blind spot": {
+"also": [
+[
+"driving words",
+2
+]
+],
+"clash": []
+},
+"blink": {
+"also": [
+[
+"body actions",
+2
+],
+[
+"facial expressions",
+2
+]
+],
+"clash": []
+},
+"blond": {
+"also": [],
+"clash": [
+"shades of yellow"
+]
+},
+"blood bank": {
+"also": [],
+"clash": [
+"banking words"
+]
+},
+"blood pressure": {
+"also": [
+[
+"medical tests",
+2
+]
+],
+"clash": []
+},
+"blood sugar": {
+"also": [],
+"clash": [
+"sweeteners"
+]
+},
+"blood test": {
+"also": [
+[
+"medical tests",
+1
+]
+],
+"clash": []
+},
+"bloodletting": {
+"also": [
+[
+"double letters",
+3
+],
+[
+"medieval times",
+3
+]
+],
+"clash": []
+},
+"bloodshed": {
+"also": [
+[
+"war words",
+2
+]
+],
+"clash": []
+},
+"blue cheese": {
+"also": [
+[
+"blue cheeses",
+1
+],
+[
+"cheeses",
+1
+],
+[
+"pungent foods",
+1
+],
+[
+"things that smell bad",
+2
+]
+],
+"clash": [
+"hidden colors"
+]
+},
+"blurry": {
+"also": [],
+"clash": [
+"photography words"
+]
+},
+"blush": {
+"also": [
+[
+"makeup",
+1
+],
+[
+"shades of pink",
+2
+]
+],
+"clash": [
+"facial expressions"
+]
+},
+"bob": {
+"also": [
+[
+"boys' names",
+2
+],
+[
+"palindromes",
+2
+],
+[
+"short forms of names",
+1
+]
+],
+"clash": [
+"roaring twenties"
+]
+},
+"body odor": {
+"also": [
+[
+"things that smell bad",
+1
+]
+],
+"clash": []
+},
+"boil": {
+"also": [
+[
+"cooking methods",
+1
+]
+],
+"clash": [
+"symptoms"
+]
+},
+"bombardier beetle": {
+"also": [
+[
+"beetles",
+2
+],
+[
+"insects and bugs",
+2
+]
+],
+"clash": []
+},
+"bouffant": {
+"also": [
+[
+"words from french",
+3
+]
+],
+"clash": []
+},
+"bouquet": {
+"also": [
+[
+"silent letter words",
+3
+],
+[
+"wine words",
+1
+],
+[
+"words from french",
+3
+]
+],
+"clash": [
+"bouquet flowers",
+"flowers",
+"weddings"
+]
+},
+"bowl cut": {
+"also": [
+[
+"hidden birds",
+3
+]
+],
+"clash": []
+},
+"boxer's fracture": {
+"also": [],
+"clash": [
+"boxing terms"
+]
+},
+"braces": {
+"also": [
+[
+"clothing parts",
+3
+],
+[
+"dental words",
+1
+]
+],
+"clash": []
+},
+"braid": {
+"also": [
+[
+"homophones",
+4
+],
+[
+"sewing words",
+3
+]
+],
+"clash": [
+"knots"
+]
+},
+"braille": {
+"also": [
+[
+"alphabets and writing",
+2
+],
+[
+"codes and signals",
+2
+],
+[
+"writing systems",
+2
+]
+],
+"clash": [
+"inventions"
+]
+},
+"brain": {
+"also": [],
+"clash": [
+"brain parts",
+"words for smart"
+]
+},
+"breast": {
+"also": [
+[
+"bird body parts",
+3
+],
+[
+"cuts of meat",
+2
+],
+[
+"poultry",
+2
+]
+],
+"clash": [
+"swimming strokes"
+]
+},
+"breathlessness": {
+"also": [],
+"clash": [
+"double letters"
+]
+},
+"bridge": {
+"also": [
+[
+"bridge types",
+1
+],
+[
+"card games",
+2
+],
+[
+"dental words",
+3
+],
+[
+"foot___",
+3
+],
+[
+"instrument parts",
+3
+],
+[
+"yoga poses",
+2
+]
+],
+"clash": [
+"exercises",
+"eyewear",
+"famous bridges",
+"gymnastics moves",
+"ship parts"
+]
+},
+"brow": {
+"also": [],
+"clash": [
+"hair",
+"mountain features"
+]
+},
+"bruise": {
+"also": [
+[
+"symptoms",
+2
+]
+],
+"clash": []
+},
+"brunette": {
+"also": [
+[
+"words from french",
+3
+]
+],
+"clash": [
+"shades of brown"
+]
+},
+"brush": {
+"also": [
+[
+"art materials",
+1
+],
+[
+"brooms and brushes",
+1
+],
+[
+"cleaning verbs",
+2
+],
+[
+"hair care",
+1
+],
+[
+"hand actions",
+2
+],
+[
+"painting and decorating",
+2
+]
+],
+"clash": []
+},
+"bubonic plague": {
+"also": [
+[
+"black death",
+1
+],
+[
+"infections",
+2
+]
+],
+"clash": []
+},
+"bulimia": {
+"also": [
+[
+"mental health words",
+2
+]
+],
+"clash": []
+},
+"bum": {
+"also": [
+[
+"british english words",
+2
+],
+[
+"british slang",
+1
+]
+],
+"clash": [
+"words for beginner"
+]
+},
+"bump": {
+"also": [
+[
+"letters in alphabetical order",
+3
+]
+],
+"clash": [
+"impact sounds",
+"road signs"
+]
+},
+"bumpy": {
+"also": [
+[
+"texture words",
+1
+]
+],
+"clash": []
+},
+"bun": {
+"also": [
+[
+"breads",
+1
+],
+[
+"reversible words",
+4
+]
+],
+"clash": []
+},
+"burn": {
+"also": [
+[
+"fire words",
+2
+],
+[
+"scottish landscape words",
+3
+],
+[
+"scottish words",
+3
+],
+[
+"sun___",
+1
+]
+],
+"clash": []
+},
+"bust": {
+"also": [
+[
+"hidden vehicles",
+3
+],
+[
+"sculpture words",
+2
+]
+],
+"clash": [
+"police words"
+]
+},
+"cabin fever": {
+"also": [],
+"clash": [
+"mental health words",
+"vacation homes"
+]
+},
+"caduceus": {
+"also": [],
+"clash": [
+"greek gods",
+"words from mythology"
+]
+},
+"calf": {
+"also": [
+[
+"baby animals",
+1
+],
+[
+"silent letter words",
+2
+]
+],
+"clash": [
+"cattle breeds",
+"farm animals"
+]
+},
+"camp fever": {
+"also": [],
+"clash": [
+"war words"
+]
+},
+"campylobacter": {
+"also": [
+[
+"microbes",
+4
+]
+],
+"clash": []
+},
+"cancer": {
+"also": [
+[
+"constellations",
+2
+],
+[
+"zodiac signs",
+1
+]
+],
+"clash": []
+},
+"candida": {
+"also": [
+[
+"microbes",
+4
+]
+],
+"clash": [
+"girls' names"
+]
+},
+"canine": {
+"also": [
+[
+"animal adjectives",
+1
+],
+[
+"hidden numbers",
+3
+]
+],
+"clash": []
+},
+"cardiovascular": {
+"also": [],
+"clash": [
+"workout types"
+]
+},
+"caress": {
+"also": [
+[
+"hand actions",
+2
+],
+[
+"hidden vehicles",
+3
+]
+],
+"clash": [
+"love words"
+]
+},
+"carpal": {
+"also": [
+[
+"homophones",
+3
+]
+],
+"clash": [
+"flower parts"
+]
+},
+"cartilage": {
+"also": [
+[
+"hidden vehicles",
+3
+]
+],
+"clash": []
+},
+"cashew": {
+"also": [
+[
+"nuts",
+1
+]
+],
+"clash": []
+},
+"cat litter": {
+"also": [
+[
+"pet supplies",
+1
+],
+[
+"things that smell bad",
+2
+]
+],
+"clash": []
+},
+"cataract": {
+"also": [
+[
+"hidden animals",
+3
+],
+[
+"river features",
+4
+]
+],
+"clash": [
+"famous waterfalls"
+]
+},
+"cauliflower ear": {
+"also": [
+[
+"boxing terms",
+3
+]
+],
+"clash": [
+"cabbage family"
+]
+},
+"cavity": {
+"also": [
+[
+"dental words",
+1
+]
+],
+"clash": []
+},
+"celery": {
+"also": [
+[
+"crunchy foods",
+1
+],
+[
+"vegetables",
+1
+]
+],
+"clash": []
+},
+"celiac disease": {
+"also": [
+[
+"allergies",
+2
+]
+],
+"clash": []
+},
+"cell": {
+"also": [
+[
+"biology words",
+1
+],
+[
+"homophones",
+2
+],
+[
+"letters in alphabetical order",
+3
+],
+[
+"prison words",
+1
+]
+],
+"clash": [
+"battery types",
+"phone words",
+"tiny things"
+]
+},
+"cervix": {
+"also": [],
+"clash": [
+"pregnancy words"
+]
+},
+"chapped": {
+"also": [],
+"clash": [
+"cold weather ailments"
+]
+},
+"chapped lips": {
+"also": [],
+"clash": [
+"skin words"
+]
+},
+"checkup": {
+"also": [
+[
+"doctor's office",
+1
+]
+],
+"clash": [
+"medical tests"
+]
+},
+"cheek": {
+"also": [],
+"clash": [
+"cuts of meat",
+"manners and etiquette"
+]
+},
+"cheekbone": {
+"also": [
+[
+"double letters",
+3
+]
+],
+"clash": []
+},
+"chest": {
+"also": [
+[
+"furniture",
+2
+],
+[
+"pirate words",
+3
+],
+[
+"storage furniture",
+1
+],
+[
+"treasure",
+2
+]
+],
+"clash": []
+},
+"chickenpox": {
+"also": [
+[
+"infections",
+1
+],
+[
+"viruses",
+1
+]
+],
+"clash": []
+},
+"chignon": {
+"also": [
+[
+"words from french",
+3
+]
+],
+"clash": []
+},
+"chikungunya": {
+"also": [
+[
+"viruses",
+3
+]
+],
+"clash": []
+},
+"chilblains": {
+"also": [],
+"clash": [
+"extreme cold words",
+"signs of winter",
+"skin words"
+]
+},
+"chills": {
+"also": [
+[
+"letters in alphabetical order",
+3
+]
+],
+"clash": [
+"words for cold"
+]
+},
+"chin": {
+"also": [
+[
+"hidden body parts",
+3
+],
+[
+"letters in alphabetical order",
+3
+]
+],
+"clash": []
+},
+"chlorosis": {
+"also": [],
+"clash": [
+"plant biology"
+]
+},
+"cholera": {
+"also": [
+[
+"infections",
+1
+]
+],
+"clash": []
+},
+"chonmage": {
+"also": [
+[
+"feudal japan",
+4
+],
+[
+"sumo words",
+4
+],
+[
+"words from japanese",
+4
+]
+],
+"clash": []
+},
+"chromosome": {
+"also": [
+[
+"biology words",
+1
+],
+[
+"genetics words",
+1
+]
+],
+"clash": []
+},
+"cigar": {
+"also": [
+[
+"smoking words",
+1
+],
+[
+"words from spanish",
+3
+]
+],
+"clash": []
+},
+"cigarette": {
+"also": [
+[
+"smoking words",
+1
+]
+],
+"clash": []
+},
+"ciliary muscle": {
+"also": [
+[
+"muscles",
+2
+]
+],
+"clash": []
+},
+"circulation": {
+"also": [
+[
+"newspaper words",
+2
+]
+],
+"clash": []
+},
+"clammy": {
+"also": [],
+"clash": [
+"symptoms"
+]
+},
+"clot": {
+"also": [
+[
+"letters in alphabetical order",
+3
+]
+],
+"clash": []
+},
+"coagulation": {
+"also": [],
+"clash": [
+"cheesemaking words"
+]
+},
+"coarse": {
+"also": [
+[
+"homophones",
+2
+],
+[
+"texture words",
+1
+]
+],
+"clash": []
+},
+"coccyx": {
+"also": [],
+"clash": [
+"silly-sounding words"
+]
+},
+"cochlea": {
+"also": [],
+"clash": [
+"curves and spirals",
+"seashells"
+]
+},
+"cochlear implant": {
+"also": [
+[
+"australian inventions",
+3
+]
+],
+"clash": [
+"medical equipment",
+"wearable tech"
+]
+},
+"cockroach": {
+"also": [
+[
+"household pests",
+1
+],
+[
+"insects and bugs",
+1
+],
+[
+"words from spanish",
+4
+]
+],
+"clash": []
+},
+"codeine": {
+"also": [],
+"clash": [
+"illegal drugs"
+]
+},
+"cold": {
+"also": [
+[
+"cold things",
+2
+],
+[
+"weather",
+2
+],
+[
+"words for cold",
+1
+]
+],
+"clash": []
+},
+"cold sore": {
+"also": [],
+"clash": [
+"viruses"
+]
+},
+"cold sweat": {
+"also": [],
+"clash": [
+"scared words"
+]
+},
+"cold urticaria": {
+"also": [
+[
+"allergies",
+3
+]
+],
+"clash": []
+},
+"colic": {
+"also": [
+[
+"newborn care",
+2
+]
+],
+"clash": []
+},
+"collagen": {
+"also": [],
+"clash": [
+"skincare products"
+]
+},
+"colon": {
+"also": [
+[
+"homographs",
+4
+],
+[
+"punctuation",
+1
+]
+],
+"clash": []
+},
+"comb": {
+"also": [
+[
+"hair care",
+1
+],
+[
+"hair salon",
+2
+],
+[
+"silent b words",
+1
+],
+[
+"things with teeth",
+1
+]
+],
+"clash": [
+"bird body parts",
+"hair accessories"
+]
+},
+"common cold": {
+"also": [
+[
+"infections",
+2
+],
+[
+"viruses",
+2
+]
+],
+"clash": []
+},
+"compost": {
+"also": [
+[
+"bins and recycling",
+2
+],
+[
+"garden",
+1
+],
+[
+"recycling words",
+2
+],
+[
+"soil words",
+1
+],
+[
+"things that smell bad",
+2
+]
+],
+"clash": []
+},
+"concha": {
+"also": [],
+"clash": [
+"seashells"
+]
+},
+"conditioner": {
+"also": [
+[
+"hair care",
+1
+],
+[
+"toiletries",
+2
+],
+[
+"toiletries for washing",
+1
+]
+],
+"clash": [
+"laundry words"
+]
+},
+"cone": {
+"also": [
+[
+"3d shapes",
+1
+],
+[
+"hidden numbers",
+3
+]
+],
+"clash": [
+"road signs",
+"things that fall from trees",
+"tree parts"
+]
+},
+"congestion": {
+"also": [],
+"clash": [
+"traffic words"
+]
+},
+"consumption": {
+"also": [],
+"clash": [
+"business words",
+"victorian era"
+]
+},
+"corn": {
+"also": [
+[
+"grains",
+1
+],
+[
+"vegetables",
+1
+]
+],
+"clash": []
+},
+"cornrows": {
+"also": [],
+"clash": [
+"farm"
+]
+},
+"corpse flower": {
+"also": [
+[
+"things that smell bad",
+1
+],
+[
+"tropical flowers",
+3
+]
+],
+"clash": []
+},
+"cortisone": {
+"also": [],
+"clash": [
+"hormones"
+]
+},
+"cough": {
+"also": [
+[
+"body noises",
+1
+],
+[
+"ough words",
+1
+]
+],
+"clash": [
+"body actions",
+"common illnesses"
+]
+},
+"cough syrup": {
+"also": [
+[
+"medicine cabinet",
+2
+],
+[
+"pharmacy",
+1
+]
+],
+"clash": []
+},
+"cow pat": {
+"also": [
+[
+"things that smell bad",
+2
+]
+],
+"clash": [
+"farm"
+]
+},
+"cowlick": {
+"also": [
+[
+"hidden animals",
+3
+]
+],
+"clash": []
+},
+"cowpox": {
+"also": [
+[
+"viruses",
+3
+]
+],
+"clash": []
+},
+"cracked heels": {
+"also": [],
+"clash": [
+"skin words"
+]
+},
+"cradle cap": {
+"also": [
+[
+"newborn care",
+3
+]
+],
+"clash": []
+},
+"cramp": {
+"also": [
+[
+"hidden animals",
+3
+]
+],
+"clash": []
+},
+"crew cut": {
+"also": [],
+"clash": [
+"ship crew"
+]
+},
+"crop": {
+"also": [
+[
+"horse tack",
+2
+]
+],
+"clash": [
+"farm",
+"photography words"
+]
+},
+"croup": {
+"also": [
+[
+"parts of a horse",
+4
+]
+],
+"clash": []
+},
+"crown": {
+"also": [
+[
+"bird body parts",
+4
+],
+[
+"dental words",
+2
+],
+[
+"hidden birds",
+2
+],
+[
+"historic coins",
+3
+],
+[
+"royal things",
+1
+],
+[
+"tree parts",
+3
+]
+],
+"clash": [
+"english monarchs",
+"hats"
+]
+},
+"crustacean": {
+"also": [],
+"clash": [
+"crustaceans",
+"sea life",
+"shellfish"
+]
+},
+"cuboid": {
+"also": [
+[
+"3d shapes",
+2
+]
+],
+"clash": []
+},
+"cuddle": {
+"also": [],
+"clash": [
+"love words"
+]
+},
+"cuneiform": {
+"also": [
+[
+"ancient writing",
+2
+],
+[
+"mesopotamia",
+3
+],
+[
+"writing systems",
+2
+]
+],
+"clash": []
+},
+"cure": {
+"also": [
+[
+"ways to preserve food",
+2
+]
+],
+"clash": []
+},
+"curl": {
+"also": [
+[
+"curling words",
+3
+],
+[
+"exercises",
+2
+]
+],
+"clash": [
+"curves and spirals",
+"hairstyles"
+]
+},
+"curly": {
+"also": [],
+"clash": [
+"hairstyles",
+"texture words"
+]
+},
+"curtains": {
+"also": [
+[
+"window coverings",
+1
+]
+],
+"clash": [
+"theater"
+]
+},
+"cusp": {
+"also": [],
+"clash": [
+"zodiac signs"
+]
+},
+"cut": {
+"also": [],
+"clash": [
+"film words",
+"hair salon",
+"irregular past tenses",
+"ways to cut food"
+]
+},
+"cuticle": {
+"also": [
+[
+"nail care",
+2
+]
+],
+"clash": []
+},
+"cyanosis": {
+"also": [
+[
+"hidden colors",
+3
+]
+],
+"clash": []
+},
+"cyst": {
+"also": [],
+"clash": [
+"illnesses",
+"symptoms"
+]
+},
+"cytomegalovirus": {
+"also": [
+[
+"viruses",
+4
+]
+],
+"clash": []
+},
+"damp": {
+"also": [],
+"clash": [
+"rain words"
+]
+},
+"dandruff": {
+"also": [],
+"clash": [
+"skin words",
+"symptoms"
+]
+},
+"deafening": {
+"also": [
+[
+"sound qualities",
+2
+]
+],
+"clash": [
+"loud things"
+]
+},
+"decibel": {
+"also": [
+[
+"acoustics words",
+1
+]
+],
+"clash": [
+"units named after people"
+]
+},
+"decongestant": {
+"also": [
+[
+"pharmacy",
+2
+]
+],
+"clash": []
+},
+"dementia": {
+"also": [
+[
+"mental health words",
+2
+]
+],
+"clash": []
+},
+"dengue fever": {
+"also": [
+[
+"infections",
+2
+],
+[
+"viruses",
+2
+]
+],
+"clash": []
+},
+"denture": {
+"also": [
+[
+"dental words",
+1
+]
+],
+"clash": []
+},
+"deodorant": {
+"also": [
+[
+"toiletries",
+1
+],
+[
+"toiletries for washing",
+2
+]
+],
+"clash": []
+},
+"depression": {
+"also": [
+[
+"mental health words",
+1
+]
+],
+"clash": [
+"forecast words",
+"weather"
+]
+},
+"dermatitis": {
+"also": [],
+"clash": [
+"allergies",
+"illnesses"
+]
+},
+"dermatologist": {
+"also": [
+[
+"medical jobs",
+1
+],
+[
+"medical specialties",
+2
+]
+],
+"clash": []
+},
+"diagnosis": {
+"also": [
+[
+"doctor's office",
+2
+]
+],
+"clash": []
+},
+"dialysis": {
+"also": [
+[
+"hospital words",
+2
+]
+],
+"clash": []
+},
+"diaper": {
+"also": [
+[
+"baby gear",
+1
+],
+[
+"hidden animals",
+3
+],
+[
+"newborn care",
+1
+],
+[
+"reversible words",
+3
+],
+[
+"things that smell bad",
+2
+]
+],
+"clash": []
+},
+"diaper rash": {
+"also": [
+[
+"newborn care",
+2
+]
+],
+"clash": [
+"skin words"
+]
+},
+"diaphragm": {
+"also": [
+[
+"camera parts",
+3
+],
+[
+"silent letter words",
+3
+]
+],
+"clash": []
+},
+"diarrhea": {
+"also": [
+[
+"hidden birds",
+4
+]
+],
+"clash": []
+},
+"digitalis": {
+"also": [
+[
+"poisonous plants",
+3
+]
+],
+"clash": [
+"medicinal plants"
+]
+},
+"dimple": {
+"also": [],
+"clash": [
+"golf terms"
+]
+},
+"diphtheria": {
+"also": [
+[
+"infections",
+2
+]
+],
+"clash": []
+},
+"dirty laundry": {
+"also": [
+[
+"things that smell bad",
+2
+]
+],
+"clash": [
+"laundry words"
+]
+},
+"dislocation": {
+"also": [
+[
+"hidden animals",
+3
+]
+],
+"clash": []
+},
+"dizziness": {
+"also": [
+[
+"double letters",
+3
+]
+],
+"clash": []
+},
+"dog poop": {
+"also": [
+[
+"things that smell bad",
+1
+]
+],
+"clash": []
+},
+"donor": {
+"also": [
+[
+"charity words",
+2
+]
+],
+"clash": []
+},
+"dopamine": {
+"also": [],
+"clash": [
+"happy words"
+]
+},
+"dose": {
+"also": [
+[
+"pharmacy",
+2
+]
+],
+"clash": []
+},
+"double vision": {
+"also": [
+[
+"symptoms",
+2
+]
+],
+"clash": []
+},
+"drowsiness": {
+"also": [
+[
+"sleep words",
+2
+]
+],
+"clash": []
+},
+"dry cough": {
+"also": [
+[
+"body noises",
+2
+]
+],
+"clash": [
+"ough words"
+]
+},
+"duct": {
+"also": [
+[
+"homophones",
+4
+]
+],
+"clash": []
+},
+"dump": {
+"also": [
+[
+"things that smell bad",
+2
+]
+],
+"clash": [
+"bins and recycling",
+"recycling words"
+]
+},
+"durian": {
+"also": [
+[
+"asian fruits",
+1
+],
+[
+"pungent foods",
+1
+],
+[
+"things that smell bad",
+2
+],
+[
+"tropical fruits",
+1
+]
+],
+"clash": []
+},
+"dust": {
+"also": [
+[
+"___man",
+3
+],
+[
+"cleaning verbs",
+1
+]
+],
+"clash": [
+"chores",
+"cleaning",
+"dry season",
+"tiny things"
+]
+},
+"dust mite": {
+"also": [
+[
+"hidden insects",
+3
+],
+[
+"household pests",
+2
+]
+],
+"clash": [
+"insects and bugs",
+"tiny things"
+]
+},
+"dysentery": {
+"also": [
+[
+"infections",
+2
+]
+],
+"clash": []
+},
+"ear": {
+"also": [
+[
+"hidden body parts",
+2
+]
+],
+"clash": [
+"ear parts",
+"grains"
+]
+},
+"ear lobe": {
+"also": [
+[
+"paired body parts",
+2
+]
+],
+"clash": []
+},
+"earache": {
+"also": [],
+"clash": [
+"rhymes with cake"
+]
+},
+"eardrum": {
+"also": [],
+"clash": [
+"drums"
+]
+},
+"earmuffs": {
+"also": [],
+"clash": [
+"hats",
+"scarves and gloves",
+"ski trip"
+]
+},
+"earphones": {
+"also": [
+[
+"audio gear",
+1
+]
+],
+"clash": []
+},
+"earplug": {
+"also": [
+[
+"travel accessories",
+1
+]
+],
+"clash": []
+},
+"earthy": {
+"also": [
+[
+"hidden body parts",
+3
+]
+],
+"clash": [
+"wine words"
+]
+},
+"earwitness": {
+"also": [],
+"clash": [
+"courtroom words"
+]
+},
+"eavesdrop": {
+"also": [
+[
+"spy words",
+2
+]
+],
+"clash": []
+},
+"echo": {
+"also": [
+[
+"acoustics words",
+1
+],
+[
+"phonetic alphabet",
+2
+],
+[
+"words from mythology",
+1
+]
+],
+"clash": [
+"cave features"
+]
+},
+"eczema": {
+"also": [],
+"clash": [
+"allergies",
+"symptoms"
+]
+},
+"egg": {
+"also": [
+[
+"baking ingredients",
+1
+],
+[
+"dairy and eggs",
+1
+],
+[
+"foods with shells",
+1
+],
+[
+"things with shells",
+1
+]
+],
+"clash": [
+"breakfast foods",
+"egg dishes"
+]
+},
+"elbow": {
+"also": [],
+"clash": [
+"plumbing words"
+]
+},
+"electric shock": {
+"also": [
+[
+"electricity words",
+2
+]
+],
+"clash": []
+},
+"elephantiasis": {
+"also": [],
+"clash": [
+"african animals"
+]
+},
+"elixir": {
+"also": [
+[
+"alchemy",
+1
+],
+[
+"magic items",
+2
+],
+[
+"words from arabic",
+3
+]
+],
+"clash": [
+"wizard words"
+]
+},
+"embolism": {
+"also": [
+[
+"illnesses",
+2
+]
+],
+"clash": []
+},
+"embrace": {
+"also": [],
+"clash": [
+"gestures",
+"love words"
+]
+},
+"enamel": {
+"also": [
+[
+"art materials",
+4
+],
+[
+"painting and decorating",
+2
+],
+[
+"pottery words",
+3
+]
+],
+"clash": []
+},
+"endorphin": {
+"also": [],
+"clash": [
+"fitness words",
+"happy words"
+]
+},
+"enzyme": {
+"also": [
+[
+"biology words",
+2
+]
+],
+"clash": []
+},
+"epazote": {
+"also": [
+[
+"herbs",
+4
+],
+[
+"words from nahuatl",
+4
+]
+],
+"clash": [
+"mexican food"
+]
+},
+"epidemiology": {
+"also": [
+[
+"medical specialties",
+3
+]
+],
+"clash": []
+},
+"epinephrine": {
+"also": [
+[
+"medicines",
+2
+]
+],
+"clash": []
+},
+"equilibrium": {
+"also": [
+[
+"chemistry words",
+3
+]
+],
+"clash": []
+},
+"erythropoietin": {
+"also": [],
+"clash": [
+"illegal drugs"
+]
+},
+"estradiol": {
+"also": [
+[
+"medicines",
+3
+]
+],
+"clash": []
+},
+"eye": {
+"also": [
+[
+"___ball",
+1
+],
+[
+"homophones",
+1
+],
+[
+"palindromes",
+2
+],
+[
+"sounds like a letter",
+1
+],
+[
+"things that come in pairs",
+2
+]
+],
+"clash": [
+"sewing kit",
+"storms"
+]
+},
+"eye contact": {
+"also": [],
+"clash": [
+"gestures",
+"manners and etiquette"
+]
+},
+"eye socket": {
+"also": [
+[
+"bones",
+3
+]
+],
+"clash": []
+},
+"eye test": {
+"also": [
+[
+"medical tests",
+1
+]
+],
+"clash": []
+},
+"eyeball": {
+"also": [
+[
+"ways of looking",
+2
+]
+],
+"clash": [
+"___ball"
+]
+},
+"eyelash": {
+"also": [],
+"clash": [
+"hidden trees"
+]
+},
+"eyesight": {
+"also": [],
+"clash": [
+"rhymes with light",
+"silent letter words"
+]
+},
+"fade": {
+"also": [
+[
+"golf shots",
+3
+]
+],
+"clash": [
+"film words",
+"hair salon"
+]
+},
+"fallopian tube": {
+"also": [
+[
+"words named after people",
+4
+]
+],
+"clash": []
+},
+"fang": {
+"also": [
+[
+"animal body parts",
+1
+]
+],
+"clash": []
+},
+"fart": {
+"also": [
+[
+"body noises",
+1
+],
+[
+"things that smell bad",
+1
+]
+],
+"clash": []
+},
+"fascia": {
+"also": [
+[
+"car parts",
+4
+]
+],
+"clash": [
+"architectural features"
+]
+},
+"fat": {
+"also": [
+[
+"nutrients",
+1
+],
+[
+"words for big",
+2
+]
+],
+"clash": []
+},
+"fatigue": {
+"also": [
+[
+"words from french",
+3
+]
+],
+"clash": []
+},
+"feathers": {
+"also": [
+[
+"animal coverings",
+1
+]
+],
+"clash": []
+},
+"feathery": {
+"also": [
+[
+"texture words",
+2
+]
+],
+"clash": [
+"animal coverings"
+]
+},
+"feet": {
+"also": [
+[
+"irregular plurals",
+1
+],
+[
+"things that smell bad",
+2
+]
+],
+"clash": [
+"imperial units",
+"length units"
+]
+},
+"femur": {
+"also": [
+[
+"insect body parts",
+5
+]
+],
+"clash": [
+"hidden birds"
+]
+},
+"fentanyl": {
+"also": [
+[
+"illegal drugs",
+2
+]
+],
+"clash": []
+},
+"ferret": {
+"also": [
+[
+"pets",
+2
+],
+[
+"small pets",
+1
+],
+[
+"weasel family",
+1
+]
+],
+"clash": []
+},
+"fever": {
+"also": [],
+"clash": [
+"common illnesses"
+]
+},
+"filling": {
+"also": [
+[
+"dental words",
+1
+],
+[
+"sandwiches",
+3
+]
+],
+"clash": []
+},
+"finger": {
+"also": [
+[
+"___board",
+4
+],
+[
+"hand actions",
+3
+]
+],
+"clash": []
+},
+"finger waves": {
+"also": [
+[
+"roaring twenties",
+3
+]
+],
+"clash": []
+},
+"fingernail": {
+"also": [],
+"clash": [
+"nail care"
+]
+},
+"fingerprint": {
+"also": [
+[
+"detective words",
+1
+],
+[
+"police words",
+2
+]
+],
+"clash": []
+},
+"fish": {
+"also": [
+[
+"___cake",
+1
+],
+[
+"star___",
+1
+],
+[
+"sun___",
+3
+]
+],
+"clash": [
+"fish",
+"fish to eat",
+"sea life",
+"seafood dishes"
+]
+},
+"fish market": {
+"also": [
+[
+"things that smell bad",
+2
+]
+],
+"clash": [
+"restaurant",
+"street market"
+]
+},
+"fish oil": {
+"also": [
+[
+"superfoods",
+3
+]
+],
+"clash": [
+"vitamins"
+]
+},
+"fish sauce": {
+"also": [
+[
+"asian sauces",
+1
+],
+[
+"fermented foods",
+2
+],
+[
+"pungent foods",
+1
+],
+[
+"sauces and condiments",
+2
+],
+[
+"umami foods",
+2
+]
+],
+"clash": []
+},
+"fist": {
+"also": [
+[
+"gestures",
+2
+],
+[
+"letters in alphabetical order",
+3
+]
+],
+"clash": [
+"hand actions"
+]
+},
+"flank": {
+"also": [
+[
+"bird body parts",
+4
+],
+[
+"cuts of meat",
+2
+],
+[
+"parts of a horse",
+3
+]
+],
+"clash": [
+"army words",
+"war words"
+]
+},
+"flavor": {
+"also": [
+[
+"taste words",
+1
+]
+],
+"clash": []
+},
+"flicker": {
+"also": [],
+"clash": [
+"light words"
+]
+},
+"flu": {
+"also": [
+[
+"homophones",
+2
+],
+[
+"infections",
+1
+],
+[
+"letters in alphabetical order",
+3
+],
+[
+"rhymes with blue",
+2
+],
+[
+"viruses",
+1
+]
+],
+"clash": [
+"fireplace words"
+]
+},
+"flush": {
+"also": [
+[
+"poker terms",
+2
+],
+[
+"symptoms",
+2
+]
+],
+"clash": [
+"bathroom"
+]
+},
+"flushing": {
+"also": [
+[
+"hidden body parts",
+4
+]
+],
+"clash": []
+},
+"fondle": {
+"also": [
+[
+"hand actions",
+3
+]
+],
+"clash": []
+},
+"foot": {
+"also": [
+[
+"___ball",
+1
+],
+[
+"___man",
+3
+],
+[
+"foot___",
+1
+],
+[
+"imperial units",
+1
+],
+[
+"length units",
+1
+],
+[
+"poetry terms",
+3
+],
+[
+"things that come in pairs",
+2
+]
+],
+"clash": []
+},
+"foul": {
+"also": [
+[
+"baseball terms",
+2
+],
+[
+"basketball terms",
+2
+],
+[
+"homophones",
+2
+],
+[
+"soccer terms",
+1
+],
+[
+"words for bad",
+2
+]
+],
+"clash": []
+},
+"fragrance": {
+"also": [],
+"clash": [
+"perfume notes"
+]
+},
+"freckle": {
+"also": [
+[
+"spotted animals",
+4
+]
+],
+"clash": []
+},
+"frequency": {
+"also": [
+[
+"acoustics words",
+1
+],
+[
+"radio words",
+1
+]
+],
+"clash": [
+"statistics words"
+]
+},
+"fringe": {
+"also": [
+[
+"british english words",
+2
+],
+[
+"theater",
+3
+]
+],
+"clash": [
+"sewing words"
+]
+},
+"frizzy": {
+"also": [],
+"clash": [
+"hairstyles"
+]
+},
+"frostbite": {
+"also": [
+[
+"extreme cold words",
+1
+]
+],
+"clash": [
+"rhymes with light"
+]
+},
+"frostnip": {
+"also": [],
+"clash": [
+"extreme cold words"
+]
+},
+"fumes": {
+"also": [],
+"clash": [
+"pollution words"
+]
+},
+"funk": {
+"also": [
+[
+"music genres",
+1
+]
+],
+"clash": []
+},
+"funny bone": {
+"also": [],
+"clash": [
+"bones",
+"comedy words"
+]
+},
+"furry": {
+"also": [
+[
+"texture words",
+2
+]
+],
+"clash": [
+"animal coverings"
+]
+},
+"fuzzy": {
+"also": [
+[
+"texture words",
+1
+]
+],
+"clash": []
+},
+"gallbladder": {
+"also": [
+[
+"double letters",
+3
+]
+],
+"clash": []
+},
+"ganglion": {
+"also": [
+[
+"hidden animals",
+3
+]
+],
+"clash": []
+},
+"gangrene": {
+"also": [
+[
+"historic diseases",
+3
+]
+],
+"clash": []
+},
+"gaol fever": {
+"also": [],
+"clash": [
+"british english words"
+]
+},
+"gape": {
+"also": [
+[
+"hidden animals",
+3
+],
+[
+"ways of looking",
+2
+]
+],
+"clash": [
+"facial expressions",
+"surprised words"
+]
+},
+"garbage": {
+"also": [
+[
+"bins and recycling",
+1
+],
+[
+"things that smell bad",
+1
+]
+],
+"clash": [
+"words meaning nonsense"
+]
+},
+"garlic": {
+"also": [
+[
+"herbs",
+3
+],
+[
+"onion family",
+1
+],
+[
+"pungent foods",
+1
+],
+[
+"things that smell bad",
+2
+],
+[
+"vegetables",
+2
+]
+],
+"clash": [
+"spices",
+"things that smell good"
+]
+},
+"gash": {
+"also": [
+[
+"hidden trees",
+3
+]
+],
+"clash": []
+},
+"gasoline": {
+"also": [
+[
+"fuels",
+1
+]
+],
+"clash": []
+},
+"gastric juice": {
+"also": [],
+"clash": [
+"juices"
+]
+},
+"gastrocnemius": {
+"also": [
+[
+"all five vowels",
+4
+]
+],
+"clash": []
+},
+"gawk": {
+"also": [
+[
+"ways of looking",
+1
+]
+],
+"clash": []
+},
+"gaze": {
+"also": [
+[
+"star___",
+3
+],
+[
+"ways of looking",
+1
+]
+],
+"clash": []
+},
+"gene": {
+"also": [
+[
+"biology words",
+1
+],
+[
+"boys' names",
+3
+],
+[
+"genetics words",
+1
+],
+[
+"homophones",
+2
+]
+],
+"clash": []
+},
+"gene therapy": {
+"also": [
+[
+"genetics words",
+2
+]
+],
+"clash": []
+},
+"giardia": {
+"also": [
+[
+"microbes",
+4
+]
+],
+"clash": []
+},
+"ginger": {
+"also": [
+[
+"cat breeds",
+4
+],
+[
+"herbs",
+3
+],
+[
+"root vegetables",
+3
+],
+[
+"spices",
+1
+]
+],
+"clash": [
+"names that are colors",
+"shades of orange",
+"shades of red"
+]
+},
+"glance": {
+"also": [
+[
+"ways of looking",
+1
+]
+],
+"clash": []
+},
+"glandular fever": {
+"also": [
+[
+"british english words",
+3
+]
+],
+"clash": [
+"viruses"
+]
+},
+"glare": {
+"also": [
+[
+"rhymes with bear",
+1
+],
+[
+"ways of looking",
+1
+]
+],
+"clash": [
+"facial expressions",
+"light words"
+]
+},
+"glimmer": {
+"also": [
+[
+"things that glow",
+3
+]
+],
+"clash": [
+"words for shiny"
+]
+},
+"glimpse": {
+"also": [
+[
+"ways of looking",
+1
+]
+],
+"clash": []
+},
+"gluten": {
+"also": [
+[
+"baking ingredients",
+3
+],
+[
+"hidden numbers",
+3
+]
+],
+"clash": [
+"diet types"
+]
+},
+"glutes": {
+"also": [],
+"clash": [
+"torso"
+]
+},
+"goatee": {
+"also": [
+[
+"hidden animals",
+3
+]
+],
+"clash": []
+},
+"goggle": {
+"also": [
+[
+"ways of looking",
+2
+]
+],
+"clash": [
+"eyewear",
+"swimming words"
+]
+},
+"golfer's elbow": {
+"also": [],
+"clash": [
+"golf terms"
+]
+},
+"goose pimples": {
+"also": [],
+"clash": [
+"symptoms"
+]
+},
+"goosebumps": {
+"also": [],
+"clash": [
+"scared words",
+"symptoms"
+]
+},
+"gore": {
+"also": [],
+"clash": [
+"war words"
+]
+},
+"gout": {
+"also": [],
+"clash": [
+"historic diseases"
+]
+},
+"grainy": {
+"also": [
+[
+"texture words",
+1
+]
+],
+"clash": []
+},
+"grasp": {
+"also": [
+[
+"hand actions",
+1
+],
+[
+"hidden animals",
+3
+]
+],
+"clash": []
+},
+"greasy": {
+"also": [
+[
+"texture words",
+2
+]
+],
+"clash": [
+"slippery things"
+]
+},
+"grip": {
+"also": [
+[
+"hand actions",
+1
+]
+],
+"clash": []
+},
+"gritty": {
+"also": [
+[
+"texture words",
+1
+]
+],
+"clash": []
+},
+"groin": {
+"also": [
+[
+"homophones",
+3
+]
+],
+"clash": [
+"coastal features"
+]
+},
+"guano": {
+"also": [
+[
+"things that smell bad",
+2
+],
+[
+"words from south american languages",
+3
+]
+],
+"clash": []
+},
+"gullet": {
+"also": [
+[
+"hidden birds",
+3
+]
+],
+"clash": []
+},
+"gum": {
+"also": [
+[
+"___ball",
+2
+],
+[
+"candy",
+1
+],
+[
+"reversible words",
+3
+],
+[
+"sticky things",
+1
+]
+],
+"clash": []
+},
+"gut": {
+"also": [
+[
+"letters in alphabetical order",
+3
+],
+[
+"reversible words",
+3
+]
+],
+"clash": [
+"inside the body"
+]
+},
+"gym bag": {
+"also": [
+[
+"bags",
+1
+],
+[
+"things that smell bad",
+2
+]
+],
+"clash": []
+},
+"hCG": {
+"also": [
+[
+"pregnancy words",
+3
+]
+],
+"clash": []
+},
+"hair dryer": {
+"also": [
+[
+"hair care",
+1
+],
+[
+"hotel",
+3
+],
+[
+"small appliances",
+1
+],
+[
+"things you plug in",
+1
+]
+],
+"clash": []
+},
+"hair dye": {
+"also": [
+[
+"hair care",
+2
+]
+],
+"clash": []
+},
+"hair extension": {
+"also": [
+[
+"hair salon",
+2
+]
+],
+"clash": [
+"hair accessories",
+"hair care"
+]
+},
+"hairbrush": {
+"also": [
+[
+"brooms and brushes",
+3
+],
+[
+"hair care",
+1
+]
+],
+"clash": []
+},
+"hairdresser": {
+"also": [
+[
+"hair salon",
+1
+],
+[
+"service jobs",
+2
+],
+[
+"trades",
+2
+]
+],
+"clash": []
+},
+"hairline": {
+"also": [],
+"clash": [
+"injuries"
+]
+},
+"half-up": {
+"also": [],
+"clash": [
+"silent letter words"
+]
+},
+"hammer": {
+"also": [
+[
+"field events",
+2
+],
+[
+"hand tools",
+1
+],
+[
+"instrument parts",
+3
+],
+[
+"tools",
+1
+]
+],
+"clash": [
+"courtroom words"
+]
+},
+"hamstring": {
+"also": [],
+"clash": [
+"stretches"
+]
+},
+"hand": {
+"also": [
+[
+"___ball",
+1
+],
+[
+"___book",
+2
+],
+[
+"back___",
+1
+],
+[
+"card game words",
+2
+],
+[
+"clock parts",
+1
+],
+[
+"imperial units",
+4
+],
+[
+"old units",
+3
+],
+[
+"things that come in pairs",
+2
+]
+],
+"clash": [
+"farm",
+"length units",
+"poker terms",
+"words for a person"
+]
+},
+"hand foot and mouth disease": {
+"also": [
+[
+"viruses",
+3
+]
+],
+"clash": []
+},
+"handle": {
+"also": [
+[
+"hand actions",
+2
+]
+],
+"clash": []
+},
+"handlebar": {
+"also": [
+[
+"bicycle parts",
+1
+]
+],
+"clash": []
+},
+"hangnail": {
+"also": [],
+"clash": [
+"nail care"
+]
+},
+"hantavirus": {
+"also": [
+[
+"viruses",
+3
+],
+[
+"words named after places",
+5
+]
+],
+"clash": []
+},
+"hard": {
+"also": [
+[
+"___ball",
+3
+],
+[
+"texture words",
+1
+]
+],
+"clash": [
+"hard materials"
+]
+},
+"hark": {
+"also": [],
+"clash": [
+"christmas carols"
+]
+},
+"hay fever": {
+"also": [],
+"clash": [
+"farm"
+]
+},
+"hazelnut": {
+"also": [
+[
+"ice cream flavors",
+3
+],
+[
+"nut trees",
+2
+],
+[
+"nuts",
+1
+]
+],
+"clash": [
+"shades of brown"
+]
+},
+"head": {
+"also": [
+[
+"___board",
+2
+],
+[
+"___light",
+2
+],
+[
+"black___",
+2
+],
+[
+"insect body parts",
+2
+],
+[
+"instrument parts",
+3
+],
+[
+"words for leader",
+1
+]
+],
+"clash": [
+"animal body parts",
+"school staff"
+]
+},
+"head lice": {
+"also": [
+[
+"biting bugs",
+2
+],
+[
+"insects and bugs",
+2
+]
+],
+"clash": []
+},
+"headache": {
+"also": [],
+"clash": [
+"head___",
+"rhymes with cake"
+]
+},
+"headphones": {
+"also": [
+[
+"audio gear",
+1
+]
+],
+"clash": []
+},
+"hear": {
+"also": [
+[
+"hidden body parts",
+3
+],
+[
+"homophones",
+1
+]
+],
+"clash": []
+},
+"hearing": {
+"also": [
+[
+"courtroom words",
+2
+],
+[
+"hearing words",
+1
+],
+[
+"hidden body parts",
+3
+]
+],
+"clash": []
+},
+"hearing aid": {
+"also": [
+[
+"wearable tech",
+1
+]
+],
+"clash": [
+"medical equipment"
+]
+},
+"hearing test": {
+"also": [
+[
+"medical tests",
+1
+]
+],
+"clash": []
+},
+"heart": {
+"also": [
+[
+"card game words",
+2
+],
+[
+"hidden body parts",
+2
+],
+[
+"love words",
+2
+],
+[
+"valentine's day",
+2
+]
+],
+"clash": [
+"positive traits",
+"power-ups and pickups",
+"shapes and patterns",
+"symbols"
+]
+},
+"heel": {
+"also": [
+[
+"homophones",
+2
+],
+[
+"shoes",
+3
+]
+],
+"clash": [
+"troublemakers"
+]
+},
+"helix": {
+"also": [
+[
+"curves and spirals",
+2
+],
+[
+"genetics words",
+2
+]
+],
+"clash": []
+},
+"hematology": {
+"also": [
+[
+"medical specialties",
+2
+]
+],
+"clash": []
+},
+"hemisphere": {
+"also": [
+[
+"3d shapes",
+3
+],
+[
+"geometry",
+3
+],
+[
+"map words",
+2
+],
+[
+"maps and globes",
+2
+]
+],
+"clash": []
+},
+"hepatitis": {
+"also": [
+[
+"viruses",
+2
+]
+],
+"clash": []
+},
+"herbalism": {
+"also": [],
+"clash": [
+"chinese medicine"
+]
+},
+"hernia": {
+"also": [],
+"clash": [
+"injuries"
+]
+},
+"herpes": {
+"also": [
+[
+"viruses",
+2
+]
+],
+"clash": []
+},
+"hertz": {
+"also": [
+[
+"acoustics words",
+1
+],
+[
+"homophones",
+3
+],
+[
+"units named after people",
+1
+]
+],
+"clash": [
+"famous physicists"
+]
+},
+"hiccups": {
+"also": [
+[
+"body noises",
+1
+]
+],
+"clash": [
+"onomatopoeia"
+]
+},
+"high-top fade": {
+"also": [
+[
+"golf shots",
+3
+]
+],
+"clash": []
+},
+"highlights": {
+"also": [],
+"clash": [
+"hair salon",
+"tv words"
+]
+},
+"hinge joint": {
+"also": [],
+"clash": [
+"parts of a door"
+]
+},
+"hip": {
+"also": [
+[
+"letters in alphabetical order",
+3
+]
+],
+"clash": [
+"fruits",
+"hidden body parts"
+]
+},
+"hip flexor": {
+"also": [],
+"clash": [
+"stretches"
+]
+},
+"hippocampus": {
+"also": [
+[
+"hidden body parts",
+3
+],
+[
+"sea monsters",
+4
+]
+],
+"clash": [
+"mythical creatures"
+]
+},
+"hives": {
+"also": [],
+"clash": [
+"animal homes"
+]
+},
+"hoarseness": {
+"also": [],
+"clash": [
+"sound qualities"
+]
+},
+"hoatzin": {
+"also": [
+[
+"amazon animals",
+4
+],
+[
+"birds",
+4
+],
+[
+"south american animals",
+4
+]
+],
+"clash": []
+},
+"hookworm": {
+"also": [],
+"clash": [
+"microbes"
+]
+},
+"hoopoe": {
+"also": [
+[
+"african birds",
+3
+],
+[
+"birds",
+2
+],
+[
+"colorful birds",
+3
+]
+],
+"clash": []
+},
+"hospice": {
+"also": [],
+"clash": [
+"hospital words"
+]
+},
+"hug": {
+"also": [],
+"clash": [
+"gestures",
+"love words"
+]
+},
+"human chorionic gonadotropin": {
+"also": [
+[
+"pregnancy words",
+4
+]
+],
+"clash": []
+},
+"human growth hormone": {
+"also": [],
+"clash": [
+"illegal drugs"
+]
+},
+"humerus": {
+"also": [
+[
+"homophones",
+2
+]
+],
+"clash": []
+},
+"hydrocortisone": {
+"also": [
+[
+"skincare products",
+3
+]
+],
+"clash": [
+"hormones"
+]
+},
+"hydrogen sulfide": {
+"also": [
+[
+"chemical compounds",
+2
+],
+[
+"gases",
+2
+],
+[
+"things that smell bad",
+2
+]
+],
+"clash": []
+},
+"hypertension": {
+"also": [
+[
+"hidden numbers",
+3
+]
+],
+"clash": []
+},
+"hypothermia": {
+"also": [
+[
+"extreme cold words",
+1
+]
+],
+"clash": []
+},
+"hysteria": {
+"also": [],
+"clash": [
+"mental health words",
+"victorian era"
+]
+},
+"ibuprofen": {
+"also": [
+[
+"medicine cabinet",
+1
+],
+[
+"pharmacy",
+2
+]
+],
+"clash": []
+},
+"ileum": {
+"also": [
+[
+"homophones",
+4
+]
+],
+"clash": []
+},
+"ilium": {
+"also": [
+[
+"homophones",
+4
+]
+],
+"clash": [
+"ancient cities",
+"trojan war"
+]
+},
+"impetigo": {
+"also": [],
+"clash": [
+"skin words"
+]
+},
+"inaudible": {
+"also": [],
+"clash": [
+"quiet things"
+]
+},
+"incense": {
+"also": [
+[
+"candle scents",
+3
+],
+[
+"homographs",
+3
+],
+[
+"things that smell good",
+2
+]
+],
+"clash": [
+"middle eastern scents"
+]
+},
+"infant colic": {
+"also": [
+[
+"newborn care",
+2
+]
+],
+"clash": []
+},
+"influenza": {
+"also": [
+[
+"infections",
+1
+],
+[
+"viruses",
+1
+],
+[
+"words from italian",
+3
+]
+],
+"clash": []
+},
+"inhale": {
+"also": [],
+"clash": [
+"smoking words",
+"yoga words"
+]
+},
+"insomnia": {
+"also": [
+[
+"sleep disorders",
+1
+],
+[
+"sleep words",
+2
+]
+],
+"clash": [
+"symptoms"
+]
+},
+"inspect": {
+"also": [
+[
+"ways of looking",
+2
+]
+],
+"clash": []
+},
+"insulin": {
+"also": [],
+"clash": [
+"famous discoveries"
+]
+},
+"iris": {
+"also": [
+[
+"camera parts",
+4
+],
+[
+"flowers",
+1
+],
+[
+"garden flowers",
+1
+],
+[
+"girls' names",
+2
+],
+[
+"names that are flowers",
+2
+],
+[
+"words from mythology",
+3
+]
+],
+"clash": [
+"greek gods"
+]
+},
+"iron": {
+"also": [
+[
+"___man",
+3
+],
+[
+"chemical elements",
+1
+],
+[
+"dietary minerals",
+1
+],
+[
+"golf terms",
+2
+],
+[
+"laundry words",
+1
+],
+[
+"metals",
+1
+],
+[
+"small appliances",
+1
+],
+[
+"things that rust",
+2
+],
+[
+"things you plug in",
+1
+]
+],
+"clash": []
+},
+"irritable bowel syndrome": {
+"also": [
+[
+"illnesses",
+2
+]
+],
+"clash": []
+},
+"itchy": {
+"also": [],
+"clash": [
+"symptoms"
+]
+},
+"itchy eyes": {
+"also": [
+[
+"symptoms",
+1
+]
+],
+"clash": []
+},
+"jaw": {
+"also": [],
+"clash": [
+"bones"
+]
+},
+"kidney": {
+"also": [
+[
+"hidden animals",
+3
+],
+[
+"things that come in pairs",
+3
+]
+],
+"clash": [
+"beans and pulses",
+"butcher shop",
+"cuts of meat"
+]
+},
+"kimchi": {
+"also": [
+[
+"fermented foods",
+1
+],
+[
+"korean food",
+1
+],
+[
+"pickles and preserves",
+3
+],
+[
+"pungent foods",
+1
+],
+[
+"spicy dishes of asia",
+1
+]
+],
+"clash": []
+},
+"kiwi": {
+"also": [
+[
+"flightless birds",
+1
+],
+[
+"fruits",
+1
+],
+[
+"new zealand animals",
+1
+],
+[
+"tropical fruits",
+2
+]
+],
+"clash": [
+"nationalities"
+]
+},
+"knead": {
+"also": [
+[
+"baking words",
+1
+],
+[
+"hand actions",
+2
+],
+[
+"homophones",
+2
+],
+[
+"silent k words",
+1
+],
+[
+"silent letter words",
+1
+]
+],
+"clash": []
+},
+"knee": {
+"also": [
+[
+"silent k words",
+1
+],
+[
+"silent letter words",
+1
+]
+],
+"clash": []
+},
+"kneecap": {
+"also": [
+[
+"silent k words",
+1
+],
+[
+"silent letter words",
+1
+]
+],
+"clash": [
+"punishments"
+]
+},
+"knot": {
+"also": [
+[
+"homophones",
+2
+],
+[
+"knots",
+1
+],
+[
+"letters in alphabetical order",
+3
+],
+[
+"sailing words",
+2
+],
+[
+"silent k words",
+1
+],
+[
+"silent letter words",
+1
+]
+],
+"clash": [
+"hairstyles"
+]
+},
+"knuckle": {
+"also": [
+[
+"cuts of meat",
+3
+],
+[
+"silent k words",
+1
+],
+[
+"silent letter words",
+1
+]
+],
+"clash": []
+},
+"labyrinth": {
+"also": [
+[
+"puzzles",
+3
+],
+[
+"words from mythology",
+3
+]
+],
+"clash": [
+"ancient greece",
+"legendary places"
+]
+},
+"landfill": {
+"also": [
+[
+"pollution words",
+2
+],
+[
+"recycling words",
+2
+],
+[
+"things that smell bad",
+2
+]
+],
+"clash": []
+},
+"latex": {
+"also": [
+[
+"materials",
+2
+],
+[
+"natural materials",
+3
+],
+[
+"things made of rubber",
+3
+]
+],
+"clash": []
+},
+"laugh line": {
+"also": [
+[
+"comedy words",
+3
+],
+[
+"skin words",
+2
+]
+],
+"clash": []
+},
+"laugh lines": {
+"also": [],
+"clash": [
+"face"
+]
+},
+"laxative": {
+"also": [
+[
+"pharmacy",
+2
+]
+],
+"clash": []
+},
+"layers": {
+"also": [],
+"clash": [
+"cakes"
+]
+},
+"leathery": {
+"also": [
+[
+"texture words",
+2
+]
+],
+"clash": []
+},
+"leech": {
+"also": [
+[
+"pond life",
+1
+],
+[
+"wetlands",
+3
+]
+],
+"clash": [
+"biting bugs"
+]
+},
+"leer": {
+"also": [
+[
+"reversible words",
+3
+],
+[
+"ways of looking",
+1
+]
+],
+"clash": []
+},
+"leg": {
+"also": [
+[
+"cuts of meat",
+2
+],
+[
+"reversible words",
+3
+],
+[
+"things that come in pairs",
+2
+]
+],
+"clash": [
+"cricket terms",
+"journeys",
+"things with legs"
+]
+},
+"lens": {
+"also": [
+[
+"camera parts",
+1
+],
+[
+"eyewear",
+2
+],
+[
+"light words",
+3
+],
+[
+"microscope parts",
+2
+]
+],
+"clash": []
+},
+"leprosy": {
+"also": [
+[
+"infections",
+2
+]
+],
+"clash": []
+},
+"levothyroxine": {
+"also": [],
+"clash": [
+"hormones"
+]
+},
+"liberty spikes": {
+"also": [],
+"clash": [
+"sports clothing",
+"sports equipment"
+]
+},
+"ligament": {
+"also": [],
+"clash": [
+"injuries"
+]
+},
+"limb": {
+"also": [
+[
+"silent b words",
+2
+],
+[
+"silent letter words",
+2
+],
+[
+"tree parts",
+2
+]
+],
+"clash": []
+},
+"limbus": {
+"also": [
+[
+"hidden vehicles",
+4
+]
+],
+"clash": []
+},
+"lip": {
+"also": [
+[
+"letters in alphabetical order",
+3
+]
+],
+"clash": []
+},
+"listen": {
+"also": [
+[
+"hidden numbers",
+3
+],
+[
+"silent letter words",
+2
+]
+],
+"clash": []
+},
+"listeria": {
+"also": [
+[
+"microbes",
+3
+],
+[
+"words named after people",
+4
+]
+],
+"clash": []
+},
+"lithium": {
+"also": [
+[
+"battery types",
+2
+],
+[
+"chemical elements",
+1
+],
+[
+"metals",
+2
+]
+],
+"clash": []
+},
+"litter box": {
+"also": [
+[
+"pet supplies",
+1
+],
+[
+"things that smell bad",
+2
+]
+],
+"clash": []
+},
+"liver": {
+"also": [],
+"clash": [
+"butcher shop",
+"cuts of meat",
+"hidden body parts"
+]
+},
+"lob": {
+"also": [
+[
+"tennis shots",
+2
+]
+],
+"clash": []
+},
+"lobe": {
+"also": [
+[
+"ear parts",
+2
+]
+],
+"clash": [
+"plant parts"
+]
+},
+"lobster": {
+"also": [
+[
+"crustaceans",
+1
+],
+[
+"shellfish",
+1
+],
+[
+"things with shells",
+2
+]
+],
+"clash": []
+},
+"lock": {
+"also": [
+[
+"head___",
+2
+],
+[
+"parts of a door",
+2
+],
+[
+"rugby terms",
+3
+],
+[
+"windows and doors",
+2
+]
+],
+"clash": [
+"hairstyles",
+"things with keys"
+]
+},
+"look": {
+"also": [
+[
+"ways of looking",
+1
+]
+],
+"clash": []
+},
+"lookout": {
+"also": [],
+"clash": [
+"pirate crew",
+"ship crew"
+]
+},
+"loud": {
+"also": [
+[
+"sound qualities",
+2
+]
+],
+"clash": [
+"loud things"
+]
+},
+"low tide": {
+"also": [
+[
+"things that smell bad",
+2
+],
+[
+"tides and currents",
+1
+]
+],
+"clash": []
+},
+"lukewarm": {
+"also": [
+[
+"hidden body parts",
+3
+]
+],
+"clash": [
+"words for hot"
+]
+},
+"lump": {
+"also": [
+[
+"letters in alphabetical order",
+3
+]
+],
+"clash": []
+},
+"lunate": {
+"also": [],
+"clash": [
+"moon phases"
+]
+},
+"lung": {
+"also": [
+[
+"things that come in pairs",
+3
+]
+],
+"clash": []
+},
+"lunula": {
+"also": [],
+"clash": [
+"moon phases"
+]
+},
+"lupin": {
+"also": [
+[
+"beans and pulses",
+4
+],
+[
+"garden flowers",
+2
+],
+[
+"wildflowers",
+3
+]
+],
+"clash": []
+},
+"lupus": {
+"also": [
+[
+"constellations",
+4
+],
+[
+"infections",
+5
+]
+],
+"clash": []
+},
+"lymph": {
+"also": [
+[
+"no vowels",
+3
+]
+],
+"clash": []
+},
+"malaise": {
+"also": [
+[
+"words from french",
+3
+]
+],
+"clash": []
+},
+"malaria": {
+"also": [
+[
+"infections",
+1
+],
+[
+"words from italian",
+3
+]
+],
+"clash": []
+},
+"mandible": {
+"also": [
+[
+"insect body parts",
+4
+]
+],
+"clash": []
+},
+"mane": {
+"also": [
+[
+"animal body parts",
+1
+],
+[
+"homophones",
+2
+],
+[
+"parts of a horse",
+1
+]
+],
+"clash": []
+},
+"manure": {
+"also": [
+[
+"farm",
+2
+],
+[
+"soil words",
+2
+],
+[
+"things that smell bad",
+1
+]
+],
+"clash": []
+},
+"marrow": {
+"also": [
+[
+"british english words",
+3
+],
+[
+"squashes",
+2
+],
+[
+"vegetables",
+2
+]
+],
+"clash": []
+},
+"massage": {
+"also": [
+[
+"hand actions",
+3
+],
+[
+"hidden colors",
+4
+],
+[
+"massage types",
+2
+],
+[
+"spa",
+1
+],
+[
+"words from french",
+3
+]
+],
+"clash": []
+},
+"mastitis": {
+"also": [],
+"clash": [
+"newborn care"
+]
+},
+"maxilla": {
+"also": [],
+"clash": [
+"insect body parts"
+]
+},
+"measles": {
+"also": [
+[
+"infections",
+1
+],
+[
+"viruses",
+1
+]
+],
+"clash": []
+},
+"melancholia": {
+"also": [],
+"clash": [
+"mental health words",
+"sad words"
+]
+},
+"melatonin": {
+"also": [
+[
+"sleep words",
+3
+]
+],
+"clash": [
+"medicines"
+]
+},
+"membrane": {
+"also": [
+[
+"biology words",
+2
+],
+[
+"cell parts",
+1
+]
+],
+"clash": []
+},
+"methadone": {
+"also": [],
+"clash": [
+"illegal drugs"
+]
+},
+"miasma": {
+"also": [],
+"clash": [
+"black death"
+]
+},
+"microbiome": {
+"also": [],
+"clash": [
+"microbes"
+]
+},
+"middle finger": {
+"also": [
+[
+"gestures",
+2
+]
+],
+"clash": []
+},
+"midriff": {
+"also": [],
+"clash": [
+"clothing parts"
+]
+},
+"midwifery": {
+"also": [
+[
+"childbirth words",
+2
+]
+],
+"clash": [
+"medical jobs"
+]
+},
+"migraine": {
+"also": [
+[
+"symptoms",
+2
+],
+[
+"words from french",
+3
+]
+],
+"clash": []
+},
+"milk": {
+"also": [
+[
+"___man",
+1
+],
+[
+"dairy and eggs",
+1
+],
+[
+"drinks",
+1
+],
+[
+"types of milk",
+2
+]
+],
+"clash": [
+"milk products",
+"white things"
+]
+},
+"milk rash": {
+"also": [
+[
+"newborn care",
+3
+]
+],
+"clash": []
+},
+"mitochondrion": {
+"also": [
+[
+"biology words",
+2
+],
+[
+"cell parts",
+1
+]
+],
+"clash": []
+},
+"mohawk": {
+"also": [
+[
+"native north american languages",
+3
+]
+],
+"clash": [
+"north american animals",
+"words from native american languages"
+]
+},
+"mohican": {
+"also": [
+[
+"british english words",
+3
+],
+[
+"native north american languages",
+4
+]
+],
+"clash": [
+"classic novels",
+"words from native american languages"
+]
+},
+"moisturizer": {
+"also": [
+[
+"skincare products",
+1
+],
+[
+"toiletries",
+2
+]
+],
+"clash": []
+},
+"mold": {
+"also": [],
+"clash": [
+"microbes",
+"mushrooms",
+"pottery words"
+]
+},
+"mole": {
+"also": [
+[
+"british wildlife",
+2
+],
+[
+"burrowing animals",
+1
+],
+[
+"garden pests",
+2
+],
+[
+"mammals",
+2
+],
+[
+"sauces and condiments",
+3
+],
+[
+"spy words",
+1
+]
+],
+"clash": [
+"chemistry words",
+"mexican food"
+]
+},
+"molluscum": {
+"also": [],
+"clash": [
+"mollusks"
+]
+},
+"monkeypox": {
+"also": [
+[
+"infections",
+2
+],
+[
+"viruses",
+2
+]
+],
+"clash": []
+},
+"mono": {
+"also": [],
+"clash": [
+"viruses"
+]
+},
+"monobrow": {
+"also": [],
+"clash": [
+"face"
+]
+},
+"mononucleosis": {
+"also": [],
+"clash": [
+"viruses"
+]
+},
+"mop-top": {
+"also": [],
+"clash": [
+"brooms and brushes"
+]
+},
+"morning-after pill": {
+"also": [],
+"clash": [
+"pregnancy words"
+]
+},
+"morphine": {
+"also": [
+[
+"illegal drugs",
+3
+],
+[
+"words from mythology",
+4
+]
+],
+"clash": []
+},
+"mothball": {
+"also": [
+[
+"things that smell bad",
+3
+]
+],
+"clash": [
+"household chemicals",
+"household pests",
+"retro household items"
+]
+},
+"mouth": {
+"also": [
+[
+"river features",
+1
+]
+],
+"clash": []
+},
+"mpox": {
+"also": [
+[
+"infections",
+2
+],
+[
+"viruses",
+2
+]
+],
+"clash": []
+},
+"muffled": {
+"also": [
+[
+"sound qualities",
+1
+]
+],
+"clash": []
+},
+"mullet": {
+"also": [
+[
+"fish to eat",
+3
+],
+[
+"sea fish",
+3
+]
+],
+"clash": []
+},
+"mumps": {
+"also": [
+[
+"infections",
+1
+],
+[
+"viruses",
+1
+]
+],
+"clash": []
+},
+"musk ox": {
+"also": [
+[
+"animals with horns",
+2
+],
+[
+"arctic animals",
+1
+],
+[
+"north american animals",
+2
+],
+[
+"things with horns",
+1
+],
+[
+"wild cattle",
+2
+]
+],
+"clash": []
+},
+"musky": {
+"also": [
+[
+"perfume notes",
+2
+]
+],
+"clash": []
+},
+"mustache": {
+"also": [],
+"clash": [
+"face"
+]
+},
+"mustard": {
+"also": [
+[
+"sauces and condiments",
+1
+],
+[
+"shades of yellow",
+2
+],
+[
+"spices",
+2
+]
+],
+"clash": []
+},
+"mute": {
+"also": [
+[
+"hidden vehicles",
+3
+],
+[
+"tv words",
+3
+]
+],
+"clash": [
+"phone words"
+]
+},
+"mutton chops": {
+"also": [],
+"clash": [
+"cuts of meat",
+"victorian era"
+]
+},
+"nail": {
+"also": [
+[
+"fixings",
+1
+],
+[
+"nail care",
+1
+],
+[
+"things that rust",
+1
+]
+],
+"clash": []
+},
+"nail polish remover": {
+"also": [
+[
+"nail care",
+1
+]
+],
+"clash": [
+"household chemicals"
+]
+},
+"nape": {
+"also": [
+[
+"bird body parts",
+4
+],
+[
+"hidden animals",
+3
+]
+],
+"clash": []
+},
+"nappy": {
+"also": [
+[
+"baby gear",
+1
+],
+[
+"british english words",
+1
+],
+[
+"newborn care",
+1
+]
+],
+"clash": []
+},
+"nappy rash": {
+"also": [
+[
+"newborn care",
+2
+]
+],
+"clash": [
+"british english words",
+"skin words"
+]
+},
+"narcolepsy": {
+"also": [
+[
+"sleep disorders",
+1
+]
+],
+"clash": []
+},
+"natto": {
+"also": [
+[
+"fermented foods",
+2
+],
+[
+"japanese food",
+3
+],
+[
+"pungent foods",
+2
+],
+[
+"words from japanese",
+4
+]
+],
+"clash": []
+},
+"nausea": {
+"also": [],
+"clash": [
+"disgust words"
+]
+},
+"navel": {
+"also": [
+[
+"homophones",
+2
+]
+],
+"clash": []
+},
+"neck": {
+"also": [
+[
+"instrument parts",
+2
+]
+],
+"clash": [
+"animal body parts",
+"clothing parts",
+"cuts of meat",
+"necklines",
+"neckwear"
+]
+},
+"nerve": {
+"also": [],
+"clash": [
+"personality traits",
+"positive traits"
+]
+},
+"nervous": {
+"also": [
+[
+"scared words",
+1
+]
+],
+"clash": []
+},
+"neuron": {
+"also": [
+[
+"brain parts",
+2
+]
+],
+"clash": []
+},
+"nickel": {
+"also": [
+[
+"chemical elements",
+1
+],
+[
+"coins",
+1
+],
+[
+"metals",
+1
+]
+],
+"clash": []
+},
+"niff": {
+"also": [
+[
+"british slang",
+3
+]
+],
+"clash": []
+},
+"nipple": {
+"also": [],
+"clash": [
+"baby gear"
+]
+},
+"nitroglycerin": {
+"also": [
+[
+"chemical compounds",
+3
+]
+],
+"clash": []
+},
+"nits": {
+"also": [],
+"clash": [
+"biting bugs",
+"insects and bugs"
+]
+},
+"noise": {
+"also": [
+[
+"sounds",
+1
+]
+],
+"clash": []
+},
+"norovirus": {
+"also": [
+[
+"viruses",
+1
+]
+],
+"clash": []
+},
+"nose": {
+"also": [
+[
+"homophones",
+2
+],
+[
+"plane parts",
+2
+]
+],
+"clash": [
+"smell words"
+]
+},
+"nosegay": {
+"also": [
+[
+"bouquet flowers",
+4
+]
+],
+"clash": [
+"things that smell good"
+]
+},
+"notice": {
+"also": [
+[
+"ways of looking",
+3
+]
+],
+"clash": []
+},
+"noxious": {
+"also": [
+[
+"hidden animals",
+3
+]
+],
+"clash": []
+},
+"nucleus": {
+"also": [
+[
+"cell parts",
+1
+],
+[
+"nuclear words",
+3
+],
+[
+"particle physics",
+2
+],
+[
+"physics words",
+2
+]
+],
+"clash": []
+},
+"nudge": {
+"also": [
+[
+"hand actions",
+2
+]
+],
+"clash": [
+"gestures"
+]
+},
+"numb": {
+"also": [
+[
+"silent b words",
+1
+],
+[
+"silent letter words",
+1
+]
+],
+"clash": [
+"symptoms"
+]
+},
+"nursing": {
+"also": [],
+"clash": [
+"medical jobs",
+"newborn care"
+]
+},
+"observe": {
+"also": [
+[
+"ways of looking",
+1
+]
+],
+"clash": []
+},
+"odor": {
+"also": [],
+"clash": [
+"things that smell bad"
+]
+},
+"ogle": {
+"also": [
+[
+"ways of looking",
+1
+]
+],
+"clash": []
+},
+"old cheese": {
+"also": [
+[
+"things that smell bad",
+2
+]
+],
+"clash": []
+},
+"olfactory bulb": {
+"also": [
+[
+"smell words",
+2
+]
+],
+"clash": []
+},
+"onion": {
+"also": [
+[
+"onion family",
+1
+],
+[
+"pungent foods",
+1
+],
+[
+"vegetables",
+1
+]
+],
+"clash": []
+},
+"optician": {
+"also": [
+[
+"medical jobs",
+1
+]
+],
+"clash": [
+"shops"
+]
+},
+"optometrist": {
+"also": [
+[
+"medical jobs",
+1
+]
+],
+"clash": []
+},
+"orbit": {
+"also": [
+[
+"astronomy terms",
+2
+],
+[
+"spaceflight words",
+1
+]
+],
+"clash": []
+},
+"organ of Corti": {
+"also": [],
+"clash": [
+"keyboard instruments",
+"words named after people"
+]
+},
+"outlook": {
+"also": [
+[
+"forecast words",
+1
+]
+],
+"clash": []
+},
+"oval window": {
+"also": [],
+"clash": [
+"window styles"
+]
+},
+"ovary": {
+"also": [
+[
+"flower parts",
+2
+]
+],
+"clash": []
+},
+"overdose": {
+"also": [],
+"clash": [
+"illegal drugs"
+]
+},
+"overhear": {
+"also": [],
+"clash": [
+"spy words"
+]
+},
+"oxycodone": {
+"also": [
+[
+"illegal drugs",
+3
+]
+],
+"clash": []
+},
+"oxygen": {
+"also": [
+[
+"chemical elements",
+1
+],
+[
+"gases",
+1
+],
+[
+"hidden animals",
+3
+]
+],
+"clash": []
+},
+"oxytocin": {
+"also": [
+[
+"childbirth words",
+3
+]
+],
+"clash": [
+"love words"
+]
+},
+"pageboy": {
+"also": [
+[
+"medieval jobs",
+2
+]
+],
+"clash": []
+},
+"pain": {
+"also": [
+[
+"homophones",
+2
+]
+],
+"clash": []
+},
+"painkiller": {
+"also": [
+[
+"first aid",
+2
+],
+[
+"medicine cabinet",
+1
+],
+[
+"pharmacy",
+2
+]
+],
+"clash": []
+},
+"paint thinner": {
+"also": [
+[
+"household chemicals",
+2
+],
+[
+"painting and decorating",
+2
+]
+],
+"clash": []
+},
+"palate": {
+"also": [
+[
+"homophones",
+3
+]
+],
+"clash": []
+},
+"palatine": {
+"also": [],
+"clash": [
+"ancient rome",
+"rome landmarks"
+]
+},
+"palm": {
+"also": [
+[
+"silent letter words",
+2
+],
+[
+"trees",
+1
+],
+[
+"tropical trees",
+1
+]
+],
+"clash": [
+"hand actions",
+"magic tricks",
+"old units"
+]
+},
+"panacea": {
+"also": [
+[
+"words from mythology",
+3
+]
+],
+"clash": [
+"alchemy"
+]
+},
+"panorama": {
+"also": [
+[
+"hidden animals",
+3
+],
+[
+"photography words",
+2
+]
+],
+"clash": []
+},
+"paracetamol": {
+"also": [
+[
+"british english words",
+3
+],
+[
+"medicine cabinet",
+1
+],
+[
+"pharmacy",
+2
+]
+],
+"clash": []
+},
+"part": {
+"also": [
+[
+"reversible words",
+3
+]
+],
+"clash": []
+},
+"parting": {
+"also": [],
+"clash": [
+"ways to say goodbye"
+]
+},
+"pat": {
+"also": [
+[
+"hand actions",
+1
+],
+[
+"reversible words",
+3
+],
+[
+"short forms of names",
+1
+]
+],
+"clash": [
+"gestures"
+]
+},
+"pathology": {
+"also": [
+[
+"medical specialties",
+2
+]
+],
+"clash": [
+"medical jobs"
+]
+},
+"paw": {
+"also": [
+[
+"animal body parts",
+1
+]
+],
+"clash": []
+},
+"peanut": {
+"also": [
+[
+"andean crops",
+2
+],
+[
+"beans and pulses",
+3
+],
+[
+"foods with shells",
+1
+],
+[
+"nuts",
+1
+],
+[
+"things with shells",
+2
+]
+],
+"clash": []
+},
+"pecs": {
+"also": [],
+"clash": [
+"torso"
+]
+},
+"pectoral": {
+"also": [
+[
+"fish body parts",
+3
+]
+],
+"clash": []
+},
+"peek": {
+"also": [
+[
+"homophones",
+2
+],
+[
+"reversible words",
+3
+],
+[
+"ways of looking",
+1
+]
+],
+"clash": []
+},
+"peep": {
+"also": [
+[
+"palindromes",
+2
+],
+[
+"ways of looking",
+1
+]
+],
+"clash": [
+"animal sounds",
+"onomatopoeia"
+]
+},
+"peer": {
+"also": [
+[
+"homophones",
+2
+],
+[
+"ways of looking",
+1
+]
+],
+"clash": [
+"social classes",
+"words for friend"
+]
+},
+"pelvis": {
+"also": [],
+"clash": [
+"hidden names"
+]
+},
+"penicillin": {
+"also": [
+[
+"accidental inventions",
+1
+],
+[
+"famous discoveries",
+2
+]
+],
+"clash": []
+},
+"perfect pitch": {
+"also": [
+[
+"music words",
+2
+]
+],
+"clash": []
+},
+"perfume": {
+"also": [
+[
+"in a handbag",
+3
+],
+[
+"things that smell good",
+1
+],
+[
+"words from french",
+3
+]
+],
+"clash": [
+"middle eastern scents"
+]
+},
+"periodontitis": {
+"also": [
+[
+"dental words",
+3
+]
+],
+"clash": []
+},
+"perm": {
+"also": [
+[
+"hair salon",
+2
+]
+],
+"clash": []
+},
+"pet": {
+"also": [],
+"clash": [
+"pets"
+]
+},
+"petrol": {
+"also": [
+[
+"british english words",
+1
+],
+[
+"fuels",
+1
+]
+],
+"clash": []
+},
+"phalanx": {
+"also": [
+[
+"ancient greece",
+3
+],
+[
+"military units",
+4
+]
+],
+"clash": []
+},
+"pharmacology": {
+"also": [
+[
+"hidden body parts",
+3
+]
+],
+"clash": []
+},
+"phlebotomy": {
+"also": [],
+"clash": [
+"medical jobs"
+]
+},
+"phlegm": {
+"also": [
+[
+"hidden body parts",
+3
+],
+[
+"silent letter words",
+2
+]
+],
+"clash": []
+},
+"phossy jaw": {
+"also": [],
+"clash": [
+"industrial revolution"
+]
+},
+"physical therapy": {
+"also": [
+[
+"medical specialties",
+2
+]
+],
+"clash": []
+},
+"physiotherapy": {
+"also": [
+[
+"medical specialties",
+2
+]
+],
+"clash": []
+},
+"pig farm": {
+"also": [
+[
+"things that smell bad",
+1
+]
+],
+"clash": [
+"farm"
+]
+},
+"pigment": {
+"also": [
+[
+"art materials",
+2
+],
+[
+"color terms",
+1
+],
+[
+"hidden animals",
+3
+]
+],
+"clash": []
+},
+"pigtails": {
+"also": [
+[
+"hidden animals",
+3
+]
+],
+"clash": []
+},
+"pimple": {
+"also": [],
+"clash": [
+"symptoms"
+]
+},
+"pin drop": {
+"also": [
+[
+"quiet things",
+2
+]
+],
+"clash": []
+},
+"pinch": {
+"also": [
+[
+"hand actions",
+1
+]
+],
+"clash": []
+},
+"pink eye": {
+"also": [
+[
+"hidden colors",
+3
+]
+],
+"clash": []
+},
+"pinky": {
+"also": [
+[
+"hidden colors",
+3
+]
+],
+"clash": [
+"gestures"
+]
+},
+"pins and needles": {
+"also": [],
+"clash": [
+"sewing kit"
+]
+},
+"pitch": {
+"also": [
+[
+"acoustics words",
+1
+],
+[
+"baseball terms",
+1
+],
+[
+"cricket terms",
+2
+],
+[
+"music terms",
+1
+],
+[
+"soccer terms",
+1
+],
+[
+"sports venues",
+2
+]
+],
+"clash": [
+"business words",
+"campsite",
+"roof parts"
+]
+},
+"pixie": {
+"also": [
+[
+"fairy folk",
+1
+]
+],
+"clash": []
+},
+"pixie cut": {
+"also": [],
+"clash": [
+"fairy folk"
+]
+},
+"placenta": {
+"also": [
+[
+"childbirth words",
+1
+],
+[
+"pregnancy words",
+1
+]
+],
+"clash": [
+"plant parts"
+]
+},
+"plague": {
+"also": [
+[
+"black death",
+1
+],
+[
+"infections",
+2
+]
+],
+"clash": [
+"medieval times"
+]
+},
+"plait": {
+"also": [
+[
+"british english words",
+3
+]
+],
+"clash": [
+"homophones"
+]
+},
+"plaque": {
+"also": [
+[
+"dental care",
+2
+],
+[
+"dental words",
+1
+]
+],
+"clash": []
+},
+"plasma": {
+"also": [
+[
+"display tech",
+2
+],
+[
+"physics words",
+3
+],
+[
+"states of matter",
+1
+]
+],
+"clash": []
+},
+"pneumonia": {
+"also": [
+[
+"all five vowels",
+3
+],
+[
+"silent letter words",
+2
+]
+],
+"clash": []
+},
+"pneumonic plague": {
+"also": [
+[
+"black death",
+2
+]
+],
+"clash": []
+},
+"poke": {
+"also": [
+[
+"hand actions",
+1
+]
+],
+"clash": []
+},
+"polecat": {
+"also": [
+[
+"hidden animals",
+3
+],
+[
+"things that smell bad",
+3
+],
+[
+"weasel family",
+1
+]
+],
+"clash": []
+},
+"polio": {
+"also": [
+[
+"infections",
+2
+],
+[
+"viruses",
+1
+]
+],
+"clash": []
+},
+"pollen": {
+"also": [
+[
+"flower parts",
+2
+],
+[
+"pollinators",
+3
+]
+],
+"clash": []
+},
+"pompadour": {
+"also": [
+[
+"words named after people",
+3
+]
+],
+"clash": [
+"words from french"
+]
+},
+"pong": {
+"also": [
+[
+"british english words",
+3
+],
+[
+"british slang",
+2
+]
+],
+"clash": [
+"table tennis terms",
+"things that smell bad"
+]
+},
+"pore": {
+"also": [
+[
+"homophones",
+2
+]
+],
+"clash": []
+},
+"prescription": {
+"also": [
+[
+"doctor's office",
+1
+],
+[
+"pharmacy",
+1
+]
+],
+"clash": []
+},
+"press": {
+"also": [
+[
+"hand actions",
+2
+]
+],
+"clash": [
+"gym equipment",
+"newspaper words"
+]
+},
+"prickly": {
+"also": [
+[
+"texture words",
+1
+]
+],
+"clash": [
+"prickly things"
+]
+},
+"probiotic": {
+"also": [],
+"clash": [
+"fermented foods",
+"superfoods"
+]
+},
+"prod": {
+"also": [
+[
+"hand actions",
+1
+]
+],
+"clash": []
+},
+"progesterone": {
+"also": [],
+"clash": [
+"pregnancy words"
+]
+},
+"protein": {
+"also": [
+[
+"biology words",
+2
+],
+[
+"food groups",
+1
+],
+[
+"nutrients",
+1
+]
+],
+"clash": []
+},
+"psoas": {
+"also": [
+[
+"silent letter words",
+4
+]
+],
+"clash": []
+},
+"psoriasis": {
+"also": [
+[
+"silent letter words",
+3
+]
+],
+"clash": []
+},
+"puerperal fever": {
+"also": [],
+"clash": [
+"childbirth words"
+]
+},
+"pulse": {
+"also": [
+[
+"beans and pulses",
+1
+],
+[
+"symptoms",
+3
+]
+],
+"clash": [
+"music terms"
+]
+},
+"pungent": {
+"also": [],
+"clash": [
+"pungent foods"
+]
+},
+"pupil": {
+"also": [
+[
+"school",
+1
+]
+],
+"clash": [
+"classroom items",
+"words for beginner"
+]
+},
+"quarantine": {
+"also": [
+[
+"words from italian",
+3
+]
+],
+"clash": [
+"black death"
+]
+},
+"queue": {
+"also": [
+[
+"british english words",
+3
+],
+[
+"homophones",
+2
+],
+[
+"rhymes with blue",
+2
+],
+[
+"sounds like a letter",
+1
+]
+],
+"clash": [
+"manners and etiquette"
+]
+},
+"quiet": {
+"also": [
+[
+"calm words",
+2
+],
+[
+"sound qualities",
+2
+]
+],
+"clash": [
+"quiet things"
+]
+},
+"quinine": {
+"also": [
+[
+"hidden numbers",
+3
+],
+[
+"words from south american languages",
+3
+]
+],
+"clash": [
+"soft drinks"
+]
+},
+"rabies": {
+"also": [
+[
+"viruses",
+1
+]
+],
+"clash": [
+"historic diseases"
+]
+},
+"radius": {
+"also": [
+[
+"circle parts",
+1
+],
+[
+"geometry",
+2
+]
+],
+"clash": []
+},
+"rafflesia": {
+"also": [
+[
+"flowers named after people",
+4
+],
+[
+"rainforest",
+4
+],
+[
+"things that smell bad",
+2
+],
+[
+"tropical flowers",
+3
+]
+],
+"clash": []
+},
+"ragweed": {
+"also": [
+[
+"weeds",
+2
+]
+],
+"clash": []
+},
+"rank": {
+"also": [
+[
+"military",
+2
+]
+],
+"clash": [
+"military ranks"
+]
+},
+"rash": {
+"also": [
+[
+"hidden trees",
+3
+]
+],
+"clash": []
+},
+"rattail": {
+"also": [
+[
+"hidden animals",
+3
+]
+],
+"clash": []
+},
+"redhead": {
+"also": [
+[
+"hidden colors",
+3
+]
+],
+"clash": []
+},
+"redolent": {
+"also": [
+[
+"hidden colors",
+3
+]
+],
+"clash": []
+},
+"reek": {
+"also": [
+[
+"homophones",
+3
+]
+],
+"clash": [
+"things that smell bad"
+]
+},
+"reflexology": {
+"also": [
+[
+"massage types",
+2
+],
+[
+"spa",
+2
+]
+],
+"clash": []
+},
+"rehab": {
+"also": [],
+"clash": [
+"mental health words"
+]
+},
+"resonance": {
+"also": [
+[
+"acoustics words",
+2
+]
+],
+"clash": []
+},
+"restless legs syndrome": {
+"also": [
+[
+"sleep disorders",
+2
+]
+],
+"clash": []
+},
+"rhesus": {
+"also": [],
+"clash": [
+"monkeys",
+"primates"
+]
+},
+"rhomboid": {
+"also": [
+[
+"2d shapes",
+4
+]
+],
+"clash": []
+},
+"rib": {
+"also": [
+[
+"barbecue foods",
+2
+],
+[
+"cuts of meat",
+1
+]
+],
+"clash": []
+},
+"ribcage": {
+"also": [
+[
+"bones",
+1
+]
+],
+"clash": []
+},
+"rickets": {
+"also": [],
+"clash": [
+"victorian era"
+]
+},
+"rinderpest": {
+"also": [
+[
+"viruses",
+4
+]
+],
+"clash": []
+},
+"ring finger": {
+"also": [],
+"clash": [
+"jewelry",
+"weddings"
+]
+},
+"ringing": {
+"also": [],
+"clash": [
+"phone words",
+"sound qualities"
+]
+},
+"roadkill": {
+"also": [
+[
+"things that smell bad",
+1
+]
+],
+"clash": [
+"scavengers"
+]
+},
+"rod": {
+"also": [
+[
+"fishing tackle",
+1
+],
+[
+"old units",
+3
+],
+[
+"short forms of names",
+2
+]
+],
+"clash": []
+},
+"rod of Asclepius": {
+"also": [],
+"clash": [
+"greek gods",
+"words from mythology"
+]
+},
+"root": {
+"also": [
+[
+"homophones",
+3
+],
+[
+"math terms",
+2
+],
+[
+"plant parts",
+1
+],
+[
+"tree parts",
+1
+]
+],
+"clash": []
+},
+"root canal": {
+"also": [
+[
+"dental words",
+1
+]
+],
+"clash": []
+},
+"roots": {
+"also": [],
+"clash": [
+"homophones"
+]
+},
+"rosacea": {
+"also": [],
+"clash": [
+"illnesses"
+]
+},
+"roseola": {
+"also": [
+[
+"hidden colors",
+3
+]
+],
+"clash": []
+},
+"rotator cuff": {
+"also": [
+[
+"injuries",
+2
+]
+],
+"clash": []
+},
+"rotavirus": {
+"also": [
+[
+"viruses",
+2
+]
+],
+"clash": []
+},
+"rotten": {
+"also": [
+[
+"hidden numbers",
+3
+],
+[
+"words for bad",
+2
+]
+],
+"clash": []
+},
+"rotten egg": {
+"also": [
+[
+"things that smell bad",
+1
+]
+],
+"clash": []
+},
+"rotten meat": {
+"also": [
+[
+"things that smell bad",
+1
+]
+],
+"clash": []
+},
+"rough": {
+"also": [
+[
+"golf terms",
+1
+],
+[
+"homophones",
+3
+],
+[
+"ough words",
+1
+],
+[
+"texture words",
+1
+]
+],
+"clash": [
+"rough things"
+]
+},
+"round window": {
+"also": [],
+"clash": [
+"window styles"
+]
+},
+"rub": {
+"also": [
+[
+"hand actions",
+1
+]
+],
+"clash": [
+"cleaning verbs"
+]
+},
+"rubberneck": {
+"also": [
+[
+"ways of looking",
+2
+]
+],
+"clash": [
+"traffic words"
+]
+},
+"rubbery": {
+"also": [
+[
+"texture words",
+2
+]
+],
+"clash": []
+},
+"rubbish": {
+"also": [
+[
+"bins and recycling",
+1
+],
+[
+"british english words",
+1
+],
+[
+"words for bad",
+3
+]
+],
+"clash": [
+"words meaning nonsense"
+]
+},
+"rubella": {
+"also": [
+[
+"infections",
+2
+],
+[
+"viruses",
+2
+]
+],
+"clash": []
+},
+"ruddy": {
+"also": [],
+"clash": [
+"shades of red"
+]
+},
+"runner's knee": {
+"also": [],
+"clash": [
+"running words"
+]
+},
+"saddle joint": {
+"also": [],
+"clash": [
+"bicycle parts",
+"horse tack"
+]
+},
+"salmonella": {
+"also": [
+[
+"microbes",
+2
+],
+[
+"words named after people",
+3
+]
+],
+"clash": []
+},
+"salty": {
+"also": [
+[
+"taste words",
+1
+]
+],
+"clash": [
+"salty foods"
+]
+},
+"sauerkraut": {
+"also": [
+[
+"cabbage family",
+3
+],
+[
+"fermented foods",
+1
+],
+[
+"german food",
+1
+],
+[
+"pickles and preserves",
+2
+],
+[
+"pungent foods",
+2
+],
+[
+"words from german",
+2
+]
+],
+"clash": []
+},
+"savory": {
+"also": [
+[
+"herbs",
+4
+],
+[
+"taste words",
+1
+]
+],
+"clash": []
+},
+"scab": {
+"also": [
+[
+"hidden vehicles",
+3
+]
+],
+"clash": []
+},
+"scalene": {
+"also": [
+[
+"geometry",
+3
+]
+],
+"clash": [
+"2d shapes",
+"polygons"
+]
+},
+"scalp": {
+"also": [],
+"clash": [
+"hunting words"
+]
+},
+"scan": {
+"also": [
+[
+"computer actions",
+2
+],
+[
+"medical tests",
+1
+],
+[
+"ways of looking",
+2
+]
+],
+"clash": []
+},
+"scar": {
+"also": [
+[
+"hidden vehicles",
+3
+]
+],
+"clash": [
+"injuries"
+]
+},
+"scarlet fever": {
+"also": [
+[
+"historic diseases",
+2
+],
+[
+"infections",
+2
+]
+],
+"clash": [
+"shades of red"
+]
+},
+"scent": {
+"also": [
+[
+"homophones",
+2
+],
+[
+"perfume notes",
+3
+]
+],
+"clash": []
+},
+"scented": {
+"also": [],
+"clash": [
+"candle words"
+]
+},
+"schizophrenia": {
+"also": [
+[
+"mental health words",
+1
+]
+],
+"clash": []
+},
+"sciatica": {
+"also": [],
+"clash": [
+"injuries"
+]
+},
+"scrape": {
+"also": [
+[
+"hidden animals",
+3
+]
+],
+"clash": []
+},
+"scratch": {
+"also": [
+[
+"hidden animals",
+3
+]
+],
+"clash": []
+},
+"scratchy": {
+"also": [
+[
+"texture words",
+1
+]
+],
+"clash": []
+},
+"scrub typhus": {
+"also": [],
+"clash": [
+"historic diseases"
+]
+},
+"scrutinize": {
+"also": [
+[
+"ways of looking",
+2
+]
+],
+"clash": []
+},
+"scurvy": {
+"also": [],
+"clash": [
+"age of sail",
+"pirate words"
+]
+},
+"seasonal affective disorder": {
+"also": [
+[
+"mental health words",
+1
+]
+],
+"clash": []
+},
+"seaweed": {
+"also": [
+[
+"beachcombing finds",
+2
+],
+[
+"coastal plants",
+3
+],
+[
+"sea life",
+2
+],
+[
+"sea___",
+1
+],
+[
+"umami foods",
+2
+]
+],
+"clash": [
+"japanese food",
+"seaweeds"
+]
+},
+"see": {
+"also": [
+[
+"homophones",
+1
+],
+[
+"sounds like a letter",
+1
+]
+],
+"clash": []
+},
+"sensitive": {
+"also": [],
+"clash": [
+"personality traits"
+]
+},
+"serotonin": {
+"also": [],
+"clash": [
+"happy words"
+]
+},
+"serum": {
+"also": [
+[
+"korean skincare",
+3
+],
+[
+"skincare products",
+2
+]
+],
+"clash": []
+},
+"sesame": {
+"also": [
+[
+"oils and vinegars",
+2
+],
+[
+"spices",
+2
+]
+],
+"clash": []
+},
+"sewage": {
+"also": [
+[
+"pollution words",
+2
+],
+[
+"things that smell bad",
+1
+]
+],
+"clash": []
+},
+"sewer": {
+"also": [
+[
+"hidden animals",
+3
+],
+[
+"homographs",
+2
+],
+[
+"things that smell bad",
+2
+]
+],
+"clash": []
+},
+"shag": {
+"also": [
+[
+"rugs and carpets",
+2
+],
+[
+"seabirds",
+3
+]
+],
+"clash": []
+},
+"shampoo": {
+"also": [
+[
+"bath time",
+2
+],
+[
+"hair care",
+1
+],
+[
+"hair salon",
+2
+],
+[
+"rhymes with blue",
+3
+],
+[
+"toiletries",
+1
+],
+[
+"toiletries for washing",
+1
+],
+[
+"words from hindi",
+2
+]
+],
+"clash": []
+},
+"shank": {
+"also": [
+[
+"cuts of meat",
+2
+],
+[
+"golf shots",
+3
+]
+],
+"clash": [
+"prison words"
+]
+},
+"shellfish": {
+"also": [
+[
+"meat and seafood",
+1
+]
+],
+"clash": [
+"crustaceans",
+"mollusks",
+"seafood dishes",
+"shellfish",
+"things with shells"
+]
+},
+"shingles": {
+"also": [
+[
+"hidden body parts",
+2
+],
+[
+"roof parts",
+2
+],
+[
+"viruses",
+3
+]
+],
+"clash": [
+"building materials"
+]
+},
+"ship fever": {
+"also": [],
+"clash": [
+"age of sail"
+]
+},
+"shivering": {
+"also": [],
+"clash": [
+"body actions",
+"words for cold"
+]
+},
+"shoulder": {
+"also": [
+[
+"cuts of meat",
+2
+],
+[
+"parts of a road",
+2
+]
+],
+"clash": []
+},
+"shrimp": {
+"also": [
+[
+"crustaceans",
+1
+],
+[
+"seafood dishes",
+2
+],
+[
+"shellfish",
+1
+],
+[
+"things with shells",
+2
+]
+],
+"clash": []
+},
+"side": {
+"also": [
+[
+"___board",
+2
+],
+[
+"back___",
+2
+],
+[
+"courses of a meal",
+2
+],
+[
+"fire___",
+3
+],
+[
+"homophones",
+3
+],
+[
+"sea___",
+1
+]
+],
+"clash": []
+},
+"side effect": {
+"also": [
+[
+"pharmacy",
+3
+]
+],
+"clash": []
+},
+"sideburns": {
+"also": [
+[
+"words named after people",
+3
+]
+],
+"clash": [
+"face"
+]
+},
+"sight": {
+"also": [
+[
+"homophones",
+2
+],
+[
+"rhymes with light",
+1
+],
+[
+"sight words",
+1
+]
+],
+"clash": [
+"silent letter words"
+]
+},
+"sightseeing": {
+"also": [
+[
+"sightseeing words",
+1
+]
+],
+"clash": []
+},
+"sign language": {
+"also": [],
+"clash": [
+"codes and signals",
+"languages",
+"silent letter words"
+]
+},
+"silence": {
+"also": [
+[
+"quiet things",
+2
+]
+],
+"clash": []
+},
+"silky": {
+"also": [
+[
+"texture words",
+1
+]
+],
+"clash": []
+},
+"sinus": {
+"also": [],
+"clash": [
+"infections"
+]
+},
+"six-pack": {
+"also": [
+[
+"muscles",
+2
+]
+],
+"clash": [
+"beers",
+"fitness words"
+]
+},
+"skeletal": {
+"also": [],
+"clash": [
+"halloween"
+]
+},
+"skin": {
+"also": [
+[
+"animal coverings",
+2
+]
+],
+"clash": []
+},
+"skin prick test": {
+"also": [
+[
+"medical tests",
+2
+]
+],
+"clash": []
+},
+"skull": {
+"also": [
+[
+"pirate words",
+2
+]
+],
+"clash": [
+"day of the dead",
+"halloween",
+"things with teeth"
+]
+},
+"skunk": {
+"also": [
+[
+"black and white animals",
+1
+],
+[
+"north american animals",
+1
+],
+[
+"striped animals",
+3
+],
+[
+"things that smell bad",
+1
+],
+[
+"words from native american languages",
+3
+]
+],
+"clash": [
+"weasel family"
+]
+},
+"skunk cabbage": {
+"also": [
+[
+"things that smell bad",
+2
+]
+],
+"clash": []
+},
+"sleek": {
+"also": [
+[
+"texture words",
+2
+]
+],
+"clash": []
+},
+"sleeping pill": {
+"also": [
+[
+"sleep words",
+2
+]
+],
+"clash": []
+},
+"sleeping sickness": {
+"also": [
+[
+"infections",
+3
+]
+],
+"clash": [
+"sleep disorders"
+]
+},
+"slimy": {
+"also": [
+[
+"texture words",
+1
+]
+],
+"clash": [
+"slippery things"
+]
+},
+"slippery": {
+"also": [
+[
+"hidden body parts",
+3
+],
+[
+"texture words",
+1
+]
+],
+"clash": [
+"slippery things"
+]
+},
+"smallpox": {
+"also": [
+[
+"infections",
+1
+],
+[
+"viruses",
+1
+]
+],
+"clash": []
+},
+"smell": {
+"also": [
+[
+"smell words",
+1
+]
+],
+"clash": []
+},
+"smooth": {
+"also": [
+[
+"texture words",
+1
+]
+],
+"clash": [
+"smooth things"
+]
+},
+"sneeze": {
+"also": [
+[
+"body noises",
+1
+]
+],
+"clash": [
+"body actions"
+]
+},
+"sneezing": {
+"also": [
+[
+"body noises",
+1
+]
+],
+"clash": []
+},
+"sniff": {
+"also": [
+[
+"body noises",
+1
+]
+],
+"clash": [
+"onomatopoeia"
+]
+},
+"sniffer": {
+"also": [],
+"clash": [
+"police words"
+]
+},
+"snow blindness": {
+"also": [],
+"clash": [
+"extreme cold words",
+"sight words"
+]
+},
+"socks": {
+"also": [
+[
+"clothes",
+1
+],
+[
+"things that come in pairs",
+1
+],
+[
+"things that smell bad",
+1
+]
+],
+"clash": []
+},
+"soft": {
+"also": [
+[
+"___ball",
+2
+],
+[
+"soft materials",
+2
+],
+[
+"texture words",
+1
+]
+],
+"clash": [
+"soft things"
+]
+},
+"sole": {
+"also": [
+[
+"fish to eat",
+2
+],
+[
+"flatfish",
+2
+],
+[
+"homophones",
+2
+],
+[
+"shoes",
+2
+]
+],
+"clash": []
+},
+"sonic": {
+"also": [],
+"clash": [
+"video games"
+]
+},
+"sore": {
+"also": [
+[
+"homophones",
+2
+]
+],
+"clash": [
+"symptoms"
+]
+},
+"sore throat": {
+"also": [],
+"clash": [
+"common illnesses"
+]
+},
+"sound": {
+"also": [
+[
+"bodies of water",
+3
+],
+[
+"sounds",
+1
+]
+],
+"clash": []
+},
+"sour": {
+"also": [
+[
+"taste words",
+1
+]
+],
+"clash": [
+"sour foods"
+]
+},
+"sour milk": {
+"also": [
+[
+"things that smell bad",
+1
+]
+],
+"clash": []
+},
+"soy": {
+"also": [
+[
+"asian sauces",
+1
+],
+[
+"beans and pulses",
+2
+],
+[
+"types of milk",
+2
+]
+],
+"clash": []
+},
+"spicy": {
+"also": [
+[
+"taste words",
+1
+]
+],
+"clash": [
+"spicy foods"
+]
+},
+"spikes": {
+"also": [],
+"clash": [
+"sports clothing",
+"sports equipment"
+]
+},
+"spinal cord": {
+"also": [
+[
+"brain parts",
+3
+]
+],
+"clash": [
+"cords and strings"
+]
+},
+"spine": {
+"also": [
+[
+"hidden trees",
+2
+],
+[
+"parts of a book",
+1
+],
+[
+"prickly things",
+3
+]
+],
+"clash": [
+"animal coverings",
+"plant parts"
+]
+},
+"split end": {
+"also": [],
+"clash": [
+"hair care"
+]
+},
+"spongy": {
+"also": [
+[
+"texture words",
+1
+]
+],
+"clash": [
+"soft things"
+]
+},
+"spot": {
+"also": [
+[
+"___light",
+1
+],
+[
+"reversible words",
+3
+],
+[
+"sun___",
+2
+]
+],
+"clash": [
+"patterns",
+"symptoms"
+]
+},
+"spots": {
+"also": [
+[
+"reversible words",
+3
+]
+],
+"clash": []
+},
+"spy": {
+"also": [
+[
+"no vowels",
+2
+],
+[
+"spy words",
+1
+]
+],
+"clash": []
+},
+"squeeze": {
+"also": [
+[
+"hand actions",
+1
+]
+],
+"clash": []
+},
+"squint": {
+"also": [
+[
+"facial expressions",
+2
+],
+[
+"ways of looking",
+1
+]
+],
+"clash": []
+},
+"squishy": {
+"also": [
+[
+"texture words",
+2
+]
+],
+"clash": [
+"soft things"
+]
+},
+"stapes": {
+"also": [
+[
+"hidden animals",
+4
+]
+],
+"clash": []
+},
+"staph": {
+"also": [
+[
+"microbes",
+3
+]
+],
+"clash": []
+},
+"stare": {
+"also": [
+[
+"homophones",
+2
+],
+[
+"rhymes with bear",
+1
+],
+[
+"ways of looking",
+1
+]
+],
+"clash": []
+},
+"stem cell": {
+"also": [
+[
+"biology words",
+2
+]
+],
+"clash": []
+},
+"stench": {
+"also": [
+[
+"hidden numbers",
+3
+]
+],
+"clash": [
+"things that smell bad"
+]
+},
+"stereo": {
+"also": [
+[
+"audio gear",
+1
+],
+[
+"home electronics",
+1
+]
+],
+"clash": [
+"radio words"
+]
+},
+"sternum": {
+"also": [
+[
+"hidden birds",
+3
+]
+],
+"clash": []
+},
+"steroid": {
+"also": [],
+"clash": [
+"hormones",
+"illegal drugs"
+]
+},
+"sticky": {
+"also": [
+[
+"hidden insects",
+2
+],
+[
+"texture words",
+1
+]
+],
+"clash": [
+"sticky things"
+]
+},
+"stiffness": {
+"also": [
+[
+"double letters",
+3
+]
+],
+"clash": []
+},
+"sting": {
+"also": [
+[
+"rhymes with ring",
+1
+]
+],
+"clash": [
+"things that sting"
+]
+},
+"stink": {
+"also": [],
+"clash": [
+"things that smell bad"
+]
+},
+"stink badger": {
+"also": [
+[
+"weasel family",
+4
+]
+],
+"clash": []
+},
+"stink bomb": {
+"also": [
+[
+"things that smell bad",
+1
+]
+],
+"clash": []
+},
+"stink bug": {
+"also": [
+[
+"garden bugs",
+3
+],
+[
+"garden pests",
+3
+],
+[
+"insects and bugs",
+2
+],
+[
+"things that smell bad",
+2
+]
+],
+"clash": []
+},
+"stinkhorn": {
+"also": [
+[
+"mushrooms",
+3
+],
+[
+"things that smell bad",
+2
+]
+],
+"clash": []
+},
+"stinkweed": {
+"also": [
+[
+"things that smell bad",
+3
+],
+[
+"weeds",
+3
+]
+],
+"clash": []
+},
+"stinky tofu": {
+"also": [
+[
+"chinese food",
+3
+],
+[
+"fermented foods",
+3
+],
+[
+"pungent foods",
+2
+],
+[
+"street food",
+3
+],
+[
+"things that smell bad",
+2
+]
+],
+"clash": []
+},
+"stirrup": {
+"also": [
+[
+"horse riding words",
+2
+],
+[
+"horse tack",
+1
+]
+],
+"clash": []
+},
+"stomach acid": {
+"also": [
+[
+"acids and bases",
+2
+]
+],
+"clash": []
+},
+"stomach bug": {
+"also": [],
+"clash": [
+"insects and bugs"
+]
+},
+"stomachache": {
+"also": [],
+"clash": [
+"rhymes with cake"
+]
+},
+"straight": {
+"also": [
+[
+"angle words",
+2
+],
+[
+"homophones",
+2
+],
+[
+"line types",
+2
+]
+],
+"clash": [
+"hairstyles",
+"poker terms"
+]
+},
+"strand": {
+"also": [],
+"clash": [
+"beach",
+"coastal features"
+]
+},
+"strawberry": {
+"also": [
+[
+"berries",
+1
+],
+[
+"fruits",
+1
+],
+[
+"ice cream flavors",
+1
+]
+],
+"clash": []
+},
+"strep": {
+"also": [
+[
+"microbes",
+3
+]
+],
+"clash": []
+},
+"stroke": {
+"also": [
+[
+"back___",
+1
+],
+[
+"golf terms",
+2
+],
+[
+"hand actions",
+2
+],
+[
+"rowing words",
+3
+],
+[
+"sun___",
+2
+],
+[
+"swimming words",
+2
+]
+],
+"clash": []
+},
+"stubble": {
+"also": [],
+"clash": [
+"farm"
+]
+},
+"stye": {
+"also": [
+[
+"homophones",
+3
+]
+],
+"clash": [
+"farm buildings"
+]
+},
+"sulfa drug": {
+"also": [
+[
+"medicines",
+3
+]
+],
+"clash": []
+},
+"sulfur": {
+"also": [
+[
+"chemical elements",
+1
+],
+[
+"geothermal words",
+1
+],
+[
+"minerals",
+2
+],
+[
+"things that smell bad",
+2
+],
+[
+"volcano words",
+2
+]
+],
+"clash": [
+"shades of yellow"
+]
+},
+"sunburn": {
+"also": [
+[
+"sun___",
+1
+]
+],
+"clash": []
+},
+"sunscreen": {
+"also": [
+[
+"beach gear",
+1
+],
+[
+"beach vacation",
+1
+],
+[
+"skincare products",
+1
+],
+[
+"things to pack",
+2
+]
+],
+"clash": []
+},
+"sunspot": {
+"also": [
+[
+"astronomy terms",
+2
+],
+[
+"sun___",
+2
+]
+],
+"clash": []
+},
+"suntan": {
+"also": [
+[
+"hidden colors",
+3
+],
+[
+"sun___",
+2
+]
+],
+"clash": []
+},
+"superbug": {
+"also": [
+[
+"microbes",
+2
+]
+],
+"clash": [
+"hidden insects",
+"insects and bugs"
+]
+},
+"surgery": {
+"also": [
+[
+"doctor's office",
+2
+],
+[
+"hospital words",
+1
+],
+[
+"medical specialties",
+1
+],
+[
+"operating room",
+1
+]
+],
+"clash": []
+},
+"surströmming": {
+"also": [
+[
+"fermented foods",
+4
+],
+[
+"pungent foods",
+2
+],
+[
+"things that smell bad",
+2
+]
+],
+"clash": []
+},
+"survey": {
+"also": [
+[
+"map words",
+3
+],
+[
+"ways of looking",
+2
+]
+],
+"clash": []
+},
+"suture": {
+"also": [
+[
+"first aid",
+3
+],
+[
+"medical equipment",
+3
+],
+[
+"operating room",
+2
+]
+],
+"clash": [
+"sewing words"
+]
+},
+"sweat": {
+"also": [
+[
+"body actions",
+3
+]
+],
+"clash": []
+},
+"sweat gland": {
+"also": [],
+"clash": [
+"inside the body"
+]
+},
+"sweaty feet": {
+"also": [
+[
+"things that smell bad",
+1
+]
+],
+"clash": []
+},
+"sweet": {
+"also": [
+[
+"homophones",
+3
+],
+[
+"taste words",
+1
+]
+],
+"clash": [
+"candy",
+"sweet foods"
+]
+},
+"swimmer's ear": {
+"also": [],
+"clash": [
+"swimming words"
+]
+},
+"swine flu": {
+"also": [
+[
+"viruses",
+2
+]
+],
+"clash": []
+},
+"synapse": {
+"also": [
+[
+"brain parts",
+2
+]
+],
+"clash": []
+},
+"talus": {
+"also": [],
+"clash": [
+"mountain features"
+]
+},
+"tan": {
+"also": [
+[
+"colors",
+1
+],
+[
+"hidden colors",
+2
+],
+[
+"shades of brown",
+1
+],
+[
+"sun___",
+2
+]
+],
+"clash": []
+},
+"tangle": {
+"also": [
+[
+"hidden colors",
+3
+]
+],
+"clash": []
+},
+"tangy": {
+"also": [
+[
+"hidden colors",
+3
+],
+[
+"taste words",
+1
+]
+],
+"clash": []
+},
+"tap": {
+"also": [
+[
+"bathroom fixtures",
+1
+],
+[
+"dances",
+3
+],
+[
+"hand actions",
+1
+],
+[
+"plumbing words",
+1
+],
+[
+"reversible words",
+3
+]
+],
+"clash": [
+"computer actions",
+"impact sounds"
+]
+},
+"tapeworm": {
+"also": [],
+"clash": [
+"microbes"
+]
+},
+"tart": {
+"also": [
+[
+"pies and tarts",
+1
+],
+[
+"taste words",
+1
+]
+],
+"clash": []
+},
+"tartar": {
+"also": [
+[
+"dental words",
+2
+]
+],
+"clash": [
+"sauces and condiments"
+]
+},
+"taste": {
+"also": [
+[
+"taste words",
+1
+]
+],
+"clash": []
+},
+"tattoo": {
+"also": [
+[
+"double letters",
+3
+],
+[
+"rhymes with blue",
+3
+]
+],
+"clash": [
+"maori culture"
+]
+},
+"tear duct": {
+"also": [],
+"clash": [
+"homographs"
+]
+},
+"teething": {
+"also": [
+[
+"baby milestones",
+1
+]
+],
+"clash": []
+},
+"temple": {
+"also": [
+[
+"places of worship",
+1
+],
+[
+"religious buildings",
+1
+]
+],
+"clash": [
+"asian temple features",
+"famous temples"
+]
+},
+"tender": {
+"also": [
+[
+"hidden numbers",
+3
+]
+],
+"clash": [
+"cuts of meat",
+"love words"
+]
+},
+"tendon": {
+"also": [
+[
+"hidden numbers",
+3
+]
+],
+"clash": []
+},
+"tennis elbow": {
+"also": [],
+"clash": [
+"tennis terms"
+]
+},
+"tension headache": {
+"also": [],
+"clash": [
+"symptoms"
+]
+},
+"tetanus": {
+"also": [
+[
+"historic diseases",
+3
+]
+],
+"clash": []
+},
+"texture": {
+"also": [
+[
+"texture words",
+1
+]
+],
+"clash": []
+},
+"therapy": {
+"also": [
+[
+"mental health words",
+2
+]
+],
+"clash": []
+},
+"thigh": {
+"also": [
+[
+"cuts of meat",
+2
+]
+],
+"clash": [
+"poultry",
+"silent letter words"
+]
+},
+"throat": {
+"also": [
+[
+"bird body parts",
+4
+]
+],
+"clash": []
+},
+"thrush": {
+"also": [
+[
+"birds",
+1
+],
+[
+"british wildlife",
+2
+],
+[
+"garden birds",
+2
+],
+[
+"songbirds",
+1
+]
+],
+"clash": []
+},
+"thumb": {
+"also": [
+[
+"hand actions",
+3
+],
+[
+"silent b words",
+1
+],
+[
+"silent letter words",
+1
+]
+],
+"clash": [
+"gestures"
+]
+},
+"thumbnail": {
+"also": [
+[
+"silent b words",
+2
+],
+[
+"silent letter words",
+2
+]
+],
+"clash": [
+"computers",
+"photography words"
+]
+},
+"thymus": {
+"also": [],
+"clash": [
+"herbs"
+]
+},
+"tibia": {
+"also": [],
+"clash": [
+"insect body parts"
+]
+},
+"tickle": {
+"also": [
+[
+"hand actions",
+2
+],
+[
+"hidden insects",
+3
+]
+],
+"clash": []
+},
+"tickly cough": {
+"also": [],
+"clash": [
+"body noises",
+"ough words"
+]
+},
+"tingle": {
+"also": [],
+"clash": [
+"symptoms"
+]
+},
+"tissue": {
+"also": [
+[
+"biology words",
+2
+],
+[
+"paper goods",
+1
+]
+],
+"clash": []
+},
+"toe": {
+"also": [
+[
+"homophones",
+2
+]
+],
+"clash": []
+},
+"toenail": {
+"also": [],
+"clash": [
+"nail care"
+]
+},
+"tone": {
+"also": [
+[
+"acoustics words",
+2
+],
+[
+"color terms",
+1
+],
+[
+"hidden numbers",
+3
+],
+[
+"music terms",
+1
+]
+],
+"clash": []
+},
+"tone-deaf": {
+"also": [],
+"clash": [
+"music words"
+]
+},
+"tongue": {
+"also": [
+[
+"shoes",
+3
+]
+],
+"clash": [
+"clothing parts",
+"cuts of meat",
+"face",
+"languages"
+]
+},
+"tonic": {
+"also": [
+[
+"fizzy drinks",
+2
+],
+[
+"music terms",
+2
+],
+[
+"soft drinks",
+2
+]
+],
+"clash": [
+"cocktails",
+"hair care"
+]
+},
+"tonsure": {
+"also": [
+[
+"monastery",
+3
+]
+],
+"clash": []
+},
+"tooth decay": {
+"also": [
+[
+"dental words",
+1
+]
+],
+"clash": []
+},
+"toothache": {
+"also": [
+[
+"dental words",
+2
+]
+],
+"clash": [
+"rhymes with cake"
+]
+},
+"topknot": {
+"also": [
+[
+"sumo words",
+3
+]
+],
+"clash": [
+"knots"
+]
+},
+"touch": {
+"also": [
+[
+"touch words",
+1
+]
+],
+"clash": [
+"rugby terms"
+]
+},
+"toupee": {
+"also": [
+[
+"words from french",
+3
+]
+],
+"clash": []
+},
+"traditional Chinese medicine": {
+"also": [
+[
+"chinese medicine",
+1
+]
+],
+"clash": []
+},
+"tramadol": {
+"also": [
+[
+"hidden vehicles",
+4
+]
+],
+"clash": []
+},
+"transplant": {
+"also": [
+[
+"gardening verbs",
+2
+]
+],
+"clash": []
+},
+"trapezium": {
+"also": [
+[
+"2d shapes",
+2
+],
+[
+"hidden animals",
+4
+],
+[
+"polygons",
+2
+]
+],
+"clash": []
+},
+"trapezius": {
+"also": [],
+"clash": [
+"2d shapes"
+]
+},
+"traps": {
+"also": [],
+"clash": [
+"hunting words"
+]
+},
+"trash": {
+"also": [
+[
+"bins and recycling",
+1
+],
+[
+"hidden trees",
+3
+],
+[
+"things that smell bad",
+1
+]
+],
+"clash": []
+},
+"trauma": {
+"also": [
+[
+"mental health words",
+2
+]
+],
+"clash": []
+},
+"tree nut": {
+"also": [
+[
+"nuts",
+2
+]
+],
+"clash": []
+},
+"tremor": {
+"also": [
+[
+"earthquake words",
+2
+]
+],
+"clash": []
+},
+"trench foot": {
+"also": [],
+"clash": [
+"war words",
+"world war ii terms"
+]
+},
+"triage": {
+"also": [
+[
+"hospital words",
+2
+],
+[
+"words from french",
+4
+]
+],
+"clash": []
+},
+"truffle": {
+"also": [
+[
+"candy",
+2
+],
+[
+"chocolates",
+1
+],
+[
+"mushrooms",
+1
+],
+[
+"pungent foods",
+3
+]
+],
+"clash": []
+},
+"trunk": {
+"also": [
+[
+"animal body parts",
+1
+],
+[
+"car parts",
+1
+],
+[
+"luggage",
+2
+],
+[
+"tree parts",
+1
+]
+],
+"clash": [
+"storage furniture"
+]
+},
+"tummy": {
+"also": [
+[
+"baby talk",
+1
+]
+],
+"clash": []
+},
+"tummy bug": {
+"also": [],
+"clash": [
+"baby talk",
+"insects and bugs"
+]
+},
+"tune in": {
+"also": [
+[
+"radio words",
+2
+]
+],
+"clash": []
+},
+"tusk": {
+"also": [
+[
+"animal body parts",
+1
+]
+],
+"clash": []
+},
+"twinkle": {
+"also": [],
+"clash": [
+"things that glow",
+"words for shiny"
+]
+},
+"twists": {
+"also": [],
+"clash": [
+"dance moves",
+"dances"
+]
+},
+"tympanum": {
+"also": [
+[
+"architectural features",
+4
+]
+],
+"clash": [
+"drums"
+]
+},
+"typhoid": {
+"also": [
+[
+"infections",
+1
+]
+],
+"clash": []
+},
+"typhus": {
+"also": [
+[
+"infections",
+2
+]
+],
+"clash": [
+"tropical diseases"
+]
+},
+"ultrasonic": {
+"also": [
+[
+"acoustics words",
+3
+]
+],
+"clash": []
+},
+"umami": {
+"also": [
+[
+"taste words",
+1
+],
+[
+"words from japanese",
+3
+]
+],
+"clash": [
+"umami foods"
+]
+},
+"underarm": {
+"also": [],
+"clash": [
+"cricket terms"
+]
+},
+"undercut": {
+"also": [],
+"clash": [
+"business words"
+]
+},
+"unibrow": {
+"also": [],
+"clash": [
+"face"
+]
+},
+"upset stomach": {
+"also": [
+[
+"symptoms",
+1
+]
+],
+"clash": []
+},
+"uterus": {
+"also": [],
+"clash": [
+"hidden vehicles",
+"pregnancy words"
+]
+},
+"valve": {
+"also": [
+[
+"brass instruments",
+3
+],
+[
+"car parts",
+2
+],
+[
+"instrument parts",
+3
+],
+[
+"plumbing words",
+2
+]
+],
+"clash": []
+},
+"vein": {
+"also": [
+[
+"homophones",
+2
+],
+[
+"mining words",
+2
+],
+[
+"plant parts",
+3
+]
+],
+"clash": []
+},
+"velvety": {
+"also": [
+[
+"texture words",
+1
+]
+],
+"clash": []
+},
+"vertigo": {
+"also": [],
+"clash": [
+"phobias"
+]
+},
+"vestibule": {
+"also": [
+[
+"church parts",
+4
+],
+[
+"parts of a house",
+3
+]
+],
+"clash": []
+},
+"victory rolls": {
+"also": [],
+"clash": [
+"world war ii terms"
+]
+},
+"view": {
+"also": [
+[
+"sightseeing words",
+2
+],
+[
+"ways of looking",
+2
+]
+],
+"clash": []
+},
+"vinegar": {
+"also": [
+[
+"household chemicals",
+1
+],
+[
+"in the pantry",
+2
+],
+[
+"oils and vinegars",
+1
+],
+[
+"sour foods",
+1
+]
+],
+"clash": [
+"cleaning products",
+"fermented foods"
+]
+},
+"visibility": {
+"also": [
+[
+"forecast words",
+1
+]
+],
+"clash": []
+},
+"vitiligo": {
+"also": [],
+"clash": [
+"illnesses"
+]
+},
+"vitreous humor": {
+"also": [],
+"clash": [
+"comedy words"
+]
+},
+"volume": {
+"also": [],
+"clash": [
+"publishing words",
+"tv words",
+"volume units"
+]
+},
+"waist": {
+"also": [
+[
+"clothing parts",
+3
+],
+[
+"homophones",
+2
+]
+],
+"clash": []
+},
+"waistline": {
+"also": [
+[
+"clothing parts",
+2
+]
+],
+"clash": []
+},
+"walnut": {
+"also": [
+[
+"nut trees",
+1
+],
+[
+"nuts",
+1
+],
+[
+"types of wood",
+2
+]
+],
+"clash": [
+"shades of brown"
+]
+},
+"watch": {
+"also": [
+[
+"___man",
+3
+],
+[
+"accessories",
+2
+],
+[
+"clock types",
+1
+],
+[
+"jewelry",
+2
+],
+[
+"things that tick",
+1
+],
+[
+"ways of looking",
+1
+]
+],
+"clash": []
+},
+"wavy": {
+"also": [],
+"clash": [
+"hairstyles",
+"line types",
+"texture words"
+]
+},
+"waxy": {
+"also": [
+[
+"texture words",
+2
+]
+],
+"clash": []
+},
+"wedge": {
+"also": [
+[
+"golf terms",
+3
+],
+[
+"shoes",
+2
+],
+[
+"simple machines",
+1
+]
+],
+"clash": []
+},
+"weight loss": {
+"also": [],
+"clash": [
+"diet types"
+]
+},
+"wet dog": {
+"also": [
+[
+"things that smell bad",
+1
+]
+],
+"clash": []
+},
+"wheat": {
+"also": [
+[
+"flours",
+2
+],
+[
+"grains",
+1
+]
+],
+"clash": []
+},
+"wheezing": {
+"also": [
+[
+"body noises",
+2
+]
+],
+"clash": []
+},
+"whiffy": {
+"also": [
+[
+"british slang",
+3
+]
+],
+"clash": []
+},
+"whiplash": {
+"also": [
+[
+"hidden body parts",
+3
+],
+[
+"hidden trees",
+3
+]
+],
+"clash": []
+},
+"whisker": {
+"also": [
+[
+"animal body parts",
+1
+]
+],
+"clash": [
+"animal coverings"
+]
+},
+"whooping cough": {
+"also": [
+[
+"historic diseases",
+3
+]
+],
+"clash": [
+"ough words"
+]
+},
+"wig": {
+"also": [
+[
+"homophones",
+4
+],
+[
+"theater words",
+3
+]
+],
+"clash": [
+"hair accessories"
+]
+},
+"windburn": {
+"also": [],
+"clash": [
+"skin words",
+"wind words"
+]
+},
+"wink": {
+"also": [
+[
+"facial expressions",
+1
+],
+[
+"gestures",
+1
+]
+],
+"clash": []
+},
+"winter blues": {
+"also": [
+[
+"mental health words",
+2
+]
+],
+"clash": [
+"music genres",
+"signs of winter"
+]
+},
+"witness": {
+"also": [
+[
+"courtroom words",
+1
+],
+[
+"detective words",
+2
+]
+],
+"clash": []
+},
+"wolverine": {
+"also": [
+[
+"arctic animals",
+2
+],
+[
+"north american animals",
+1
+],
+[
+"weasel family",
+1
+]
+],
+"clash": []
+},
+"womb": {
+"also": [
+[
+"silent b words",
+2
+],
+[
+"silent letter words",
+2
+]
+],
+"clash": [
+"pregnancy words"
+]
+},
+"wool": {
+"also": [
+[
+"animal coverings",
+2
+],
+[
+"fabrics",
+1
+],
+[
+"knitting words",
+1
+],
+[
+"natural materials",
+1
+]
+],
+"clash": []
+},
+"woolly": {
+"also": [
+[
+"double letters",
+3
+],
+[
+"texture words",
+2
+]
+],
+"clash": []
+},
+"wound": {
+"also": [
+[
+"homographs",
+2
+],
+[
+"irregular past tenses",
+3
+]
+],
+"clash": [
+"war words"
+]
+},
+"wrinkle": {
+"also": [
+[
+"silent letter words",
+1
+],
+[
+"silent w words",
+1
+]
+],
+"clash": []
+},
+"wrist": {
+"also": [
+[
+"silent letter words",
+1
+],
+[
+"silent w words",
+1
+]
+],
+"clash": []
+},
+"yaws": {
+"also": [
+[
+"infections",
+4
+]
+],
+"clash": []
+},
+"yellow fever": {
+"also": [
+[
+"infections",
+2
+],
+[
+"viruses",
+2
+]
+],
+"clash": []
+},
+"Époisses": {
+"also": [
+[
+"cheeses",
+4
+],
+[
+"french cheeses",
+4
+],
+[
+"pungent foods",
+3
+],
+[
+"soft cheeses",
+4
+]
+],
+"clash": []
+}
+}

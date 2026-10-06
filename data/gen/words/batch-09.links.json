@@ -1,0 +1,11070 @@
+{
+ "aloe vera": {
+  "also": [
+   [
+    "cacti and succulents",
+    2
+   ],
+   [
+    "houseplants",
+    2
+   ],
+   [
+    "skincare products",
+    3
+   ]
+  ],
+  "clash": []
+ },
+ "ginseng": {
+  "also": [
+   [
+    "chinese medicine",
+    2
+   ],
+   [
+    "korean food",
+    4
+   ]
+  ],
+  "clash": [
+   "superfoods",
+   "teas"
+  ]
+ },
+ "echinacea": {
+  "also": [
+   [
+    "native american remedies",
+    3
+   ],
+   [
+    "wildflowers",
+    4
+   ],
+   [
+    "hidden body parts",
+    3
+   ]
+  ],
+  "clash": [
+   "garden flowers"
+  ]
+ },
+ "chamomile": {
+  "also": [
+   [
+    "teas",
+    1
+   ],
+   [
+    "herbs",
+    3
+   ],
+   [
+    "wildflowers",
+    3
+   ]
+  ],
+  "clash": [
+   "bedtime routine"
+  ]
+ },
+ "valerian": {
+  "also": [
+   [
+    "roman emperors",
+    4
+   ]
+  ],
+  "clash": [
+   "wildflowers",
+   "sleep words"
+  ]
+ },
+ "witch hazel": {
+  "also": [
+   [
+    "skincare products",
+    3
+   ]
+  ],
+  "clash": [
+   "witchcraft"
+  ]
+ },
+ "feverfew": {
+  "also": [
+   [
+    "wildflowers",
+    4
+   ],
+   [
+    "garden flowers",
+    4
+   ]
+  ],
+  "clash": []
+ },
+ "arnica": {
+  "also": [
+   [
+    "alpine flowers",
+    4
+   ]
+  ],
+  "clash": [
+   "wildflowers"
+  ]
+ },
+ "peppermint": {
+  "also": [
+   [
+    "herbs",
+    2
+   ],
+   [
+    "teas",
+    1
+   ],
+   [
+    "candy",
+    2
+   ],
+   [
+    "ice cream flavors",
+    3
+   ],
+   [
+    "candle scents",
+    3
+   ],
+   [
+    "things that smell good",
+    2
+   ]
+  ],
+  "clash": [
+   "dental care"
+  ]
+ },
+ "ginger": {
+  "also": [
+   [
+    "spices",
+    1
+   ],
+   [
+    "shades of orange",
+    2
+   ],
+   [
+    "shades of red",
+    3
+   ],
+   [
+    "spicy foods",
+    2
+   ],
+   [
+    "pungent foods",
+    3
+   ],
+   [
+    "teas",
+    3
+   ],
+   [
+    "chinese medicine",
+    3
+   ],
+   [
+    "names that are colors",
+    3
+   ]
+  ],
+  "clash": [
+   "root vegetables",
+   "soft drinks",
+   "cookies",
+   "cat breeds",
+   "horse colors"
+  ]
+ },
+ "turmeric": {
+  "also": [
+   [
+    "spices",
+    1
+   ],
+   [
+    "shades of yellow",
+    3
+   ],
+   [
+    "ayurveda words",
+    3
+   ],
+   [
+    "superfoods",
+    2
+   ],
+   [
+    "yellow things",
+    3
+   ]
+  ],
+  "clash": [
+   "indian food"
+  ]
+ },
+ "eucalyptus": {
+  "also": [
+   [
+    "australian trees",
+    1
+   ],
+   [
+    "evergreen trees",
+    2
+   ],
+   [
+    "candle scents",
+    3
+   ],
+   [
+    "things that smell good",
+    3
+   ]
+  ],
+  "clash": [
+   "australian animals"
+  ]
+ },
+ "tea tree": {
+  "also": [
+   [
+    "australian trees",
+    3
+   ],
+   [
+    "skincare products",
+    3
+   ]
+  ],
+  "clash": [
+   "teas"
+  ]
+ },
+ "lavender": {
+  "also": [
+   [
+    "herbs",
+    2
+   ],
+   [
+    "garden flowers",
+    1
+   ],
+   [
+    "summer flowers",
+    2
+   ],
+   [
+    "shades of purple",
+    1
+   ],
+   [
+    "things that smell good",
+    1
+   ],
+   [
+    "candle scents",
+    1
+   ],
+   [
+    "perfume notes",
+    1
+   ],
+   [
+    "edible flowers",
+    3
+   ],
+   [
+    "hedge plants",
+    3
+   ]
+  ],
+  "clash": [
+   "names that are flowers"
+  ]
+ },
+ "foxglove": {
+  "also": [
+   [
+    "wildflowers",
+    2
+   ],
+   [
+    "poisonous plants",
+    1
+   ],
+   [
+    "garden flowers",
+    2
+   ],
+   [
+    "flowers with animal names",
+    1
+   ],
+   [
+    "summer flowers",
+    3
+   ]
+  ],
+  "clash": []
+ },
+ "willow": {
+  "also": [
+   [
+    "deciduous trees",
+    1
+   ],
+   [
+    "types of wood",
+    3
+   ],
+   [
+    "names that are trees",
+    2
+   ],
+   [
+    "girls' names",
+    3
+   ]
+  ],
+  "clash": [
+   "cricket terms"
+  ]
+ },
+ "ginkgo": {
+  "also": [
+   [
+    "deciduous trees",
+    3
+   ],
+   [
+    "asian trees",
+    2
+   ]
+  ],
+  "clash": [
+   "superfoods"
+  ]
+ },
+ "licorice": {
+  "also": [
+   [
+    "candy",
+    1
+   ],
+   [
+    "sweet foods",
+    2
+   ]
+  ],
+  "clash": [
+   "spices",
+   "black things"
+  ]
+ },
+ "milk thistle": {
+  "also": [
+   [
+    "wildflowers",
+    4
+   ],
+   [
+    "weeds",
+    3
+   ]
+  ],
+  "clash": []
+ },
+ "calendula": {
+  "also": [
+   [
+    "edible flowers",
+    3
+   ],
+   [
+    "garden flowers",
+    3
+   ],
+   [
+    "skincare products",
+    4
+   ]
+  ],
+  "clash": []
+ },
+ "comfrey": {
+  "also": [
+   [
+    "herbs",
+    4
+   ]
+  ],
+  "clash": [
+   "weeds"
+  ]
+ },
+ "yarrow": {
+  "also": [
+   [
+    "wildflowers",
+    3
+   ]
+  ],
+  "clash": [
+   "herbs"
+  ]
+ },
+ "elderberry": {
+  "also": [
+   [
+    "berries",
+    2
+   ],
+   [
+    "___berry",
+    1
+   ]
+  ],
+  "clash": []
+ },
+ "goldenseal": {
+  "also": [
+   [
+    "native american remedies",
+    4
+   ],
+   [
+    "hidden animals",
+    3
+   ]
+  ],
+  "clash": []
+ },
+ "hypericum": {
+  "also": [
+   [
+    "garden flowers",
+    4
+   ]
+  ],
+  "clash": []
+ },
+ "evening primrose": {
+  "also": [
+   [
+    "wildflowers",
+    3
+   ]
+  ],
+  "clash": []
+ },
+ "cinchona": {
+  "also": [
+   [
+    "south american trees",
+    4
+   ]
+  ],
+  "clash": []
+ },
+ "poppy": {
+  "also": [
+   [
+    "wildflowers",
+    1
+   ],
+   [
+    "garden flowers",
+    2
+   ],
+   [
+    "summer flowers",
+    2
+   ],
+   [
+    "red things",
+    1
+   ],
+   [
+    "anzac day",
+    2
+   ],
+   [
+    "names that are flowers",
+    2
+   ],
+   [
+    "girls' names",
+    3
+   ],
+   [
+    "shades of red",
+    3
+   ]
+  ],
+  "clash": [
+   "illegal drugs",
+   "poisonous plants",
+   "baking ingredients",
+   "national flowers"
+  ]
+ },
+ "cannabis": {
+  "also": [
+   [
+    "illegal drugs",
+    1
+   ],
+   [
+    "fiber plants",
+    3
+   ]
+  ],
+  "clash": [
+   "smoking words"
+  ]
+ },
+ "garlic": {
+  "also": [
+   [
+    "onion family",
+    1
+   ],
+   [
+    "pungent foods",
+    1
+   ],
+   [
+    "smelly things",
+    2
+   ],
+   [
+    "things that smell bad",
+    2
+   ],
+   [
+    "superfoods",
+    3
+   ]
+  ],
+  "clash": [
+   "spices",
+   "herbs",
+   "undead"
+  ]
+ },
+ "neem": {
+  "also": [
+   [
+    "ayurveda words",
+    3
+   ],
+   [
+    "asian trees",
+    4
+   ]
+  ],
+  "clash": []
+ },
+ "ashwagandha": {
+  "also": [
+   [
+    "ayurveda words",
+    2
+   ]
+  ],
+  "clash": []
+ },
+ "kava": {
+  "also": [
+   [
+    "pacific islands food",
+    3
+   ],
+   [
+    "oceanian remedies",
+    3
+   ]
+  ],
+  "clash": []
+ },
+ "senna": {
+  "also": [
+   [
+    "formula one drivers",
+    3
+   ]
+  ],
+  "clash": []
+ },
+ "psyllium": {
+  "also": [],
+  "clash": [
+   "nutrients"
+  ]
+ },
+ "black cohosh": {
+  "also": [
+   [
+    "native american remedies",
+    4
+   ]
+  ],
+  "clash": []
+ },
+ "borage": {
+  "also": [
+   [
+    "herbs",
+    4
+   ],
+   [
+    "edible flowers",
+    3
+   ]
+  ],
+  "clash": []
+ },
+ "mullein": {
+  "also": [
+   [
+    "wildflowers",
+    4
+   ]
+  ],
+  "clash": []
+ },
+ "coltsfoot": {
+  "also": [
+   [
+    "wildflowers",
+    4
+   ],
+   [
+    "flowers with animal names",
+    4
+   ]
+  ],
+  "clash": []
+ },
+ "lemon balm": {
+  "also": [
+   [
+    "herbs",
+    3
+   ]
+  ],
+  "clash": []
+ },
+ "belladonna": {
+  "also": [
+   [
+    "poisonous plants",
+    1
+   ]
+  ],
+  "clash": [
+   "witchcraft"
+  ]
+ },
+ "mandrake": {
+  "also": [
+   [
+    "poisonous plants",
+    3
+   ],
+   [
+    "witchcraft",
+    3
+   ]
+  ],
+  "clash": [
+   "alchemy",
+   "magic items"
+  ]
+ },
+ "hawthorn": {
+  "also": [
+   [
+    "hedge plants",
+    1
+   ],
+   [
+    "deciduous trees",
+    3
+   ],
+   [
+    "prickly things",
+    3
+   ]
+  ],
+  "clash": [
+   "wildflowers"
+  ]
+ },
+ "slippery elm": {
+  "also": [
+   [
+    "deciduous trees",
+    4
+   ],
+   [
+    "native american remedies",
+    4
+   ]
+  ],
+  "clash": [
+   "slippery things"
+  ]
+ },
+ "bearberry": {
+  "also": [
+   [
+    "berries",
+    4
+   ],
+   [
+    "___berry",
+    2
+   ]
+  ],
+  "clash": []
+ },
+ "eyebright": {
+  "also": [
+   [
+    "wildflowers",
+    5
+   ]
+  ],
+  "clash": []
+ },
+ "lungwort": {
+  "also": [
+   [
+    "wildflowers",
+    4
+   ]
+  ],
+  "clash": []
+ },
+ "woundwort": {
+  "also": [
+   [
+    "wildflowers",
+    5
+   ]
+  ],
+  "clash": []
+ },
+ "selfheal": {
+  "also": [
+   [
+    "wildflowers",
+    5
+   ]
+  ],
+  "clash": []
+ },
+ "betony": {
+  "also": [
+   [
+    "wildflowers",
+    5
+   ]
+  ],
+  "clash": []
+ },
+ "agrimony": {
+  "also": [
+   [
+    "wildflowers",
+    5
+   ]
+  ],
+  "clash": []
+ },
+ "meadowsweet": {
+  "also": [
+   [
+    "wildflowers",
+    4
+   ]
+  ],
+  "clash": []
+ },
+ "sweet wormwood": {
+  "also": [
+   [
+    "chinese medicine",
+    4
+   ]
+  ],
+  "clash": []
+ },
+ "wormwood": {
+  "also": [
+   [
+    "herbs",
+    4
+   ]
+  ],
+  "clash": [
+   "spirits",
+   "bitter foods"
+  ]
+ },
+ "holy basil": {
+  "also": [
+   [
+    "herbs",
+    3
+   ],
+   [
+    "ayurveda words",
+    3
+   ]
+  ],
+  "clash": []
+ },
+ "tulsi": {
+  "also": [
+   [
+    "ayurveda words",
+    3
+   ],
+   [
+    "hinduism words",
+    4
+   ]
+  ],
+  "clash": []
+ },
+ "moringa": {
+  "also": [
+   [
+    "superfoods",
+    3
+   ]
+  ],
+  "clash": []
+ },
+ "gotu kola": {
+  "also": [
+   [
+    "ayurveda words",
+    4
+   ]
+  ],
+  "clash": [
+   "soft drinks"
+  ]
+ },
+ "burdock": {
+  "also": [
+   [
+    "prickly things",
+    4
+   ]
+  ],
+  "clash": []
+ },
+ "angelica": {
+  "also": [
+   [
+    "herbs",
+    4
+   ],
+   [
+    "girls' names",
+    2
+   ]
+  ],
+  "clash": [
+   "baking ingredients"
+  ]
+ },
+ "astragalus": {
+  "also": [
+   [
+    "chinese medicine",
+    4
+   ]
+  ],
+  "clash": []
+ },
+ "yew": {
+  "also": [
+   [
+    "evergreen trees",
+    1
+   ],
+   [
+    "poisonous plants",
+    2
+   ],
+   [
+    "hedge plants",
+    2
+   ],
+   [
+    "types of wood",
+    3
+   ],
+   [
+    "homophones",
+    2
+   ],
+   [
+    "sounds like a letter",
+    1
+   ]
+  ],
+  "clash": []
+ },
+ "periwinkle": {
+  "also": [
+   [
+    "shades of blue",
+    2
+   ],
+   [
+    "shades of purple",
+    3
+   ],
+   [
+    "mollusks",
+    3
+   ],
+   [
+    "tide pool life",
+    3
+   ],
+   [
+    "garden flowers",
+    4
+   ]
+  ],
+  "clash": []
+ },
+ "bilberry": {
+  "also": [
+   [
+    "berries",
+    3
+   ],
+   [
+    "___berry",
+    2
+   ]
+  ],
+  "clash": []
+ },
+ "hyssop": {
+  "also": [
+   [
+    "herbs",
+    4
+   ]
+  ],
+  "clash": []
+ },
+ "passionflower": {
+  "also": [
+   [
+    "vines and climbers",
+    3
+   ],
+   [
+    "tropical flowers",
+    3
+   ]
+  ],
+  "clash": []
+ },
+ "St John's wort": {
+  "also": [
+   [
+    "wildflowers",
+    4
+   ]
+  ],
+  "clash": []
+ },
+ "devil's claw": {
+  "also": [
+   [
+    "african remedies",
+    4
+   ]
+  ],
+  "clash": []
+ },
+ "cat's claw": {
+  "also": [
+   [
+    "vines and climbers",
+    5
+   ]
+  ],
+  "clash": []
+ },
+ "lady's mantle": {
+  "also": [
+   [
+    "garden flowers",
+    4
+   ]
+  ],
+  "clash": []
+ },
+ "dandelion": {
+  "also": [
+   [
+    "wildflowers",
+    1
+   ],
+   [
+    "edible flowers",
+    3
+   ],
+   [
+    "yellow things",
+    2
+   ],
+   [
+    "flowers with animal names",
+    3
+   ]
+  ],
+  "clash": [
+   "leafy greens",
+   "spring flowers",
+   "hidden animals"
+  ]
+ },
+ "nettle": {
+  "also": [
+   [
+    "things that sting",
+    1
+   ],
+   [
+    "prickly things",
+    2
+   ],
+   [
+    "wildflowers",
+    4
+   ]
+  ],
+  "clash": [
+   "soups",
+   "herbs"
+  ]
+ },
+ "thistle": {
+  "also": [
+   [
+    "wildflowers",
+    2
+   ],
+   [
+    "prickly things",
+    1
+   ],
+   [
+    "national flowers",
+    2
+   ]
+  ],
+  "clash": []
+ },
+ "bindweed": {
+  "also": [
+   [
+    "vines and climbers",
+    2
+   ],
+   [
+    "wildflowers",
+    4
+   ]
+  ],
+  "clash": []
+ },
+ "dock": {
+  "also": [
+   [
+    "ports and harbors",
+    1
+   ],
+   [
+    "courtroom words",
+    2
+   ]
+  ],
+  "clash": [
+   "sailing words",
+   "wildflowers"
+  ]
+ },
+ "chickweed": {
+  "also": [],
+  "clash": [
+   "hidden birds"
+  ]
+ },
+ "ragwort": {
+  "also": [
+   [
+    "wildflowers",
+    3
+   ],
+   [
+    "poisonous plants",
+    3
+   ]
+  ],
+  "clash": []
+ },
+ "clover": {
+  "also": [
+   [
+    "wildflowers",
+    1
+   ],
+   [
+    "superstitions",
+    1
+   ],
+   [
+    "green things",
+    2
+   ]
+  ],
+  "clash": [
+   "st. patrick's day"
+  ]
+ },
+ "crabgrass": {
+  "also": [
+   [
+    "grasses and reeds",
+    3
+   ]
+  ],
+  "clash": []
+ },
+ "poison ivy": {
+  "also": [
+   [
+    "poisonous plants",
+    1
+   ],
+   [
+    "vines and climbers",
+    2
+   ]
+  ],
+  "clash": []
+ },
+ "groundsel": {
+  "also": [
+   [
+    "wildflowers",
+    5
+   ]
+  ],
+  "clash": []
+ },
+ "couch grass": {
+  "also": [
+   [
+    "grasses and reeds",
+    3
+   ]
+  ],
+  "clash": [
+   "seating"
+  ]
+ },
+ "plantain": {
+  "also": [
+   [
+    "tropical fruits",
+    2
+   ],
+   [
+    "african food",
+    3
+   ],
+   [
+    "hidden insects",
+    3
+   ]
+  ],
+  "clash": [
+   "leafy greens"
+  ]
+ },
+ "horsetail": {
+  "also": [],
+  "clash": [
+   "flowers with animal names"
+  ]
+ },
+ "cleavers": {
+  "also": [],
+  "clash": [
+   "kitchen utensils",
+   "things that cut"
+  ]
+ },
+ "hogweed": {
+  "also": [
+   [
+    "poisonous plants",
+    3
+   ],
+   [
+    "wildflowers",
+    4
+   ]
+  ],
+  "clash": []
+ },
+ "giant hogweed": {
+  "also": [
+   [
+    "poisonous plants",
+    2
+   ]
+  ],
+  "clash": []
+ },
+ "Himalayan balsam": {
+  "also": [
+   [
+    "wildflowers",
+    4
+   ]
+  ],
+  "clash": []
+ },
+ "bramble": {
+  "also": [
+   [
+    "hedge plants",
+    3
+   ],
+   [
+    "prickly things",
+    2
+   ],
+   [
+    "vines and climbers",
+    4
+   ],
+   [
+    "hidden animals",
+    3
+   ]
+  ],
+  "clash": [
+   "berries"
+  ]
+ },
+ "ragweed": {
+  "also": [
+   [
+    "allergies",
+    3
+   ]
+  ],
+  "clash": []
+ },
+ "kudzu": {
+  "also": [
+   [
+    "vines and climbers",
+    3
+   ]
+  ],
+  "clash": []
+ },
+ "oxalis": {
+  "also": [
+   [
+    "houseplants",
+    4
+   ]
+  ],
+  "clash": []
+ },
+ "speedwell": {
+  "also": [
+   [
+    "wildflowers",
+    3
+   ]
+  ],
+  "clash": []
+ },
+ "fat hen": {
+  "also": [
+   [
+    "leafy greens",
+    5
+   ]
+  ],
+  "clash": [
+   "farm animals"
+  ]
+ },
+ "purslane": {
+  "also": [
+   [
+    "leafy greens",
+    4
+   ]
+  ],
+  "clash": []
+ },
+ "deadnettle": {
+  "also": [
+   [
+    "wildflowers",
+    4
+   ]
+  ],
+  "clash": []
+ },
+ "spurge": {
+  "also": [
+   [
+    "poisonous plants",
+    4
+   ]
+  ],
+  "clash": []
+ },
+ "foxtail": {
+  "also": [
+   [
+    "grasses and reeds",
+    3
+   ]
+  ],
+  "clash": []
+ },
+ "wild oat": {
+  "also": [],
+  "clash": [
+   "grains"
+  ]
+ },
+ "cocklebur": {
+  "also": [
+   [
+    "prickly things",
+    3
+   ]
+  ],
+  "clash": []
+ },
+ "goathead": {
+  "also": [
+   [
+    "prickly things",
+    4
+   ]
+  ],
+  "clash": []
+ },
+ "willowherb": {
+  "also": [
+   [
+    "wildflowers",
+    3
+   ]
+  ],
+  "clash": []
+ },
+ "mugwort": {
+  "also": [
+   [
+    "herbs",
+    4
+   ],
+   [
+    "medicinal plants",
+    4
+   ]
+  ],
+  "clash": [
+   "witchcraft"
+  ]
+ },
+ "tansy": {
+  "also": [
+   [
+    "wildflowers",
+    4
+   ],
+   [
+    "herbs",
+    4
+   ],
+   [
+    "medicinal plants",
+    4
+   ],
+   [
+    "hidden colors",
+    3
+   ]
+  ],
+  "clash": []
+ },
+ "mayweed": {
+  "also": [
+   [
+    "wildflowers",
+    4
+   ]
+  ],
+  "clash": []
+ },
+ "charlock": {
+  "also": [
+   [
+    "wildflowers",
+    5
+   ]
+  ],
+  "clash": []
+ },
+ "tumbleweed": {
+  "also": [
+   [
+    "wild west",
+    2
+   ],
+   [
+    "cowboy words",
+    2
+   ],
+   [
+    "things that roll",
+    2
+   ]
+  ],
+  "clash": [
+   "desert features"
+  ]
+ },
+ "purple loosestrife": {
+  "also": [
+   [
+    "wildflowers",
+    4
+   ]
+  ],
+  "clash": []
+ },
+ "water hyacinth": {
+  "also": [
+   [
+    "water plants",
+    2
+   ]
+  ],
+  "clash": []
+ },
+ "buttercup": {
+  "also": [
+   [
+    "wildflowers",
+    1
+   ],
+   [
+    "yellow things",
+    2
+   ],
+   [
+    "spring flowers",
+    3
+   ],
+   [
+    "summer flowers",
+    3
+   ]
+  ],
+  "clash": [
+   "terms of endearment"
+  ]
+ },
+ "Queen Anne's lace": {
+  "also": [
+   [
+    "wildflowers",
+    3
+   ]
+  ],
+  "clash": []
+ },
+ "lamb's quarters": {
+  "also": [
+   [
+    "leafy greens",
+    5
+   ]
+  ],
+  "clash": []
+ },
+ "cat's ear": {
+  "also": [
+   [
+    "wildflowers",
+    5
+   ]
+  ],
+  "clash": []
+ },
+ "bird's-foot trefoil": {
+  "also": [
+   [
+    "wildflowers",
+    4
+   ],
+   [
+    "flowers with animal names",
+    4
+   ]
+  ],
+  "clash": []
+ },
+ "cotton": {
+  "also": [
+   [
+    "fabrics",
+    1
+   ],
+   [
+    "cotton fabrics",
+    2
+   ],
+   [
+    "natural materials",
+    1
+   ],
+   [
+    "soft things",
+    1
+   ],
+   [
+    "white things",
+    2
+   ],
+   [
+    "wedding anniversaries",
+    2
+   ]
+  ],
+  "clash": [
+   "candy",
+   "sewing kit"
+  ]
+ },
+ "flax": {
+  "also": [
+   [
+    "superfoods",
+    3
+   ],
+   [
+    "natural materials",
+    3
+   ]
+  ],
+  "clash": [
+   "fabrics"
+  ]
+ },
+ "hemp": {
+  "also": [
+   [
+    "natural materials",
+    2
+   ],
+   [
+    "cords and strings",
+    3
+   ]
+  ],
+  "clash": [
+   "illegal drugs"
+  ]
+ },
+ "jute": {
+  "also": [
+   [
+    "natural materials",
+    2
+   ]
+  ],
+  "clash": []
+ },
+ "sisal": {
+  "also": [
+   [
+    "natural materials",
+    3
+   ]
+  ],
+  "clash": []
+ },
+ "bamboo": {
+  "also": [
+   [
+    "grasses and reeds",
+    2
+   ],
+   [
+    "natural materials",
+    1
+   ],
+   [
+    "materials from asia",
+    1
+   ]
+  ],
+  "clash": [
+   "types of wood",
+   "things made of wood"
+  ]
+ },
+ "coir": {
+  "also": [
+   [
+    "natural materials",
+    3
+   ]
+  ],
+  "clash": []
+ },
+ "coconut": {
+  "also": [
+   [
+    "tropical fruits",
+    1
+   ],
+   [
+    "foods with shells",
+    2
+   ],
+   [
+    "types of milk",
+    2
+   ],
+   [
+    "ice cream flavors",
+    3
+   ],
+   [
+    "baking ingredients",
+    3
+   ]
+  ],
+  "clash": [
+   "nuts",
+   "things that float"
+  ]
+ },
+ "kapok": {
+  "also": [
+   [
+    "tropical trees",
+    4
+   ]
+  ],
+  "clash": []
+ },
+ "raffia": {
+  "also": [
+   [
+    "natural materials",
+    3
+   ],
+   [
+    "materials from africa",
+    4
+   ]
+  ],
+  "clash": [
+   "crafts"
+  ]
+ },
+ "agave": {
+  "also": [
+   [
+    "cacti and succulents",
+    2
+   ],
+   [
+    "sweeteners",
+    2
+   ]
+  ],
+  "clash": [
+   "spirits"
+  ]
+ },
+ "pineapple": {
+  "also": [
+   [
+    "tropical fruits",
+    1
+   ],
+   [
+    "pizza toppings",
+    2
+   ]
+  ],
+  "clash": []
+ },
+ "date palm": {
+  "also": [
+   [
+    "tropical trees",
+    3
+   ]
+  ],
+  "clash": []
+ },
+ "olive": {
+  "also": [
+   [
+    "mediterranean trees",
+    1
+   ],
+   [
+    "fruit trees",
+    2
+   ],
+   [
+    "pizza toppings",
+    2
+   ],
+   [
+    "shades of green",
+    1
+   ],
+   [
+    "meze",
+    2
+   ],
+   [
+    "turkish breakfast",
+    1
+   ],
+   [
+    "girls' names",
+    2
+   ]
+  ],
+  "clash": [
+   "pickles and preserves"
+  ]
+ },
+ "fig": {
+  "also": [
+   [
+    "fruit trees",
+    2
+   ],
+   [
+    "dried fruits",
+    1
+   ],
+   [
+    "mediterranean trees",
+    2
+   ]
+  ],
+  "clash": []
+ },
+ "pomegranate": {
+  "also": [
+   [
+    "superfoods",
+    2
+   ],
+   [
+    "red things",
+    3
+   ]
+  ],
+  "clash": [
+   "persian food"
+  ]
+ },
+ "frankincense": {
+  "also": [
+   [
+    "christmas",
+    2
+   ],
+   [
+    "middle eastern scents",
+    1
+   ],
+   [
+    "perfume notes",
+    3
+   ]
+  ],
+  "clash": []
+ },
+ "myrrh": {
+  "also": [
+   [
+    "christmas",
+    2
+   ],
+   [
+    "middle eastern scents",
+    1
+   ],
+   [
+    "perfume notes",
+    4
+   ]
+  ],
+  "clash": [
+   "egyptian afterlife"
+  ]
+ },
+ "henna": {
+  "also": [
+   [
+    "middle eastern grooming",
+    1
+   ],
+   [
+    "hair care",
+    3
+   ],
+   [
+    "hidden birds",
+    2
+   ]
+  ],
+  "clash": [
+   "weddings",
+   "diwali"
+  ]
+ },
+ "Lebanon cedar": {
+  "also": [
+   [
+    "evergreen trees",
+    3
+   ]
+  ],
+  "clash": []
+ },
+ "cedar": {
+  "also": [
+   [
+    "evergreen trees",
+    1
+   ],
+   [
+    "types of wood",
+    1
+   ],
+   [
+    "perfume notes",
+    3
+   ],
+   [
+    "candle scents",
+    3
+   ]
+  ],
+  "clash": []
+ },
+ "pistachio": {
+  "also": [
+   [
+    "nuts",
+    1
+   ],
+   [
+    "ice cream flavors",
+    1
+   ],
+   [
+    "shades of green",
+    2
+   ]
+  ],
+  "clash": [
+   "sweet treats of turkey"
+  ]
+ },
+ "tamarisk": {
+  "also": [
+   [
+    "deciduous trees",
+    4
+   ]
+  ],
+  "clash": []
+ },
+ "almond": {
+  "also": [
+   [
+    "nuts",
+    1
+   ],
+   [
+    "types of milk",
+    1
+   ],
+   [
+    "baking ingredients",
+    2
+   ],
+   [
+    "nut trees",
+    2
+   ]
+  ],
+  "clash": [
+   "shades of brown"
+  ]
+ },
+ "carob": {
+  "also": [
+   [
+    "sweeteners",
+    4
+   ],
+   [
+    "hidden vehicles",
+    2
+   ],
+   [
+    "hidden names",
+    3
+   ]
+  ],
+  "clash": [
+   "chocolates"
+  ]
+ },
+ "saffron": {
+  "also": [
+   [
+    "spices",
+    1
+   ],
+   [
+    "shades of yellow",
+    2
+   ],
+   [
+    "shades of orange",
+    3
+   ]
+  ],
+  "clash": [
+   "persian food"
+  ]
+ },
+ "sumac": {
+  "also": [
+   [
+    "spices",
+    2
+   ]
+  ],
+  "clash": []
+ },
+ "tulip": {
+  "also": [
+   [
+    "spring flowers",
+    1
+   ],
+   [
+    "garden flowers",
+    1
+   ],
+   [
+    "national flowers",
+    2
+   ],
+   [
+    "hidden body parts",
+    2
+   ]
+  ],
+  "clash": []
+ },
+ "damask rose": {
+  "also": [
+   [
+    "perfume notes",
+    3
+   ]
+  ],
+  "clash": [
+   "garden flowers"
+  ]
+ },
+ "acacia": {
+  "also": [
+   [
+    "african trees",
+    1
+   ],
+   [
+    "australian trees",
+    2
+   ]
+  ],
+  "clash": []
+ },
+ "jujube": {
+  "also": [
+   [
+    "asian fruits",
+    3
+   ],
+   [
+    "candy",
+    3
+   ]
+  ],
+  "clash": []
+ },
+ "quince": {
+  "also": [
+   [
+    "fruit trees",
+    3
+   ],
+   [
+    "pickles and preserves",
+    3
+   ]
+  ],
+  "clash": []
+ },
+ "apricot": {
+  "also": [
+   [
+    "stone fruits",
+    1
+   ],
+   [
+    "dried fruits",
+    1
+   ],
+   [
+    "shades of orange",
+    2
+   ],
+   [
+    "fruit trees",
+    2
+   ]
+  ],
+  "clash": []
+ },
+ "myrtle": {
+  "also": [
+   [
+    "old-fashioned names",
+    3
+   ]
+  ],
+  "clash": [
+   "evergreen trees"
+  ]
+ },
+ "oleander": {
+  "also": [
+   [
+    "poisonous plants",
+    2
+   ]
+  ],
+  "clash": []
+ },
+ "papyrus": {
+  "also": [
+   [
+    "ancient egypt",
+    1
+   ],
+   [
+    "ancient writing",
+    2
+   ],
+   [
+    "grasses and reeds",
+    3
+   ],
+   [
+    "water plants",
+    3
+   ]
+  ],
+  "clash": [
+   "things made of paper"
+  ]
+ },
+ "emmer": {
+  "also": [
+   [
+    "grains",
+    4
+   ]
+  ],
+  "clash": []
+ },
+ "barley": {
+  "also": [
+   [
+    "grains",
+    1
+   ]
+  ],
+  "clash": [
+   "beers"
+  ]
+ },
+ "lentil": {
+  "also": [
+   [
+    "beans and pulses",
+    1
+   ]
+  ],
+  "clash": [
+   "soups"
+  ]
+ },
+ "chickpea": {
+  "also": [
+   [
+    "beans and pulses",
+    1
+   ]
+  ],
+  "clash": [
+   "meze"
+  ]
+ },
+ "Aleppo pine": {
+  "also": [
+   [
+    "evergreen trees",
+    4
+   ],
+   [
+    "mediterranean trees",
+    3
+   ]
+  ],
+  "clash": []
+ },
+ "walnut": {
+  "also": [
+   [
+    "nuts",
+    1
+   ],
+   [
+    "nut trees",
+    1
+   ],
+   [
+    "types of wood",
+    2
+   ],
+   [
+    "shades of brown",
+    3
+   ]
+  ],
+  "clash": []
+ },
+ "mastic": {
+  "also": [
+   [
+    "adhesives",
+    3
+   ]
+  ],
+  "clash": []
+ },
+ "Sodom apple": {
+  "also": [
+   [
+    "poisonous plants",
+    4
+   ]
+  ],
+  "clash": []
+ },
+ "anemone": {
+  "also": [
+   [
+    "spring flowers",
+    3
+   ],
+   [
+    "garden flowers",
+    3
+   ],
+   [
+    "tide pool life",
+    1
+   ],
+   [
+    "reef life",
+    2
+   ],
+   [
+    "hidden numbers",
+    2
+   ]
+  ],
+  "clash": []
+ },
+ "cedar of Lebanon": {
+  "also": [
+   [
+    "evergreen trees",
+    3
+   ]
+  ],
+  "clash": []
+ },
+ "star of Bethlehem": {
+  "also": [
+   [
+    "christmas",
+    2
+   ],
+   [
+    "wildflowers",
+    4
+   ]
+  ],
+  "clash": []
+ },
+ "silver fern": {
+  "also": [],
+  "clash": [
+   "national flowers",
+   "rugby terms"
+  ]
+ },
+ "kauri": {
+  "also": [
+   [
+    "evergreen trees",
+    4
+   ]
+  ],
+  "clash": []
+ },
+ "pohutukawa": {
+  "also": [],
+  "clash": [
+   "christmas"
+  ]
+ },
+ "manuka": {
+  "also": [
+   [
+    "oceanian remedies",
+    3
+   ]
+  ],
+  "clash": [
+   "sweeteners",
+   "superfoods"
+  ]
+ },
+ "harakeke": {
+  "also": [
+   [
+    "maori words",
+    3
+   ],
+   [
+    "maori culture",
+    3
+   ]
+  ],
+  "clash": []
+ },
+ "cabbage tree": {
+  "also": [],
+  "clash": [
+   "cabbage family"
+  ]
+ },
+ "rimu": {
+  "also": [
+   [
+    "types of wood",
+    5
+   ]
+  ],
+  "clash": []
+ },
+ "kawakawa": {
+  "also": [
+   [
+    "oceanian remedies",
+    4
+   ]
+  ],
+  "clash": []
+ },
+ "hebe": {
+  "also": [
+   [
+    "greek gods",
+    3
+   ]
+  ],
+  "clash": []
+ },
+ "toetoe": {
+  "also": [
+   [
+    "grasses and reeds",
+    4
+   ]
+  ],
+  "clash": []
+ },
+ "raupo": {
+  "also": [
+   [
+    "water plants",
+    5
+   ]
+  ],
+  "clash": []
+ },
+ "kumara": {
+  "also": [
+   [
+    "root vegetables",
+    3
+   ],
+   [
+    "maori words",
+    3
+   ],
+   [
+    "pacific islands food",
+    3
+   ]
+  ],
+  "clash": []
+ },
+ "tutu": {
+  "also": [
+   [
+    "ballet terms",
+    1
+   ],
+   [
+    "dresses and skirts",
+    2
+   ]
+  ],
+  "clash": []
+ },
+ "supplejack": {
+  "also": [
+   [
+    "vines and climbers",
+    4
+   ]
+  ],
+  "clash": []
+ },
+ "flower": {
+  "also": [
+   [
+    "sun___",
+    1
+   ],
+   [
+    "homophones",
+    1
+   ]
+  ],
+  "clash": []
+ },
+ "compost": {
+  "also": [
+   [
+    "recycling words",
+    2
+   ],
+   [
+    "green living words",
+    2
+   ],
+   [
+    "soil words",
+    2
+   ]
+  ],
+  "clash": []
+ },
+ "soil": {
+  "also": [
+   [
+    "soil words",
+    1
+   ]
+  ],
+  "clash": []
+ },
+ "seed": {
+  "also": [
+   [
+    "plant parts",
+    1
+   ],
+   [
+    "plant biology",
+    2
+   ],
+   [
+    "tournament words",
+    2
+   ]
+  ],
+  "clash": []
+ },
+ "bulb": {
+  "also": [
+   [
+    "plant parts",
+    2
+   ],
+   [
+    "electrical fittings",
+    2
+   ],
+   [
+    "lights and lamps",
+    2
+   ]
+  ],
+  "clash": [
+   "onion family"
+  ]
+ },
+ "manure": {
+  "also": [
+   [
+    "farm",
+    2
+   ],
+   [
+    "smelly things",
+    2
+   ],
+   [
+    "things that smell bad",
+    2
+   ]
+  ],
+  "clash": []
+ },
+ "fertilizer": {
+  "also": [
+   [
+    "farm",
+    3
+   ]
+  ],
+  "clash": []
+ },
+ "topsoil": {
+  "also": [
+   [
+    "soil words",
+    1
+   ]
+  ],
+  "clash": []
+ },
+ "loam": {
+  "also": [
+   [
+    "soil words",
+    2
+   ]
+  ],
+  "clash": []
+ },
+ "annual": {
+  "also": [],
+  "clash": [
+   "publishing words"
+  ]
+ },
+ "herb": {
+  "also": [],
+  "clash": [
+   "herbs",
+   "boys' names"
+  ]
+ },
+ "weed": {
+  "also": [
+   [
+    "sea___",
+    1
+   ],
+   [
+    "illegal drugs",
+    2
+   ]
+  ],
+  "clash": [
+   "smoking words"
+  ]
+ },
+ "leaf mold": {
+  "also": [
+   [
+    "soil words",
+    3
+   ]
+  ],
+  "clash": []
+ },
+ "tuber": {
+  "also": [
+   [
+    "plant parts",
+    2
+   ]
+  ],
+  "clash": [
+   "root vegetables"
+  ]
+ },
+ "gardener": {
+  "also": [
+   [
+    "outdoor jobs",
+    1
+   ]
+  ],
+  "clash": []
+ },
+ "gnome": {
+  "also": [
+   [
+    "fairy folk",
+    2
+   ],
+   [
+    "fantasy races",
+    2
+   ]
+  ],
+  "clash": []
+ },
+ "humus": {
+  "also": [
+   [
+    "soil words",
+    2
+   ],
+   [
+    "homophones",
+    2
+   ]
+  ],
+  "clash": [
+   "dips"
+  ]
+ },
+ "cloche": {
+  "also": [
+   [
+    "hats",
+    3
+   ],
+   [
+    "historical hats",
+    3
+   ]
+  ],
+  "clash": []
+ },
+ "spade": {
+  "also": [
+   [
+    "card game words",
+    1
+   ],
+   [
+    "beach gear",
+    2
+   ],
+   [
+    "hand tools",
+    2
+   ]
+  ],
+  "clash": []
+ },
+ "rake": {
+  "also": [
+   [
+    "hand tools",
+    2
+   ]
+  ],
+  "clash": []
+ },
+ "hoe": {
+  "also": [
+   [
+    "hand tools",
+    2
+   ]
+  ],
+  "clash": []
+ },
+ "trowel": {
+  "also": [
+   [
+    "hand tools",
+    2
+   ]
+  ],
+  "clash": [
+   "construction site"
+  ]
+ },
+ "shovel": {
+  "also": [
+   [
+    "hand tools",
+    2
+   ],
+   [
+    "construction site",
+    2
+   ]
+  ],
+  "clash": []
+ },
+ "wheelbarrow": {
+  "also": [
+   [
+    "construction site",
+    2
+   ],
+   [
+    "things with wheels",
+    1
+   ],
+   [
+    "farm",
+    3
+   ],
+   [
+    "hidden body parts",
+    2
+   ],
+   [
+    "hidden animals",
+    3
+   ]
+  ],
+  "clash": []
+ },
+ "hose": {
+  "also": [
+   [
+    "plumbing words",
+    2
+   ],
+   [
+    "fire station",
+    2
+   ]
+  ],
+  "clash": [
+   "underwear"
+  ]
+ },
+ "pitchfork": {
+  "also": [
+   [
+    "farm",
+    1
+   ]
+  ],
+  "clash": [
+   "halloween"
+  ]
+ },
+ "shears": {
+  "also": [
+   [
+    "things that cut",
+    1
+   ],
+   [
+    "sewing kit",
+    3
+   ],
+   [
+    "hidden body parts",
+    2
+   ]
+  ],
+  "clash": [
+   "hair salon"
+  ]
+ },
+ "secateurs": {
+  "also": [
+   [
+    "things that cut",
+    2
+   ],
+   [
+    "hidden animals",
+    3
+   ]
+  ],
+  "clash": []
+ },
+ "pruners": {
+  "also": [
+   [
+    "things that cut",
+    3
+   ]
+  ],
+  "clash": []
+ },
+ "lawnmower": {
+  "also": [
+   [
+    "machine sounds",
+    3
+   ],
+   [
+    "loud things",
+    2
+   ]
+  ],
+  "clash": [
+   "things with wheels"
+  ]
+ },
+ "hedge trimmer": {
+  "also": [
+   [
+    "power tools",
+    2
+   ],
+   [
+    "loud things",
+    3
+   ]
+  ],
+  "clash": []
+ },
+ "strimmer": {
+  "also": [
+   [
+    "power tools",
+    3
+   ]
+  ],
+  "clash": []
+ },
+ "leaf blower": {
+  "also": [
+   [
+    "loud things",
+    2
+   ]
+  ],
+  "clash": [
+   "power tools"
+  ]
+ },
+ "loppers": {
+  "also": [
+   [
+    "things that cut",
+    3
+   ]
+  ],
+  "clash": []
+ },
+ "pruning saw": {
+  "also": [
+   [
+    "saws",
+    2
+   ]
+  ],
+  "clash": []
+ },
+ "sickle": {
+  "also": [
+   [
+    "things that cut",
+    2
+   ],
+   [
+    "farm",
+    3
+   ]
+  ],
+  "clash": [
+   "symbols"
+  ]
+ },
+ "scythe": {
+  "also": [
+   [
+    "things that cut",
+    2
+   ],
+   [
+    "halloween",
+    3
+   ]
+  ],
+  "clash": [
+   "medieval weapons"
+  ]
+ },
+ "cultivator": {
+  "also": [],
+  "clash": [
+   "farm vehicles"
+  ]
+ },
+ "tiller": {
+  "also": [
+   [
+    "ship parts",
+    2
+   ]
+  ],
+  "clash": [
+   "sailing words",
+   "farm vehicles"
+  ]
+ },
+ "rototiller": {
+  "also": [],
+  "clash": [
+   "farm vehicles"
+  ]
+ },
+ "mattock": {
+  "also": [
+   [
+    "hand tools",
+    4
+   ]
+  ],
+  "clash": []
+ },
+ "pickaxe": {
+  "also": [
+   [
+    "mining words",
+    1
+   ],
+   [
+    "hand tools",
+    2
+   ],
+   [
+    "construction site",
+    2
+   ]
+  ],
+  "clash": [
+   "climbing gear"
+  ]
+ },
+ "billhook": {
+  "also": [
+   [
+    "things that cut",
+    4
+   ]
+  ],
+  "clash": [
+   "medieval weapons"
+  ]
+ },
+ "riddle": {
+  "also": [
+   [
+    "puzzles",
+    1
+   ],
+   [
+    "word games",
+    2
+   ]
+  ],
+  "clash": []
+ },
+ "sieve": {
+  "also": [
+   [
+    "kitchen utensils",
+    1
+   ],
+   [
+    "baking words",
+    2
+   ],
+   [
+    "hidden names",
+    2
+   ]
+  ],
+  "clash": []
+ },
+ "machete": {
+  "also": [
+   [
+    "things that cut",
+    2
+   ]
+  ],
+  "clash": []
+ },
+ "lawn": {
+  "also": [],
+  "clash": [
+   "tennis terms"
+  ]
+ },
+ "path": {
+  "also": [
+   [
+    "trail words",
+    2
+   ],
+   [
+    "foot___",
+    2
+   ]
+  ],
+  "clash": []
+ },
+ "patio": {
+  "also": [
+   [
+    "parts of a house",
+    3
+   ]
+  ],
+  "clash": []
+ },
+ "fountain": {
+  "also": [
+   [
+    "street furniture",
+    3
+   ]
+  ],
+  "clash": []
+ },
+ "greenhouse": {
+  "also": [
+   [
+    "climate words",
+    2
+   ]
+  ],
+  "clash": [
+   "farm buildings"
+  ]
+ },
+ "shed": {
+  "also": [
+   [
+    "farm buildings",
+    3
+   ],
+   [
+    "irregular past tenses",
+    2
+   ],
+   [
+    "water___",
+    2
+   ]
+  ],
+  "clash": [
+   "animal coverings"
+  ]
+ },
+ "fence": {
+  "also": [],
+  "clash": [
+   "fencing terms",
+   "crimes"
+  ]
+ },
+ "gate": {
+  "also": [
+   [
+    "airport words",
+    1
+   ]
+  ],
+  "clash": [
+   "parts of a door"
+  ]
+ },
+ "sundial": {
+  "also": [
+   [
+    "clock types",
+    1
+   ]
+  ],
+  "clash": []
+ },
+ "deck": {
+  "also": [
+   [
+    "ship parts",
+    1
+   ],
+   [
+    "card game words",
+    1
+   ]
+  ],
+  "clash": []
+ },
+ "terrace": {
+  "also": [
+   [
+    "parts of a house",
+    3
+   ],
+   [
+    "house styles",
+    3
+   ]
+  ],
+  "clash": []
+ },
+ "archway": {
+  "also": [
+   [
+    "architectural features",
+    3
+   ]
+  ],
+  "clash": []
+ },
+ "birdhouse": {
+  "also": [
+   [
+    "animal homes",
+    2
+   ]
+  ],
+  "clash": []
+ },
+ "sandpit": {
+  "also": [
+   [
+    "playground",
+    1
+   ]
+  ],
+  "clash": []
+ },
+ "maze": {
+  "also": [
+   [
+    "puzzles",
+    2
+   ]
+  ],
+  "clash": []
+ },
+ "grotto": {
+  "also": [
+   [
+    "christmas",
+    3
+   ]
+  ],
+  "clash": []
+ },
+ "ha-ha": {
+  "also": [],
+  "clash": [
+   "interjections",
+   "comedy words"
+  ]
+ },
+ "obelisk": {
+  "also": [
+   [
+    "ancient egypt",
+    2
+   ]
+  ],
+  "clash": []
+ },
+ "wishing well": {
+  "also": [
+   [
+    "superstitions",
+    3
+   ]
+  ],
+  "clash": []
+ },
+ "border": {
+  "also": [
+   [
+    "map words",
+    2
+   ]
+  ],
+  "clash": []
+ },
+ "slug": {
+  "also": [
+   [
+    "garden bugs",
+    1
+   ],
+   [
+    "mollusks",
+    2
+   ],
+   [
+    "slippery things",
+    2
+   ]
+  ],
+  "clash": []
+ },
+ "snail": {
+  "also": [
+   [
+    "mollusks",
+    1
+   ],
+   [
+    "garden bugs",
+    1
+   ],
+   [
+    "animals with shells",
+    1
+   ],
+   [
+    "things with shells",
+    1
+   ]
+  ],
+  "clash": [
+   "french food"
+  ]
+ },
+ "aphid": {
+  "also": [
+   [
+    "garden bugs",
+    1
+   ]
+  ],
+  "clash": []
+ },
+ "greenfly": {
+  "also": [
+   [
+    "garden bugs",
+    2
+   ]
+  ],
+  "clash": [
+   "___fly"
+  ]
+ },
+ "blackfly": {
+  "also": [
+   [
+    "garden bugs",
+    3
+   ],
+   [
+    "biting bugs",
+    3
+   ]
+  ],
+  "clash": [
+   "___fly"
+  ]
+ },
+ "whitefly": {
+  "also": [
+   [
+    "garden bugs",
+    3
+   ]
+  ],
+  "clash": [
+   "___fly"
+  ]
+ },
+ "caterpillar": {
+  "also": [
+   [
+    "insect life cycle",
+    1
+   ],
+   [
+    "garden bugs",
+    1
+   ],
+   [
+    "construction vehicles",
+    3
+   ]
+  ],
+  "clash": [
+   "hidden animals"
+  ]
+ },
+ "mole": {
+  "also": [
+   [
+    "burrowing animals",
+    1
+   ],
+   [
+    "british wildlife",
+    1
+   ],
+   [
+    "skin words",
+    2
+   ],
+   [
+    "spy words",
+    1
+   ],
+   [
+    "mexican food",
+    3
+   ],
+   [
+    "chemistry words",
+    3
+   ]
+  ],
+  "clash": []
+ },
+ "vine weevil": {
+  "also": [
+   [
+    "beetles",
+    3
+   ]
+  ],
+  "clash": []
+ },
+ "weevil": {
+  "also": [
+   [
+    "beetles",
+    2
+   ]
+  ],
+  "clash": []
+ },
+ "earwig": {
+  "also": [
+   [
+    "garden bugs",
+    1
+   ],
+   [
+    "hidden body parts",
+    2
+   ]
+  ],
+  "clash": []
+ },
+ "cabbage white": {
+  "also": [
+   [
+    "butterflies and moths",
+    2
+   ]
+  ],
+  "clash": []
+ },
+ "sawfly": {
+  "also": [],
+  "clash": [
+   "___fly"
+  ]
+ },
+ "rabbit": {
+  "also": [
+   [
+    "pets",
+    1
+   ],
+   [
+    "small pets",
+    1
+   ],
+   [
+    "game meats",
+    2
+   ],
+   [
+    "british wildlife",
+    1
+   ],
+   [
+    "burrowing animals",
+    1
+   ],
+   [
+    "chinese zodiac",
+    1
+   ],
+   [
+    "magic show words",
+    2
+   ]
+  ],
+  "clash": [
+   "easter"
+  ]
+ },
+ "deer": {
+  "also": [
+   [
+    "woodland animals",
+    1
+   ],
+   [
+    "british wildlife",
+    1
+   ],
+   [
+    "homophones",
+    1
+   ]
+  ],
+  "clash": [
+   "game meats",
+   "christmas"
+  ]
+ },
+ "squirrel": {
+  "also": [
+   [
+    "rodents",
+    1
+   ],
+   [
+    "woodland animals",
+    1
+   ],
+   [
+    "city animals",
+    1
+   ],
+   [
+    "british wildlife",
+    1
+   ]
+  ],
+  "clash": []
+ },
+ "wood pigeon": {
+  "also": [
+   [
+    "british wildlife",
+    2
+   ]
+  ],
+  "clash": []
+ },
+ "vole": {
+  "also": [
+   [
+    "rodents",
+    2
+   ],
+   [
+    "british wildlife",
+    2
+   ]
+  ],
+  "clash": []
+ },
+ "gopher": {
+  "also": [
+   [
+    "rodents",
+    2
+   ],
+   [
+    "burrowing animals",
+    2
+   ],
+   [
+    "north american animals",
+    2
+   ]
+  ],
+  "clash": []
+ },
+ "groundhog": {
+  "also": [
+   [
+    "rodents",
+    2
+   ],
+   [
+    "burrowing animals",
+    2
+   ],
+   [
+    "north american animals",
+    2
+   ],
+   [
+    "hibernating animals",
+    2
+   ]
+  ],
+  "clash": []
+ },
+ "woodchuck": {
+  "also": [
+   [
+    "rodents",
+    2
+   ],
+   [
+    "burrowing animals",
+    2
+   ],
+   [
+    "north american animals",
+    2
+   ],
+   [
+    "hibernating animals",
+    3
+   ]
+  ],
+  "clash": []
+ },
+ "raccoon": {
+  "also": [
+   [
+    "north american animals",
+    1
+   ],
+   [
+    "city animals",
+    1
+   ],
+   [
+    "nocturnal animals",
+    1
+   ],
+   [
+    "scavengers",
+    2
+   ]
+  ],
+  "clash": []
+ },
+ "Japanese beetle": {
+  "also": [
+   [
+    "beetles",
+    3
+   ]
+  ],
+  "clash": [
+   "japanese animals"
+  ]
+ },
+ "lily beetle": {
+  "also": [
+   [
+    "beetles",
+    3
+   ]
+  ],
+  "clash": []
+ },
+ "flea beetle": {
+  "also": [
+   [
+    "beetles",
+    4
+   ]
+  ],
+  "clash": []
+ },
+ "codling moth": {
+  "also": [
+   [
+    "butterflies and moths",
+    4
+   ]
+  ],
+  "clash": []
+ },
+ "box moth": {
+  "also": [
+   [
+    "butterflies and moths",
+    4
+   ]
+  ],
+  "clash": []
+ },
+ "chafer": {
+  "also": [
+   [
+    "beetles",
+    3
+   ]
+  ],
+  "clash": []
+ },
+ "ant": {
+  "also": [
+   [
+    "garden bugs",
+    1
+   ],
+   [
+    "household pests",
+    1
+   ]
+  ],
+  "clash": []
+ },
+ "mite": {
+  "also": [
+   [
+    "tiny things",
+    2
+   ]
+  ],
+  "clash": [
+   "household pests",
+   "spiders"
+  ]
+ },
+ "mouse": {
+  "also": [
+   [
+    "rodents",
+    1
+   ],
+   [
+    "small pets",
+    1
+   ],
+   [
+    "household pests",
+    1
+   ],
+   [
+    "computer parts",
+    1
+   ],
+   [
+    "nocturnal animals",
+    2
+   ]
+  ],
+  "clash": []
+ },
+ "rat": {
+  "also": [
+   [
+    "rodents",
+    1
+   ],
+   [
+    "household pests",
+    1
+   ],
+   [
+    "city animals",
+    1
+   ],
+   [
+    "chinese zodiac",
+    1
+   ],
+   [
+    "small pets",
+    2
+   ],
+   [
+    "scavengers",
+    2
+   ]
+  ],
+  "clash": []
+ },
+ "cucumber beetle": {
+  "also": [
+   [
+    "beetles",
+    4
+   ]
+  ],
+  "clash": []
+ },
+ "Colorado beetle": {
+  "also": [
+   [
+    "beetles",
+    3
+   ]
+  ],
+  "clash": []
+ },
+ "woodlouse": {
+  "also": [
+   [
+    "garden bugs",
+    1
+   ]
+  ],
+  "clash": [
+   "household pests"
+  ]
+ },
+ "leatherjacket": {
+  "also": [],
+  "clash": [
+   "coats and jackets"
+  ]
+ },
+ "bench": {
+  "also": [
+   [
+    "seating",
+    1
+   ],
+   [
+    "street furniture",
+    1
+   ],
+   [
+    "gym equipment",
+    2
+   ],
+   [
+    "courtroom words",
+    3
+   ],
+   [
+    "hidden names",
+    1
+   ]
+  ],
+  "clash": []
+ },
+ "deckchair": {
+  "also": [
+   [
+    "seating",
+    1
+   ],
+   [
+    "beach gear",
+    1
+   ]
+  ],
+  "clash": []
+ },
+ "sun lounger": {
+  "also": [
+   [
+    "beach gear",
+    2
+   ],
+   [
+    "seating",
+    2
+   ]
+  ],
+  "clash": []
+ },
+ "parasol": {
+  "also": [
+   [
+    "beach gear",
+    1
+   ]
+  ],
+  "clash": []
+ },
+ "hammock": {
+  "also": [
+   [
+    "beds",
+    2
+   ],
+   [
+    "camping gear",
+    2
+   ]
+  ],
+  "clash": []
+ },
+ "picnic table": {
+  "also": [
+   [
+    "tables and desks",
+    2
+   ]
+  ],
+  "clash": [
+   "picnic basket"
+  ]
+ },
+ "rocking chair": {
+  "also": [
+   [
+    "seating",
+    1
+   ]
+  ],
+  "clash": []
+ },
+ "swing seat": {
+  "also": [
+   [
+    "seating",
+    3
+   ]
+  ],
+  "clash": []
+ },
+ "Adirondack chair": {
+  "also": [
+   [
+    "seating",
+    3
+   ]
+  ],
+  "clash": []
+ },
+ "garden chair": {
+  "also": [
+   [
+    "seating",
+    2
+   ]
+  ],
+  "clash": []
+ },
+ "garden table": {
+  "also": [
+   [
+    "tables and desks",
+    2
+   ]
+  ],
+  "clash": []
+ },
+ "sunbed": {
+  "also": [
+   [
+    "beach gear",
+    3
+   ]
+  ],
+  "clash": []
+ },
+ "lounger": {
+  "also": [
+   [
+    "seating",
+    3
+   ]
+  ],
+  "clash": []
+ },
+ "porch swing": {
+  "also": [
+   [
+    "american suburb",
+    3
+   ]
+  ],
+  "clash": []
+ },
+ "umbrella": {
+  "also": [
+   [
+    "beach gear",
+    1
+   ],
+   [
+    "things that fold",
+    1
+   ]
+  ],
+  "clash": [
+   "rain words"
+  ]
+ },
+ "chaise longue": {
+  "also": [
+   [
+    "seating",
+    2
+   ],
+   [
+    "antique furniture",
+    3
+   ],
+   [
+    "words from french",
+    3
+   ]
+  ],
+  "clash": []
+ },
+ "garden sofa": {
+  "also": [
+   [
+    "seating",
+    3
+   ]
+  ],
+  "clash": []
+ },
+ "egg chair": {
+  "also": [
+   [
+    "seating",
+    3
+   ]
+  ],
+  "clash": []
+ },
+ "fire pit": {
+  "also": [],
+  "clash": [
+   "campsite"
+  ]
+ },
+ "barbecue": {
+  "also": [
+   [
+    "cooking methods",
+    2
+   ],
+   [
+    "australian backyard",
+    1
+   ]
+  ],
+  "clash": []
+ },
+ "trestle table": {
+  "also": [
+   [
+    "tables and desks",
+    3
+   ]
+  ],
+  "clash": []
+ },
+ "swing": {
+  "also": [
+   [
+    "playground",
+    1
+   ],
+   [
+    "jazz words",
+    2
+   ]
+  ],
+  "clash": []
+ },
+ "garden bench": {
+  "also": [
+   [
+    "seating",
+    2
+   ]
+  ],
+  "clash": []
+ },
+ "robin": {
+  "also": [
+   [
+    "songbirds",
+    1
+   ],
+   [
+    "british wildlife",
+    1
+   ],
+   [
+    "christmas",
+    1
+   ],
+   [
+    "north american birds",
+    2
+   ],
+   [
+    "boys' names",
+    2
+   ],
+   [
+    "hidden names",
+    2
+   ]
+  ],
+  "clash": [
+   "robin hood legend"
+  ]
+ },
+ "blackbird": {
+  "also": [
+   [
+    "songbirds",
+    1
+   ],
+   [
+    "british wildlife",
+    1
+   ],
+   [
+    "black things",
+    3
+   ]
+  ],
+  "clash": [
+   "___bird"
+  ]
+ },
+ "blue tit": {
+  "also": [
+   [
+    "songbirds",
+    2
+   ],
+   [
+    "british wildlife",
+    1
+   ]
+  ],
+  "clash": []
+ },
+ "sparrow": {
+  "also": [
+   [
+    "songbirds",
+    1
+   ],
+   [
+    "city animals",
+    1
+   ],
+   [
+    "british wildlife",
+    2
+   ]
+  ],
+  "clash": [
+   "famous pirates"
+  ]
+ },
+ "starling": {
+  "also": [
+   [
+    "songbirds",
+    2
+   ],
+   [
+    "city animals",
+    2
+   ],
+   [
+    "british wildlife",
+    2
+   ]
+  ],
+  "clash": []
+ },
+ "wren": {
+  "also": [
+   [
+    "songbirds",
+    2
+   ],
+   [
+    "british wildlife",
+    2
+   ]
+  ],
+  "clash": []
+ },
+ "finch": {
+  "also": [
+   [
+    "songbirds",
+    1
+   ]
+  ],
+  "clash": []
+ },
+ "chaffinch": {
+  "also": [
+   [
+    "finches",
+    1
+   ],
+   [
+    "songbirds",
+    2
+   ],
+   [
+    "british wildlife",
+    2
+   ]
+  ],
+  "clash": []
+ },
+ "goldfinch": {
+  "also": [
+   [
+    "finches",
+    1
+   ],
+   [
+    "songbirds",
+    2
+   ],
+   [
+    "colorful birds",
+    2
+   ],
+   [
+    "british wildlife",
+    2
+   ]
+  ],
+  "clash": []
+ },
+ "greenfinch": {
+  "also": [
+   [
+    "finches",
+    2
+   ],
+   [
+    "songbirds",
+    2
+   ]
+  ],
+  "clash": []
+ },
+ "bullfinch": {
+  "also": [
+   [
+    "finches",
+    2
+   ],
+   [
+    "songbirds",
+    2
+   ],
+   [
+    "colorful birds",
+    3
+   ]
+  ],
+  "clash": []
+ },
+ "thrush": {
+  "also": [
+   [
+    "songbirds",
+    1
+   ],
+   [
+    "infections",
+    3
+   ]
+  ],
+  "clash": []
+ },
+ "song thrush": {
+  "also": [
+   [
+    "songbirds",
+    2
+   ],
+   [
+    "british wildlife",
+    2
+   ]
+  ],
+  "clash": []
+ },
+ "mistle thrush": {
+  "also": [
+   [
+    "songbirds",
+    3
+   ]
+  ],
+  "clash": []
+ },
+ "great tit": {
+  "also": [
+   [
+    "songbirds",
+    2
+   ],
+   [
+    "british wildlife",
+    2
+   ]
+  ],
+  "clash": []
+ },
+ "coal tit": {
+  "also": [
+   [
+    "songbirds",
+    3
+   ]
+  ],
+  "clash": []
+ },
+ "dunnock": {
+  "also": [
+   [
+    "songbirds",
+    3
+   ]
+  ],
+  "clash": []
+ },
+ "magpie": {
+  "also": [
+   [
+    "black and white animals",
+    1
+   ],
+   [
+    "british wildlife",
+    1
+   ],
+   [
+    "superstitions",
+    2
+   ]
+  ],
+  "clash": []
+ },
+ "jay": {
+  "also": [
+   [
+    "boys' names",
+    2
+   ],
+   [
+    "sounds like a letter",
+    1
+   ]
+  ],
+  "clash": []
+ },
+ "collared dove": {
+  "also": [
+   [
+    "british wildlife",
+    3
+   ]
+  ],
+  "clash": []
+ },
+ "nuthatch": {
+  "also": [
+   [
+    "songbirds",
+    3
+   ]
+  ],
+  "clash": []
+ },
+ "treecreeper": {
+  "also": [
+   [
+    "songbirds",
+    4
+   ]
+  ],
+  "clash": []
+ },
+ "woodpecker": {
+  "also": [
+   [
+    "woodland animals",
+    1
+   ],
+   [
+    "british wildlife",
+    2
+   ],
+   [
+    "north american birds",
+    2
+   ]
+  ],
+  "clash": []
+ },
+ "green woodpecker": {
+  "also": [
+   [
+    "british wildlife",
+    3
+   ]
+  ],
+  "clash": []
+ },
+ "jackdaw": {
+  "also": [
+   [
+    "british wildlife",
+    3
+   ]
+  ],
+  "clash": []
+ },
+ "crow": {
+  "also": [
+   [
+    "scavengers",
+    2
+   ],
+   [
+    "black things",
+    2
+   ],
+   [
+    "city animals",
+    2
+   ],
+   [
+    "halloween",
+    3
+   ]
+  ],
+  "clash": []
+ },
+ "siskin": {
+  "also": [
+   [
+    "finches",
+    3
+   ],
+   [
+    "hidden body parts",
+    3
+   ]
+  ],
+  "clash": []
+ },
+ "blackcap": {
+  "also": [
+   [
+    "songbirds",
+    3
+   ]
+  ],
+  "clash": []
+ },
+ "goldcrest": {
+  "also": [
+   [
+    "songbirds",
+    3
+   ]
+  ],
+  "clash": []
+ },
+ "wagtail": {
+  "also": [
+   [
+    "songbirds",
+    3
+   ]
+  ],
+  "clash": []
+ },
+ "pied wagtail": {
+  "also": [
+   [
+    "black and white animals",
+    3
+   ]
+  ],
+  "clash": []
+ },
+ "sparrowhawk": {
+  "also": [
+   [
+    "birds of prey",
+    1
+   ],
+   [
+    "british wildlife",
+    2
+   ]
+  ],
+  "clash": []
+ },
+ "redwing": {
+  "also": [
+   [
+    "songbirds",
+    3
+   ]
+  ],
+  "clash": []
+ },
+ "fieldfare": {
+  "also": [
+   [
+    "songbirds",
+    4
+   ]
+  ],
+  "clash": []
+ },
+ "brambling": {
+  "also": [
+   [
+    "finches",
+    4
+   ]
+  ],
+  "clash": []
+ },
+ "waxwing": {
+  "also": [
+   [
+    "songbirds",
+    3
+   ]
+  ],
+  "clash": []
+ },
+ "yellowhammer": {
+  "also": [
+   [
+    "finches",
+    4
+   ],
+   [
+    "songbirds",
+    3
+   ]
+  ],
+  "clash": []
+ },
+ "swallow": {
+  "also": [
+   [
+    "migrating animals",
+    1
+   ],
+   [
+    "body actions",
+    2
+   ],
+   [
+    "things that fly",
+    3
+   ]
+  ],
+  "clash": []
+ },
+ "house martin": {
+  "also": [
+   [
+    "migrating animals",
+    3
+   ]
+  ],
+  "clash": []
+ },
+ "swift": {
+  "also": [
+   [
+    "migrating animals",
+    2
+   ],
+   [
+    "words for fast",
+    1
+   ],
+   [
+    "fast animals",
+    3
+   ],
+   [
+    "things that fly",
+    3
+   ]
+  ],
+  "clash": [
+   "famous car models",
+   "pop stars"
+  ]
+ },
+ "cardinal": {
+  "also": [
+   [
+    "north american birds",
+    1
+   ],
+   [
+    "colorful birds",
+    1
+   ],
+   [
+    "red things",
+    2
+   ],
+   [
+    "religious leaders",
+    1
+   ],
+   [
+    "shades of red",
+    3
+   ],
+   [
+    "hidden vehicles",
+    2
+   ]
+  ],
+  "clash": [
+   "mlb teams",
+   "nfl teams"
+  ]
+ },
+ "blue jay": {
+  "also": [
+   [
+    "north american birds",
+    1
+   ],
+   [
+    "colorful birds",
+    2
+   ]
+  ],
+  "clash": [
+   "mlb teams"
+  ]
+ },
+ "chickadee": {
+  "also": [
+   [
+    "north american birds",
+    2
+   ]
+  ],
+  "clash": []
+ },
+ "mockingbird": {
+  "also": [
+   [
+    "north american birds",
+    2
+   ]
+  ],
+  "clash": [
+   "classic novels"
+  ]
+ },
+ "mourning dove": {
+  "also": [
+   [
+    "north american birds",
+    2
+   ]
+  ],
+  "clash": []
+ },
+ "house finch": {
+  "also": [
+   [
+    "finches",
+    3
+   ],
+   [
+    "north american birds",
+    3
+   ]
+  ],
+  "clash": []
+ },
+ "junco": {
+  "also": [
+   [
+    "north american birds",
+    3
+   ]
+  ],
+  "clash": []
+ },
+ "titmouse": {
+  "also": [
+   [
+    "north american birds",
+    3
+   ]
+  ],
+  "clash": [
+   "hidden animals"
+  ]
+ },
+ "catbird": {
+  "also": [
+   [
+    "north american birds",
+    4
+   ]
+  ],
+  "clash": []
+ },
+ "oriole": {
+  "also": [
+   [
+    "colorful birds",
+    2
+   ],
+   [
+    "north american birds",
+    2
+   ]
+  ],
+  "clash": [
+   "mlb teams"
+  ]
+ },
+ "hummingbird": {
+  "also": [
+   [
+    "colorful birds",
+    1
+   ],
+   [
+    "pollinators",
+    1
+   ],
+   [
+    "north american birds",
+    2
+   ],
+   [
+    "things that fly",
+    2
+   ]
+  ],
+  "clash": []
+ },
+ "grackle": {
+  "also": [
+   [
+    "north american birds",
+    3
+   ]
+  ],
+  "clash": []
+ },
+ "towhee": {
+  "also": [
+   [
+    "north american birds",
+    4
+   ]
+  ],
+  "clash": []
+ },
+ "phoebe": {
+  "also": [
+   [
+    "north american birds",
+    4
+   ],
+   [
+    "girls' names",
+    2
+   ],
+   [
+    "titans",
+    4
+   ]
+  ],
+  "clash": []
+ },
+ "bluebird": {
+  "also": [
+   [
+    "north american birds",
+    2
+   ],
+   [
+    "colorful birds",
+    3
+   ]
+  ],
+  "clash": [
+   "___bird"
+  ]
+ },
+ "house sparrow": {
+  "also": [
+   [
+    "city animals",
+    2
+   ]
+  ],
+  "clash": []
+ },
+ "linnet": {
+  "also": [
+   [
+    "finches",
+    3
+   ]
+  ],
+  "clash": []
+ },
+ "dove": {
+  "also": [
+   [
+    "peace words",
+    1
+   ],
+   [
+    "white things",
+    2
+   ],
+   [
+    "chocolates",
+    3
+   ]
+  ],
+  "clash": []
+ },
+ "dig": {
+  "also": [
+   [
+    "archaeology words",
+    1
+   ],
+   [
+    "volleyball terms",
+    2
+   ]
+  ],
+  "clash": []
+ },
+ "plant": {
+  "also": [
+   [
+    "hidden insects",
+    2
+   ]
+  ],
+  "clash": [
+   "spy words",
+   "factory"
+  ]
+ },
+ "sow": {
+  "also": [
+   [
+    "female animals",
+    1
+   ],
+   [
+    "homographs",
+    1
+   ],
+   [
+    "farm animals",
+    2
+   ]
+  ],
+  "clash": []
+ },
+ "prune": {
+  "also": [
+   [
+    "dried fruits",
+    1
+   ]
+  ],
+  "clash": []
+ },
+ "transplant": {
+  "also": [
+   [
+    "operating room",
+    3
+   ],
+   [
+    "hidden insects",
+    3
+   ]
+  ],
+  "clash": []
+ },
+ "pot": {
+  "also": [
+   [
+    "cookware",
+    1
+   ],
+   [
+    "poker terms",
+    2
+   ],
+   [
+    "cue sports terms",
+    2
+   ]
+  ],
+  "clash": [
+   "illegal drugs"
+  ]
+ },
+ "graft": {
+  "also": [],
+  "clash": [
+   "british slang"
+  ]
+ },
+ "thin": {
+  "also": [
+   [
+    "words for small",
+    2
+   ]
+  ],
+  "clash": []
+ },
+ "stake": {
+  "also": [
+   [
+    "betting words",
+    2
+   ],
+   [
+    "homophones",
+    1
+   ]
+  ],
+  "clash": []
+ },
+ "train": {
+  "also": [
+   [
+    "public transportation",
+    1
+   ]
+  ],
+  "clash": []
+ },
+ "divide": {
+  "also": [
+   [
+    "math operations",
+    1
+   ]
+  ],
+  "clash": []
+ },
+ "harvest": {
+  "also": [
+   [
+    "farm",
+    2
+   ],
+   [
+    "thanksgiving",
+    3
+   ]
+  ],
+  "clash": []
+ },
+ "pick": {
+  "also": [
+   [
+    "instrument parts",
+    3
+   ]
+  ],
+  "clash": []
+ },
+ "till": {
+  "also": [
+   [
+    "supermarket",
+    2
+   ],
+   [
+    "shopping words",
+    2
+   ]
+  ],
+  "clash": []
+ },
+ "coppice": {
+  "also": [
+   [
+    "forestry words",
+    2
+   ]
+  ],
+  "clash": []
+ },
+ "pollard": {
+  "also": [
+   [
+    "forestry words",
+    3
+   ]
+  ],
+  "clash": []
+ },
+ "sprout": {
+  "also": [],
+  "clash": [
+   "cabbage family"
+  ]
+ },
+ "germinate": {
+  "also": [
+   [
+    "plant biology",
+    2
+   ]
+  ],
+  "clash": []
+ },
+ "hedge": {
+  "also": [
+   [
+    "betting words",
+    2
+   ]
+  ],
+  "clash": []
+ },
+ "cottage garden": {
+  "also": [
+   [
+    "english cottage",
+    2
+   ]
+  ],
+  "clash": []
+ },
+ "zen garden": {
+  "also": [
+   [
+    "japanese garden",
+    1
+   ],
+   [
+    "buddhism words",
+    3
+   ]
+  ],
+  "clash": []
+ },
+ "victory garden": {
+  "also": [
+   [
+    "world war ii terms",
+    3
+   ]
+  ],
+  "clash": []
+ },
+ "botanical garden": {
+  "also": [
+   [
+    "tourist attractions",
+    2
+   ]
+  ],
+  "clash": []
+ },
+ "potager": {
+  "also": [
+   [
+    "words from french",
+    4
+   ]
+  ],
+  "clash": []
+ },
+ "parterre": {
+  "also": [],
+  "clash": [
+   "theater building parts"
+  ]
+ },
+ "permaculture": {
+  "also": [
+   [
+    "green living words",
+    3
+   ]
+  ],
+  "clash": []
+ },
+ "Kew": {
+  "also": [
+   [
+    "london landmarks",
+    2
+   ]
+  ],
+  "clash": []
+ },
+ "Versailles": {
+  "also": [
+   [
+    "famous palaces",
+    1
+   ]
+  ],
+  "clash": []
+ },
+ "Hanging Gardens": {
+  "also": [
+   [
+    "ancient wonders",
+    1
+   ]
+  ],
+  "clash": []
+ },
+ "Alhambra": {
+  "also": [
+   [
+    "famous palaces",
+    1
+   ],
+   [
+    "famous castles",
+    2
+   ]
+  ],
+  "clash": []
+ },
+ "Hampton Court": {
+  "also": [
+   [
+    "famous palaces",
+    2
+   ],
+   [
+    "london landmarks",
+    3
+   ]
+  ],
+  "clash": []
+ },
+ "Tuileries": {
+  "also": [
+   [
+    "paris landmarks",
+    2
+   ]
+  ],
+  "clash": []
+ },
+ "Ryōan-ji": {
+  "also": [
+   [
+    "famous temples",
+    3
+   ],
+   [
+    "japanese landmarks",
+    3
+   ]
+  ],
+  "clash": []
+ },
+ "Kenrokuen": {
+  "also": [
+   [
+    "japanese landmarks",
+    4
+   ]
+  ],
+  "clash": []
+ },
+ "Katsura": {
+  "also": [
+   [
+    "japanese landmarks",
+    4
+   ]
+  ],
+  "clash": []
+ },
+ "Peterhof": {
+  "also": [
+   [
+    "famous palaces",
+    2
+   ]
+  ],
+  "clash": []
+ },
+ "Schönbrunn": {
+  "also": [
+   [
+    "famous palaces",
+    2
+   ]
+  ],
+  "clash": []
+ },
+ "Sanssouci": {
+  "also": [
+   [
+    "famous palaces",
+    3
+   ]
+  ],
+  "clash": []
+ },
+ "Tresco": {
+  "also": [],
+  "clash": [
+   "famous islands"
+  ]
+ },
+ "Villandry": {
+  "also": [
+   [
+    "famous castles",
+    4
+   ]
+  ],
+  "clash": []
+ },
+ "Het Loo": {
+  "also": [
+   [
+    "famous palaces",
+    4
+   ]
+  ],
+  "clash": []
+ },
+ "Yu Garden": {
+  "also": [
+   [
+    "chinese landmarks",
+    4
+   ]
+  ],
+  "clash": []
+ },
+ "Monet's garden": {
+  "also": [],
+  "clash": [
+   "impressionist painters"
+  ]
+ },
+ "koi": {
+  "also": [
+   [
+    "pond life",
+    2
+   ],
+   [
+    "freshwater fish",
+    2
+   ],
+   [
+    "japanese animals",
+    2
+   ]
+  ],
+  "clash": []
+ },
+ "bonsai": {
+  "also": [
+   [
+    "words from japanese",
+    1
+   ],
+   [
+    "asian art forms",
+    2
+   ],
+   [
+    "houseplants",
+    3
+   ]
+  ],
+  "clash": []
+ },
+ "bridge": {
+  "also": [
+   [
+    "card games",
+    2
+   ],
+   [
+    "dental words",
+    3
+   ],
+   [
+    "ship parts",
+    2
+   ],
+   [
+    "instrument parts",
+    2
+   ]
+  ],
+  "clash": [
+   "face"
+  ]
+ },
+ "moss": {
+  "also": [
+   [
+    "forest floor",
+    1
+   ]
+  ],
+  "clash": []
+ },
+ "lantern": {
+  "also": [
+   [
+    "lights and lamps",
+    1
+   ],
+   [
+    "lunar new year",
+    2
+   ],
+   [
+    "mid-autumn festival",
+    2
+   ],
+   [
+    "camping gear",
+    2
+   ],
+   [
+    "hidden insects",
+    2
+   ]
+  ],
+  "clash": [
+   "halloween"
+  ]
+ },
+ "cherry tree": {
+  "also": [
+   [
+    "fruit trees",
+    1
+   ]
+  ],
+  "clash": []
+ },
+ "maple": {
+  "also": [
+   [
+    "deciduous trees",
+    1
+   ],
+   [
+    "types of wood",
+    1
+   ]
+  ],
+  "clash": [
+   "sweeteners"
+  ]
+ },
+ "azalea": {
+  "also": [
+   [
+    "garden flowers",
+    2
+   ],
+   [
+    "spring flowers",
+    3
+   ]
+  ],
+  "clash": []
+ },
+ "pine": {
+  "also": [
+   [
+    "evergreen trees",
+    1
+   ],
+   [
+    "types of wood",
+    1
+   ],
+   [
+    "candle scents",
+    3
+   ]
+  ],
+  "clash": [
+   "sad words"
+  ]
+ },
+ "gravel": {
+  "also": [
+   [
+    "building materials",
+    2
+   ]
+  ],
+  "clash": []
+ },
+ "sand": {
+  "also": [
+   [
+    "beach",
+    1
+   ],
+   [
+    "building materials",
+    3
+   ],
+   [
+    "___box",
+    2
+   ]
+  ],
+  "clash": [
+   "shades of brown"
+  ]
+ },
+ "stream": {
+  "also": [
+   [
+    "internet words",
+    2
+   ]
+  ],
+  "clash": []
+ },
+ "wisteria": {
+  "also": [
+   [
+    "vines and climbers",
+    1
+   ],
+   [
+    "garden flowers",
+    3
+   ],
+   [
+    "shades of purple",
+    4
+   ]
+  ],
+  "clash": []
+ },
+ "iris": {
+  "also": [
+   [
+    "eye parts",
+    1
+   ],
+   [
+    "garden flowers",
+    1
+   ],
+   [
+    "girls' names",
+    2
+   ],
+   [
+    "names that are flowers",
+    1
+   ],
+   [
+    "greek gods",
+    4
+   ]
+  ],
+  "clash": []
+ },
+ "pagoda": {
+  "also": [
+   [
+    "asian temple features",
+    2
+   ],
+   [
+    "east asian buildings",
+    1
+   ],
+   [
+    "religious buildings",
+    2
+   ]
+  ],
+  "clash": []
+ },
+ "sakura": {
+  "also": [
+   [
+    "words from japanese",
+    2
+   ],
+   [
+    "flowers of east asia",
+    2
+   ]
+  ],
+  "clash": []
+ },
+ "boulder": {
+  "also": [
+   [
+    "heavy things",
+    2
+   ]
+  ],
+  "clash": [
+   "climbing words"
+  ]
+ },
+ "zen": {
+  "also": [
+   [
+    "buddhism words",
+    1
+   ]
+  ],
+  "clash": [
+   "calm words"
+  ]
+ },
+ "carp": {
+  "also": [
+   [
+    "freshwater fish",
+    1
+   ]
+  ],
+  "clash": []
+ },
+ "forest": {
+  "also": [
+   [
+    "rain___",
+    1
+   ]
+  ],
+  "clash": []
+ },
+ "jungle": {
+  "also": [
+   [
+    "electronic music styles",
+    3
+   ]
+  ],
+  "clash": []
+ },
+ "cloud forest": {
+  "also": [
+   [
+    "forest types",
+    3
+   ]
+  ],
+  "clash": []
+ },
+ "lava field": {
+  "also": [
+   [
+    "volcano words",
+    3
+   ]
+  ],
+  "clash": []
+ },
+ "taiga": {
+  "also": [
+   [
+    "forest types",
+    2
+   ]
+  ],
+  "clash": []
+ },
+ "rainforest": {
+  "also": [
+   [
+    "forest types",
+    1
+   ]
+  ],
+  "clash": []
+ },
+ "summit": {
+  "also": [
+   [
+    "diplomacy words",
+    3
+   ]
+  ],
+  "clash": []
+ },
+ "ridge": {
+  "also": [
+   [
+    "roof parts",
+    2
+   ]
+  ],
+  "clash": []
+ },
+ "slope": {
+  "also": [
+   [
+    "skiing words",
+    2
+   ],
+   [
+    "algebra words",
+    3
+   ]
+  ],
+  "clash": []
+ },
+ "pass": {
+  "also": [
+   [
+    "soccer terms",
+    2
+   ],
+   [
+    "exam words",
+    2
+   ],
+   [
+    "sports verbs",
+    2
+   ]
+  ],
+  "clash": []
+ },
+ "crest": {
+  "also": [
+   [
+    "heraldry",
+    2
+   ]
+  ],
+  "clash": []
+ },
+ "volcano": {
+  "also": [
+   [
+    "natural disasters",
+    2
+   ]
+  ],
+  "clash": []
+ },
+ "crater": {
+  "also": [
+   [
+    "astronomy terms",
+    2
+   ],
+   [
+    "volcano words",
+    1
+   ],
+   [
+    "hidden animals",
+    2
+   ]
+  ],
+  "clash": []
+ },
+ "saddle": {
+  "also": [
+   [
+    "horse tack",
+    1
+   ],
+   [
+    "bicycle parts",
+    2
+   ]
+  ],
+  "clash": []
+ },
+ "spur": {
+  "also": [
+   [
+    "horse riding words",
+    2
+   ],
+   [
+    "cowboy words",
+    2
+   ]
+  ],
+  "clash": []
+ },
+ "shoulder": {
+  "also": [
+   [
+    "torso",
+    1
+   ],
+   [
+    "joints",
+    1
+   ],
+   [
+    "parts of a road",
+    2
+   ]
+  ],
+  "clash": []
+ },
+ "gully": {
+  "also": [
+   [
+    "cricket fielding positions",
+    3
+   ]
+  ],
+  "clash": []
+ },
+ "face": {
+  "also": [
+   [
+    "clock parts",
+    2
+   ]
+  ],
+  "clash": []
+ },
+ "buttress": {
+  "also": [
+   [
+    "church parts",
+    2
+   ],
+   [
+    "architectural features",
+    2
+   ]
+  ],
+  "clash": []
+ },
+ "spire": {
+  "also": [
+   [
+    "church parts",
+    1
+   ]
+  ],
+  "clash": []
+ },
+ "needle": {
+  "also": [
+   [
+    "sewing kit",
+    1
+   ],
+   [
+    "prickly things",
+    2
+   ],
+   [
+    "tree parts",
+    3
+   ]
+  ],
+  "clash": []
+ },
+ "horn": {
+  "also": [
+   [
+    "brass instruments",
+    1
+   ],
+   [
+    "animal body parts",
+    1
+   ],
+   [
+    "car parts",
+    2
+   ]
+  ],
+  "clash": []
+ },
+ "range": {
+  "also": [
+   [
+    "kitchen appliances",
+    3
+   ],
+   [
+    "statistics words",
+    2
+   ]
+  ],
+  "clash": []
+ },
+ "bluff": {
+  "also": [
+   [
+    "poker terms",
+    1
+   ]
+  ],
+  "clash": []
+ },
+ "chimney": {
+  "also": [
+   [
+    "parts of a house",
+    1
+   ],
+   [
+    "roof parts",
+    1
+   ],
+   [
+    "fireplace words",
+    1
+   ],
+   [
+    "climbing words",
+    3
+   ]
+  ],
+  "clash": []
+ },
+ "caldera": {
+  "also": [
+   [
+    "volcano words",
+    2
+   ],
+   [
+    "hidden trees",
+    4
+   ]
+  ],
+  "clash": []
+ },
+ "mouth": {
+  "also": [
+   [
+    "face",
+    1
+   ]
+  ],
+  "clash": []
+ },
+ "delta": {
+  "also": [
+   [
+    "greek letters",
+    1
+   ],
+   [
+    "phonetic alphabet",
+    1
+   ]
+  ],
+  "clash": [
+   "airlines"
+  ]
+ },
+ "meander": {
+  "also": [
+   [
+    "ways of walking",
+    2
+   ]
+  ],
+  "clash": []
+ },
+ "bank": {
+  "also": [
+   [
+    "money words",
+    1
+   ]
+  ],
+  "clash": []
+ },
+ "current": {
+  "also": [
+   [
+    "electricity words",
+    1
+   ]
+  ],
+  "clash": []
+ },
+ "channel": {
+  "also": [
+   [
+    "tv words",
+    1
+   ],
+   [
+    "hidden names",
+    3
+   ]
+  ],
+  "clash": []
+ },
+ "ford": {
+  "also": [
+   [
+    "american car brands",
+    1
+   ],
+   [
+    "us presidents",
+    3
+   ]
+  ],
+  "clash": []
+ },
+ "pool": {
+  "also": [
+   [
+    "cue sports terms",
+    2
+   ]
+  ],
+  "clash": []
+ },
+ "eddy": {
+  "also": [],
+  "clash": [
+   "boys' names",
+   "homophones"
+  ]
+ },
+ "whirlpool": {
+  "also": [
+   [
+    "things that spin",
+    2
+   ]
+  ],
+  "clash": []
+ },
+ "cataract": {
+  "also": [
+   [
+    "hidden animals",
+    2
+   ]
+  ],
+  "clash": [
+   "eye parts",
+   "common illnesses"
+  ]
+ },
+ "spring": {
+  "also": [
+   [
+    "seasons",
+    1
+   ],
+   [
+    "things that bounce",
+    2
+   ]
+  ],
+  "clash": []
+ },
+ "gorge": {
+  "also": [],
+  "clash": [
+   "body actions"
+  ]
+ },
+ "dune": {
+  "also": [],
+  "clash": [
+   "classic novels"
+  ]
+ },
+ "oasis": {
+  "also": [
+   [
+    "famous bands",
+    1
+   ]
+  ],
+  "clash": []
+ },
+ "playa": {
+  "also": [
+   [
+    "words from spanish",
+    3
+   ]
+  ],
+  "clash": []
+ },
+ "hoodoo": {
+  "also": [],
+  "clash": [
+   "ghosts and spirits"
+  ]
+ },
+ "arch": {
+  "also": [
+   [
+    "architectural features",
+    1
+   ],
+   [
+    "hands and feet",
+    2
+   ]
+  ],
+  "clash": []
+ },
+ "pediment": {
+  "also": [
+   [
+    "architectural features",
+    3
+   ]
+  ],
+  "clash": []
+ },
+ "glacier": {
+  "also": [
+   [
+    "polar regions",
+    2
+   ],
+   [
+    "ice words",
+    2
+   ],
+   [
+    "cold things",
+    2
+   ]
+  ],
+  "clash": []
+ },
+ "iceberg": {
+  "also": [
+   [
+    "leafy greens",
+    2
+   ],
+   [
+    "polar regions",
+    1
+   ],
+   [
+    "antarctic coast",
+    2
+   ],
+   [
+    "ice words",
+    1
+   ],
+   [
+    "things that float",
+    1
+   ],
+   [
+    "cold things",
+    2
+   ]
+  ],
+  "clash": [
+   "famous ships"
+  ]
+ },
+ "ice sheet": {
+  "also": [
+   [
+    "antarctic coast",
+    2
+   ],
+   [
+    "polar regions",
+    2
+   ],
+   [
+    "ice words",
+    3
+   ]
+  ],
+  "clash": []
+ },
+ "ice shelf": {
+  "also": [
+   [
+    "antarctic coast",
+    2
+   ],
+   [
+    "polar regions",
+    2
+   ]
+  ],
+  "clash": []
+ },
+ "ice cap": {
+  "also": [
+   [
+    "polar regions",
+    2
+   ]
+  ],
+  "clash": []
+ },
+ "ice floe": {
+  "also": [
+   [
+    "polar regions",
+    2
+   ],
+   [
+    "ice words",
+    2
+   ]
+  ],
+  "clash": []
+ },
+ "pack ice": {
+  "also": [
+   [
+    "polar regions",
+    2
+   ],
+   [
+    "polar travel",
+    3
+   ],
+   [
+    "ice words",
+    3
+   ]
+  ],
+  "clash": []
+ },
+ "crevasse": {
+  "also": [
+   [
+    "mountaineering words",
+    2
+   ]
+  ],
+  "clash": []
+ },
+ "growler": {
+  "also": [
+   [
+    "hidden birds",
+    3
+   ]
+  ],
+  "clash": [
+   "beers"
+  ]
+ },
+ "chamber": {
+  "also": [
+   [
+    "hidden colors",
+    3
+   ]
+  ],
+  "clash": [
+   "parts of a house"
+  ]
+ },
+ "shaft": {
+  "also": [
+   [
+    "mining words",
+    2
+   ]
+  ],
+  "clash": []
+ },
+ "pothole": {
+  "also": [
+   [
+    "traffic words",
+    2
+   ]
+  ],
+  "clash": []
+ },
+ "column": {
+  "also": [
+   [
+    "architectural features",
+    1
+   ],
+   [
+    "newspaper words",
+    2
+   ]
+  ],
+  "clash": []
+ },
+ "curtain": {
+  "also": [
+   [
+    "window coverings",
+    1
+   ],
+   [
+    "theater words",
+    1
+   ],
+   [
+    "parts of a stage",
+    1
+   ]
+  ],
+  "clash": []
+ },
+ "sump": {
+  "also": [
+   [
+    "car parts",
+    4
+   ]
+  ],
+  "clash": []
+ },
+ "popcorn": {
+  "also": [
+   [
+    "snacks",
+    1
+   ],
+   [
+    "movie theater",
+    1
+   ],
+   [
+    "things that pop",
+    1
+   ]
+  ],
+  "clash": []
+ },
+ "travertine": {
+  "also": [
+   [
+    "building stones",
+    3
+   ]
+  ],
+  "clash": []
+ },
+ "lava tube": {
+  "also": [
+   [
+    "volcano words",
+    3
+   ]
+  ],
+  "clash": []
+ },
+ "plain": {
+  "also": [
+   [
+    "homophones",
+    1
+   ]
+  ],
+  "clash": [
+   "words for bad"
+  ]
+ },
+ "steppe": {
+  "also": [
+   [
+    "homophones",
+    3
+   ]
+  ],
+  "clash": []
+ },
+ "tundra": {
+  "also": [
+   [
+    "polar regions",
+    2
+   ]
+  ],
+  "clash": []
+ },
+ "moor": {
+  "also": [
+   [
+    "homophones",
+    2
+   ]
+  ],
+  "clash": []
+ },
+ "marsh": {
+  "also": [
+   [
+    "wetlands",
+    1
+   ]
+  ],
+  "clash": []
+ },
+ "swamp": {
+  "also": [
+   [
+    "wetlands",
+    1
+   ]
+  ],
+  "clash": []
+ },
+ "bog": {
+  "also": [
+   [
+    "wetlands",
+    1
+   ],
+   [
+    "british slang",
+    2
+   ]
+  ],
+  "clash": []
+ },
+ "fen": {
+  "also": [
+   [
+    "wetlands",
+    2
+   ]
+  ],
+  "clash": []
+ },
+ "marshland": {
+  "also": [
+   [
+    "wetlands",
+    2
+   ]
+  ],
+  "clash": []
+ },
+ "salt marsh": {
+  "also": [
+   [
+    "wetlands",
+    2
+   ]
+  ],
+  "clash": []
+ },
+ "pasture": {
+  "also": [
+   [
+    "farm",
+    2
+   ]
+  ],
+  "clash": []
+ },
+ "Nullarbor": {
+  "also": [
+   [
+    "outback",
+    3
+   ]
+  ],
+  "clash": []
+ },
+ "bay": {
+  "also": [
+   [
+    "horse colors",
+    1
+   ]
+  ],
+  "clash": []
+ },
+ "strait": {
+  "also": [
+   [
+    "homophones",
+    2
+   ]
+  ],
+  "clash": []
+ },
+ "sound": {
+  "also": [],
+  "clash": [
+   "hearing words"
+  ]
+ },
+ "billabong": {
+  "also": [
+   [
+    "australian slang",
+    3
+   ],
+   [
+    "hidden names",
+    3
+   ]
+  ],
+  "clash": []
+ },
+ "canal": {
+  "also": [],
+  "clash": [
+   "famous canals"
+  ]
+ },
+ "glen": {
+  "also": [
+   [
+    "boys' names",
+    2
+   ],
+   [
+    "scottish words",
+    2
+   ]
+  ],
+  "clash": []
+ },
+ "loch": {
+  "also": [
+   [
+    "scottish words",
+    1
+   ]
+  ],
+  "clash": []
+ },
+ "ben": {
+  "also": [
+   [
+    "boys' names",
+    1
+   ],
+   [
+    "short forms of names",
+    1
+   ]
+  ],
+  "clash": []
+ },
+ "burn": {
+  "also": [
+   [
+    "injuries",
+    1
+   ],
+   [
+    "fire words",
+    1
+   ],
+   [
+    "scottish words",
+    2
+   ],
+   [
+    "sun___",
+    1
+   ]
+  ],
+  "clash": []
+ },
+ "brae": {
+  "also": [
+   [
+    "scottish words",
+    1
+   ]
+  ],
+  "clash": []
+ },
+ "kyle": {
+  "also": [
+   [
+    "boys' names",
+    3
+   ]
+  ],
+  "clash": []
+ },
+ "inch": {
+  "also": [
+   [
+    "length units",
+    1
+   ],
+   [
+    "imperial units",
+    1
+   ]
+  ],
+  "clash": []
+ },
+ "muir": {
+  "also": [
+   [
+    "famous naturalists",
+    3
+   ]
+  ],
+  "clash": []
+ },
+ "cairn": {
+  "also": [],
+  "clash": [
+   "terriers"
+  ]
+ },
+ "fairy chimneys": {
+  "also": [
+   [
+    "turkish landmarks",
+    2
+   ]
+  ],
+  "clash": []
+ },
+ "balloons": {
+  "also": [
+   [
+    "party supplies",
+    1
+   ],
+   [
+    "birthdays",
+    1
+   ]
+  ],
+  "clash": [
+   "things that float",
+   "things that fly"
+  ]
+ },
+ "tuff": {
+  "also": [
+   [
+    "volcano words",
+    4
+   ]
+  ],
+  "clash": []
+ },
+ "dovecote": {
+  "also": [
+   [
+    "farm buildings",
+    3
+   ]
+  ],
+  "clash": []
+ },
+ "Göreme": {
+  "also": [
+   [
+    "turkish landmarks",
+    2
+   ]
+  ],
+  "clash": []
+ },
+ "Derinkuyu": {
+  "also": [
+   [
+    "turkish landmarks",
+    3
+   ],
+   [
+    "ancient sites of turkey",
+    3
+   ]
+  ],
+  "clash": []
+ },
+ "Kaymaklı": {
+  "also": [
+   [
+    "turkish landmarks",
+    4
+   ]
+  ],
+  "clash": []
+ },
+ "Nevşehir": {
+  "also": [
+   [
+    "turkish cities",
+    3
+   ]
+  ],
+  "clash": []
+ },
+ "Erciyes": {
+  "also": [
+   [
+    "famous volcanoes",
+    4
+   ]
+  ],
+  "clash": []
+ },
+ "Mount Hasan": {
+  "also": [
+   [
+    "famous volcanoes",
+    5
+   ]
+  ],
+  "clash": []
+ },
+ "Kayseri": {
+  "also": [
+   [
+    "turkish cities",
+    2
+   ]
+  ],
+  "clash": []
+ },
+ "Turkey": {
+  "also": [
+   [
+    "asian countries",
+    1
+   ],
+   [
+    "poultry",
+    1
+   ],
+   [
+    "thanksgiving",
+    1
+   ],
+   [
+    "bowling terms",
+    2
+   ]
+  ],
+  "clash": [
+   "european countries",
+   "middle eastern countries"
+  ]
+ },
+ "frescoes": {
+  "also": [
+   [
+    "painting words",
+    2
+   ]
+  ],
+  "clash": []
+ },
+ "cave dwelling": {
+  "also": [
+   [
+    "traditional dwellings",
+    2
+   ]
+  ],
+  "clash": []
+ },
+ "volcanic ash": {
+  "also": [
+   [
+    "volcano words",
+    1
+   ]
+  ],
+  "clash": []
+ },
+ "pottery": {
+  "also": [
+   [
+    "crafts",
+    1
+   ],
+   [
+    "turkish arts",
+    2
+   ],
+   [
+    "hidden animals",
+    2
+   ]
+  ],
+  "clash": []
+ },
+ "testi kebab": {
+  "also": [
+   [
+    "kebab types",
+    2
+   ],
+   [
+    "turkish food",
+    2
+   ]
+  ],
+  "clash": []
+ },
+ "hot air balloon": {
+  "also": [
+   [
+    "flying machines",
+    1
+   ],
+   [
+    "air sports",
+    2
+   ],
+   [
+    "things that fly",
+    1
+   ],
+   [
+    "things that float",
+    2
+   ]
+  ],
+  "clash": []
+ },
+ "scallop": {
+  "also": [
+   [
+    "shellfish",
+    1
+   ],
+   [
+    "mollusks",
+    2
+   ],
+   [
+    "animals with shells",
+    2
+   ]
+  ],
+  "clash": []
+ },
+ "clam": {
+  "also": [
+   [
+    "shellfish",
+    1
+   ],
+   [
+    "mollusks",
+    1
+   ],
+   [
+    "animals with shells",
+    1
+   ],
+   [
+    "things with shells",
+    1
+   ]
+  ],
+  "clash": []
+ },
+ "oyster": {
+  "also": [
+   [
+    "shellfish",
+    1
+   ],
+   [
+    "mollusks",
+    1
+   ],
+   [
+    "foods with shells",
+    1
+   ],
+   [
+    "animals with shells",
+    1
+   ]
+  ],
+  "clash": []
+ },
+ "conch": {
+  "also": [
+   [
+    "mollusks",
+    3
+   ],
+   [
+    "animals with shells",
+    2
+   ]
+  ],
+  "clash": []
+ },
+ "mussel": {
+  "also": [
+   [
+    "shellfish",
+    1
+   ],
+   [
+    "mollusks",
+    1
+   ],
+   [
+    "foods with shells",
+    2
+   ],
+   [
+    "homophones",
+    1
+   ],
+   [
+    "tide pool life",
+    2
+   ]
+  ],
+  "clash": []
+ },
+ "cockle": {
+  "also": [
+   [
+    "shellfish",
+    2
+   ],
+   [
+    "mollusks",
+    3
+   ]
+  ],
+  "clash": []
+ },
+ "cowrie": {
+  "also": [
+   [
+    "hidden animals",
+    3
+   ]
+  ],
+  "clash": [
+   "historic coins"
+  ]
+ },
+ "whelk": {
+  "also": [
+   [
+    "shellfish",
+    2
+   ],
+   [
+    "mollusks",
+    3
+   ],
+   [
+    "hidden animals",
+    3
+   ]
+  ],
+  "clash": []
+ },
+ "abalone": {
+  "also": [
+   [
+    "shellfish",
+    2
+   ],
+   [
+    "mollusks",
+    3
+   ],
+   [
+    "hidden numbers",
+    3
+   ]
+  ],
+  "clash": []
+ },
+ "nautilus": {
+  "also": [
+   [
+    "cephalopods",
+    2
+   ],
+   [
+    "mollusks",
+    3
+   ],
+   [
+    "famous ships",
+    3
+   ]
+  ],
+  "clash": []
+ },
+ "limpet": {
+  "also": [
+   [
+    "mollusks",
+    2
+   ],
+   [
+    "tide pool life",
+    1
+   ]
+  ],
+  "clash": []
+ },
+ "sand dollar": {
+  "also": [],
+  "clash": [
+   "coins",
+   "currencies"
+  ]
+ },
+ "winkle": {
+  "also": [
+   [
+    "shellfish",
+    3
+   ],
+   [
+    "tide pool life",
+    2
+   ]
+  ],
+  "clash": []
+ },
+ "razor clam": {
+  "also": [
+   [
+    "shellfish",
+    3
+   ]
+  ],
+  "clash": []
+ },
+ "cone shell": {
+  "also": [
+   [
+    "venomous animals",
+    4
+   ]
+  ],
+  "clash": []
+ },
+ "auger": {
+  "also": [
+   [
+    "hand tools",
+    3
+   ]
+  ],
+  "clash": []
+ },
+ "triton": {
+  "also": [
+   [
+    "greek gods",
+    3
+   ],
+   [
+    "moons",
+    3
+   ]
+  ],
+  "clash": []
+ },
+ "quahog": {
+  "also": [
+   [
+    "shellfish",
+    4
+   ]
+  ],
+  "clash": []
+ },
+ "geoduck": {
+  "also": [
+   [
+    "shellfish",
+    4
+   ]
+  ],
+  "clash": []
+ },
+ "argonaut": {
+  "also": [
+   [
+    "greek heroes",
+    3
+   ]
+  ],
+  "clash": []
+ },
+ "crab": {
+  "also": [
+   [
+    "crustaceans",
+    1
+   ],
+   [
+    "shellfish",
+    1
+   ],
+   [
+    "tide pool life",
+    1
+   ],
+   [
+    "animals with shells",
+    2
+   ],
+   [
+    "___cake",
+    3
+   ]
+  ],
+  "clash": [
+   "zodiac signs"
+  ]
+ },
+ "starfish": {
+  "also": [
+   [
+    "tide pool life",
+    1
+   ],
+   [
+    "reef life",
+    2
+   ]
+  ],
+  "clash": [
+   "star___",
+   "___fish"
+  ]
+ },
+ "shrimp": {
+  "also": [
+   [
+    "crustaceans",
+    1
+   ],
+   [
+    "shellfish",
+    1
+   ]
+  ],
+  "clash": [
+   "words for small"
+  ]
+ },
+ "sea anemone": {
+  "also": [
+   [
+    "tide pool life",
+    1
+   ],
+   [
+    "reef life",
+    2
+   ]
+  ],
+  "clash": []
+ },
+ "barnacle": {
+  "also": [
+   [
+    "crustaceans",
+    2
+   ],
+   [
+    "tide pool life",
+    1
+   ]
+  ],
+  "clash": []
+ },
+ "prawn": {
+  "also": [
+   [
+    "crustaceans",
+    1
+   ],
+   [
+    "shellfish",
+    1
+   ]
+  ],
+  "clash": []
+ },
+ "hermit crab": {
+  "also": [
+   [
+    "crustaceans",
+    2
+   ],
+   [
+    "tide pool life",
+    1
+   ]
+  ],
+  "clash": [
+   "small pets"
+  ]
+ },
+ "sea urchin": {
+  "also": [
+   [
+    "tide pool life",
+    1
+   ],
+   [
+    "prickly things",
+    1
+   ],
+   [
+    "reef life",
+    2
+   ]
+  ],
+  "clash": []
+ },
+ "seaweed": {
+  "also": [],
+  "clash": [
+   "seaweeds"
+  ]
+ },
+ "blenny": {
+  "also": [
+   [
+    "tide pool life",
+    3
+   ]
+  ],
+  "clash": []
+ },
+ "goby": {
+  "also": [
+   [
+    "tide pool life",
+    3
+   ]
+  ],
+  "clash": []
+ },
+ "sea slug": {
+  "also": [
+   [
+    "tide pool life",
+    2
+   ]
+  ],
+  "clash": []
+ },
+ "shore crab": {
+  "also": [
+   [
+    "crustaceans",
+    3
+   ],
+   [
+    "tide pool life",
+    2
+   ]
+  ],
+  "clash": []
+ },
+ "dog whelk": {
+  "also": [
+   [
+    "tide pool life",
+    3
+   ]
+  ],
+  "clash": []
+ },
+ "top shell": {
+  "also": [
+   [
+    "tide pool life",
+    3
+   ]
+  ],
+  "clash": []
+ },
+ "sponge": {
+  "also": [
+   [
+    "cleaning items",
+    1
+   ],
+   [
+    "cakes",
+    2
+   ],
+   [
+    "bath time",
+    2
+   ],
+   [
+    "soft things",
+    2
+   ],
+   [
+    "reef life",
+    2
+   ],
+   [
+    "___cake",
+    1
+   ]
+  ],
+  "clash": []
+ },
+ "sea squirt": {
+  "also": [
+   [
+    "tide pool life",
+    3
+   ]
+  ],
+  "clash": []
+ },
+ "brittle star": {
+  "also": [
+   [
+    "tide pool life",
+    3
+   ]
+  ],
+  "clash": []
+ },
+ "octopus": {
+  "also": [
+   [
+    "cephalopods",
+    1
+   ],
+   [
+    "mollusks",
+    2
+   ]
+  ],
+  "clash": []
+ },
+ "sea lettuce": {
+  "also": [
+   [
+    "seaweeds",
+    3
+   ]
+  ],
+  "clash": []
+ },
+ "bladderwrack": {
+  "also": [
+   [
+    "seaweeds",
+    2
+   ]
+  ],
+  "clash": []
+ },
+ "wrack": {
+  "also": [
+   [
+    "seaweeds",
+    3
+   ]
+  ],
+  "clash": []
+ },
+ "chiton": {
+  "also": [
+   [
+    "tide pool life",
+    3
+   ]
+  ],
+  "clash": []
+ },
+ "nudibranch": {
+  "also": [
+   [
+    "reef life",
+    3
+   ],
+   [
+    "tide pool life",
+    3
+   ]
+  ],
+  "clash": []
+ },
+ "sea hare": {
+  "also": [
+   [
+    "tide pool life",
+    4
+   ]
+  ],
+  "clash": []
+ },
+ "porcelain crab": {
+  "also": [
+   [
+    "crustaceans",
+    4
+   ]
+  ],
+  "clash": []
+ },
+ "velvet crab": {
+  "also": [
+   [
+    "crustaceans",
+    4
+   ]
+  ],
+  "clash": []
+ },
+ "edible crab": {
+  "also": [
+   [
+    "shellfish",
+    3
+   ],
+   [
+    "crustaceans",
+    3
+   ]
+  ],
+  "clash": []
+ },
+ "beadlet anemone": {
+  "also": [
+   [
+    "tide pool life",
+    3
+   ]
+  ],
+  "clash": []
+ },
+ "snakelocks anemone": {
+  "also": [
+   [
+    "tide pool life",
+    4
+   ]
+  ],
+  "clash": []
+ },
+ "cushion star": {
+  "also": [
+   [
+    "tide pool life",
+    4
+   ]
+  ],
+  "clash": []
+ },
+ "ragworm": {
+  "also": [],
+  "clash": [
+   "fishing tackle"
+  ]
+ },
+ "sea cucumber": {
+  "also": [
+   [
+    "tide pool life",
+    2
+   ],
+   [
+    "chinese food",
+    4
+   ]
+  ],
+  "clash": [
+   "vegetables"
+  ]
+ },
+ "jellyfish": {
+  "also": [
+   [
+    "things that sting",
+    1
+   ],
+   [
+    "venomous animals",
+    2
+   ]
+  ],
+  "clash": []
+ },
+ "kelp": {
+  "also": [
+   [
+    "seaweeds",
+    1
+   ]
+  ],
+  "clash": []
+ },
+ "cuttlebone": {
+  "also": [
+   [
+    "pet supplies",
+    3
+   ]
+  ],
+  "clash": []
+ },
+ "fossil": {
+  "also": [
+   [
+    "archaeology words",
+    2
+   ]
+  ],
+  "clash": []
+ },
+ "amber": {
+  "also": [
+   [
+    "gemstones",
+    2
+   ],
+   [
+    "shades of yellow",
+    2
+   ],
+   [
+    "shades of orange",
+    2
+   ],
+   [
+    "girls' names",
+    2
+   ],
+   [
+    "names that are gems",
+    1
+   ],
+   [
+    "traffic words",
+    2
+   ]
+  ],
+  "clash": []
+ },
+ "jet": {
+  "also": [
+   [
+    "gemstones",
+    3
+   ],
+   [
+    "black things",
+    2
+   ],
+   [
+    "aircraft types",
+    2
+   ]
+  ],
+  "clash": []
+ },
+ "fishing net": {
+  "also": [
+   [
+    "fishing tackle",
+    2
+   ]
+  ],
+  "clash": []
+ },
+ "rope": {
+  "also": [
+   [
+    "cords and strings",
+    1
+   ],
+   [
+    "climbing gear",
+    2
+   ]
+  ],
+  "clash": []
+ },
+ "buoy": {
+  "also": [
+   [
+    "homophones",
+    1
+   ]
+  ],
+  "clash": []
+ },
+ "feather": {
+  "also": [
+   [
+    "bird body parts",
+    1
+   ],
+   [
+    "animal coverings",
+    1
+   ],
+   [
+    "soft things",
+    1
+   ]
+  ],
+  "clash": []
+ },
+ "coral": {
+  "also": [
+   [
+    "reef life",
+    1
+   ],
+   [
+    "shades of pink",
+    1
+   ],
+   [
+    "shades of orange",
+    2
+   ]
+  ],
+  "clash": []
+ },
+ "nurdle": {
+  "also": [
+   [
+    "pollution words",
+    3
+   ]
+  ],
+  "clash": []
+ },
+ "pumice": {
+  "also": [
+   [
+    "volcano words",
+    2
+   ],
+   [
+    "igneous rocks",
+    2
+   ],
+   [
+    "things that float",
+    2
+   ]
+  ],
+  "clash": []
+ },
+ "hag stone": {
+  "also": [
+   [
+    "superstitions",
+    4
+   ]
+  ],
+  "clash": []
+ },
+ "ammonite": {
+  "also": [
+   [
+    "fossils",
+    1
+   ]
+  ],
+  "clash": []
+ },
+ "belemnite": {
+  "also": [
+   [
+    "fossils",
+    3
+   ]
+  ],
+  "clash": []
+ },
+ "agate": {
+  "also": [
+   [
+    "gemstones",
+    2
+   ],
+   [
+    "quartz varieties",
+    2
+   ]
+  ],
+  "clash": []
+ },
+ "carnelian": {
+  "also": [
+   [
+    "gemstones",
+    3
+   ],
+   [
+    "quartz varieties",
+    3
+   ]
+  ],
+  "clash": []
+ },
+ "bottle": {
+  "also": [
+   [
+    "containers",
+    1
+   ]
+  ],
+  "clash": []
+ },
+ "cape": {
+  "also": [
+   [
+    "coats and jackets",
+    2
+   ]
+  ],
+  "clash": []
+ },
+ "spit": {
+  "also": [],
+  "clash": [
+   "body actions",
+   "cookware"
+  ]
+ },
+ "stump": {
+  "also": [
+   [
+    "cricket terms",
+    2
+   ],
+   [
+    "tree parts",
+    2
+   ]
+  ],
+  "clash": []
+ },
+ "blowhole": {
+  "also": [
+   [
+    "animal body parts",
+    2
+   ]
+  ],
+  "clash": []
+ },
+ "shingle": {
+  "also": [
+   [
+    "roof parts",
+    2
+   ],
+   [
+    "hidden body parts",
+    2
+   ]
+  ],
+  "clash": []
+ },
+ "reef": {
+  "also": [],
+  "clash": [
+   "sailing words"
+  ]
+ },
+ "shoal": {
+  "also": [
+   [
+    "collective nouns",
+    2
+   ]
+  ],
+  "clash": []
+ },
+ "marram grass": {
+  "also": [
+   [
+    "grasses and reeds",
+    3
+   ]
+  ],
+  "clash": []
+ },
+ "thrift": {
+  "also": [],
+  "clash": [
+   "money words"
+  ]
+ },
+ "mangrove": {
+  "also": [
+   [
+    "tropical trees",
+    2
+   ],
+   [
+    "wetlands",
+    3
+   ]
+  ],
+  "clash": []
+ },
+ "sea buckthorn": {
+  "also": [
+   [
+    "berries",
+    4
+   ]
+  ],
+  "clash": []
+ },
+ "eelgrass": {
+  "also": [
+   [
+    "water plants",
+    3
+   ]
+  ],
+  "clash": []
+ },
+ "seagrass": {
+  "also": [
+   [
+    "water plants",
+    2
+   ]
+  ],
+  "clash": []
+ },
+ "ice plant": {
+  "also": [
+   [
+    "cacti and succulents",
+    3
+   ]
+  ],
+  "clash": []
+ },
+ "pigface": {
+  "also": [
+   [
+    "cacti and succulents",
+    4
+   ]
+  ],
+  "clash": []
+ },
+ "coconut palm": {
+  "also": [
+   [
+    "tropical trees",
+    1
+   ]
+  ],
+  "clash": []
+ },
+ "El Niño": {
+  "also": [
+   [
+    "climate words",
+    2
+   ]
+  ],
+  "clash": []
+ },
+ "La Niña": {
+  "also": [
+   [
+    "climate words",
+    2
+   ]
+  ],
+  "clash": []
+ },
+ "maelstrom": {
+  "also": [],
+  "clash": [
+   "sea monsters"
+  ]
+ },
+ "longshore drift": {
+  "also": [
+   [
+    "erosion words",
+    2
+   ]
+  ],
+  "clash": []
+ },
+ "storm surge": {
+  "also": [
+   [
+    "natural disasters",
+    3
+   ]
+  ],
+  "clash": []
+ },
+ "foghorn": {
+  "also": [
+   [
+    "loud things",
+    1
+   ]
+  ],
+  "clash": []
+ },
+ "coastguard": {
+  "also": [],
+  "clash": [
+   "emergency vehicles"
+  ]
+ },
+ "Mayday": {
+  "also": [
+   [
+    "codes and signals",
+    1
+   ]
+  ],
+  "clash": []
+ },
+ "flare": {
+  "also": [
+   [
+    "emergency supplies",
+    2
+   ]
+  ],
+  "clash": []
+ },
+ "smuggler": {
+  "also": [],
+  "clash": [
+   "pirate words",
+   "crimes"
+  ]
+ },
+ "surf": {
+  "also": [
+   [
+    "internet words",
+    3
+   ],
+   [
+    "___board",
+    1
+   ]
+  ],
+  "clash": []
+ },
+ "ghost ship": {
+  "also": [
+   [
+    "ghosts and spirits",
+    3
+   ]
+  ],
+  "clash": []
+ },
+ "galleon": {
+  "also": [
+   [
+    "sailing ships",
+    1
+   ],
+   [
+    "pirate ships",
+    1
+   ]
+  ],
+  "clash": []
+ },
+ "figurehead": {
+  "also": [
+   [
+    "ship parts",
+    2
+   ]
+  ],
+  "clash": []
+ },
+ "anchor": {
+  "also": [
+   [
+    "ship parts",
+    1
+   ],
+   [
+    "tv words",
+    3
+   ]
+  ],
+  "clash": []
+ },
+ "mast": {
+  "also": [
+   [
+    "ship parts",
+    1
+   ],
+   [
+    "sailing words",
+    1
+   ]
+  ],
+  "clash": []
+ },
+ "hull": {
+  "also": [
+   [
+    "ship parts",
+    1
+   ],
+   [
+    "british cities",
+    2
+   ]
+  ],
+  "clash": []
+ },
+ "Skeleton Coast": {
+  "also": [
+   [
+    "african national parks",
+    4
+   ]
+  ],
+  "clash": []
+ },
+ "Davy Jones's locker": {
+  "also": [
+   [
+    "pirate words",
+    2
+   ]
+  ],
+  "clash": []
+ },
+ "lighthouse": {
+  "also": [
+   [
+    "ports and harbors",
+    2
+   ]
+  ],
+  "clash": []
+ },
+ "sunshine": {
+  "also": [
+   [
+    "terms of endearment",
+    3
+   ],
+   [
+    "things that glow",
+    3
+   ],
+   [
+    "hidden body parts",
+    3
+   ]
+  ],
+  "clash": []
+ },
+ "smog": {
+  "also": [
+   [
+    "pollution words",
+    1
+   ],
+   [
+    "portmanteau words",
+    2
+   ]
+  ],
+  "clash": []
+ },
+ "heat wave": {
+  "also": [
+   [
+    "words for hot",
+    3
+   ],
+   [
+    "climate words",
+    3
+   ]
+  ],
+  "clash": [
+   "hot things"
+  ]
+ },
+ "drought": {
+  "also": [
+   [
+    "climate words",
+    2
+   ],
+   [
+    "natural disasters",
+    2
+   ],
+   [
+    "dry season",
+    1
+   ]
+  ],
+  "clash": []
+ },
+ "dry spell": {
+  "also": [
+   [
+    "dry season",
+    2
+   ]
+  ],
+  "clash": []
+ },
+ "humid": {
+  "also": [
+   [
+    "words for hot",
+    2
+   ],
+   [
+    "monsoon season",
+    2
+   ]
+  ],
+  "clash": []
+ },
+ "muggy": {
+  "also": [
+   [
+    "words for hot",
+    2
+   ]
+  ],
+  "clash": []
+ },
+ "sultry": {
+  "also": [
+   [
+    "words for hot",
+    2
+   ]
+  ],
+  "clash": []
+ },
+ "balmy": {
+  "also": [
+   [
+    "words for hot",
+    1
+   ]
+  ],
+  "clash": []
+ },
+ "scorching": {
+  "also": [
+   [
+    "words for hot",
+    1
+   ],
+   [
+    "hidden body parts",
+    3
+   ]
+  ],
+  "clash": []
+ },
+ "sweltering": {
+  "also": [
+   [
+    "words for hot",
+    1
+   ]
+  ],
+  "clash": []
+ },
+ "chilly": {
+  "also": [
+   [
+    "words for cold",
+    1
+   ]
+  ],
+  "clash": []
+ },
+ "nippy": {
+  "also": [
+   [
+    "words for cold",
+    1
+   ]
+  ],
+  "clash": []
+ },
+ "warm": {
+  "also": [
+   [
+    "words for hot",
+    2
+   ]
+  ],
+  "clash": []
+ },
+ "cool": {
+  "also": [
+   [
+    "words for cold",
+    2
+   ],
+   [
+    "words for good",
+    2
+   ]
+  ],
+  "clash": []
+ },
+ "cold": {
+  "also": [
+   [
+    "words for cold",
+    1
+   ],
+   [
+    "common illnesses",
+    1
+   ]
+  ],
+  "clash": []
+ },
+ "hot": {
+  "also": [
+   [
+    "words for hot",
+    1
+   ],
+   [
+    "spicy foods",
+    3
+   ],
+   [
+    "taste words",
+    2
+   ]
+  ],
+  "clash": []
+ },
+ "dry": {
+  "also": [
+   [
+    "wine words",
+    2
+   ]
+  ],
+  "clash": []
+ },
+ "fine": {
+  "also": [
+   [
+    "words for good",
+    2
+   ],
+   [
+    "punishments",
+    2
+   ]
+  ],
+  "clash": []
+ },
+ "fair": {
+  "also": [
+   [
+    "words for pretty",
+    2
+   ]
+  ],
+  "clash": []
+ },
+ "gloomy": {
+  "also": [
+   [
+    "sad words",
+    2
+   ],
+   [
+    "words for dark",
+    2
+   ]
+  ],
+  "clash": []
+ },
+ "bright": {
+  "also": [
+   [
+    "words for smart",
+    1
+   ],
+   [
+    "words for shiny",
+    1
+   ]
+  ],
+  "clash": []
+ },
+ "crisp": {
+  "also": [
+   [
+    "snacks",
+    2
+   ],
+   [
+    "texture words",
+    2
+   ]
+  ],
+  "clash": []
+ },
+ "dull": {
+  "also": [],
+  "clash": [
+   "sad words"
+  ]
+ },
+ "dreary": {
+  "also": [
+   [
+    "sad words",
+    3
+   ],
+   [
+    "hidden body parts",
+    3
+   ]
+  ],
+  "clash": []
+ },
+ "heat": {
+  "also": [],
+  "clash": [
+   "words for hot"
+  ]
+ },
+ "Indian summer": {
+  "also": [],
+  "clash": [
+   "signs of autumn"
+  ]
+ },
+ "dew": {
+  "also": [],
+  "clash": [
+   "homophones"
+  ]
+ },
+ "rain": {
+  "also": [
+   [
+    "homophones",
+    1
+   ]
+  ],
+  "clash": []
+ },
+ "drizzle": {
+  "also": [],
+  "clash": [
+   "baking words"
+  ]
+ },
+ "shower": {
+  "also": [
+   [
+    "bathroom",
+    1
+   ],
+   [
+    "bathroom fixtures",
+    1
+   ]
+  ],
+  "clash": []
+ },
+ "downpour": {
+  "also": [
+   [
+    "monsoon season",
+    1
+   ]
+  ],
+  "clash": []
+ },
+ "sprinkle": {
+  "also": [],
+  "clash": [
+   "toppings"
+  ]
+ },
+ "monsoon": {
+  "also": [
+   [
+    "seasons",
+    2
+   ],
+   [
+    "monsoon season",
+    1
+   ]
+  ],
+  "clash": []
+ },
+ "puddle": {
+  "also": [
+   [
+    "monsoon season",
+    2
+   ]
+  ],
+  "clash": []
+ },
+ "flood": {
+  "also": [
+   [
+    "natural disasters",
+    1
+   ],
+   [
+    "monsoon season",
+    1
+   ],
+   [
+    "___light",
+    2
+   ]
+  ],
+  "clash": []
+ },
+ "flash flood": {
+  "also": [
+   [
+    "natural disasters",
+    2
+   ]
+  ],
+  "clash": []
+ },
+ "acid rain": {
+  "also": [
+   [
+    "pollution words",
+    1
+   ]
+  ],
+  "clash": []
+ },
+ "petrichor": {
+  "also": [
+   [
+    "smell words",
+    3
+   ],
+   [
+    "things that smell good",
+    3
+   ]
+  ],
+  "clash": []
+ },
+ "pitter-patter": {
+  "also": [
+   [
+    "onomatopoeia",
+    2
+   ],
+   [
+    "water sounds",
+    1
+   ]
+  ],
+  "clash": []
+ },
+ "wet season": {
+  "also": [
+   [
+    "monsoon season",
+    2
+   ]
+  ],
+  "clash": []
+ },
+ "rainy season": {
+  "also": [
+   [
+    "monsoon season",
+    2
+   ]
+  ],
+  "clash": []
+ },
+ "dreich": {
+  "also": [
+   [
+    "scottish words",
+    1
+   ]
+  ],
+  "clash": []
+ },
+ "smirr": {
+  "also": [
+   [
+    "scottish words",
+    4
+   ]
+  ],
+  "clash": []
+ },
+ "precipitation": {
+  "also": [
+   [
+    "water cycle words",
+    1
+   ]
+  ],
+  "clash": []
+ },
+ "cats and dogs": {
+  "also": [],
+  "clash": [
+   "figures of speech"
+  ]
+ },
+ "draft": {
+  "also": [],
+  "clash": [
+   "beers"
+  ]
+ },
+ "zephyr": {
+  "also": [
+   [
+    "words from mythology",
+    3
+   ]
+  ],
+  "clash": []
+ },
+ "calm": {
+  "also": [
+   [
+    "calm words",
+    1
+   ]
+  ],
+  "clash": []
+ },
+ "doldrums": {
+  "also": [
+   [
+    "sailing words",
+    3
+   ]
+  ],
+  "clash": [
+   "sad words"
+  ]
+ },
+ "trade wind": {
+  "also": [
+   [
+    "age of sail",
+    3
+   ]
+  ],
+  "clash": []
+ },
+ "headwind": {
+  "also": [
+   [
+    "cycling words",
+    3
+   ]
+  ],
+  "clash": []
+ },
+ "knots": {
+  "also": [
+   [
+    "sailing words",
+    2
+   ]
+  ],
+  "clash": []
+ },
+ "roaring forties": {
+  "also": [
+   [
+    "age of sail",
+    3
+   ]
+  ],
+  "clash": []
+ },
+ "hurricane": {
+  "also": [
+   [
+    "natural disasters",
+    1
+   ]
+  ],
+  "clash": []
+ },
+ "tornado": {
+  "also": [
+   [
+    "natural disasters",
+    1
+   ],
+   [
+    "prairie",
+    2
+   ]
+  ],
+  "clash": []
+ },
+ "cyclone": {
+  "also": [
+   [
+    "natural disasters",
+    1
+   ],
+   [
+    "hidden numbers",
+    3
+   ]
+  ],
+  "clash": []
+ },
+ "typhoon": {
+  "also": [
+   [
+    "natural disasters",
+    2
+   ]
+  ],
+  "clash": []
+ },
+ "sandstorm": {
+  "also": [
+   [
+    "desert travel",
+    3
+   ]
+  ],
+  "clash": []
+ },
+ "tempest": {
+  "also": [
+   [
+    "shakespeare plays",
+    1
+   ]
+  ],
+  "clash": []
+ },
+ "twister": {
+  "also": [
+   [
+    "party games",
+    1
+   ]
+  ],
+  "clash": []
+ },
+ "thunder": {
+  "also": [
+   [
+    "loud things",
+    1
+   ],
+   [
+    "___bird",
+    3
+   ]
+  ],
+  "clash": []
+ },
+ "lightning": {
+  "also": [
+   [
+    "fast things",
+    2
+   ]
+  ],
+  "clash": []
+ },
+ "firestorm": {
+  "also": [
+   [
+    "wildfire words",
+    3
+   ]
+  ],
+  "clash": []
+ },
+ "willy-willy": {
+  "also": [
+   [
+    "australian slang",
+    4
+   ]
+  ],
+  "clash": []
+ },
+ "blizzard": {
+  "also": [
+   [
+    "extreme cold words",
+    3
+   ],
+   [
+    "hidden names",
+    3
+   ]
+  ],
+  "clash": []
+ },
+ "anvil": {
+  "also": [
+   [
+    "ear parts",
+    3
+   ]
+  ],
+  "clash": [
+   "hand tools"
+  ]
+ },
+ "morning glory": {
+  "also": [
+   [
+    "vines and climbers",
+    2
+   ],
+   [
+    "garden flowers",
+    3
+   ]
+  ],
+  "clash": []
+ },
+ "snow": {
+  "also": [
+   [
+    "white things",
+    1
+   ],
+   [
+    "cold things",
+    1
+   ],
+   [
+    "___ball",
+    1
+   ],
+   [
+    "___man",
+    1
+   ],
+   [
+    "___board",
+    2
+   ]
+  ],
+  "clash": []
+ },
+ "ice": {
+  "also": [
+   [
+    "cold things",
+    1
+   ],
+   [
+    "things that melt",
+    1
+   ],
+   [
+    "___box",
+    2
+   ]
+  ],
+  "clash": []
+ },
+ "hail": {
+  "also": [
+   [
+    "greetings",
+    3
+   ]
+  ],
+  "clash": []
+ },
+ "snowflake": {
+  "also": [
+   [
+    "christmas",
+    2
+   ]
+  ],
+  "clash": [
+   "gen z slang"
+  ]
+ },
+ "icicle": {
+  "also": [
+   [
+    "cold things",
+    2
+   ],
+   [
+    "ice words",
+    1
+   ]
+  ],
+  "clash": []
+ },
+ "slush": {
+  "also": [],
+  "clash": [
+   "frozen desserts"
+  ]
+ },
+ "rime": {
+  "also": [
+   [
+    "homophones",
+    2
+   ]
+  ],
+  "clash": []
+ },
+ "avalanche": {
+  "also": [
+   [
+    "natural disasters",
+    2
+   ]
+  ],
+  "clash": []
+ },
+ "powder": {
+  "also": [
+   [
+    "skiing words",
+    1
+   ],
+   [
+    "makeup",
+    2
+   ]
+  ],
+  "clash": []
+ },
+ "glaze": {
+  "also": [
+   [
+    "pottery words",
+    2
+   ],
+   [
+    "baking words",
+    2
+   ]
+  ],
+  "clash": []
+ },
+ "cornice": {
+  "also": [
+   [
+    "architectural features",
+    3
+   ]
+  ],
+  "clash": []
+ },
+ "icy": {
+  "also": [
+   [
+    "words for cold",
+    1
+   ],
+   [
+    "ice words",
+    2
+   ]
+  ],
+  "clash": []
+ },
+ "frosty": {
+  "also": [
+   [
+    "words for cold",
+    1
+   ]
+  ],
+  "clash": []
+ },
+ "frozen": {
+  "also": [
+   [
+    "words for cold",
+    2
+   ]
+  ],
+  "clash": []
+ },
+ "Jack Frost": {
+  "also": [
+   [
+    "christmas",
+    3
+   ]
+  ],
+  "clash": []
+ },
+ "black ice": {
+  "also": [
+   [
+    "ice words",
+    2
+   ]
+  ],
+  "clash": []
+ },
+ "frost": {
+  "also": [
+   [
+    "ice words",
+    2
+   ]
+  ],
+  "clash": []
+ },
+ "floe": {
+  "also": [
+   [
+    "ice words",
+    2
+   ]
+  ],
+  "clash": []
+ },
+ "permafrost": {
+  "also": [
+   [
+    "ice words",
+    3
+   ],
+   [
+    "climate words",
+    3
+   ]
+  ],
+  "clash": []
+ },
+ "thermometer": {
+  "also": [
+   [
+    "measuring instruments",
+    1
+   ],
+   [
+    "medical equipment",
+    1
+   ],
+   [
+    "first aid",
+    2
+   ]
+  ],
+  "clash": []
+ },
+ "barometer": {
+  "also": [
+   [
+    "measuring instruments",
+    2
+   ]
+  ],
+  "clash": []
+ },
+ "anemometer": {
+  "also": [
+   [
+    "measuring instruments",
+    3
+   ]
+  ],
+  "clash": []
+ },
+ "rain gauge": {
+  "also": [
+   [
+    "measuring instruments",
+    3
+   ]
+  ],
+  "clash": []
+ },
+ "weather vane": {
+  "also": [
+   [
+    "roof parts",
+    3
+   ]
+  ],
+  "clash": []
+ },
+ "windsock": {
+  "also": [
+   [
+    "airport words",
+    3
+   ]
+  ],
+  "clash": []
+ },
+ "hygrometer": {
+  "also": [
+   [
+    "measuring instruments",
+    3
+   ]
+  ],
+  "clash": []
+ },
+ "psychrometer": {
+  "also": [
+   [
+    "measuring instruments",
+    4
+   ]
+  ],
+  "clash": []
+ },
+ "pluviometer": {
+  "also": [
+   [
+    "measuring instruments",
+    4
+   ]
+  ],
+  "clash": []
+ },
+ "aneroid": {
+  "also": [
+   [
+    "measuring instruments",
+    4
+   ]
+  ],
+  "clash": []
+ },
+ "weather balloon": {
+  "also": [
+   [
+    "things that fly",
+    3
+   ]
+  ],
+  "clash": []
+ },
+ "weather satellite": {
+  "also": [],
+  "clash": [
+   "space vehicles"
+  ]
+ },
+ "mistral": {
+  "also": [
+   [
+    "wind words",
+    3
+   ]
+  ],
+  "clash": []
+ },
+ "sirocco": {
+  "also": [
+   [
+    "wind words",
+    3
+   ]
+  ],
+  "clash": []
+ },
+ "chinook": {
+  "also": [
+   [
+    "wind words",
+    3
+   ],
+   [
+    "salmon and trout",
+    3
+   ],
+   [
+    "hidden body parts",
+    3
+   ]
+  ],
+  "clash": [
+   "military vehicles"
+  ]
+ },
+ "foehn": {
+  "also": [
+   [
+    "wind words",
+    4
+   ]
+  ],
+  "clash": []
+ },
+ "harmattan": {
+  "also": [
+   [
+    "wind words",
+    4
+   ]
+  ],
+  "clash": []
+ },
+ "haboob": {
+  "also": [
+   [
+    "storms",
+    3
+   ],
+   [
+    "wind words",
+    4
+   ]
+  ],
+  "clash": []
+ },
+ "sundowner": {
+  "also": [],
+  "clash": [
+   "cocktails"
+  ]
+ },
+ "ghibli": {
+  "also": [
+   [
+    "anime and manga words",
+    3
+   ]
+  ],
+  "clash": []
+ },
+ "buran": {
+  "also": [
+   [
+    "space vehicles",
+    4
+   ]
+  ],
+  "clash": []
+ },
+ "humidity": {
+  "also": [
+   [
+    "monsoon season",
+    2
+   ]
+  ],
+  "clash": []
+ },
+ "wind chill": {
+  "also": [
+   [
+    "extreme cold words",
+    1
+   ]
+  ],
+  "clash": []
+ },
+ "depression": {
+  "also": [
+   [
+    "mental health words",
+    1
+   ],
+   [
+    "sad words",
+    2
+   ]
+  ],
+  "clash": []
+ },
+ "trough": {
+  "also": [
+   [
+    "farm",
+    3
+   ]
+  ],
+  "clash": []
+ },
+ "probability": {
+  "also": [
+   [
+    "statistics words",
+    1
+   ]
+  ],
+  "clash": []
+ },
+ "pollen count": {
+  "also": [
+   [
+    "allergies",
+    3
+   ]
+  ],
+  "clash": []
+ },
+ "air quality": {
+  "also": [
+   [
+    "pollution words",
+    2
+   ]
+  ],
+  "clash": []
+ },
+ "Celsius": {
+  "also": [
+   [
+    "temperature words",
+    1
+   ],
+   [
+    "units named after people",
+    2
+   ]
+  ],
+  "clash": []
+ },
+ "Fahrenheit": {
+  "also": [
+   [
+    "temperature words",
+    1
+   ],
+   [
+    "units named after people",
+    2
+   ]
+  ],
+  "clash": []
+ },
+ "weather map": {
+  "also": [
+   [
+    "kinds of maps",
+    2
+   ]
+  ],
+  "clash": []
+ },
+ "synoptic chart": {
+  "also": [
+   [
+    "kinds of maps",
+    4
+   ]
+  ],
+  "clash": []
+ },
+ "meteorologist": {
+  "also": [
+   [
+    "science jobs",
+    2
+   ]
+  ],
+  "clash": []
+ },
+ "temperature": {
+  "also": [
+   [
+    "temperature words",
+    2
+   ],
+   [
+    "hidden animals",
+    2
+   ]
+  ],
+  "clash": [
+   "symptoms"
+  ]
+ },
+ "pressure": {
+  "also": [
+   [
+    "physics words",
+    2
+   ],
+   [
+    "forces",
+    3
+   ]
+  ],
+  "clash": []
+ },
+ "front": {
+  "also": [
+   [
+    "water___",
+    3
+   ]
+  ],
+  "clash": [
+   "war words"
+  ]
+ },
+ "rainbow": {
+  "also": [
+   [
+    "rain___",
+    1
+   ]
+  ],
+  "clash": []
+ },
+ "aurora": {
+  "also": [
+   [
+    "girls' names",
+    2
+   ]
+  ],
+  "clash": []
+ },
+ "mirage": {
+  "also": [
+   [
+    "desert travel",
+    2
+   ]
+  ],
+  "clash": []
+ },
+ "halo": {
+  "also": [
+   [
+    "angels and spirits",
+    2
+   ]
+  ],
+  "clash": []
+ },
+ "shooting star": {
+  "also": [
+   [
+    "astronomy terms",
+    2
+   ],
+   [
+    "space rocks",
+    3
+   ]
+  ],
+  "clash": []
+ },
+ "eclipse": {
+  "also": [
+   [
+    "astronomy terms",
+    1
+   ],
+   [
+    "hidden body parts",
+    2
+   ]
+  ],
+  "clash": []
+ },
+ "corona": {
+  "also": [
+   [
+    "beers",
+    2
+   ],
+   [
+    "astronomy terms",
+    3
+   ]
+  ],
+  "clash": [
+   "viruses"
+  ]
+ },
+ "twilight": {
+  "also": [
+   [
+    "times of day",
+    1
+   ]
+  ],
+  "clash": []
+ },
+ "meteor shower": {
+  "also": [
+   [
+    "astronomy terms",
+    2
+   ],
+   [
+    "space rocks",
+    3
+   ]
+  ],
+  "clash": []
+ },
+ "blood moon": {
+  "also": [
+   [
+    "moon phases",
+    3
+   ]
+  ],
+  "clash": []
+ },
+ "supermoon": {
+  "also": [
+   [
+    "moon phases",
+    2
+   ]
+  ],
+  "clash": []
+ },
+ "lunar eclipse": {
+  "also": [
+   [
+    "astronomy terms",
+    2
+   ]
+  ],
+  "clash": []
+ },
+ "solar eclipse": {
+  "also": [
+   [
+    "astronomy terms",
+    2
+   ]
+  ],
+  "clash": []
+ },
+ "St Elmo's fire": {
+  "also": [
+   [
+    "age of sail",
+    4
+   ]
+  ],
+  "clash": []
+ },
+ "Jacob's ladder": {
+  "also": [],
+  "clash": [
+   "toys"
+  ]
+ },
+ "glory": {
+  "also": [],
+  "clash": [
+   "words for good"
+  ]
+ },
+ "whiteout": {
+  "also": [
+   [
+    "extreme cold words",
+    1
+   ]
+  ],
+  "clash": []
+ },
+ "katabatic wind": {
+  "also": [
+   [
+    "wind words",
+    3
+   ]
+  ],
+  "clash": []
+ },
+ "diamond dust": {
+  "also": [
+   [
+    "ice words",
+    4
+   ]
+  ],
+  "clash": []
+ },
+ "polar night": {
+  "also": [
+   [
+    "extreme cold words",
+    1
+   ]
+  ],
+  "clash": []
+ },
+ "ozone hole": {
+  "also": [
+   [
+    "climate words",
+    2
+   ],
+   [
+    "pollution words",
+    2
+   ]
+  ],
+  "clash": []
+ },
+ "polar vortex": {
+  "also": [
+   [
+    "extreme cold words",
+    3
+   ]
+  ],
+  "clash": []
+ },
+ "nacreous cloud": {
+  "also": [
+   [
+    "cloud types",
+    2
+   ]
+  ],
+  "clash": []
+ },
+ "extreme cold": {
+  "also": [
+   [
+    "extreme cold words",
+    2
+   ]
+  ],
+  "clash": []
+ },
+ "midnight sun": {
+  "also": [],
+  "clash": [
+   "polar regions"
+  ]
+ },
+ "lambs": {
+  "also": [
+   [
+    "baby animals",
+    1
+   ]
+  ],
+  "clash": []
+ },
+ "daffodils": {
+  "also": [
+   [
+    "spring flowers",
+    1
+   ],
+   [
+    "easter",
+    3
+   ]
+  ],
+  "clash": [
+   "national flowers"
+  ]
+ },
+ "snowdrops": {
+  "also": [
+   [
+    "spring flowers",
+    1
+   ]
+  ],
+  "clash": []
+ },
+ "crocuses": {
+  "also": [
+   [
+    "spring flowers",
+    1
+   ]
+  ],
+  "clash": []
+ },
+ "tulips": {
+  "also": [
+   [
+    "spring flowers",
+    1
+   ],
+   [
+    "hidden body parts",
+    2
+   ]
+  ],
+  "clash": []
+ },
+ "bluebells": {
+  "also": [
+   [
+    "spring flowers",
+    1
+   ],
+   [
+    "wildflowers",
+    1
+   ]
+  ],
+  "clash": []
+ },
+ "primroses": {
+  "also": [
+   [
+    "spring flowers",
+    2
+   ],
+   [
+    "wildflowers",
+    2
+   ]
+  ],
+  "clash": []
+ },
+ "catkins": {
+  "also": [
+   [
+    "tree parts",
+    3
+   ]
+  ],
+  "clash": [
+   "hidden animals"
+  ]
+ },
+ "frogspawn": {
+  "also": [
+   [
+    "pond",
+    1
+   ],
+   [
+    "pond life",
+    2
+   ]
+  ],
+  "clash": []
+ },
+ "tadpoles": {
+  "also": [
+   [
+    "pond",
+    1
+   ],
+   [
+    "pond life",
+    1
+   ],
+   [
+    "baby animals",
+    2
+   ],
+   [
+    "life cycle words",
+    2
+   ]
+  ],
+  "clash": []
+ },
+ "cuckoo": {
+  "also": [
+   [
+    "words for strange",
+    2
+   ]
+  ],
+  "clash": [
+   "clock types"
+  ]
+ },
+ "chicks": {
+  "also": [
+   [
+    "baby animals",
+    1
+   ],
+   [
+    "easter",
+    1
+   ]
+  ],
+  "clash": []
+ },
+ "ducklings": {
+  "also": [
+   [
+    "baby animals",
+    1
+   ]
+  ],
+  "clash": []
+ },
+ "cherry blossom": {
+  "also": [
+   [
+    "flowers of east asia",
+    2
+   ],
+   [
+    "spring flowers",
+    2
+   ]
+  ],
+  "clash": []
+ },
+ "magnolia": {
+  "also": [
+   [
+    "garden flowers",
+    3
+   ]
+  ],
+  "clash": []
+ },
+ "forsythia": {
+  "also": [
+   [
+    "spring flowers",
+    3
+   ]
+  ],
+  "clash": []
+ },
+ "lambing": {
+  "also": [
+   [
+    "farm",
+    3
+   ]
+  ],
+  "clash": []
+ },
+ "hyacinths": {
+  "also": [
+   [
+    "spring flowers",
+    2
+   ]
+  ],
+  "clash": []
+ },
+ "wild garlic": {
+  "also": [],
+  "clash": [
+   "onion family"
+  ]
+ },
+ "celandine": {
+  "also": [
+   [
+    "wildflowers",
+    3
+   ],
+   [
+    "spring flowers",
+    3
+   ]
+  ],
+  "clash": []
+ },
+ "wood anemones": {
+  "also": [
+   [
+    "wildflowers",
+    3
+   ],
+   [
+    "spring flowers",
+    3
+   ]
+  ],
+  "clash": []
+ },
+ "cowslips": {
+  "also": [
+   [
+    "wildflowers",
+    3
+   ],
+   [
+    "spring flowers",
+    3
+   ]
+  ],
+  "clash": []
+ },
+ "violets": {
+  "also": [
+   [
+    "wildflowers",
+    2
+   ],
+   [
+    "spring flowers",
+    2
+   ]
+  ],
+  "clash": []
+ },
+ "equinox": {
+  "also": [
+   [
+    "seasons",
+    1
+   ],
+   [
+    "astronomy terms",
+    3
+   ],
+   [
+    "hidden animals",
+    3
+   ]
+  ],
+  "clash": []
+ },
+ "blackthorn": {
+  "also": [
+   [
+    "hedge plants",
+    2
+   ]
+  ],
+  "clash": []
+ },
+ "bees": {
+  "also": [
+   [
+    "meadow",
+    1
+   ],
+   [
+    "pollinators",
+    1
+   ]
+  ],
+  "clash": []
+ },
+ "hay": {
+  "also": [
+   [
+    "farm",
+    1
+   ],
+   [
+    "meadow",
+    1
+   ]
+  ],
+  "clash": []
+ },
+ "sunflowers": {
+  "also": [
+   [
+    "summer flowers",
+    1
+   ]
+  ],
+  "clash": []
+ },
+ "strawberries": {
+  "also": [
+   [
+    "berries",
+    1
+   ],
+   [
+    "red things",
+    1
+   ]
+  ],
+  "clash": []
+ },
+ "butterflies": {
+  "also": [
+   [
+    "meadow",
+    1
+   ],
+   [
+    "pollinators",
+    1
+   ]
+  ],
+  "clash": []
+ },
+ "dragonflies": {
+  "also": [
+   [
+    "pond",
+    1
+   ]
+  ],
+  "clash": []
+ },
+ "roses": {
+  "also": [
+   [
+    "garden flowers",
+    1
+   ],
+   [
+    "valentine's day",
+    1
+   ],
+   [
+    "bouquet flowers",
+    1
+   ],
+   [
+    "summer flowers",
+    1
+   ]
+  ],
+  "clash": []
+ },
+ "poppies": {
+  "also": [
+   [
+    "meadow",
+    1
+   ],
+   [
+    "wildflowers",
+    1
+   ],
+   [
+    "anzac day",
+    2
+   ],
+   [
+    "summer flowers",
+    1
+   ]
+  ],
+  "clash": []
+ },
+ "midges": {
+  "also": [
+   [
+    "biting bugs",
+    1
+   ]
+  ],
+  "clash": []
+ },
+ "mosquitoes": {
+  "also": [
+   [
+    "biting bugs",
+    1
+   ],
+   [
+    "hidden body parts",
+    3
+   ]
+  ],
+  "clash": []
+ },
+ "wasps": {
+  "also": [
+   [
+    "things that sting",
+    1
+   ]
+  ],
+  "clash": []
+ },
+ "haymaking": {
+  "also": [
+   [
+    "farm",
+    3
+   ]
+  ],
+  "clash": []
+ },
+ "elderflower": {
+  "also": [
+   [
+    "edible flowers",
+    2
+   ]
+  ],
+  "clash": [
+   "soft drinks"
+  ]
+ },
+ "foxgloves": {
+  "also": [
+   [
+    "wildflowers",
+    2
+   ]
+  ],
+  "clash": []
+ },
+ "solstice": {
+  "also": [
+   [
+    "seasons",
+    1
+   ]
+  ],
+  "clash": []
+ },
+ "cherries": {
+  "also": [
+   [
+    "stone fruits",
+    1
+   ],
+   [
+    "red things",
+    1
+   ]
+  ],
+  "clash": []
+ },
+ "acorns": {
+  "also": [
+   [
+    "things that fall from trees",
+    1
+   ]
+  ],
+  "clash": [
+   "nuts"
+  ]
+ },
+ "conkers": {
+  "also": [
+   [
+    "things that fall from trees",
+    1
+   ]
+  ],
+  "clash": []
+ },
+ "migration": {
+  "also": [
+   [
+    "dry season",
+    3
+   ],
+   [
+    "hidden animals",
+    3
+   ]
+  ],
+  "clash": []
+ },
+ "blackberries": {
+  "also": [
+   [
+    "berries",
+    1
+   ]
+  ],
+  "clash": []
+ },
+ "pumpkins": {
+  "also": [
+   [
+    "halloween",
+    1
+   ],
+   [
+    "squashes",
+    1
+   ],
+   [
+    "thanksgiving",
+    2
+   ]
+  ],
+  "clash": []
+ },
+ "chestnuts": {
+  "also": [
+   [
+    "nuts",
+    2
+   ],
+   [
+    "christmas",
+    3
+   ],
+   [
+    "hidden body parts",
+    2
+   ]
+  ],
+  "clash": []
+ },
+ "hazelnuts": {
+  "also": [
+   [
+    "nuts",
+    1
+   ]
+  ],
+  "clash": []
+ },
+ "sloes": {
+  "also": [
+   [
+    "berries",
+    3
+   ]
+  ],
+  "clash": []
+ },
+ "cobwebs": {
+  "also": [
+   [
+    "halloween",
+    2
+   ]
+  ],
+  "clash": []
+ },
+ "toadstools": {
+  "also": [
+   [
+    "forest floor",
+    2
+   ]
+  ],
+  "clash": [
+   "fairy folk",
+   "poisonous plants"
+  ]
+ },
+ "beechnuts": {
+  "also": [
+   [
+    "things that fall from trees",
+    3
+   ],
+   [
+    "hidden insects",
+    3
+   ]
+  ],
+  "clash": []
+ },
+ "windfalls": {
+  "also": [],
+  "clash": [
+   "money words"
+  ]
+ },
+ "icicles": {
+  "also": [
+   [
+    "cold things",
+    2
+   ]
+  ],
+  "clash": []
+ },
+ "holly": {
+  "also": [
+   [
+    "christmas",
+    1
+   ],
+   [
+    "evergreen trees",
+    2
+   ],
+   [
+    "hedge plants",
+    2
+   ],
+   [
+    "girls' names",
+    2
+   ],
+   [
+    "names that are trees",
+    2
+   ]
+  ],
+  "clash": []
+ },
+ "mistletoe": {
+  "also": [
+   [
+    "christmas",
+    1
+   ],
+   [
+    "poisonous plants",
+    3
+   ],
+   [
+    "hidden body parts",
+    2
+   ]
+  ],
+  "clash": []
+ },
+ "ivy": {
+  "also": [
+   [
+    "vines and climbers",
+    1
+   ],
+   [
+    "christmas",
+    2
+   ],
+   [
+    "girls' names",
+    2
+   ]
+  ],
+  "clash": []
+ },
+ "robins": {
+  "also": [
+   [
+    "christmas",
+    2
+   ],
+   [
+    "hidden names",
+    3
+   ]
+  ],
+  "clash": []
+ },
+ "chilblains": {
+  "also": [
+   [
+    "cold weather ailments",
+    1
+   ]
+  ],
+  "clash": []
+ },
+ "owls": {
+  "also": [
+   [
+    "nocturnal animals",
+    1
+   ]
+  ],
+  "clash": []
+ },
+ "bats": {
+  "also": [
+   [
+    "nocturnal animals",
+    1
+   ],
+   [
+    "halloween",
+    1
+   ]
+  ],
+  "clash": []
+ },
+ "moths": {
+  "also": [
+   [
+    "nocturnal animals",
+    2
+   ]
+  ],
+  "clash": []
+ },
+ "fireflies": {
+  "also": [
+   [
+    "things that glow",
+    1
+   ],
+   [
+    "nocturnal animals",
+    2
+   ]
+  ],
+  "clash": [
+   "beetles"
+  ]
+ },
+ "glowworms": {
+  "also": [
+   [
+    "things that glow",
+    1
+   ],
+   [
+    "beetles",
+    4
+   ]
+  ],
+  "clash": []
+ },
+ "hedgehogs": {
+  "also": [
+   [
+    "nocturnal animals",
+    1
+   ],
+   [
+    "hibernating animals",
+    1
+   ],
+   [
+    "british wildlife",
+    1
+   ]
+  ],
+  "clash": []
+ },
+ "badgers": {
+  "also": [
+   [
+    "nocturnal animals",
+    1
+   ],
+   [
+    "weasel family",
+    2
+   ],
+   [
+    "british wildlife",
+    1
+   ]
+  ],
+  "clash": []
+ },
+ "foxes": {
+  "also": [
+   [
+    "nocturnal animals",
+    2
+   ],
+   [
+    "city animals",
+    2
+   ]
+  ],
+  "clash": []
+ },
+ "moon": {
+  "also": [
+   [
+    "things that glow",
+    1
+   ],
+   [
+    "___light",
+    1
+   ]
+  ],
+  "clash": []
+ },
+ "Milky Way": {
+  "also": [
+   [
+    "galaxies and nebulae",
+    1
+   ],
+   [
+    "american candy",
+    2
+   ],
+   [
+    "chocolates",
+    3
+   ]
+  ],
+  "clash": []
+ },
+ "lightning bugs": {
+  "also": [
+   [
+    "things that glow",
+    2
+   ]
+  ],
+  "clash": []
+ },
+ "will-o'-the-wisp": {
+  "also": [
+   [
+    "ghosts and spirits",
+    2
+   ],
+   [
+    "celtic folklore",
+    3
+   ]
+  ],
+  "clash": []
+ },
+ "raccoons": {
+  "also": [
+   [
+    "nocturnal animals",
+    1
+   ],
+   [
+    "north american animals",
+    2
+   ]
+  ],
+  "clash": []
+ },
+ "opossums": {
+  "also": [
+   [
+    "nocturnal animals",
+    2
+   ],
+   [
+    "north american animals",
+    2
+   ]
+  ],
+  "clash": []
+ },
+ "water": {
+  "also": [
+   [
+    "chemical compounds",
+    2
+   ],
+   [
+    "rain___",
+    2
+   ],
+   [
+    "back___",
+    3
+   ]
+  ],
+  "clash": [
+   "drinks"
+  ]
+ },
+ "shell": {
+  "also": [
+   [
+    "sea___",
+    1
+   ],
+   [
+    "___fish",
+    1
+   ],
+   [
+    "animal coverings",
+    2
+   ]
+  ],
+  "clash": [
+   "seashells"
+  ]
+ },
+ "wash": {
+  "also": [
+   [
+    "cleaning verbs",
+    1
+   ],
+   [
+    "laundry words",
+    2
+   ],
+   [
+    "back___",
+    3
+   ]
+  ],
+  "clash": []
+ },
+ "treasure": {
+  "also": [
+   [
+    "pirate words",
+    1
+   ]
+  ],
+  "clash": []
+ },
+ "bush": {
+  "also": [
+   [
+    "us presidents",
+    2
+   ]
+  ],
+  "clash": []
+ },
+ "clip": {
+  "also": [
+   [
+    "hair accessories",
+    2
+   ],
+   [
+    "___board",
+    1
+   ]
+  ],
+  "clash": []
+ },
+ "mice": {
+  "also": [
+   [
+    "rodents",
+    1
+   ],
+   [
+    "irregular plurals",
+    1
+   ],
+   [
+    "nocturnal animals",
+    2
+   ]
+  ],
+  "clash": []
+ },
+ "mushrooms": {
+  "also": [
+   [
+    "pizza toppings",
+    1
+   ],
+   [
+    "forest floor",
+    2
+   ]
+  ],
+  "clash": []
+ },
+ "geese": {
+  "also": [
+   [
+    "irregular plurals",
+    1
+   ],
+   [
+    "migrating animals",
+    1
+   ]
+  ],
+  "clash": []
+ },
+ "fungi": {
+  "also": [
+   [
+    "irregular plurals",
+    2
+   ],
+   [
+    "forest floor",
+    2
+   ]
+  ],
+  "clash": []
+ },
+ "torrent": {
+  "also": [
+   [
+    "internet words",
+    3
+   ]
+  ],
+  "clash": []
+ },
+ "orchard": {
+  "also": [
+   [
+    "farm",
+    2
+   ]
+  ],
+  "clash": []
+ },
+ "puff": {
+  "also": [
+   [
+    "___ball",
+    3
+   ]
+  ],
+  "clash": [
+   "pastries"
+  ]
+ },
+ "squirrels": {
+  "also": [
+   [
+    "woodland animals",
+    1
+   ]
+  ],
+  "clash": []
+ },
+ "wolves": {
+  "also": [
+   [
+    "wild dogs and foxes",
+    1
+   ],
+   [
+    "irregular plurals",
+    2
+   ],
+   [
+    "nocturnal animals",
+    2
+   ]
+  ],
+  "clash": []
+ },
+ "frogs": {
+  "also": [
+   [
+    "pond",
+    1
+   ],
+   [
+    "pond life",
+    1
+   ]
+  ],
+  "clash": []
+ },
+ "toads": {
+  "also": [
+   [
+    "pond",
+    2
+   ],
+   [
+    "pond life",
+    2
+   ]
+  ],
+  "clash": []
+ },
+ "storm": {
+  "also": [
+   [
+    "rain___",
+    1
+   ],
+   [
+    "snow___",
+    1
+   ]
+  ],
+  "clash": []
+ },
+ "drift": {
+  "also": [
+   [
+    "snow___",
+    1
+   ]
+  ],
+  "clash": []
+ },
+ "shore": {
+  "also": [
+   [
+    "sea___",
+    2
+   ]
+  ],
+  "clash": []
+ },
+ "hills": {
+  "also": [
+   [
+    "foot___",
+    2
+   ]
+  ],
+  "clash": []
+ },
+ "stars": {
+  "also": [
+   [
+    "things that glow",
+    2
+   ]
+  ],
+  "clash": []
+ },
+ "harbor": {
+  "also": [
+   [
+    "ports and harbors",
+    1
+   ]
+  ],
+  "clash": []
+ },
+ "buds": {
+  "also": [
+   [
+    "plant parts",
+    2
+   ]
+  ],
+  "clash": []
+ },
+ "strand": {
+  "also": [],
+  "clash": [
+   "hair"
+  ]
+ },
+ "swell": {
+  "also": [],
+  "clash": [
+   "words for good"
+  ]
+ },
+ "lifeboat": {
+  "also": [
+   [
+    "emergency vehicles",
+    3
+   ],
+   [
+    "small boats",
+    2
+   ]
+  ],
+  "clash": []
+ },
+ "thunderbolt": {
+  "also": [],
+  "clash": [
+   "norse gods"
+  ]
+ },
+ "coyotes": {
+  "also": [
+   [
+    "nocturnal animals",
+    2
+   ],
+   [
+    "wild dogs and foxes",
+    1
+   ]
+  ],
+  "clash": []
+ },
+ "weatherman": {
+  "also": [
+   [
+    "tv words",
+    3
+   ]
+  ],
+  "clash": []
+ },
+ "nightingales": {
+  "also": [
+   [
+    "songbirds",
+    2
+   ]
+  ],
+  "clash": []
+ },
+ "slugs": {
+  "also": [
+   [
+    "garden pests",
+    1
+   ],
+   [
+    "garden bugs",
+    1
+   ]
+  ],
+  "clash": []
+ },
+ "dormice": {
+  "also": [
+   [
+    "rodents",
+    2
+   ],
+   [
+    "hibernating animals",
+    1
+   ]
+  ],
+  "clash": []
+ },
+ "tawny owls": {
+  "also": [
+   [
+    "owls",
+    2
+   ]
+  ],
+  "clash": []
+ },
+ "barn owls": {
+  "also": [
+   [
+    "owls",
+    1
+   ]
+  ],
+  "clash": []
+ },
+ "crickets": {
+  "also": [
+   [
+    "garden bugs",
+    2
+   ]
+  ],
+  "clash": []
+ },
+ "swallows": {
+  "also": [
+   [
+    "migrating animals",
+    1
+   ]
+  ],
+  "clash": []
+ },
+ "swifts": {
+  "also": [
+   [
+    "migrating animals",
+    2
+   ]
+  ],
+  "clash": []
+ },
+ "redwings": {
+  "also": [
+   [
+    "migrating animals",
+    3
+   ]
+  ],
+  "clash": []
+ },
+ "fieldfares": {
+  "also": [
+   [
+    "migrating animals",
+    3
+   ]
+  ],
+  "clash": []
+ },
+ "apples": {
+  "also": [
+   [
+    "fruits",
+    1
+   ]
+  ],
+  "clash": []
+ },
+ "broomrape": {
+  "also": [
+   [
+    "hidden animals",
+    3
+   ]
+  ],
+  "clash": []
+ },
+ "aerator": {
+  "also": [
+   [
+    "hidden animals",
+    3
+   ]
+  ],
+  "clash": []
+ },
+ "kneeler": {
+  "also": [
+   [
+    "hidden animals",
+    3
+   ]
+  ],
+  "clash": []
+ },
+ "scarifier": {
+  "also": [
+   [
+    "hidden vehicles",
+    3
+   ]
+  ],
+  "clash": []
+ },
+ "birdbath": {
+  "also": [
+   [
+    "hidden animals",
+    3
+   ]
+  ],
+  "clash": []
+ },
+ "planter": {
+  "also": [
+   [
+    "hidden insects",
+    3
+   ]
+  ],
+  "clash": []
+ },
+ "spray": {
+  "also": [
+   [
+    "hidden names",
+    3
+   ]
+  ],
+  "clash": []
+ },
+ "sprayer": {
+  "also": [
+   [
+    "hidden names",
+    3
+   ]
+  ],
+  "clash": []
+ },
+ "scarify": {
+  "also": [
+   [
+    "hidden vehicles",
+    3
+   ]
+  ],
+  "clash": []
+ },
+ "aerate": {
+  "also": [
+   [
+    "hidden animals",
+    3
+   ]
+  ],
+  "clash": []
+ },
+ "xeriscape": {
+  "also": [
+   [
+    "hidden animals",
+    3
+   ]
+  ],
+  "clash": []
+ },
+ "archipelago": {
+  "also": [
+   [
+    "hidden body parts",
+    3
+   ]
+  ],
+  "clash": []
+ },
+ "snowline": {
+  "also": [
+   [
+    "hidden birds",
+    3
+   ]
+  ],
+  "clash": []
+ },
+ "tributary": {
+  "also": [
+   [
+    "hidden body parts",
+    3
+   ]
+  ],
+  "clash": []
+ },
+ "levee": {
+  "also": [
+   [
+    "hidden names",
+    3
+   ]
+  ],
+  "clash": []
+ },
+ "plunge pool": {
+  "also": [
+   [
+    "hidden body parts",
+    3
+   ]
+  ],
+  "clash": []
+ },
+ "erratic": {
+  "also": [
+   [
+    "hidden animals",
+    3
+   ]
+  ],
+  "clash": []
+ },
+ "drapery": {
+  "also": [
+   [
+    "hidden animals",
+    3
+   ]
+  ],
+  "clash": []
+ },
+ "savanna": {
+  "also": [
+   [
+    "hidden vehicles",
+    3
+   ],
+   [
+    "hidden names",
+    3
+   ]
+  ],
+  "clash": []
+ },
+ "firth": {
+  "also": [
+   [
+    "hidden trees",
+    3
+   ]
+  ],
+  "clash": []
+ },
+ "machair": {
+  "also": [
+   [
+    "hidden body parts",
+    3
+   ]
+  ],
+  "clash": []
+ },
+ "flotsam": {
+  "also": [
+   [
+    "hidden names",
+    3
+   ]
+  ],
+  "clash": []
+ },
+ "jetsam": {
+  "also": [
+   [
+    "hidden names",
+    3
+   ]
+  ],
+  "clash": []
+ },
+ "samphire": {
+  "also": [
+   [
+    "hidden names",
+    3
+   ]
+  ],
+  "clash": []
+ },
+ "cargo": {
+  "also": [
+   [
+    "hidden vehicles",
+    2
+   ]
+  ],
+  "clash": []
+ },
+ "clear": {
+  "also": [
+   [
+    "hidden body parts",
+    3
+   ]
+  ],
+  "clash": []
+ },
+ "soaked": {
+  "also": [
+   [
+    "hidden trees",
+    2
+   ]
+  ],
+  "clash": []
+ },
+ "lashing": {
+  "also": [
+   [
+    "hidden body parts",
+    3
+   ],
+   [
+    "hidden trees",
+    3
+   ]
+  ],
+  "clash": []
+ },
+ "howling": {
+  "also": [
+   [
+    "hidden birds",
+    2
+   ]
+  ],
+  "clash": []
+ },
+ "nimbus": {
+  "also": [
+   [
+    "hidden vehicles",
+    3
+   ]
+  ],
+  "clash": []
+ },
+ "hatching": {
+  "also": [
+   [
+    "hidden body parts",
+    3
+   ]
+  ],
+  "clash": []
+ },
+ "rosehips": {
+  "also": [
+   [
+    "hidden body parts",
+    3
+   ]
+  ],
+  "clash": []
+ }
+}

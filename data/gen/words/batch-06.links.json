@@ -1,0 +1,20503 @@
+{
+"Siamese": {
+"also": [],
+"clash": [
+"nationalities",
+"old country names",
+"thai food"
+]
+},
+"Persian": {
+"also": [
+[
+"middle eastern languages",
+2
+],
+[
+"nationalities",
+2
+]
+],
+"clash": [
+"ancient persia",
+"middle eastern animals",
+"persian food",
+"rugs and carpets"
+]
+},
+"Maine Coon": {
+"also": [],
+"clash": [
+"us states"
+]
+},
+"Sphynx": {
+"also": [],
+"clash": [
+"egyptian landmarks",
+"greek monsters",
+"mythical creatures"
+]
+},
+"Bengal": {
+"also": [],
+"clash": [
+"indian animals",
+"indian states"
+]
+},
+"Ragdoll": {
+"also": [],
+"clash": [
+"dolls and figures",
+"toys"
+]
+},
+"Burmese": {
+"also": [
+[
+"asian languages",
+3
+],
+[
+"nationalities",
+2
+]
+],
+"clash": [
+"everglades animals"
+]
+},
+"Russian Blue": {
+"also": [],
+"clash": [
+"shades of blue"
+]
+},
+"Manx": {
+"also": [
+[
+"celtic languages",
+4
+]
+],
+"clash": [
+"nationalities"
+]
+},
+"Abyssinian": {
+"also": [],
+"clash": [
+"african animals",
+"nationalities",
+"old country names"
+]
+},
+"Himalayan": {
+"also": [],
+"clash": [
+"himalayan animals"
+]
+},
+"Siberian": {
+"also": [],
+"clash": [
+"asian animals"
+]
+},
+"Norwegian Forest Cat": {
+"also": [],
+"clash": [
+"small wild cats"
+]
+},
+"Savannah": {
+"also": [
+[
+"american cities",
+3
+]
+],
+"clash": [
+"savanna",
+"savanna animals"
+]
+},
+"Turkish Angora": {
+"also": [],
+"clash": [
+"wool fabrics"
+]
+},
+"Egyptian Mau": {
+"also": [],
+"clash": [
+"ancient egypt"
+]
+},
+"Bombay": {
+"also": [
+[
+"old city names",
+2
+]
+],
+"clash": [
+"indian cities"
+]
+},
+"Munchkin": {
+"also": [],
+"clash": [
+"fairy tale characters"
+]
+},
+"Balinese": {
+"also": [
+[
+"nationalities",
+3
+]
+],
+"clash": []
+},
+"Somali": {
+"also": [
+[
+"african languages",
+3
+],
+[
+"nationalities",
+2
+]
+],
+"clash": []
+},
+"Ocicat": {
+"also": [],
+"clash": [
+"small wild cats"
+]
+},
+"Chartreux": {
+"also": [],
+"clash": [
+"liqueurs"
+]
+},
+"Singapura": {
+"also": [],
+"clash": [
+"asian capitals"
+]
+},
+"Havana Brown": {
+"also": [],
+"clash": [
+"shades of brown"
+]
+},
+"Snowshoe": {
+"also": [
+[
+"snow___",
+2
+]
+],
+"clash": [
+"winter sports"
+]
+},
+"Toyger": {
+"also": [],
+"clash": [
+"big cats"
+]
+},
+"Bambino": {
+"also": [
+[
+"words from italian",
+3
+]
+],
+"clash": [
+"baby talk"
+]
+},
+"Minuet": {
+"also": [
+[
+"classical forms",
+3
+],
+[
+"dances",
+2
+]
+],
+"clash": [
+"ballroom dances",
+"european folk dances"
+]
+},
+"Javanese": {
+"also": [
+[
+"asian languages",
+3
+],
+[
+"nationalities",
+3
+]
+],
+"clash": []
+},
+"Cymric": {
+"also": [],
+"clash": [
+"celtic languages"
+]
+},
+"Serengeti": {
+"also": [
+[
+"african national parks",
+2
+],
+[
+"famous natural features",
+3
+]
+],
+"clash": [
+"savanna",
+"savanna animals"
+]
+},
+"Aegean": {
+"also": [
+[
+"famous waters",
+2
+],
+[
+"oceans and seas",
+2
+]
+],
+"clash": [
+"greek islands"
+]
+},
+"Thai": {
+"also": [
+[
+"asian languages",
+2
+],
+[
+"nationalities",
+1
+]
+],
+"clash": [
+"thai food"
+]
+},
+"Angus": {
+"also": [
+[
+"boys' names",
+2
+]
+],
+"clash": [
+"scottish clan names"
+]
+},
+"Hereford": {
+"also": [
+[
+"british cities",
+3
+]
+],
+"clash": [
+"english counties"
+]
+},
+"Holstein": {
+"also": [],
+"clash": [
+"german states"
+]
+},
+"Jersey": {
+"also": [
+[
+"fabrics",
+3
+],
+[
+"famous islands",
+2
+],
+[
+"knitwear",
+2
+],
+[
+"sports clothing",
+2
+],
+[
+"tops",
+1
+]
+],
+"clash": [
+"places after new"
+]
+},
+"Longhorn": {
+"also": [],
+"clash": [
+"animals with horns"
+]
+},
+"Highland": {
+"also": [],
+"clash": [
+"highland games",
+"horses",
+"scottish landscape words"
+]
+},
+"Wagyu": {
+"also": [
+[
+"japanese food",
+2
+]
+],
+"clash": [
+"cuts of meat"
+]
+},
+"Guernsey": {
+"also": [
+[
+"famous islands",
+3
+],
+[
+"knitwear",
+3
+]
+],
+"clash": []
+},
+"Charolais": {
+"also": [],
+"clash": [
+"french regions"
+]
+},
+"Limousin": {
+"also": [
+[
+"french regions",
+3
+]
+],
+"clash": [
+"car types"
+]
+},
+"Brahman": {
+"also": [
+[
+"hinduism words",
+4
+]
+],
+"clash": []
+},
+"Friesian": {
+"also": [],
+"clash": [
+"germanic languages",
+"horses"
+]
+},
+"Belgian Blue": {
+"also": [],
+"clash": [
+"shades of blue"
+]
+},
+"Zebu": {
+"also": [
+[
+"wild cattle",
+3
+]
+],
+"clash": []
+},
+"Dexter": {
+"also": [
+[
+"boys' names",
+3
+]
+],
+"clash": []
+},
+"Devon": {
+"also": [
+[
+"english counties",
+2
+]
+],
+"clash": []
+},
+"Sussex": {
+"also": [
+[
+"english counties",
+2
+]
+],
+"clash": []
+},
+"Kerry": {
+"also": [
+[
+"girls' names",
+2
+],
+[
+"unisex names",
+2
+]
+],
+"clash": []
+},
+"Piedmontese": {
+"also": [],
+"clash": [
+"italian regions"
+]
+},
+"Watusi": {
+"also": [
+[
+"dances",
+4
+]
+],
+"clash": []
+},
+"Murray Grey": {
+"also": [],
+"clash": [
+"shades of gray"
+]
+},
+"Salers": {
+"also": [
+[
+"french cheeses",
+4
+]
+],
+"clash": []
+},
+"Nguni": {
+"also": [],
+"clash": [
+"african languages"
+]
+},
+"Afrikaner": {
+"also": [],
+"clash": [
+"nationalities",
+"words from afrikaans"
+]
+},
+"Normande": {
+"also": [],
+"clash": [
+"french regions"
+]
+},
+"Maine-Anjou": {
+"also": [],
+"clash": [
+"french regions"
+]
+},
+"Hungarian Grey": {
+"also": [],
+"clash": [
+"shades of gray"
+]
+},
+"Criollo": {
+"also": [],
+"clash": [
+"horses"
+]
+},
+"Hanwoo": {
+"also": [],
+"clash": [
+"korean food"
+]
+},
+"Leghorn": {
+"also": [
+[
+"historical hats",
+4
+]
+],
+"clash": [
+"italian cities"
+]
+},
+"Rhode Island Red": {
+"also": [],
+"clash": [
+"us states"
+]
+},
+"Plymouth Rock": {
+"also": [
+[
+"us landmarks",
+3
+]
+],
+"clash": []
+},
+"Brahma": {
+"also": [
+[
+"hindu gods",
+2
+]
+],
+"clash": []
+},
+"Cochin": {
+"also": [
+[
+"old city names",
+4
+]
+],
+"clash": [
+"indian cities"
+]
+},
+"Cornish": {
+"also": [
+[
+"celtic languages",
+3
+]
+],
+"clash": [
+"british food"
+]
+},
+"Easter Egger": {
+"also": [],
+"clash": [
+"easter"
+]
+},
+"Polish": {
+"also": [
+[
+"cleaning products",
+2
+],
+[
+"european languages",
+1
+],
+[
+"homographs",
+2
+],
+[
+"nationalities",
+1
+],
+[
+"slavic languages",
+2
+]
+],
+"clash": [
+"nail care"
+]
+},
+"Minorca": {
+"also": [
+[
+"famous islands",
+3
+]
+],
+"clash": [
+"spanish regions"
+]
+},
+"Ancona": {
+"also": [
+[
+"italian cities",
+3
+]
+],
+"clash": []
+},
+"Andalusian": {
+"also": [],
+"clash": [
+"horses",
+"spanish regions"
+]
+},
+"Hamburg": {
+"also": [
+[
+"european cities",
+1
+],
+[
+"foods named after places",
+2
+],
+[
+"german cities",
+1
+]
+],
+"clash": []
+},
+"New Hampshire": {
+"also": [
+[
+"places after new",
+1
+],
+[
+"us states",
+1
+]
+],
+"clash": []
+},
+"Delaware": {
+"also": [
+[
+"north american rivers",
+3
+],
+[
+"us states",
+1
+]
+],
+"clash": [
+"native north american languages"
+]
+},
+"Dominique": {
+"also": [
+[
+"girls' names",
+2
+]
+],
+"clash": []
+},
+"Pekin": {
+"also": [
+[
+"ducks",
+3
+],
+[
+"old city names",
+3
+]
+],
+"clash": []
+},
+"Frizzle": {
+"also": [],
+"clash": [
+"hairstyles"
+]
+},
+"Bresse": {
+"also": [],
+"clash": [
+"french regions"
+]
+},
+"Malay": {
+"also": [
+[
+"asian languages",
+2
+],
+[
+"nationalities",
+2
+]
+],
+"clash": []
+},
+"Sumatra": {
+"also": [
+[
+"famous islands",
+2
+],
+[
+"indonesian islands",
+2
+]
+],
+"clash": [
+"coffee words",
+"southeast asian animals"
+]
+},
+"Phoenix": {
+"also": [
+[
+"american cities",
+1
+],
+[
+"mythical creatures",
+1
+],
+[
+"winged beasts",
+1
+]
+],
+"clash": []
+},
+"Crèvecœur": {
+"also": [],
+"clash": [
+"words from french"
+]
+},
+"Scots Grey": {
+"also": [],
+"clash": [
+"shades of gray"
+]
+},
+"Buckeye": {
+"also": [
+[
+"north american trees",
+3
+]
+],
+"clash": [
+"nut trees"
+]
+},
+"Java": {
+"also": [
+[
+"coffee words",
+3
+],
+[
+"famous islands",
+2
+],
+[
+"indonesian islands",
+1
+],
+[
+"programming languages",
+1
+]
+],
+"clash": []
+},
+"Appenzeller": {
+"also": [
+[
+"hard cheeses",
+4
+]
+],
+"clash": []
+},
+"Merino": {
+"also": [
+[
+"wool fabrics",
+2
+]
+],
+"clash": []
+},
+"Suffolk": {
+"also": [
+[
+"english counties",
+2
+]
+],
+"clash": []
+},
+"Dorset": {
+"also": [
+[
+"english counties",
+2
+]
+],
+"clash": []
+},
+"Cheviot": {
+"also": [
+[
+"wool fabrics",
+4
+]
+],
+"clash": []
+},
+"Jacob": {
+"also": [
+[
+"biblical names",
+1
+],
+[
+"boys' names",
+1
+]
+],
+"clash": []
+},
+"Shetland": {
+"also": [
+[
+"wool fabrics",
+3
+]
+],
+"clash": [
+"horses"
+]
+},
+"Wensleydale": {
+"also": [
+[
+"hard cheeses",
+3
+]
+],
+"clash": []
+},
+"Leicester": {
+"also": [
+[
+"british cities",
+2
+]
+],
+"clash": [
+"hard cheeses"
+]
+},
+"Lincoln": {
+"also": [
+[
+"american car brands",
+2
+],
+[
+"american cities",
+3
+],
+[
+"british cities",
+2
+],
+[
+"car brands",
+2
+],
+[
+"us presidents",
+1
+]
+],
+"clash": []
+},
+"Hampshire": {
+"also": [
+[
+"english counties",
+2
+]
+],
+"clash": []
+},
+"Shropshire": {
+"also": [
+[
+"english counties",
+2
+]
+],
+"clash": []
+},
+"Karakul": {
+"also": [],
+"clash": [
+"historical hats",
+"wool fabrics"
+]
+},
+"Icelandic": {
+"also": [
+[
+"european languages",
+2
+],
+[
+"germanic languages",
+3
+],
+[
+"nationalities",
+2
+]
+],
+"clash": [
+"horses"
+]
+},
+"Romanov": {
+"also": [
+[
+"dynasties",
+2
+],
+[
+"royal houses",
+2
+]
+],
+"clash": []
+},
+"Columbia": {
+"also": [
+[
+"north american rivers",
+3
+]
+],
+"clash": []
+},
+"Dartmoor": {
+"also": [],
+"clash": [
+"horses"
+]
+},
+"St Croix": {
+"also": [],
+"clash": [
+"caribbean islands"
+]
+},
+"Tunis": {
+"also": [
+[
+"african capitals",
+3
+],
+[
+"capital cities",
+3
+]
+],
+"clash": []
+},
+"Portland": {
+"also": [
+[
+"american cities",
+2
+],
+[
+"building stones",
+4
+]
+],
+"clash": []
+},
+"sled dog": {
+"also": [
+[
+"polar expedition gear",
+3
+],
+[
+"polar travel",
+2
+]
+],
+"clash": [
+"working dogs"
+]
+},
+"ox": {
+"also": [
+[
+"chinese zodiac",
+1
+],
+[
+"farm",
+1
+],
+[
+"farm animals",
+1
+],
+[
+"hoofed mammals",
+2
+],
+[
+"wild cattle",
+2
+]
+],
+"clash": [
+"animals with horns",
+"male animals"
+]
+},
+"camel": {
+"also": [
+[
+"animal-powered travel",
+1
+],
+[
+"desert",
+1
+],
+[
+"desert travel",
+1
+],
+[
+"hoofed mammals",
+2
+],
+[
+"shades of brown",
+3
+],
+[
+"yoga poses",
+3
+]
+],
+"clash": [
+"african animals",
+"middle eastern animals"
+]
+},
+"sheepdog": {
+"also": [
+[
+"farm",
+1
+],
+[
+"farm animals",
+2
+],
+[
+"herding dogs",
+1
+]
+],
+"clash": []
+},
+"police dog": {
+"also": [
+[
+"police words",
+2
+]
+],
+"clash": []
+},
+"mule": {
+"also": [
+[
+"animal-powered travel",
+2
+],
+[
+"farm",
+2
+],
+[
+"farm animals",
+2
+],
+[
+"shoes",
+3
+]
+],
+"clash": [
+"horses"
+]
+},
+"donkey": {
+"also": [
+[
+"animal-powered travel",
+2
+],
+[
+"farm",
+1
+],
+[
+"farm animals",
+1
+]
+],
+"clash": [
+"horses"
+]
+},
+"police horse": {
+"also": [
+[
+"police words",
+3
+]
+],
+"clash": []
+},
+"draft horse": {
+"also": [],
+"clash": [
+"horse breeds"
+]
+},
+"pack horse": {
+"also": [
+[
+"animal-powered travel",
+2
+]
+],
+"clash": []
+},
+"cart horse": {
+"also": [],
+"clash": [
+"horse-drawn vehicles"
+]
+},
+"plow horse": {
+"also": [
+[
+"farm animals",
+2
+]
+],
+"clash": []
+},
+"sniffer dog": {
+"also": [
+[
+"police words",
+2
+]
+],
+"clash": [
+"airport words"
+]
+},
+"herding dog": {
+"also": [],
+"clash": [
+"herding dogs"
+]
+},
+"carrier pigeon": {
+"also": [
+[
+"old ways to communicate",
+1
+]
+],
+"clash": [
+"city animals"
+]
+},
+"homing pigeon": {
+"also": [
+[
+"old ways to communicate",
+2
+]
+],
+"clash": [
+"migrating animals"
+]
+},
+"elephant": {
+"also": [
+[
+"animals with tusks",
+1
+],
+[
+"asian animals",
+2
+],
+[
+"heavy things",
+1
+],
+[
+"huge things",
+1
+],
+[
+"indian animals",
+2
+],
+[
+"savanna",
+1
+]
+],
+"clash": []
+},
+"water buffalo": {
+"also": [
+[
+"animals with horns",
+2
+],
+[
+"asian animals",
+2
+],
+[
+"hoofed mammals",
+2
+],
+[
+"southeast asian animals",
+2
+],
+[
+"wild cattle",
+1
+]
+],
+"clash": [
+"farm animals",
+"indian animals"
+]
+},
+"yak": {
+"also": [
+[
+"animals with horns",
+2
+],
+[
+"hoofed mammals",
+2
+],
+[
+"mountain animals",
+1
+],
+[
+"wild cattle",
+2
+]
+],
+"clash": [
+"farm animals"
+]
+},
+"llama": {
+"also": [
+[
+"andes",
+1
+],
+[
+"farm",
+3
+],
+[
+"farm animals",
+2
+],
+[
+"hoofed mammals",
+3
+],
+[
+"mountain animals",
+2
+]
+],
+"clash": [
+"animal-powered travel"
+]
+},
+"reindeer": {
+"also": [
+[
+"animals with horns",
+1
+],
+[
+"christmas",
+1
+],
+[
+"deer",
+1
+],
+[
+"migrating animals",
+2
+],
+[
+"polar regions",
+1
+]
+],
+"clash": [
+"farm animals"
+]
+},
+"pack mule": {
+"also": [
+[
+"animal-powered travel",
+2
+]
+],
+"clash": [
+"horse family"
+]
+},
+"hunting dog": {
+"also": [
+[
+"hunting words",
+2
+]
+],
+"clash": [
+"hounds",
+"sporting dogs"
+]
+},
+"tracker dog": {
+"also": [],
+"clash": [
+"safari words"
+]
+},
+"cattle dog": {
+"also": [],
+"clash": [
+"herding dogs"
+]
+},
+"gun dog": {
+"also": [
+[
+"hunting words",
+3
+]
+],
+"clash": [
+"sporting dogs"
+]
+},
+"falcon": {
+"also": [
+[
+"birds of prey",
+1
+],
+[
+"fast animals",
+1
+],
+[
+"hunting words",
+3
+]
+],
+"clash": []
+},
+"hawk": {
+"also": [
+[
+"birds of prey",
+1
+]
+],
+"clash": []
+},
+"ferret": {
+"also": [
+[
+"pets",
+1
+],
+[
+"small pets",
+1
+],
+[
+"weasel family",
+1
+]
+],
+"clash": []
+},
+"pit pony": {
+"also": [
+[
+"mining words",
+3
+]
+],
+"clash": [
+"pony breeds"
+]
+},
+"burro": {
+"also": [],
+"clash": [
+"horses"
+]
+},
+"dromedary": {
+"also": [
+[
+"desert",
+2
+],
+[
+"hoofed mammals",
+3
+],
+[
+"horse family",
+4
+]
+],
+"clash": []
+},
+"bullock": {
+"also": [
+[
+"farm",
+2
+],
+[
+"farm animals",
+2
+]
+],
+"clash": [
+"male animals"
+]
+},
+"helper monkey": {
+"also": [],
+"clash": [
+"monkeys"
+]
+},
+"warhorse": {
+"also": [],
+"clash": [
+"knights",
+"medieval times"
+]
+},
+"cavalry horse": {
+"also": [],
+"clash": [
+"army words",
+"military units"
+]
+},
+"canary": {
+"also": [
+[
+"finches",
+2
+],
+[
+"pets",
+1
+],
+[
+"shades of yellow",
+2
+],
+[
+"songbirds",
+1
+],
+[
+"yellow things",
+2
+]
+],
+"clash": [
+"famous islands",
+"mining words"
+]
+},
+"ranch horse": {
+"also": [],
+"clash": [
+"cowboy words"
+]
+},
+"ratter": {
+"also": [],
+"clash": [
+"terriers"
+]
+},
+"war elephant": {
+"also": [],
+"clash": [
+"ancient battles"
+]
+},
+"dray horse": {
+"also": [],
+"clash": [
+"horse-drawn vehicles"
+]
+},
+"hinny": {
+"also": [],
+"clash": [
+"horses"
+]
+},
+"cormorant": {
+"also": [
+[
+"seabirds",
+2
+],
+[
+"waterbirds",
+2
+]
+],
+"clash": []
+},
+"cutting horse": {
+"also": [],
+"clash": [
+"rodeo words"
+]
+},
+"carabao": {
+"also": [
+[
+"wild cattle",
+4
+]
+],
+"clash": [
+"southeast asian animals"
+]
+},
+"K-9": {
+"also": [
+[
+"police words",
+3
+]
+],
+"clash": []
+},
+"pony": {
+"also": [
+[
+"farm",
+2
+],
+[
+"horse family",
+2
+],
+[
+"money slang",
+3
+]
+],
+"clash": [
+"farm animals",
+"small pets"
+]
+},
+"foal": {
+"also": [
+[
+"baby animals",
+1
+],
+[
+"farm",
+2
+]
+],
+"clash": []
+},
+"mare": {
+"also": [
+[
+"female animals",
+1
+]
+],
+"clash": []
+},
+"stallion": {
+"also": [
+[
+"male animals",
+1
+]
+],
+"clash": []
+},
+"colt": {
+"also": [
+[
+"baby animals",
+2
+],
+[
+"male animals",
+2
+]
+],
+"clash": [
+"modern weapons"
+]
+},
+"gallop": {
+"also": [
+[
+"animal movements",
+1
+],
+[
+"horse riding words",
+1
+]
+],
+"clash": [
+"ways of walking"
+]
+},
+"trot": {
+"also": [
+[
+"animal movements",
+1
+],
+[
+"horse riding words",
+1
+]
+],
+"clash": [
+"ways of walking"
+]
+},
+"jockey": {
+"also": [
+[
+"horse racing terms",
+1
+]
+],
+"clash": [
+"underwear"
+]
+},
+"horseshoe": {
+"also": [
+[
+"superstitions",
+2
+]
+],
+"clash": [
+"yard games"
+]
+},
+"filly": {
+"also": [
+[
+"baby animals",
+2
+],
+[
+"female animals",
+2
+]
+],
+"clash": []
+},
+"gelding": {
+"also": [
+[
+"male animals",
+2
+]
+],
+"clash": []
+},
+"stud": {
+"also": [
+[
+"jewelry",
+2
+],
+[
+"male animals",
+2
+],
+[
+"poker terms",
+3
+]
+],
+"clash": [
+"animal homes",
+"fixings"
+]
+},
+"nag": {
+"also": [],
+"clash": [
+"ways of speaking"
+]
+},
+"mount": {
+"also": [
+[
+"horse riding words",
+2
+]
+],
+"clash": [
+"mountain features"
+]
+},
+"bronco": {
+"also": [
+[
+"famous car models",
+3
+],
+[
+"rodeo words",
+1
+]
+],
+"clash": []
+},
+"racehorse": {
+"also": [
+[
+"horse racing terms",
+1
+]
+],
+"clash": [
+"horse breeds"
+]
+},
+"canter": {
+"also": [
+[
+"animal movements",
+2
+],
+[
+"horse riding words",
+1
+]
+],
+"clash": []
+},
+"neigh": {
+"also": [
+[
+"animal sounds",
+1
+]
+],
+"clash": [
+"homophones"
+]
+},
+"whinny": {
+"also": [
+[
+"animal sounds",
+1
+]
+],
+"clash": []
+},
+"equestrian": {
+"also": [
+[
+"olympic sports",
+3
+]
+],
+"clash": [
+"equestrian events"
+]
+},
+"stable": {
+"also": [
+[
+"animal homes",
+1
+],
+[
+"farm",
+1
+],
+[
+"farm buildings",
+1
+],
+[
+"horse riding words",
+1
+]
+],
+"clash": []
+},
+"paddock": {
+"also": [
+[
+"farm",
+2
+],
+[
+"horse racing terms",
+2
+],
+[
+"motor racing",
+3
+]
+],
+"clash": [
+"farm buildings"
+]
+},
+"stall": {
+"also": [
+[
+"farm buildings",
+3
+],
+[
+"street market",
+2
+]
+],
+"clash": [
+"animal homes",
+"theater building parts"
+]
+},
+"dressage": {
+"also": [
+[
+"equestrian events",
+1
+],
+[
+"horse riding words",
+2
+],
+[
+"olympic sports",
+2
+]
+],
+"clash": []
+},
+"show jumping": {
+"also": [
+[
+"equestrian events",
+1
+],
+[
+"horse riding words",
+2
+],
+[
+"olympic sports",
+2
+]
+],
+"clash": []
+},
+"rodeo": {
+"also": [
+[
+"cowboy words",
+1
+],
+[
+"rodeo words",
+1
+],
+[
+"wild west",
+2
+]
+],
+"clash": []
+},
+"polo": {
+"also": [
+[
+"ball sports",
+2
+],
+[
+"horse and animal sports",
+1
+],
+[
+"team ball sports",
+2
+]
+],
+"clash": [
+"necklines",
+"tops"
+]
+},
+"yearling": {
+"also": [
+[
+"baby animals",
+3
+]
+],
+"clash": []
+},
+"broodmare": {
+"also": [
+[
+"female animals",
+3
+]
+],
+"clash": []
+},
+"charger": {
+"also": [
+[
+"phone words",
+2
+],
+[
+"table setting",
+3
+],
+[
+"things you plug in",
+1
+]
+],
+"clash": [
+"knights"
+]
+},
+"hack": {
+"also": [
+[
+"horse riding words",
+3
+]
+],
+"clash": [
+"coding words",
+"cybersecurity words"
+]
+},
+"cob": {
+"also": [
+[
+"male animals",
+3
+]
+],
+"clash": [
+"breads"
+]
+},
+"hunter": {
+"also": [
+[
+"hunting words",
+2
+]
+],
+"clash": [
+"jobs",
+"old-time jobs"
+]
+},
+"packhorse": {
+"also": [
+[
+"animal-powered travel",
+2
+]
+],
+"clash": []
+},
+"lope": {
+"also": [
+[
+"animal movements",
+2
+]
+],
+"clash": [
+"ways of walking"
+]
+},
+"amble": {
+"also": [
+[
+"ways of walking",
+1
+]
+],
+"clash": [
+"animal movements"
+]
+},
+"nicker": {
+"also": [
+[
+"animal sounds",
+3
+],
+[
+"money slang",
+4
+]
+],
+"clash": [
+"underwear"
+]
+},
+"snort": {
+"also": [
+[
+"animal sounds",
+2
+],
+[
+"body noises",
+2
+]
+],
+"clash": []
+},
+"buck": {
+"also": [
+[
+"male animals",
+1
+],
+[
+"money slang",
+1
+]
+],
+"clash": [
+"deer",
+"rodeo words"
+]
+},
+"rear": {
+"also": [],
+"clash": [
+"body parts"
+]
+},
+"farrier": {
+"also": [
+[
+"animal jobs",
+2
+],
+[
+"old-time jobs",
+2
+],
+[
+"trades",
+3
+]
+],
+"clash": []
+},
+"groom": {
+"also": [
+[
+"animal jobs",
+2
+],
+[
+"weddings",
+1
+]
+],
+"clash": []
+},
+"eventing": {
+"also": [
+[
+"equestrian events",
+2
+],
+[
+"olympic sports",
+3
+]
+],
+"clash": []
+},
+"steeplechase": {
+"also": [
+[
+"horse racing terms",
+2
+],
+[
+"track events",
+2
+]
+],
+"clash": []
+},
+"furlong": {
+"also": [
+[
+"imperial units",
+2
+],
+[
+"length units",
+2
+],
+[
+"old units",
+3
+]
+],
+"clash": []
+},
+"destrier": {
+"also": [],
+"clash": [
+"knights",
+"medieval times"
+]
+},
+"palfrey": {
+"also": [],
+"clash": [
+"medieval times"
+]
+},
+"trotter": {
+"also": [],
+"clash": [
+"cuts of meat"
+]
+},
+"dam": {
+"also": [
+[
+"female animals",
+3
+]
+],
+"clash": [
+"river features"
+]
+},
+"sire": {
+"also": [
+[
+"male animals",
+3
+]
+],
+"clash": [
+"royal titles"
+]
+},
+"hand": {
+"also": [
+[
+"body parts",
+1
+],
+[
+"card game words",
+2
+],
+[
+"clock parts",
+1
+],
+[
+"hands and feet",
+1
+],
+[
+"length units",
+4
+]
+],
+"clash": []
+},
+"livery": {
+"also": [],
+"clash": [
+"heraldry"
+]
+},
+"ostler": {
+"also": [
+[
+"old-time jobs",
+3
+]
+],
+"clash": [
+"hotel staff"
+]
+},
+"Arabian": {
+"also": [],
+"clash": [
+"arabian nights",
+"horses",
+"middle eastern animals",
+"nationalities"
+]
+},
+"Thoroughbred": {
+"also": [
+[
+"horse racing terms",
+2
+]
+],
+"clash": [
+"horses"
+]
+},
+"Mustang": {
+"also": [
+[
+"famous car models",
+1
+],
+[
+"north american animals",
+2
+]
+],
+"clash": [
+"american car brands",
+"horses",
+"wild west"
+]
+},
+"Clydesdale": {
+"also": [],
+"clash": [
+"horses"
+]
+},
+"Quarter Horse": {
+"also": [],
+"clash": [
+"horses"
+]
+},
+"Appaloosa": {
+"also": [
+[
+"spotted animals",
+3
+]
+],
+"clash": [
+"horses"
+]
+},
+"Shire": {
+"also": [],
+"clash": [
+"english counties",
+"horses",
+"legendary places"
+]
+},
+"Percheron": {
+"also": [],
+"clash": [
+"horses"
+]
+},
+"Lipizzaner": {
+"also": [],
+"clash": [
+"horses"
+]
+},
+"Morgan": {
+"also": [],
+"clash": [
+"boys' names",
+"famous pirates",
+"horses"
+]
+},
+"Tennessee Walker": {
+"also": [],
+"clash": [
+"horses",
+"us states"
+]
+},
+"Standardbred": {
+"also": [],
+"clash": [
+"horses"
+]
+},
+"Hanoverian": {
+"also": [
+[
+"royal houses",
+3
+]
+],
+"clash": [
+"horses"
+]
+},
+"Belgian": {
+"also": [
+[
+"nationalities",
+1
+]
+],
+"clash": [
+"horses"
+]
+},
+"Akhal-Teke": {
+"also": [],
+"clash": [
+"horses"
+]
+},
+"Lusitano": {
+"also": [],
+"clash": [
+"horses"
+]
+},
+"Haflinger": {
+"also": [],
+"clash": [
+"horses"
+]
+},
+"Fjord": {
+"also": [
+[
+"coastal features",
+1
+]
+],
+"clash": [
+"horses"
+]
+},
+"Paso Fino": {
+"also": [],
+"clash": [
+"horses"
+]
+},
+"Saddlebred": {
+"also": [],
+"clash": [
+"horses"
+]
+},
+"Brumby": {
+"also": [
+[
+"australian animals",
+2
+]
+],
+"clash": [
+"australian slang",
+"horses"
+]
+},
+"Gypsy Vanner": {
+"also": [],
+"clash": [
+"horses"
+]
+},
+"Hackney": {
+"also": [],
+"clash": [
+"horse-drawn vehicles",
+"horses",
+"london landmarks"
+]
+},
+"Falabella": {
+"also": [],
+"clash": [
+"horses"
+]
+},
+"Trakehner": {
+"also": [],
+"clash": [
+"horses"
+]
+},
+"Holsteiner": {
+"also": [],
+"clash": [
+"horses"
+]
+},
+"Oldenburg": {
+"also": [],
+"clash": [
+"horses"
+]
+},
+"Marwari": {
+"also": [
+[
+"languages of india",
+4
+]
+],
+"clash": [
+"horses"
+]
+},
+"Knabstrupper": {
+"also": [],
+"clash": [
+"horses"
+]
+},
+"Peruvian Paso": {
+"also": [],
+"clash": [
+"horses"
+]
+},
+"Camargue": {
+"also": [],
+"clash": [
+"french regions",
+"horses"
+]
+},
+"Barb": {
+"also": [],
+"clash": [
+"fishing tackle",
+"horses"
+]
+},
+"Ardennes": {
+"also": [
+[
+"famous forests",
+3
+]
+],
+"clash": [
+"horses",
+"world war ii battles"
+]
+},
+"Suffolk Punch": {
+"also": [],
+"clash": [
+"horses"
+]
+},
+"Irish Draft": {
+"also": [],
+"clash": [
+"horses"
+]
+},
+"Cleveland Bay": {
+"also": [],
+"clash": [
+"american cities",
+"horses"
+]
+},
+"Selle Français": {
+"also": [],
+"clash": [
+"horses"
+]
+},
+"Westphalian": {
+"also": [],
+"clash": [
+"horses"
+]
+},
+"Dutch Warmblood": {
+"also": [],
+"clash": [
+"horses"
+]
+},
+"Missouri Fox Trotter": {
+"also": [],
+"clash": [
+"horses"
+]
+},
+"Kladruber": {
+"also": [],
+"clash": [
+"horses"
+]
+},
+"Boulonnais": {
+"also": [],
+"clash": [
+"horses"
+]
+},
+"Breton": {
+"also": [
+[
+"celtic languages",
+3
+],
+[
+"nationalities",
+3
+]
+],
+"clash": [
+"horses"
+]
+},
+"Comtois": {
+"also": [],
+"clash": [
+"horses"
+]
+},
+"Noriker": {
+"also": [],
+"clash": [
+"horses"
+]
+},
+"Brabant": {
+"also": [],
+"clash": [
+"horses"
+]
+},
+"Swedish Warmblood": {
+"also": [],
+"clash": [
+"horses"
+]
+},
+"Danish Warmblood": {
+"also": [],
+"clash": [
+"horses"
+]
+},
+"Mangalarga": {
+"also": [],
+"clash": [
+"horses"
+]
+},
+"Azteca": {
+"also": [],
+"clash": [
+"aztecs and maya",
+"horses"
+]
+},
+"Kathiawari": {
+"also": [],
+"clash": [
+"horses"
+]
+},
+"Waler": {
+"also": [],
+"clash": [
+"horses"
+]
+},
+"Budyonny": {
+"also": [],
+"clash": [
+"horses"
+]
+},
+"Orlov Trotter": {
+"also": [],
+"clash": [
+"horses"
+]
+},
+"Karabakh": {
+"also": [],
+"clash": [
+"horses"
+]
+},
+"Turkoman": {
+"also": [],
+"clash": [
+"horses",
+"nationalities",
+"rugs and carpets"
+]
+},
+"Kabardin": {
+"also": [],
+"clash": [
+"horses"
+]
+},
+"Yakut": {
+"also": [
+[
+"turkic languages",
+4
+]
+],
+"clash": [
+"horses"
+]
+},
+"Jutland": {
+"also": [
+[
+"famous battles",
+4
+],
+[
+"peninsulas",
+3
+]
+],
+"clash": [
+"horses"
+]
+},
+"Frederiksborg": {
+"also": [
+[
+"famous castles",
+4
+]
+],
+"clash": [
+"horses"
+]
+},
+"Gelderlander": {
+"also": [],
+"clash": [
+"horses"
+]
+},
+"Tersk": {
+"also": [],
+"clash": [
+"horses"
+]
+},
+"Nokota": {
+"also": [],
+"clash": [
+"horses"
+]
+},
+"Bashkir": {
+"also": [
+[
+"turkic languages",
+4
+]
+],
+"clash": [
+"horses"
+]
+},
+"Rocky Mountain Horse": {
+"also": [],
+"clash": [
+"horses"
+]
+},
+"Paint Horse": {
+"also": [],
+"clash": [
+"horses"
+]
+},
+"Welsh": {
+"also": [
+[
+"celtic languages",
+1
+],
+[
+"european languages",
+2
+],
+[
+"nationalities",
+1
+]
+],
+"clash": [
+"horses"
+]
+},
+"Connemara": {
+"also": [],
+"clash": [
+"horses"
+]
+},
+"Exmoor": {
+"also": [],
+"clash": [
+"horses",
+"national parks"
+]
+},
+"New Forest": {
+"also": [
+[
+"famous forests",
+2
+],
+[
+"national parks",
+3
+]
+],
+"clash": [
+"horses"
+]
+},
+"Chincoteague": {
+"also": [],
+"clash": [
+"horses"
+]
+},
+"Fell": {
+"also": [
+[
+"mountain features",
+3
+]
+],
+"clash": [
+"horses",
+"scottish landscape words"
+]
+},
+"Dales": {
+"also": [],
+"clash": [
+"horses",
+"landscapes"
+]
+},
+"Eriskay": {
+"also": [],
+"clash": [
+"horses"
+]
+},
+"Konik": {
+"also": [],
+"clash": [
+"horses"
+]
+},
+"Manipuri": {
+"also": [
+[
+"asian dances",
+4
+],
+[
+"languages of india",
+4
+]
+],
+"clash": [
+"horses"
+]
+},
+"Newfoundland": {
+"also": [
+[
+"dog breeds",
+2
+],
+[
+"working dogs",
+2
+]
+],
+"clash": [
+"canadian provinces",
+"horses"
+]
+},
+"Pottok": {
+"also": [],
+"clash": [
+"horses"
+]
+},
+"Landais": {
+"also": [],
+"clash": [
+"horses"
+]
+},
+"Hucul": {
+"also": [],
+"clash": [
+"horses"
+]
+},
+"Bosnian": {
+"also": [
+[
+"nationalities",
+2
+]
+],
+"clash": [
+"horses"
+]
+},
+"Timor": {
+"also": [],
+"clash": [
+"famous islands",
+"horses"
+]
+},
+"Kerry Bog": {
+"also": [],
+"clash": [
+"horses"
+]
+},
+"Welara": {
+"also": [],
+"clash": [
+"horses"
+]
+},
+"Galiceño": {
+"also": [],
+"clash": [
+"horses"
+]
+},
+"Bardigiano": {
+"also": [],
+"clash": [
+"horses"
+]
+},
+"Basuto": {
+"also": [],
+"clash": [
+"horses"
+]
+},
+"Sumba": {
+"also": [
+[
+"indonesian islands",
+4
+]
+],
+"clash": [
+"horses"
+]
+},
+"Sandalwood": {
+"also": [
+[
+"candle scents",
+3
+],
+[
+"perfume notes",
+2
+],
+[
+"types of wood",
+2
+]
+],
+"clash": [
+"asian trees",
+"horses"
+]
+},
+"Batak": {
+"also": [],
+"clash": [
+"horses"
+]
+},
+"Spiti": {
+"also": [],
+"clash": [
+"horses"
+]
+},
+"Zanskari": {
+"also": [],
+"clash": [
+"horses"
+]
+},
+"Yonaguni": {
+"also": [],
+"clash": [
+"horses"
+]
+},
+"Hokkaido": {
+"also": [],
+"clash": [
+"horses",
+"japanese cities"
+]
+},
+"Misaki": {
+"also": [],
+"clash": [
+"horses"
+]
+},
+"Noma": {
+"also": [],
+"clash": [
+"horses"
+]
+},
+"Lundy": {
+"also": [],
+"clash": [
+"famous islands",
+"horses"
+]
+},
+"Dülmen": {
+"also": [],
+"clash": [
+"horses"
+]
+},
+"Faroese": {
+"also": [
+[
+"european languages",
+4
+],
+[
+"germanic languages",
+4
+]
+],
+"clash": [
+"horses"
+]
+},
+"Skyros": {
+"also": [
+[
+"greek islands",
+4
+]
+],
+"clash": [
+"horses"
+]
+},
+"Pindos": {
+"also": [],
+"clash": [
+"horses"
+]
+},
+"Mérens": {
+"also": [],
+"clash": [
+"horses"
+]
+},
+"Asturcón": {
+"also": [],
+"clash": [
+"horses"
+]
+},
+"Garrano": {
+"also": [],
+"clash": [
+"horses"
+]
+},
+"Australian Pony": {
+"also": [],
+"clash": [
+"horses"
+]
+},
+"Pony of the Americas": {
+"also": [],
+"clash": [
+"horses"
+]
+},
+"Welsh Cob": {
+"also": [],
+"clash": [
+"horses"
+]
+},
+"chestnut": {
+"also": [
+[
+"deciduous trees",
+2
+],
+[
+"nut trees",
+1
+],
+[
+"nuts",
+2
+],
+[
+"shades of brown",
+1
+],
+[
+"things that fall from trees",
+1
+]
+],
+"clash": [
+"horses"
+]
+},
+"black": {
+"also": [
+[
+"color terms",
+1
+],
+[
+"colors",
+1
+]
+],
+"clash": [
+"horses"
+]
+},
+"white": {
+"also": [
+[
+"color terms",
+1
+],
+[
+"colors",
+1
+]
+],
+"clash": [
+"horses"
+]
+},
+"palomino": {
+"also": [],
+"clash": [
+"horses"
+]
+},
+"bay": {
+"also": [
+[
+"coastal features",
+1
+],
+[
+"window styles",
+2
+]
+],
+"clash": [
+"gulfs and bays",
+"herbs",
+"horses"
+]
+},
+"gray": {
+"also": [
+[
+"colors",
+1
+],
+[
+"shades of gray",
+1
+]
+],
+"clash": [
+"horses"
+]
+},
+"pinto": {
+"also": [],
+"clash": [
+"beans and pulses",
+"horses"
+]
+},
+"piebald": {
+"also": [],
+"clash": [
+"horses"
+]
+},
+"skewbald": {
+"also": [],
+"clash": [
+"horses"
+]
+},
+"dun": {
+"also": [
+[
+"shades of brown",
+3
+]
+],
+"clash": [
+"horses"
+]
+},
+"roan": {
+"also": [],
+"clash": [
+"horses"
+]
+},
+"sorrel": {
+"also": [
+[
+"herbs",
+3
+],
+[
+"leafy greens",
+3
+]
+],
+"clash": [
+"horses"
+]
+},
+"buckskin": {
+"also": [
+[
+"things made of leather",
+3
+]
+],
+"clash": [
+"horses"
+]
+},
+"dapple gray": {
+"also": [],
+"clash": [
+"horses",
+"shades of gray"
+]
+},
+"strawberry roan": {
+"also": [],
+"clash": [
+"horses"
+]
+},
+"brown": {
+"also": [
+[
+"color terms",
+1
+],
+[
+"colors",
+1
+]
+],
+"clash": [
+"horses"
+]
+},
+"paint": {
+"also": [
+[
+"art materials",
+1
+],
+[
+"painting and decorating",
+1
+]
+],
+"clash": [
+"horses"
+]
+},
+"blue roan": {
+"also": [],
+"clash": [
+"horses"
+]
+},
+"red roan": {
+"also": [],
+"clash": [
+"horses"
+]
+},
+"liver chestnut": {
+"also": [],
+"clash": [
+"horses"
+]
+},
+"flaxen": {
+"also": [],
+"clash": [
+"hair",
+"horses"
+]
+},
+"cremello": {
+"also": [],
+"clash": [
+"horses"
+]
+},
+"perlino": {
+"also": [],
+"clash": [
+"horses"
+]
+},
+"grullo": {
+"also": [],
+"clash": [
+"horses"
+]
+},
+"champagne": {
+"also": [
+[
+"foods named after places",
+2
+],
+[
+"white wines",
+2
+],
+[
+"wines",
+1
+]
+],
+"clash": [
+"horses",
+"metallic colors"
+]
+},
+"leopard": {
+"also": [
+[
+"big cats",
+1
+],
+[
+"fabric prints",
+2
+],
+[
+"savanna",
+2
+],
+[
+"spotted animals",
+1
+]
+],
+"clash": [
+"horses"
+]
+},
+"cream": {
+"also": [
+[
+"milk products",
+1
+],
+[
+"shades of yellow",
+3
+]
+],
+"clash": [
+"horses"
+]
+},
+"seal brown": {
+"also": [
+[
+"shades of brown",
+3
+]
+],
+"clash": [
+"horses"
+]
+},
+"red dun": {
+"also": [],
+"clash": [
+"horses"
+]
+},
+"flea-bitten": {
+"also": [],
+"clash": [
+"horses"
+]
+},
+"silver dapple": {
+"also": [],
+"clash": [
+"horses"
+]
+},
+"brindle": {
+"also": [],
+"clash": [
+"horses",
+"patterns"
+]
+},
+"sabino": {
+"also": [],
+"clash": [
+"horses"
+]
+},
+"tobiano": {
+"also": [],
+"clash": [
+"horses"
+]
+},
+"overo": {
+"also": [],
+"clash": [
+"horses"
+]
+},
+"tovero": {
+"also": [],
+"clash": [
+"horses"
+]
+},
+"smoky black": {
+"also": [],
+"clash": [
+"horses"
+]
+},
+"bay dun": {
+"also": [],
+"clash": [
+"horses"
+]
+},
+"rose gray": {
+"also": [],
+"clash": [
+"horses",
+"shades of gray"
+]
+},
+"isabelline": {
+"also": [],
+"clash": [
+"horses",
+"shades of yellow"
+]
+},
+"rabicano": {
+"also": [],
+"clash": [
+"horses"
+]
+},
+"pangaré": {
+"also": [],
+"clash": [
+"horses"
+]
+},
+"saddle": {
+"also": [
+[
+"bicycle parts",
+1
+]
+],
+"clash": [
+"cuts of meat"
+]
+},
+"bridle": {
+"also": [],
+"clash": [
+"homophones",
+"weddings"
+]
+},
+"reins": {
+"also": [
+[
+"homophones",
+2
+]
+],
+"clash": []
+},
+"stirrup": {
+"also": [
+[
+"bones",
+3
+],
+[
+"ear parts",
+3
+]
+],
+"clash": []
+},
+"bit": {
+"also": [],
+"clash": [
+"coding words",
+"power tools"
+]
+},
+"halter": {
+"also": [
+[
+"necklines",
+3
+]
+],
+"clash": [
+"tops"
+]
+},
+"blinkers": {
+"also": [],
+"clash": [
+"car parts"
+]
+},
+"harness": {
+"also": [
+[
+"climbing gear",
+2
+]
+],
+"clash": []
+},
+"saddlebag": {
+"also": [],
+"clash": [
+"bags",
+"bicycle parts"
+]
+},
+"martingale": {
+"also": [
+[
+"betting words",
+4
+]
+],
+"clash": []
+},
+"breastplate": {
+"also": [
+[
+"armor",
+1
+]
+],
+"clash": []
+},
+"curb": {
+"also": [
+[
+"parts of a road",
+2
+]
+],
+"clash": [
+"street furniture"
+]
+},
+"lunge line": {
+"also": [],
+"clash": [
+"exercises"
+]
+},
+"hobble": {
+"also": [
+[
+"ways of walking",
+2
+]
+],
+"clash": []
+},
+"bell boot": {
+"also": [],
+"clash": [
+"boots"
+]
+},
+"mane": {
+"also": [],
+"clash": [
+"hair",
+"horses"
+]
+},
+"tail": {
+"also": [
+[
+"animal body parts",
+1
+]
+],
+"clash": [
+"horses"
+]
+},
+"hoof": {
+"also": [
+[
+"animal body parts",
+1
+]
+],
+"clash": [
+"horses"
+]
+},
+"muzzle": {
+"also": [
+[
+"animal body parts",
+2
+],
+[
+"pet supplies",
+2
+]
+],
+"clash": [
+"horses",
+"modern weapons"
+]
+},
+"nostril": {
+"also": [
+[
+"face",
+1
+]
+],
+"clash": [
+"horses"
+]
+},
+"withers": {
+"also": [],
+"clash": [
+"horses"
+]
+},
+"fetlock": {
+"also": [],
+"clash": [
+"horses"
+]
+},
+"hock": {
+"also": [
+[
+"cuts of meat",
+3
+],
+[
+"wines",
+4
+]
+],
+"clash": [
+"horses"
+]
+},
+"forelock": {
+"also": [],
+"clash": [
+"hair",
+"horses"
+]
+},
+"flank": {
+"also": [
+[
+"cuts of meat",
+2
+]
+],
+"clash": [
+"horses",
+"war words"
+]
+},
+"knee": {
+"also": [
+[
+"arms and legs",
+1
+],
+[
+"joints",
+1
+]
+],
+"clash": [
+"horses"
+]
+},
+"shoulder": {
+"also": [
+[
+"arms and legs",
+1
+],
+[
+"cuts of meat",
+2
+],
+[
+"joints",
+1
+],
+[
+"torso",
+1
+]
+],
+"clash": [
+"horses"
+]
+},
+"hindquarters": {
+"also": [],
+"clash": [
+"horses"
+]
+},
+"haunch": {
+"also": [],
+"clash": [
+"cuts of meat",
+"horses"
+]
+},
+"rump": {
+"also": [
+[
+"cuts of meat",
+2
+]
+],
+"clash": [
+"horses"
+]
+},
+"pastern": {
+"also": [],
+"clash": [
+"horses"
+]
+},
+"croup": {
+"also": [
+[
+"childhood illnesses",
+3
+],
+[
+"common illnesses",
+3
+]
+],
+"clash": [
+"horses"
+]
+},
+"frog": {
+"also": [
+[
+"british wildlife",
+1
+],
+[
+"fastenings",
+4
+],
+[
+"frogs and toads",
+1
+],
+[
+"pond",
+1
+]
+],
+"clash": [
+"horses"
+]
+},
+"cannon bone": {
+"also": [],
+"clash": [
+"horses"
+]
+},
+"coronet": {
+"also": [
+[
+"royal things",
+2
+]
+],
+"clash": [
+"brass instruments",
+"horses"
+]
+},
+"stifle": {
+"also": [],
+"clash": [
+"horses"
+]
+},
+"poll": {
+"also": [
+[
+"election words",
+1
+]
+],
+"clash": [
+"horses"
+]
+},
+"crest": {
+"also": [
+[
+"heraldry",
+2
+]
+],
+"clash": [
+"horses"
+]
+},
+"loin": {
+"also": [
+[
+"cuts of meat",
+2
+]
+],
+"clash": [
+"horses"
+]
+},
+"barrel": {
+"also": [
+[
+"containers",
+1
+]
+],
+"clash": [
+"horses"
+]
+},
+"dock": {
+"also": [
+[
+"ports and harbors",
+1
+],
+[
+"weeds",
+3
+]
+],
+"clash": [
+"horses"
+]
+},
+"forearm": {
+"also": [
+[
+"arms and legs",
+1
+]
+],
+"clash": [
+"horses"
+]
+},
+"elbow": {
+"also": [
+[
+"arms and legs",
+1
+],
+[
+"joints",
+1
+]
+],
+"clash": [
+"horses",
+"pasta shapes"
+]
+},
+"gaskin": {
+"also": [],
+"clash": [
+"horses"
+]
+},
+"ergot": {
+"also": [],
+"clash": [
+"horses"
+]
+},
+"hoof wall": {
+"also": [],
+"clash": [
+"horses"
+]
+},
+"splint bone": {
+"also": [],
+"clash": [
+"horses"
+]
+},
+"coffin bone": {
+"also": [],
+"clash": [
+"horses"
+]
+},
+"navicular": {
+"also": [],
+"clash": [
+"horses"
+]
+},
+"chin groove": {
+"also": [],
+"clash": [
+"horses"
+]
+},
+"horse": {
+"also": [
+[
+"chinese zodiac",
+1
+],
+[
+"farm",
+1
+],
+[
+"farm animals",
+1
+],
+[
+"hoofed mammals",
+2
+],
+[
+"horses",
+1
+]
+],
+"clash": [
+"chess terms",
+"gymnastics apparatus"
+]
+},
+"zebra": {
+"also": [
+[
+"black and white animals",
+1
+],
+[
+"savanna",
+1
+],
+[
+"striped animals",
+1
+]
+],
+"clash": [
+"horses"
+]
+},
+"ass": {
+"also": [],
+"clash": [
+"body parts",
+"horses"
+]
+},
+"wild horse": {
+"also": [],
+"clash": [
+"horses"
+]
+},
+"zorse": {
+"also": [],
+"clash": [
+"horses"
+]
+},
+"zonkey": {
+"also": [],
+"clash": [
+"horses"
+]
+},
+"wild ass": {
+"also": [],
+"clash": [
+"horses"
+]
+},
+"quagga": {
+"also": [
+[
+"extinct animals",
+3
+]
+],
+"clash": [
+"horses"
+]
+},
+"tarpan": {
+"also": [
+[
+"extinct animals",
+4
+]
+],
+"clash": [
+"horses"
+]
+},
+"onager": {
+"also": [
+[
+"siege weapons",
+4
+]
+],
+"clash": [
+"horses"
+]
+},
+"Przewalski's horse": {
+"also": [
+[
+"endangered animals",
+3
+]
+],
+"clash": [
+"horses"
+]
+},
+"plains zebra": {
+"also": [
+[
+"african animals",
+2
+],
+[
+"savanna",
+2
+],
+[
+"savanna animals",
+2
+]
+],
+"clash": [
+"horses"
+]
+},
+"mountain zebra": {
+"also": [
+[
+"african animals",
+3
+],
+[
+"mountain animals",
+3
+]
+],
+"clash": [
+"horses"
+]
+},
+"jenny": {
+"also": [
+[
+"female animals",
+3
+],
+[
+"girls' names",
+1
+]
+],
+"clash": [
+"horses"
+]
+},
+"zedonk": {
+"also": [],
+"clash": [
+"horses"
+]
+},
+"kiang": {
+"also": [
+[
+"mountain animals",
+3
+]
+],
+"clash": [
+"horses"
+]
+},
+"kulan": {
+"also": [
+[
+"asian animals",
+4
+]
+],
+"clash": [
+"horses"
+]
+},
+"takhi": {
+"also": [
+[
+"asian animals",
+4
+]
+],
+"clash": [
+"horses"
+]
+},
+"lion": {
+"also": [
+[
+"big cats",
+1
+],
+[
+"indian animals",
+3
+],
+[
+"national animals",
+2
+],
+[
+"savanna",
+1
+]
+],
+"clash": [
+"asian animals"
+]
+},
+"giraffe": {
+"also": [
+[
+"hoofed mammals",
+2
+],
+[
+"savanna",
+1
+],
+[
+"spotted animals",
+2
+],
+[
+"tall things",
+1
+]
+],
+"clash": []
+},
+"hippopotamus": {
+"also": [
+[
+"animals with tusks",
+3
+],
+[
+"hoofed mammals",
+3
+],
+[
+"savanna",
+2
+]
+],
+"clash": []
+},
+"rhinoceros": {
+"also": [
+[
+"animals with horns",
+1
+],
+[
+"endangered animals",
+2
+],
+[
+"hoofed mammals",
+2
+],
+[
+"savanna",
+1
+]
+],
+"clash": [
+"indian animals"
+]
+},
+"cheetah": {
+"also": [
+[
+"big cats",
+1
+],
+[
+"fast animals",
+1
+],
+[
+"savanna",
+1
+],
+[
+"spotted animals",
+1
+]
+],
+"clash": [
+"middle eastern animals"
+]
+},
+"gorilla": {
+"also": [
+[
+"endangered animals",
+1
+],
+[
+"primates",
+1
+],
+[
+"rainforest",
+1
+]
+],
+"clash": [
+"monkeys"
+]
+},
+"chimpanzee": {
+"also": [
+[
+"primates",
+1
+],
+[
+"rainforest",
+2
+]
+],
+"clash": [
+"monkeys"
+]
+},
+"hyena": {
+"also": [
+[
+"middle eastern animals",
+2
+],
+[
+"nocturnal animals",
+2
+],
+[
+"savanna",
+1
+],
+[
+"scavengers",
+1
+]
+],
+"clash": [
+"spotted animals",
+"wild dogs and foxes"
+]
+},
+"wildebeest": {
+"also": [
+[
+"antelopes",
+1
+],
+[
+"hoofed mammals",
+2
+],
+[
+"migrating animals",
+1
+],
+[
+"savanna",
+1
+]
+],
+"clash": [
+"wild cattle"
+]
+},
+"meerkat": {
+"also": [
+[
+"burrowing animals",
+1
+],
+[
+"desert",
+2
+],
+[
+"savanna",
+2
+]
+],
+"clash": []
+},
+"warthog": {
+"also": [
+[
+"animals with tusks",
+1
+],
+[
+"hoofed mammals",
+3
+],
+[
+"savanna",
+2
+]
+],
+"clash": []
+},
+"baboon": {
+"also": [
+[
+"monkeys",
+1
+],
+[
+"primates",
+1
+],
+[
+"savanna",
+2
+]
+],
+"clash": []
+},
+"gnu": {
+"also": [
+[
+"antelopes",
+2
+],
+[
+"savanna animals",
+2
+]
+],
+"clash": [
+"programming languages"
+]
+},
+"Nile crocodile": {
+"also": [
+[
+"crocodilians",
+1
+]
+],
+"clash": []
+},
+"antelope": {
+"also": [
+[
+"animals with horns",
+2
+],
+[
+"hoofed mammals",
+2
+],
+[
+"savanna",
+2
+]
+],
+"clash": []
+},
+"gazelle": {
+"also": [
+[
+"animals with horns",
+2
+],
+[
+"antelopes",
+1
+],
+[
+"fast animals",
+2
+],
+[
+"middle eastern animals",
+2
+],
+[
+"savanna",
+1
+]
+],
+"clash": []
+},
+"impala": {
+"also": [
+[
+"antelopes",
+1
+],
+[
+"famous car models",
+3
+],
+[
+"savanna",
+2
+]
+],
+"clash": []
+},
+"bonobo": {
+"also": [
+[
+"primates",
+2
+],
+[
+"rainforest",
+3
+]
+],
+"clash": [
+"monkeys"
+]
+},
+"mandrill": {
+"also": [
+[
+"monkeys",
+1
+],
+[
+"primates",
+1
+],
+[
+"rainforest",
+3
+]
+],
+"clash": []
+},
+"springbok": {
+"also": [
+[
+"antelopes",
+2
+],
+[
+"national animals",
+3
+],
+[
+"savanna",
+3
+]
+],
+"clash": [
+"rugby terms"
+]
+},
+"jackal": {
+"also": [
+[
+"savanna",
+2
+],
+[
+"scavengers",
+1
+],
+[
+"wild dogs and foxes",
+1
+]
+],
+"clash": [
+"middle eastern animals"
+]
+},
+"aardvark": {
+"also": [
+[
+"burrowing animals",
+2
+],
+[
+"nocturnal animals",
+2
+],
+[
+"savanna",
+3
+]
+],
+"clash": []
+},
+"pangolin": {
+"also": [
+[
+"asian animals",
+2
+],
+[
+"endangered animals",
+2
+],
+[
+"rainforest",
+3
+]
+],
+"clash": [
+"animals with shells"
+]
+},
+"honey badger": {
+"also": [
+[
+"savanna",
+3
+],
+[
+"weasel family",
+2
+]
+],
+"clash": []
+},
+"mongoose": {
+"also": [
+[
+"indian animals",
+2
+],
+[
+"savanna",
+3
+]
+],
+"clash": [
+"weasel family"
+]
+},
+"Cape buffalo": {
+"also": [
+[
+"animals with horns",
+2
+],
+[
+"savanna",
+1
+],
+[
+"savanna animals",
+1
+],
+[
+"wild cattle",
+1
+]
+],
+"clash": []
+},
+"white rhino": {
+"also": [
+[
+"animals with horns",
+2
+],
+[
+"endangered animals",
+2
+],
+[
+"savanna",
+2
+],
+[
+"savanna animals",
+2
+]
+],
+"clash": []
+},
+"black rhino": {
+"also": [
+[
+"animals with horns",
+2
+],
+[
+"endangered animals",
+1
+],
+[
+"savanna",
+2
+],
+[
+"savanna animals",
+2
+]
+],
+"clash": []
+},
+"fennec fox": {
+"also": [
+[
+"desert",
+1
+],
+[
+"nocturnal animals",
+2
+],
+[
+"wild dogs and foxes",
+1
+]
+],
+"clash": []
+},
+"black mamba": {
+"also": [
+[
+"savanna",
+3
+],
+[
+"snakes",
+1
+],
+[
+"venomous animals",
+1
+],
+[
+"venomous snakes",
+1
+]
+],
+"clash": []
+},
+"okapi": {
+"also": [
+[
+"hoofed mammals",
+3
+],
+[
+"rainforest",
+3
+],
+[
+"striped animals",
+1
+]
+],
+"clash": []
+},
+"kudu": {
+"also": [
+[
+"animals with horns",
+2
+],
+[
+"antelopes",
+2
+],
+[
+"savanna",
+3
+]
+],
+"clash": []
+},
+"eland": {
+"also": [
+[
+"antelopes",
+2
+],
+[
+"savanna",
+3
+]
+],
+"clash": []
+},
+"oryx": {
+"also": [
+[
+"animals with horns",
+2
+],
+[
+"antelopes",
+2
+],
+[
+"desert",
+3
+]
+],
+"clash": [
+"middle eastern animals"
+]
+},
+"gemsbok": {
+"also": [
+[
+"antelopes",
+3
+],
+[
+"desert",
+3
+]
+],
+"clash": []
+},
+"painted dog": {
+"also": [
+[
+"savanna animals",
+2
+],
+[
+"spotted animals",
+3
+],
+[
+"wild dogs and foxes",
+2
+]
+],
+"clash": []
+},
+"serval": {
+"also": [
+[
+"savanna",
+3
+],
+[
+"small wild cats",
+2
+],
+[
+"spotted animals",
+3
+]
+],
+"clash": []
+},
+"caracal": {
+"also": [
+[
+"middle eastern animals",
+3
+],
+[
+"savanna",
+3
+],
+[
+"small wild cats",
+2
+]
+],
+"clash": []
+},
+"bushbaby": {
+"also": [
+[
+"nocturnal animals",
+1
+],
+[
+"primates",
+2
+]
+],
+"clash": []
+},
+"dik-dik": {
+"also": [
+[
+"antelopes",
+2
+],
+[
+"savanna",
+3
+]
+],
+"clash": []
+},
+"duiker": {
+"also": [
+[
+"antelopes",
+3
+]
+],
+"clash": []
+},
+"bongo": {
+"also": [
+[
+"antelopes",
+3
+],
+[
+"striped animals",
+3
+]
+],
+"clash": [
+"drums",
+"percussion instruments"
+]
+},
+"hartebeest": {
+"also": [
+[
+"antelopes",
+3
+],
+[
+"savanna",
+4
+]
+],
+"clash": []
+},
+"sable antelope": {
+"also": [
+[
+"antelopes",
+2
+],
+[
+"savanna",
+4
+]
+],
+"clash": []
+},
+"waterbuck": {
+"also": [
+[
+"antelopes",
+2
+],
+[
+"savanna",
+3
+]
+],
+"clash": []
+},
+"colobus": {
+"also": [
+[
+"black and white animals",
+2
+],
+[
+"monkeys",
+2
+],
+[
+"rainforest",
+3
+]
+],
+"clash": []
+},
+"vervet": {
+"also": [
+[
+"monkeys",
+2
+]
+],
+"clash": []
+},
+"hyrax": {
+"also": [],
+"clash": [
+"rodents"
+]
+},
+"puff adder": {
+"also": [
+[
+"savanna",
+4
+],
+[
+"snakes",
+2
+],
+[
+"venomous snakes",
+2
+]
+],
+"clash": []
+},
+"Nile monitor": {
+"also": [
+[
+"lizards",
+2
+]
+],
+"clash": []
+},
+"bat-eared fox": {
+"also": [
+[
+"savanna animals",
+3
+],
+[
+"wild dogs and foxes",
+2
+]
+],
+"clash": []
+},
+"genet": {
+"also": [
+[
+"spotted animals",
+3
+]
+],
+"clash": [
+"small wild cats"
+]
+},
+"pygmy hippo": {
+"also": [
+[
+"endangered animals",
+3
+],
+[
+"rainforest animals",
+3
+]
+],
+"clash": []
+},
+"dung beetle": {
+"also": [
+[
+"beetles",
+1
+],
+[
+"desert",
+3
+],
+[
+"savanna",
+3
+]
+],
+"clash": []
+},
+"tsetse fly": {
+"also": [
+[
+"biting bugs",
+2
+],
+[
+"insects and bugs",
+2
+],
+[
+"savanna",
+4
+]
+],
+"clash": []
+},
+"green mamba": {
+"also": [
+[
+"snakes",
+2
+],
+[
+"venomous snakes",
+2
+]
+],
+"clash": []
+},
+"naked mole rat": {
+"also": [
+[
+"burrowing animals",
+2
+],
+[
+"rodents",
+2
+]
+],
+"clash": []
+},
+"African wild dog": {
+"also": [
+[
+"savanna",
+3
+],
+[
+"wild dogs and foxes",
+1
+]
+],
+"clash": []
+},
+"gelada": {
+"also": [
+[
+"monkeys",
+3
+]
+],
+"clash": []
+},
+"klipspringer": {
+"also": [
+[
+"antelopes",
+3
+]
+],
+"clash": []
+},
+"sitatunga": {
+"also": [
+[
+"antelopes",
+4
+]
+],
+"clash": []
+},
+"nyala": {
+"also": [
+[
+"antelopes",
+3
+]
+],
+"clash": []
+},
+"topi": {
+"also": [
+[
+"antelopes",
+3
+],
+[
+"savanna",
+4
+]
+],
+"clash": []
+},
+"roan antelope": {
+"also": [
+[
+"antelopes",
+3
+],
+[
+"savanna",
+4
+]
+],
+"clash": []
+},
+"reedbuck": {
+"also": [
+[
+"antelopes",
+3
+],
+[
+"savanna",
+4
+]
+],
+"clash": []
+},
+"gerenuk": {
+"also": [
+[
+"antelopes",
+3
+],
+[
+"savanna",
+4
+]
+],
+"clash": []
+},
+"bushbuck": {
+"also": [
+[
+"antelopes",
+3
+]
+],
+"clash": []
+},
+"aardwolf": {
+"also": [
+[
+"savanna",
+4
+]
+],
+"clash": [
+"wild dogs and foxes"
+]
+},
+"addax": {
+"also": [
+[
+"antelopes",
+3
+],
+[
+"desert",
+3
+]
+],
+"clash": []
+},
+"Barbary macaque": {
+"also": [
+[
+"monkeys",
+2
+]
+],
+"clash": [
+"european animals"
+]
+},
+"Ethiopian wolf": {
+"also": [
+[
+"endangered animals",
+3
+],
+[
+"wild dogs and foxes",
+2
+]
+],
+"clash": []
+},
+"zorilla": {
+"also": [
+[
+"weasel family",
+4
+]
+],
+"clash": []
+},
+"Gaboon viper": {
+"also": [
+[
+"snakes",
+2
+],
+[
+"venomous snakes",
+2
+]
+],
+"clash": []
+},
+"boomslang": {
+"also": [
+[
+"snakes",
+3
+],
+[
+"venomous snakes",
+3
+]
+],
+"clash": []
+},
+"African bullfrog": {
+"also": [
+[
+"frogs and toads",
+2
+]
+],
+"clash": []
+},
+"Goliath frog": {
+"also": [
+[
+"frogs and toads",
+2
+]
+],
+"clash": []
+},
+"Goliath beetle": {
+"also": [
+[
+"beetles",
+2
+]
+],
+"clash": []
+},
+"tigerfish": {
+"also": [
+[
+"freshwater fish",
+3
+]
+],
+"clash": []
+},
+"Nile perch": {
+"also": [
+[
+"freshwater fish",
+3
+]
+],
+"clash": []
+},
+"springhare": {
+"also": [],
+"clash": [
+"rodents"
+]
+},
+"dama gazelle": {
+"also": [
+[
+"antelopes",
+3
+]
+],
+"clash": []
+},
+"Thomson's gazelle": {
+"also": [
+[
+"antelopes",
+2
+],
+[
+"savanna",
+3
+]
+],
+"clash": []
+},
+"Grevy's zebra": {
+"also": [
+[
+"endangered animals",
+3
+],
+[
+"savanna animals",
+3
+],
+[
+"striped animals",
+2
+]
+],
+"clash": []
+},
+"Grant's gazelle": {
+"also": [
+[
+"antelopes",
+3
+],
+[
+"savanna animals",
+3
+]
+],
+"clash": []
+},
+"Jackson's chameleon": {
+"also": [
+[
+"animals with horns",
+4
+],
+[
+"lizards",
+2
+]
+],
+"clash": []
+},
+"ostrich": {
+"also": [
+[
+"fast animals",
+2
+],
+[
+"flightless birds",
+1
+],
+[
+"savanna",
+2
+]
+],
+"clash": []
+},
+"secretary bird": {
+"also": [
+[
+"birds of prey",
+2
+],
+[
+"savanna",
+3
+]
+],
+"clash": []
+},
+"shoebill": {
+"also": [
+[
+"wading birds",
+2
+]
+],
+"clash": []
+},
+"African grey": {
+"also": [
+[
+"parrots",
+1
+],
+[
+"pets",
+2
+]
+],
+"clash": []
+},
+"lovebird": {
+"also": [
+[
+"parrots",
+2
+],
+[
+"pets",
+2
+]
+],
+"clash": []
+},
+"guineafowl": {
+"also": [
+[
+"game birds",
+2
+],
+[
+"poultry",
+3
+],
+[
+"savanna",
+3
+],
+[
+"spotted animals",
+4
+]
+],
+"clash": []
+},
+"crowned crane": {
+"also": [
+[
+"wading birds",
+2
+]
+],
+"clash": []
+},
+"marabou": {
+"also": [
+[
+"savanna",
+3
+],
+[
+"scavengers",
+3
+],
+[
+"wading birds",
+3
+]
+],
+"clash": []
+},
+"ground hornbill": {
+"also": [
+[
+"savanna",
+4
+]
+],
+"clash": []
+},
+"turaco": {
+"also": [
+[
+"colorful birds",
+3
+]
+],
+"clash": []
+},
+"weaverbird": {
+"also": [
+[
+"songbirds",
+3
+]
+],
+"clash": []
+},
+"oxpecker": {
+"also": [
+[
+"savanna",
+3
+]
+],
+"clash": []
+},
+"fish eagle": {
+"also": [
+[
+"birds of prey",
+2
+],
+[
+"eagles",
+2
+]
+],
+"clash": []
+},
+"sacred ibis": {
+"also": [
+[
+"ancient egypt",
+3
+],
+[
+"wading birds",
+2
+]
+],
+"clash": []
+},
+"Egyptian goose": {
+"also": [
+[
+"geese and swans",
+2
+],
+[
+"waterbirds",
+2
+]
+],
+"clash": []
+},
+"lilac-breasted roller": {
+"also": [
+[
+"colorful birds",
+2
+],
+[
+"savanna",
+4
+]
+],
+"clash": []
+},
+"hamerkop": {
+"also": [
+[
+"wading birds",
+3
+]
+],
+"clash": []
+},
+"bateleur": {
+"also": [
+[
+"birds of prey",
+3
+],
+[
+"eagles",
+3
+]
+],
+"clash": []
+},
+"kori bustard": {
+"also": [
+[
+"savanna",
+4
+]
+],
+"clash": [
+"game birds"
+]
+},
+"widowbird": {
+"also": [
+[
+"songbirds",
+4
+]
+],
+"clash": []
+},
+"quelea": {
+"also": [
+[
+"finches",
+4
+]
+],
+"clash": []
+},
+"francolin": {
+"also": [
+[
+"game birds",
+3
+]
+],
+"clash": []
+},
+"wattled crane": {
+"also": [
+[
+"wading birds",
+3
+]
+],
+"clash": []
+},
+"African jacana": {
+"also": [
+[
+"wading birds",
+3
+]
+],
+"clash": []
+},
+"malachite kingfisher": {
+"also": [
+[
+"colorful birds",
+3
+]
+],
+"clash": []
+},
+"martial eagle": {
+"also": [
+[
+"birds of prey",
+2
+],
+[
+"eagles",
+2
+]
+],
+"clash": []
+},
+"tawny eagle": {
+"also": [
+[
+"birds of prey",
+2
+],
+[
+"eagles",
+2
+]
+],
+"clash": []
+},
+"superb starling": {
+"also": [
+[
+"colorful birds",
+3
+],
+[
+"songbirds",
+3
+]
+],
+"clash": []
+},
+"glossy starling": {
+"also": [
+[
+"songbirds",
+3
+]
+],
+"clash": []
+},
+"carmine bee-eater": {
+"also": [
+[
+"colorful birds",
+3
+]
+],
+"clash": []
+},
+"saddle-billed stork": {
+"also": [
+[
+"wading birds",
+3
+]
+],
+"clash": []
+},
+"lappet-faced vulture": {
+"also": [
+[
+"birds of prey",
+2
+],
+[
+"scavengers",
+2
+],
+[
+"vultures",
+2
+]
+],
+"clash": []
+},
+"spurfowl": {
+"also": [
+[
+"game birds",
+4
+]
+],
+"clash": []
+},
+"African openbill": {
+"also": [
+[
+"wading birds",
+4
+]
+],
+"clash": []
+},
+"fiscal shrike": {
+"also": [
+[
+"songbirds",
+4
+]
+],
+"clash": []
+},
+"lemur": {
+"also": [
+[
+"nocturnal animals",
+2
+],
+[
+"primates",
+1
+],
+[
+"rainforest",
+3
+]
+],
+"clash": [
+"monkeys"
+]
+},
+"aye-aye": {
+"also": [
+[
+"nocturnal animals",
+1
+],
+[
+"primates",
+2
+],
+[
+"rainforest",
+3
+]
+],
+"clash": []
+},
+"fossa": {
+"also": [
+[
+"rainforest",
+4
+]
+],
+"clash": [
+"big cats",
+"small wild cats"
+]
+},
+"ring-tailed lemur": {
+"also": [
+[
+"primates",
+1
+],
+[
+"striped animals",
+2
+]
+],
+"clash": [
+"monkeys"
+]
+},
+"sifaka": {
+"also": [
+[
+"primates",
+3
+]
+],
+"clash": []
+},
+"indri": {
+"also": [
+[
+"primates",
+3
+]
+],
+"clash": []
+},
+"mouse lemur": {
+"also": [
+[
+"nocturnal animals",
+2
+],
+[
+"primates",
+2
+]
+],
+"clash": []
+},
+"panther chameleon": {
+"also": [
+[
+"camouflaged animals",
+2
+],
+[
+"lizards",
+2
+]
+],
+"clash": []
+},
+"tomato frog": {
+"also": [
+[
+"frogs and toads",
+3
+]
+],
+"clash": []
+},
+"hissing cockroach": {
+"also": [
+[
+"insects and bugs",
+2
+]
+],
+"clash": []
+},
+"elephant bird": {
+"also": [
+[
+"extinct animals",
+2
+],
+[
+"flightless birds",
+2
+]
+],
+"clash": []
+},
+"mantella": {
+"also": [
+[
+"frogs and toads",
+4
+]
+],
+"clash": []
+},
+"golden mantella": {
+"also": [
+[
+"frogs and toads",
+4
+]
+],
+"clash": []
+},
+"radiated tortoise": {
+"also": [
+[
+"animals with shells",
+2
+],
+[
+"turtles and tortoises",
+2
+]
+],
+"clash": []
+},
+"giraffe weevil": {
+"also": [
+[
+"beetles",
+3
+]
+],
+"clash": []
+},
+"comet moth": {
+"also": [
+[
+"butterflies and moths",
+3
+]
+],
+"clash": []
+},
+"bamboo lemur": {
+"also": [
+[
+"primates",
+3
+]
+],
+"clash": []
+},
+"ruffed lemur": {
+"also": [
+[
+"primates",
+3
+]
+],
+"clash": []
+},
+"dwarf lemur": {
+"also": [
+[
+"hibernating animals",
+4
+],
+[
+"primates",
+3
+]
+],
+"clash": []
+},
+"vanga": {
+"also": [
+[
+"songbirds",
+4
+]
+],
+"clash": []
+},
+"leaf-tailed gecko": {
+"also": [
+[
+"camouflaged animals",
+2
+],
+[
+"lizards",
+2
+]
+],
+"clash": []
+},
+"plowshare tortoise": {
+"also": [
+[
+"animals with shells",
+3
+],
+[
+"turtles and tortoises",
+3
+]
+],
+"clash": []
+},
+"sportive lemur": {
+"also": [
+[
+"primates",
+4
+]
+],
+"clash": []
+},
+"woolly lemur": {
+"also": [
+[
+"primates",
+4
+]
+],
+"clash": []
+},
+"uroplatus": {
+"also": [
+[
+"lizards",
+4
+]
+],
+"clash": []
+},
+"Coquerel's sifaka": {
+"also": [
+[
+"primates",
+4
+]
+],
+"clash": []
+},
+"Arabian oryx": {
+"also": [
+[
+"antelopes",
+2
+],
+[
+"desert",
+3
+],
+[
+"endangered animals",
+3
+]
+],
+"clash": []
+},
+"Arabian leopard": {
+"also": [
+[
+"big cats",
+2
+],
+[
+"endangered animals",
+3
+]
+],
+"clash": []
+},
+"sand cat": {
+"also": [
+[
+"desert",
+3
+],
+[
+"small wild cats",
+2
+]
+],
+"clash": []
+},
+"striped hyena": {
+"also": [
+[
+"scavengers",
+2
+],
+[
+"striped animals",
+2
+]
+],
+"clash": []
+},
+"Nubian ibex": {
+"also": [
+[
+"animals with horns",
+2
+],
+[
+"mountain animals",
+3
+],
+[
+"wild goats and sheep",
+2
+]
+],
+"clash": []
+},
+"houbara bustard": {
+"also": [],
+"clash": [
+"game birds"
+]
+},
+"saker falcon": {
+"also": [
+[
+"birds of prey",
+2
+]
+],
+"clash": []
+},
+"desert locust": {
+"also": [
+[
+"desert",
+3
+],
+[
+"insects and bugs",
+2
+]
+],
+"clash": []
+},
+"camel spider": {
+"also": [
+[
+"desert",
+3
+]
+],
+"clash": [
+"spiders"
+]
+},
+"horned viper": {
+"also": [
+[
+"desert",
+3
+],
+[
+"venomous snakes",
+2
+]
+],
+"clash": []
+},
+"dugong": {
+"also": [
+[
+"sea mammals",
+2
+]
+],
+"clash": []
+},
+"Arabian wolf": {
+"also": [
+[
+"wild dogs and foxes",
+2
+]
+],
+"clash": []
+},
+"mountain gazelle": {
+"also": [
+[
+"antelopes",
+3
+],
+[
+"mountain animals",
+3
+]
+],
+"clash": []
+},
+"sand gazelle": {
+"also": [
+[
+"antelopes",
+3
+]
+],
+"clash": []
+},
+"Asiatic cheetah": {
+"also": [
+[
+"big cats",
+2
+],
+[
+"endangered animals",
+3
+]
+],
+"clash": []
+},
+"Persian leopard": {
+"also": [
+[
+"big cats",
+2
+]
+],
+"clash": []
+},
+"Arabian tahr": {
+"also": [
+[
+"mountain animals",
+3
+],
+[
+"wild goats and sheep",
+3
+]
+],
+"clash": []
+},
+"wild goat": {
+"also": [
+[
+"wild goats and sheep",
+1
+]
+],
+"clash": []
+},
+"deathstalker": {
+"also": [
+[
+"desert",
+4
+],
+[
+"venomous animals",
+2
+]
+],
+"clash": []
+},
+"Palestine viper": {
+"also": [
+[
+"venomous snakes",
+3
+]
+],
+"clash": []
+},
+"saw-scaled viper": {
+"also": [
+[
+"venomous snakes",
+3
+]
+],
+"clash": []
+},
+"uromastyx": {
+"also": [
+[
+"desert animals",
+3
+],
+[
+"lizards",
+3
+]
+],
+"clash": []
+},
+"jird": {
+"also": [
+[
+"rodents",
+4
+]
+],
+"clash": []
+},
+"griffon vulture": {
+"also": [
+[
+"birds of prey",
+2
+],
+[
+"scavengers",
+2
+],
+[
+"vultures",
+2
+]
+],
+"clash": []
+},
+"Egyptian vulture": {
+"also": [
+[
+"birds of prey",
+2
+],
+[
+"scavengers",
+2
+],
+[
+"vultures",
+2
+]
+],
+"clash": []
+},
+"Syrian brown bear": {
+"also": [
+[
+"bears",
+2
+]
+],
+"clash": []
+},
+"Sinai agama": {
+"also": [
+[
+"lizards",
+3
+]
+],
+"clash": []
+},
+"Persian squirrel": {
+"also": [
+[
+"rodents",
+3
+]
+],
+"clash": []
+},
+"Arabian babbler": {
+"also": [
+[
+"songbirds",
+4
+]
+],
+"clash": []
+},
+"dhub": {
+"also": [
+[
+"lizards",
+4
+]
+],
+"clash": []
+},
+"idmi": {
+"also": [
+[
+"antelopes",
+4
+]
+],
+"clash": []
+},
+"Persian fallow deer": {
+"also": [
+[
+"deer",
+2
+]
+],
+"clash": []
+},
+"Rüppell's fox": {
+"also": [
+[
+"wild dogs and foxes",
+3
+]
+],
+"clash": []
+},
+"Kangal": {
+"also": [
+[
+"dog breeds",
+3
+],
+[
+"herding dogs",
+3
+],
+[
+"working dogs",
+3
+]
+],
+"clash": [
+"turkish cities"
+]
+},
+"Van cat": {
+"also": [],
+"clash": [
+"famous lakes",
+"turkish cities"
+]
+},
+"Anatolian shepherd": {
+"also": [
+[
+"dog breeds",
+3
+],
+[
+"herding dogs",
+3
+],
+[
+"working dogs",
+3
+]
+],
+"clash": []
+},
+"Angora goat": {
+"also": [
+[
+"farm animals",
+3
+]
+],
+"clash": [
+"wool fabrics"
+]
+},
+"Angora rabbit": {
+"also": [
+[
+"pets",
+3
+],
+[
+"small pets",
+3
+]
+],
+"clash": [
+"wool fabrics"
+]
+},
+"Akbash": {
+"also": [
+[
+"dog breeds",
+4
+],
+[
+"working dogs",
+4
+]
+],
+"clash": []
+},
+"Anatolian leopard": {
+"also": [
+[
+"big cats",
+3
+],
+[
+"extinct animals",
+4
+]
+],
+"clash": []
+},
+"bald ibis": {
+"also": [
+[
+"endangered animals",
+3
+],
+[
+"wading birds",
+3
+]
+],
+"clash": []
+},
+"monk seal": {
+"also": [
+[
+"endangered animals",
+2
+],
+[
+"sea mammals",
+2
+],
+[
+"seals and sea lions",
+2
+]
+],
+"clash": []
+},
+"loggerhead": {
+"also": [
+[
+"endangered animals",
+3
+],
+[
+"sea life",
+2
+],
+[
+"turtles and tortoises",
+2
+]
+],
+"clash": []
+},
+"doctor fish": {
+"also": [
+[
+"freshwater fish",
+4
+]
+],
+"clash": [
+"spa"
+]
+},
+"Konya mouflon": {
+"also": [
+[
+"wild goats and sheep",
+4
+]
+],
+"clash": []
+},
+"Turkish hamster": {
+"also": [
+[
+"rodents",
+4
+]
+],
+"clash": [
+"small pets"
+]
+},
+"pearl mullet": {
+"also": [
+[
+"freshwater fish",
+4
+]
+],
+"clash": []
+},
+"Kilis goat": {
+"also": [],
+"clash": [
+"farm animals"
+]
+},
+"Anatolian buffalo": {
+"also": [
+[
+"wild cattle",
+4
+]
+],
+"clash": []
+},
+"Çatalburun": {
+"also": [
+[
+"dog breeds",
+4
+]
+],
+"clash": []
+},
+"Karayaka": {
+"also": [],
+"clash": [
+"sheep breeds"
+]
+},
+"Akkaraman": {
+"also": [],
+"clash": [
+"sheep breeds"
+]
+},
+"Kivircik": {
+"also": [],
+"clash": [
+"sheep breeds"
+]
+},
+"Turkish gray": {
+"also": [],
+"clash": [
+"cattle breeds",
+"shades of gray"
+]
+},
+"Gerze": {
+"also": [],
+"clash": [
+"chicken breeds"
+]
+},
+"Kars dog": {
+"also": [
+[
+"dog breeds",
+4
+]
+],
+"clash": []
+},
+"Tazi": {
+"also": [
+[
+"dog breeds",
+4
+],
+[
+"hounds",
+4
+]
+],
+"clash": []
+},
+"giant panda": {
+"also": [
+[
+"bears",
+1
+],
+[
+"black and white animals",
+1
+],
+[
+"endangered animals",
+1
+],
+[
+"national animals",
+2
+]
+],
+"clash": []
+},
+"Bactrian camel": {
+"also": [
+[
+"desert",
+2
+],
+[
+"hoofed mammals",
+3
+]
+],
+"clash": []
+},
+"Siberian tiger": {
+"also": [
+[
+"big cats",
+1
+],
+[
+"endangered animals",
+2
+],
+[
+"striped animals",
+2
+],
+[
+"taiga",
+2
+]
+],
+"clash": []
+},
+"Amur leopard": {
+"also": [
+[
+"big cats",
+2
+],
+[
+"endangered animals",
+2
+],
+[
+"spotted animals",
+3
+]
+],
+"clash": []
+},
+"saiga": {
+"also": [
+[
+"antelopes",
+3
+],
+[
+"endangered animals",
+3
+],
+[
+"ice age animals",
+3
+]
+],
+"clash": []
+},
+"Chinese alligator": {
+"also": [
+[
+"crocodilians",
+2
+],
+[
+"endangered animals",
+3
+]
+],
+"clash": []
+},
+"golden monkey": {
+"also": [
+[
+"monkeys",
+2
+],
+[
+"primates",
+2
+]
+],
+"clash": []
+},
+"mandarin duck": {
+"also": [
+[
+"colorful birds",
+2
+],
+[
+"ducks",
+2
+],
+[
+"waterbirds",
+2
+]
+],
+"clash": []
+},
+"Baikal seal": {
+"also": [
+[
+"seals and sea lions",
+3
+]
+],
+"clash": []
+},
+"sable": {
+"also": [
+[
+"taiga",
+3
+],
+[
+"weasel family",
+3
+]
+],
+"clash": []
+},
+"golden pheasant": {
+"also": [
+[
+"colorful birds",
+2
+],
+[
+"game birds",
+2
+]
+],
+"clash": []
+},
+"Mongolian gerbil": {
+"also": [
+[
+"pets",
+2
+],
+[
+"rodents",
+2
+],
+[
+"small pets",
+2
+]
+],
+"clash": []
+},
+"Asian black bear": {
+"also": [
+[
+"bears",
+2
+],
+[
+"himalayan animals",
+3
+]
+],
+"clash": []
+},
+"manul": {
+"also": [
+[
+"small wild cats",
+3
+]
+],
+"clash": []
+},
+"Mongolian gazelle": {
+"also": [
+[
+"antelopes",
+3
+],
+[
+"migrating animals",
+4
+]
+],
+"clash": []
+},
+"goitered gazelle": {
+"also": [
+[
+"antelopes",
+4
+]
+],
+"clash": []
+},
+"Gobi bear": {
+"also": [
+[
+"bears",
+3
+],
+[
+"desert animals",
+4
+]
+],
+"clash": []
+},
+"water deer": {
+"also": [
+[
+"animals with tusks",
+4
+],
+[
+"deer",
+3
+]
+],
+"clash": []
+},
+"Chinese pangolin": {
+"also": [
+[
+"endangered animals",
+3
+]
+],
+"clash": []
+},
+"baiji": {
+"also": [
+[
+"extinct animals",
+3
+],
+[
+"whales and dolphins",
+3
+]
+],
+"clash": []
+},
+"Chinese sturgeon": {
+"also": [
+[
+"endangered animals",
+4
+],
+[
+"freshwater fish",
+3
+]
+],
+"clash": []
+},
+"silver pheasant": {
+"also": [
+[
+"game birds",
+3
+]
+],
+"clash": []
+},
+"crested ibis": {
+"also": [
+[
+"endangered animals",
+4
+],
+[
+"wading birds",
+3
+]
+],
+"clash": []
+},
+"Siberian crane": {
+"also": [
+[
+"migrating animals",
+3
+],
+[
+"wading birds",
+3
+]
+],
+"clash": []
+},
+"Siberian chipmunk": {
+"also": [
+[
+"rodents",
+3
+],
+[
+"small pets",
+4
+],
+[
+"taiga",
+4
+]
+],
+"clash": []
+},
+"corsac fox": {
+"also": [
+[
+"wild dogs and foxes",
+3
+]
+],
+"clash": []
+},
+"argali": {
+"also": [
+[
+"animals with horns",
+3
+],
+[
+"mountain animals",
+3
+],
+[
+"wild goats and sheep",
+3
+]
+],
+"clash": []
+},
+"Siberian ibex": {
+"also": [
+[
+"animals with horns",
+3
+],
+[
+"mountain animals",
+3
+],
+[
+"wild goats and sheep",
+3
+]
+],
+"clash": []
+},
+"Caspian seal": {
+"also": [
+[
+"seals and sea lions",
+3
+]
+],
+"clash": []
+},
+"Caspian tiger": {
+"also": [
+[
+"big cats",
+3
+],
+[
+"extinct animals",
+3
+]
+],
+"clash": []
+},
+"Chinese hamster": {
+"also": [
+[
+"rodents",
+2
+],
+[
+"small pets",
+2
+]
+],
+"clash": []
+},
+"Djungarian hamster": {
+"also": [
+[
+"rodents",
+3
+],
+[
+"small pets",
+2
+]
+],
+"clash": []
+},
+"Roborovski hamster": {
+"also": [
+[
+"rodents",
+3
+],
+[
+"small pets",
+3
+]
+],
+"clash": []
+},
+"golden snub-nosed monkey": {
+"also": [
+[
+"monkeys",
+3
+],
+[
+"primates",
+3
+]
+],
+"clash": []
+},
+"milu": {
+"also": [
+[
+"deer",
+4
+]
+],
+"clash": []
+},
+"Chinese paddlefish": {
+"also": [
+[
+"extinct animals",
+4
+],
+[
+"freshwater fish",
+4
+]
+],
+"clash": []
+},
+"Siberian jay": {
+"also": [
+[
+"songbirds",
+4
+],
+[
+"taiga",
+4
+]
+],
+"clash": []
+},
+"Siberian weasel": {
+"also": [
+[
+"taiga",
+4
+],
+[
+"weasel family",
+3
+]
+],
+"clash": []
+},
+"Siberian salamander": {
+"also": [
+[
+"salamanders and newts",
+4
+]
+],
+"clash": []
+},
+"Père David's deer": {
+"also": [
+[
+"deer",
+3
+]
+],
+"clash": []
+},
+"Pallas's cat": {
+"also": [
+[
+"small wild cats",
+3
+]
+],
+"clash": []
+},
+"Chinese giant salamander": {
+"also": [
+[
+"salamanders and newts",
+2
+]
+],
+"clash": []
+},
+"South China tiger": {
+"also": [
+[
+"big cats",
+3
+],
+[
+"endangered animals",
+3
+]
+],
+"clash": []
+},
+"Bengal tiger": {
+"also": [
+[
+"big cats",
+1
+],
+[
+"endangered animals",
+2
+],
+[
+"national animals",
+3
+],
+[
+"striped animals",
+1
+]
+],
+"clash": []
+},
+"peacock": {
+"also": [
+[
+"colorful birds",
+1
+],
+[
+"game birds",
+3
+],
+[
+"national animals",
+3
+]
+],
+"clash": []
+},
+"Indian elephant": {
+"also": [
+[
+"animals with tusks",
+2
+],
+[
+"endangered animals",
+3
+]
+],
+"clash": []
+},
+"Asiatic lion": {
+"also": [
+[
+"big cats",
+2
+],
+[
+"endangered animals",
+3
+]
+],
+"clash": [
+"african animals"
+]
+},
+"Indian rhino": {
+"also": [
+[
+"animals with horns",
+2
+],
+[
+"endangered animals",
+3
+]
+],
+"clash": []
+},
+"king cobra": {
+"also": [
+[
+"snakes",
+1
+],
+[
+"venomous animals",
+1
+],
+[
+"venomous snakes",
+1
+]
+],
+"clash": []
+},
+"sloth bear": {
+"also": [
+[
+"bears",
+2
+]
+],
+"clash": []
+},
+"nilgai": {
+"also": [
+[
+"antelopes",
+3
+]
+],
+"clash": []
+},
+"blackbuck": {
+"also": [
+[
+"antelopes",
+3
+]
+],
+"clash": []
+},
+"gaur": {
+"also": [
+[
+"wild cattle",
+3
+]
+],
+"clash": []
+},
+"dhole": {
+"also": [
+[
+"wild dogs and foxes",
+3
+]
+],
+"clash": []
+},
+"gharial": {
+"also": [
+[
+"crocodilians",
+2
+],
+[
+"endangered animals",
+3
+]
+],
+"clash": []
+},
+"Indian cobra": {
+"also": [
+[
+"snakes",
+2
+],
+[
+"venomous snakes",
+2
+]
+],
+"clash": []
+},
+"krait": {
+"also": [
+[
+"snakes",
+3
+],
+[
+"venomous snakes",
+3
+]
+],
+"clash": []
+},
+"langur": {
+"also": [
+[
+"monkeys",
+2
+],
+[
+"primates",
+2
+]
+],
+"clash": []
+},
+"rhesus macaque": {
+"also": [
+[
+"monkeys",
+2
+],
+[
+"primates",
+2
+]
+],
+"clash": []
+},
+"Indian python": {
+"also": [
+[
+"constrictor snakes",
+2
+],
+[
+"snakes",
+2
+]
+],
+"clash": []
+},
+"Indian peafowl": {
+"also": [
+[
+"colorful birds",
+2
+],
+[
+"game birds",
+3
+]
+],
+"clash": []
+},
+"myna": {
+"also": [
+[
+"city animals",
+3
+],
+[
+"songbirds",
+2
+]
+],
+"clash": []
+},
+"chital": {
+"also": [
+[
+"deer",
+3
+],
+[
+"spotted animals",
+3
+]
+],
+"clash": []
+},
+"sambar": {
+"also": [
+[
+"deer",
+3
+]
+],
+"clash": [
+"indian food"
+]
+},
+"barasingha": {
+"also": [
+[
+"deer",
+4
+]
+],
+"clash": []
+},
+"mugger": {
+"also": [
+[
+"crocodilians",
+3
+]
+],
+"clash": [
+"crimes"
+]
+},
+"bonnet macaque": {
+"also": [
+[
+"monkeys",
+3
+],
+[
+"primates",
+3
+]
+],
+"clash": []
+},
+"Nilgiri tahr": {
+"also": [
+[
+"mountain animals",
+3
+],
+[
+"wild goats and sheep",
+3
+]
+],
+"clash": []
+},
+"chinkara": {
+"also": [
+[
+"antelopes",
+4
+]
+],
+"clash": []
+},
+"Indian wolf": {
+"also": [
+[
+"wild dogs and foxes",
+3
+]
+],
+"clash": []
+},
+"Indian pangolin": {
+"also": [
+[
+"endangered animals",
+4
+]
+],
+"clash": []
+},
+"star tortoise": {
+"also": [
+[
+"animals with shells",
+2
+],
+[
+"turtles and tortoises",
+2
+]
+],
+"clash": []
+},
+"Ganges dolphin": {
+"also": [
+[
+"endangered animals",
+3
+],
+[
+"whales and dolphins",
+3
+]
+],
+"clash": []
+},
+"Indian roller": {
+"also": [
+[
+"colorful birds",
+3
+]
+],
+"clash": []
+},
+"sarus crane": {
+"also": [
+[
+"wading birds",
+3
+]
+],
+"clash": []
+},
+"fishing cat": {
+"also": [
+[
+"small wild cats",
+2
+]
+],
+"clash": []
+},
+"jungle cat": {
+"also": [
+[
+"small wild cats",
+2
+]
+],
+"clash": []
+},
+"hog deer": {
+"also": [
+[
+"deer",
+3
+]
+],
+"clash": []
+},
+"golden langur": {
+"also": [
+[
+"monkeys",
+3
+],
+[
+"primates",
+3
+]
+],
+"clash": []
+},
+"hoolock gibbon": {
+"also": [
+[
+"primates",
+3
+]
+],
+"clash": [
+"monkeys"
+]
+},
+"mahseer": {
+"also": [
+[
+"freshwater fish",
+4
+]
+],
+"clash": []
+},
+"Indian bullfrog": {
+"also": [
+[
+"frogs and toads",
+3
+]
+],
+"clash": []
+},
+"Bengal fox": {
+"also": [
+[
+"wild dogs and foxes",
+3
+]
+],
+"clash": []
+},
+"lion-tailed macaque": {
+"also": [
+[
+"endangered animals",
+3
+],
+[
+"monkeys",
+3
+],
+[
+"primates",
+3
+]
+],
+"clash": []
+},
+"Malabar giant squirrel": {
+"also": [
+[
+"rodents",
+3
+]
+],
+"clash": []
+},
+"great Indian bustard": {
+"also": [
+[
+"endangered animals",
+3
+]
+],
+"clash": [
+"game birds"
+]
+},
+"chousingha": {
+"also": [
+[
+"animals with horns",
+4
+],
+[
+"antelopes",
+4
+]
+],
+"clash": []
+},
+"Bengal monitor": {
+"also": [
+[
+"lizards",
+3
+]
+],
+"clash": []
+},
+"Indian vulture": {
+"also": [
+[
+"birds of prey",
+2
+],
+[
+"scavengers",
+2
+],
+[
+"vultures",
+2
+]
+],
+"clash": []
+},
+"rusty-spotted cat": {
+"also": [
+[
+"small wild cats",
+3
+]
+],
+"clash": []
+},
+"snow leopard": {
+"also": [
+[
+"big cats",
+1
+],
+[
+"endangered animals",
+2
+],
+[
+"mountain animals",
+1
+],
+[
+"spotted animals",
+2
+]
+],
+"clash": []
+},
+"red panda": {
+"also": [
+[
+"endangered animals",
+2
+],
+[
+"mountain animals",
+3
+],
+[
+"rainforest animals",
+4
+]
+],
+"clash": [
+"bears"
+]
+},
+"Himalayan tahr": {
+"also": [
+[
+"mountain animals",
+3
+],
+[
+"wild goats and sheep",
+3
+]
+],
+"clash": []
+},
+"blue sheep": {
+"also": [
+[
+"mountain animals",
+3
+],
+[
+"wild goats and sheep",
+3
+]
+],
+"clash": []
+},
+"markhor": {
+"also": [
+[
+"animals with horns",
+2
+],
+[
+"mountain animals",
+3
+],
+[
+"national animals",
+4
+],
+[
+"wild goats and sheep",
+3
+]
+],
+"clash": []
+},
+"musk deer": {
+"also": [
+[
+"animals with tusks",
+4
+],
+[
+"deer",
+3
+],
+[
+"mountain animals",
+3
+]
+],
+"clash": []
+},
+"Tibetan antelope": {
+"also": [
+[
+"antelopes",
+3
+],
+[
+"endangered animals",
+3
+]
+],
+"clash": []
+},
+"pika": {
+"also": [
+[
+"mountain animals",
+2
+]
+],
+"clash": [
+"rodents"
+]
+},
+"wild yak": {
+"also": [
+[
+"animals with horns",
+3
+],
+[
+"mountain animals",
+2
+],
+[
+"wild cattle",
+2
+]
+],
+"clash": []
+},
+"Himalayan black bear": {
+"also": [
+[
+"bears",
+2
+]
+],
+"clash": []
+},
+"bharal": {
+"also": [
+[
+"mountain animals",
+4
+],
+[
+"wild goats and sheep",
+4
+]
+],
+"clash": []
+},
+"chiru": {
+"also": [
+[
+"antelopes",
+4
+]
+],
+"clash": []
+},
+"takin": {
+"also": [
+[
+"mountain animals",
+3
+],
+[
+"wild goats and sheep",
+3
+]
+],
+"clash": [
+"wild cattle"
+]
+},
+"monal": {
+"also": [
+[
+"colorful birds",
+3
+],
+[
+"game birds",
+3
+],
+[
+"mountain animals",
+3
+]
+],
+"clash": []
+},
+"lammergeier": {
+"also": [
+[
+"birds of prey",
+3
+],
+[
+"mountain animals",
+3
+],
+[
+"scavengers",
+3
+],
+[
+"vultures",
+3
+]
+],
+"clash": []
+},
+"Himalayan griffon": {
+"also": [
+[
+"birds of prey",
+3
+],
+[
+"scavengers",
+3
+],
+[
+"vultures",
+3
+]
+],
+"clash": []
+},
+"Himalayan marmot": {
+"also": [
+[
+"burrowing animals",
+3
+],
+[
+"hibernating animals",
+3
+],
+[
+"mountain animals",
+3
+],
+[
+"rodents",
+3
+]
+],
+"clash": []
+},
+"Himalayan brown bear": {
+"also": [
+[
+"bears",
+2
+]
+],
+"clash": []
+},
+"Tibetan fox": {
+"also": [
+[
+"wild dogs and foxes",
+3
+]
+],
+"clash": []
+},
+"Tibetan wolf": {
+"also": [
+[
+"wild dogs and foxes",
+3
+]
+],
+"clash": []
+},
+"goral": {
+"also": [
+[
+"mountain animals",
+4
+],
+[
+"wild goats and sheep",
+4
+]
+],
+"clash": []
+},
+"serow": {
+"also": [
+[
+"mountain animals",
+4
+],
+[
+"wild goats and sheep",
+4
+]
+],
+"clash": []
+},
+"Himalayan ibex": {
+"also": [
+[
+"animals with horns",
+3
+],
+[
+"mountain animals",
+3
+],
+[
+"wild goats and sheep",
+3
+]
+],
+"clash": []
+},
+"urial": {
+"also": [
+[
+"mountain animals",
+4
+],
+[
+"wild goats and sheep",
+4
+]
+],
+"clash": []
+},
+"black-necked crane": {
+"also": [
+[
+"wading birds",
+3
+]
+],
+"clash": []
+},
+"hangul": {
+"also": [
+[
+"deer",
+4
+]
+],
+"clash": [
+"alphabets and writing",
+"writing systems"
+]
+},
+"snow partridge": {
+"also": [
+[
+"game birds",
+4
+]
+],
+"clash": []
+},
+"snowcock": {
+"also": [
+[
+"game birds",
+4
+],
+[
+"mountain animals",
+3
+]
+],
+"clash": []
+},
+"blood pheasant": {
+"also": [
+[
+"game birds",
+4
+]
+],
+"clash": []
+},
+"tragopan": {
+"also": [
+[
+"colorful birds",
+4
+],
+[
+"game birds",
+4
+]
+],
+"clash": []
+},
+"ibisbill": {
+"also": [
+[
+"wading birds",
+4
+]
+],
+"clash": []
+},
+"snow trout": {
+"also": [
+[
+"freshwater fish",
+4
+]
+],
+"clash": [
+"salmon and trout"
+]
+},
+"koi": {
+"also": [
+[
+"freshwater fish",
+2
+],
+[
+"japanese garden",
+2
+],
+[
+"pets",
+2
+],
+[
+"pond",
+1
+]
+],
+"clash": []
+},
+"snow monkey": {
+"also": [
+[
+"monkeys",
+2
+],
+[
+"primates",
+2
+]
+],
+"clash": []
+},
+"Japanese macaque": {
+"also": [
+[
+"monkeys",
+2
+],
+[
+"primates",
+2
+]
+],
+"clash": []
+},
+"Shiba Inu": {
+"also": [
+[
+"dog breeds",
+1
+]
+],
+"clash": []
+},
+"Akita": {
+"also": [
+[
+"dog breeds",
+2
+],
+[
+"working dogs",
+3
+]
+],
+"clash": [
+"japanese cities"
+]
+},
+"tanuki": {
+"also": [
+[
+"japanese folklore",
+3
+],
+[
+"shapeshifters",
+4
+],
+[
+"wild dogs and foxes",
+3
+],
+[
+"yokai",
+3
+]
+],
+"clash": []
+},
+"sika deer": {
+"also": [
+[
+"deer",
+2
+]
+],
+"clash": []
+},
+"Japanese crane": {
+"also": [
+[
+"wading birds",
+3
+]
+],
+"clash": []
+},
+"Japanese beetle": {
+"also": [
+[
+"beetles",
+2
+],
+[
+"garden pests",
+3
+]
+],
+"clash": []
+},
+"Japanese Chin": {
+"also": [
+[
+"dog breeds",
+3
+],
+[
+"toy dogs",
+3
+]
+],
+"clash": []
+},
+"fugu": {
+"also": [
+[
+"fish to eat",
+3
+],
+[
+"japanese food",
+2
+]
+],
+"clash": []
+},
+"giant hornet": {
+"also": [
+[
+"bees and wasps",
+2
+],
+[
+"venomous animals",
+3
+]
+],
+"clash": []
+},
+"tancho": {
+"also": [
+[
+"wading birds",
+4
+]
+],
+"clash": []
+},
+"giant salamander": {
+"also": [
+[
+"salamanders and newts",
+2
+]
+],
+"clash": []
+},
+"Iriomote cat": {
+"also": [
+[
+"small wild cats",
+4
+]
+],
+"clash": []
+},
+"Amami rabbit": {
+"also": [
+[
+"endangered animals",
+4
+]
+],
+"clash": []
+},
+"green pheasant": {
+"also": [
+[
+"game birds",
+3
+],
+[
+"national animals",
+4
+]
+],
+"clash": []
+},
+"uguisu": {
+"also": [
+[
+"songbirds",
+4
+]
+],
+"clash": []
+},
+"habu": {
+"also": [
+[
+"venomous snakes",
+4
+]
+],
+"clash": []
+},
+"kitsune": {
+"also": [
+[
+"japanese folklore",
+2
+],
+[
+"shapeshifters",
+3
+],
+[
+"yokai",
+2
+]
+],
+"clash": []
+},
+"Japanese wolf": {
+"also": [
+[
+"extinct animals",
+3
+],
+[
+"wild dogs and foxes",
+3
+]
+],
+"clash": []
+},
+"Tosa": {
+"also": [
+[
+"dog breeds",
+4
+]
+],
+"clash": []
+},
+"Japanese quail": {
+"also": [
+[
+"game birds",
+3
+]
+],
+"clash": []
+},
+"Japanese eel": {
+"also": [
+[
+"freshwater fish",
+4
+],
+[
+"rays and eels",
+3
+]
+],
+"clash": []
+},
+"ayu": {
+"also": [
+[
+"freshwater fish",
+4
+]
+],
+"clash": []
+},
+"Japanese spider crab": {
+"also": [
+[
+"crustaceans",
+2
+],
+[
+"ocean giants",
+3
+]
+],
+"clash": []
+},
+"kabutomushi": {
+"also": [
+[
+"beetles",
+4
+]
+],
+"clash": []
+},
+"kamoshika": {
+"also": [
+[
+"wild goats and sheep",
+4
+]
+],
+"clash": []
+},
+"hanzaki": {
+"also": [
+[
+"salamanders and newts",
+4
+]
+],
+"clash": []
+},
+"yamane": {
+"also": [
+[
+"rodents",
+4
+]
+],
+"clash": []
+},
+"Japanese badger": {
+"also": [
+[
+"weasel family",
+3
+]
+],
+"clash": []
+},
+"Japanese marten": {
+"also": [
+[
+"weasel family",
+3
+]
+],
+"clash": []
+},
+"Japanese weasel": {
+"also": [
+[
+"weasel family",
+3
+]
+],
+"clash": []
+},
+"Okinawa rail": {
+"also": [
+[
+"flightless birds",
+4
+]
+],
+"clash": []
+},
+"mamushi": {
+"also": [
+[
+"venomous snakes",
+4
+]
+],
+"clash": []
+},
+"yamakagashi": {
+"also": [
+[
+"venomous snakes",
+4
+]
+],
+"clash": []
+},
+"momonga": {
+"also": [
+[
+"rodents",
+4
+]
+],
+"clash": []
+},
+"musasabi": {
+"also": [
+[
+"rodents",
+4
+]
+],
+"clash": []
+},
+"copper pheasant": {
+"also": [
+[
+"game birds",
+4
+]
+],
+"clash": []
+},
+"mejiro": {
+"also": [
+[
+"songbirds",
+4
+]
+],
+"clash": []
+},
+"Hokkaido wolf": {
+"also": [
+[
+"extinct animals",
+4
+],
+[
+"wild dogs and foxes",
+4
+]
+],
+"clash": []
+},
+"Kai Ken": {
+"also": [
+[
+"dog breeds",
+4
+]
+],
+"clash": []
+},
+"orangutan": {
+"also": [
+[
+"endangered animals",
+1
+],
+[
+"primates",
+1
+],
+[
+"rainforest",
+1
+]
+],
+"clash": [
+"monkeys"
+]
+},
+"Komodo dragon": {
+"also": [
+[
+"lizards",
+1
+]
+],
+"clash": [
+"dragons"
+]
+},
+"tarsier": {
+"also": [
+[
+"nocturnal animals",
+2
+],
+[
+"primates",
+2
+],
+[
+"rainforest",
+3
+]
+],
+"clash": [
+"monkeys"
+]
+},
+"proboscis monkey": {
+"also": [
+[
+"monkeys",
+2
+],
+[
+"primates",
+2
+]
+],
+"clash": []
+},
+"gibbon": {
+"also": [
+[
+"primates",
+1
+],
+[
+"rainforest",
+2
+]
+],
+"clash": [
+"monkeys"
+]
+},
+"sun bear": {
+"also": [
+[
+"bears",
+2
+],
+[
+"rainforest",
+3
+]
+],
+"clash": []
+},
+"clouded leopard": {
+"also": [
+[
+"big cats",
+2
+],
+[
+"rainforest",
+3
+]
+],
+"clash": []
+},
+"Malayan tapir": {
+"also": [
+[
+"black and white animals",
+2
+],
+[
+"hoofed mammals",
+3
+]
+],
+"clash": []
+},
+"binturong": {
+"also": [
+[
+"nocturnal animals",
+3
+],
+[
+"rainforest",
+4
+]
+],
+"clash": []
+},
+"slow loris": {
+"also": [
+[
+"nocturnal animals",
+2
+],
+[
+"primates",
+2
+],
+[
+"rainforest",
+3
+],
+[
+"venomous animals",
+3
+]
+],
+"clash": []
+},
+"Sumatran tiger": {
+"also": [
+[
+"big cats",
+1
+],
+[
+"endangered animals",
+2
+],
+[
+"rainforest",
+3
+],
+[
+"striped animals",
+2
+]
+],
+"clash": []
+},
+"Sumatran rhino": {
+"also": [
+[
+"animals with horns",
+2
+],
+[
+"endangered animals",
+2
+]
+],
+"clash": []
+},
+"Javan rhino": {
+"also": [
+[
+"animals with horns",
+2
+],
+[
+"endangered animals",
+2
+]
+],
+"clash": []
+},
+"Philippine eagle": {
+"also": [
+[
+"birds of prey",
+2
+],
+[
+"eagles",
+2
+],
+[
+"endangered animals",
+3
+],
+[
+"national animals",
+3
+]
+],
+"clash": []
+},
+"rhinoceros hornbill": {
+"also": [
+[
+"colorful birds",
+3
+]
+],
+"clash": []
+},
+"reticulated python": {
+"also": [
+[
+"constrictor snakes",
+2
+],
+[
+"snakes",
+2
+]
+],
+"clash": []
+},
+"betta": {
+"also": [
+[
+"pets",
+2
+],
+[
+"tropical fish",
+2
+]
+],
+"clash": []
+},
+"Atlas moth": {
+"also": [
+[
+"butterflies and moths",
+2
+],
+[
+"rainforest",
+4
+]
+],
+"clash": []
+},
+"tokay": {
+"also": [
+[
+"lizards",
+3
+]
+],
+"clash": []
+},
+"colugo": {
+"also": [
+[
+"nocturnal animals",
+4
+]
+],
+"clash": []
+},
+"siamang": {
+"also": [
+[
+"primates",
+3
+]
+],
+"clash": [
+"monkeys"
+]
+},
+"babirusa": {
+"also": [
+[
+"animals with tusks",
+3
+]
+],
+"clash": []
+},
+"anoa": {
+"also": [
+[
+"wild cattle",
+4
+]
+],
+"clash": []
+},
+"tamaraw": {
+"also": [
+[
+"wild cattle",
+4
+]
+],
+"clash": []
+},
+"banteng": {
+"also": [
+[
+"wild cattle",
+4
+]
+],
+"clash": []
+},
+"Bali myna": {
+"also": [
+[
+"endangered animals",
+3
+],
+[
+"songbirds",
+3
+]
+],
+"clash": []
+},
+"great argus": {
+"also": [
+[
+"game birds",
+4
+]
+],
+"clash": []
+},
+"Siamese crocodile": {
+"also": [
+[
+"crocodilians",
+3
+]
+],
+"clash": []
+},
+"Asian arowana": {
+"also": [
+[
+"freshwater fish",
+3
+],
+[
+"tropical fish",
+3
+]
+],
+"clash": []
+},
+"Mekong catfish": {
+"also": [
+[
+"freshwater fish",
+3
+]
+],
+"clash": []
+},
+"Irrawaddy dolphin": {
+"also": [
+[
+"whales and dolphins",
+3
+]
+],
+"clash": []
+},
+"mouse deer": {
+"also": [],
+"clash": [
+"deer"
+]
+},
+"birdwing": {
+"also": [
+[
+"butterflies and moths",
+3
+],
+[
+"rainforest",
+4
+]
+],
+"clash": []
+},
+"flying lizard": {
+"also": [
+[
+"lizards",
+3
+]
+],
+"clash": [
+"flying reptiles"
+]
+},
+"water monitor": {
+"also": [
+[
+"lizards",
+2
+]
+],
+"clash": []
+},
+"pygmy elephant": {
+"also": [
+[
+"animals with tusks",
+3
+]
+],
+"clash": []
+},
+"Malayan tiger": {
+"also": [
+[
+"big cats",
+2
+],
+[
+"national animals",
+4
+]
+],
+"clash": []
+},
+"saola": {
+"also": [
+[
+"animals with horns",
+4
+],
+[
+"endangered animals",
+3
+]
+],
+"clash": []
+},
+"douc": {
+"also": [
+[
+"monkeys",
+4
+],
+[
+"primates",
+4
+]
+],
+"clash": []
+},
+"kouprey": {
+"also": [
+[
+"wild cattle",
+4
+]
+],
+"clash": []
+},
+"giant gourami": {
+"also": [
+[
+"freshwater fish",
+4
+]
+],
+"clash": []
+},
+"chevrotain": {
+"also": [],
+"clash": [
+"deer"
+]
+},
+"Indochinese tiger": {
+"also": [
+[
+"big cats",
+3
+]
+],
+"clash": []
+},
+"marbled cat": {
+"also": [
+[
+"small wild cats",
+3
+]
+],
+"clash": []
+},
+"otter civet": {
+"also": [],
+"clash": [
+"weasel family"
+]
+},
+"Rajah Brooke's birdwing": {
+"also": [
+[
+"butterflies and moths",
+3
+]
+],
+"clash": []
+},
+"kangaroo": {
+"also": [
+[
+"marsupials",
+1
+],
+[
+"national animals",
+2
+],
+[
+"outback",
+1
+]
+],
+"clash": []
+},
+"koala": {
+"also": [
+[
+"marsupials",
+1
+]
+],
+"clash": [
+"bears"
+]
+},
+"wombat": {
+"also": [
+[
+"burrowing animals",
+1
+],
+[
+"marsupials",
+1
+],
+[
+"outback",
+2
+]
+],
+"clash": []
+},
+"platypus": {
+"also": [
+[
+"venomous animals",
+3
+]
+],
+"clash": []
+},
+"Tasmanian devil": {
+"also": [
+[
+"marsupials",
+1
+],
+[
+"scavengers",
+3
+]
+],
+"clash": []
+},
+"echidna": {
+"also": [
+[
+"prickly things",
+3
+]
+],
+"clash": []
+},
+"dingo": {
+"also": [
+[
+"outback",
+1
+],
+[
+"wild dogs and foxes",
+1
+]
+],
+"clash": []
+},
+"wallaby": {
+"also": [
+[
+"marsupials",
+1
+]
+],
+"clash": []
+},
+"quokka": {
+"also": [
+[
+"marsupials",
+2
+]
+],
+"clash": []
+},
+"sugar glider": {
+"also": [
+[
+"marsupials",
+2
+],
+[
+"nocturnal animals",
+2
+],
+[
+"small pets",
+3
+]
+],
+"clash": [
+"rodents"
+]
+},
+"joey": {
+"also": [
+[
+"baby animals",
+1
+],
+[
+"boys' names",
+3
+]
+],
+"clash": []
+},
+"frilled lizard": {
+"also": [
+[
+"lizards",
+1
+]
+],
+"clash": []
+},
+"bearded dragon": {
+"also": [
+[
+"lizards",
+1
+],
+[
+"pets",
+2
+]
+],
+"clash": [
+"dragons"
+]
+},
+"saltwater crocodile": {
+"also": [
+[
+"crocodilians",
+1
+]
+],
+"clash": []
+},
+"Tasmanian tiger": {
+"also": [
+[
+"extinct animals",
+1
+],
+[
+"marsupials",
+2
+],
+[
+"striped animals",
+3
+]
+],
+"clash": [
+"big cats"
+]
+},
+"numbat": {
+"also": [
+[
+"marsupials",
+2
+],
+[
+"striped animals",
+3
+]
+],
+"clash": []
+},
+"bilby": {
+"also": [
+[
+"burrowing animals",
+3
+],
+[
+"marsupials",
+2
+],
+[
+"outback",
+3
+]
+],
+"clash": []
+},
+"quoll": {
+"also": [
+[
+"marsupials",
+2
+],
+[
+"spotted animals",
+3
+]
+],
+"clash": []
+},
+"wallaroo": {
+"also": [
+[
+"marsupials",
+3
+],
+[
+"outback",
+3
+]
+],
+"clash": []
+},
+"bandicoot": {
+"also": [
+[
+"marsupials",
+2
+]
+],
+"clash": [
+"rodents"
+]
+},
+"thylacine": {
+"also": [
+[
+"extinct animals",
+2
+],
+[
+"marsupials",
+2
+]
+],
+"clash": []
+},
+"tree kangaroo": {
+"also": [
+[
+"marsupials",
+2
+]
+],
+"clash": []
+},
+"thorny devil": {
+"also": [
+[
+"desert",
+3
+],
+[
+"lizards",
+2
+],
+[
+"outback",
+2
+]
+],
+"clash": []
+},
+"goanna": {
+"also": [
+[
+"lizards",
+2
+],
+[
+"outback",
+2
+]
+],
+"clash": []
+},
+"taipan": {
+"also": [
+[
+"snakes",
+2
+],
+[
+"venomous animals",
+2
+],
+[
+"venomous snakes",
+2
+]
+],
+"clash": []
+},
+"death adder": {
+"also": [
+[
+"snakes",
+2
+],
+[
+"venomous snakes",
+2
+]
+],
+"clash": []
+},
+"redback": {
+"also": [
+[
+"spiders",
+2
+],
+[
+"venomous animals",
+2
+]
+],
+"clash": []
+},
+"funnel-web": {
+"also": [
+[
+"spiders",
+2
+],
+[
+"venomous animals",
+2
+]
+],
+"clash": []
+},
+"huntsman spider": {
+"also": [
+[
+"spiders",
+1
+]
+],
+"clash": []
+},
+"box jellyfish": {
+"also": [
+[
+"jellyfish and relatives",
+1
+],
+[
+"venomous animals",
+1
+]
+],
+"clash": []
+},
+"cane toad": {
+"also": [
+[
+"frogs and toads",
+1
+]
+],
+"clash": []
+},
+"barramundi": {
+"also": [
+[
+"fish to eat",
+2
+],
+[
+"freshwater fish",
+3
+]
+],
+"clash": []
+},
+"red kangaroo": {
+"also": [
+[
+"marsupials",
+1
+],
+[
+"outback",
+1
+]
+],
+"clash": []
+},
+"grey kangaroo": {
+"also": [
+[
+"marsupials",
+2
+]
+],
+"clash": []
+},
+"blue-ringed octopus": {
+"also": [
+[
+"cephalopods",
+2
+],
+[
+"venomous animals",
+2
+]
+],
+"clash": []
+},
+"brushtail possum": {
+"also": [
+[
+"city animals",
+3
+],
+[
+"marsupials",
+2
+]
+],
+"clash": []
+},
+"ringtail possum": {
+"also": [
+[
+"marsupials",
+2
+]
+],
+"clash": []
+},
+"pademelon": {
+"also": [
+[
+"marsupials",
+3
+]
+],
+"clash": []
+},
+"potoroo": {
+"also": [
+[
+"marsupials",
+3
+]
+],
+"clash": []
+},
+"bettong": {
+"also": [
+[
+"marsupials",
+3
+]
+],
+"clash": []
+},
+"cuscus": {
+"also": [
+[
+"marsupials",
+3
+]
+],
+"clash": [
+"north african food"
+]
+},
+"marsupial mole": {
+"also": [
+[
+"burrowing animals",
+3
+],
+[
+"marsupials",
+2
+]
+],
+"clash": []
+},
+"bluetongue": {
+"also": [
+[
+"lizards",
+2
+]
+],
+"clash": []
+},
+"inland taipan": {
+"also": [
+[
+"outback",
+3
+],
+[
+"venomous snakes",
+2
+]
+],
+"clash": []
+},
+"tiger snake": {
+"also": [
+[
+"striped animals",
+3
+],
+[
+"venomous snakes",
+2
+]
+],
+"clash": []
+},
+"perentie": {
+"also": [
+[
+"lizards",
+3
+],
+[
+"outback",
+3
+]
+],
+"clash": []
+},
+"shingleback": {
+"also": [
+[
+"lizards",
+3
+]
+],
+"clash": [
+"roof parts"
+]
+},
+"corroboree frog": {
+"also": [
+[
+"frogs and toads",
+3
+]
+],
+"clash": [
+"aboriginal culture"
+]
+},
+"Irukandji": {
+"also": [
+[
+"jellyfish and relatives",
+3
+],
+[
+"venomous animals",
+3
+]
+],
+"clash": []
+},
+"Murray cod": {
+"also": [
+[
+"freshwater fish",
+3
+]
+],
+"clash": []
+},
+"yabby": {
+"also": [
+[
+"crustaceans",
+3
+]
+],
+"clash": []
+},
+"saltie": {
+"also": [
+[
+"australian slang",
+3
+],
+[
+"crocodilians",
+3
+]
+],
+"clash": []
+},
+"eastern brown snake": {
+"also": [
+[
+"venomous snakes",
+2
+]
+],
+"clash": []
+},
+"kowari": {
+"also": [
+[
+"marsupials",
+4
+]
+],
+"clash": []
+},
+"dunnart": {
+"also": [
+[
+"marsupials",
+4
+]
+],
+"clash": []
+},
+"antechinus": {
+"also": [
+[
+"marsupials",
+4
+]
+],
+"clash": []
+},
+"hopping mouse": {
+"also": [
+[
+"rodents",
+3
+]
+],
+"clash": []
+},
+"rakali": {
+"also": [
+[
+"rodents",
+4
+]
+],
+"clash": []
+},
+"greater glider": {
+"also": [
+[
+"marsupials",
+3
+]
+],
+"clash": []
+},
+"honey possum": {
+"also": [
+[
+"marsupials",
+3
+],
+[
+"pollinators",
+3
+]
+],
+"clash": []
+},
+"Leadbeater's possum": {
+"also": [
+[
+"marsupials",
+3
+]
+],
+"clash": []
+},
+"Bennett's wallaby": {
+"also": [
+[
+"marsupials",
+3
+]
+],
+"clash": []
+},
+"emu": {
+"also": [
+[
+"flightless birds",
+1
+],
+[
+"national animals",
+3
+],
+[
+"outback",
+1
+]
+],
+"clash": []
+},
+"budgerigar": {
+"also": [
+[
+"parrots",
+1
+],
+[
+"pets",
+1
+]
+],
+"clash": []
+},
+"budgie": {
+"also": [
+[
+"parrots",
+1
+],
+[
+"pets",
+1
+]
+],
+"clash": []
+},
+"cockatoo": {
+"also": [
+[
+"parrots",
+1
+],
+[
+"pets",
+2
+]
+],
+"clash": []
+},
+"galah": {
+"also": [
+[
+"australian slang",
+3
+],
+[
+"outback",
+2
+],
+[
+"parrots",
+2
+]
+],
+"clash": []
+},
+"lyrebird": {
+"also": [
+[
+"songbirds",
+3
+]
+],
+"clash": []
+},
+"cassowary": {
+"also": [
+[
+"flightless birds",
+1
+],
+[
+"rainforest",
+3
+]
+],
+"clash": []
+},
+"lorikeet": {
+"also": [
+[
+"colorful birds",
+2
+],
+[
+"parrots",
+2
+]
+],
+"clash": []
+},
+"cockatiel": {
+"also": [
+[
+"parrots",
+1
+],
+[
+"pets",
+1
+]
+],
+"clash": []
+},
+"rainbow lorikeet": {
+"also": [
+[
+"colorful birds",
+1
+],
+[
+"parrots",
+2
+]
+],
+"clash": []
+},
+"black swan": {
+"also": [
+[
+"geese and swans",
+1
+],
+[
+"waterbirds",
+2
+]
+],
+"clash": []
+},
+"rosella": {
+"also": [
+[
+"colorful birds",
+2
+],
+[
+"parrots",
+2
+]
+],
+"clash": []
+},
+"corella": {
+"also": [
+[
+"parrots",
+3
+]
+],
+"clash": []
+},
+"bowerbird": {
+"also": [
+[
+"songbirds",
+3
+]
+],
+"clash": []
+},
+"fairywren": {
+"also": [
+[
+"songbirds",
+3
+]
+],
+"clash": []
+},
+"tawny frogmouth": {
+"also": [
+[
+"camouflaged animals",
+3
+],
+[
+"nocturnal animals",
+3
+]
+],
+"clash": [
+"owls"
+]
+},
+"willie wagtail": {
+"also": [
+[
+"songbirds",
+3
+]
+],
+"clash": []
+},
+"zebra finch": {
+"also": [
+[
+"finches",
+2
+],
+[
+"pets",
+3
+],
+[
+"songbirds",
+2
+]
+],
+"clash": []
+},
+"Gouldian finch": {
+"also": [
+[
+"colorful birds",
+2
+],
+[
+"finches",
+2
+]
+],
+"clash": []
+},
+"brush turkey": {
+"also": [
+[
+"game birds",
+3
+]
+],
+"clash": []
+},
+"honeyeater": {
+"also": [
+[
+"songbirds",
+3
+]
+],
+"clash": []
+},
+"sulfur-crested cockatoo": {
+"also": [
+[
+"parrots",
+2
+]
+],
+"clash": []
+},
+"wedge-tailed eagle": {
+"also": [
+[
+"birds of prey",
+2
+],
+[
+"eagles",
+2
+]
+],
+"clash": []
+},
+"currawong": {
+"also": [
+[
+"songbirds",
+4
+]
+],
+"clash": []
+},
+"butcherbird": {
+"also": [
+[
+"songbirds",
+4
+]
+],
+"clash": []
+},
+"wattlebird": {
+"also": [
+[
+"songbirds",
+4
+]
+],
+"clash": []
+},
+"brolga": {
+"also": [
+[
+"wading birds",
+3
+]
+],
+"clash": []
+},
+"Major Mitchell's cockatoo": {
+"also": [
+[
+"parrots",
+3
+]
+],
+"clash": []
+},
+"gang-gang": {
+"also": [
+[
+"parrots",
+4
+]
+],
+"clash": []
+},
+"satin bowerbird": {
+"also": [
+[
+"songbirds",
+3
+]
+],
+"clash": []
+},
+"malleefowl": {
+"also": [
+[
+"game birds",
+4
+]
+],
+"clash": []
+},
+"pardalote": {
+"also": [
+[
+"songbirds",
+4
+]
+],
+"clash": []
+},
+"noisy miner": {
+"also": [
+[
+"songbirds",
+4
+]
+],
+"clash": []
+},
+"magpie-lark": {
+"also": [
+[
+"songbirds",
+4
+]
+],
+"clash": []
+},
+"night parrot": {
+"also": [
+[
+"endangered animals",
+4
+],
+[
+"nocturnal animals",
+3
+],
+[
+"parrots",
+3
+]
+],
+"clash": []
+},
+"king parrot": {
+"also": [
+[
+"parrots",
+3
+]
+],
+"clash": []
+},
+"crimson rosella": {
+"also": [
+[
+"colorful birds",
+3
+],
+[
+"parrots",
+3
+]
+],
+"clash": []
+},
+"palm cockatoo": {
+"also": [
+[
+"parrots",
+3
+]
+],
+"clash": []
+},
+"eclectus": {
+"also": [
+[
+"colorful birds",
+3
+],
+[
+"parrots",
+3
+]
+],
+"clash": []
+},
+"whistling kite": {
+"also": [
+[
+"birds of prey",
+3
+]
+],
+"clash": []
+},
+"boobook": {
+"also": [
+[
+"birds of prey",
+3
+],
+[
+"nocturnal animals",
+3
+],
+[
+"owls",
+3
+]
+],
+"clash": []
+},
+"red-tailed black cockatoo": {
+"also": [
+[
+"parrots",
+3
+]
+],
+"clash": []
+},
+"friarbird": {
+"also": [
+[
+"songbirds",
+4
+]
+],
+"clash": []
+},
+"bell miner": {
+"also": [
+[
+"songbirds",
+4
+]
+],
+"clash": []
+},
+"apostlebird": {
+"also": [
+[
+"songbirds",
+4
+]
+],
+"clash": []
+},
+"ground parrot": {
+"also": [
+[
+"parrots",
+3
+]
+],
+"clash": []
+},
+"swift parrot": {
+"also": [
+[
+"endangered animals",
+4
+],
+[
+"parrots",
+3
+]
+],
+"clash": []
+},
+"regent honeyeater": {
+"also": [
+[
+"endangered animals",
+4
+],
+[
+"songbirds",
+4
+]
+],
+"clash": []
+},
+"superb parrot": {
+"also": [
+[
+"parrots",
+3
+]
+],
+"clash": []
+},
+"emu-wren": {
+"also": [
+[
+"songbirds",
+4
+]
+],
+"clash": []
+},
+"grasswren": {
+"also": [
+[
+"songbirds",
+4
+]
+],
+"clash": []
+},
+"bristlebird": {
+"also": [
+[
+"songbirds",
+4
+]
+],
+"clash": []
+},
+"scrubwren": {
+"also": [
+[
+"songbirds",
+4
+]
+],
+"clash": []
+},
+"thornbill": {
+"also": [
+[
+"songbirds",
+4
+]
+],
+"clash": []
+},
+"gerygone": {
+"also": [
+[
+"songbirds",
+4
+]
+],
+"clash": []
+},
+"kiwi": {
+"also": [
+[
+"flightless birds",
+1
+],
+[
+"fruits",
+1
+],
+[
+"national animals",
+2
+],
+[
+"nocturnal animals",
+2
+],
+[
+"tropical fruits",
+2
+]
+],
+"clash": [
+"nationalities"
+]
+},
+"kea": {
+"also": [
+[
+"mountain animals",
+3
+],
+[
+"parrots",
+2
+]
+],
+"clash": []
+},
+"kakapo": {
+"also": [
+[
+"endangered animals",
+2
+],
+[
+"flightless birds",
+2
+],
+[
+"nocturnal animals",
+2
+],
+[
+"parrots",
+2
+]
+],
+"clash": []
+},
+"moa": {
+"also": [
+[
+"extinct animals",
+2
+],
+[
+"flightless birds",
+2
+]
+],
+"clash": []
+},
+"tuatara": {
+"also": [],
+"clash": [
+"lizards"
+]
+},
+"takahe": {
+"also": [
+[
+"endangered animals",
+3
+],
+[
+"flightless birds",
+3
+]
+],
+"clash": []
+},
+"weta": {
+"also": [
+[
+"insects and bugs",
+2
+]
+],
+"clash": []
+},
+"kaka": {
+"also": [
+[
+"parrots",
+3
+]
+],
+"clash": []
+},
+"tui": {
+"also": [
+[
+"songbirds",
+3
+]
+],
+"clash": []
+},
+"pukeko": {
+"also": [
+[
+"waterbirds",
+4
+]
+],
+"clash": []
+},
+"glowworm": {
+"also": [
+[
+"insects and bugs",
+2
+],
+[
+"nature at night",
+2
+],
+[
+"things that glow",
+1
+]
+],
+"clash": []
+},
+"morepork": {
+"also": [
+[
+"birds of prey",
+3
+],
+[
+"nocturnal animals",
+3
+],
+[
+"owls",
+3
+]
+],
+"clash": []
+},
+"kokako": {
+"also": [
+[
+"songbirds",
+4
+]
+],
+"clash": []
+},
+"huia": {
+"also": [
+[
+"extinct animals",
+3
+],
+[
+"songbirds",
+4
+]
+],
+"clash": []
+},
+"weka": {
+"also": [
+[
+"flightless birds",
+3
+]
+],
+"clash": []
+},
+"kakariki": {
+"also": [
+[
+"parrots",
+4
+]
+],
+"clash": []
+},
+"Haast's eagle": {
+"also": [
+[
+"birds of prey",
+3
+],
+[
+"eagles",
+3
+],
+[
+"extinct animals",
+3
+]
+],
+"clash": []
+},
+"katipo": {
+"also": [
+[
+"spiders",
+3
+],
+[
+"venomous animals",
+3
+]
+],
+"clash": []
+},
+"ruru": {
+"also": [
+[
+"nocturnal animals",
+4
+],
+[
+"owls",
+4
+]
+],
+"clash": []
+},
+"piwakawaka": {
+"also": [
+[
+"songbirds",
+4
+]
+],
+"clash": []
+},
+"korimako": {
+"also": [
+[
+"songbirds",
+4
+]
+],
+"clash": []
+},
+"tieke": {
+"also": [
+[
+"songbirds",
+4
+]
+],
+"clash": []
+},
+"hihi": {
+"also": [
+[
+"songbirds",
+4
+]
+],
+"clash": []
+},
+"stitchbird": {
+"also": [
+[
+"songbirds",
+4
+]
+],
+"clash": []
+},
+"rifleman": {
+"also": [
+[
+"songbirds",
+4
+]
+],
+"clash": [
+"army words",
+"soldiers of history"
+]
+},
+"whio": {
+"also": [
+[
+"ducks",
+4
+]
+],
+"clash": []
+},
+"piopio": {
+"also": [
+[
+"extinct animals",
+4
+]
+],
+"clash": []
+},
+"laughing owl": {
+"also": [
+[
+"extinct animals",
+3
+],
+[
+"owls",
+3
+]
+],
+"clash": []
+},
+"kokopu": {
+"also": [
+[
+"freshwater fish",
+4
+]
+],
+"clash": []
+},
+"wetapunga": {
+"also": [
+[
+"insects and bugs",
+3
+]
+],
+"clash": []
+},
+"Hamilton's frog": {
+"also": [
+[
+"frogs and toads",
+4
+]
+],
+"clash": []
+},
+"karearea": {
+"also": [
+[
+"birds of prey",
+4
+]
+],
+"clash": []
+},
+"pateke": {
+"also": [
+[
+"ducks",
+4
+]
+],
+"clash": []
+},
+"toroa": {
+"also": [
+[
+"seabirds",
+4
+]
+],
+"clash": []
+},
+"titi": {
+"also": [
+[
+"seabirds",
+4
+]
+],
+"clash": []
+},
+"kiore": {
+"also": [
+[
+"rodents",
+4
+]
+],
+"clash": []
+},
+"pekapeka": {
+"also": [
+[
+"bats",
+4
+]
+],
+"clash": []
+},
+"kekeno": {
+"also": [
+[
+"seals and sea lions",
+4
+]
+],
+"clash": []
+},
+"kahawai": {
+"also": [
+[
+"sea fish",
+4
+]
+],
+"clash": []
+},
+"Otago skink": {
+"also": [
+[
+"lizards",
+3
+]
+],
+"clash": []
+},
+"jeweled gecko": {
+"also": [
+[
+"lizards",
+3
+]
+],
+"clash": []
+},
+"Hector's dolphin": {
+"also": [
+[
+"whales and dolphins",
+3
+]
+],
+"clash": []
+},
+"New Zealand fur seal": {
+"also": [
+[
+"seals and sea lions",
+2
+]
+],
+"clash": []
+},
+"krill": {
+"also": [
+[
+"antarctic coast",
+2
+],
+[
+"crustaceans",
+2
+],
+[
+"ocean",
+2
+],
+[
+"polar regions",
+2
+]
+],
+"clash": []
+},
+"leopard seal": {
+"also": [
+[
+"antarctic coast",
+2
+],
+[
+"polar regions",
+2
+],
+[
+"sea mammals",
+1
+],
+[
+"seals and sea lions",
+1
+]
+],
+"clash": [
+"spotted animals"
+]
+},
+"elephant seal": {
+"also": [
+[
+"antarctic coast",
+2
+],
+[
+"polar regions",
+2
+],
+[
+"sea mammals",
+1
+],
+[
+"seals and sea lions",
+1
+]
+],
+"clash": []
+},
+"Weddell seal": {
+"also": [
+[
+"antarctic coast",
+3
+],
+[
+"polar regions",
+3
+],
+[
+"sea mammals",
+2
+],
+[
+"seals and sea lions",
+2
+]
+],
+"clash": []
+},
+"crabeater seal": {
+"also": [
+[
+"antarctic coast",
+3
+],
+[
+"polar regions",
+3
+],
+[
+"seals and sea lions",
+2
+]
+],
+"clash": []
+},
+"wandering albatross": {
+"also": [
+[
+"antarctic coast",
+3
+],
+[
+"migrating animals",
+3
+],
+[
+"polar regions",
+3
+],
+[
+"seabirds",
+2
+]
+],
+"clash": []
+},
+"colossal squid": {
+"also": [
+[
+"antarctic coast",
+3
+],
+[
+"cephalopods",
+2
+],
+[
+"ocean giants",
+1
+],
+[
+"polar regions",
+3
+]
+],
+"clash": []
+},
+"Ross seal": {
+"also": [
+[
+"antarctic coast",
+4
+],
+[
+"polar regions",
+4
+],
+[
+"seals and sea lions",
+3
+]
+],
+"clash": []
+},
+"toothfish": {
+"also": [
+[
+"antarctic coast",
+4
+],
+[
+"deep sea fish",
+3
+],
+[
+"polar regions",
+4
+],
+[
+"sea fish",
+3
+]
+],
+"clash": []
+},
+"icefish": {
+"also": [
+[
+"antarctic coast",
+4
+],
+[
+"polar regions",
+4
+],
+[
+"sea fish",
+4
+]
+],
+"clash": []
+},
+"snow petrel": {
+"also": [
+[
+"antarctic coast",
+4
+],
+[
+"polar regions",
+4
+],
+[
+"seabirds",
+3
+]
+],
+"clash": []
+},
+"giant petrel": {
+"also": [
+[
+"antarctic coast",
+4
+],
+[
+"polar regions",
+4
+],
+[
+"scavengers",
+4
+],
+[
+"seabirds",
+3
+]
+],
+"clash": []
+},
+"sheathbill": {
+"also": [
+[
+"antarctic coast",
+4
+],
+[
+"polar regions",
+4
+],
+[
+"scavengers",
+4
+],
+[
+"seabirds",
+4
+]
+],
+"clash": []
+},
+"cape petrel": {
+"also": [
+[
+"antarctic coast",
+4
+],
+[
+"polar regions",
+4
+],
+[
+"seabirds",
+4
+]
+],
+"clash": []
+},
+"south polar skua": {
+"also": [
+[
+"antarctic coast",
+4
+],
+[
+"polar regions",
+4
+],
+[
+"seabirds",
+3
+]
+],
+"clash": []
+},
+"Antarctic cod": {
+"also": [
+[
+"antarctic coast",
+5
+],
+[
+"polar regions",
+5
+],
+[
+"sea fish",
+4
+]
+],
+"clash": []
+},
+"prion": {
+"also": [
+[
+"antarctic coast",
+5
+],
+[
+"polar regions",
+5
+],
+[
+"seabirds",
+4
+]
+],
+"clash": []
+},
+"southern fulmar": {
+"also": [
+[
+"antarctic coast",
+5
+],
+[
+"polar regions",
+5
+],
+[
+"seabirds",
+4
+]
+],
+"clash": []
+},
+"salp": {
+"also": [
+[
+"antarctic coast",
+5
+],
+[
+"jellyfish and relatives",
+4
+],
+[
+"polar regions",
+5
+]
+],
+"clash": []
+},
+"Antarctic shag": {
+"also": [
+[
+"antarctic coast",
+5
+],
+[
+"polar regions",
+5
+],
+[
+"seabirds",
+4
+]
+],
+"clash": []
+},
+"hourglass dolphin": {
+"also": [
+[
+"antarctic coast",
+5
+],
+[
+"polar regions",
+5
+],
+[
+"whales and dolphins",
+3
+]
+],
+"clash": []
+},
+"Wilson's storm petrel": {
+"also": [
+[
+"antarctic coast",
+5
+],
+[
+"polar regions",
+5
+],
+[
+"seabirds",
+4
+]
+],
+"clash": []
+},
+"Antarctic fur seal": {
+"also": [
+[
+"antarctic coast",
+4
+],
+[
+"polar regions",
+4
+],
+[
+"seals and sea lions",
+2
+]
+],
+"clash": []
+},
+"emperor penguin": {
+"also": [
+[
+"antarctic animals",
+1
+],
+[
+"antarctic coast",
+1
+],
+[
+"flightless birds",
+1
+],
+[
+"polar regions",
+1
+],
+[
+"seabirds",
+2
+]
+],
+"clash": []
+},
+"king penguin": {
+"also": [
+[
+"antarctic animals",
+2
+],
+[
+"antarctic coast",
+2
+],
+[
+"flightless birds",
+2
+],
+[
+"polar regions",
+2
+],
+[
+"seabirds",
+2
+]
+],
+"clash": []
+},
+"Adélie penguin": {
+"also": [
+[
+"antarctic animals",
+2
+],
+[
+"antarctic coast",
+2
+],
+[
+"flightless birds",
+2
+],
+[
+"polar regions",
+2
+]
+],
+"clash": []
+},
+"gentoo penguin": {
+"also": [
+[
+"antarctic animals",
+3
+],
+[
+"antarctic coast",
+3
+],
+[
+"flightless birds",
+2
+],
+[
+"polar regions",
+3
+]
+],
+"clash": []
+},
+"chinstrap penguin": {
+"also": [
+[
+"antarctic animals",
+3
+],
+[
+"antarctic coast",
+3
+],
+[
+"flightless birds",
+2
+],
+[
+"polar regions",
+3
+]
+],
+"clash": []
+},
+"macaroni penguin": {
+"also": [
+[
+"antarctic animals",
+3
+],
+[
+"antarctic coast",
+3
+],
+[
+"flightless birds",
+2
+],
+[
+"polar regions",
+3
+]
+],
+"clash": [
+"pasta shapes"
+]
+},
+"rockhopper penguin": {
+"also": [
+[
+"antarctic animals",
+3
+],
+[
+"antarctic coast",
+3
+],
+[
+"flightless birds",
+2
+],
+[
+"polar regions",
+3
+]
+],
+"clash": []
+},
+"little penguin": {
+"also": [
+[
+"australian animals",
+3
+],
+[
+"flightless birds",
+2
+],
+[
+"new zealand animals",
+3
+]
+],
+"clash": [
+"antarctic animals",
+"antarctic coast"
+]
+},
+"fairy penguin": {
+"also": [
+[
+"australian animals",
+3
+],
+[
+"flightless birds",
+2
+]
+],
+"clash": [
+"antarctic animals",
+"antarctic coast"
+]
+},
+"African penguin": {
+"also": [
+[
+"african birds",
+2
+],
+[
+"flightless birds",
+2
+]
+],
+"clash": [
+"antarctic animals",
+"antarctic coast"
+]
+},
+"Humboldt penguin": {
+"also": [
+[
+"flightless birds",
+3
+],
+[
+"south american animals",
+3
+]
+],
+"clash": [
+"antarctic animals",
+"antarctic coast"
+]
+},
+"Magellanic penguin": {
+"also": [
+[
+"flightless birds",
+3
+],
+[
+"south american animals",
+3
+]
+],
+"clash": [
+"antarctic animals",
+"antarctic coast"
+]
+},
+"Galapagos penguin": {
+"also": [
+[
+"flightless birds",
+2
+]
+],
+"clash": [
+"antarctic animals",
+"antarctic coast"
+]
+},
+"yellow-eyed penguin": {
+"also": [
+[
+"flightless birds",
+3
+]
+],
+"clash": [
+"antarctic animals",
+"antarctic coast"
+]
+},
+"jackass penguin": {
+"also": [
+[
+"african birds",
+3
+],
+[
+"flightless birds",
+3
+]
+],
+"clash": [
+"antarctic animals",
+"antarctic coast"
+]
+},
+"Fiordland penguin": {
+"also": [
+[
+"flightless birds",
+3
+]
+],
+"clash": [
+"antarctic animals",
+"antarctic coast"
+]
+},
+"royal penguin": {
+"also": [
+[
+"antarctic animals",
+4
+],
+[
+"antarctic coast",
+4
+],
+[
+"flightless birds",
+3
+],
+[
+"polar regions",
+4
+]
+],
+"clash": []
+},
+"Snares penguin": {
+"also": [
+[
+"flightless birds",
+4
+]
+],
+"clash": [
+"antarctic animals",
+"antarctic coast"
+]
+},
+"erect-crested penguin": {
+"also": [
+[
+"flightless birds",
+4
+]
+],
+"clash": [
+"antarctic animals",
+"antarctic coast"
+]
+},
+"hoiho": {
+"also": [
+[
+"flightless birds",
+4
+],
+[
+"new zealand animals",
+4
+]
+],
+"clash": [
+"antarctic animals",
+"antarctic coast"
+]
+},
+"korora": {
+"also": [
+[
+"flightless birds",
+4
+],
+[
+"new zealand animals",
+4
+]
+],
+"clash": [
+"antarctic animals",
+"antarctic coast"
+]
+},
+"tawaki": {
+"also": [
+[
+"flightless birds",
+4
+],
+[
+"new zealand animals",
+4
+]
+],
+"clash": [
+"antarctic animals",
+"antarctic coast"
+]
+},
+"rhea": {
+"also": [
+[
+"flightless birds",
+2
+],
+[
+"greek gods",
+3
+],
+[
+"moons",
+4
+],
+[
+"titans",
+3
+]
+],
+"clash": []
+},
+"giant anteater": {
+"also": [],
+"clash": [
+"amazon animals",
+"rainforest animals"
+]
+},
+"maned wolf": {
+"also": [
+[
+"wild dogs and foxes",
+3
+]
+],
+"clash": []
+},
+"nutria": {
+"also": [
+[
+"rodents",
+3
+]
+],
+"clash": []
+},
+"golden lion tamarin": {
+"also": [
+[
+"endangered animals",
+2
+],
+[
+"monkeys",
+2
+],
+[
+"primates",
+2
+]
+],
+"clash": []
+},
+"hyacinth macaw": {
+"also": [
+[
+"colorful birds",
+2
+],
+[
+"parrots",
+2
+]
+],
+"clash": []
+},
+"mara": {
+"also": [
+[
+"rodents",
+3
+]
+],
+"clash": []
+},
+"giant armadillo": {
+"also": [
+[
+"animals with shells",
+2
+],
+[
+"burrowing animals",
+3
+]
+],
+"clash": []
+},
+"pampas deer": {
+"also": [
+[
+"deer",
+3
+]
+],
+"clash": []
+},
+"marsh deer": {
+"also": [
+[
+"deer",
+3
+]
+],
+"clash": []
+},
+"pampas cat": {
+"also": [
+[
+"small wild cats",
+3
+]
+],
+"clash": []
+},
+"coypu": {
+"also": [
+[
+"rodents",
+3
+]
+],
+"clash": []
+},
+"bush dog": {
+"also": [
+[
+"wild dogs and foxes",
+3
+]
+],
+"clash": []
+},
+"pudu": {
+"also": [
+[
+"deer",
+3
+]
+],
+"clash": []
+},
+"lion tamarin": {
+"also": [
+[
+"monkeys",
+2
+]
+],
+"clash": []
+},
+"jabiru": {
+"also": [
+[
+"wading birds",
+3
+]
+],
+"clash": []
+},
+"pampas fox": {
+"also": [
+[
+"wild dogs and foxes",
+3
+]
+],
+"clash": []
+},
+"toco toucan": {
+"also": [
+[
+"colorful birds",
+1
+],
+[
+"rainforest animals",
+2
+]
+],
+"clash": []
+},
+"three-banded armadillo": {
+"also": [
+[
+"animals with shells",
+2
+]
+],
+"clash": []
+},
+"muriqui": {
+"also": [
+[
+"monkeys",
+4
+]
+],
+"clash": []
+},
+"yacare caiman": {
+"also": [
+[
+"crocodilians",
+3
+]
+],
+"clash": []
+},
+"tuco-tuco": {
+"also": [
+[
+"burrowing animals",
+4
+],
+[
+"rodents",
+4
+]
+],
+"clash": []
+},
+"lesser rhea": {
+"also": [
+[
+"flightless birds",
+3
+]
+],
+"clash": []
+},
+"chaco peccary": {
+"also": [
+[
+"hoofed mammals",
+4
+]
+],
+"clash": []
+},
+"kodkod": {
+"also": [
+[
+"small wild cats",
+4
+]
+],
+"clash": []
+},
+"warrah": {
+"also": [
+[
+"extinct animals",
+4
+],
+[
+"wild dogs and foxes",
+4
+]
+],
+"clash": []
+},
+"jaguar": {
+"also": [
+[
+"big cats",
+1
+],
+[
+"british car brands",
+2
+],
+[
+"car brands",
+2
+],
+[
+"rainforest",
+1
+],
+[
+"spotted animals",
+1
+]
+],
+"clash": []
+},
+"sloth": {
+"also": [
+[
+"rainforest",
+1
+]
+],
+"clash": [
+"bad habits"
+]
+},
+"anaconda": {
+"also": [
+[
+"constrictor snakes",
+1
+],
+[
+"rainforest",
+1
+],
+[
+"snakes",
+1
+]
+],
+"clash": []
+},
+"piranha": {
+"also": [
+[
+"freshwater fish",
+1
+],
+[
+"tropical fish",
+2
+]
+],
+"clash": [
+"rainforest",
+"rainforest animals"
+]
+},
+"toucan": {
+"also": [
+[
+"colorful birds",
+1
+],
+[
+"rainforest",
+1
+]
+],
+"clash": []
+},
+"macaw": {
+"also": [
+[
+"colorful birds",
+1
+],
+[
+"parrots",
+1
+],
+[
+"rainforest",
+1
+]
+],
+"clash": []
+},
+"capybara": {
+"also": [
+[
+"rainforest",
+1
+],
+[
+"rainforest animals",
+1
+],
+[
+"rodents",
+1
+]
+],
+"clash": []
+},
+"poison dart frog": {
+"also": [
+[
+"frogs and toads",
+1
+],
+[
+"rainforest",
+2
+]
+],
+"clash": [
+"venomous animals"
+]
+},
+"tapir": {
+"also": [
+[
+"hoofed mammals",
+3
+],
+[
+"rainforest",
+2
+]
+],
+"clash": []
+},
+"caiman": {
+"also": [
+[
+"crocodilians",
+1
+],
+[
+"rainforest",
+2
+],
+[
+"rainforest animals",
+2
+]
+],
+"clash": []
+},
+"electric eel": {
+"also": [
+[
+"freshwater fish",
+2
+],
+[
+"rays and eels",
+1
+]
+],
+"clash": [
+"rainforest",
+"rainforest animals"
+]
+},
+"harpy eagle": {
+"also": [
+[
+"birds of prey",
+1
+],
+[
+"eagles",
+1
+],
+[
+"rainforest",
+2
+]
+],
+"clash": []
+},
+"howler monkey": {
+"also": [
+[
+"monkeys",
+1
+],
+[
+"primates",
+1
+],
+[
+"rainforest",
+2
+]
+],
+"clash": []
+},
+"spider monkey": {
+"also": [
+[
+"monkeys",
+1
+],
+[
+"primates",
+1
+],
+[
+"rainforest",
+2
+]
+],
+"clash": []
+},
+"squirrel monkey": {
+"also": [
+[
+"monkeys",
+1
+],
+[
+"primates",
+1
+],
+[
+"rainforest",
+2
+],
+[
+"rainforest animals",
+2
+]
+],
+"clash": []
+},
+"ocelot": {
+"also": [
+[
+"rainforest",
+2
+],
+[
+"small wild cats",
+1
+],
+[
+"spotted animals",
+2
+]
+],
+"clash": []
+},
+"boa constrictor": {
+"also": [
+[
+"constrictor snakes",
+1
+],
+[
+"rainforest",
+2
+],
+[
+"snakes",
+1
+]
+],
+"clash": []
+},
+"pink river dolphin": {
+"also": [
+[
+"whales and dolphins",
+2
+]
+],
+"clash": [
+"rainforest",
+"rainforest animals"
+]
+},
+"arapaima": {
+"also": [
+[
+"freshwater fish",
+3
+]
+],
+"clash": [
+"rainforest",
+"rainforest animals"
+]
+},
+"hoatzin": {
+"also": [
+[
+"rainforest",
+3
+],
+[
+"rainforest animals",
+3
+]
+],
+"clash": []
+},
+"giant otter": {
+"also": [
+[
+"endangered animals",
+3
+],
+[
+"rainforest",
+3
+],
+[
+"rainforest animals",
+3
+],
+[
+"weasel family",
+2
+]
+],
+"clash": []
+},
+"black caiman": {
+"also": [
+[
+"crocodilians",
+2
+],
+[
+"rainforest",
+3
+],
+[
+"rainforest animals",
+3
+]
+],
+"clash": []
+},
+"emerald tree boa": {
+"also": [
+[
+"constrictor snakes",
+2
+],
+[
+"rainforest",
+3
+],
+[
+"rainforest animals",
+3
+],
+[
+"snakes",
+2
+]
+],
+"clash": []
+},
+"marmoset": {
+"also": [
+[
+"monkeys",
+2
+],
+[
+"primates",
+2
+],
+[
+"rainforest",
+3
+]
+],
+"clash": []
+},
+"tamarin": {
+"also": [
+[
+"monkeys",
+2
+],
+[
+"primates",
+2
+],
+[
+"rainforest",
+3
+]
+],
+"clash": []
+},
+"capuchin": {
+"also": [
+[
+"monkeys",
+1
+],
+[
+"primates",
+1
+],
+[
+"rainforest",
+3
+]
+],
+"clash": [
+"coffee drinks",
+"religious clothing"
+]
+},
+"kinkajou": {
+"also": [
+[
+"nocturnal animals",
+3
+],
+[
+"rainforest",
+3
+]
+],
+"clash": []
+},
+"coati": {
+"also": [
+[
+"rainforest",
+3
+]
+],
+"clash": []
+},
+"peccary": {
+"also": [
+[
+"hoofed mammals",
+3
+],
+[
+"rainforest",
+3
+]
+],
+"clash": []
+},
+"agouti": {
+"also": [
+[
+"rainforest",
+3
+],
+[
+"rodents",
+3
+]
+],
+"clash": []
+},
+"margay": {
+"also": [
+[
+"rainforest",
+3
+],
+[
+"rainforest animals",
+3
+],
+[
+"small wild cats",
+3
+]
+],
+"clash": []
+},
+"leafcutter ant": {
+"also": [
+[
+"insects and bugs",
+2
+],
+[
+"rainforest",
+3
+]
+],
+"clash": []
+},
+"bullet ant": {
+"also": [
+[
+"insects and bugs",
+2
+],
+[
+"rainforest",
+3
+],
+[
+"venomous animals",
+3
+]
+],
+"clash": []
+},
+"army ant": {
+"also": [
+[
+"insects and bugs",
+2
+],
+[
+"rainforest",
+3
+]
+],
+"clash": []
+},
+"blue morpho": {
+"also": [
+[
+"butterflies and moths",
+2
+],
+[
+"rainforest",
+3
+]
+],
+"clash": []
+},
+"Amazon parrot": {
+"also": [
+[
+"parrots",
+2
+],
+[
+"rainforest",
+3
+],
+[
+"rainforest animals",
+3
+]
+],
+"clash": []
+},
+"vampire bat": {
+"also": [
+[
+"bats",
+1
+],
+[
+"nocturnal animals",
+1
+],
+[
+"rainforest",
+3
+],
+[
+"rainforest animals",
+3
+]
+],
+"clash": [
+"undead"
+]
+},
+"neon tetra": {
+"also": [
+[
+"freshwater fish",
+2
+],
+[
+"tropical fish",
+1
+]
+],
+"clash": [
+"rainforest",
+"rainforest animals"
+]
+},
+"boto": {
+"also": [
+[
+"whales and dolphins",
+3
+]
+],
+"clash": [
+"rainforest",
+"rainforest animals"
+]
+},
+"uakari": {
+"also": [
+[
+"monkeys",
+3
+],
+[
+"rainforest",
+4
+],
+[
+"rainforest animals",
+4
+]
+],
+"clash": []
+},
+"titi monkey": {
+"also": [
+[
+"monkeys",
+3
+],
+[
+"rainforest",
+4
+],
+[
+"rainforest animals",
+4
+]
+],
+"clash": []
+},
+"saki monkey": {
+"also": [
+[
+"monkeys",
+3
+],
+[
+"rainforest",
+4
+],
+[
+"rainforest animals",
+4
+]
+],
+"clash": []
+},
+"night monkey": {
+"also": [
+[
+"monkeys",
+3
+],
+[
+"nocturnal animals",
+3
+],
+[
+"rainforest",
+4
+],
+[
+"rainforest animals",
+4
+]
+],
+"clash": []
+},
+"tamandua": {
+"also": [
+[
+"rainforest",
+4
+],
+[
+"rainforest animals",
+4
+]
+],
+"clash": []
+},
+"paca": {
+"also": [
+[
+"rainforest",
+4
+],
+[
+"rainforest animals",
+4
+],
+[
+"rodents",
+4
+]
+],
+"clash": []
+},
+"jaguarundi": {
+"also": [
+[
+"rainforest",
+4
+],
+[
+"rainforest animals",
+4
+],
+[
+"small wild cats",
+3
+]
+],
+"clash": []
+},
+"bushmaster": {
+"also": [
+[
+"rainforest",
+4
+],
+[
+"rainforest animals",
+4
+],
+[
+"snakes",
+3
+],
+[
+"venomous snakes",
+3
+]
+],
+"clash": []
+},
+"fer-de-lance": {
+"also": [
+[
+"rainforest",
+4
+],
+[
+"rainforest animals",
+4
+],
+[
+"snakes",
+3
+],
+[
+"venomous snakes",
+3
+]
+],
+"clash": []
+},
+"glass frog": {
+"also": [
+[
+"frogs and toads",
+2
+],
+[
+"rainforest",
+4
+]
+],
+"clash": []
+},
+"Goliath birdeater": {
+"also": [
+[
+"rainforest",
+4
+],
+[
+"spiders",
+2
+]
+],
+"clash": []
+},
+"matamata": {
+"also": [
+[
+"turtles and tortoises",
+3
+]
+],
+"clash": [
+"rainforest",
+"rainforest animals"
+]
+},
+"oropendola": {
+"also": [
+[
+"rainforest",
+4
+],
+[
+"rainforest animals",
+4
+],
+[
+"songbirds",
+4
+]
+],
+"clash": []
+},
+"umbrellabird": {
+"also": [
+[
+"rainforest",
+4
+],
+[
+"rainforest animals",
+4
+]
+],
+"clash": []
+},
+"cock-of-the-rock": {
+"also": [
+[
+"colorful birds",
+3
+],
+[
+"rainforest",
+4
+],
+[
+"rainforest animals",
+4
+]
+],
+"clash": []
+},
+"motmot": {
+"also": [
+[
+"colorful birds",
+4
+],
+[
+"rainforest",
+4
+],
+[
+"rainforest animals",
+4
+]
+],
+"clash": []
+},
+"manakin": {
+"also": [
+[
+"rainforest",
+4
+],
+[
+"rainforest animals",
+4
+],
+[
+"songbirds",
+4
+]
+],
+"clash": []
+},
+"potoo": {
+"also": [
+[
+"camouflaged animals",
+3
+],
+[
+"nocturnal animals",
+3
+],
+[
+"rainforest",
+4
+],
+[
+"rainforest animals",
+4
+]
+],
+"clash": []
+},
+"candiru": {
+"also": [
+[
+"freshwater fish",
+4
+]
+],
+"clash": [
+"rainforest",
+"rainforest animals"
+]
+},
+"pacu": {
+"also": [
+[
+"freshwater fish",
+3
+]
+],
+"clash": [
+"rainforest",
+"rainforest animals"
+]
+},
+"discus": {
+"also": [
+[
+"tropical fish",
+2
+]
+],
+"clash": [
+"field events",
+"rainforest",
+"rainforest animals"
+]
+},
+"spectacled caiman": {
+"also": [
+[
+"crocodilians",
+3
+],
+[
+"rainforest",
+4
+],
+[
+"rainforest animals",
+4
+]
+],
+"clash": []
+},
+"Amazonian manatee": {
+"also": [
+[
+"sea mammals",
+3
+]
+],
+"clash": [
+"rainforest",
+"rainforest animals"
+]
+},
+"sunbittern": {
+"also": [
+[
+"rainforest",
+5
+],
+[
+"rainforest animals",
+5
+],
+[
+"wading birds",
+4
+]
+],
+"clash": []
+},
+"tinamou": {
+"also": [
+[
+"game birds",
+4
+],
+[
+"rainforest",
+5
+],
+[
+"rainforest animals",
+5
+]
+],
+"clash": []
+},
+"jacamar": {
+"also": [
+[
+"rainforest",
+5
+],
+[
+"rainforest animals",
+5
+]
+],
+"clash": []
+},
+"tambaqui": {
+"also": [
+[
+"freshwater fish",
+4
+]
+],
+"clash": [
+"rainforest",
+"rainforest animals"
+]
+},
+"alpaca": {
+"also": [
+[
+"andes",
+1
+],
+[
+"farm animals",
+2
+],
+[
+"mountain animals",
+2
+],
+[
+"wool fabrics",
+2
+]
+],
+"clash": []
+},
+"vicuña": {
+"also": [
+[
+"andes",
+2
+],
+[
+"mountain animals",
+3
+],
+[
+"wool fabrics",
+4
+]
+],
+"clash": []
+},
+"Andean condor": {
+"also": [
+[
+"andes",
+2
+],
+[
+"birds of prey",
+1
+],
+[
+"mountain animals",
+2
+],
+[
+"national animals",
+3
+],
+[
+"scavengers",
+2
+],
+[
+"vultures",
+1
+]
+],
+"clash": []
+},
+"condor": {
+"also": [
+[
+"andes",
+2
+],
+[
+"birds of prey",
+1
+],
+[
+"mountain animals",
+2
+],
+[
+"scavengers",
+2
+],
+[
+"vultures",
+1
+]
+],
+"clash": []
+},
+"chinchilla": {
+"also": [
+[
+"andes",
+2
+],
+[
+"mountain animals",
+3
+],
+[
+"pets",
+2
+],
+[
+"rodents",
+1
+],
+[
+"small pets",
+2
+]
+],
+"clash": []
+},
+"guanaco": {
+"also": [
+[
+"andes",
+3
+],
+[
+"mountain animals",
+3
+]
+],
+"clash": []
+},
+"spectacled bear": {
+"also": [
+[
+"andes",
+3
+],
+[
+"bears",
+2
+],
+[
+"mountain animals",
+3
+]
+],
+"clash": []
+},
+"guinea pig": {
+"also": [
+[
+"andes",
+3
+],
+[
+"pets",
+1
+],
+[
+"rodents",
+1
+],
+[
+"small pets",
+1
+]
+],
+"clash": []
+},
+"viscacha": {
+"also": [
+[
+"andes",
+4
+],
+[
+"mountain animals",
+3
+],
+[
+"rodents",
+3
+]
+],
+"clash": []
+},
+"mountain tapir": {
+"also": [
+[
+"andes",
+4
+],
+[
+"endangered animals",
+4
+],
+[
+"mountain animals",
+3
+]
+],
+"clash": []
+},
+"Andean flamingo": {
+"also": [
+[
+"andes",
+4
+],
+[
+"wading birds",
+2
+]
+],
+"clash": []
+},
+"Titicaca frog": {
+"also": [
+[
+"andes",
+4
+],
+[
+"frogs and toads",
+3
+]
+],
+"clash": []
+},
+"giant hummingbird": {
+"also": [
+[
+"andes",
+4
+],
+[
+"pollinators",
+3
+]
+],
+"clash": []
+},
+"huemul": {
+"also": [
+[
+"andes",
+5
+],
+[
+"deer",
+4
+]
+],
+"clash": []
+},
+"taruca": {
+"also": [
+[
+"andes",
+5
+],
+[
+"deer",
+4
+]
+],
+"clash": []
+},
+"Andean cat": {
+"also": [
+[
+"andes",
+5
+],
+[
+"small wild cats",
+3
+]
+],
+"clash": []
+},
+"culpeo": {
+"also": [
+[
+"andes",
+5
+],
+[
+"wild dogs and foxes",
+4
+]
+],
+"clash": []
+},
+"torrent duck": {
+"also": [
+[
+"andes",
+5
+],
+[
+"ducks",
+3
+]
+],
+"clash": []
+},
+"Andean goose": {
+"also": [
+[
+"andes",
+5
+],
+[
+"geese and swans",
+3
+]
+],
+"clash": []
+},
+"puna rhea": {
+"also": [
+[
+"andes",
+5
+],
+[
+"flightless birds",
+4
+]
+],
+"clash": []
+},
+"giant coot": {
+"also": [
+[
+"andes",
+5
+],
+[
+"waterbirds",
+4
+]
+],
+"clash": []
+},
+"pacarana": {
+"also": [
+[
+"andes",
+5
+],
+[
+"rodents",
+4
+]
+],
+"clash": []
+},
+"Andean hillstar": {
+"also": [
+[
+"andes",
+5
+],
+[
+"pollinators",
+4
+]
+],
+"clash": []
+},
+"sword-billed hummingbird": {
+"also": [
+[
+"andes",
+5
+],
+[
+"pollinators",
+3
+]
+],
+"clash": []
+},
+"giant tortoise": {
+"also": [
+[
+"animals with shells",
+1
+],
+[
+"turtles and tortoises",
+1
+]
+],
+"clash": []
+},
+"Galapagos tortoise": {
+"also": [
+[
+"animals with shells",
+1
+],
+[
+"turtles and tortoises",
+1
+]
+],
+"clash": []
+},
+"marine iguana": {
+"also": [
+[
+"lizards",
+2
+]
+],
+"clash": []
+},
+"blue-footed booby": {
+"also": [
+[
+"seabirds",
+2
+]
+],
+"clash": []
+},
+"sea lion": {
+"also": [
+[
+"sea mammals",
+1
+],
+[
+"seals and sea lions",
+1
+]
+],
+"clash": []
+},
+"land iguana": {
+"also": [
+[
+"lizards",
+2
+]
+],
+"clash": []
+},
+"flightless cormorant": {
+"also": [
+[
+"flightless birds",
+2
+],
+[
+"seabirds",
+3
+]
+],
+"clash": []
+},
+"Galapagos finch": {
+"also": [
+[
+"finches",
+2
+]
+],
+"clash": []
+},
+"Lonesome George": {
+"also": [
+[
+"turtles and tortoises",
+3
+]
+],
+"clash": []
+},
+"frigatebird": {
+"also": [
+[
+"seabirds",
+2
+]
+],
+"clash": []
+},
+"hammerhead": {
+"also": [
+[
+"sharks",
+1
+]
+],
+"clash": []
+},
+"waved albatross": {
+"also": [
+[
+"seabirds",
+3
+]
+],
+"clash": []
+},
+"lava lizard": {
+"also": [
+[
+"lizards",
+3
+]
+],
+"clash": []
+},
+"Sally Lightfoot": {
+"also": [
+[
+"crustaceans",
+3
+],
+[
+"tide pool life",
+3
+]
+],
+"clash": []
+},
+"Galapagos hawk": {
+"also": [
+[
+"birds of prey",
+3
+]
+],
+"clash": []
+},
+"Galapagos shark": {
+"also": [
+[
+"sharks",
+2
+]
+],
+"clash": []
+},
+"lava gull": {
+"also": [
+[
+"seabirds",
+3
+]
+],
+"clash": []
+},
+"Nazca booby": {
+"also": [
+[
+"seabirds",
+3
+]
+],
+"clash": []
+},
+"red-footed booby": {
+"also": [
+[
+"seabirds",
+3
+]
+],
+"clash": []
+},
+"swallow-tailed gull": {
+"also": [
+[
+"seabirds",
+3
+]
+],
+"clash": []
+},
+"vampire finch": {
+"also": [
+[
+"finches",
+3
+]
+],
+"clash": []
+},
+"lava heron": {
+"also": [
+[
+"wading birds",
+3
+]
+],
+"clash": []
+},
+"Galapagos mockingbird": {
+"also": [
+[
+"songbirds",
+3
+]
+],
+"clash": []
+},
+"Galapagos fur seal": {
+"also": [
+[
+"seals and sea lions",
+3
+]
+],
+"clash": []
+},
+"woodpecker finch": {
+"also": [
+[
+"finches",
+3
+]
+],
+"clash": []
+},
+"cactus finch": {
+"also": [
+[
+"finches",
+3
+]
+],
+"clash": []
+},
+"Darwin's finch": {
+"also": [
+[
+"evolution words",
+3
+],
+[
+"finches",
+2
+]
+],
+"clash": []
+},
+"grizzly bear": {
+"also": [
+[
+"bears",
+1
+],
+[
+"hibernating animals",
+2
+],
+[
+"mountain animals",
+2
+]
+],
+"clash": []
+},
+"bison": {
+"also": [
+[
+"animals with horns",
+2
+],
+[
+"game meats",
+3
+],
+[
+"ice age animals",
+3
+],
+[
+"national animals",
+3
+],
+[
+"prairie",
+1
+],
+[
+"wild cattle",
+1
+]
+],
+"clash": []
+},
+"moose": {
+"also": [
+[
+"animals with horns",
+1
+],
+[
+"arctic animals",
+3
+],
+[
+"deer",
+1
+],
+[
+"taiga",
+2
+]
+],
+"clash": []
+},
+"raccoon": {
+"also": [
+[
+"city animals",
+1
+],
+[
+"nocturnal animals",
+1
+]
+],
+"clash": []
+},
+"skunk": {
+"also": [
+[
+"black and white animals",
+1
+],
+[
+"nocturnal animals",
+2
+],
+[
+"smelly things",
+1
+],
+[
+"striped animals",
+2
+]
+],
+"clash": [
+"weasel family"
+]
+},
+"beaver": {
+"also": [
+[
+"national animals",
+3
+],
+[
+"pond life",
+2
+],
+[
+"rodents",
+1
+]
+],
+"clash": []
+},
+"coyote": {
+"also": [
+[
+"city animals",
+3
+],
+[
+"desert",
+2
+],
+[
+"prairie",
+2
+],
+[
+"scavengers",
+2
+],
+[
+"wild dogs and foxes",
+1
+]
+],
+"clash": []
+},
+"black bear": {
+"also": [
+[
+"bears",
+1
+],
+[
+"hibernating animals",
+2
+],
+[
+"woodland animals",
+2
+]
+],
+"clash": []
+},
+"elk": {
+"also": [
+[
+"animals with horns",
+1
+],
+[
+"deer",
+1
+]
+],
+"clash": []
+},
+"mountain lion": {
+"also": [
+[
+"big cats",
+1
+],
+[
+"mountain animals",
+1
+]
+],
+"clash": []
+},
+"cougar": {
+"also": [
+[
+"big cats",
+1
+],
+[
+"mountain animals",
+2
+]
+],
+"clash": []
+},
+"bobcat": {
+"also": [
+[
+"small wild cats",
+1
+]
+],
+"clash": [
+"construction vehicles"
+]
+},
+"prairie dog": {
+"also": [
+[
+"burrowing animals",
+1
+],
+[
+"prairie",
+1
+],
+[
+"rodents",
+1
+]
+],
+"clash": [
+"wild dogs and foxes"
+]
+},
+"groundhog": {
+"also": [
+[
+"burrowing animals",
+1
+],
+[
+"hibernating animals",
+1
+],
+[
+"rodents",
+1
+]
+],
+"clash": []
+},
+"chipmunk": {
+"also": [
+[
+"rodents",
+1
+],
+[
+"striped animals",
+2
+]
+],
+"clash": []
+},
+"rattlesnake": {
+"also": [
+[
+"desert",
+1
+],
+[
+"snakes",
+1
+],
+[
+"venomous animals",
+1
+],
+[
+"venomous snakes",
+1
+]
+],
+"clash": []
+},
+"opossum": {
+"also": [
+[
+"marsupials",
+1
+],
+[
+"nocturnal animals",
+2
+]
+],
+"clash": []
+},
+"porcupine": {
+"also": [
+[
+"prickly things",
+1
+],
+[
+"rodents",
+2
+]
+],
+"clash": []
+},
+"white-tailed deer": {
+"also": [
+[
+"deer",
+1
+]
+],
+"clash": []
+},
+"mule deer": {
+"also": [
+[
+"deer",
+2
+]
+],
+"clash": [
+"horse family"
+]
+},
+"pronghorn": {
+"also": [
+[
+"animals with horns",
+2
+],
+[
+"fast animals",
+1
+],
+[
+"prairie",
+1
+]
+],
+"clash": [
+"antelopes"
+]
+},
+"bighorn sheep": {
+"also": [
+[
+"animals with horns",
+1
+],
+[
+"mountain animals",
+1
+],
+[
+"wild goats and sheep",
+1
+]
+],
+"clash": []
+},
+"mountain goat": {
+"also": [
+[
+"animals with horns",
+2
+],
+[
+"mountain animals",
+1
+],
+[
+"wild goats and sheep",
+1
+]
+],
+"clash": []
+},
+"woodchuck": {
+"also": [
+[
+"burrowing animals",
+2
+],
+[
+"hibernating animals",
+2
+],
+[
+"rodents",
+2
+]
+],
+"clash": []
+},
+"gopher": {
+"also": [
+[
+"burrowing animals",
+1
+],
+[
+"rodents",
+2
+]
+],
+"clash": []
+},
+"armadillo": {
+"also": [
+[
+"animals with shells",
+1
+],
+[
+"burrowing animals",
+2
+],
+[
+"south american animals",
+2
+]
+],
+"clash": []
+},
+"Gila monster": {
+"also": [
+[
+"desert",
+2
+],
+[
+"lizards",
+1
+],
+[
+"venomous animals",
+2
+]
+],
+"clash": []
+},
+"copperhead": {
+"also": [
+[
+"snakes",
+2
+],
+[
+"venomous snakes",
+2
+]
+],
+"clash": []
+},
+"muskrat": {
+"also": [
+[
+"pond life",
+3
+],
+[
+"rodents",
+2
+]
+],
+"clash": []
+},
+"jackrabbit": {
+"also": [
+[
+"desert",
+2
+],
+[
+"fast animals",
+3
+],
+[
+"prairie",
+3
+]
+],
+"clash": []
+},
+"cottontail": {
+"also": [],
+"clash": [
+"rodents"
+]
+},
+"sea otter": {
+"also": [
+[
+"sea mammals",
+1
+],
+[
+"weasel family",
+2
+]
+],
+"clash": []
+},
+"axolotl": {
+"also": [
+[
+"endangered animals",
+3
+],
+[
+"salamanders and newts",
+1
+]
+],
+"clash": []
+},
+"snapping turtle": {
+"also": [
+[
+"animals with shells",
+2
+],
+[
+"pond life",
+2
+],
+[
+"turtles and tortoises",
+1
+]
+],
+"clash": []
+},
+"bullfrog": {
+"also": [
+[
+"frogs and toads",
+1
+],
+[
+"pond",
+3
+]
+],
+"clash": []
+},
+"black widow": {
+"also": [
+[
+"spiders",
+1
+],
+[
+"venomous animals",
+1
+]
+],
+"clash": []
+},
+"monarch butterfly": {
+"also": [
+[
+"butterflies and moths",
+1
+],
+[
+"migrating animals",
+1
+],
+[
+"pollinators",
+2
+]
+],
+"clash": []
+},
+"javelina": {
+"also": [
+[
+"desert",
+3
+],
+[
+"hoofed mammals",
+3
+]
+],
+"clash": []
+},
+"Canada lynx": {
+"also": [
+[
+"small wild cats",
+2
+],
+[
+"taiga",
+3
+]
+],
+"clash": []
+},
+"horned lizard": {
+"also": [
+[
+"desert",
+3
+],
+[
+"lizards",
+2
+]
+],
+"clash": []
+},
+"Kodiak bear": {
+"also": [
+[
+"bears",
+2
+]
+],
+"clash": []
+},
+"box turtle": {
+"also": [
+[
+"animals with shells",
+2
+],
+[
+"turtles and tortoises",
+2
+]
+],
+"clash": []
+},
+"desert tortoise": {
+"also": [
+[
+"animals with shells",
+2
+],
+[
+"desert",
+3
+],
+[
+"turtles and tortoises",
+2
+]
+],
+"clash": []
+},
+"brown recluse": {
+"also": [
+[
+"spiders",
+2
+],
+[
+"venomous animals",
+2
+]
+],
+"clash": []
+},
+"black-footed ferret": {
+"also": [
+[
+"endangered animals",
+3
+],
+[
+"prairie",
+3
+],
+[
+"weasel family",
+2
+]
+],
+"clash": []
+},
+"whitetail": {
+"also": [
+[
+"deer",
+2
+]
+],
+"clash": []
+},
+"chuckwalla": {
+"also": [
+[
+"desert",
+4
+],
+[
+"lizards",
+3
+]
+],
+"clash": []
+},
+"fisher": {
+"also": [
+[
+"weasel family",
+3
+]
+],
+"clash": [
+"fishing words",
+"jobs"
+]
+},
+"kit fox": {
+"also": [
+[
+"desert",
+3
+],
+[
+"wild dogs and foxes",
+2
+]
+],
+"clash": []
+},
+"swift fox": {
+"also": [
+[
+"prairie",
+3
+],
+[
+"wild dogs and foxes",
+3
+]
+],
+"clash": []
+},
+"hellbender": {
+"also": [
+[
+"salamanders and newts",
+3
+]
+],
+"clash": []
+},
+"spirit bear": {
+"also": [
+[
+"bears",
+3
+]
+],
+"clash": []
+},
+"Dall sheep": {
+"also": [
+[
+"arctic animals",
+4
+],
+[
+"mountain animals",
+3
+],
+[
+"wild goats and sheep",
+3
+]
+],
+"clash": []
+},
+"gopher tortoise": {
+"also": [
+[
+"burrowing animals",
+3
+],
+[
+"turtles and tortoises",
+3
+]
+],
+"clash": []
+},
+"banana slug": {
+"also": [],
+"clash": [
+"garden pests"
+]
+},
+"tarantula hawk": {
+"also": [
+[
+"bees and wasps",
+3
+],
+[
+"venomous animals",
+3
+]
+],
+"clash": [
+"birds of prey"
+]
+},
+"vaquita": {
+"also": [
+[
+"endangered animals",
+2
+],
+[
+"whales and dolphins",
+3
+]
+],
+"clash": []
+},
+"spring peeper": {
+"also": [
+[
+"frogs and toads",
+3
+]
+],
+"clash": []
+},
+"bald eagle": {
+"also": [
+[
+"birds of prey",
+1
+],
+[
+"eagles",
+1
+],
+[
+"national animals",
+1
+]
+],
+"clash": []
+},
+"blue jay": {
+"also": [
+[
+"colorful birds",
+3
+],
+[
+"songbirds",
+2
+]
+],
+"clash": []
+},
+"cardinal": {
+"also": [
+[
+"colorful birds",
+1
+],
+[
+"religious leaders",
+2
+],
+[
+"songbirds",
+1
+]
+],
+"clash": [
+"finches",
+"shades of red"
+]
+},
+"wild turkey": {
+"also": [
+[
+"game birds",
+1
+]
+],
+"clash": [
+"poultry",
+"thanksgiving"
+]
+},
+"roadrunner": {
+"also": [
+[
+"desert",
+2
+],
+[
+"fast animals",
+3
+]
+],
+"clash": []
+},
+"Canada goose": {
+"also": [
+[
+"geese and swans",
+1
+],
+[
+"migrating animals",
+2
+],
+[
+"waterbirds",
+1
+]
+],
+"clash": []
+},
+"mockingbird": {
+"also": [
+[
+"songbirds",
+2
+]
+],
+"clash": []
+},
+"American robin": {
+"also": [
+[
+"songbirds",
+2
+]
+],
+"clash": []
+},
+"California condor": {
+"also": [
+[
+"birds of prey",
+2
+],
+[
+"endangered animals",
+2
+],
+[
+"scavengers",
+3
+],
+[
+"vultures",
+2
+]
+],
+"clash": []
+},
+"loon": {
+"also": [
+[
+"waterbirds",
+2
+]
+],
+"clash": [
+"words for strange"
+]
+},
+"chickadee": {
+"also": [
+[
+"songbirds",
+2
+]
+],
+"clash": []
+},
+"bluebird": {
+"also": [
+[
+"songbirds",
+2
+]
+],
+"clash": [
+"___bird"
+]
+},
+"turkey vulture": {
+"also": [
+[
+"birds of prey",
+2
+],
+[
+"scavengers",
+1
+],
+[
+"vultures",
+2
+]
+],
+"clash": []
+},
+"mourning dove": {
+"also": [
+[
+"city animals",
+3
+]
+],
+"clash": []
+},
+"passenger pigeon": {
+"also": [
+[
+"extinct animals",
+1
+]
+],
+"clash": []
+},
+"whooping crane": {
+"also": [
+[
+"endangered animals",
+2
+],
+[
+"migrating animals",
+3
+],
+[
+"wading birds",
+2
+]
+],
+"clash": []
+},
+"sandhill crane": {
+"also": [
+[
+"migrating animals",
+3
+],
+[
+"wading birds",
+2
+]
+],
+"clash": []
+},
+"great blue heron": {
+"also": [
+[
+"wading birds",
+2
+],
+[
+"waterbirds",
+2
+]
+],
+"clash": []
+},
+"cedar waxwing": {
+"also": [
+[
+"songbirds",
+3
+]
+],
+"clash": []
+},
+"Baltimore oriole": {
+"also": [
+[
+"colorful birds",
+3
+],
+[
+"songbirds",
+2
+]
+],
+"clash": [
+"mlb teams"
+]
+},
+"red-winged blackbird": {
+"also": [
+[
+"songbirds",
+3
+]
+],
+"clash": []
+},
+"American goldfinch": {
+"also": [
+[
+"finches",
+2
+],
+[
+"songbirds",
+2
+]
+],
+"clash": []
+},
+"cowbird": {
+"also": [
+[
+"songbirds",
+3
+]
+],
+"clash": []
+},
+"grackle": {
+"also": [
+[
+"songbirds",
+3
+]
+],
+"clash": []
+},
+"meadowlark": {
+"also": [
+[
+"prairie",
+2
+],
+[
+"songbirds",
+3
+]
+],
+"clash": []
+},
+"nighthawk": {
+"also": [
+[
+"nocturnal animals",
+3
+]
+],
+"clash": [
+"birds of prey"
+]
+},
+"killdeer": {
+"also": [
+[
+"wading birds",
+3
+]
+],
+"clash": []
+},
+"wood duck": {
+"also": [
+[
+"colorful birds",
+3
+],
+[
+"ducks",
+2
+],
+[
+"waterbirds",
+2
+]
+],
+"clash": []
+},
+"prairie chicken": {
+"also": [
+[
+"game birds",
+3
+],
+[
+"prairie",
+3
+]
+],
+"clash": []
+},
+"sage grouse": {
+"also": [
+[
+"game birds",
+3
+],
+[
+"prairie",
+3
+]
+],
+"clash": []
+},
+"bobwhite": {
+"also": [
+[
+"game birds",
+3
+],
+[
+"prairie",
+3
+]
+],
+"clash": []
+},
+"California quail": {
+"also": [
+[
+"game birds",
+2
+]
+],
+"clash": []
+},
+"junco": {
+"also": [
+[
+"songbirds",
+3
+]
+],
+"clash": []
+},
+"pileated woodpecker": {
+"also": [
+[
+"woodland animals",
+2
+]
+],
+"clash": []
+},
+"downy woodpecker": {
+"also": [
+[
+"woodland animals",
+2
+]
+],
+"clash": []
+},
+"red-tailed hawk": {
+"also": [
+[
+"birds of prey",
+2
+]
+],
+"clash": []
+},
+"great horned owl": {
+"also": [
+[
+"birds of prey",
+2
+],
+[
+"nocturnal animals",
+2
+],
+[
+"owls",
+1
+]
+],
+"clash": []
+},
+"burrowing owl": {
+"also": [
+[
+"burrowing animals",
+1
+],
+[
+"desert",
+3
+],
+[
+"owls",
+1
+],
+[
+"prairie",
+3
+]
+],
+"clash": []
+},
+"barred owl": {
+"also": [
+[
+"owls",
+2
+]
+],
+"clash": []
+},
+"spotted owl": {
+"also": [
+[
+"owls",
+2
+]
+],
+"clash": []
+},
+"screech owl": {
+"also": [
+[
+"owls",
+2
+]
+],
+"clash": []
+},
+"cactus wren": {
+"also": [
+[
+"desert",
+3
+],
+[
+"songbirds",
+3
+]
+],
+"clash": []
+},
+"Carolina wren": {
+"also": [
+[
+"songbirds",
+3
+]
+],
+"clash": []
+},
+"purple martin": {
+"also": [
+[
+"songbirds",
+3
+]
+],
+"clash": []
+},
+"trumpeter swan": {
+"also": [
+[
+"geese and swans",
+2
+],
+[
+"waterbirds",
+2
+]
+],
+"clash": []
+},
+"Carolina parakeet": {
+"also": [
+[
+"extinct animals",
+3
+],
+[
+"parrots",
+3
+]
+],
+"clash": []
+},
+"whip-poor-will": {
+"also": [
+[
+"nocturnal animals",
+3
+]
+],
+"clash": []
+},
+"ruby-throated hummingbird": {
+"also": [
+[
+"migrating animals",
+3
+],
+[
+"pollinators",
+2
+]
+],
+"clash": []
+},
+"scarlet tanager": {
+"also": [
+[
+"colorful birds",
+2
+],
+[
+"songbirds",
+3
+]
+],
+"clash": []
+},
+"painted bunting": {
+"also": [
+[
+"colorful birds",
+2
+],
+[
+"finches",
+4
+],
+[
+"songbirds",
+3
+]
+],
+"clash": []
+},
+"indigo bunting": {
+"also": [
+[
+"colorful birds",
+3
+],
+[
+"songbirds",
+3
+]
+],
+"clash": []
+},
+"house finch": {
+"also": [
+[
+"finches",
+2
+],
+[
+"songbirds",
+2
+]
+],
+"clash": []
+},
+"bobolink": {
+"also": [
+[
+"songbirds",
+3
+]
+],
+"clash": []
+},
+"canvasback": {
+"also": [
+[
+"ducks",
+3
+]
+],
+"clash": []
+},
+"bufflehead": {
+"also": [
+[
+"ducks",
+3
+]
+],
+"clash": []
+},
+"ruffed grouse": {
+"also": [
+[
+"game birds",
+2
+]
+],
+"clash": []
+},
+"scrub jay": {
+"also": [
+[
+"songbirds",
+3
+]
+],
+"clash": []
+},
+"Canada jay": {
+"also": [
+[
+"songbirds",
+3
+]
+],
+"clash": []
+},
+"towhee": {
+"also": [
+[
+"songbirds",
+4
+]
+],
+"clash": []
+},
+"phoebe": {
+"also": [
+[
+"girls' names",
+2
+],
+[
+"songbirds",
+4
+]
+],
+"clash": []
+},
+"ivory-billed woodpecker": {
+"also": [
+[
+"extinct animals",
+3
+]
+],
+"clash": []
+},
+"Gila woodpecker": {
+"also": [
+[
+"desert",
+4
+]
+],
+"clash": []
+},
+"Steller's jay": {
+"also": [
+[
+"songbirds",
+3
+]
+],
+"clash": []
+},
+"Gambel's quail": {
+"also": [
+[
+"game birds",
+3
+]
+],
+"clash": []
+},
+"Anna's hummingbird": {
+"also": [
+[
+"pollinators",
+3
+]
+],
+"clash": []
+},
+"Harris's hawk": {
+"also": [
+[
+"birds of prey",
+3
+]
+],
+"clash": []
+},
+"black-capped chickadee": {
+"also": [
+[
+"songbirds",
+3
+]
+],
+"clash": []
+},
+"alligator": {
+"also": [
+[
+"crocodilians",
+1
+],
+[
+"wetlands",
+1
+]
+],
+"clash": []
+},
+"manatee": {
+"also": [
+[
+"sea mammals",
+1
+],
+[
+"wetlands",
+1
+]
+],
+"clash": []
+},
+"Florida panther": {
+"also": [
+[
+"big cats",
+2
+],
+[
+"endangered animals",
+2
+],
+[
+"wetlands",
+2
+]
+],
+"clash": []
+},
+"roseate spoonbill": {
+"also": [
+[
+"colorful birds",
+2
+],
+[
+"wading birds",
+2
+],
+[
+"wetlands",
+2
+]
+],
+"clash": []
+},
+"Burmese python": {
+"also": [
+[
+"constrictor snakes",
+1
+],
+[
+"snakes",
+1
+],
+[
+"wetlands",
+2
+]
+],
+"clash": []
+},
+"egret": {
+"also": [
+[
+"wading birds",
+1
+],
+[
+"waterbirds",
+2
+],
+[
+"wetlands",
+2
+]
+],
+"clash": []
+},
+"American crocodile": {
+"also": [
+[
+"crocodilians",
+2
+],
+[
+"wetlands",
+3
+]
+],
+"clash": []
+},
+"anhinga": {
+"also": [
+[
+"waterbirds",
+3
+],
+[
+"wetlands",
+3
+]
+],
+"clash": []
+},
+"wood stork": {
+"also": [
+[
+"wading birds",
+3
+],
+[
+"wetlands",
+3
+]
+],
+"clash": []
+},
+"white ibis": {
+"also": [
+[
+"wading birds",
+2
+],
+[
+"wetlands",
+3
+]
+],
+"clash": []
+},
+"cottonmouth": {
+"also": [
+[
+"snakes",
+2
+],
+[
+"venomous snakes",
+2
+],
+[
+"wetlands",
+3
+]
+],
+"clash": []
+},
+"water moccasin": {
+"also": [
+[
+"snakes",
+2
+],
+[
+"venomous snakes",
+2
+],
+[
+"wetlands",
+3
+]
+],
+"clash": [
+"shoes"
+]
+},
+"great egret": {
+"also": [
+[
+"wading birds",
+2
+],
+[
+"wetlands",
+3
+]
+],
+"clash": []
+},
+"tricolored heron": {
+"also": [
+[
+"wading birds",
+3
+],
+[
+"wetlands",
+4
+]
+],
+"clash": []
+},
+"snail kite": {
+"also": [
+[
+"birds of prey",
+3
+],
+[
+"wetlands",
+4
+]
+],
+"clash": []
+},
+"purple gallinule": {
+"also": [
+[
+"colorful birds",
+3
+],
+[
+"waterbirds",
+3
+],
+[
+"wetlands",
+4
+]
+],
+"clash": []
+},
+"limpkin": {
+"also": [
+[
+"wading birds",
+4
+],
+[
+"wetlands",
+4
+]
+],
+"clash": []
+},
+"apple snail": {
+"also": [
+[
+"mollusks",
+3
+],
+[
+"pond life",
+3
+],
+[
+"wetlands",
+4
+]
+],
+"clash": []
+},
+"Florida softshell": {
+"also": [
+[
+"turtles and tortoises",
+3
+],
+[
+"wetlands",
+4
+]
+],
+"clash": []
+},
+"Florida gar": {
+"also": [
+[
+"freshwater fish",
+3
+],
+[
+"wetlands",
+4
+]
+],
+"clash": []
+},
+"marsh rabbit": {
+"also": [
+[
+"wetlands",
+4
+]
+],
+"clash": []
+},
+"snook": {
+"also": [
+[
+"sea fish",
+3
+],
+[
+"wetlands",
+4
+]
+],
+"clash": []
+},
+"tarpon": {
+"also": [
+[
+"sea fish",
+3
+],
+[
+"wetlands",
+4
+]
+],
+"clash": []
+},
+"indigo snake": {
+"also": [
+[
+"snakes",
+3
+],
+[
+"wetlands",
+4
+]
+],
+"clash": []
+},
+"zebra longwing": {
+"also": [
+[
+"butterflies and moths",
+3
+],
+[
+"striped animals",
+3
+],
+[
+"wetlands",
+4
+]
+],
+"clash": []
+},
+"lubber grasshopper": {
+"also": [
+[
+"insects and bugs",
+3
+],
+[
+"wetlands",
+4
+]
+],
+"clash": []
+},
+"swallow-tailed kite": {
+"also": [
+[
+"birds of prey",
+3
+],
+[
+"wetlands",
+4
+]
+],
+"clash": []
+},
+"pig frog": {
+"also": [
+[
+"frogs and toads",
+3
+],
+[
+"wetlands",
+5
+]
+],
+"clash": []
+},
+"Everglades mink": {
+"also": [
+[
+"weasel family",
+4
+],
+[
+"wetlands",
+5
+]
+],
+"clash": []
+},
+"Cape Sable seaside sparrow": {
+"also": [
+[
+"endangered animals",
+4
+],
+[
+"songbirds",
+4
+],
+[
+"wetlands",
+5
+]
+],
+"clash": []
+},
+"European bison": {
+"also": [
+[
+"endangered animals",
+3
+],
+[
+"wild cattle",
+2
+]
+],
+"clash": []
+},
+"wild boar": {
+"also": [
+[
+"animals with tusks",
+2
+],
+[
+"game meats",
+2
+]
+],
+"clash": []
+},
+"wisent": {
+"also": [
+[
+"wild cattle",
+3
+]
+],
+"clash": []
+},
+"Iberian lynx": {
+"also": [
+[
+"endangered animals",
+2
+],
+[
+"small wild cats",
+2
+]
+],
+"clash": []
+},
+"fire salamander": {
+"also": [
+[
+"salamanders and newts",
+2
+]
+],
+"clash": [
+"mythical creatures"
+]
+},
+"hoopoe": {
+"also": [
+[
+"colorful birds",
+3
+]
+],
+"clash": []
+},
+"white stork": {
+"also": [
+[
+"migrating animals",
+2
+],
+[
+"wading birds",
+2
+]
+],
+"clash": []
+},
+"bee-eater": {
+"also": [
+[
+"colorful birds",
+3
+]
+],
+"clash": []
+},
+"aurochs": {
+"also": [
+[
+"extinct animals",
+2
+],
+[
+"ice age animals",
+3
+],
+[
+"wild cattle",
+2
+]
+],
+"clash": []
+},
+"Irish elk": {
+"also": [
+[
+"deer",
+2
+],
+[
+"extinct animals",
+2
+],
+[
+"ice age animals",
+2
+]
+],
+"clash": []
+},
+"eagle owl": {
+"also": [
+[
+"birds of prey",
+2
+],
+[
+"owls",
+2
+]
+],
+"clash": []
+},
+"mouflon": {
+"also": [
+[
+"mountain animals",
+3
+],
+[
+"wild goats and sheep",
+3
+]
+],
+"clash": []
+},
+"Iberian ibex": {
+"also": [
+[
+"mountain animals",
+3
+],
+[
+"wild goats and sheep",
+3
+]
+],
+"clash": []
+},
+"desman": {
+"also": [],
+"clash": [
+"rodents"
+]
+},
+"olm": {
+"also": [
+[
+"salamanders and newts",
+4
+]
+],
+"clash": []
+},
+"European mink": {
+"also": [
+[
+"endangered animals",
+4
+],
+[
+"weasel family",
+3
+]
+],
+"clash": []
+},
+"golden jackal": {
+"also": [
+[
+"wild dogs and foxes",
+3
+]
+],
+"clash": []
+},
+"European hamster": {
+"also": [
+[
+"rodents",
+3
+]
+],
+"clash": []
+},
+"imperial eagle": {
+"also": [
+[
+"birds of prey",
+2
+],
+[
+"eagles",
+2
+]
+],
+"clash": []
+},
+"great bustard": {
+"also": [],
+"clash": [
+"game birds"
+]
+},
+"cave bear": {
+"also": [
+[
+"bears",
+2
+],
+[
+"extinct animals",
+2
+],
+[
+"ice age animals",
+2
+]
+],
+"clash": []
+},
+"cave lion": {
+"also": [
+[
+"big cats",
+3
+],
+[
+"extinct animals",
+3
+],
+[
+"ice age animals",
+2
+]
+],
+"clash": []
+},
+"wels catfish": {
+"also": [
+[
+"freshwater fish",
+3
+]
+],
+"clash": []
+},
+"green lizard": {
+"also": [
+[
+"lizards",
+2
+]
+],
+"clash": []
+},
+"Iberian wolf": {
+"also": [
+[
+"wild dogs and foxes",
+3
+]
+],
+"clash": []
+},
+"European pond turtle": {
+"also": [
+[
+"pond life",
+3
+],
+[
+"turtles and tortoises",
+2
+]
+],
+"clash": []
+},
+"Hermann's tortoise": {
+"also": [
+[
+"turtles and tortoises",
+3
+]
+],
+"clash": []
+},
+"Marsican bear": {
+"also": [
+[
+"bears",
+3
+]
+],
+"clash": []
+},
+"souslik": {
+"also": [
+[
+"rodents",
+4
+]
+],
+"clash": []
+},
+"Saimaa seal": {
+"also": [
+[
+"seals and sea lions",
+3
+]
+],
+"clash": []
+},
+"sterlet": {
+"also": [
+[
+"freshwater fish",
+4
+]
+],
+"clash": []
+},
+"ocellated lizard": {
+"also": [
+[
+"lizards",
+3
+]
+],
+"clash": []
+},
+"hazel grouse": {
+"also": [
+[
+"game birds",
+3
+]
+],
+"clash": []
+},
+"nose-horned viper": {
+"also": [
+[
+"snakes",
+3
+],
+[
+"venomous snakes",
+3
+]
+],
+"clash": []
+},
+"badger": {
+"also": [
+[
+"burrowing animals",
+2
+],
+[
+"nocturnal animals",
+2
+],
+[
+"weasel family",
+1
+]
+],
+"clash": []
+},
+"hedgehog": {
+"also": [
+[
+"hibernating animals",
+1
+],
+[
+"nocturnal animals",
+1
+],
+[
+"prickly things",
+1
+]
+],
+"clash": []
+},
+"red fox": {
+"also": [
+[
+"city animals",
+2
+],
+[
+"wild dogs and foxes",
+1
+]
+],
+"clash": []
+},
+"robin": {
+"also": [
+[
+"boys' names",
+2
+],
+[
+"christmas",
+3
+],
+[
+"garden birds",
+1
+],
+[
+"songbirds",
+1
+]
+],
+"clash": []
+},
+"rabbit": {
+"also": [
+[
+"burrowing animals",
+1
+],
+[
+"chinese zodiac",
+2
+],
+[
+"farm animals",
+2
+],
+[
+"game meats",
+2
+],
+[
+"pets",
+1
+],
+[
+"small pets",
+1
+]
+],
+"clash": [
+"rodents"
+]
+},
+"red squirrel": {
+"also": [
+[
+"rodents",
+1
+],
+[
+"woodland animals",
+1
+]
+],
+"clash": []
+},
+"gray squirrel": {
+"also": [
+[
+"city animals",
+2
+],
+[
+"rodents",
+1
+],
+[
+"woodland animals",
+1
+]
+],
+"clash": []
+},
+"otter": {
+"also": [
+[
+"weasel family",
+1
+]
+],
+"clash": []
+},
+"red deer": {
+"also": [
+[
+"animals with horns",
+2
+],
+[
+"deer",
+1
+],
+[
+"woodland animals",
+1
+]
+],
+"clash": []
+},
+"stoat": {
+"also": [
+[
+"weasel family",
+1
+]
+],
+"clash": []
+},
+"weasel": {
+"also": [
+[
+"weasel family",
+1
+]
+],
+"clash": []
+},
+"mole": {
+"also": [
+[
+"burrowing animals",
+1
+],
+[
+"garden pests",
+2
+],
+[
+"skin words",
+2
+],
+[
+"spy words",
+2
+]
+],
+"clash": [
+"woodland animals"
+]
+},
+"hare": {
+"also": [
+[
+"fast animals",
+3
+]
+],
+"clash": [
+"rodents",
+"woodland animals"
+]
+},
+"adder": {
+"also": [
+[
+"snakes",
+1
+],
+[
+"venomous snakes",
+1
+]
+],
+"clash": [
+"math terms"
+]
+},
+"puffin": {
+"also": [
+[
+"arctic animals",
+3
+],
+[
+"seabirds",
+1
+]
+],
+"clash": []
+},
+"wren": {
+"also": [
+[
+"garden birds",
+1
+],
+[
+"songbirds",
+1
+]
+],
+"clash": []
+},
+"blackbird": {
+"also": [
+[
+"black___",
+1
+],
+[
+"garden birds",
+1
+],
+[
+"songbirds",
+1
+]
+],
+"clash": []
+},
+"barn owl": {
+"also": [
+[
+"birds of prey",
+1
+],
+[
+"nocturnal animals",
+1
+],
+[
+"owls",
+1
+],
+[
+"woodland animals",
+2
+]
+],
+"clash": []
+},
+"starling": {
+"also": [
+[
+"city animals",
+2
+],
+[
+"garden birds",
+1
+],
+[
+"songbirds",
+1
+]
+],
+"clash": []
+},
+"magpie": {
+"also": [
+[
+"black and white animals",
+2
+],
+[
+"garden birds",
+2
+],
+[
+"songbirds",
+2
+]
+],
+"clash": []
+},
+"blue tit": {
+"also": [
+[
+"garden birds",
+1
+],
+[
+"songbirds",
+1
+]
+],
+"clash": []
+},
+"nightingale": {
+"also": [
+[
+"songbirds",
+1
+]
+],
+"clash": [
+"famous women in history"
+]
+},
+"heron": {
+"also": [
+[
+"pond",
+2
+],
+[
+"wading birds",
+1
+],
+[
+"waterbirds",
+1
+]
+],
+"clash": []
+},
+"bumblebee": {
+"also": [
+[
+"bees and wasps",
+1
+],
+[
+"garden bugs",
+1
+],
+[
+"pollinators",
+1
+],
+[
+"striped animals",
+1
+]
+],
+"clash": []
+},
+"ladybird": {
+"also": [
+[
+"beetles",
+1
+],
+[
+"garden bugs",
+1
+],
+[
+"spotted animals",
+1
+]
+],
+"clash": []
+},
+"kingfisher": {
+"also": [
+[
+"colorful birds",
+1
+],
+[
+"pond",
+3
+],
+[
+"waterbirds",
+2
+]
+],
+"clash": []
+},
+"roe deer": {
+"also": [
+[
+"deer",
+1
+]
+],
+"clash": []
+},
+"fallow deer": {
+"also": [
+[
+"deer",
+1
+],
+[
+"spotted animals",
+3
+],
+[
+"woodland animals",
+2
+]
+],
+"clash": []
+},
+"muntjac": {
+"also": [
+[
+"deer",
+2
+]
+],
+"clash": []
+},
+"pine marten": {
+"also": [
+[
+"weasel family",
+2
+]
+],
+"clash": []
+},
+"polecat": {
+"also": [
+[
+"weasel family",
+2
+]
+],
+"clash": []
+},
+"shrew": {
+"also": [],
+"clash": [
+"old-fashioned insults",
+"rodents"
+]
+},
+"water vole": {
+"also": [
+[
+"pond",
+3
+],
+[
+"rodents",
+2
+]
+],
+"clash": []
+},
+"dormouse": {
+"also": [
+[
+"hibernating animals",
+1
+],
+[
+"nocturnal animals",
+2
+],
+[
+"rodents",
+1
+]
+],
+"clash": []
+},
+"wood mouse": {
+"also": [
+[
+"rodents",
+2
+]
+],
+"clash": []
+},
+"harvest mouse": {
+"also": [
+[
+"rodents",
+2
+]
+],
+"clash": []
+},
+"pipistrelle": {
+"also": [
+[
+"bats",
+2
+],
+[
+"nocturnal animals",
+2
+]
+],
+"clash": []
+},
+"grass snake": {
+"also": [
+[
+"pond life",
+3
+],
+[
+"snakes",
+1
+]
+],
+"clash": []
+},
+"slow worm": {
+"also": [
+[
+"lizards",
+3
+]
+],
+"clash": [
+"snakes"
+]
+},
+"common frog": {
+"also": [
+[
+"frogs and toads",
+1
+],
+[
+"pond life",
+1
+]
+],
+"clash": []
+},
+"common toad": {
+"also": [
+[
+"frogs and toads",
+1
+],
+[
+"pond life",
+1
+]
+],
+"clash": []
+},
+"Scottish wildcat": {
+"also": [
+[
+"endangered animals",
+3
+],
+[
+"small wild cats",
+2
+]
+],
+"clash": []
+},
+"gray seal": {
+"also": [
+[
+"sea mammals",
+1
+],
+[
+"seals and sea lions",
+1
+]
+],
+"clash": []
+},
+"common seal": {
+"also": [
+[
+"sea mammals",
+2
+],
+[
+"seals and sea lions",
+2
+]
+],
+"clash": []
+},
+"song thrush": {
+"also": [
+[
+"garden birds",
+2
+],
+[
+"songbirds",
+2
+]
+],
+"clash": []
+},
+"tawny owl": {
+"also": [
+[
+"birds of prey",
+2
+],
+[
+"nocturnal animals",
+2
+],
+[
+"owls",
+1
+]
+],
+"clash": []
+},
+"kestrel": {
+"also": [
+[
+"birds of prey",
+1
+]
+],
+"clash": [
+"woodland animals"
+]
+},
+"buzzard": {
+"also": [
+[
+"birds of prey",
+1
+]
+],
+"clash": [
+"vultures"
+]
+},
+"red kite": {
+"also": [
+[
+"birds of prey",
+2
+]
+],
+"clash": []
+},
+"mute swan": {
+"also": [
+[
+"geese and swans",
+1
+],
+[
+"waterbirds",
+1
+]
+],
+"clash": []
+},
+"jackdaw": {
+"also": [
+[
+"songbirds",
+3
+]
+],
+"clash": []
+},
+"rook": {
+"also": [
+[
+"chess terms",
+1
+],
+[
+"game pieces",
+2
+],
+[
+"songbirds",
+3
+]
+],
+"clash": [
+"words for beginner"
+]
+},
+"sparrowhawk": {
+"also": [
+[
+"birds of prey",
+2
+]
+],
+"clash": []
+},
+"great tit": {
+"also": [
+[
+"garden birds",
+2
+],
+[
+"songbirds",
+2
+]
+],
+"clash": []
+},
+"chaffinch": {
+"also": [
+[
+"finches",
+1
+],
+[
+"garden birds",
+1
+],
+[
+"songbirds",
+1
+]
+],
+"clash": []
+},
+"goldfinch": {
+"also": [
+[
+"colorful birds",
+2
+],
+[
+"finches",
+1
+],
+[
+"garden birds",
+1
+],
+[
+"songbirds",
+1
+]
+],
+"clash": []
+},
+"bullfinch": {
+"also": [
+[
+"finches",
+2
+],
+[
+"garden birds",
+2
+],
+[
+"songbirds",
+2
+]
+],
+"clash": []
+},
+"skylark": {
+"also": [
+[
+"songbirds",
+2
+]
+],
+"clash": []
+},
+"lapwing": {
+"also": [
+[
+"wading birds",
+2
+]
+],
+"clash": []
+},
+"curlew": {
+"also": [
+[
+"wading birds",
+2
+]
+],
+"clash": []
+},
+"red grouse": {
+"also": [
+[
+"game birds",
+2
+]
+],
+"clash": []
+},
+"gannet": {
+"also": [
+[
+"seabirds",
+2
+]
+],
+"clash": []
+},
+"stag beetle": {
+"also": [
+[
+"beetles",
+1
+]
+],
+"clash": [
+"animals with horns"
+]
+},
+"red admiral": {
+"also": [
+[
+"butterflies and moths",
+2
+],
+[
+"garden bugs",
+2
+]
+],
+"clash": [
+"navy words"
+]
+},
+"peacock butterfly": {
+"also": [
+[
+"butterflies and moths",
+2
+]
+],
+"clash": []
+},
+"cabbage white": {
+"also": [
+[
+"butterflies and moths",
+2
+],
+[
+"garden pests",
+2
+]
+],
+"clash": []
+},
+"great crested newt": {
+"also": [
+[
+"pond life",
+2
+],
+[
+"salamanders and newts",
+2
+]
+],
+"clash": []
+},
+"mountain hare": {
+"also": [
+[
+"camouflaged animals",
+3
+],
+[
+"mountain animals",
+2
+]
+],
+"clash": []
+},
+"natterjack": {
+"also": [
+[
+"frogs and toads",
+3
+]
+],
+"clash": []
+},
+"sand lizard": {
+"also": [
+[
+"lizards",
+3
+]
+],
+"clash": []
+},
+"smooth snake": {
+"also": [
+[
+"snakes",
+3
+]
+],
+"clash": []
+},
+"common lizard": {
+"also": [
+[
+"lizards",
+2
+]
+],
+"clash": []
+},
+"yellowhammer": {
+"also": [
+[
+"songbirds",
+3
+]
+],
+"clash": []
+},
+"capercaillie": {
+"also": [
+[
+"game birds",
+3
+]
+],
+"clash": []
+},
+"glow-worm": {
+"also": [
+[
+"beetles",
+3
+],
+[
+"insects and bugs",
+2
+],
+[
+"things that glow",
+1
+]
+],
+"clash": []
+},
+"Daubenton's bat": {
+"also": [
+[
+"bats",
+3
+]
+],
+"clash": []
+},
+"Bewick's swan": {
+"also": [
+[
+"geese and swans",
+3
+]
+],
+"clash": []
+},
+"horseshoe bat": {
+"also": [
+[
+"bats",
+2
+]
+],
+"clash": []
+},
+"ibex": {
+"also": [
+[
+"animals with horns",
+1
+],
+[
+"mountain animals",
+1
+],
+[
+"wild goats and sheep",
+1
+]
+],
+"clash": []
+},
+"marmot": {
+"also": [
+[
+"burrowing animals",
+2
+],
+[
+"hibernating animals",
+1
+],
+[
+"mountain animals",
+1
+],
+[
+"rodents",
+1
+]
+],
+"clash": []
+},
+"golden eagle": {
+"also": [
+[
+"birds of prey",
+1
+],
+[
+"british wildlife",
+2
+],
+[
+"eagles",
+1
+],
+[
+"mountain animals",
+2
+],
+[
+"national animals",
+3
+],
+[
+"north american birds",
+2
+]
+],
+"clash": []
+},
+"chamois": {
+"also": [
+[
+"mountain animals",
+2
+],
+[
+"things made of leather",
+3
+],
+[
+"wild goats and sheep",
+2
+]
+],
+"clash": []
+},
+"ptarmigan": {
+"also": [
+[
+"arctic animals",
+2
+],
+[
+"british wildlife",
+3
+],
+[
+"camouflaged animals",
+1
+],
+[
+"game birds",
+2
+]
+],
+"clash": []
+},
+"St Bernard": {
+"also": [
+[
+"dog breeds",
+1
+],
+[
+"working dogs",
+1
+]
+],
+"clash": [
+"famous saints"
+]
+},
+"lynx": {
+"also": [
+[
+"north american animals",
+2
+],
+[
+"small wild cats",
+1
+],
+[
+"taiga",
+2
+]
+],
+"clash": []
+},
+"Alpine ibex": {
+"also": [
+[
+"mountain animals",
+2
+],
+[
+"wild goats and sheep",
+2
+]
+],
+"clash": []
+},
+"Alpine marmot": {
+"also": [
+[
+"hibernating animals",
+2
+],
+[
+"mountain animals",
+2
+],
+[
+"rodents",
+2
+]
+],
+"clash": []
+},
+"bearded vulture": {
+"also": [
+[
+"birds of prey",
+2
+],
+[
+"mountain animals",
+3
+],
+[
+"scavengers",
+2
+],
+[
+"vultures",
+2
+]
+],
+"clash": []
+},
+"Alpine chough": {
+"also": [
+[
+"mountain animals",
+3
+]
+],
+"clash": []
+},
+"nutcracker": {
+"also": [],
+"clash": [
+"christmas",
+"famous ballets",
+"kitchen utensils"
+]
+},
+"wallcreeper": {
+"also": [
+[
+"mountain animals",
+4
+]
+],
+"clash": []
+},
+"Alpine salamander": {
+"also": [
+[
+"salamanders and newts",
+3
+]
+],
+"clash": []
+},
+"Apollo butterfly": {
+"also": [
+[
+"butterflies and moths",
+3
+]
+],
+"clash": [
+"greek gods"
+]
+},
+"Alpine newt": {
+"also": [
+[
+"salamanders and newts",
+3
+]
+],
+"clash": []
+},
+"Alpine goat": {
+"also": [
+[
+"farm animals",
+3
+],
+[
+"mountain animals",
+3
+]
+],
+"clash": [
+"wild goats and sheep"
+]
+},
+"snowfinch": {
+"also": [
+[
+"finches",
+3
+]
+],
+"clash": []
+},
+"Alpine accentor": {
+"also": [
+[
+"songbirds",
+4
+]
+],
+"clash": []
+},
+"rock partridge": {
+"also": [
+[
+"game birds",
+3
+],
+[
+"mountain animals",
+3
+]
+],
+"clash": []
+},
+"Alpine swift": {
+"also": [],
+"clash": [
+"fast animals"
+]
+},
+"snow vole": {
+"also": [
+[
+"mountain animals",
+3
+],
+[
+"rodents",
+3
+]
+],
+"clash": []
+},
+"Alpine shrew": {
+"also": [],
+"clash": [
+"rodents"
+]
+},
+"asp viper": {
+"also": [
+[
+"snakes",
+3
+],
+[
+"venomous snakes",
+3
+]
+],
+"clash": []
+},
+"steinbock": {
+"also": [
+[
+"mountain animals",
+4
+],
+[
+"wild goats and sheep",
+4
+]
+],
+"clash": []
+},
+"ring ouzel": {
+"also": [
+[
+"songbirds",
+4
+]
+],
+"clash": []
+},
+"rock thrush": {
+"also": [
+[
+"songbirds",
+4
+]
+],
+"clash": []
+},
+"polar bear": {
+"also": [
+[
+"bears",
+1
+],
+[
+"endangered animals",
+2
+],
+[
+"polar regions",
+1
+]
+],
+"clash": [
+"north american animals"
+]
+},
+"Arctic fox": {
+"also": [
+[
+"camouflaged animals",
+2
+],
+[
+"polar regions",
+1
+],
+[
+"wild dogs and foxes",
+1
+]
+],
+"clash": []
+},
+"walrus": {
+"also": [
+[
+"animals with tusks",
+1
+],
+[
+"polar regions",
+1
+],
+[
+"sea mammals",
+1
+],
+[
+"seals and sea lions",
+1
+]
+],
+"clash": []
+},
+"narwhal": {
+"also": [
+[
+"animals with tusks",
+1
+],
+[
+"polar regions",
+2
+],
+[
+"sea mammals",
+1
+],
+[
+"whales and dolphins",
+1
+]
+],
+"clash": []
+},
+"beluga": {
+"also": [
+[
+"polar regions",
+2
+],
+[
+"sea mammals",
+1
+],
+[
+"whales and dolphins",
+1
+]
+],
+"clash": []
+},
+"musk ox": {
+"also": [
+[
+"animals with horns",
+2
+],
+[
+"ice age animals",
+3
+],
+[
+"north american animals",
+2
+],
+[
+"polar regions",
+2
+],
+[
+"wild cattle",
+2
+]
+],
+"clash": []
+},
+"caribou": {
+"also": [
+[
+"animals with horns",
+2
+],
+[
+"deer",
+1
+],
+[
+"migrating animals",
+1
+],
+[
+"north american animals",
+1
+],
+[
+"polar regions",
+2
+]
+],
+"clash": []
+},
+"snowy owl": {
+"also": [
+[
+"birds of prey",
+1
+],
+[
+"north american birds",
+3
+],
+[
+"owls",
+1
+],
+[
+"polar regions",
+2
+]
+],
+"clash": []
+},
+"Arctic hare": {
+"also": [
+[
+"camouflaged animals",
+2
+],
+[
+"polar regions",
+2
+]
+],
+"clash": [
+"rodents"
+]
+},
+"lemming": {
+"also": [
+[
+"polar regions",
+2
+],
+[
+"rodents",
+2
+]
+],
+"clash": []
+},
+"harp seal": {
+"also": [
+[
+"polar regions",
+2
+],
+[
+"sea mammals",
+2
+],
+[
+"seals and sea lions",
+2
+]
+],
+"clash": []
+},
+"Arctic wolf": {
+"also": [
+[
+"polar regions",
+2
+],
+[
+"wild dogs and foxes",
+2
+]
+],
+"clash": []
+},
+"ringed seal": {
+"also": [
+[
+"polar regions",
+3
+],
+[
+"seals and sea lions",
+2
+]
+],
+"clash": []
+},
+"bearded seal": {
+"also": [
+[
+"polar regions",
+3
+],
+[
+"seals and sea lions",
+2
+]
+],
+"clash": []
+},
+"bowhead whale": {
+"also": [
+[
+"ocean giants",
+2
+],
+[
+"polar regions",
+3
+],
+[
+"whales and dolphins",
+2
+]
+],
+"clash": []
+},
+"Arctic tern": {
+"also": [
+[
+"migrating animals",
+1
+],
+[
+"polar regions",
+3
+],
+[
+"seabirds",
+2
+]
+],
+"clash": []
+},
+"ermine": {
+"also": [
+[
+"camouflaged animals",
+3
+],
+[
+"polar regions",
+3
+],
+[
+"royal things",
+3
+],
+[
+"weasel family",
+2
+]
+],
+"clash": []
+},
+"wolverine": {
+"also": [
+[
+"north american animals",
+2
+],
+[
+"polar regions",
+3
+],
+[
+"taiga",
+3
+],
+[
+"weasel family",
+2
+]
+],
+"clash": []
+},
+"Arctic char": {
+"also": [
+[
+"fish to eat",
+3
+],
+[
+"polar regions",
+3
+],
+[
+"salmon and trout",
+3
+]
+],
+"clash": []
+},
+"Greenland shark": {
+"also": [
+[
+"deep sea fish",
+3
+],
+[
+"polar regions",
+3
+],
+[
+"sharks",
+2
+]
+],
+"clash": []
+},
+"snow goose": {
+"also": [
+[
+"geese and swans",
+2
+],
+[
+"migrating animals",
+2
+],
+[
+"polar regions",
+3
+]
+],
+"clash": []
+},
+"eider": {
+"also": [
+[
+"ducks",
+2
+],
+[
+"polar regions",
+3
+]
+],
+"clash": []
+},
+"woolly mammoth": {
+"also": [
+[
+"animals with tusks",
+1
+],
+[
+"extinct animals",
+1
+],
+[
+"ice age animals",
+1
+],
+[
+"polar regions",
+3
+]
+],
+"clash": [
+"dinosaurs"
+]
+},
+"hooded seal": {
+"also": [
+[
+"polar regions",
+4
+],
+[
+"seals and sea lions",
+3
+]
+],
+"clash": []
+},
+"snow bunting": {
+"also": [
+[
+"polar regions",
+4
+],
+[
+"songbirds",
+3
+]
+],
+"clash": []
+},
+"gyrfalcon": {
+"also": [
+[
+"birds of prey",
+2
+],
+[
+"polar regions",
+4
+]
+],
+"clash": []
+},
+"Arctic cod": {
+"also": [
+[
+"polar regions",
+4
+],
+[
+"sea fish",
+3
+]
+],
+"clash": []
+},
+"ivory gull": {
+"also": [
+[
+"polar regions",
+4
+],
+[
+"seabirds",
+3
+]
+],
+"clash": []
+},
+"little auk": {
+"also": [
+[
+"polar regions",
+4
+],
+[
+"seabirds",
+3
+]
+],
+"clash": []
+},
+"king eider": {
+"also": [
+[
+"ducks",
+3
+],
+[
+"polar regions",
+4
+]
+],
+"clash": []
+},
+"Arctic skua": {
+"also": [
+[
+"polar regions",
+4
+],
+[
+"seabirds",
+3
+]
+],
+"clash": []
+},
+"murre": {
+"also": [
+[
+"polar regions",
+4
+],
+[
+"seabirds",
+3
+]
+],
+"clash": []
+},
+"Arctic ground squirrel": {
+"also": [
+[
+"hibernating animals",
+3
+],
+[
+"polar regions",
+4
+],
+[
+"rodents",
+2
+]
+],
+"clash": []
+},
+"willow ptarmigan": {
+"also": [
+[
+"camouflaged animals",
+3
+],
+[
+"game birds",
+3
+],
+[
+"polar regions",
+4
+]
+],
+"clash": []
+},
+"dovekie": {
+"also": [
+[
+"polar regions",
+5
+],
+[
+"seabirds",
+4
+]
+],
+"clash": []
+},
+"glaucous gull": {
+"also": [
+[
+"polar regions",
+5
+],
+[
+"seabirds",
+3
+]
+],
+"clash": []
+},
+"Ross's gull": {
+"also": [
+[
+"polar regions",
+5
+],
+[
+"seabirds",
+4
+]
+],
+"clash": []
+},
+"tadpole": {
+"also": [
+[
+"baby animals",
+1
+],
+[
+"frogs and toads",
+2
+],
+[
+"life cycle words",
+2
+],
+[
+"pond",
+1
+]
+],
+"clash": [
+"insect life cycle"
+]
+},
+"toad": {
+"also": [
+[
+"british wildlife",
+1
+],
+[
+"frogs and toads",
+1
+],
+[
+"pond",
+1
+]
+],
+"clash": []
+},
+"duck": {
+"also": [
+[
+"body actions",
+2
+],
+[
+"cricket terms",
+3
+],
+[
+"ducks",
+1
+],
+[
+"farm",
+1
+],
+[
+"farm animals",
+1
+],
+[
+"pond",
+1
+],
+[
+"poultry",
+1
+],
+[
+"waterbirds",
+1
+]
+],
+"clash": []
+},
+"dragonfly": {
+"also": [
+[
+"___fly",
+1
+],
+[
+"british wildlife",
+2
+],
+[
+"insects and bugs",
+1
+],
+[
+"pond",
+1
+],
+[
+"things with wings",
+1
+]
+],
+"clash": []
+},
+"newt": {
+"also": [
+[
+"british wildlife",
+2
+],
+[
+"pond",
+1
+],
+[
+"salamanders and newts",
+1
+]
+],
+"clash": []
+},
+"pond snail": {
+"also": [
+[
+"mollusks",
+2
+],
+[
+"pond",
+2
+]
+],
+"clash": []
+},
+"leech": {
+"also": [
+[
+"biting bugs",
+2
+],
+[
+"pond",
+2
+]
+],
+"clash": []
+},
+"mallard": {
+"also": [
+[
+"british wildlife",
+1
+],
+[
+"ducks",
+1
+],
+[
+"famous locomotives",
+3
+],
+[
+"north american birds",
+2
+],
+[
+"pond",
+2
+],
+[
+"waterbirds",
+1
+]
+],
+"clash": []
+},
+"goldfish": {
+"also": [
+[
+"freshwater fish",
+1
+],
+[
+"pets",
+1
+],
+[
+"pond",
+2
+]
+],
+"clash": []
+},
+"minnow": {
+"also": [
+[
+"freshwater fish",
+1
+],
+[
+"pond",
+2
+]
+],
+"clash": []
+},
+"carp": {
+"also": [
+[
+"fish to eat",
+3
+],
+[
+"freshwater fish",
+1
+],
+[
+"pond",
+2
+]
+],
+"clash": [
+"asian animals"
+]
+},
+"mosquito": {
+"also": [
+[
+"biting bugs",
+1
+],
+[
+"garden bugs",
+2
+],
+[
+"insects and bugs",
+1
+],
+[
+"pond",
+2
+]
+],
+"clash": []
+},
+"swan": {
+"also": [
+[
+"british wildlife",
+1
+],
+[
+"geese and swans",
+1
+],
+[
+"pond",
+2
+],
+[
+"waterbirds",
+1
+]
+],
+"clash": []
+},
+"pond skater": {
+"also": [
+[
+"british wildlife",
+2
+],
+[
+"insects and bugs",
+2
+],
+[
+"pond",
+2
+]
+],
+"clash": []
+},
+"water strider": {
+"also": [
+[
+"insects and bugs",
+2
+],
+[
+"pond",
+3
+]
+],
+"clash": []
+},
+"damselfly": {
+"also": [
+[
+"___fly",
+2
+],
+[
+"british wildlife",
+2
+],
+[
+"insects and bugs",
+2
+],
+[
+"pond",
+3
+]
+],
+"clash": []
+},
+"water boatman": {
+"also": [
+[
+"insects and bugs",
+2
+],
+[
+"pond",
+3
+]
+],
+"clash": []
+},
+"mayfly": {
+"also": [
+[
+"___fly",
+2
+],
+[
+"insects and bugs",
+2
+],
+[
+"pond",
+3
+]
+],
+"clash": []
+},
+"water flea": {
+"also": [
+[
+"crustaceans",
+4
+],
+[
+"pond",
+3
+]
+],
+"clash": []
+},
+"frogspawn": {
+"also": [
+[
+"frogs and toads",
+2
+],
+[
+"pond",
+1
+]
+],
+"clash": []
+},
+"moorhen": {
+"also": [
+[
+"british wildlife",
+2
+],
+[
+"pond",
+1
+],
+[
+"waterbirds",
+2
+]
+],
+"clash": []
+},
+"coot": {
+"also": [
+[
+"british wildlife",
+2
+],
+[
+"pond",
+3
+],
+[
+"waterbirds",
+2
+]
+],
+"clash": [
+"old-fashioned insults"
+]
+},
+"stickleback": {
+"also": [
+[
+"british wildlife",
+2
+],
+[
+"freshwater fish",
+2
+],
+[
+"pond",
+3
+]
+],
+"clash": []
+},
+"pike": {
+"also": [
+[
+"british wildlife",
+3
+],
+[
+"fish to eat",
+3
+],
+[
+"freshwater fish",
+1
+],
+[
+"historic weapons",
+2
+],
+[
+"medieval weapons",
+2
+],
+[
+"pond",
+3
+]
+],
+"clash": []
+},
+"midge": {
+"also": [
+[
+"biting bugs",
+2
+],
+[
+"insects and bugs",
+2
+],
+[
+"pond",
+3
+]
+],
+"clash": []
+},
+"salamander": {
+"also": [
+[
+"mythical creatures",
+3
+],
+[
+"pond",
+3
+],
+[
+"salamanders and newts",
+1
+]
+],
+"clash": []
+},
+"terrapin": {
+"also": [
+[
+"animals with shells",
+1
+],
+[
+"pond",
+3
+],
+[
+"turtles and tortoises",
+1
+]
+],
+"clash": []
+},
+"water snake": {
+"also": [
+[
+"pond",
+3
+],
+[
+"snakes",
+2
+]
+],
+"clash": []
+},
+"grebe": {
+"also": [
+[
+"british wildlife",
+3
+],
+[
+"pond",
+3
+],
+[
+"waterbirds",
+2
+]
+],
+"clash": [
+"ducks"
+]
+},
+"whirligig beetle": {
+"also": [
+[
+"beetles",
+3
+],
+[
+"pond",
+4
+]
+],
+"clash": []
+},
+"diving beetle": {
+"also": [
+[
+"beetles",
+2
+],
+[
+"pond",
+4
+]
+],
+"clash": []
+},
+"water scorpion": {
+"also": [
+[
+"insects and bugs",
+3
+],
+[
+"pond",
+4
+]
+],
+"clash": []
+},
+"backswimmer": {
+"also": [
+[
+"insects and bugs",
+3
+],
+[
+"pond",
+4
+]
+],
+"clash": []
+},
+"caddisfly": {
+"also": [
+[
+"___fly",
+3
+],
+[
+"insects and bugs",
+3
+],
+[
+"pond",
+4
+]
+],
+"clash": []
+},
+"daphnia": {
+"also": [
+[
+"crustaceans",
+4
+],
+[
+"pond",
+4
+]
+],
+"clash": []
+},
+"hydra": {
+"also": [
+[
+"greek monsters",
+1
+],
+[
+"jellyfish and relatives",
+4
+],
+[
+"labors of hercules",
+2
+],
+[
+"mythical creatures",
+2
+],
+[
+"pond",
+4
+]
+],
+"clash": []
+},
+"water spider": {
+"also": [
+[
+"pond",
+4
+],
+[
+"spiders",
+2
+]
+],
+"clash": []
+},
+"toadspawn": {
+"also": [
+[
+"frogs and toads",
+2
+],
+[
+"pond",
+2
+]
+],
+"clash": []
+},
+"tench": {
+"also": [
+[
+"british wildlife",
+3
+],
+[
+"freshwater fish",
+3
+],
+[
+"pond",
+4
+]
+],
+"clash": []
+},
+"flatworm": {
+"also": [
+[
+"pond",
+4
+]
+],
+"clash": []
+},
+"freshwater shrimp": {
+"also": [
+[
+"crustaceans",
+2
+],
+[
+"pond",
+4
+]
+],
+"clash": []
+},
+"water louse": {
+"also": [
+[
+"crustaceans",
+4
+],
+[
+"pond",
+4
+]
+],
+"clash": []
+},
+"bloodworm": {
+"also": [
+[
+"fishing tackle",
+4
+],
+[
+"pond",
+4
+]
+],
+"clash": []
+},
+"painted turtle": {
+"also": [
+[
+"north american animals",
+3
+],
+[
+"pond",
+4
+],
+[
+"turtles and tortoises",
+2
+]
+],
+"clash": []
+},
+"dabchick": {
+"also": [
+[
+"british wildlife",
+3
+],
+[
+"pond",
+4
+],
+[
+"waterbirds",
+3
+]
+],
+"clash": []
+},
+"amoeba": {
+"also": [
+[
+"microbes",
+1
+],
+[
+"pond",
+4
+]
+],
+"clash": []
+},
+"water mite": {
+"also": [
+[
+"pond",
+5
+]
+],
+"clash": [
+"spiders"
+]
+},
+"planarian": {
+"also": [
+[
+"pond",
+5
+]
+],
+"clash": []
+},
+"rotifer": {
+"also": [
+[
+"microbes",
+3
+],
+[
+"pond",
+5
+]
+],
+"clash": []
+},
+"paramecium": {
+"also": [
+[
+"microbes",
+2
+],
+[
+"pond",
+5
+]
+],
+"clash": []
+},
+"euglena": {
+"also": [
+[
+"microbes",
+3
+],
+[
+"pond",
+5
+]
+],
+"clash": []
+},
+"volvox": {
+"also": [
+[
+"microbes",
+4
+],
+[
+"pond",
+5
+]
+],
+"clash": []
+},
+"cyclops": {
+"also": [
+[
+"crustaceans",
+4
+],
+[
+"greek monsters",
+1
+],
+[
+"mythical creatures",
+2
+],
+[
+"pond",
+5
+]
+],
+"clash": []
+},
+"copepod": {
+"also": [
+[
+"crustaceans",
+3
+],
+[
+"pond",
+5
+]
+],
+"clash": []
+},
+"swan mussel": {
+"also": [
+[
+"mollusks",
+3
+],
+[
+"pond",
+5
+]
+],
+"clash": []
+},
+"ramshorn snail": {
+"also": [
+[
+"mollusks",
+3
+],
+[
+"pond",
+5
+]
+],
+"clash": []
+},
+"water rail": {
+"also": [
+[
+"british wildlife",
+3
+],
+[
+"pond",
+5
+],
+[
+"waterbirds",
+3
+]
+],
+"clash": []
+},
+"deer": {
+"also": [
+[
+"animals with horns",
+1
+],
+[
+"british wildlife",
+2
+],
+[
+"hoofed mammals",
+1
+]
+],
+"clash": []
+},
+"fox": {
+"also": [
+[
+"british wildlife",
+1
+],
+[
+"city animals",
+1
+],
+[
+"north american animals",
+2
+],
+[
+"wild dogs and foxes",
+1
+]
+],
+"clash": []
+},
+"squirrel": {
+"also": [
+[
+"british wildlife",
+1
+],
+[
+"city animals",
+1
+],
+[
+"rodents",
+1
+]
+],
+"clash": []
+},
+"owl": {
+"also": [
+[
+"birds of prey",
+1
+],
+[
+"british wildlife",
+2
+],
+[
+"nocturnal animals",
+1
+]
+],
+"clash": []
+},
+"woodpecker": {
+"also": [
+[
+"british wildlife",
+2
+]
+],
+"clash": []
+},
+"bear": {
+"also": [
+[
+"hibernating animals",
+1
+],
+[
+"rhymes with bear",
+1
+],
+[
+"stock market words",
+2
+]
+],
+"clash": [
+"north american animals"
+]
+},
+"wolf": {
+"also": [
+[
+"european animals",
+2
+],
+[
+"north american animals",
+2
+],
+[
+"taiga",
+2
+],
+[
+"wild dogs and foxes",
+1
+]
+],
+"clash": []
+},
+"bat": {
+"also": [
+[
+"baseball terms",
+1
+],
+[
+"bats",
+1
+],
+[
+"british wildlife",
+2
+],
+[
+"cricket terms",
+1
+],
+[
+"halloween",
+1
+],
+[
+"homographs",
+2
+],
+[
+"nocturnal animals",
+1
+],
+[
+"sports equipment",
+1
+],
+[
+"things with wings",
+2
+]
+],
+"clash": []
+},
+"jay": {
+"also": [
+[
+"british wildlife",
+2
+],
+[
+"garden birds",
+3
+],
+[
+"songbirds",
+2
+],
+[
+"sounds like a letter",
+1
+]
+],
+"clash": [
+"boys' names"
+]
+},
+"nuthatch": {
+"also": [
+[
+"british wildlife",
+2
+],
+[
+"garden birds",
+2
+],
+[
+"songbirds",
+2
+]
+],
+"clash": []
+},
+"thrush": {
+"also": [
+[
+"british wildlife",
+2
+],
+[
+"garden birds",
+2
+],
+[
+"infections",
+3
+],
+[
+"songbirds",
+1
+]
+],
+"clash": []
+},
+"cuckoo": {
+"also": [
+[
+"british wildlife",
+2
+]
+],
+"clash": [
+"clock types",
+"words for strange"
+]
+},
+"woodcock": {
+"also": [
+[
+"british wildlife",
+2
+],
+[
+"game birds",
+2
+],
+[
+"wading birds",
+3
+]
+],
+"clash": []
+},
+"wood pigeon": {
+"also": [
+[
+"british wildlife",
+1
+],
+[
+"city animals",
+2
+],
+[
+"garden birds",
+2
+]
+],
+"clash": []
+},
+"woodlouse": {
+"also": [
+[
+"british wildlife",
+2
+],
+[
+"crustaceans",
+3
+],
+[
+"garden bugs",
+1
+]
+],
+"clash": []
+},
+"wildcat": {
+"also": [
+[
+"british wildlife",
+2
+],
+[
+"european animals",
+2
+],
+[
+"small wild cats",
+1
+]
+],
+"clash": []
+},
+"pheasant": {
+"also": [
+[
+"british wildlife",
+1
+],
+[
+"game birds",
+1
+],
+[
+"game meats",
+1
+]
+],
+"clash": [
+"asian animals"
+]
+},
+"bank vole": {
+"also": [
+[
+"british wildlife",
+2
+],
+[
+"rodents",
+2
+]
+],
+"clash": []
+},
+"treecreeper": {
+"also": [
+[
+"british wildlife",
+3
+],
+[
+"songbirds",
+3
+]
+],
+"clash": []
+},
+"goshawk": {
+"also": [
+[
+"birds of prey",
+2
+],
+[
+"british wildlife",
+3
+]
+],
+"clash": []
+},
+"wood ant": {
+"also": [
+[
+"british wildlife",
+3
+],
+[
+"insects and bugs",
+2
+]
+],
+"clash": []
+},
+"speckled wood": {
+"also": [
+[
+"british wildlife",
+3
+],
+[
+"butterflies and moths",
+4
+]
+],
+"clash": []
+},
+"purple emperor": {
+"also": [
+[
+"british wildlife",
+3
+],
+[
+"butterflies and moths",
+3
+]
+],
+"clash": [
+"emperors"
+]
+},
+"white admiral": {
+"also": [
+[
+"british wildlife",
+3
+],
+[
+"butterflies and moths",
+3
+]
+],
+"clash": [
+"navy words"
+]
+},
+"wood warbler": {
+"also": [
+[
+"british wildlife",
+3
+],
+[
+"songbirds",
+3
+]
+],
+"clash": []
+},
+"pied flycatcher": {
+"also": [
+[
+"british wildlife",
+3
+],
+[
+"songbirds",
+3
+]
+],
+"clash": []
+},
+"redstart": {
+"also": [
+[
+"british wildlife",
+3
+],
+[
+"songbirds",
+3
+]
+],
+"clash": []
+},
+"hawfinch": {
+"also": [
+[
+"british wildlife",
+3
+],
+[
+"finches",
+3
+]
+],
+"clash": []
+},
+"scorpion": {
+"also": [
+[
+"desert",
+1
+],
+[
+"things that sting",
+1
+],
+[
+"venomous animals",
+1
+]
+],
+"clash": [
+"middle eastern animals",
+"spiders",
+"zodiac signs"
+]
+},
+"vulture": {
+"also": [
+[
+"birds of prey",
+1
+],
+[
+"desert",
+2
+],
+[
+"savanna",
+2
+],
+[
+"scavengers",
+1
+],
+[
+"vultures",
+1
+]
+],
+"clash": [
+"african animals"
+]
+},
+"tarantula": {
+"also": [
+[
+"desert",
+2
+],
+[
+"spiders",
+1
+]
+],
+"clash": [
+"north american animals"
+]
+},
+"jerboa": {
+"also": [
+[
+"asian animals",
+3
+],
+[
+"burrowing animals",
+3
+],
+[
+"desert",
+3
+],
+[
+"middle eastern animals",
+2
+],
+[
+"rodents",
+2
+]
+],
+"clash": []
+},
+"sidewinder": {
+"also": [
+[
+"desert",
+3
+],
+[
+"north american animals",
+2
+],
+[
+"snakes",
+2
+],
+[
+"venomous snakes",
+2
+]
+],
+"clash": []
+},
+"kangaroo rat": {
+"also": [
+[
+"desert",
+3
+],
+[
+"north american animals",
+2
+],
+[
+"rodents",
+2
+]
+],
+"clash": []
+},
+"gerbil": {
+"also": [
+[
+"desert",
+3
+],
+[
+"pets",
+1
+],
+[
+"rodents",
+1
+],
+[
+"small pets",
+1
+]
+],
+"clash": []
+},
+"sandgrouse": {
+"also": [
+[
+"african birds",
+3
+],
+[
+"desert",
+4
+],
+[
+"middle eastern animals",
+3
+]
+],
+"clash": [
+"game birds"
+]
+},
+"darkling beetle": {
+"also": [
+[
+"beetles",
+3
+],
+[
+"desert",
+4
+]
+],
+"clash": []
+},
+"desert iguana": {
+"also": [
+[
+"desert",
+4
+],
+[
+"lizards",
+3
+],
+[
+"north american animals",
+3
+]
+],
+"clash": []
+},
+"elf owl": {
+"also": [
+[
+"desert",
+4
+],
+[
+"north american birds",
+3
+],
+[
+"owls",
+2
+]
+],
+"clash": [
+"fantasy races"
+]
+},
+"sand boa": {
+"also": [
+[
+"constrictor snakes",
+3
+],
+[
+"desert",
+4
+],
+[
+"snakes",
+3
+]
+],
+"clash": []
+},
+"sandfish": {
+"also": [
+[
+"desert",
+4
+],
+[
+"lizards",
+4
+],
+[
+"middle eastern animals",
+4
+]
+],
+"clash": []
+},
+"spadefoot toad": {
+"also": [
+[
+"desert",
+4
+],
+[
+"frogs and toads",
+3
+],
+[
+"north american animals",
+3
+]
+],
+"clash": []
+},
+"pupfish": {
+"also": [
+[
+"desert",
+4
+],
+[
+"freshwater fish",
+4
+],
+[
+"north american animals",
+3
+]
+],
+"clash": []
+},
+"desert bighorn": {
+"also": [
+[
+"desert",
+4
+],
+[
+"north american animals",
+3
+],
+[
+"wild goats and sheep",
+3
+]
+],
+"clash": []
+},
+"dorcas gazelle": {
+"also": [
+[
+"african animals",
+3
+],
+[
+"antelopes",
+3
+],
+[
+"desert",
+4
+]
+],
+"clash": []
+},
+"mulgara": {
+"also": [
+[
+"australian animals",
+4
+],
+[
+"desert",
+5
+],
+[
+"marsupials",
+4
+]
+],
+"clash": []
+},
+"Namaqua chameleon": {
+"also": [
+[
+"african animals",
+3
+],
+[
+"desert",
+5
+],
+[
+"lizards",
+3
+]
+],
+"clash": []
+},
+"western diamondback": {
+"also": [
+[
+"desert",
+4
+],
+[
+"north american animals",
+2
+],
+[
+"snakes",
+2
+],
+[
+"venomous snakes",
+2
+]
+],
+"clash": []
+},
+"tree frog": {
+"also": [
+[
+"amazon animals",
+2
+],
+[
+"frogs and toads",
+1
+],
+[
+"rainforest",
+2
+]
+],
+"clash": []
+},
+"parrot": {
+"also": [
+[
+"colorful birds",
+1
+],
+[
+"parrots",
+1
+],
+[
+"pets",
+1
+],
+[
+"pirates",
+2
+],
+[
+"rainforest",
+2
+]
+],
+"clash": [
+"amazon animals"
+]
+},
+"iguana": {
+"also": [
+[
+"amazon animals",
+2
+],
+[
+"lizards",
+1
+],
+[
+"pets",
+3
+],
+[
+"rainforest",
+2
+],
+[
+"south american animals",
+2
+]
+],
+"clash": []
+},
+"hornbill": {
+"also": [
+[
+"african birds",
+3
+],
+[
+"colorful birds",
+3
+],
+[
+"rainforest",
+3
+],
+[
+"southeast asian animals",
+2
+]
+],
+"clash": []
+},
+"quetzal": {
+"also": [
+[
+"colorful birds",
+2
+],
+[
+"latin american currencies",
+3
+],
+[
+"national animals",
+3
+],
+[
+"rainforest",
+3
+]
+],
+"clash": [
+"amazon animals"
+]
+},
+"hummingbird": {
+"also": [
+[
+"fast animals",
+3
+],
+[
+"pollinators",
+1
+],
+[
+"rainforest",
+3
+]
+],
+"clash": [
+"amazon animals"
+]
+},
+"chameleon": {
+"also": [
+[
+"african animals",
+2
+],
+[
+"camouflaged animals",
+1
+],
+[
+"lizards",
+1
+],
+[
+"madagascar animals",
+2
+],
+[
+"rainforest",
+3
+]
+],
+"clash": []
+},
+"forest elephant": {
+"also": [
+[
+"african animals",
+2
+],
+[
+"animals with tusks",
+2
+],
+[
+"rainforest",
+3
+]
+],
+"clash": []
+},
+"stick insect": {
+"also": [
+[
+"camouflaged animals",
+1
+],
+[
+"insects and bugs",
+1
+],
+[
+"pets",
+3
+],
+[
+"rainforest",
+3
+]
+],
+"clash": []
+},
+"fruit bat": {
+"also": [
+[
+"bats",
+1
+],
+[
+"pollinators",
+2
+],
+[
+"rainforest",
+3
+]
+],
+"clash": []
+},
+"flying fox": {
+"also": [
+[
+"australian animals",
+2
+],
+[
+"bats",
+2
+],
+[
+"rainforest",
+3
+],
+[
+"southeast asian animals",
+3
+]
+],
+"clash": [
+"playground",
+"wild dogs and foxes"
+]
+},
+"bird of paradise": {
+"also": [
+[
+"colorful birds",
+2
+],
+[
+"rainforest",
+3
+],
+[
+"tropical flowers",
+2
+]
+],
+"clash": [
+"australian birds"
+]
+},
+"flying frog": {
+"also": [
+[
+"frogs and toads",
+3
+],
+[
+"rainforest",
+4
+],
+[
+"southeast asian animals",
+3
+]
+],
+"clash": []
+},
+"leaf insect": {
+"also": [
+[
+"camouflaged animals",
+1
+],
+[
+"insects and bugs",
+2
+],
+[
+"rainforest",
+4
+]
+],
+"clash": []
+},
+"red-eyed tree frog": {
+"also": [
+[
+"frogs and toads",
+2
+],
+[
+"rainforest",
+2
+]
+],
+"clash": [
+"amazon animals"
+]
+},
+"buffalo": {
+"also": [
+[
+"african animals",
+1
+],
+[
+"american cities",
+2
+],
+[
+"animals with horns",
+1
+],
+[
+"savanna",
+2
+],
+[
+"wild cattle",
+1
+]
+],
+"clash": []
+},
+"termite": {
+"also": [
+[
+"household pests",
+2
+],
+[
+"insects and bugs",
+1
+],
+[
+"savanna",
+3
+]
+],
+"clash": [
+"african animals"
+]
+},
+"oribi": {
+"also": [
+[
+"antelopes",
+3
+],
+[
+"savanna",
+4
+]
+],
+"clash": []
+}
+}

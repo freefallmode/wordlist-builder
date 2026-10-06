@@ -1,0 +1,14747 @@
+{
+"Valentino": {
+"also": [],
+"clash": [
+"boys' names",
+"classic film stars",
+"latin american names"
+]
+},
+"Hermès": {
+"also": [],
+"clash": [
+"greek gods",
+"bags"
+]
+},
+"Louis Vuitton": {
+"also": [],
+"clash": [
+"bags"
+]
+},
+"Michael Kors": {
+"also": [],
+"clash": [
+"bags"
+]
+},
+"Kate Spade": {
+"also": [],
+"clash": [
+"bags"
+]
+},
+"Furla": {
+"also": [],
+"clash": [
+"bags"
+]
+},
+"Christian Louboutin": {
+"also": [],
+"clash": [
+"shoes"
+]
+},
+"Jimmy Choo": {
+"also": [],
+"clash": [
+"shoes"
+]
+},
+"Manolo Blahnik": {
+"also": [],
+"clash": [
+"shoes"
+]
+},
+"Steve Madden": {
+"also": [],
+"clash": [
+"shoes"
+]
+},
+"Kenneth Cole": {
+"also": [],
+"clash": [
+"shoes"
+]
+},
+"Ferragamo": {
+"also": [],
+"clash": [
+"shoes"
+]
+},
+"Salvatore Ferragamo": {
+"also": [],
+"clash": [
+"shoes"
+]
+},
+"Vera Wang": {
+"also": [],
+"clash": [
+"weddings"
+]
+},
+"Tom Ford": {
+"also": [],
+"clash": [
+"film directors"
+]
+},
+"John Galliano": {
+"also": [],
+"clash": [
+"liqueurs"
+]
+},
+"Coco Chanel": {
+"also": [
+[
+"famous women in history",
+2
+]
+],
+"clash": []
+},
+"Mary Quant": {
+"also": [],
+"clash": [
+"famous women in history"
+]
+},
+"Vivienne Westwood": {
+"also": [],
+"clash": [
+"famous women in history"
+]
+},
+"Kenzo": {
+"also": [
+[
+"japanese names",
+3
+]
+],
+"clash": []
+},
+"Erdem": {
+"also": [
+[
+"turkish names",
+2
+]
+],
+"clash": []
+},
+"Celine": {
+"also": [
+[
+"girls' names",
+2
+]
+],
+"clash": [
+"pop stars"
+]
+},
+"Chloé": {
+"also": [
+[
+"girls' names",
+1
+]
+],
+"clash": []
+},
+"Burberry": {
+"also": [],
+"clash": [
+"___berry",
+"coats and jackets"
+]
+},
+"Barbour": {
+"also": [],
+"clash": [
+"coats and jackets"
+]
+},
+"Mulberry": {
+"also": [
+[
+"berries",
+2
+],
+[
+"fruit trees",
+2
+],
+[
+"___berry",
+1
+],
+[
+"shades of purple",
+2
+],
+[
+"fruits",
+2
+]
+],
+"clash": [
+"bags"
+]
+},
+"Coach": {
+"also": [
+[
+"bus types",
+1
+],
+[
+"horse-drawn vehicles",
+1
+],
+[
+"jobs",
+2
+],
+[
+"parts of a train",
+2
+]
+],
+"clash": [
+"bags",
+"sports officials"
+]
+},
+"Elie Saab": {
+"also": [],
+"clash": [
+"car brands"
+]
+},
+"belt": {
+"also": [
+[
+"things made of leather",
+1
+],
+[
+"wardrobe",
+1
+],
+[
+"karate words",
+2
+]
+],
+"clash": [
+"boxing terms",
+"judo words",
+"car parts",
+"wrestling terms"
+]
+},
+"watch": {
+"also": [
+[
+"things that tick",
+1
+],
+[
+"clock types",
+1
+],
+[
+"clocks and calendars",
+1
+],
+[
+"ways of looking",
+1
+]
+],
+"clash": [
+"navy words",
+"wearable tech"
+]
+},
+"umbrella": {
+"also": [
+[
+"things that fold",
+1
+],
+[
+"things with handles",
+1
+],
+[
+"words from italian",
+1
+],
+[
+"beach gear",
+2
+]
+],
+"clash": [
+"rain words",
+"things to pack"
+]
+},
+"wallet": {
+"also": [
+[
+"things made of leather",
+1
+],
+[
+"things that fold",
+1
+],
+[
+"in a handbag",
+1
+]
+],
+"clash": [
+"bags"
+]
+},
+"suspenders": {
+"also": [],
+"clash": [
+"underwear"
+]
+},
+"keychain": {
+"also": [],
+"clash": [
+"in a handbag"
+]
+},
+"key ring": {
+"also": [],
+"clash": [
+"things with keys",
+"in a handbag"
+]
+},
+"handkerchief": {
+"also": [],
+"clash": [
+"in a handbag",
+"scarves and gloves"
+]
+},
+"hand fan": {
+"also": [
+[
+"things that fold",
+1
+],
+[
+"hand___",
+2
+]
+],
+"clash": [
+"heating and cooling"
+]
+},
+"parasol": {
+"also": [
+[
+"beach gear",
+2
+],
+[
+"things that fold",
+1
+],
+[
+"things with handles",
+2
+],
+[
+"garden furniture",
+2
+]
+],
+"clash": []
+},
+"walking stick": {
+"also": [
+[
+"insects and bugs",
+2
+],
+[
+"hiking gear",
+2
+]
+],
+"clash": [
+"camouflaged animals",
+"medical equipment"
+]
+},
+"cane": {
+"also": [
+[
+"punishments",
+2
+],
+[
+"natural materials",
+2
+],
+[
+"grasses and reeds",
+2
+]
+],
+"clash": [
+"medical equipment",
+"sweeteners",
+"things made of wood"
+]
+},
+"belt buckle": {
+"also": [],
+"clash": [
+"fastenings",
+"jewelry",
+"western wear"
+]
+},
+"earmuffs": {
+"also": [],
+"clash": [
+"scarves and gloves",
+"hats",
+"things that come in pairs",
+"cozy things",
+"ski trip"
+]
+},
+"lanyard": {
+"also": [
+[
+"cords and strings",
+2
+]
+],
+"clash": [
+"office"
+]
+},
+"badge": {
+"also": [
+[
+"police words",
+2
+]
+],
+"clash": [
+"medals and honors",
+"cowboy words",
+"gaming words"
+]
+},
+"pin badge": {
+"also": [],
+"clash": [
+"jewelry"
+]
+},
+"wristband": {
+"also": [
+[
+"sports clothing",
+2
+]
+],
+"clash": [
+"jewelry",
+"music festivals"
+]
+},
+"sweatband": {
+"also": [
+[
+"sports clothing",
+1
+]
+],
+"clash": [
+"hair accessories",
+"tennis terms"
+]
+},
+"sash": {
+"also": [
+[
+"windows and doors",
+2
+],
+[
+"window styles",
+2
+]
+],
+"clash": [
+"medals and honors",
+"clothing parts"
+]
+},
+"cummerbund": {
+"also": [
+[
+"words from persian",
+3
+]
+],
+"clash": [
+"words from hindi",
+"weddings"
+]
+},
+"corsage": {
+"also": [],
+"clash": [
+"weddings",
+"bouquet flowers"
+]
+},
+"boutonniere": {
+"also": [
+[
+"words from french",
+2
+]
+],
+"clash": [
+"weddings"
+]
+},
+"lapel pin": {
+"also": [],
+"clash": [
+"jewelry",
+"clothing parts"
+]
+},
+"money clip": {
+"also": [],
+"clash": [
+"in a wallet"
+]
+},
+"cardholder": {
+"also": [],
+"clash": [
+"in a wallet",
+"in a handbag"
+]
+},
+"wristwatch": {
+"also": [
+[
+"things that tick",
+1
+],
+[
+"clock types",
+2
+]
+],
+"clash": [
+"jewelry",
+"wearable tech"
+]
+},
+"pocket watch": {
+"also": [
+[
+"things that tick",
+1
+],
+[
+"clock types",
+1
+]
+],
+"clash": [
+"retro household items"
+]
+},
+"smartwatch": {
+"also": [
+[
+"wearable tech",
+1
+],
+[
+"gadgets",
+1
+]
+],
+"clash": [
+"clock types",
+"handheld gadgets"
+]
+},
+"fob watch": {
+"also": [
+[
+"things that tick",
+2
+],
+[
+"clock types",
+2
+]
+],
+"clash": []
+},
+"watch chain": {
+"also": [],
+"clash": [
+"jewelry"
+]
+},
+"spats": {
+"also": [],
+"clash": [
+"shoes"
+]
+},
+"gaiters": {
+"also": [
+[
+"hiking gear",
+2
+]
+],
+"clash": [
+"boots"
+]
+},
+"leg warmers": {
+"also": [
+[
+"knitwear",
+2
+]
+],
+"clash": [
+"dance studio words",
+"cozy things"
+]
+},
+"armband": {
+"also": [
+[
+"swimming words",
+2
+]
+],
+"clash": [
+"jewelry",
+"swimming pool",
+"beach gear"
+]
+},
+"face mask": {
+"also": [
+[
+"medical equipment",
+1
+],
+[
+"skincare products",
+1
+]
+],
+"clash": [
+"korean skincare",
+"halloween",
+"spa",
+"emergency supplies"
+]
+},
+"sleep mask": {
+"also": [
+[
+"travel accessories",
+1
+]
+],
+"clash": [
+"sleep words",
+"bedtime routine",
+"nightwear"
+]
+},
+"key fob": {
+"also": [
+[
+"things with buttons",
+2
+]
+],
+"clash": [
+"car parts",
+"in a handbag"
+]
+},
+"phone case": {
+"also": [],
+"clash": [
+"phone words"
+]
+},
+"sunshade": {
+"also": [
+[
+"beach gear",
+2
+]
+],
+"clash": [
+"things that fold",
+"window coverings"
+]
+},
+"fly whisk": {
+"also": [],
+"clash": [
+"kitchen utensils"
+]
+},
+"swagger stick": {
+"also": [],
+"clash": [
+"army words"
+]
+},
+"nosegay": {
+"also": [],
+"clash": [
+"weddings",
+"bouquet flowers"
+]
+},
+"sneaker": {
+"also": [
+[
+"sports clothing",
+2
+]
+],
+"clash": [
+"things that come in pairs"
+]
+},
+"sandal": {
+"also": [],
+"clash": [
+"things that come in pairs"
+]
+},
+"slipper": {
+"also": [
+[
+"cozy things",
+1
+]
+],
+"clash": [
+"nightwear",
+"things that come in pairs"
+]
+},
+"flip-flop": {
+"also": [
+[
+"beach gear",
+1
+]
+],
+"clash": [
+"swimwear",
+"things that come in pairs"
+]
+},
+"stiletto": {
+"also": [
+[
+"historic weapons",
+3
+]
+],
+"clash": [
+"things that cut"
+]
+},
+"pump": {
+"also": [
+[
+"bicycle parts",
+2
+]
+],
+"clash": [
+"gas station",
+"plumbing words",
+"camping gear",
+"fitness words"
+]
+},
+"moccasin": {
+"also": [
+[
+"words from native american languages",
+1
+]
+],
+"clash": [
+"venomous snakes",
+"snakes"
+]
+},
+"clog": {
+"also": [
+[
+"european folk costume",
+1
+],
+[
+"things made of wood",
+1
+]
+],
+"clash": [
+"plumbing words",
+"folk dances"
+]
+},
+"trainer": {
+"also": [
+[
+"animal jobs",
+2
+],
+[
+"sports clothing",
+2
+]
+],
+"clash": [
+"fitness words",
+"jobs"
+]
+},
+"oxford": {
+"also": [
+[
+"british cities",
+1
+]
+],
+"clash": [
+"university words",
+"cotton fabrics"
+]
+},
+"brogue": {
+"also": [],
+"clash": [
+"ways of speaking"
+]
+},
+"mule": {
+"also": [
+[
+"farm animals",
+1
+],
+[
+"horse family",
+1
+],
+[
+"working animals",
+1
+],
+[
+"animal-powered travel",
+2
+]
+],
+"clash": [
+"illegal drugs",
+"industrial revolution"
+]
+},
+"wedge": {
+"also": [
+[
+"golf terms",
+2
+],
+[
+"simple machines",
+1
+]
+],
+"clash": [
+"hairstyles",
+"potato dishes",
+"triangular things",
+"golf shots"
+]
+},
+"ballet flat": {
+"also": [],
+"clash": [
+"ballet terms",
+"dance studio words"
+]
+},
+"platform": {
+"also": [
+[
+"station words",
+1
+],
+[
+"railway words",
+1
+]
+],
+"clash": [
+"diving terms",
+"social media words",
+"parts of a stage",
+"election words"
+]
+},
+"Mary Jane": {
+"also": [],
+"clash": [
+"illegal drugs",
+"girls' names"
+]
+},
+"kitten heel": {
+"also": [],
+"clash": [
+"baby animals"
+]
+},
+"boat shoe": {
+"also": [],
+"clash": [
+"boats and ships"
+]
+},
+"plimsoll": {
+"also": [
+[
+"british english words",
+2
+]
+],
+"clash": [
+"ship parts"
+]
+},
+"derby": {
+"also": [
+[
+"hats",
+2
+],
+[
+"famous horse races",
+1
+],
+[
+"british cities",
+2
+],
+[
+"horse racing terms",
+2
+],
+[
+"soccer terms",
+2
+]
+],
+"clash": [
+"historical hats",
+"famous sporting events"
+]
+},
+"penny loafer": {
+"also": [],
+"clash": [
+"coins"
+]
+},
+"tassel loafer": {
+"also": [],
+"clash": [
+"graduation words"
+]
+},
+"driving shoe": {
+"also": [],
+"clash": [
+"driving words"
+]
+},
+"wingtip": {
+"also": [
+[
+"plane parts",
+2
+]
+],
+"clash": [
+"bird body parts"
+]
+},
+"saddle shoe": {
+"also": [],
+"clash": [
+"horse tack"
+]
+},
+"cleat": {
+"also": [
+[
+"sports clothing",
+2
+],
+[
+"sailing words",
+2
+],
+[
+"ship parts",
+2
+]
+],
+"clash": [
+"american football terms"
+]
+},
+"running shoe": {
+"also": [
+[
+"sports clothing",
+1
+],
+[
+"running words",
+2
+]
+],
+"clash": []
+},
+"tap shoe": {
+"also": [
+[
+"dance studio words",
+2
+]
+],
+"clash": []
+},
+"pointe shoe": {
+"also": [
+[
+"ballet terms",
+1
+],
+[
+"dance studio words",
+2
+]
+],
+"clash": []
+},
+"golf shoe": {
+"also": [
+[
+"sports clothing",
+2
+]
+],
+"clash": [
+"golf terms"
+]
+},
+"bowling shoe": {
+"also": [
+[
+"bowling terms",
+1
+],
+[
+"sports clothing",
+2
+]
+],
+"clash": []
+},
+"climbing shoe": {
+"also": [
+[
+"climbing gear",
+1
+],
+[
+"climbing words",
+2
+],
+[
+"sports clothing",
+2
+]
+],
+"clash": []
+},
+"gladiator sandal": {
+"also": [],
+"clash": [
+"ancient rome",
+"roman life"
+]
+},
+"huarache": {
+"also": [],
+"clash": [
+"mexican food"
+]
+},
+"geta": {
+"also": [
+[
+"japanese clothing",
+1
+]
+],
+"clash": []
+},
+"zori": {
+"also": [
+[
+"japanese clothing",
+2
+]
+],
+"clash": []
+},
+"tabi": {
+"also": [
+[
+"japanese clothing",
+1
+]
+],
+"clash": []
+},
+"waraji": {
+"also": [
+[
+"japanese clothing",
+3
+]
+],
+"clash": []
+},
+"jutti": {
+"also": [
+[
+"indian clothing",
+2
+]
+],
+"clash": []
+},
+"mojari": {
+"also": [
+[
+"indian clothing",
+3
+]
+],
+"clash": []
+},
+"galosh": {
+"also": [
+[
+"things made of rubber",
+2
+]
+],
+"clash": [
+"rain words"
+]
+},
+"creeper": {
+"also": [
+[
+"vines and climbers",
+1
+]
+],
+"clash": []
+},
+"chopine": {
+"also": [
+[
+"medieval clothing",
+3
+]
+],
+"clash": []
+},
+"patten": {
+"also": [
+[
+"medieval clothing",
+3
+]
+],
+"clash": []
+},
+"poulaine": {
+"also": [
+[
+"medieval clothing",
+3
+]
+],
+"clash": []
+},
+"ghillie": {
+"also": [],
+"clash": [
+"european folk costume",
+"highland games",
+"hunting words"
+]
+},
+"T-bar": {
+"also": [
+[
+"cable cars and lifts",
+2
+],
+[
+"skiing words",
+2
+]
+],
+"clash": []
+},
+"spectator": {
+"also": [],
+"clash": [
+"fans and followers"
+]
+},
+"wellington": {
+"also": [
+[
+"new zealand cities",
+1
+],
+[
+"capital cities",
+1
+],
+[
+"famous generals",
+2
+],
+[
+"things made of rubber",
+1
+]
+],
+"clash": [
+"napoleonic battles",
+"british food",
+"rain words"
+]
+},
+"welly": {
+"also": [
+[
+"things made of rubber",
+1
+],
+[
+"british english words",
+1
+]
+],
+"clash": [
+"rain words"
+]
+},
+"rain boot": {
+"also": [
+[
+"things made of rubber",
+1
+],
+[
+"rain___",
+2
+]
+],
+"clash": [
+"rain words"
+]
+},
+"cowboy boot": {
+"also": [
+[
+"western wear",
+1
+],
+[
+"cowboy words",
+2
+]
+],
+"clash": []
+},
+"hiking boot": {
+"also": [
+[
+"hiking gear",
+1
+]
+],
+"clash": []
+},
+"Chelsea boot": {
+"also": [],
+"clash": [
+"european soccer clubs",
+"girls' names"
+]
+},
+"combat boot": {
+"also": [],
+"clash": [
+"army words"
+]
+},
+"riding boot": {
+"also": [
+[
+"horse riding words",
+2
+]
+],
+"clash": [
+"equestrian events"
+]
+},
+"snow boot": {
+"also": [
+[
+"snow___",
+2
+]
+],
+"clash": [
+"ski trip"
+]
+},
+"work boot": {
+"also": [
+[
+"work clothes",
+1
+]
+],
+"clash": []
+},
+"ski boot": {
+"also": [
+[
+"ski trip",
+1
+],
+[
+"skiing words",
+1
+]
+],
+"clash": []
+},
+"gumboot": {
+"also": [
+[
+"things made of rubber",
+1
+]
+],
+"clash": [
+"african dances",
+"rain words"
+]
+},
+"chukka": {
+"also": [],
+"clash": [
+"equestrian events"
+]
+},
+"jackboot": {
+"also": [],
+"clash": [
+"army words"
+]
+},
+"mukluk": {
+"also": [
+[
+"words from native american languages",
+2
+],
+[
+"polar expedition gear",
+2
+]
+],
+"clash": []
+},
+"waders": {
+"also": [
+[
+"fishing tackle",
+1
+],
+[
+"fishing words",
+2
+]
+],
+"clash": [
+"wading birds"
+]
+},
+"moon boot": {
+"also": [],
+"clash": [
+"spaceflight words",
+"ski trip"
+]
+},
+"steel toe": {
+"also": [
+[
+"work clothes",
+2
+]
+],
+"clash": []
+},
+"football boot": {
+"also": [
+[
+"sports clothing",
+1
+],
+[
+"soccer terms",
+2
+]
+],
+"clash": []
+},
+"jodhpur boot": {
+"also": [
+[
+"horse riding words",
+2
+]
+],
+"clash": [
+"indian cities"
+]
+},
+"Hessian": {
+"also": [
+[
+"soldiers of history",
+3
+],
+[
+"american revolution",
+3
+]
+],
+"clash": [
+"fabrics"
+]
+},
+"Wellington boot": {
+"also": [
+[
+"things made of rubber",
+1
+]
+],
+"clash": [
+"rain words"
+]
+},
+"western boot": {
+"also": [
+[
+"western wear",
+1
+],
+[
+"cowboy words",
+2
+]
+],
+"clash": []
+},
+"Beatle boot": {
+"also": [],
+"clash": [
+"famous bands",
+"beetles"
+]
+},
+"paddock boot": {
+"also": [
+[
+"horse riding words",
+2
+]
+],
+"clash": []
+},
+"bootie": {
+"also": [
+[
+"baby gear",
+2
+]
+],
+"clash": [
+"knitwear",
+"treasure"
+]
+},
+"Blucher": {
+"also": [
+[
+"famous generals",
+3
+]
+],
+"clash": []
+},
+"Balmoral": {
+"also": [
+[
+"famous castles",
+2
+]
+],
+"clash": [
+"hats"
+]
+},
+"buskin": {
+"also": [],
+"clash": [
+"theater words"
+]
+},
+"muck boot": {
+"also": [],
+"clash": [
+"farm"
+]
+},
+"lace-up": {
+"also": [],
+"clash": [
+"fastenings"
+]
+},
+"cap": {
+"also": [
+[
+"graduation words",
+1
+]
+],
+"clash": [
+"dental words",
+"soccer terms",
+"things with lids"
+]
+},
+"baseball cap": {
+"also": [
+[
+"sports clothing",
+2
+]
+],
+"clash": [
+"baseball terms"
+]
+},
+"beanie": {
+"also": [
+[
+"knitwear",
+1
+]
+],
+"clash": []
+},
+"beret": {
+"also": [],
+"clash": [
+"army words"
+]
+},
+"sombrero": {
+"also": [
+[
+"mexican souvenirs",
+1
+],
+[
+"words from spanish",
+1
+]
+],
+"clash": [
+"south american clothing"
+]
+},
+"cowboy hat": {
+"also": [
+[
+"western wear",
+1
+],
+[
+"cowboy words",
+1
+]
+],
+"clash": []
+},
+"sun hat": {
+"also": [
+[
+"beach gear",
+1
+],
+[
+"sun___",
+2
+]
+],
+"clash": []
+},
+"bucket hat": {
+"also": [],
+"clash": [
+"containers"
+]
+},
+"visor": {
+"also": [
+[
+"car parts",
+2
+],
+[
+"armor",
+2
+]
+],
+"clash": []
+},
+"helmet": {
+"also": [
+[
+"armor",
+1
+],
+[
+"sports equipment",
+1
+],
+[
+"hidden trees",
+1
+],
+[
+"cycling words",
+2
+]
+],
+"clash": [
+"motor racing",
+"knights",
+"construction site"
+]
+},
+"panama": {
+"also": [
+[
+"countries",
+1
+],
+[
+"north american countries",
+1
+]
+],
+"clash": [
+"famous canals",
+"straits and canals",
+"capital cities"
+]
+},
+"pork pie": {
+"also": [
+[
+"british food",
+1
+],
+[
+"savory pies",
+1
+],
+[
+"cockney rhyming slang",
+2
+]
+],
+"clash": []
+},
+"toque": {
+"also": [
+[
+"canadian slang",
+2
+]
+],
+"clash": [
+"kitchen brigade"
+]
+},
+"balaclava": {
+"also": [
+[
+"knitwear",
+2
+],
+[
+"famous battles",
+2
+]
+],
+"clash": [
+"crimes"
+]
+},
+"bobble hat": {
+"also": [
+[
+"knitwear",
+1
+]
+],
+"clash": []
+},
+"fascinator": {
+"also": [
+[
+"hair accessories",
+2
+]
+],
+"clash": [
+"weddings"
+]
+},
+"newsboy cap": {
+"also": [],
+"clash": [
+"newspaper words"
+]
+},
+"trucker hat": {
+"also": [],
+"clash": [
+"truck types"
+]
+},
+"Stetson": {
+"also": [
+[
+"cowboy words",
+1
+],
+[
+"western wear",
+2
+],
+[
+"brand names used as words",
+2
+]
+],
+"clash": []
+},
+"turban": {
+"also": [
+[
+"religious clothing",
+1
+],
+[
+"indian clothing",
+2
+],
+[
+"ottoman clothing",
+2
+]
+],
+"clash": [
+"middle eastern clothing",
+"seashells",
+"squashes"
+]
+},
+"fez": {
+"also": [
+[
+"ottoman clothing",
+1
+],
+[
+"african cities",
+2
+],
+[
+"moroccan souvenirs",
+2
+]
+],
+"clash": []
+},
+"hard hat": {
+"also": [
+[
+"construction site",
+1
+],
+[
+"work clothes",
+1
+]
+],
+"clash": []
+},
+"chef's hat": {
+"also": [],
+"clash": [
+"kitchen brigade",
+"restaurant"
+]
+},
+"toque blanche": {
+"also": [],
+"clash": [
+"kitchen brigade",
+"words from french"
+]
+},
+"skullcap": {
+"also": [
+[
+"religious clothing",
+2
+]
+],
+"clash": [
+"medicinal plants"
+]
+},
+"kufi": {
+"also": [
+[
+"religious clothing",
+2
+],
+[
+"african clothing",
+2
+]
+],
+"clash": [
+"islam words"
+]
+},
+"yarmulke": {
+"also": [
+[
+"religious clothing",
+1
+],
+[
+"judaism words",
+1
+],
+[
+"words from yiddish",
+1
+]
+],
+"clash": []
+},
+"kippah": {
+"also": [
+[
+"religious clothing",
+1
+],
+[
+"judaism words",
+1
+]
+],
+"clash": []
+},
+"mortarboard": {
+"also": [
+[
+"graduation words",
+1
+],
+[
+"university words",
+2
+]
+],
+"clash": [
+"building materials"
+]
+},
+"ten-gallon hat": {
+"also": [
+[
+"cowboy words",
+1
+],
+[
+"western wear",
+1
+]
+],
+"clash": [
+"volume units"
+]
+},
+"boonie hat": {
+"also": [],
+"clash": [
+"army words"
+]
+},
+"deerstalker": {
+"also": [
+[
+"detective words",
+1
+]
+],
+"clash": [
+"deer",
+"hunting words"
+]
+},
+"tam": {
+"also": [],
+"clash": [
+"european folk costume",
+"scottish words"
+]
+},
+"ushanka": {
+"also": [],
+"clash": [
+"polar expedition gear"
+]
+},
+"trapper hat": {
+"also": [],
+"clash": [
+"hunting words"
+]
+},
+"rain hat": {
+"also": [],
+"clash": [
+"rain___"
+]
+},
+"bush hat": {
+"also": [],
+"clash": [
+"outback travel"
+]
+},
+"Akubra": {
+"also": [],
+"clash": [
+"outback travel",
+"australian slang"
+]
+},
+"conical hat": {
+"also": [],
+"clash": [
+"3d shapes"
+]
+},
+"miter": {
+"also": [
+[
+"religious clothing",
+1
+],
+[
+"woodworking words",
+2
+]
+],
+"clash": [
+"religious leaders",
+"saws"
+]
+},
+"biretta": {
+"also": [
+[
+"religious clothing",
+2
+]
+],
+"clash": []
+},
+"zucchetto": {
+"also": [
+[
+"religious clothing",
+2
+]
+],
+"clash": []
+},
+"garrison cap": {
+"also": [],
+"clash": [
+"army words"
+]
+},
+"peaked cap": {
+"also": [],
+"clash": [
+"army words"
+]
+},
+"watch cap": {
+"also": [],
+"clash": [
+"navy words"
+]
+},
+"pillbox": {
+"also": [],
+"clash": [
+"war words",
+"containers"
+]
+},
+"tam-o'-shanter": {
+"also": [],
+"clash": [
+"european folk costume",
+"poets"
+]
+},
+"captain's hat": {
+"also": [],
+"clash": [
+"ship crew",
+"navy words"
+]
+},
+"top hat": {
+"also": [
+[
+"magic show words",
+1
+],
+[
+"game pieces",
+2
+]
+],
+"clash": [
+"board games",
+"victorian era"
+]
+},
+"bowler": {
+"also": [
+[
+"cricket terms",
+1
+],
+[
+"bowling terms",
+2
+]
+],
+"clash": []
+},
+"boater": {
+"also": [],
+"clash": [
+"small boats"
+]
+},
+"cloche": {
+"also": [],
+"clash": [
+"garden features"
+]
+},
+"tricorne": {
+"also": [],
+"clash": [
+"pirate words",
+"colonial america"
+]
+},
+"bicorne": {
+"also": [],
+"clash": [
+"napoleonic battles"
+]
+},
+"bonnet": {
+"also": [
+[
+"car parts",
+2
+],
+[
+"british english words",
+2
+]
+],
+"clash": [
+"easter",
+"baby gear"
+]
+},
+"pith helmet": {
+"also": [
+[
+"safari words",
+2
+]
+],
+"clash": [
+"explorers"
+]
+},
+"shako": {
+"also": [],
+"clash": [
+"army words"
+]
+},
+"bearskin": {
+"also": [
+[
+"royal things",
+2
+]
+],
+"clash": [
+"bears",
+"animal coverings"
+]
+},
+"cocked hat": {
+"also": [],
+"clash": [
+"pirate words"
+]
+},
+"coif": {
+"also": [
+[
+"medieval clothing",
+2
+]
+],
+"clash": [
+"armor"
+]
+},
+"wimple": {
+"also": [
+[
+"religious clothing",
+1
+],
+[
+"medieval clothing",
+1
+]
+],
+"clash": []
+},
+"hennin": {
+"also": [
+[
+"medieval clothing",
+1
+]
+],
+"clash": []
+},
+"Phrygian cap": {
+"also": [
+[
+"french revolution",
+2
+]
+],
+"clash": [
+"ancient greece"
+]
+},
+"petasos": {
+"also": [
+[
+"ancient greece",
+3
+]
+],
+"clash": [
+"greek gods"
+]
+},
+"capotain": {
+"also": [],
+"clash": [
+"colonial america",
+"thanksgiving"
+]
+},
+"pilgrim hat": {
+"also": [],
+"clash": [
+"thanksgiving",
+"colonial america"
+]
+},
+"kepi": {
+"also": [],
+"clash": [
+"army words"
+]
+},
+"Pickelhaube": {
+"also": [],
+"clash": [
+"armor",
+"world war i battles"
+]
+},
+"morion": {
+"also": [
+[
+"armor",
+2
+]
+],
+"clash": [
+"conquistadors"
+]
+},
+"opera hat": {
+"also": [],
+"clash": [
+"opera words"
+]
+},
+"coonskin cap": {
+"also": [],
+"clash": [
+"american tall tales",
+"wild west"
+]
+},
+"chaperon": {
+"also": [
+[
+"medieval clothing",
+3
+]
+],
+"clash": []
+},
+"liberty cap": {
+"also": [
+[
+"french revolution",
+2
+]
+],
+"clash": [
+"mushrooms",
+"american revolution"
+]
+},
+"calash": {
+"also": [
+[
+"horse-drawn vehicles",
+3
+]
+],
+"clash": []
+},
+"pileus": {
+"also": [
+[
+"cloud types",
+3
+],
+[
+"roman life",
+3
+]
+],
+"clash": [
+"mushrooms"
+]
+},
+"Glengarry": {
+"also": [],
+"clash": [
+"european folk costume"
+]
+},
+"Tudor bonnet": {
+"also": [],
+"clash": [
+"royal houses",
+"english monarchs"
+]
+},
+"French hood": {
+"also": [
+[
+"medieval clothing",
+2
+]
+],
+"clash": []
+},
+"gable hood": {
+"also": [
+[
+"medieval clothing",
+3
+]
+],
+"clash": [
+"roof parts"
+]
+},
+"Brodie helmet": {
+"also": [],
+"clash": [
+"armor",
+"world war i battles"
+]
+},
+"handbag": {
+"also": [
+[
+"hand___",
+1
+]
+],
+"clash": []
+},
+"backpack": {
+"also": [
+[
+"hiking gear",
+1
+],
+[
+"camping gear",
+1
+],
+[
+"back___",
+1
+]
+],
+"clash": [
+"classroom items"
+]
+},
+"purse": {
+"also": [
+[
+"money words",
+2
+]
+],
+"clash": [
+"in a handbag"
+]
+},
+"clutch": {
+"also": [
+[
+"car parts",
+1
+],
+[
+"collective nouns",
+2
+]
+],
+"clash": []
+},
+"satchel": {
+"also": [],
+"clash": [
+"classroom items"
+]
+},
+"suitcase": {
+"also": [
+[
+"luggage",
+1
+],
+[
+"things with handles",
+1
+],
+[
+"things with wheels",
+2
+]
+],
+"clash": [
+"things to pack"
+]
+},
+"briefcase": {
+"also": [
+[
+"things with handles",
+1
+]
+],
+"clash": [
+"office",
+"spy words",
+"luggage"
+]
+},
+"duffel bag": {
+"also": [
+[
+"luggage",
+2
+]
+],
+"clash": [
+"wool fabrics"
+]
+},
+"messenger bag": {
+"also": [],
+"clash": [
+"mail words"
+]
+},
+"rucksack": {
+"also": [
+[
+"hiking gear",
+1
+],
+[
+"camping gear",
+1
+],
+[
+"words from german",
+2
+]
+],
+"clash": []
+},
+"holdall": {
+"also": [
+[
+"luggage",
+2
+]
+],
+"clash": []
+},
+"carpetbag": {
+"also": [],
+"clash": [
+"rugs and carpets"
+]
+},
+"fanny pack": {
+"also": [
+[
+"travel accessories",
+2
+]
+],
+"clash": []
+},
+"bum bag": {
+"also": [
+[
+"travel accessories",
+2
+],
+[
+"british english words",
+2
+]
+],
+"clash": []
+},
+"pouch": {
+"also": [
+[
+"animal body parts",
+2
+]
+],
+"clash": [
+"marsupials"
+]
+},
+"hobo bag": {
+"also": [],
+"clash": [
+"kinds of travelers"
+]
+},
+"bucket bag": {
+"also": [],
+"clash": [
+"containers"
+]
+},
+"saddlebag": {
+"also": [
+[
+"horse tack",
+1
+],
+[
+"bicycle parts",
+2
+]
+],
+"clash": []
+},
+"knapsack": {
+"also": [
+[
+"hiking gear",
+2
+]
+],
+"clash": [
+"words from german"
+]
+},
+"daypack": {
+"also": [
+[
+"hiking gear",
+1
+]
+],
+"clash": []
+},
+"gym bag": {
+"also": [],
+"clash": [
+"gym equipment"
+]
+},
+"beach bag": {
+"also": [
+[
+"beach gear",
+1
+]
+],
+"clash": []
+},
+"diaper bag": {
+"also": [
+[
+"baby gear",
+1
+]
+],
+"clash": []
+},
+"laptop bag": {
+"also": [],
+"clash": [
+"computers"
+]
+},
+"garment bag": {
+"also": [
+[
+"luggage",
+2
+]
+],
+"clash": [
+"wardrobe"
+]
+},
+"kitbag": {
+"also": [],
+"clash": [
+"army words"
+]
+},
+"duffle": {
+"also": [
+[
+"luggage",
+2
+]
+],
+"clash": [
+"wool fabrics",
+"coats and jackets"
+]
+},
+"sea bag": {
+"also": [
+[
+"sea___",
+2
+]
+],
+"clash": [
+"navy words"
+]
+},
+"dry bag": {
+"also": [
+[
+"camping gear",
+2
+]
+],
+"clash": [
+"water sports"
+]
+},
+"toiletry bag": {
+"also": [
+[
+"toiletries",
+1
+],
+[
+"things to pack",
+1
+],
+[
+"travel accessories",
+1
+]
+],
+"clash": []
+},
+"washbag": {
+"also": [
+[
+"toiletries",
+2
+],
+[
+"things to pack",
+2
+],
+[
+"travel accessories",
+2
+]
+],
+"clash": []
+},
+"sponge bag": {
+"also": [
+[
+"toiletries",
+2
+]
+],
+"clash": [
+"bath time"
+]
+},
+"makeup bag": {
+"also": [],
+"clash": [
+"makeup",
+"in a handbag"
+]
+},
+"drawstring bag": {
+"also": [],
+"clash": [
+"fastenings"
+]
+},
+"doctor's bag": {
+"also": [
+[
+"medical equipment",
+2
+]
+],
+"clash": [
+"doctor's office"
+]
+},
+"Gladstone bag": {
+"also": [],
+"clash": [
+"british politics"
+]
+},
+"portmanteau": {
+"also": [
+[
+"luggage",
+2
+]
+],
+"clash": [
+"portmanteau words"
+]
+},
+"valise": {
+"also": [
+[
+"luggage",
+2
+]
+],
+"clash": []
+},
+"carryall": {
+"also": [
+[
+"luggage",
+2
+]
+],
+"clash": []
+},
+"weekender": {
+"also": [
+[
+"luggage",
+2
+]
+],
+"clash": []
+},
+"overnight bag": {
+"also": [
+[
+"luggage",
+2
+]
+],
+"clash": []
+},
+"wristlet": {
+"also": [],
+"clash": [
+"jewelry"
+]
+},
+"baguette": {
+"also": [
+[
+"breads",
+1
+],
+[
+"french food",
+1
+]
+],
+"clash": [
+"gemstones"
+]
+},
+"envelope clutch": {
+"also": [],
+"clash": [
+"mail words"
+]
+},
+"pannier": {
+"also": [
+[
+"bicycle parts",
+1
+],
+[
+"cycling words",
+2
+]
+],
+"clash": []
+},
+"haversack": {
+"also": [
+[
+"hiking gear",
+2
+]
+],
+"clash": [
+"army words"
+]
+},
+"game bag": {
+"also": [
+[
+"hunting words",
+2
+]
+],
+"clash": []
+},
+"sporran": {
+"also": [
+[
+"european folk costume",
+1
+],
+[
+"scottish words",
+2
+]
+],
+"clash": []
+},
+"dilly bag": {
+"also": [
+[
+"aboriginal culture",
+2
+]
+],
+"clash": [
+"australian slang"
+]
+},
+"musette": {
+"also": [
+[
+"cycling words",
+3
+]
+],
+"clash": [
+"folk instruments"
+]
+},
+"shopping bag": {
+"also": [
+[
+"supermarket",
+1
+],
+[
+"shopping words",
+2
+]
+],
+"clash": []
+},
+"string bag": {
+"also": [],
+"clash": [
+"cords and strings"
+]
+},
+"tucker bag": {
+"also": [
+[
+"australian slang",
+3
+]
+],
+"clash": [
+"bush tucker"
+]
+},
+"coin purse": {
+"also": [
+[
+"in a handbag",
+2
+]
+],
+"clash": [
+"coins"
+]
+},
+"vanity case": {
+"also": [
+[
+"luggage",
+2
+]
+],
+"clash": [
+"makeup"
+]
+},
+"attaché case": {
+"also": [],
+"clash": [
+"diplomacy words",
+"spy words"
+]
+},
+"trunk": {
+"also": [
+[
+"tree parts",
+1
+],
+[
+"car parts",
+1
+],
+[
+"animal body parts",
+1
+],
+[
+"luggage",
+2
+],
+[
+"storage furniture",
+1
+],
+[
+"attic",
+2
+],
+[
+"things with lids",
+2
+]
+],
+"clash": [
+"torso",
+"swimwear",
+"treasure"
+]
+},
+"ring": {
+"also": [
+[
+"boxing terms",
+1
+],
+[
+"round things",
+1
+],
+[
+"weddings",
+1
+],
+[
+"phone words",
+2
+],
+[
+"gymnastics apparatus",
+2
+],
+[
+"magic items",
+2
+]
+],
+"clash": [
+"circus",
+"circle parts",
+"wrestling terms",
+"rhymes with ring"
+]
+},
+"earring": {
+"also": [
+[
+"things that come in pairs",
+1
+]
+],
+"clash": []
+},
+"pendant": {
+"also": [
+[
+"lights and lamps",
+2
+]
+],
+"clash": []
+},
+"tiara": {
+"also": [
+[
+"royal things",
+1
+]
+],
+"clash": [
+"weddings"
+]
+},
+"cufflink": {
+"also": [
+[
+"things that come in pairs",
+2
+],
+[
+"fastenings",
+2
+]
+],
+"clash": []
+},
+"tie clip": {
+"also": [],
+"clash": [
+"neckwear"
+]
+},
+"tie pin": {
+"also": [],
+"clash": [
+"neckwear"
+]
+},
+"chain": {
+"also": [
+[
+"bicycle parts",
+1
+],
+[
+"length units",
+3
+],
+[
+"old units",
+3
+]
+],
+"clash": [
+"cords and strings",
+"things that rust",
+"prison words"
+]
+},
+"stud": {
+"also": [
+[
+"horse racing terms",
+2
+],
+[
+"parts of a house",
+2
+]
+],
+"clash": [
+"fastenings",
+"male animals",
+"sports clothing",
+"building materials"
+]
+},
+"signet ring": {
+"also": [],
+"clash": [
+"heraldry",
+"royal things"
+]
+},
+"engagement ring": {
+"also": [
+[
+"weddings",
+1
+]
+],
+"clash": [
+"life events"
+]
+},
+"wedding ring": {
+"also": [
+[
+"weddings",
+1
+]
+],
+"clash": []
+},
+"cameo": {
+"also": [
+[
+"film words",
+2
+]
+],
+"clash": [
+"seashells"
+]
+},
+"diadem": {
+"also": [
+[
+"royal things",
+2
+]
+],
+"clash": []
+},
+"circlet": {
+"also": [
+[
+"royal things",
+2
+]
+],
+"clash": []
+},
+"torc": {
+"also": [
+[
+"celts",
+2
+]
+],
+"clash": []
+},
+"lavaliere": {
+"also": [],
+"clash": [
+"neckwear",
+"recording studio words"
+]
+},
+"cocktail ring": {
+"also": [],
+"clash": [
+"cocktails"
+]
+},
+"eternity ring": {
+"also": [
+[
+"weddings",
+2
+]
+],
+"clash": []
+},
+"mood ring": {
+"also": [],
+"clash": [
+"moods"
+]
+},
+"class ring": {
+"also": [
+[
+"graduation words",
+2
+]
+],
+"clash": [
+"school"
+]
+},
+"solitaire": {
+"also": [
+[
+"card games",
+1
+],
+[
+"board games",
+2
+]
+],
+"clash": []
+},
+"chandelier earring": {
+"also": [],
+"clash": [
+"lights and lamps"
+]
+},
+"medallion": {
+"also": [
+[
+"medals and honors",
+2
+]
+],
+"clash": [
+"coins"
+]
+},
+"amulet": {
+"also": [
+[
+"magic items",
+1
+],
+[
+"superstitions",
+2
+]
+],
+"clash": [
+"witchcraft",
+"egyptian afterlife"
+]
+},
+"charm": {
+"also": [
+[
+"superstitions",
+2
+],
+[
+"witchcraft",
+2
+],
+[
+"particle physics",
+3
+]
+],
+"clash": [
+"magic items",
+"positive traits"
+]
+},
+"tennis bracelet": {
+"also": [],
+"clash": [
+"tennis terms"
+]
+},
+"cuff bracelet": {
+"also": [],
+"clash": [
+"clothing parts"
+]
+},
+"crown": {
+"also": [
+[
+"royal things",
+1
+],
+[
+"dental words",
+1
+],
+[
+"tree parts",
+2
+],
+[
+"historic coins",
+2
+],
+[
+"hidden birds",
+1
+],
+[
+"heraldry",
+2
+]
+],
+"clash": [
+"teeth"
+]
+},
+"coronet": {
+"also": [
+[
+"royal things",
+2
+],
+[
+"heraldry",
+2
+]
+],
+"clash": []
+},
+"fibula": {
+"also": [
+[
+"bones",
+1
+]
+],
+"clash": [
+"roman life"
+]
+},
+"aigrette": {
+"also": [],
+"clash": [
+"wading birds"
+]
+},
+"stickpin": {
+"also": [],
+"clash": [
+"neckwear"
+]
+},
+"scarf": {
+"also": [
+[
+"knitwear",
+1
+],
+[
+"hidden vehicles",
+1
+],
+[
+"long things",
+2
+]
+],
+"clash": []
+},
+"glove": {
+"also": [
+[
+"things that come in pairs",
+1
+],
+[
+"baseball terms",
+2
+],
+[
+"things made of leather",
+1
+]
+],
+"clash": [
+"boxing terms",
+"car parts"
+]
+},
+"mitten": {
+"also": [
+[
+"things that come in pairs",
+1
+],
+[
+"knitwear",
+2
+]
+],
+"clash": [
+"cozy things"
+]
+},
+"shawl": {
+"also": [],
+"clash": [
+"knitwear",
+"clothing parts"
+]
+},
+"stole": {
+"also": [
+[
+"irregular past tenses",
+1
+],
+[
+"religious clothing",
+2
+]
+],
+"clash": []
+},
+"pashmina": {
+"also": [
+[
+"wool fabrics",
+2
+]
+],
+"clash": [
+"words from persian"
+]
+},
+"muffler": {
+"also": [
+[
+"car parts",
+1
+]
+],
+"clash": [
+"knitwear"
+]
+},
+"snood": {
+"also": [
+[
+"knitwear",
+2
+],
+[
+"hair accessories",
+2
+]
+],
+"clash": [
+"bird body parts"
+]
+},
+"bandana": {
+"also": [
+[
+"western wear",
+1
+],
+[
+"words from hindi",
+1
+]
+],
+"clash": []
+},
+"wrap": {
+"also": [
+[
+"sandwiches",
+1
+],
+[
+"necklines",
+3
+],
+[
+"scarves and gloves",
+2
+]
+],
+"clash": [
+"film words",
+"dresses and skirts"
+]
+},
+"feather boa": {
+"also": [],
+"clash": [
+"constrictor snakes",
+"snakes"
+]
+},
+"tippet": {
+"also": [
+[
+"religious clothing",
+3
+]
+],
+"clash": []
+},
+"headscarf": {
+"also": [
+[
+"religious clothing",
+2
+],
+[
+"head___",
+2
+]
+],
+"clash": []
+},
+"hijab": {
+"also": [
+[
+"religious clothing",
+1
+],
+[
+"islam words",
+2
+],
+[
+"middle eastern clothing",
+2
+]
+],
+"clash": []
+},
+"dupatta": {
+"also": [
+[
+"indian clothing",
+1
+]
+],
+"clash": []
+},
+"keffiyeh": {
+"also": [
+[
+"middle eastern clothing",
+1
+]
+],
+"clash": []
+},
+"shemagh": {
+"also": [
+[
+"middle eastern clothing",
+2
+]
+],
+"clash": []
+},
+"cowl": {
+"also": [
+[
+"religious clothing",
+2
+],
+[
+"necklines",
+3
+],
+[
+"scarves and gloves",
+3
+]
+],
+"clash": []
+},
+"gauntlet": {
+"also": [
+[
+"armor",
+1
+]
+],
+"clash": [
+"knights"
+]
+},
+"mitt": {
+"also": [
+[
+"baseball terms",
+2
+]
+],
+"clash": []
+},
+"driving glove": {
+"also": [],
+"clash": [
+"driving words"
+]
+},
+"opera glove": {
+"also": [],
+"clash": [
+"opera words"
+]
+},
+"gardening glove": {
+"also": [
+[
+"garden tools",
+2
+]
+],
+"clash": []
+},
+"rubber glove": {
+"also": [
+[
+"things made of rubber",
+1
+],
+[
+"cleaning items",
+1
+],
+[
+"washing up",
+1
+]
+],
+"clash": []
+},
+"boxing glove": {
+"also": [
+[
+"boxing terms",
+1
+],
+[
+"sports equipment",
+1
+]
+],
+"clash": []
+},
+"oven mitt": {
+"also": [
+[
+"kitchen utensils",
+1
+],
+[
+"kitchen",
+1
+]
+],
+"clash": []
+},
+"golf glove": {
+"also": [
+[
+"golf terms",
+2
+],
+[
+"sports equipment",
+2
+]
+],
+"clash": []
+},
+"batting glove": {
+"also": [
+[
+"baseball terms",
+2
+],
+[
+"cricket terms",
+2
+],
+[
+"sports equipment",
+2
+]
+],
+"clash": []
+},
+"neck warmer": {
+"also": [],
+"clash": [
+"knitwear"
+]
+},
+"mantilla": {
+"also": [
+[
+"religious clothing",
+2
+],
+[
+"european folk costume",
+2
+]
+],
+"clash": []
+},
+"rebozo": {
+"also": [],
+"clash": [
+"south american clothing"
+]
+},
+"kerchief": {
+"also": [],
+"clash": [
+"neckwear"
+]
+},
+"work glove": {
+"also": [
+[
+"work clothes",
+2
+]
+],
+"clash": []
+},
+"ski glove": {
+"also": [
+[
+"ski trip",
+1
+],
+[
+"skiing words",
+2
+]
+],
+"clash": []
+},
+"leather glove": {
+"also": [
+[
+"things made of leather",
+1
+]
+],
+"clash": []
+},
+"kid glove": {
+"also": [],
+"clash": [
+"baby animals"
+]
+},
+"sleeve warmer": {
+"also": [],
+"clash": [
+"clothing parts"
+]
+},
+"glasses": {
+"also": [],
+"clash": [
+"things that come in pairs",
+"table setting",
+"things made of glass"
+]
+},
+"sunglasses": {
+"also": [
+[
+"things that reflect",
+1
+],
+[
+"beach gear",
+1
+],
+[
+"sun___",
+1
+],
+[
+"things to pack",
+2
+]
+],
+"clash": []
+},
+"goggles": {
+"also": [
+[
+"swimming words",
+2
+],
+[
+"skiing words",
+2
+]
+],
+"clash": [
+"science lab"
+]
+},
+"contact lens": {
+"also": [],
+"clash": [
+"camera parts"
+]
+},
+"pince-nez": {
+"also": [
+[
+"words from french",
+2
+]
+],
+"clash": []
+},
+"aviators": {
+"also": [],
+"clash": [
+"flight crew"
+]
+},
+"shades": {
+"also": [
+[
+"color terms",
+2
+],
+[
+"window coverings",
+2
+]
+],
+"clash": [
+"words for dark",
+"ghosts and spirits"
+]
+},
+"safety glasses": {
+"also": [
+[
+"science lab",
+2
+],
+[
+"construction site",
+2
+],
+[
+"work clothes",
+2
+]
+],
+"clash": []
+},
+"swim goggles": {
+"also": [
+[
+"swimming words",
+1
+],
+[
+"swimming pool",
+2
+],
+[
+"beach gear",
+2
+]
+],
+"clash": []
+},
+"ski goggles": {
+"also": [
+[
+"skiing words",
+1
+],
+[
+"ski trip",
+1
+]
+],
+"clash": []
+},
+"half-moon glasses": {
+"also": [],
+"clash": [
+"moon phases"
+]
+},
+"sunnies": {
+"also": [
+[
+"australian slang",
+2
+]
+],
+"clash": [
+"sun___"
+]
+},
+"welding goggles": {
+"also": [
+[
+"work clothes",
+2
+]
+],
+"clash": []
+},
+"night vision goggles": {
+"also": [
+[
+"spy words",
+2
+]
+],
+"clash": [
+"army words"
+]
+},
+"3D glasses": {
+"also": [
+[
+"movie theater",
+1
+],
+[
+"movie theater words",
+1
+]
+],
+"clash": []
+},
+"hairpin": {
+"also": [],
+"clash": [
+"road types",
+"motor racing"
+]
+},
+"headband": {
+"also": [
+[
+"sports clothing",
+2
+],
+[
+"head___",
+1
+]
+],
+"clash": []
+},
+"comb": {
+"also": [
+[
+"things with teeth",
+1
+],
+[
+"bird body parts",
+2
+],
+[
+"hair care",
+1
+],
+[
+"toiletries",
+2
+]
+],
+"clash": []
+},
+"ribbon": {
+"also": [
+[
+"cords and strings",
+1
+],
+[
+"gymnastics apparatus",
+2
+]
+],
+"clash": [
+"party supplies",
+"medals and honors"
+]
+},
+"hair slide": {
+"also": [],
+"clash": [
+"playground"
+]
+},
+"Alice band": {
+"also": [
+[
+"british english words",
+2
+]
+],
+"clash": [
+"girls' names"
+]
+},
+"claw clip": {
+"also": [],
+"clash": [
+"animal body parts"
+]
+},
+"butterfly clip": {
+"also": [],
+"clash": [
+"butterflies and moths"
+]
+},
+"Kirby grip": {
+"also": [
+[
+"british english words",
+2
+]
+],
+"clash": []
+},
+"hair elastic": {
+"also": [
+[
+"stretchy things",
+2
+]
+],
+"clash": []
+},
+"bandeau": {
+"also": [
+[
+"swimwear",
+2
+]
+],
+"clash": []
+},
+"hair band": {
+"also": [],
+"clash": [
+"rock styles"
+]
+},
+"alligator clip": {
+"also": [
+[
+"electronic parts",
+2
+],
+[
+"electronics workbench",
+2
+]
+],
+"clash": [
+"crocodilians"
+]
+},
+"kanzashi": {
+"also": [],
+"clash": [
+"japanese clothing"
+]
+},
+"hairgrip": {
+"also": [
+[
+"british english words",
+2
+]
+],
+"clash": []
+},
+"flower crown": {
+"also": [
+[
+"midsummer",
+2
+]
+],
+"clash": [
+"weddings"
+]
+},
+"hair comb": {
+"also": [
+[
+"things with teeth",
+1
+]
+],
+"clash": []
+},
+"hair jewelry": {
+"also": [],
+"clash": [
+"jewelry"
+]
+},
+"tie": {
+"also": [
+[
+"scoring words",
+1
+],
+[
+"railway words",
+2
+]
+],
+"clash": [
+"knots",
+"music terms"
+]
+},
+"bow tie": {
+"also": [
+[
+"pasta shapes",
+2
+]
+],
+"clash": []
+},
+"cravat": {
+"also": [],
+"clash": [
+"words named after places"
+]
+},
+"choker": {
+"also": [
+[
+"jewelry",
+1
+]
+],
+"clash": []
+},
+"neckerchief": {
+"also": [],
+"clash": [
+"scarves and gloves"
+]
+},
+"bolo tie": {
+"also": [
+[
+"western wear",
+1
+],
+[
+"cowboy words",
+2
+]
+],
+"clash": []
+},
+"stock": {
+"also": [
+[
+"soups",
+2
+],
+[
+"stock market words",
+1
+],
+[
+"garden flowers",
+2
+]
+],
+"clash": [
+"farm animals"
+]
+},
+"ruff": {
+"also": [
+[
+"wading birds",
+3
+],
+[
+"medieval clothing",
+2
+],
+[
+"card game words",
+3
+]
+],
+"clash": [
+"animal sounds",
+"renaissance"
+]
+},
+"collar": {
+"also": [
+[
+"pet supplies",
+1
+],
+[
+"clothing parts",
+1
+],
+[
+"neckwear",
+2
+]
+],
+"clash": [
+"police words"
+]
+},
+"clerical collar": {
+"also": [
+[
+"religious clothing",
+1
+]
+],
+"clash": []
+},
+"Geneva bands": {
+"also": [],
+"clash": [
+"european cities"
+]
+},
+"string tie": {
+"also": [
+[
+"western wear",
+2
+]
+],
+"clash": []
+},
+"kipper tie": {
+"also": [],
+"clash": [
+"fish to eat"
+]
+},
+"lei": {
+"also": [
+[
+"pacific island clothing",
+1
+],
+[
+"hawaiian words",
+1
+]
+],
+"clash": []
+},
+"gorget": {
+"also": [
+[
+"armor",
+2
+]
+],
+"clash": []
+},
+"rabat": {
+"also": [
+[
+"capital cities",
+1
+],
+[
+"african capitals",
+1
+]
+],
+"clash": []
+},
+"crochet": {
+"also": [
+[
+"crafts",
+1
+]
+],
+"clash": [
+"knitting words"
+]
+},
+"quilt": {
+"also": [
+[
+"bedding",
+1
+],
+[
+"soft furnishings",
+1
+],
+[
+"crafts",
+1
+],
+[
+"cozy things",
+2
+]
+],
+"clash": []
+},
+"patchwork": {
+"also": [
+[
+"crafts",
+1
+]
+],
+"clash": [
+"fabric prints"
+]
+},
+"quilting": {
+"also": [
+[
+"crafts",
+1
+]
+],
+"clash": []
+},
+"appliqué": {
+"also": [
+[
+"crafts",
+2
+],
+[
+"words from french",
+3
+]
+],
+"clash": []
+},
+"weaving": {
+"also": [
+[
+"crafts",
+1
+]
+],
+"clash": []
+},
+"warp": {
+"also": [],
+"clash": [
+"spaceflight words"
+]
+},
+"shuttle": {
+"also": [
+[
+"space vehicles",
+1
+],
+[
+"spaceflight words",
+1
+],
+[
+"bus types",
+2
+]
+],
+"clash": [
+"racket sports",
+"airport words"
+]
+},
+"spindle": {
+"also": [
+[
+"things that spin",
+1
+],
+[
+"staircase parts",
+2
+]
+],
+"clash": [
+"fairy tales"
+]
+},
+"spinning wheel": {
+"also": [
+[
+"things that spin",
+1
+],
+[
+"retro household items",
+2
+]
+],
+"clash": [
+"fairy tales",
+"industrial revolution"
+]
+},
+"macramé": {
+"also": [
+[
+"crafts",
+1
+]
+],
+"clash": [
+"knots"
+]
+},
+"tatting": {
+"also": [
+[
+"crafts",
+2
+]
+],
+"clash": []
+},
+"bobbin lace": {
+"also": [
+[
+"crafts",
+2
+]
+],
+"clash": []
+},
+"tailor": {
+"also": [
+[
+"jobs",
+1
+],
+[
+"trades",
+1
+],
+[
+"surnames that are jobs",
+1
+]
+],
+"clash": []
+},
+"seamstress": {
+"also": [
+[
+"jobs",
+1
+],
+[
+"trades",
+2
+]
+],
+"clash": []
+},
+"dressmaker": {
+"also": [
+[
+"jobs",
+1
+],
+[
+"trades",
+2
+]
+],
+"clash": []
+},
+"haberdashery": {
+"also": [
+[
+"shops",
+2
+],
+[
+"british english words",
+2
+]
+],
+"clash": []
+},
+"haberdasher": {
+"also": [
+[
+"jobs",
+2
+]
+],
+"clash": [
+"shops"
+]
+},
+"milliner": {
+"also": [
+[
+"jobs",
+2
+],
+[
+"trades",
+2
+]
+],
+"clash": [
+"hats"
+]
+},
+"upholstery": {
+"also": [],
+"clash": [
+"furniture"
+]
+},
+"felting": {
+"also": [
+[
+"crafts",
+2
+]
+],
+"clash": []
+},
+"dyeing": {
+"also": [
+[
+"crafts",
+2
+]
+],
+"clash": [
+"easter"
+]
+},
+"granny square": {
+"also": [],
+"clash": [
+"family members"
+]
+},
+"needlepoint": {
+"also": [
+[
+"crafts",
+1
+]
+],
+"clash": [
+"embroidery stitches"
+]
+},
+"needlework": {
+"also": [
+[
+"crafts",
+1
+]
+],
+"clash": []
+},
+"needlecraft": {
+"also": [
+[
+"crafts",
+1
+]
+],
+"clash": []
+},
+"tapestry": {
+"also": [
+[
+"crafts",
+2
+],
+[
+"home decor",
+2
+]
+],
+"clash": []
+},
+"rug hooking": {
+"also": [
+[
+"crafts",
+2
+]
+],
+"clash": [
+"rugs and carpets"
+]
+},
+"batting": {
+"also": [
+[
+"baseball terms",
+1
+],
+[
+"cricket terms",
+1
+]
+],
+"clash": []
+},
+"loom knitting": {
+"also": [
+[
+"knitting words",
+2
+]
+],
+"clash": []
+},
+"textile": {
+"also": [],
+"clash": [
+"materials"
+]
+},
+"fiber": {
+"also": [
+[
+"nutrients",
+1
+]
+],
+"clash": [
+"fiber plants",
+"networking"
+]
+},
+"silk": {
+"also": [
+[
+"materials from asia",
+1
+],
+[
+"natural materials",
+1
+],
+[
+"smooth things",
+1
+],
+[
+"soft materials",
+1
+],
+[
+"wedding anniversaries",
+3
+],
+[
+"fabrics",
+1
+]
+],
+"clash": [
+"silk road"
+]
+},
+"satin": {
+"also": [
+[
+"smooth things",
+1
+],
+[
+"soft materials",
+2
+]
+],
+"clash": []
+},
+"velvet": {
+"also": [
+[
+"soft things",
+1
+],
+[
+"soft materials",
+1
+]
+],
+"clash": [
+"cakes"
+]
+},
+"linen": {
+"also": [
+[
+"bedding",
+1
+],
+[
+"natural materials",
+2
+],
+[
+"wedding anniversaries",
+3
+],
+[
+"fabrics",
+1
+]
+],
+"clash": [
+"fiber plants",
+"laundry words",
+"table setting"
+]
+},
+"polyester": {
+"also": [
+[
+"man-made materials",
+1
+],
+[
+"plastics",
+2
+]
+],
+"clash": []
+},
+"nylon": {
+"also": [
+[
+"man-made materials",
+1
+],
+[
+"plastics",
+2
+]
+],
+"clash": []
+},
+"lace": {
+"also": [
+[
+"cords and strings",
+1
+],
+[
+"wedding anniversaries",
+3
+],
+[
+"fabrics",
+1
+]
+],
+"clash": [
+"fastenings"
+]
+},
+"chiffon": {
+"also": [],
+"clash": [
+"cakes"
+]
+},
+"rayon": {
+"also": [
+[
+"man-made materials",
+2
+]
+],
+"clash": []
+},
+"spandex": {
+"also": [
+[
+"stretchy things",
+1
+],
+[
+"man-made materials",
+1
+]
+],
+"clash": []
+},
+"Lycra": {
+"also": [
+[
+"stretchy things",
+1
+],
+[
+"man-made materials",
+2
+],
+[
+"brand names used as words",
+2
+]
+],
+"clash": []
+},
+"fleece": {
+"also": [
+[
+"soft things",
+1
+],
+[
+"soft materials",
+1
+],
+[
+"coats and jackets",
+1
+],
+[
+"animal coverings",
+1
+]
+],
+"clash": [
+"greek heroes"
+]
+},
+"tulle": {
+"also": [],
+"clash": [
+"weddings",
+"dance studio words"
+]
+},
+"damask": {
+"also": [],
+"clash": [
+"shades of pink"
+]
+},
+"jacquard": {
+"also": [],
+"clash": [
+"fabric prints",
+"inventors",
+"industrial revolution"
+]
+},
+"crepe": {
+"also": [
+[
+"french food",
+1
+],
+[
+"breakfast foods",
+2
+]
+],
+"clash": [
+"desserts and sweets",
+"paper goods"
+]
+},
+"georgette": {
+"also": [],
+"clash": [
+"girls' names"
+]
+},
+"velour": {
+"also": [
+[
+"soft things",
+2
+]
+],
+"clash": []
+},
+"jersey": {
+"also": [
+[
+"sports clothing",
+1
+],
+[
+"cattle breeds",
+1
+],
+[
+"famous islands",
+2
+],
+[
+"tops",
+2
+]
+],
+"clash": [
+"us states",
+"places after new"
+]
+},
+"burlap": {
+"also": [
+[
+"natural materials",
+2
+]
+],
+"clash": []
+},
+"hessian": {
+"also": [
+[
+"natural materials",
+2
+]
+],
+"clash": [
+"boots",
+"soldiers of history"
+]
+},
+"jute": {
+"also": [
+[
+"fiber plants",
+1
+],
+[
+"natural materials",
+1
+],
+[
+"materials from asia",
+2
+]
+],
+"clash": []
+},
+"hemp": {
+"also": [
+[
+"fiber plants",
+1
+],
+[
+"natural materials",
+2
+]
+],
+"clash": [
+"illegal drugs"
+]
+},
+"ramie": {
+"also": [
+[
+"fiber plants",
+2
+]
+],
+"clash": []
+},
+"acrylic": {
+"also": [
+[
+"man-made materials",
+1
+],
+[
+"plastics",
+1
+],
+[
+"art materials",
+1
+],
+[
+"nail care",
+2
+]
+],
+"clash": []
+},
+"viscose": {
+"also": [
+[
+"man-made materials",
+2
+]
+],
+"clash": []
+},
+"modal": {
+"also": [
+[
+"grammar terms",
+2
+]
+],
+"clash": []
+},
+"lyocell": {
+"also": [
+[
+"man-made materials",
+3
+]
+],
+"clash": []
+},
+"microfiber": {
+"also": [
+[
+"man-made materials",
+2
+],
+[
+"cleaning items",
+2
+]
+],
+"clash": []
+},
+"neoprene": {
+"also": [
+[
+"man-made materials",
+2
+],
+[
+"scuba words",
+2
+]
+],
+"clash": [
+"surfing words"
+]
+},
+"vinyl": {
+"also": [
+[
+"plastics",
+1
+],
+[
+"man-made materials",
+1
+],
+[
+"retro tech",
+2
+]
+],
+"clash": [
+"music words"
+]
+},
+"faux fur": {
+"also": [
+[
+"man-made materials",
+2
+],
+[
+"soft things",
+2
+]
+],
+"clash": []
+},
+"foulard": {
+"also": [],
+"clash": [
+"scarves and gloves"
+]
+},
+"tricot": {
+"also": [],
+"clash": [
+"knitting words"
+]
+},
+"sharkskin": {
+"also": [],
+"clash": [
+"sharks",
+"animal coverings"
+]
+},
+"leatherette": {
+"also": [
+[
+"man-made materials",
+1
+]
+],
+"clash": [
+"things made of leather"
+]
+},
+"pleather": {
+"also": [
+[
+"man-made materials",
+1
+],
+[
+"portmanteau words",
+2
+]
+],
+"clash": [
+"things made of leather"
+]
+},
+"Gore-Tex": {
+"also": [
+[
+"man-made materials",
+2
+]
+],
+"clash": [
+"hiking gear"
+]
+},
+"denim": {
+"also": [
+[
+"words named after places",
+1
+]
+],
+"clash": [
+"blue things"
+]
+},
+"calico": {
+"also": [
+[
+"words named after places",
+2
+]
+],
+"clash": [
+"cat breeds"
+]
+},
+"muslin": {
+"also": [
+[
+"words named after places",
+2
+]
+],
+"clash": [
+"newborn care"
+]
+},
+"gingham": {
+"also": [
+[
+"fabric prints",
+1
+]
+],
+"clash": []
+},
+"chambray": {
+"also": [
+[
+"words named after places",
+3
+]
+],
+"clash": []
+},
+"seersucker": {
+"also": [],
+"clash": [
+"words from persian"
+]
+},
+"canvas": {
+"also": [
+[
+"art materials",
+1
+],
+[
+"painting words",
+1
+]
+],
+"clash": [
+"camping gear"
+]
+},
+"chintz": {
+"also": [
+[
+"words from hindi",
+2
+]
+],
+"clash": []
+},
+"percale": {
+"also": [],
+"clash": [
+"bedding"
+]
+},
+"drill": {
+"also": [
+[
+"power tools",
+1
+],
+[
+"army words",
+2
+]
+],
+"clash": [
+"dentist's office"
+]
+},
+"duck": {
+"also": [
+[
+"ducks",
+1
+],
+[
+"farm animals",
+1
+],
+[
+"things that float",
+1
+],
+[
+"cricket terms",
+2
+],
+[
+"body actions",
+2
+],
+[
+"terms of endearment",
+3
+]
+],
+"clash": []
+},
+"gauze": {
+"also": [
+[
+"first aid",
+1
+],
+[
+"medical equipment",
+2
+]
+],
+"clash": []
+},
+"cheesecloth": {
+"also": [
+[
+"cheesemaking words",
+1
+]
+],
+"clash": [
+"kitchen utensils"
+]
+},
+"lawn": {
+"also": [
+[
+"garden",
+1
+],
+[
+"garden features",
+1
+]
+],
+"clash": [
+"grasses and reeds"
+]
+},
+"madras": {
+"also": [
+[
+"old city names",
+1
+],
+[
+"indian cities",
+2
+]
+],
+"clash": [
+"fabric prints",
+"indian food"
+]
+},
+"oxford cloth": {
+"also": [],
+"clash": [
+"british cities"
+]
+},
+"chino": {
+"also": [
+[
+"pants and shorts",
+1
+]
+],
+"clash": []
+},
+"khaki": {
+"also": [
+[
+"shades of brown",
+2
+],
+[
+"pants and shorts",
+2
+]
+],
+"clash": [
+"shades of green",
+"army words",
+"words from hindi"
+]
+},
+"dungaree": {
+"also": [
+[
+"pants and shorts",
+2
+],
+[
+"work clothes",
+2
+],
+[
+"words from hindi",
+2
+]
+],
+"clash": []
+},
+"moleskin": {
+"also": [],
+"clash": [
+"stationery",
+"first aid"
+]
+},
+"toweling": {
+"also": [],
+"clash": [
+"bath time"
+]
+},
+"sailcloth": {
+"also": [],
+"clash": [
+"sailing words"
+]
+},
+"ticking": {
+"also": [],
+"clash": [
+"things that tick"
+]
+},
+"waffle weave": {
+"also": [],
+"clash": [
+"breakfast foods"
+]
+},
+"Aida": {
+"also": [
+[
+"famous operas",
+1
+]
+],
+"clash": [
+"girls' names"
+]
+},
+"sheeting": {
+"also": [],
+"clash": [
+"bedding"
+]
+},
+"swansdown": {
+"also": [],
+"clash": [
+"geese and swans"
+]
+},
+"bull denim": {
+"also": [],
+"clash": [
+"male animals"
+]
+},
+"tweed": {
+"also": [],
+"clash": [
+"european rivers"
+]
+},
+"flannel": {
+"also": [
+[
+"toiletries for washing",
+2
+],
+[
+"bath time",
+2
+],
+[
+"british english words",
+2
+]
+],
+"clash": []
+},
+"cashmere": {
+"also": [
+[
+"natural materials",
+2
+],
+[
+"soft things",
+2
+],
+[
+"soft materials",
+2
+],
+[
+"words named after places",
+1
+]
+],
+"clash": []
+},
+"merino": {
+"also": [
+[
+"sheep breeds",
+1
+],
+[
+"materials from oceania",
+1
+]
+],
+"clash": []
+},
+"mohair": {
+"also": [
+[
+"natural materials",
+3
+]
+],
+"clash": []
+},
+"felt": {
+"also": [
+[
+"irregular past tenses",
+1
+]
+],
+"clash": [
+"crafts",
+"art materials"
+]
+},
+"gabardine": {
+"also": [],
+"clash": [
+"coats and jackets"
+]
+},
+"serge": {
+"also": [],
+"clash": [
+"boys' names"
+]
+},
+"loden": {
+"also": [
+[
+"shades of green",
+3
+]
+],
+"clash": []
+},
+"alpaca": {
+"also": [
+[
+"andean animals",
+1
+],
+[
+"south american animals",
+1
+],
+[
+"materials from south america",
+1
+]
+],
+"clash": []
+},
+"angora": {
+"also": [
+[
+"cat breeds",
+2
+],
+[
+"old city names",
+2
+]
+],
+"clash": [
+"small pets"
+]
+},
+"vicuña": {
+"also": [
+[
+"andean animals",
+2
+],
+[
+"south american animals",
+2
+],
+[
+"materials from south america",
+2
+]
+],
+"clash": []
+},
+"camel hair": {
+"also": [],
+"clash": [
+"desert animals"
+]
+},
+"cheviot": {
+"also": [
+[
+"sheep breeds",
+2
+]
+],
+"clash": []
+},
+"Shetland": {
+"also": [
+[
+"sheep breeds",
+2
+]
+],
+"clash": [
+"pony breeds",
+"famous islands"
+]
+},
+"lambswool": {
+"also": [],
+"clash": [
+"baby animals"
+]
+},
+"baize": {
+"also": [
+[
+"cue sports terms",
+2
+]
+],
+"clash": [
+"card game words"
+]
+},
+"duffel": {
+"also": [],
+"clash": [
+"luggage",
+"coats and jackets"
+]
+},
+"frieze": {
+"also": [
+[
+"architectural features",
+2
+]
+],
+"clash": []
+},
+"whipcord": {
+"also": [],
+"clash": [
+"cords and strings"
+]
+},
+"covert cloth": {
+"also": [],
+"clash": [
+"spy words"
+]
+},
+"qiviut": {
+"also": [],
+"clash": [
+"arctic animals"
+]
+},
+"guanaco": {
+"also": [
+[
+"andean animals",
+2
+],
+[
+"south american animals",
+2
+]
+],
+"clash": []
+},
+"Saxony": {
+"also": [
+[
+"german states",
+2
+]
+],
+"clash": []
+},
+"doeskin": {
+"also": [],
+"clash": [
+"deer"
+]
+},
+"sew": {
+"also": [
+[
+"homophones",
+1
+]
+],
+"clash": []
+},
+"stitch": {
+"also": [
+[
+"first aid",
+2
+]
+],
+"clash": [
+"injuries",
+"symptoms"
+]
+},
+"seam": {
+"also": [
+[
+"mining words",
+2
+],
+[
+"cricket terms",
+2
+]
+],
+"clash": []
+},
+"dart": {
+"also": [
+[
+"darts terms",
+1
+],
+[
+"british pub games",
+1
+]
+],
+"clash": [
+"things that fly"
+]
+},
+"tuck": {
+"also": [
+[
+"diving terms",
+2
+],
+[
+"gymnastics moves",
+2
+]
+],
+"clash": []
+},
+"baste": {
+"also": [
+[
+"cooking methods",
+1
+]
+],
+"clash": [
+"thanksgiving"
+]
+},
+"tack": {
+"also": [
+[
+"horse tack",
+2
+],
+[
+"sailing words",
+1
+],
+[
+"fixings",
+2
+]
+],
+"clash": [
+"stationery"
+]
+},
+"bias": {
+"also": [
+[
+"statistics words",
+2
+]
+],
+"clash": []
+},
+"grain": {
+"also": [
+[
+"grains",
+1
+],
+[
+"weight units",
+3
+]
+],
+"clash": [
+"types of wood",
+"photography words",
+"texture words"
+]
+},
+"pattern": {
+"also": [
+[
+"patterns",
+1
+]
+],
+"clash": [
+"knitting words"
+]
+},
+"zigzag": {
+"also": [
+[
+"line types",
+1
+]
+],
+"clash": [
+"zigzag words"
+]
+},
+"lining": {
+"also": [],
+"clash": [
+"clothing parts"
+]
+},
+"piping": {
+"also": [
+[
+"baking words",
+2
+]
+],
+"clash": [
+"plumbing words"
+]
+},
+"binding": {
+"also": [
+[
+"parts of a book",
+2
+],
+[
+"skiing words",
+2
+]
+],
+"clash": []
+},
+"darn": {
+"also": [
+[
+"polite swears",
+1
+]
+],
+"clash": []
+},
+"patch": {
+"also": [
+[
+"software words",
+2
+]
+],
+"clash": [
+"first aid",
+"pirate words",
+"garden"
+]
+},
+"toile": {
+"also": [],
+"clash": [
+"fabric prints",
+"cotton fabrics"
+]
+},
+"fitting": {
+"also": [],
+"clash": [
+"plumbing words",
+"electrical fittings"
+]
+},
+"nap": {
+"also": [
+[
+"sleep words",
+1
+]
+],
+"clash": []
+},
+"overcast": {
+"also": [
+[
+"weather",
+1
+],
+[
+"forecast words",
+1
+]
+],
+"clash": [
+"cloud types"
+]
+},
+"hand-sewing": {
+"also": [],
+"clash": [
+"hand___"
+]
+},
+"couture": {
+"also": [
+[
+"words from french",
+2
+]
+],
+"clash": []
+},
+"bespoke": {
+"also": [],
+"clash": [
+"british english words"
+]
+},
+"gusset": {
+"also": [
+[
+"clothing parts",
+2
+]
+],
+"clash": []
+},
+"gore": {
+"also": [
+[
+"blood words",
+2
+]
+],
+"clash": []
+},
+"ruffle": {
+"also": [],
+"clash": [
+"clothing parts"
+]
+},
+"backtack": {
+"also": [],
+"clash": [
+"back___"
+]
+},
+"cross-stitch": {
+"also": [
+[
+"crafts",
+1
+]
+],
+"clash": []
+},
+"satin stitch": {
+"also": [],
+"clash": [
+"fabrics"
+]
+},
+"French knot": {
+"also": [],
+"clash": [
+"knots"
+]
+},
+"backstitch": {
+"also": [],
+"clash": [
+"back___"
+]
+},
+"running stitch": {
+"also": [],
+"clash": [
+"running words"
+]
+},
+"stem stitch": {
+"also": [],
+"clash": [
+"plant parts"
+]
+},
+"blanket stitch": {
+"also": [],
+"clash": [
+"bedding"
+]
+},
+"herringbone stitch": {
+"also": [],
+"clash": [
+"fabric prints"
+]
+},
+"lazy daisy": {
+"also": [],
+"clash": [
+"garden flowers"
+]
+},
+"seed stitch": {
+"also": [
+[
+"knitting words",
+2
+]
+],
+"clash": []
+},
+"bullion knot": {
+"also": [],
+"clash": [
+"knots"
+]
+},
+"cable stitch": {
+"also": [],
+"clash": [
+"knitting words"
+]
+},
+"cast-on stitch": {
+"also": [],
+"clash": [
+"knitting words"
+]
+},
+"brick stitch": {
+"also": [],
+"clash": [
+"building materials"
+]
+},
+"Turkey work": {
+"also": [],
+"clash": [
+"thanksgiving"
+]
+},
+"needle": {
+"also": [
+[
+"medical equipment",
+2
+],
+[
+"tree parts",
+2
+]
+],
+"clash": [
+"prickly things",
+"navigation tools",
+"knitting words",
+"things that sting"
+]
+},
+"thread": {
+"also": [
+[
+"cords and strings",
+2
+],
+[
+"social media words",
+2
+]
+],
+"clash": [
+"fixings"
+]
+},
+"thimble": {
+"also": [
+[
+"game pieces",
+2
+]
+],
+"clash": []
+},
+"pin": {
+"also": [
+[
+"bowling terms",
+1
+],
+[
+"golf terms",
+1
+],
+[
+"wrestling terms",
+2
+]
+],
+"clash": [
+"fixings",
+"jewelry",
+"acronyms",
+"banking words"
+]
+},
+"scissors": {
+"also": [
+[
+"things that cut",
+1
+],
+[
+"stationery",
+1
+],
+[
+"hair salon",
+1
+],
+[
+"classroom items",
+1
+]
+],
+"clash": [
+"things that come in pairs"
+]
+},
+"shears": {
+"also": [
+[
+"garden tools",
+1
+],
+[
+"things that cut",
+1
+],
+[
+"hair salon",
+2
+]
+],
+"clash": []
+},
+"tape measure": {
+"also": [
+[
+"measuring tools",
+1
+],
+[
+"measuring instruments",
+1
+],
+[
+"diy words",
+2
+]
+],
+"clash": []
+},
+"sewing machine": {
+"also": [
+[
+"things you plug in",
+1
+]
+],
+"clash": [
+"retro household items"
+]
+},
+"pinking shears": {
+"also": [
+[
+"things that cut",
+2
+]
+],
+"clash": []
+},
+"safety pin": {
+"also": [
+[
+"first aid",
+2
+]
+],
+"clash": [
+"newborn care"
+]
+},
+"bodkin": {
+"also": [],
+"clash": [
+"archery terms",
+"medieval weapons"
+]
+},
+"mannequin": {
+"also": [],
+"clash": [
+"shops"
+]
+},
+"rotary cutter": {
+"also": [
+[
+"things that cut",
+2
+]
+],
+"clash": []
+},
+"hem gauge": {
+"also": [
+[
+"measuring tools",
+2
+]
+],
+"clash": []
+},
+"seam gauge": {
+"also": [
+[
+"measuring tools",
+2
+]
+],
+"clash": []
+},
+"iron": {
+"also": [
+[
+"metals",
+1
+],
+[
+"chemical elements",
+1
+],
+[
+"golf terms",
+2
+],
+[
+"laundry words",
+1
+],
+[
+"small appliances",
+1
+],
+[
+"things you plug in",
+1
+],
+[
+"things that rust",
+1
+],
+[
+"dietary minerals",
+1
+],
+[
+"hot things",
+2
+],
+[
+"wedding anniversaries",
+3
+],
+[
+"sewing kit",
+1
+]
+],
+"clash": [
+"chores"
+]
+},
+"pressing ham": {
+"also": [],
+"clash": [
+"cured meats"
+]
+},
+"tailor's ham": {
+"also": [],
+"clash": [
+"cured meats"
+]
+},
+"beeswax": {
+"also": [
+[
+"candle words",
+2
+]
+],
+"clash": [
+"bees and wasps"
+]
+},
+"snips": {
+"also": [
+[
+"hand tools",
+2
+]
+],
+"clash": []
+},
+"thread snips": {
+"also": [
+[
+"hand tools",
+2
+]
+],
+"clash": []
+},
+"elastic": {
+"also": [
+[
+"stretchy things",
+1
+]
+],
+"clash": []
+},
+"tracing paper": {
+"also": [
+[
+"paper goods",
+2
+],
+[
+"art materials",
+2
+]
+],
+"clash": []
+},
+"French curve": {
+"also": [
+[
+"math tools",
+2
+],
+[
+"art materials",
+2
+]
+],
+"clash": []
+},
+"purl": {
+"also": [
+[
+"homophones",
+2
+]
+],
+"clash": []
+},
+"yarn": {
+"also": [
+[
+"cords and strings",
+1
+],
+[
+"australian slang",
+2
+]
+],
+"clash": []
+},
+"cast off": {
+"also": [
+[
+"sailing words",
+2
+]
+],
+"clash": []
+},
+"gauge": {
+"also": [
+[
+"measuring instruments",
+2
+],
+[
+"railway words",
+2
+]
+],
+"clash": [
+"jewelry"
+]
+},
+"rib": {
+"also": [
+[
+"bones",
+1
+],
+[
+"barbecue foods",
+2
+],
+[
+"cuts of meat",
+2
+]
+],
+"clash": [
+"torso"
+]
+},
+"garter stitch": {
+"also": [],
+"clash": [
+"underwear",
+"weddings"
+]
+},
+"stocking stitch": {
+"also": [],
+"clash": [
+"christmas"
+]
+},
+"cable": {
+"also": [
+[
+"cords and strings",
+1
+],
+[
+"electricity words",
+2
+],
+[
+"tv words",
+2
+]
+],
+"clash": [
+"cable cars and lifts"
+]
+},
+"skein": {
+"also": [
+[
+"collective nouns",
+2
+]
+],
+"clash": []
+},
+"hank": {
+"also": [
+[
+"boys' names",
+2
+],
+[
+"short forms of names",
+2
+]
+],
+"clash": []
+},
+"row": {
+"also": [
+[
+"rowing words",
+1
+],
+[
+"homographs",
+1
+]
+],
+"clash": []
+},
+"frogging": {
+"also": [],
+"clash": [
+"frogs and toads",
+"fastenings"
+]
+},
+"intarsia": {
+"also": [
+[
+"woodworking words",
+3
+]
+],
+"clash": []
+},
+"Fair Isle": {
+"also": [
+[
+"knitwear",
+2
+]
+],
+"clash": [
+"famous islands",
+"fabric prints"
+]
+},
+"Aran": {
+"also": [
+[
+"knitwear",
+2
+]
+],
+"clash": [
+"famous islands"
+]
+},
+"chunky": {
+"also": [],
+"clash": [
+"words for big"
+]
+},
+"brioche": {
+"also": [
+[
+"breads",
+1
+],
+[
+"french food",
+1
+],
+[
+"pastries",
+2
+]
+],
+"clash": []
+},
+"cable knit": {
+"also": [
+[
+"knitwear",
+2
+]
+],
+"clash": []
+},
+"wool": {
+"also": [
+[
+"natural materials",
+1
+],
+[
+"soft materials",
+1
+],
+[
+"animal coverings",
+1
+],
+[
+"soft things",
+2
+],
+[
+"cords and strings",
+2
+],
+[
+"wedding anniversaries",
+3
+],
+[
+"knitting words",
+1
+]
+],
+"clash": []
+},
+"polka dot": {
+"also": [
+[
+"patterns",
+1
+]
+],
+"clash": [
+"european folk dances"
+]
+},
+"stripe": {
+"also": [
+[
+"patterns",
+1
+]
+],
+"clash": [
+"line types",
+"military ranks"
+]
+},
+"plaid": {
+"also": [
+[
+"patterns",
+1
+]
+],
+"clash": []
+},
+"tartan": {
+"also": [
+[
+"patterns",
+1
+],
+[
+"scottish words",
+2
+]
+],
+"clash": [
+"european folk costume"
+]
+},
+"paisley": {
+"also": [
+[
+"patterns",
+1
+],
+[
+"words named after places",
+1
+]
+],
+"clash": []
+},
+"floral": {
+"also": [
+[
+"patterns",
+1
+]
+],
+"clash": []
+},
+"houndstooth": {
+"also": [
+[
+"patterns",
+1
+]
+],
+"clash": [
+"hounds"
+]
+},
+"herringbone": {
+"also": [
+[
+"patterns",
+1
+]
+],
+"clash": []
+},
+"argyle": {
+"also": [
+[
+"patterns",
+1
+]
+],
+"clash": [
+"knitwear"
+]
+},
+"chevron": {
+"also": [
+[
+"patterns",
+1
+],
+[
+"heraldry",
+2
+]
+],
+"clash": [
+"military ranks",
+"line types"
+]
+},
+"camouflage": {
+"also": [
+[
+"patterns",
+2
+],
+[
+"army words",
+2
+]
+],
+"clash": [
+"camouflaged animals"
+]
+},
+"camo": {
+"also": [
+[
+"patterns",
+2
+],
+[
+"army words",
+2
+]
+],
+"clash": [
+"camouflaged animals"
+]
+},
+"leopard print": {
+"also": [],
+"clash": [
+"big cats",
+"spotted animals"
+]
+},
+"zebra print": {
+"also": [],
+"clash": [
+"striped animals"
+]
+},
+"toile de Jouy": {
+"also": [
+[
+"patterns",
+2
+]
+],
+"clash": []
+},
+"pinstripe": {
+"also": [
+[
+"patterns",
+2
+]
+],
+"clash": []
+},
+"check": {
+"also": [
+[
+"chess terms",
+1
+],
+[
+"banking words",
+1
+],
+[
+"restaurant words",
+2
+],
+[
+"patterns",
+1
+],
+[
+"homophones",
+2
+]
+],
+"clash": []
+},
+"checkerboard": {
+"also": [
+[
+"patterns",
+1
+]
+],
+"clash": [
+"board games",
+"square things"
+]
+},
+"tie-dye": {
+"also": [
+[
+"patterns",
+2
+],
+[
+"crafts",
+2
+]
+],
+"clash": [
+"fashion styles"
+]
+},
+"batik": {
+"also": [
+[
+"patterns",
+2
+],
+[
+"asian art forms",
+1
+],
+[
+"crafts",
+2
+]
+],
+"clash": []
+},
+"ikat": {
+"also": [
+[
+"asian art forms",
+2
+]
+],
+"clash": []
+},
+"geometric": {
+"also": [
+[
+"patterns",
+1
+]
+],
+"clash": [
+"geometry"
+]
+},
+"ombré": {
+"also": [
+[
+"hairstyles",
+2
+],
+[
+"color terms",
+2
+]
+],
+"clash": []
+},
+"dogtooth": {
+"also": [
+[
+"patterns",
+2
+]
+],
+"clash": [
+"teeth"
+]
+},
+"Prince of Wales check": {
+"also": [],
+"clash": [
+"royal titles"
+]
+},
+"windowpane check": {
+"also": [],
+"clash": [
+"windows and doors"
+]
+},
+"buffalo check": {
+"also": [],
+"clash": [
+"wild cattle"
+]
+},
+"candy stripe": {
+"also": [],
+"clash": [
+"candy"
+]
+},
+"harlequin": {
+"also": [
+[
+"patterns",
+2
+]
+],
+"clash": [
+"circus",
+"stage genres"
+]
+},
+"shibori": {
+"also": [
+[
+"asian art forms",
+2
+],
+[
+"crafts",
+2
+]
+],
+"clash": []
+},
+"block print": {
+"also": [
+[
+"crafts",
+2
+]
+],
+"clash": []
+},
+"kalamkari": {
+"also": [
+[
+"asian art forms",
+3
+]
+],
+"clash": []
+},
+"bandhani": {
+"also": [
+[
+"asian art forms",
+3
+]
+],
+"clash": []
+},
+"kente": {
+"also": [
+[
+"african clothing",
+1
+],
+[
+"materials from africa",
+1
+]
+],
+"clash": []
+},
+"mudcloth": {
+"also": [
+[
+"materials from africa",
+1
+],
+[
+"african art words",
+2
+]
+],
+"clash": []
+},
+"Ankara": {
+"also": [
+[
+"capital cities",
+1
+],
+[
+"turkish cities",
+1
+],
+[
+"asian capitals",
+1
+]
+],
+"clash": [
+"african clothing"
+]
+},
+"Dutch wax": {
+"also": [
+[
+"african clothing",
+2
+]
+],
+"clash": []
+},
+"quatrefoil": {
+"also": [
+[
+"architectural features",
+2
+]
+],
+"clash": []
+},
+"ogee": {
+"also": [
+[
+"curves and spirals",
+2
+]
+],
+"clash": []
+},
+"snakeskin": {
+"also": [
+[
+"animal coverings",
+2
+]
+],
+"clash": [
+"snakes"
+]
+},
+"python print": {
+"also": [],
+"clash": [
+"constrictor snakes",
+"programming languages"
+]
+},
+"tiger stripe": {
+"also": [],
+"clash": [
+"big cats",
+"striped animals"
+]
+},
+"cow print": {
+"also": [],
+"clash": [
+"farm animals",
+"black and white animals"
+]
+},
+"giraffe print": {
+"also": [],
+"clash": [
+"spotted animals"
+]
+},
+"Hawaiian print": {
+"also": [
+[
+"pacific island clothing",
+2
+]
+],
+"clash": []
+},
+"cuff": {
+"also": [],
+"clash": [
+"police words",
+"prison words"
+]
+},
+"pocket": {
+"also": [
+[
+"cue sports terms",
+1
+]
+],
+"clash": [
+"words for small"
+]
+},
+"yoke": {
+"also": [
+[
+"homophones",
+2
+]
+],
+"clash": [
+"farm",
+"horse tack"
+]
+},
+"hood": {
+"also": [
+[
+"car parts",
+1
+]
+],
+"clash": [
+"robin hood legend",
+"coats and jackets"
+]
+},
+"train": {
+"also": [
+[
+"trains",
+1
+],
+[
+"weddings",
+2
+]
+],
+"clash": [
+"fitness words"
+]
+},
+"fly": {
+"also": [
+[
+"insects and bugs",
+1
+],
+[
+"fishing words",
+2
+],
+[
+"tent parts",
+2
+],
+[
+"motion verbs",
+1
+]
+],
+"clash": [
+"things that fly",
+"___fly"
+]
+},
+"epaulette": {
+"also": [],
+"clash": [
+"military ranks"
+]
+},
+"flap": {
+"also": [
+[
+"plane parts",
+2
+]
+],
+"clash": [
+"animal movements"
+]
+},
+"vent": {
+"also": [
+[
+"volcano words",
+2
+]
+],
+"clash": [
+"heating and cooling"
+]
+},
+"bib": {
+"also": [
+[
+"baby gear",
+1
+],
+[
+"newborn care",
+2
+]
+],
+"clash": []
+},
+"shoulder pad": {
+"also": [],
+"clash": [
+"american football terms"
+]
+},
+"raglan": {
+"also": [
+[
+"words named after people",
+1
+]
+],
+"clash": []
+},
+"cap sleeve": {
+"also": [],
+"clash": [
+"hats"
+]
+},
+"leg-of-mutton sleeve": {
+"also": [],
+"clash": [
+"cuts of meat"
+]
+},
+"bishop sleeve": {
+"also": [],
+"clash": [
+"chess terms"
+]
+},
+"storm flap": {
+"also": [],
+"clash": [
+"storms"
+]
+},
+"kangaroo pocket": {
+"also": [],
+"clash": [
+"marsupials"
+]
+},
+"back pocket": {
+"also": [],
+"clash": [
+"back___"
+]
+},
+"shawl collar": {
+"also": [],
+"clash": [
+"scarves and gloves"
+]
+},
+"mandarin collar": {
+"also": [],
+"clash": [
+"citrus fruits"
+]
+},
+"tab": {
+"also": [
+[
+"keyboard keys",
+1
+]
+],
+"clash": [
+"restaurant words"
+]
+},
+"trouser leg": {
+"also": [],
+"clash": [
+"arms and legs"
+]
+},
+"pant leg": {
+"also": [],
+"clash": [
+"arms and legs"
+]
+},
+"V-neck": {
+"also": [
+[
+"tops",
+2
+]
+],
+"clash": []
+},
+"crew": {
+"also": [
+[
+"rowing words",
+1
+]
+],
+"clash": [
+"ship crew",
+"flight crew"
+]
+},
+"scoop": {
+"also": [
+[
+"journalism words",
+1
+],
+[
+"kitchen utensils",
+2
+]
+],
+"clash": [
+"ice cream flavors"
+]
+},
+"boat": {
+"also": [
+[
+"boats and ships",
+1
+],
+[
+"things that float",
+1
+]
+],
+"clash": []
+},
+"sweetheart": {
+"also": [
+[
+"terms of endearment",
+1
+],
+[
+"valentine's day",
+2
+],
+[
+"necklines",
+2
+]
+],
+"clash": []
+},
+"halter": {
+"also": [
+[
+"horse tack",
+1
+]
+],
+"clash": []
+},
+"square": {
+"also": [
+[
+"2d shapes",
+1
+]
+],
+"clash": [
+"famous squares"
+]
+},
+"turtleneck": {
+"also": [
+[
+"tops",
+1
+],
+[
+"knitwear",
+1
+]
+],
+"clash": [
+"turtles and tortoises"
+]
+},
+"polo neck": {
+"also": [
+[
+"tops",
+1
+],
+[
+"knitwear",
+1
+]
+],
+"clash": [
+"horse and animal sports"
+]
+},
+"mock neck": {
+"also": [
+[
+"tops",
+2
+]
+],
+"clash": []
+},
+"funnel": {
+"also": [
+[
+"kitchen utensils",
+1
+],
+[
+"lab equipment",
+2
+],
+[
+"ship parts",
+2
+]
+],
+"clash": []
+},
+"keyhole": {
+"also": [
+[
+"parts of a door",
+1
+]
+],
+"clash": []
+},
+"Bardot": {
+"also": [],
+"clash": [
+"classic film stars"
+]
+},
+"illusion": {
+"also": [
+[
+"magic show words",
+1
+]
+],
+"clash": []
+},
+"Queen Anne": {
+"also": [
+[
+"english monarchs",
+1
+],
+[
+"famous queens",
+2
+],
+[
+"antique furniture",
+2
+]
+],
+"clash": []
+},
+"jewel": {
+"also": [],
+"clash": [
+"gemstones"
+]
+},
+"bateau": {
+"also": [],
+"clash": [
+"boats and ships"
+]
+},
+"Sabrina": {
+"also": [
+[
+"girls' names",
+1
+]
+],
+"clash": []
+},
+"Henley": {
+"also": [
+[
+"tops",
+2
+],
+[
+"rowing words",
+2
+]
+],
+"clash": []
+},
+"surplice": {
+"also": [
+[
+"religious clothing",
+1
+]
+],
+"clash": []
+},
+"button": {
+"also": [
+[
+"sewing kit",
+2
+]
+],
+"clash": [
+"things with buttons",
+"mushrooms"
+]
+},
+"zipper": {
+"also": [
+[
+"brand names used as words",
+1
+],
+[
+"things with teeth",
+1
+]
+],
+"clash": []
+},
+"zip": {
+"also": [
+[
+"things with teeth",
+2
+],
+[
+"british english words",
+2
+]
+],
+"clash": []
+},
+"Velcro": {
+"also": [
+[
+"brand names used as words",
+1
+],
+[
+"european inventions",
+2
+]
+],
+"clash": [
+"sticky things"
+]
+},
+"snap": {
+"also": [
+[
+"card games",
+1
+]
+],
+"clash": [
+"impact sounds",
+"photography words"
+]
+},
+"shoelace": {
+"also": [
+[
+"cords and strings",
+2
+]
+],
+"clash": []
+},
+"popper": {
+"also": [],
+"clash": [
+"party supplies",
+"illegal drugs"
+]
+},
+"frog": {
+"also": [
+[
+"frogs and toads",
+1
+],
+[
+"pond life",
+1
+],
+[
+"parts of a horse",
+3
+]
+],
+"clash": []
+},
+"rivet": {
+"also": [
+[
+"fixings",
+1
+]
+],
+"clash": []
+},
+"D-ring": {
+"also": [],
+"clash": [
+"climbing gear"
+]
+},
+"magnetic clasp": {
+"also": [],
+"clash": [
+"magnet words"
+]
+},
+"lobster clasp": {
+"also": [],
+"clash": [
+"shellfish",
+"crustaceans"
+]
+},
+"frog closure": {
+"also": [],
+"clash": [
+"frogs and toads"
+]
+},
+"loop": {
+"also": [
+[
+"coding words",
+1
+],
+[
+"curves and spirals",
+2
+]
+],
+"clash": []
+},
+"hook": {
+"also": [
+[
+"fishing tackle",
+1
+],
+[
+"boxing terms",
+1
+],
+[
+"golf shots",
+2
+],
+[
+"music words",
+2
+],
+[
+"pirate words",
+2
+]
+],
+"clash": []
+},
+"party": {
+"also": [
+[
+"election words",
+1
+]
+],
+"clash": [
+"government words"
+]
+},
+"festival": {
+"also": [],
+"clash": [
+"music festivals"
+]
+},
+"parade": {
+"also": [],
+"clash": [
+"army words"
+]
+},
+"feast": {
+"also": [],
+"clash": [
+"medieval food"
+]
+},
+"anniversary": {
+"also": [
+[
+"weddings",
+1
+]
+],
+"clash": []
+},
+"graduation": {
+"also": [
+[
+"graduation words",
+1
+],
+[
+"life events",
+1
+]
+],
+"clash": []
+},
+"baby shower": {
+"also": [
+[
+"pregnancy words",
+1
+],
+[
+"babies and birth",
+2
+]
+],
+"clash": []
+},
+"christening": {
+"also": [
+[
+"life events",
+1
+],
+[
+"religion words",
+2
+]
+],
+"clash": []
+},
+"baptism": {
+"also": [
+[
+"religion words",
+1
+],
+[
+"life events",
+2
+]
+],
+"clash": []
+},
+"bar mitzvah": {
+"also": [
+[
+"judaism words",
+1
+],
+[
+"life events",
+2
+]
+],
+"clash": []
+},
+"bat mitzvah": {
+"also": [
+[
+"judaism words",
+1
+],
+[
+"life events",
+2
+]
+],
+"clash": []
+},
+"retirement party": {
+"also": [],
+"clash": [
+"life events"
+]
+},
+"housewarming": {
+"also": [],
+"clash": [
+"real estate words"
+]
+},
+"jubilee": {
+"also": [
+[
+"royal things",
+1
+]
+],
+"clash": []
+},
+"gala": {
+"also": [
+[
+"apple varieties",
+1
+]
+],
+"clash": []
+},
+"fiesta": {
+"also": [
+[
+"words from spanish",
+1
+]
+],
+"clash": []
+},
+"bank holiday": {
+"also": [
+[
+"british english words",
+1
+]
+],
+"clash": [
+"banking words"
+]
+},
+"Juneteenth": {
+"also": [
+[
+"portmanteau words",
+2
+]
+],
+"clash": []
+},
+"Columbus Day": {
+"also": [],
+"clash": [
+"explorers"
+]
+},
+"Flag Day": {
+"also": [],
+"clash": [
+"flag words"
+]
+},
+"Groundhog Day": {
+"also": [],
+"clash": [
+"rodents"
+]
+},
+"Earth Day": {
+"also": [],
+"clash": [
+"environment"
+]
+},
+"Boxing Day": {
+"also": [],
+"clash": [
+"christmas",
+"boxing terms"
+]
+},
+"Remembrance Day": {
+"also": [],
+"clash": [
+"world war i battles"
+]
+},
+"Armistice Day": {
+"also": [],
+"clash": [
+"world war i battles"
+]
+},
+"Bonfire Night": {
+"also": [],
+"clash": [
+"fire words"
+]
+},
+"Guy Fawkes Night": {
+"also": [],
+"clash": [
+"famous people"
+]
+},
+"Bastille Day": {
+"also": [],
+"clash": [
+"french revolution"
+]
+},
+"May Day": {
+"also": [],
+"clash": [
+"codes and signals"
+]
+},
+"Fourth of July": {
+"also": [],
+"clash": [
+"american revolution"
+]
+},
+"Burns Night": {
+"also": [],
+"clash": [
+"poets"
+]
+},
+"Waitangi Day": {
+"also": [],
+"clash": [
+"maori culture"
+]
+},
+"Election Day": {
+"also": [
+[
+"election words",
+1
+]
+],
+"clash": []
+},
+"Leap Day": {
+"also": [],
+"clash": [
+"clocks and calendars"
+]
+},
+"Arbor Day": {
+"also": [],
+"clash": [
+"trees"
+]
+},
+"bash": {
+"also": [],
+"clash": [
+"impact sounds"
+]
+},
+"soirée": {
+"also": [
+[
+"words from french",
+1
+]
+],
+"clash": []
+},
+"Mother's Day": {
+"also": [],
+"clash": [
+"family members"
+]
+},
+"Father's Day": {
+"also": [],
+"clash": [
+"family members"
+]
+},
+"Martin Luther King Jr. Day": {
+"also": [],
+"clash": [
+"civil rights figures"
+]
+},
+"All Saints' Day": {
+"also": [
+[
+"religious festivals",
+1
+]
+],
+"clash": [
+"halloween"
+]
+},
+"All Souls' Day": {
+"also": [
+[
+"religious festivals",
+1
+],
+[
+"day of the dead",
+2
+]
+],
+"clash": []
+},
+"St. Andrew's Day": {
+"also": [],
+"clash": [
+"famous saints"
+]
+},
+"St. David's Day": {
+"also": [],
+"clash": [
+"famous saints"
+]
+},
+"St. George's Day": {
+"also": [],
+"clash": [
+"famous saints"
+]
+},
+"Mothering Sunday": {
+"also": [],
+"clash": [
+"easter"
+]
+},
+"Christmas tree": {
+"also": [
+[
+"evergreen trees",
+2
+]
+],
+"clash": []
+},
+"ornament": {
+"also": [
+[
+"home decor",
+1
+]
+],
+"clash": []
+},
+"tinsel": {
+"also": [
+[
+"sparkly things",
+1
+],
+[
+"shiny things",
+2
+]
+],
+"clash": []
+},
+"star": {
+"also": [
+[
+"2d shapes",
+1
+],
+[
+"symbols",
+2
+],
+[
+"astronomy terms",
+2
+]
+],
+"clash": [
+"stars"
+]
+},
+"angel": {
+"also": [
+[
+"angels and spirits",
+1
+],
+[
+"things with wings",
+1
+]
+],
+"clash": []
+},
+"stocking": {
+"also": [],
+"clash": [
+"underwear"
+]
+},
+"present": {
+"also": [
+[
+"tenses",
+1
+],
+[
+"birthdays",
+1
+],
+[
+"christmas",
+1
+]
+],
+"clash": []
+},
+"reindeer": {
+"also": [
+[
+"deer",
+1
+],
+[
+"arctic animals",
+1
+],
+[
+"working animals",
+2
+]
+],
+"clash": [
+"animals with horns"
+]
+},
+"sleigh": {
+"also": [
+[
+"horse-drawn vehicles",
+2
+],
+[
+"animal-powered travel",
+2
+],
+[
+"homophones",
+2
+]
+],
+"clash": []
+},
+"elf": {
+"also": [
+[
+"fantasy races",
+1
+],
+[
+"fairy folk",
+1
+],
+[
+"mythical creatures",
+2
+]
+],
+"clash": []
+},
+"North Pole": {
+"also": [
+[
+"polar exploration",
+2
+]
+],
+"clash": [
+"magnet words"
+]
+},
+"chimney": {
+"also": [
+[
+"parts of a house",
+1
+],
+[
+"roof parts",
+1
+],
+[
+"fireplace words",
+1
+]
+],
+"clash": []
+},
+"mistletoe": {
+"also": [
+[
+"poisonous plants",
+2
+],
+[
+"plants",
+2
+]
+],
+"clash": []
+},
+"holly": {
+"also": [
+[
+"prickly things",
+1
+],
+[
+"girls' names",
+1
+],
+[
+"names that are trees",
+2
+],
+[
+"evergreen trees",
+2
+],
+[
+"hedge plants",
+2
+]
+],
+"clash": [
+"poisonous plants"
+]
+},
+"ivy": {
+"also": [
+[
+"vines and climbers",
+1
+],
+[
+"girls' names",
+1
+]
+],
+"clash": [
+"poisonous plants"
+]
+},
+"wreath": {
+"also": [
+[
+"home decor",
+2
+]
+],
+"clash": [
+"tombs and burials"
+]
+},
+"candy cane": {
+"also": [
+[
+"candy",
+1
+],
+[
+"sweet foods",
+2
+],
+[
+"american candy",
+2
+]
+],
+"clash": []
+},
+"gingerbread": {
+"also": [
+[
+"cookies",
+1
+],
+[
+"cakes",
+2
+],
+[
+"sweet foods",
+2
+]
+],
+"clash": [
+"fairy tales"
+]
+},
+"eggnog": {
+"also": [
+[
+"cocktails",
+2
+]
+],
+"clash": [
+"egg dishes"
+]
+},
+"mince pie": {
+"also": [
+[
+"pies and tarts",
+1
+],
+[
+"british food",
+1
+]
+],
+"clash": []
+},
+"plum pudding": {
+"also": [
+[
+"puddings",
+1
+],
+[
+"british food",
+1
+]
+],
+"clash": []
+},
+"chestnuts": {
+"also": [
+[
+"nuts",
+1
+],
+[
+"street food",
+2
+]
+],
+"clash": [
+"things that fall from trees"
+]
+},
+"Bethlehem": {
+"also": [
+[
+"holy cities",
+1
+],
+[
+"middle eastern cities",
+2
+],
+[
+"pilgrimage sites",
+2
+]
+],
+"clash": []
+},
+"Jesus": {
+"also": [
+[
+"religious leaders",
+1
+]
+],
+"clash": []
+},
+"Mary": {
+"also": [
+[
+"biblical names",
+1
+],
+[
+"girls' names",
+1
+],
+[
+"famous saints",
+2
+]
+],
+"clash": [
+"famous queens"
+]
+},
+"Joseph": {
+"also": [
+[
+"biblical names",
+1
+],
+[
+"boys' names",
+1
+],
+[
+"famous saints",
+2
+]
+],
+"clash": []
+},
+"shepherds": {
+"also": [
+[
+"outdoor jobs",
+1
+]
+],
+"clash": [
+"herding dogs"
+]
+},
+"Magi": {
+"also": [],
+"clash": [
+"wizard words"
+]
+},
+"frankincense": {
+"also": [
+[
+"middle eastern scents",
+1
+],
+[
+"middle eastern remedies",
+1
+],
+[
+"perfume notes",
+2
+]
+],
+"clash": []
+},
+"myrrh": {
+"also": [
+[
+"middle eastern scents",
+1
+],
+[
+"middle eastern remedies",
+1
+]
+],
+"clash": []
+},
+"Advent": {
+"also": [
+[
+"religious festivals",
+2
+]
+],
+"clash": []
+},
+"advent calendar": {
+"also": [],
+"clash": [
+"clocks and calendars"
+]
+},
+"Noel": {
+"also": [
+[
+"boys' names",
+1
+]
+],
+"clash": []
+},
+"Xmas": {
+"also": [],
+"clash": [
+"acronyms"
+]
+},
+"Epiphany": {
+"also": [
+[
+"religious festivals",
+1
+],
+[
+"holidays and celebrations",
+2
+]
+],
+"clash": []
+},
+"Twelfth Night": {
+"also": [
+[
+"shakespeare plays",
+1
+]
+],
+"clash": []
+},
+"cracker": {
+"also": [
+[
+"crunchy foods",
+1
+],
+[
+"cybersecurity words",
+2
+]
+],
+"clash": [
+"party supplies"
+]
+},
+"snowman": {
+"also": [
+[
+"snow___",
+1
+],
+[
+"___man",
+1
+]
+],
+"clash": []
+},
+"carol": {
+"also": [
+[
+"girls' names",
+1
+],
+[
+"song types",
+1
+]
+],
+"clash": []
+},
+"nutcracker": {
+"also": [
+[
+"famous ballets",
+1
+],
+[
+"kitchen utensils",
+2
+]
+],
+"clash": []
+},
+"Dancer": {
+"also": [
+[
+"arts jobs",
+1
+]
+],
+"clash": []
+},
+"Vixen": {
+"also": [
+[
+"female animals",
+1
+]
+],
+"clash": []
+},
+"Comet": {
+"also": [
+[
+"space rocks",
+1
+]
+],
+"clash": []
+},
+"Blitzen": {
+"also": [],
+"clash": [
+"storms"
+]
+},
+"Yule log": {
+"also": [],
+"clash": [
+"cakes"
+]
+},
+"bûche de Noël": {
+"also": [
+[
+"french food",
+2
+],
+[
+"cakes",
+2
+],
+[
+"desserts of the world",
+2
+]
+],
+"clash": []
+},
+"panettone": {
+"also": [
+[
+"italian food",
+1
+],
+[
+"breads",
+2
+],
+[
+"cakes",
+2
+]
+],
+"clash": []
+},
+"stollen": {
+"also": [
+[
+"german food",
+1
+],
+[
+"breads",
+2
+],
+[
+"cakes",
+2
+]
+],
+"clash": []
+},
+"fruitcake": {
+"also": [
+[
+"cakes",
+1
+]
+],
+"clash": [
+"words for strange"
+]
+},
+"figgy pudding": {
+"also": [
+[
+"puddings",
+2
+],
+[
+"british food",
+2
+]
+],
+"clash": []
+},
+"wassail": {
+"also": [],
+"clash": [
+"hot drinks"
+]
+},
+"mulled wine": {
+"also": [
+[
+"hot drinks",
+2
+],
+[
+"wines",
+2
+]
+],
+"clash": []
+},
+"glühwein": {
+"also": [
+[
+"hot drinks",
+2
+]
+],
+"clash": [
+"wines",
+"words from german"
+]
+},
+"poinsettia": {
+"also": [
+[
+"flowers named after people",
+1
+],
+[
+"houseplants",
+1
+]
+],
+"clash": []
+},
+"fir tree": {
+"also": [
+[
+"evergreen trees",
+1
+]
+],
+"clash": []
+},
+"crib": {
+"also": [
+[
+"beds",
+1
+],
+[
+"baby gear",
+1
+],
+[
+"newborn care",
+2
+]
+],
+"clash": []
+},
+"pantomime": {
+"also": [
+[
+"theater words",
+1
+],
+[
+"stage genres",
+1
+]
+],
+"clash": []
+},
+"Krampus": {
+"also": [
+[
+"mythical creatures",
+2
+]
+],
+"clash": []
+},
+"Saint Nicholas": {
+"also": [
+[
+"famous saints",
+1
+]
+],
+"clash": []
+},
+"Ded Moroz": {
+"also": [
+[
+"slavic folklore",
+2
+]
+],
+"clash": []
+},
+"Befana": {
+"also": [],
+"clash": [
+"witchcraft"
+]
+},
+"fairy lights": {
+"also": [
+[
+"lights and lamps",
+2
+],
+[
+"things that glow",
+2
+],
+[
+"party supplies",
+2
+],
+[
+"christmas",
+2
+]
+],
+"clash": []
+},
+"Midnight Mass": {
+"also": [],
+"clash": [
+"times of day"
+]
+},
+"December": {
+"also": [
+[
+"months",
+1
+]
+],
+"clash": []
+},
+"partridge": {
+"also": [
+[
+"game birds",
+1
+]
+],
+"clash": []
+},
+"pear tree": {
+"also": [
+[
+"fruit trees",
+1
+]
+],
+"clash": []
+},
+"sugarplum": {
+"also": [
+[
+"candy",
+2
+]
+],
+"clash": [
+"famous ballets"
+]
+},
+"wrapping paper": {
+"also": [
+[
+"paper goods",
+1
+],
+[
+"party supplies",
+2
+],
+[
+"christmas",
+1
+]
+],
+"clash": []
+},
+"Christmas card": {
+"also": [],
+"clash": [
+"mail words"
+]
+},
+"Christmas Eve": {
+"also": [
+[
+"holidays and celebrations",
+1
+]
+],
+"clash": []
+},
+"Christmas Day": {
+"also": [
+[
+"holidays and celebrations",
+1
+]
+],
+"clash": []
+},
+"Christmas pudding": {
+"also": [
+[
+"puddings",
+1
+],
+[
+"british food",
+1
+]
+],
+"clash": []
+},
+"Christmas sweater": {
+"also": [
+[
+"knitwear",
+1
+],
+[
+"tops",
+2
+]
+],
+"clash": []
+},
+"Christmas cracker": {
+"also": [],
+"clash": [
+"party supplies"
+]
+},
+"tannenbaum": {
+"also": [
+[
+"words from german",
+2
+]
+],
+"clash": []
+},
+"Las Posadas": {
+"also": [
+[
+"festivals of the world",
+2
+]
+],
+"clash": []
+},
+"St. Stephen's Day": {
+"also": [
+[
+"holidays and celebrations",
+2
+]
+],
+"clash": []
+},
+"A Christmas Carol": {
+"also": [
+[
+"classic novels",
+1
+]
+],
+"clash": []
+},
+"gingerbread house": {
+"also": [],
+"clash": [
+"fairy tales"
+]
+},
+"Gaudete": {
+"also": [
+[
+"latin phrases",
+2
+]
+],
+"clash": []
+},
+"In Dulci Jubilo": {
+"also": [
+[
+"latin phrases",
+3
+]
+],
+"clash": []
+},
+"Good King Wenceslas": {
+"also": [],
+"clash": [
+"famous saints"
+]
+},
+"Little Drummer Boy": {
+"also": [],
+"clash": [
+"drums"
+]
+},
+"pumpkin": {
+"also": [
+[
+"squashes",
+1
+],
+[
+"shades of orange",
+2
+],
+[
+"terms of endearment",
+2
+]
+],
+"clash": [
+"thanksgiving",
+"fairy tales"
+]
+},
+"witch": {
+"also": [
+[
+"witchcraft",
+1
+],
+[
+"fairy tale characters",
+1
+]
+],
+"clash": [
+"wizard words"
+]
+},
+"ghost": {
+"also": [
+[
+"ghosts and spirits",
+1
+],
+[
+"white things",
+2
+]
+],
+"clash": [
+"undead"
+]
+},
+"costume": {
+"also": [
+[
+"theater words",
+2
+]
+],
+"clash": []
+},
+"candy": {
+"also": [
+[
+"candy",
+1
+],
+[
+"sweet foods",
+1
+],
+[
+"wedding anniversaries",
+4
+],
+[
+"halloween",
+2
+]
+],
+"clash": []
+},
+"bat": {
+"also": [
+[
+"bats",
+1
+],
+[
+"nocturnal animals",
+1
+],
+[
+"baseball terms",
+1
+],
+[
+"cricket terms",
+1
+],
+[
+"sports equipment",
+1
+],
+[
+"things with wings",
+1
+],
+[
+"things that fly",
+1
+],
+[
+"hibernating animals",
+2
+]
+],
+"clash": []
+},
+"skeleton": {
+"also": [
+[
+"bones",
+1
+],
+[
+"body systems",
+2
+],
+[
+"winter olympic events",
+1
+]
+],
+"clash": [
+"undead"
+]
+},
+"vampire": {
+"also": [
+[
+"undead",
+1
+],
+[
+"mythical creatures",
+1
+],
+[
+"shapeshifters",
+2
+]
+],
+"clash": [
+"bats"
+]
+},
+"zombie": {
+"also": [
+[
+"undead",
+1
+],
+[
+"cocktails",
+2
+]
+],
+"clash": []
+},
+"mummy": {
+"also": [
+[
+"undead",
+1
+],
+[
+"ancient egypt",
+1
+],
+[
+"egyptian afterlife",
+1
+],
+[
+"family members",
+2
+],
+[
+"british english words",
+2
+]
+],
+"clash": []
+},
+"werewolf": {
+"also": [
+[
+"shapeshifters",
+1
+],
+[
+"mythical creatures",
+1
+]
+],
+"clash": []
+},
+"black cat": {
+"also": [
+[
+"superstitions",
+1
+],
+[
+"black things",
+1
+]
+],
+"clash": [
+"black___"
+]
+},
+"broomstick": {
+"also": [
+[
+"witchcraft",
+2
+]
+],
+"clash": [
+"brooms and brushes"
+]
+},
+"cauldron": {
+"also": [
+[
+"witchcraft",
+1
+]
+],
+"clash": [
+"cookware"
+]
+},
+"spider": {
+"also": [
+[
+"spiders",
+1
+],
+[
+"cue sports terms",
+3
+]
+],
+"clash": []
+},
+"cobweb": {
+"also": [],
+"clash": [
+"spiders"
+]
+},
+"haunted house": {
+"also": [
+[
+"fairground rides",
+2
+],
+[
+"theme park words",
+2
+]
+],
+"clash": []
+},
+"graveyard": {
+"also": [
+[
+"tombs and burials",
+1
+]
+],
+"clash": []
+},
+"tombstone": {
+"also": [
+[
+"tombs and burials",
+1
+],
+[
+"wild west",
+2
+]
+],
+"clash": []
+},
+"coffin": {
+"also": [
+[
+"tombs and burials",
+1
+]
+],
+"clash": []
+},
+"monster": {
+"also": [
+[
+"mythical creatures",
+2
+]
+],
+"clash": []
+},
+"Frankenstein": {
+"also": [
+[
+"classic novels",
+1
+]
+],
+"clash": []
+},
+"goblin": {
+"also": [
+[
+"fantasy races",
+1
+],
+[
+"mythical creatures",
+1
+],
+[
+"fairy folk",
+2
+]
+],
+"clash": []
+},
+"ghoul": {
+"also": [
+[
+"undead",
+2
+],
+[
+"mythical creatures",
+2
+]
+],
+"clash": []
+},
+"spook": {
+"also": [
+[
+"spy words",
+2
+],
+[
+"ghosts and spirits",
+2
+]
+],
+"clash": []
+},
+"scarecrow": {
+"also": [
+[
+"farm",
+1
+],
+[
+"garden features",
+2
+]
+],
+"clash": []
+},
+"candy corn": {
+"also": [
+[
+"american candy",
+1
+],
+[
+"candy",
+1
+]
+],
+"clash": []
+},
+"apple bobbing": {
+"also": [
+[
+"party games",
+1
+]
+],
+"clash": []
+},
+"fangs": {
+"also": [
+[
+"animal body parts",
+1
+],
+[
+"teeth",
+2
+]
+],
+"clash": []
+},
+"potion": {
+"also": [
+[
+"wizard words",
+1
+],
+[
+"witchcraft",
+1
+],
+[
+"magic items",
+2
+]
+],
+"clash": []
+},
+"full moon": {
+"also": [
+[
+"moon phases",
+1
+],
+[
+"mid-autumn festival",
+1
+],
+[
+"halloween",
+2
+]
+],
+"clash": []
+},
+"October": {
+"also": [
+[
+"months",
+1
+]
+],
+"clash": [
+"oktoberfest"
+]
+},
+"Samhain": {
+"also": [
+[
+"celts",
+2
+],
+[
+"religious festivals",
+2
+]
+],
+"clash": []
+},
+"skull": {
+"also": [
+[
+"bones",
+1
+]
+],
+"clash": [
+"pirate words"
+]
+},
+"eyeball": {
+"also": [
+[
+"ways of looking",
+2
+]
+],
+"clash": [
+"eye parts"
+]
+},
+"slime": {
+"also": [
+[
+"sticky things",
+2
+],
+[
+"slippery things",
+2
+]
+],
+"clash": []
+},
+"witch's hat": {
+"also": [],
+"clash": [
+"hats"
+]
+},
+"caramel apple": {
+"also": [
+[
+"fairground food",
+1
+],
+[
+"candy",
+2
+],
+[
+"sweet foods",
+2
+]
+],
+"clash": []
+},
+"toffee apple": {
+"also": [
+[
+"fairground food",
+1
+],
+[
+"candy",
+2
+],
+[
+"sweet foods",
+2
+]
+],
+"clash": []
+},
+"hayride": {
+"also": [],
+"clash": [
+"farm"
+]
+},
+"corn maze": {
+"also": [],
+"clash": [
+"farm"
+]
+},
+"poltergeist": {
+"also": [
+[
+"ghosts and spirits",
+1
+],
+[
+"words from german",
+1
+]
+],
+"clash": []
+},
+"phantom": {
+"also": [
+[
+"ghosts and spirits",
+1
+]
+],
+"clash": []
+},
+"specter": {
+"also": [
+[
+"ghosts and spirits",
+1
+]
+],
+"clash": []
+},
+"banshee": {
+"also": [
+[
+"ghosts and spirits",
+1
+],
+[
+"celtic folklore",
+1
+],
+[
+"mythical creatures",
+2
+]
+],
+"clash": []
+},
+"demon": {
+"also": [
+[
+"mythical creatures",
+2
+]
+],
+"clash": [
+"angels and spirits"
+]
+},
+"Dracula": {
+"also": [
+[
+"undead",
+1
+],
+[
+"classic novels",
+1
+]
+],
+"clash": []
+},
+"grim reaper": {
+"also": [
+[
+"afterlife words",
+2
+],
+[
+"mythical creatures",
+2
+]
+],
+"clash": []
+},
+"headless horseman": {
+"also": [
+[
+"ghosts and spirits",
+2
+]
+],
+"clash": [
+"american tall tales"
+]
+},
+"Ouija board": {
+"also": [],
+"clash": [
+"board games"
+]
+},
+"séance": {
+"also": [
+[
+"ghosts and spirits",
+2
+],
+[
+"words from french",
+2
+]
+],
+"clash": []
+},
+"crystal ball": {
+"also": [
+[
+"magic items",
+1
+],
+[
+"wizard words",
+2
+]
+],
+"clash": []
+},
+"trick": {
+"also": [
+[
+"magic show words",
+2
+],
+[
+"card game words",
+2
+]
+],
+"clash": []
+},
+"fright": {
+"also": [
+[
+"scared words",
+1
+]
+],
+"clash": []
+},
+"spooky": {
+"also": [],
+"clash": [
+"scared words",
+"words for strange"
+]
+},
+"creepy": {
+"also": [],
+"clash": [
+"scared words",
+"words for strange"
+]
+},
+"costume party": {
+"also": [],
+"clash": [
+"party entertainment"
+]
+},
+"undead": {
+"also": [
+[
+"undead",
+1
+]
+],
+"clash": []
+},
+"ectoplasm": {
+"also": [
+[
+"ghosts and spirits",
+2
+]
+],
+"clash": [
+"cell parts"
+]
+},
+"fun-size": {
+"also": [
+[
+"size labels",
+1
+]
+],
+"clash": []
+},
+"jack-o'-lantern": {
+"also": [
+[
+"things that glow",
+2
+]
+],
+"clash": []
+},
+"Easter egg": {
+"also": [
+[
+"gaming words",
+2
+],
+[
+"chocolates",
+2
+]
+],
+"clash": []
+},
+"egg": {
+"also": [
+[
+"dairy and eggs",
+1
+],
+[
+"things with shells",
+1
+],
+[
+"breakfast foods",
+2
+],
+[
+"insect life cycle",
+1
+],
+[
+"life cycle words",
+1
+]
+],
+"clash": []
+},
+"bunny": {
+"also": [
+[
+"small pets",
+1
+],
+[
+"baby talk",
+1
+]
+],
+"clash": []
+},
+"chick": {
+"also": [
+[
+"baby animals",
+1
+]
+],
+"clash": [
+"farm animals"
+]
+},
+"basket": {
+"also": [
+[
+"containers",
+1
+],
+[
+"___ball",
+1
+],
+[
+"basketball terms",
+1
+]
+],
+"clash": []
+},
+"hot cross bun": {
+"also": [
+[
+"breads",
+1
+],
+[
+"british food",
+1
+]
+],
+"clash": []
+},
+"lamb": {
+"also": [
+[
+"baby animals",
+1
+],
+[
+"meat and seafood",
+1
+],
+[
+"terms of endearment",
+2
+]
+],
+"clash": []
+},
+"lily": {
+"also": [
+[
+"garden flowers",
+1
+],
+[
+"girls' names",
+1
+],
+[
+"names that are flowers",
+1
+]
+],
+"clash": [
+"water plants"
+]
+},
+"Lent": {
+"also": [
+[
+"irregular past tenses",
+1
+],
+[
+"religious festivals",
+2
+]
+],
+"clash": []
+},
+"Good Friday": {
+"also": [
+[
+"holidays and celebrations",
+1
+],
+[
+"religious festivals",
+1
+]
+],
+"clash": []
+},
+"Palm Sunday": {
+"also": [
+[
+"religious festivals",
+1
+]
+],
+"clash": []
+},
+"Holy Week": {
+"also": [
+[
+"religious festivals",
+2
+]
+],
+"clash": []
+},
+"Maundy Thursday": {
+"also": [
+[
+"religious festivals",
+2
+]
+],
+"clash": []
+},
+"Ash Wednesday": {
+"also": [
+[
+"religious festivals",
+1
+]
+],
+"clash": [
+"days and weeks"
+]
+},
+"Shrove Tuesday": {
+"also": [
+[
+"holidays and celebrations",
+2
+],
+[
+"religious festivals",
+2
+]
+],
+"clash": []
+},
+"Pancake Day": {
+"also": [
+[
+"holidays and celebrations",
+2
+]
+],
+"clash": [
+"festivals of the world"
+]
+},
+"cross": {
+"also": [
+[
+"symbols",
+1
+],
+[
+"boxing terms",
+2
+],
+[
+"angry words",
+1
+]
+],
+"clash": [
+"flags with crosses"
+]
+},
+"tomb": {
+"also": [
+[
+"tombs and burials",
+1
+]
+],
+"clash": []
+},
+"crucifixion": {
+"also": [
+[
+"punishments",
+2
+]
+],
+"clash": []
+},
+"daffodil": {
+"also": [
+[
+"spring flowers",
+1
+],
+[
+"garden flowers",
+1
+],
+[
+"signs of spring",
+1
+],
+[
+"national flowers",
+2
+],
+[
+"yellow things",
+2
+]
+],
+"clash": []
+},
+"tulip": {
+"also": [
+[
+"spring flowers",
+1
+],
+[
+"garden flowers",
+1
+],
+[
+"words from turkish",
+1
+],
+[
+"national flowers",
+2
+]
+],
+"clash": []
+},
+"jelly bean": {
+"also": [
+[
+"american candy",
+1
+],
+[
+"candy",
+1
+]
+],
+"clash": []
+},
+"Peeps": {
+"also": [
+[
+"american candy",
+1
+]
+],
+"clash": []
+},
+"simnel cake": {
+"also": [
+[
+"cakes",
+1
+],
+[
+"british food",
+2
+]
+],
+"clash": []
+},
+"paska": {
+"also": [
+[
+"breads",
+2
+],
+[
+"eastern european food",
+2
+]
+],
+"clash": []
+},
+"kulich": {
+"also": [
+[
+"breads",
+2
+],
+[
+"eastern european food",
+2
+]
+],
+"clash": []
+},
+"colomba": {
+"also": [
+[
+"italian food",
+2
+],
+[
+"cakes",
+2
+]
+],
+"clash": []
+},
+"paschal candle": {
+"also": [],
+"clash": [
+"candle words"
+]
+},
+"sunrise service": {
+"also": [],
+"clash": [
+"times of day"
+]
+},
+"pastel": {
+"also": [
+[
+"art materials",
+1
+],
+[
+"color terms",
+1
+]
+],
+"clash": []
+},
+"duckling": {
+"also": [
+[
+"baby animals",
+1
+]
+],
+"clash": [
+"fairy tales"
+]
+},
+"Holy Saturday": {
+"also": [
+[
+"religious festivals",
+2
+]
+],
+"clash": []
+},
+"Triduum": {
+"also": [
+[
+"religious festivals",
+3
+]
+],
+"clash": []
+},
+"Easter Sunday": {
+"also": [
+[
+"holidays and celebrations",
+1
+],
+[
+"religious festivals",
+1
+]
+],
+"clash": []
+},
+"Easter Monday": {
+"also": [
+[
+"holidays and celebrations",
+1
+]
+],
+"clash": []
+},
+"Easter bonnet": {
+"also": [],
+"clash": [
+"hats"
+]
+},
+"chocolate egg": {
+"also": [
+[
+"chocolates",
+2
+]
+],
+"clash": []
+},
+"Fabergé egg": {
+"also": [],
+"clash": [
+"jewelry"
+]
+},
+"spring": {
+"also": [
+[
+"seasons",
+1
+],
+[
+"things that bounce",
+1
+],
+[
+"ways to jump",
+2
+],
+[
+"bodies of water",
+2
+]
+],
+"clash": []
+},
+"Creme Egg": {
+"also": [
+[
+"chocolates",
+1
+],
+[
+"candy",
+2
+]
+],
+"clash": []
+},
+"midnight": {
+"also": [
+[
+"times of day",
+1
+]
+],
+"clash": [
+"shades of blue"
+]
+},
+"countdown": {
+"also": [
+[
+"launch pad",
+2
+],
+[
+"spaceflight words",
+2
+]
+],
+"clash": []
+},
+"resolution": {
+"also": [
+[
+"display tech",
+2
+]
+],
+"clash": []
+},
+"champagne": {
+"also": [
+[
+"wines",
+1
+],
+[
+"french regions",
+1
+]
+],
+"clash": [
+"things that pop"
+]
+},
+"Auld Lang Syne": {
+"also": [],
+"clash": [
+"poets"
+]
+},
+"confetti": {
+"also": [
+[
+"weddings",
+2
+],
+[
+"party supplies",
+1
+],
+[
+"new year",
+2
+]
+],
+"clash": []
+},
+"toast": {
+"also": [
+[
+"breakfast foods",
+1
+],
+[
+"breads",
+2
+],
+[
+"weddings",
+2
+],
+[
+"new year",
+2
+]
+],
+"clash": []
+},
+"Times Square": {
+"also": [
+[
+"famous squares",
+1
+],
+[
+"new york landmarks",
+1
+]
+],
+"clash": []
+},
+"calendar": {
+"also": [
+[
+"clocks and calendars",
+1
+]
+],
+"clash": []
+},
+"January": {
+"also": [
+[
+"months",
+1
+]
+],
+"clash": []
+},
+"Hogmanay": {
+"also": [
+[
+"scottish words",
+2
+],
+[
+"festivals of the world",
+2
+]
+],
+"clash": []
+},
+"Janus": {
+"also": [
+[
+"roman gods",
+1
+],
+[
+"moons",
+2
+]
+],
+"clash": []
+},
+"cheers": {
+"also": [
+[
+"british slang",
+2
+]
+],
+"clash": [
+"greetings"
+]
+},
+"prosecco": {
+"also": [
+[
+"wines",
+1
+]
+],
+"clash": [
+"italian food"
+]
+},
+"fireworks": {
+"also": [
+[
+"loud things",
+1
+],
+[
+"diwali",
+2
+],
+[
+"new year",
+1
+]
+],
+"clash": [
+"fire___"
+]
+},
+"sparkler": {
+"also": [
+[
+"sparkly things",
+1
+],
+[
+"party supplies",
+2
+],
+[
+"new year",
+2
+]
+],
+"clash": []
+},
+"black-eyed peas": {
+"also": [
+[
+"beans and pulses",
+1
+],
+[
+"famous bands",
+2
+],
+[
+"southern food",
+2
+]
+],
+"clash": []
+},
+"Hoppin' John": {
+"also": [
+[
+"southern food",
+2
+]
+],
+"clash": []
+},
+"toshikoshi soba": {
+"also": [
+[
+"noodle dishes",
+3
+],
+[
+"japanese food",
+3
+]
+],
+"clash": []
+},
+"kagami mochi": {
+"also": [
+[
+"japanese food",
+3
+]
+],
+"clash": []
+},
+"oliebollen": {
+"also": [
+[
+"deep-fried foods",
+3
+]
+],
+"clash": []
+},
+"vasilopita": {
+"also": [
+[
+"greek food",
+3
+],
+[
+"cakes",
+3
+]
+],
+"clash": []
+},
+"cotechino": {
+"also": [
+[
+"sausages",
+3
+],
+[
+"italian food",
+3
+]
+],
+"clash": []
+},
+"New Year's Eve": {
+"also": [
+[
+"holidays and celebrations",
+1
+]
+],
+"clash": []
+},
+"New Year's Day": {
+"also": [
+[
+"holidays and celebrations",
+1
+]
+],
+"clash": []
+},
+"turkey": {
+"also": [
+[
+"poultry",
+1
+],
+[
+"farm animals",
+1
+],
+[
+"countries",
+1
+],
+[
+"bowling terms",
+2
+]
+],
+"clash": []
+},
+"stuffing": {
+"also": [],
+"clash": [
+"christmas"
+]
+},
+"cranberry sauce": {
+"also": [
+[
+"sauces and condiments",
+1
+]
+],
+"clash": []
+},
+"pumpkin pie": {
+"also": [
+[
+"pies and tarts",
+1
+],
+[
+"north american food",
+1
+]
+],
+"clash": []
+},
+"gravy": {
+"also": [
+[
+"sauces and condiments",
+1
+]
+],
+"clash": []
+},
+"mashed potatoes": {
+"also": [
+[
+"potato dishes",
+1
+],
+[
+"creamy foods",
+2
+]
+],
+"clash": []
+},
+"Pilgrims": {
+"also": [
+[
+"colonial america",
+1
+],
+[
+"kinds of travelers",
+2
+]
+],
+"clash": []
+},
+"Mayflower": {
+"also": [
+[
+"famous ships",
+1
+],
+[
+"colonial america",
+1
+],
+[
+"wildflowers",
+3
+]
+],
+"clash": []
+},
+"Plymouth": {
+"also": [
+[
+"british cities",
+2
+],
+[
+"port cities",
+2
+],
+[
+"colonial america",
+1
+],
+[
+"american car brands",
+2
+]
+],
+"clash": []
+},
+"Wampanoag": {
+"also": [
+[
+"colonial america",
+2
+]
+],
+"clash": []
+},
+"harvest": {
+"also": [
+[
+"signs of autumn",
+1
+]
+],
+"clash": [
+"farm",
+"mid-autumn festival"
+]
+},
+"football": {
+"also": [
+[
+"team ball sports",
+1
+],
+[
+"sports balls",
+1
+]
+],
+"clash": [
+"___ball"
+]
+},
+"wishbone": {
+"also": [
+[
+"superstitions",
+2
+],
+[
+"bird body parts",
+2
+]
+],
+"clash": []
+},
+"sweet potato": {
+"also": [
+[
+"root vegetables",
+1
+]
+],
+"clash": []
+},
+"yams": {
+"also": [
+[
+"root vegetables",
+1
+]
+],
+"clash": []
+},
+"cornbread": {
+"also": [
+[
+"breads",
+1
+],
+[
+"southern food",
+1
+]
+],
+"clash": []
+},
+"pecan pie": {
+"also": [
+[
+"pies and tarts",
+1
+],
+[
+"southern food",
+1
+]
+],
+"clash": []
+},
+"November": {
+"also": [
+[
+"months",
+1
+],
+[
+"phonetic alphabet",
+1
+]
+],
+"clash": []
+},
+"gratitude": {
+"also": [],
+"clash": [
+"happy words"
+]
+},
+"grace": {
+"also": [
+[
+"girls' names",
+1
+],
+[
+"names that are virtues",
+1
+]
+],
+"clash": []
+},
+"Black Friday": {
+"also": [
+[
+"shopping words",
+1
+]
+],
+"clash": [
+"black___"
+]
+},
+"Plymouth Rock": {
+"also": [
+[
+"colonial america",
+1
+],
+[
+"chicken breeds",
+2
+]
+],
+"clash": []
+},
+"turkey trot": {
+"also": [
+[
+"ballroom dances",
+3
+]
+],
+"clash": []
+},
+"drumstick": {
+"also": [
+[
+"instrument parts",
+2
+]
+],
+"clash": [
+"drums",
+"cuts of meat"
+]
+},
+"carving knife": {
+"also": [
+[
+"kitchen utensils",
+1
+],
+[
+"things that cut",
+1
+]
+],
+"clash": []
+},
+"brine": {
+"also": [
+[
+"ways to preserve food",
+2
+]
+],
+"clash": []
+},
+"Friendsgiving": {
+"also": [
+[
+"portmanteau words",
+1
+]
+],
+"clash": []
+},
+"succotash": {
+"also": [
+[
+"words from native american languages",
+2
+],
+[
+"southern food",
+2
+]
+],
+"clash": []
+},
+"apple cider": {
+"also": [
+[
+"juices",
+2
+]
+],
+"clash": []
+},
+"dinner rolls": {
+"also": [
+[
+"breads",
+2
+]
+],
+"clash": []
+},
+"cranberries": {
+"also": [
+[
+"berries",
+1
+]
+],
+"clash": [
+"famous bands"
+]
+},
+"squash": {
+"also": [
+[
+"squashes",
+1
+],
+[
+"racket sports",
+1
+],
+[
+"vegetables",
+1
+]
+],
+"clash": []
+},
+"gourd": {
+"also": [
+[
+"squashes",
+1
+]
+],
+"clash": []
+},
+"deviled eggs": {
+"also": [
+[
+"egg dishes",
+1
+]
+],
+"clash": []
+},
+"candied yams": {
+"also": [
+[
+"southern food",
+2
+]
+],
+"clash": []
+},
+"turducken": {
+"also": [
+[
+"portmanteau words",
+1
+],
+[
+"stuffed foods",
+1
+]
+],
+"clash": []
+},
+"groom": {
+"also": [
+[
+"animal jobs",
+2
+],
+[
+"horse riding words",
+2
+]
+],
+"clash": []
+},
+"veil": {
+"also": [],
+"clash": [
+"religious clothing"
+]
+},
+"wedding cake": {
+"also": [
+[
+"cakes",
+1
+]
+],
+"clash": []
+},
+"bouquet": {
+"also": [],
+"clash": [
+"bouquet flowers"
+]
+},
+"aisle": {
+"also": [
+[
+"homophones",
+2
+]
+],
+"clash": []
+},
+"honeymoon": {
+"also": [],
+"clash": [
+"moon phases"
+]
+},
+"best man": {
+"also": [],
+"clash": [
+"___man"
+]
+},
+"usher": {
+"also": [
+[
+"theater jobs",
+1
+],
+[
+"movie theater words",
+1
+],
+[
+"pop stars",
+2
+]
+],
+"clash": []
+},
+"reception": {
+"also": [
+[
+"hotel",
+2
+]
+],
+"clash": []
+},
+"garter": {
+"also": [
+[
+"underwear",
+2
+]
+],
+"clash": [
+"orders of knighthood"
+]
+},
+"engagement": {
+"also": [
+[
+"life events",
+1
+]
+],
+"clash": []
+},
+"fiancé": {
+"also": [
+[
+"words from french",
+1
+]
+],
+"clash": []
+},
+"altar": {
+"also": [
+[
+"church parts",
+1
+]
+],
+"clash": []
+},
+"chapel": {
+"also": [
+[
+"religious buildings",
+1
+],
+[
+"places of worship",
+1
+]
+],
+"clash": []
+},
+"trousseau": {
+"also": [
+[
+"words from french",
+2
+]
+],
+"clash": []
+},
+"stag do": {
+"also": [
+[
+"british slang",
+2
+]
+],
+"clash": []
+},
+"gown": {
+"also": [
+[
+"graduation words",
+1
+],
+[
+"dresses and skirts",
+1
+]
+],
+"clash": [
+"nightwear",
+"hospital words"
+]
+},
+"tuxedo": {
+"also": [
+[
+"words named after places",
+2
+]
+],
+"clash": []
+},
+"marriage": {
+"also": [
+[
+"life events",
+1
+]
+],
+"clash": []
+},
+"husband": {
+"also": [
+[
+"family members",
+1
+]
+],
+"clash": []
+},
+"wife": {
+"also": [
+[
+"family members",
+1
+]
+],
+"clash": []
+},
+"spouse": {
+"also": [
+[
+"family members",
+2
+]
+],
+"clash": []
+},
+"page boy": {
+"also": [
+[
+"hairstyles",
+2
+]
+],
+"clash": [
+"knights"
+]
+},
+"in-laws": {
+"also": [
+[
+"extended family",
+1
+]
+],
+"clash": []
+},
+"prenup": {
+"also": [
+[
+"legal documents",
+2
+]
+],
+"clash": []
+},
+"wedding planner": {
+"also": [
+[
+"jobs",
+2
+]
+],
+"clash": []
+},
+"chuppah": {
+"also": [
+[
+"judaism words",
+2
+]
+],
+"clash": []
+},
+"ketubah": {
+"also": [
+[
+"judaism words",
+2
+]
+],
+"clash": [
+"legal documents"
+]
+},
+"mehndi": {
+"also": [],
+"clash": [
+"middle eastern grooming"
+]
+},
+"rice": {
+"also": [
+[
+"grains",
+1
+],
+[
+"white things",
+2
+]
+],
+"clash": []
+},
+"wedding dress": {
+"also": [
+[
+"dresses and skirts",
+1
+]
+],
+"clash": []
+},
+"wedding gown": {
+"also": [
+[
+"dresses and skirts",
+1
+]
+],
+"clash": []
+},
+"paper": {
+"also": [
+[
+"stationery",
+2
+],
+[
+"man-made materials",
+2
+]
+],
+"clash": []
+},
+"cotton": {
+"also": [
+[
+"fiber plants",
+1
+],
+[
+"natural materials",
+1
+],
+[
+"soft materials",
+1
+],
+[
+"fabrics",
+1
+],
+[
+"soft things",
+2
+]
+],
+"clash": []
+},
+"leather": {
+"also": [
+[
+"natural materials",
+1
+],
+[
+"animal coverings",
+2
+]
+],
+"clash": []
+},
+"fruit": {
+"also": [
+[
+"fruits",
+1
+]
+],
+"clash": []
+},
+"flowers": {
+"also": [
+[
+"flowers",
+1
+]
+],
+"clash": []
+},
+"wood": {
+"also": [
+[
+"natural materials",
+1
+],
+[
+"golf terms",
+2
+]
+],
+"clash": [
+"types of wood"
+]
+},
+"sugar": {
+"also": [
+[
+"sweeteners",
+1
+],
+[
+"baking ingredients",
+1
+],
+[
+"terms of endearment",
+2
+]
+],
+"clash": []
+},
+"copper": {
+"also": [
+[
+"metals",
+1
+],
+[
+"chemical elements",
+1
+],
+[
+"metallic colors",
+1
+],
+[
+"police words",
+2
+],
+[
+"british slang",
+2
+]
+],
+"clash": []
+},
+"bronze": {
+"also": [
+[
+"metals",
+1
+],
+[
+"alloys",
+1
+],
+[
+"metallic colors",
+1
+],
+[
+"medals and honors",
+1
+]
+],
+"clash": [
+"bronze age"
+]
+},
+"pottery": {
+"also": [
+[
+"crafts",
+1
+]
+],
+"clash": [
+"pottery words"
+]
+},
+"willow": {
+"also": [
+[
+"trees",
+1
+],
+[
+"deciduous trees",
+1
+],
+[
+"names that are trees",
+1
+],
+[
+"girls' names",
+2
+]
+],
+"clash": []
+},
+"tin": {
+"also": [
+[
+"metals",
+1
+],
+[
+"chemical elements",
+1
+],
+[
+"containers",
+2
+]
+],
+"clash": []
+},
+"aluminum": {
+"also": [
+[
+"metals",
+1
+],
+[
+"chemical elements",
+1
+]
+],
+"clash": []
+},
+"steel": {
+"also": [
+[
+"alloys",
+1
+],
+[
+"metals",
+1
+],
+[
+"building materials",
+1
+],
+[
+"hard materials",
+1
+]
+],
+"clash": []
+},
+"ivory": {
+"also": [
+[
+"precious materials",
+1
+],
+[
+"colors",
+2
+]
+],
+"clash": [
+"animals with tusks"
+]
+},
+"crystal": {
+"also": [
+[
+"see-through materials",
+1
+],
+[
+"girls' names",
+2
+]
+],
+"clash": [
+"minerals",
+"quartz varieties"
+]
+},
+"china": {
+"also": [
+[
+"countries",
+1
+],
+[
+"asian countries",
+1
+],
+[
+"hidden body parts",
+1
+],
+[
+"table setting",
+2
+],
+[
+"cockney rhyming slang",
+2
+]
+],
+"clash": [
+"materials from asia"
+]
+},
+"silver": {
+"also": [
+[
+"metals",
+1
+],
+[
+"chemical elements",
+1
+],
+[
+"metallic colors",
+1
+],
+[
+"precious materials",
+1
+],
+[
+"medals and honors",
+1
+],
+[
+"shiny things",
+2
+]
+],
+"clash": []
+},
+"pearl": {
+"also": [
+[
+"gemstones",
+1
+],
+[
+"birthstones",
+1
+],
+[
+"names that are gems",
+1
+],
+[
+"precious materials",
+1
+],
+[
+"girls' names",
+2
+],
+[
+"white things",
+2
+],
+[
+"homophones",
+2
+]
+],
+"clash": []
+},
+"coral": {
+"also": [
+[
+"reef life",
+1
+],
+[
+"sea life",
+1
+],
+[
+"shades of pink",
+2
+],
+[
+"shades of orange",
+2
+],
+[
+"natural materials",
+2
+]
+],
+"clash": [
+"names that are colors"
+]
+},
+"jade": {
+"also": [
+[
+"gemstones",
+1
+],
+[
+"names that are gems",
+1
+],
+[
+"shades of green",
+1
+],
+[
+"materials from asia",
+1
+],
+[
+"girls' names",
+1
+]
+],
+"clash": []
+},
+"ruby": {
+"also": [
+[
+"gemstones",
+1
+],
+[
+"birthstones",
+1
+],
+[
+"names that are gems",
+1
+],
+[
+"shades of red",
+1
+],
+[
+"girls' names",
+1
+],
+[
+"programming languages",
+1
+],
+[
+"red things",
+2
+]
+],
+"clash": []
+},
+"sapphire": {
+"also": [
+[
+"gemstones",
+1
+],
+[
+"birthstones",
+1
+],
+[
+"names that are gems",
+2
+],
+[
+"shades of blue",
+1
+],
+[
+"blue things",
+1
+]
+],
+"clash": []
+},
+"gold": {
+"also": [
+[
+"metals",
+1
+],
+[
+"chemical elements",
+1
+],
+[
+"metallic colors",
+1
+],
+[
+"precious materials",
+1
+],
+[
+"medals and honors",
+1
+],
+[
+"treasure",
+1
+],
+[
+"gold rush words",
+1
+]
+],
+"clash": []
+},
+"emerald": {
+"also": [
+[
+"gemstones",
+1
+],
+[
+"birthstones",
+1
+],
+[
+"shades of green",
+1
+],
+[
+"green things",
+1
+],
+[
+"names that are gems",
+2
+]
+],
+"clash": []
+},
+"diamond": {
+"also": [
+[
+"gemstones",
+1
+],
+[
+"birthstones",
+1
+],
+[
+"sparkly things",
+1
+],
+[
+"baseball terms",
+2
+],
+[
+"2d shapes",
+2
+],
+[
+"card game words",
+2
+],
+[
+"hard materials",
+1
+],
+[
+"precious materials",
+1
+]
+],
+"clash": []
+},
+"platinum": {
+"also": [
+[
+"metals",
+1
+],
+[
+"chemical elements",
+1
+],
+[
+"precious materials",
+1
+],
+[
+"metallic colors",
+2
+]
+],
+"clash": []
+},
+"oak": {
+"also": [
+[
+"trees",
+1
+],
+[
+"deciduous trees",
+1
+],
+[
+"types of wood",
+1
+]
+],
+"clash": [
+"names that are trees"
+]
+},
+"glass": {
+"also": [
+[
+"see-through materials",
+1
+],
+[
+"man-made materials",
+1
+],
+[
+"middle eastern inventions",
+2
+],
+[
+"hard materials",
+2
+]
+],
+"clash": []
+},
+"birthday cake": {
+"also": [
+[
+"cakes",
+1
+]
+],
+"clash": []
+},
+"candle": {
+"also": [
+[
+"candle words",
+1
+],
+[
+"lights and lamps",
+2
+]
+],
+"clash": []
+},
+"birthday card": {
+"also": [],
+"clash": [
+"mail words"
+]
+},
+"surprise party": {
+"also": [],
+"clash": [
+"surprised words"
+]
+},
+"icing": {
+"also": [
+[
+"baking words",
+1
+],
+[
+"toppings",
+1
+],
+[
+"ice hockey terms",
+2
+]
+],
+"clash": []
+},
+"frosting": {
+"also": [
+[
+"toppings",
+1
+],
+[
+"baking words",
+1
+]
+],
+"clash": []
+},
+"milestone": {
+"also": [],
+"clash": [
+"baby milestones",
+"life events"
+]
+},
+"coming of age": {
+"also": [
+[
+"ages and stages",
+2
+],
+[
+"life events",
+2
+]
+],
+"clash": []
+},
+"centenarian": {
+"also": [
+[
+"ages and stages",
+2
+]
+],
+"clash": []
+},
+"birthstone": {
+"also": [],
+"clash": [
+"gemstones",
+"birthstones"
+]
+},
+"star sign": {
+"also": [
+[
+"zodiac signs",
+2
+]
+],
+"clash": []
+},
+"pass the parcel": {
+"also": [
+[
+"party games",
+1
+]
+],
+"clash": []
+},
+"musical chairs": {
+"also": [
+[
+"party games",
+1
+]
+],
+"clash": []
+},
+"pin the tail on the donkey": {
+"also": [
+[
+"party games",
+1
+]
+],
+"clash": []
+},
+"sleepover": {
+"also": [
+[
+"sleep words",
+2
+]
+],
+"clash": []
+},
+"cupcake": {
+"also": [
+[
+"cakes",
+1
+],
+[
+"___cake",
+1
+],
+[
+"sweet foods",
+2
+],
+[
+"terms of endearment",
+3
+]
+],
+"clash": []
+},
+"ice cream": {
+"also": [
+[
+"frozen desserts",
+1
+],
+[
+"cold things",
+1
+],
+[
+"things that melt",
+1
+]
+],
+"clash": []
+},
+"thank-you card": {
+"also": [],
+"clash": [
+"mail words"
+]
+},
+"quinceañera": {
+"also": [
+[
+"life events",
+2
+],
+[
+"words from spanish",
+3
+]
+],
+"clash": []
+},
+"cake": {
+"also": [
+[
+"cakes",
+1
+],
+[
+"desserts and sweets",
+1
+],
+[
+"sweet foods",
+1
+]
+],
+"clash": []
+},
+"balloon": {
+"also": [
+[
+"things that pop",
+1
+],
+[
+"things made of rubber",
+1
+],
+[
+"things that float",
+2
+]
+],
+"clash": [
+"things that fly",
+"flying machines"
+]
+},
+"paper plate": {
+"also": [
+[
+"paper goods",
+1
+],
+[
+"things made of paper",
+1
+]
+],
+"clash": []
+},
+"paper cup": {
+"also": [
+[
+"paper goods",
+1
+],
+[
+"things made of paper",
+1
+]
+],
+"clash": []
+},
+"napkin": {
+"also": [
+[
+"paper goods",
+1
+],
+[
+"table setting",
+1
+],
+[
+"square things",
+1
+]
+],
+"clash": []
+},
+"banner": {
+"also": [
+[
+"flag words",
+2
+],
+[
+"advertising words",
+2
+]
+],
+"clash": []
+},
+"piñata": {
+"also": [
+[
+"party games",
+1
+],
+[
+"mexican souvenirs",
+2
+],
+[
+"words from spanish",
+2
+]
+],
+"clash": []
+},
+"party popper": {
+"also": [
+[
+"things that pop",
+1
+]
+],
+"clash": []
+},
+"noisemaker": {
+"also": [
+[
+"loud things",
+2
+]
+],
+"clash": []
+},
+"bunting": {
+"also": [
+[
+"flag words",
+2
+],
+[
+"songbirds",
+2
+]
+],
+"clash": []
+},
+"tablecloth": {
+"also": [
+[
+"table setting",
+1
+],
+[
+"soft furnishings",
+2
+]
+],
+"clash": []
+},
+"garland": {
+"also": [],
+"clash": [
+"christmas"
+]
+},
+"cake topper": {
+"also": [],
+"clash": [
+"weddings"
+]
+},
+"place card": {
+"also": [
+[
+"table setting",
+2
+]
+],
+"clash": []
+},
+"centerpiece": {
+"also": [
+[
+"table setting",
+2
+],
+[
+"home decor",
+2
+]
+],
+"clash": []
+},
+"helium": {
+"also": [
+[
+"gases",
+1
+],
+[
+"chemical elements",
+1
+]
+],
+"clash": []
+},
+"glow stick": {
+"also": [
+[
+"things that glow",
+1
+],
+[
+"nightclub words",
+2
+]
+],
+"clash": []
+},
+"crepe paper": {
+"also": [
+[
+"paper goods",
+2
+],
+[
+"paper crafts",
+2
+]
+],
+"clash": []
+},
+"gift wrap": {
+"also": [
+[
+"paper goods",
+2
+]
+],
+"clash": []
+},
+"tissue paper": {
+"also": [
+[
+"paper goods",
+1
+],
+[
+"paper crafts",
+2
+]
+],
+"clash": []
+},
+"invitation": {
+"also": [],
+"clash": [
+"mail words"
+]
+},
+"kazoo": {
+"also": [
+[
+"instruments",
+2
+]
+],
+"clash": []
+},
+"paper lantern": {
+"also": [
+[
+"things that glow",
+2
+]
+],
+"clash": [
+"mid-autumn festival",
+"lunar new year"
+]
+},
+"honeycomb ball": {
+"also": [],
+"clash": [
+"bees and wasps"
+]
+},
+"doily": {
+"also": [
+[
+"paper goods",
+2
+]
+],
+"clash": []
+},
+"disco ball": {
+"also": [
+[
+"nightclub words",
+1
+],
+[
+"round things",
+2
+]
+],
+"clash": [
+"dance music"
+]
+},
+"party cracker": {
+"also": [],
+"clash": [
+"christmas"
+]
+},
+"paper chain": {
+"also": [
+[
+"paper crafts",
+2
+]
+],
+"clash": []
+},
+"heart": {
+"also": [
+[
+"organs",
+1
+],
+[
+"symbols",
+1
+],
+[
+"card games",
+2
+],
+[
+"2d shapes",
+2
+]
+],
+"clash": []
+},
+"rose": {
+"also": [
+[
+"garden flowers",
+1
+],
+[
+"bouquet flowers",
+1
+],
+[
+"names that are flowers",
+1
+],
+[
+"girls' names",
+1
+],
+[
+"shades of pink",
+1
+],
+[
+"irregular past tenses",
+1
+],
+[
+"things that smell good",
+1
+]
+],
+"clash": []
+},
+"chocolate": {
+"also": [
+[
+"chocolates",
+1
+],
+[
+"things that melt",
+1
+],
+[
+"words from nahuatl",
+1
+],
+[
+"shades of brown",
+1
+],
+[
+"sweet foods",
+1
+]
+],
+"clash": []
+},
+"Cupid": {
+"also": [
+[
+"roman gods",
+1
+],
+[
+"christmas",
+2
+]
+],
+"clash": []
+},
+"love": {
+"also": [
+[
+"love words",
+1
+],
+[
+"tennis terms",
+1
+],
+[
+"emotions",
+1
+],
+[
+"terms of endearment",
+1
+]
+],
+"clash": []
+},
+"kiss": {
+"also": [
+[
+"love words",
+1
+],
+[
+"famous bands",
+2
+]
+],
+"clash": []
+},
+"hug": {
+"also": [
+[
+"love words",
+1
+],
+[
+"gestures",
+1
+]
+],
+"clash": []
+},
+"romance": {
+"also": [
+[
+"book genres",
+1
+],
+[
+"love words",
+1
+]
+],
+"clash": [
+"romance languages"
+]
+},
+"date": {
+"also": [
+[
+"dried fruits",
+1
+],
+[
+"fruits",
+1
+],
+[
+"clocks and calendars",
+1
+]
+],
+"clash": []
+},
+"lovebirds": {
+"also": [
+[
+"parrots",
+1
+]
+],
+"clash": []
+},
+"arrow": {
+"also": [
+[
+"archery terms",
+1
+],
+[
+"medieval weapons",
+1
+],
+[
+"symbols",
+2
+],
+[
+"keyboard keys",
+2
+]
+],
+"clash": []
+},
+"candy heart": {
+"also": [
+[
+"american candy",
+2
+]
+],
+"clash": []
+},
+"conversation heart": {
+"also": [
+[
+"american candy",
+2
+]
+],
+"clash": []
+},
+"teddy bear": {
+"also": [
+[
+"toys",
+1
+],
+[
+"soft things",
+2
+]
+],
+"clash": []
+},
+"crush": {
+"also": [
+[
+"love words",
+1
+]
+],
+"clash": []
+},
+"cherub": {
+"also": [
+[
+"angels and spirits",
+1
+],
+[
+"things with wings",
+2
+]
+],
+"clash": []
+},
+"Saint Valentine": {
+"also": [
+[
+"famous saints",
+1
+]
+],
+"clash": []
+},
+"February": {
+"also": [
+[
+"months",
+1
+]
+],
+"clash": []
+},
+"red roses": {
+"also": [
+[
+"red things",
+2
+]
+],
+"clash": []
+},
+"beau": {
+"also": [
+[
+"words from french",
+2
+]
+],
+"clash": []
+},
+"darling": {
+"also": [
+[
+"terms of endearment",
+1
+]
+],
+"clash": []
+},
+"honey": {
+"also": [
+[
+"terms of endearment",
+1
+],
+[
+"sweeteners",
+1
+],
+[
+"sticky things",
+1
+],
+[
+"spreads",
+1
+],
+[
+"sweet foods",
+1
+]
+],
+"clash": []
+},
+"sweetie": {
+"also": [
+[
+"terms of endearment",
+1
+]
+],
+"clash": []
+},
+"amour": {
+"also": [
+[
+"words from french",
+2
+]
+],
+"clash": []
+},
+"passion": {
+"also": [
+[
+"love words",
+1
+]
+],
+"clash": [
+"tropical fruits"
+]
+},
+"XOXO": {
+"also": [
+[
+"texting abbreviations",
+1
+],
+[
+"text speak",
+1
+]
+],
+"clash": []
+},
+"love heart": {
+"also": [
+[
+"candy",
+2
+]
+],
+"clash": []
+},
+"romantic": {
+"also": [],
+"clash": [
+"art movements"
+]
+},
+"Hershey's Kisses": {
+"also": [
+[
+"american candy",
+1
+],
+[
+"chocolates",
+2
+]
+],
+"clash": []
+},
+"Carnival": {
+"also": [],
+"clash": [
+"brazilian carnival words",
+"fairground rides"
+]
+},
+"Passover": {
+"also": [
+[
+"judaism words",
+1
+],
+[
+"religious festivals",
+1
+]
+],
+"clash": []
+},
+"Purim": {
+"also": [
+[
+"judaism words",
+2
+],
+[
+"religious festivals",
+1
+]
+],
+"clash": []
+},
+"Rosh Hashanah": {
+"also": [
+[
+"judaism words",
+1
+],
+[
+"religious festivals",
+1
+]
+],
+"clash": []
+},
+"Yom Kippur": {
+"also": [
+[
+"judaism words",
+1
+],
+[
+"religious festivals",
+1
+]
+],
+"clash": []
+},
+"Sukkot": {
+"also": [
+[
+"judaism words",
+2
+],
+[
+"religious festivals",
+2
+]
+],
+"clash": []
+},
+"Shavuot": {
+"also": [
+[
+"judaism words",
+2
+],
+[
+"religious festivals",
+2
+]
+],
+"clash": []
+},
+"Simchat Torah": {
+"also": [
+[
+"judaism words",
+2
+],
+[
+"religious festivals",
+2
+]
+],
+"clash": []
+},
+"Tu BiShvat": {
+"also": [
+[
+"judaism words",
+3
+],
+[
+"religious festivals",
+3
+]
+],
+"clash": []
+},
+"Lag BaOmer": {
+"also": [
+[
+"judaism words",
+3
+],
+[
+"religious festivals",
+3
+]
+],
+"clash": []
+},
+"Vesak": {
+"also": [
+[
+"buddhism words",
+2
+],
+[
+"religious festivals",
+2
+]
+],
+"clash": []
+},
+"Obon": {
+"also": [
+[
+"buddhism words",
+3
+],
+[
+"religious festivals",
+2
+]
+],
+"clash": []
+},
+"Nowruz": {
+"also": [],
+"clash": [
+"ancient persia"
+]
+},
+"Dragon Boat Festival": {
+"also": [],
+"clash": [
+"traditional boats"
+]
+},
+"Inti Raymi": {
+"also": [
+[
+"inca empire",
+2
+]
+],
+"clash": [
+"inca gods"
+]
+},
+"Running of the Bulls": {
+"also": [
+[
+"bullfighting words",
+2
+]
+],
+"clash": []
+},
+"Up Helly Aa": {
+"also": [],
+"clash": [
+"vikings"
+]
+},
+"Pongal": {
+"also": [
+[
+"hinduism words",
+2
+],
+[
+"indian food",
+3
+]
+],
+"clash": []
+},
+"Navratri": {
+"also": [
+[
+"hinduism words",
+2
+],
+[
+"religious festivals",
+2
+]
+],
+"clash": []
+},
+"Durga Puja": {
+"also": [
+[
+"hinduism words",
+2
+],
+[
+"religious festivals",
+2
+]
+],
+"clash": []
+},
+"Ganesh Chaturthi": {
+"also": [
+[
+"hinduism words",
+2
+],
+[
+"religious festivals",
+2
+]
+],
+"clash": []
+},
+"Raksha Bandhan": {
+"also": [
+[
+"hinduism words",
+2
+],
+[
+"religious festivals",
+2
+]
+],
+"clash": []
+},
+"Vaisakhi": {
+"also": [
+[
+"religious festivals",
+2
+]
+],
+"clash": []
+},
+"Kumbh Mela": {
+"also": [
+[
+"hinduism words",
+2
+],
+[
+"religious festivals",
+2
+]
+],
+"clash": []
+},
+"Walpurgis Night": {
+"also": [],
+"clash": [
+"witchcraft"
+]
+},
+"Beltane": {
+"also": [
+[
+"celts",
+2
+]
+],
+"clash": []
+},
+"Imbolc": {
+"also": [
+[
+"celts",
+2
+]
+],
+"clash": []
+},
+"Lughnasadh": {
+"also": [
+[
+"celts",
+3
+]
+],
+"clash": []
+},
+"Saturnalia": {
+"also": [
+[
+"ancient rome",
+2
+],
+[
+"roman life",
+2
+]
+],
+"clash": []
+},
+"Rio Carnival": {
+"also": [
+[
+"brazilian carnival words",
+2
+]
+],
+"clash": []
+},
+"Mardi Gras": {
+"also": [
+[
+"religious festivals",
+2
+],
+[
+"words from french",
+2
+]
+],
+"clash": []
+},
+"Hornbill Festival": {
+"also": [],
+"clash": [
+"african birds"
+]
+},
+"Hungry Ghost Festival": {
+"also": [],
+"clash": [
+"ghosts and spirits"
+]
+},
+"Three Kings' Day": {
+"also": [
+[
+"christmas",
+2
+],
+[
+"religious festivals",
+2
+]
+],
+"clash": []
+},
+"St. Lucy's Day": {
+"also": [],
+"clash": [
+"christmas",
+"famous saints"
+]
+},
+"diya": {
+"also": [
+[
+"lights and lamps",
+2
+]
+],
+"clash": []
+},
+"rangoli": {
+"also": [
+[
+"asian art forms",
+2
+]
+],
+"clash": []
+},
+"Lakshmi": {
+"also": [
+[
+"hindu gods",
+1
+],
+[
+"indian names",
+2
+]
+],
+"clash": []
+},
+"Rama": {
+"also": [
+[
+"hindu gods",
+1
+],
+[
+"indian names",
+2
+]
+],
+"clash": []
+},
+"Sita": {
+"also": [
+[
+"hindu gods",
+2
+],
+[
+"indian names",
+2
+]
+],
+"clash": []
+},
+"Ravana": {
+"also": [],
+"clash": [
+"hindu gods"
+]
+},
+"Ganesh": {
+"also": [
+[
+"hindu gods",
+1
+]
+],
+"clash": []
+},
+"Krishna": {
+"also": [
+[
+"hindu gods",
+1
+],
+[
+"indian names",
+2
+],
+[
+"holi",
+2
+],
+[
+"diwali",
+4
+]
+],
+"clash": []
+},
+"sweets": {
+"also": [
+[
+"candy",
+1
+],
+[
+"british english words",
+2
+]
+],
+"clash": []
+},
+"mithai": {
+"also": [
+[
+"indian sweets",
+1
+]
+],
+"clash": []
+},
+"laddu": {
+"also": [
+[
+"indian sweets",
+1
+]
+],
+"clash": []
+},
+"barfi": {
+"also": [
+[
+"indian sweets",
+1
+]
+],
+"clash": []
+},
+"jalebi": {
+"also": [
+[
+"indian sweets",
+1
+],
+[
+"street food",
+2
+]
+],
+"clash": []
+},
+"gulab jamun": {
+"also": [
+[
+"indian sweets",
+1
+]
+],
+"clash": []
+},
+"kaju katli": {
+"also": [
+[
+"indian sweets",
+2
+]
+],
+"clash": []
+},
+"soan papdi": {
+"also": [
+[
+"indian sweets",
+2
+]
+],
+"clash": []
+},
+"chakli": {
+"also": [
+[
+"snacks",
+2
+],
+[
+"indian food",
+2
+]
+],
+"clash": []
+},
+"karanji": {
+"also": [
+[
+"indian sweets",
+2
+]
+],
+"clash": []
+},
+"puja": {
+"also": [
+[
+"hinduism words",
+1
+]
+],
+"clash": []
+},
+"Kali Puja": {
+"also": [],
+"clash": [
+"hindu gods"
+]
+},
+"Ayodhya": {
+"also": [
+[
+"holy cities",
+2
+],
+[
+"indian cities",
+2
+]
+],
+"clash": []
+},
+"oil lamp": {
+"also": [
+[
+"lights and lamps",
+1
+],
+[
+"retro household items",
+2
+]
+],
+"clash": []
+},
+"lantern": {
+"also": [
+[
+"lights and lamps",
+1
+],
+[
+"things that glow",
+1
+],
+[
+"camping gear",
+1
+],
+[
+"lunar new year",
+2
+],
+[
+"mid-autumn festival",
+1
+],
+[
+"diwali",
+2
+]
+],
+"clash": []
+},
+"Mahavira": {
+"also": [
+[
+"religious leaders",
+2
+]
+],
+"clash": []
+},
+"Kartik": {
+"also": [
+[
+"indian names",
+2
+]
+],
+"clash": []
+},
+"firecrackers": {
+"also": [
+[
+"loud things",
+2
+],
+[
+"lunar new year",
+1
+],
+[
+"diwali",
+2
+]
+],
+"clash": []
+},
+"sparklers": {
+"also": [
+[
+"sparkly things",
+1
+]
+],
+"clash": []
+},
+"Festival of Lights": {
+"also": [
+[
+"hanukkah",
+1
+]
+],
+"clash": []
+},
+"dragon dance": {
+"also": [
+[
+"asian dances",
+1
+]
+],
+"clash": [
+"dragons"
+]
+},
+"lion dance": {
+"also": [
+[
+"asian dances",
+1
+]
+],
+"clash": []
+},
+"dumplings": {
+"also": [
+[
+"dumplings",
+1
+],
+[
+"chinese food",
+1
+]
+],
+"clash": []
+},
+"Lantern Festival": {
+"also": [
+[
+"festivals of the world",
+2
+]
+],
+"clash": [
+"mid-autumn festival"
+]
+},
+"Nian": {
+"also": [
+[
+"chinese mythology",
+2
+]
+],
+"clash": []
+},
+"nian gao": {
+"also": [
+[
+"chinese food",
+2
+]
+],
+"clash": []
+},
+"tangyuan": {
+"also": [
+[
+"chinese food",
+2
+],
+[
+"dumplings",
+2
+]
+],
+"clash": []
+},
+"spring rolls": {
+"also": [
+[
+"chinese food",
+1
+],
+[
+"vietnamese food",
+2
+],
+[
+"street food",
+2
+]
+],
+"clash": []
+},
+"mandarin oranges": {
+"also": [
+[
+"citrus fruits",
+1
+]
+],
+"clash": []
+},
+"plum blossom": {
+"also": [
+[
+"flowers of east asia",
+1
+]
+],
+"clash": []
+},
+"kumquat": {
+"also": [
+[
+"citrus fruits",
+1
+]
+],
+"clash": []
+},
+"ancestors": {
+"also": [
+[
+"extended family",
+2
+]
+],
+"clash": []
+},
+"Kitchen God": {
+"also": [
+[
+"chinese mythology",
+2
+]
+],
+"clash": []
+},
+"Caishen": {
+"also": [
+[
+"chinese mythology",
+2
+]
+],
+"clash": []
+},
+"spring cleaning": {
+"also": [
+[
+"chores",
+2
+]
+],
+"clash": []
+},
+"bánh chưng": {
+"also": [
+[
+"vietnamese food",
+2
+]
+],
+"clash": []
+},
+"tteokguk": {
+"also": [
+[
+"korean food",
+2
+]
+],
+"clash": []
+},
+"pineapple tart": {
+"also": [
+[
+"pies and tarts",
+2
+]
+],
+"clash": []
+},
+"bak kwa": {
+"also": [
+[
+"cured meats",
+3
+]
+],
+"clash": []
+},
+"bhang": {
+"also": [],
+"clash": [
+"illegal drugs"
+]
+},
+"thandai": {
+"also": [
+[
+"asian drinks",
+2
+]
+],
+"clash": []
+},
+"gujiya": {
+"also": [
+[
+"indian sweets",
+2
+]
+],
+"clash": []
+},
+"bonfire": {
+"also": [
+[
+"fire words",
+1
+]
+],
+"clash": [
+"campsite"
+]
+},
+"Radha": {
+"also": [
+[
+"hindu gods",
+2
+],
+[
+"indian names",
+2
+]
+],
+"clash": []
+},
+"Narasimha": {
+"also": [
+[
+"hindu gods",
+2
+]
+],
+"clash": []
+},
+"Mathura": {
+"also": [
+[
+"holy cities",
+2
+]
+],
+"clash": []
+},
+"Vrindavan": {
+"also": [
+[
+"holy cities",
+2
+]
+],
+"clash": []
+},
+"water gun": {
+"also": [
+[
+"toys",
+1
+]
+],
+"clash": []
+},
+"dhol": {
+"also": [
+[
+"indian instruments",
+1
+],
+[
+"drums",
+2
+]
+],
+"clash": []
+},
+"malpua": {
+"also": [
+[
+"indian sweets",
+2
+]
+],
+"clash": []
+},
+"dahi vada": {
+"also": [
+[
+"indian food",
+2
+],
+[
+"street food",
+2
+]
+],
+"clash": []
+},
+"water balloon": {
+"also": [
+[
+"outdoor games",
+2
+]
+],
+"clash": []
+},
+"Festival of Colors": {
+"also": [
+[
+"festivals of the world",
+2
+]
+],
+"clash": []
+},
+"mooncake": {
+"also": [
+[
+"chinese food",
+1
+],
+[
+"cakes",
+2
+]
+],
+"clash": []
+},
+"Jade Rabbit": {
+"also": [
+[
+"chinese mythology",
+2
+]
+],
+"clash": []
+},
+"Hou Yi": {
+"also": [
+[
+"chinese mythology",
+2
+]
+],
+"clash": []
+},
+"Wu Gang": {
+"also": [
+[
+"chinese mythology",
+3
+]
+],
+"clash": []
+},
+"osmanthus": {
+"also": [
+[
+"flowers of east asia",
+2
+]
+],
+"clash": []
+},
+"pomelo": {
+"also": [
+[
+"citrus fruits",
+1
+]
+],
+"clash": []
+},
+"Chuseok": {
+"also": [
+[
+"festivals of the world",
+2
+]
+],
+"clash": []
+},
+"Tsukimi": {
+"also": [
+[
+"festivals of the world",
+3
+]
+],
+"clash": []
+},
+"songpyeon": {
+"also": [
+[
+"korean food",
+2
+]
+],
+"clash": []
+},
+"tsukimi dango": {
+"also": [
+[
+"japanese food",
+3
+]
+],
+"clash": []
+},
+"harvest moon": {
+"also": [
+[
+"signs of autumn",
+2
+]
+],
+"clash": [
+"moon phases"
+]
+},
+"taro": {
+"also": [
+[
+"root vegetables",
+1
+]
+],
+"clash": []
+},
+"persimmon": {
+"also": [
+[
+"asian fruits",
+1
+],
+[
+"fruits",
+1
+]
+],
+"clash": []
+},
+"ganggangsullae": {
+"also": [
+[
+"asian dances",
+3
+]
+],
+"clash": []
+},
+"Chang'e": {
+"also": [
+[
+"chinese mythology",
+1
+],
+[
+"space missions",
+2
+]
+],
+"clash": []
+},
+"moon goddess": {
+"also": [
+[
+"chinese mythology",
+2
+]
+],
+"clash": []
+},
+"fasting": {
+"also": [
+[
+"islam words",
+1
+],
+[
+"diet types",
+2
+]
+],
+"clash": []
+},
+"iftar": {
+"also": [
+[
+"islam words",
+1
+]
+],
+"clash": []
+},
+"suhoor": {
+"also": [
+[
+"islam words",
+2
+]
+],
+"clash": []
+},
+"Eid al-Fitr": {
+"also": [
+[
+"islam words",
+1
+],
+[
+"religious festivals",
+1
+],
+[
+"festivals of the world",
+2
+]
+],
+"clash": []
+},
+"Eid al-Adha": {
+"also": [
+[
+"islam words",
+1
+],
+[
+"religious festivals",
+1
+],
+[
+"festivals of the world",
+2
+]
+],
+"clash": []
+},
+"dates": {
+"also": [
+[
+"dried fruits",
+1
+],
+[
+"fruits",
+1
+]
+],
+"clash": []
+},
+"crescent moon": {
+"also": [
+[
+"moon phases",
+1
+],
+[
+"symbols",
+2
+]
+],
+"clash": [
+"flags with crescents"
+]
+},
+"prayer": {
+"also": [
+[
+"religion words",
+1
+]
+],
+"clash": []
+},
+"mosque": {
+"also": [
+[
+"places of worship",
+1
+],
+[
+"religious buildings",
+1
+],
+[
+"islam words",
+1
+]
+],
+"clash": []
+},
+"Quran": {
+"also": [
+[
+"holy books",
+1
+],
+[
+"islam words",
+1
+]
+],
+"clash": []
+},
+"taraweeh": {
+"also": [
+[
+"islam words",
+2
+]
+],
+"clash": []
+},
+"zakat": {
+"also": [
+[
+"islam words",
+1
+]
+],
+"clash": [
+"tax words",
+"charity words"
+]
+},
+"sadaqah": {
+"also": [
+[
+"islam words",
+2
+],
+[
+"charity words",
+2
+]
+],
+"clash": []
+},
+"Laylat al-Qadr": {
+"also": [
+[
+"islam words",
+2
+]
+],
+"clash": []
+},
+"fanous": {
+"also": [
+[
+"lights and lamps",
+3
+]
+],
+"clash": []
+},
+"Eid Mubarak": {
+"also": [
+[
+"greetings around the world",
+2
+],
+[
+"islam words",
+2
+]
+],
+"clash": []
+},
+"Ramadan Kareem": {
+"also": [
+[
+"greetings around the world",
+2
+],
+[
+"islam words",
+2
+]
+],
+"clash": []
+},
+"Ramadan Mubarak": {
+"also": [
+[
+"greetings around the world",
+2
+],
+[
+"islam words",
+2
+]
+],
+"clash": []
+},
+"sawm": {
+"also": [
+[
+"islam words",
+2
+]
+],
+"clash": []
+},
+"imam": {
+"also": [
+[
+"religious leaders",
+1
+],
+[
+"islam words",
+1
+]
+],
+"clash": []
+},
+"minaret": {
+"also": [
+[
+"mosque parts",
+1
+],
+[
+"middle eastern buildings",
+1
+],
+[
+"islam words",
+1
+]
+],
+"clash": []
+},
+"adhan": {
+"also": [
+[
+"islam words",
+1
+],
+[
+"mosque parts",
+2
+]
+],
+"clash": []
+},
+"charity": {
+"also": [
+[
+"charity words",
+1
+],
+[
+"names that are virtues",
+1
+],
+[
+"girls' names",
+2
+]
+],
+"clash": []
+},
+"henna": {
+"also": [
+[
+"middle eastern grooming",
+1
+],
+[
+"hair care",
+2
+]
+],
+"clash": [
+"weddings"
+]
+},
+"maamoul": {
+"also": [
+[
+"middle eastern food",
+2
+],
+[
+"cookies",
+2
+]
+],
+"clash": []
+},
+"baklava": {
+"also": [
+[
+"sweet treats of turkey",
+1
+],
+[
+"turkish food",
+1
+],
+[
+"middle eastern food",
+1
+],
+[
+"desserts of the world",
+1
+],
+[
+"pastries",
+2
+]
+],
+"clash": []
+},
+"haleem": {
+"also": [
+[
+"indian food",
+2
+]
+],
+"clash": []
+},
+"samosa": {
+"also": [
+[
+"indian food",
+1
+],
+[
+"snacks",
+1
+],
+[
+"street food",
+1
+],
+[
+"deep-fried foods",
+1
+],
+[
+"savory pies",
+2
+]
+],
+"clash": []
+},
+"qatayef": {
+"also": [
+[
+"middle eastern food",
+3
+]
+],
+"clash": []
+},
+"kunafa": {
+"also": [
+[
+"sweet treats of turkey",
+2
+],
+[
+"middle eastern food",
+2
+]
+],
+"clash": []
+},
+"Hajj": {
+"also": [
+[
+"islam words",
+1
+]
+],
+"clash": [
+"pilgrimage sites"
+]
+},
+"Mecca": {
+"also": [
+[
+"holy cities",
+1
+],
+[
+"pilgrimage sites",
+1
+],
+[
+"middle eastern cities",
+1
+]
+],
+"clash": []
+},
+"qurbani": {
+"also": [
+[
+"islam words",
+3
+]
+],
+"clash": []
+},
+"takbir": {
+"also": [
+[
+"islam words",
+3
+]
+],
+"clash": []
+},
+"Eid": {
+"also": [
+[
+"islam words",
+1
+],
+[
+"religious festivals",
+1
+]
+],
+"clash": []
+},
+"sacrifice": {
+"also": [],
+"clash": [
+"chess terms"
+]
+},
+"Night of Power": {
+"also": [
+[
+"islam words",
+3
+]
+],
+"clash": []
+},
+"Deepavali": {
+"also": [
+[
+"festivals of the world",
+2
+],
+[
+"religious festivals",
+2
+]
+],
+"clash": []
+},
+"Tihar": {
+"also": [
+[
+"festivals of the world",
+3
+]
+],
+"clash": []
+},
+"Spring Festival": {
+"also": [
+[
+"festivals of the world",
+2
+]
+],
+"clash": []
+},
+"Tet": {
+"also": [
+[
+"festivals of the world",
+2
+]
+],
+"clash": []
+},
+"Seollal": {
+"also": [
+[
+"festivals of the world",
+3
+]
+],
+"clash": []
+},
+"Chunjie": {
+"also": [
+[
+"festivals of the world",
+3
+]
+],
+"clash": []
+},
+"Phagwah": {
+"also": [
+[
+"festivals of the world",
+3
+]
+],
+"clash": []
+},
+"Moon Festival": {
+"also": [
+[
+"festivals of the world",
+2
+]
+],
+"clash": []
+},
+"Holika Dahan": {
+"also": [
+[
+"religious festivals",
+3
+]
+],
+"clash": []
+},
+"Bandi Chhor Divas": {
+"also": [
+[
+"religious festivals",
+3
+]
+],
+"clash": []
+},
+"party hat": {
+"also": [
+[
+"party supplies",
+1
+],
+[
+"hats",
+2
+]
+],
+"clash": []
+},
+"gift": {
+"also": [
+[
+"birthdays",
+1
+],
+[
+"christmas",
+1
+]
+],
+"clash": []
+}
+}

@@ -1,0 +1,13052 @@
+{
+ "glue": {
+  "also": [
+   [
+    "sticky things",
+    1
+   ],
+   [
+    "stationery",
+    1
+   ],
+   [
+    "classroom items",
+    1
+   ],
+   [
+    "rhymes with blue",
+    1
+   ]
+  ],
+  "clash": [
+   "art materials",
+   "crafts"
+  ]
+ },
+ "tape": {
+  "also": [
+   [
+    "sticky things",
+    1
+   ],
+   [
+    "stationery",
+    1
+   ]
+  ],
+  "clash": [
+   "measuring tools",
+   "retro tech",
+   "first aid"
+  ]
+ },
+ "duct tape": {
+  "also": [
+   [
+    "sticky things",
+    1
+   ],
+   [
+    "emergency supplies",
+    2
+   ]
+  ],
+  "clash": []
+ },
+ "superglue": {
+  "also": [
+   [
+    "sticky things",
+    1
+   ]
+  ],
+  "clash": []
+ },
+ "epoxy": {
+  "also": [
+   [
+    "plastics",
+    3
+   ]
+  ],
+  "clash": [
+   "man-made materials"
+  ]
+ },
+ "sticky tape": {
+  "also": [
+   [
+    "sticky things",
+    1
+   ],
+   [
+    "stationery",
+    1
+   ]
+  ],
+  "clash": []
+ },
+ "Scotch tape": {
+  "also": [
+   [
+    "sticky things",
+    1
+   ],
+   [
+    "stationery",
+    1
+   ],
+   [
+    "brand names used as words",
+    2
+   ]
+  ],
+  "clash": []
+ },
+ "masking tape": {
+  "also": [
+   [
+    "sticky things",
+    1
+   ],
+   [
+    "painting and decorating",
+    1
+   ]
+  ],
+  "clash": []
+ },
+ "Sellotape": {
+  "also": [
+   [
+    "sticky things",
+    1
+   ],
+   [
+    "stationery",
+    1
+   ],
+   [
+    "brand names used as words",
+    1
+   ],
+   [
+    "british english words",
+    2
+   ]
+  ],
+  "clash": []
+ },
+ "caulk": {
+  "also": [
+   [
+    "painting and decorating",
+    2
+   ],
+   [
+    "plumbing words",
+    2
+   ]
+  ],
+  "clash": []
+ },
+ "glue stick": {
+  "also": [
+   [
+    "sticky things",
+    1
+   ],
+   [
+    "stationery",
+    1
+   ],
+   [
+    "classroom items",
+    1
+   ]
+  ],
+  "clash": []
+ },
+ "hot glue": {
+  "also": [
+   [
+    "sticky things",
+    1
+   ]
+  ],
+  "clash": [
+   "crafts"
+  ]
+ },
+ "wood glue": {
+  "also": [
+   [
+    "sticky things",
+    2
+   ],
+   [
+    "woodworking words",
+    2
+   ]
+  ],
+  "clash": []
+ },
+ "packing tape": {
+  "also": [
+   [
+    "sticky things",
+    1
+   ]
+  ],
+  "clash": []
+ },
+ "electrical tape": {
+  "also": [
+   [
+    "electronics workbench",
+    2
+   ]
+  ],
+  "clash": [
+   "electrical fittings"
+  ]
+ },
+ "double-sided tape": {
+  "also": [
+   [
+    "sticky things",
+    1
+   ]
+  ],
+  "clash": []
+ },
+ "paste": {
+  "also": [
+   [
+    "computer actions",
+    1
+   ]
+  ],
+  "clash": [
+   "dental care",
+   "spreads"
+  ]
+ },
+ "rubber cement": {
+  "also": [],
+  "clash": [
+   "things made of rubber",
+   "building materials"
+  ]
+ },
+ "Gorilla Glue": {
+  "also": [
+   [
+    "sticky things",
+    2
+   ]
+  ],
+  "clash": [
+   "hidden animals"
+  ]
+ },
+ "gaffer tape": {
+  "also": [],
+  "clash": [
+   "behind the camera"
+  ]
+ },
+ "Blu-Tack": {
+  "also": [
+   [
+    "sticky things",
+    1
+   ],
+   [
+    "stationery",
+    2
+   ],
+   [
+    "brand names used as words",
+    2
+   ]
+  ],
+  "clash": []
+ },
+ "sealant": {
+  "also": [
+   [
+    "painting and decorating",
+    2
+   ],
+   [
+    "plumbing words",
+    2
+   ]
+  ],
+  "clash": []
+ },
+ "silicone": {
+  "also": [
+   [
+    "man-made materials",
+    2
+   ]
+  ],
+  "clash": [
+   "plastics",
+   "chemical elements",
+   "building materials"
+  ]
+ },
+ "PVA": {
+  "also": [
+   [
+    "plastics",
+    3
+   ]
+  ],
+  "clash": [
+   "classroom items"
+  ]
+ },
+ "wallpaper paste": {
+  "also": [
+   [
+    "painting and decorating",
+    1
+   ],
+   [
+    "diy words",
+    1
+   ]
+  ],
+  "clash": []
+ },
+ "resin": {
+  "also": [
+   [
+    "natural materials",
+    2
+   ]
+  ],
+  "clash": [
+   "plastics",
+   "tree parts",
+   "art materials"
+  ]
+ },
+ "construction adhesive": {
+  "also": [],
+  "clash": [
+   "construction site"
+  ]
+ },
+ "Pritt Stick": {
+  "also": [
+   [
+    "stationery",
+    2
+   ],
+   [
+    "classroom items",
+    2
+   ]
+  ],
+  "clash": [
+   "british english words"
+  ]
+ },
+ "cyanoacrylate": {
+  "also": [
+   [
+    "chemical compounds",
+    4
+   ]
+  ],
+  "clash": []
+ },
+ "insulating tape": {
+  "also": [],
+  "clash": [
+   "electrical fittings"
+  ]
+ },
+ "washi tape": {
+  "also": [
+   [
+    "stationery",
+    2
+   ],
+   [
+    "paper crafts",
+    2
+   ]
+  ],
+  "clash": [
+   "japanese souvenirs",
+   "words from japanese"
+  ]
+ },
+ "mastic": {
+  "also": [],
+  "clash": [
+   "spices",
+   "sweet treats of turkey",
+   "greek food"
+  ]
+ },
+ "UHU": {
+  "also": [],
+  "clash": [
+   "palindromes"
+  ]
+ },
+ "Liquid Nails": {
+  "also": [],
+  "clash": [
+   "fixings",
+   "nail care"
+  ]
+ },
+ "gum arabic": {
+  "also": [
+   [
+    "art materials",
+    3
+   ]
+  ],
+  "clash": [
+   "sweeteners",
+   "candy"
+  ]
+ },
+ "Teflon tape": {
+  "also": [
+   [
+    "plumbing words",
+    2
+   ]
+  ],
+  "clash": [
+   "plastics",
+   "cookware"
+  ]
+ },
+ "tile adhesive": {
+  "also": [
+   [
+    "diy words",
+    2
+   ]
+  ],
+  "clash": []
+ },
+ "sealing wax": {
+  "also": [
+   [
+    "mail words",
+    2
+   ]
+  ],
+  "clash": [
+   "old ways to communicate",
+   "candle words"
+  ]
+ },
+ "duck tape": {
+  "also": [
+   [
+    "sticky things",
+    1
+   ]
+  ],
+  "clash": []
+ },
+ "Elmer's glue": {
+  "also": [
+   [
+    "sticky things",
+    1
+   ],
+   [
+    "classroom items",
+    1
+   ],
+   [
+    "stationery",
+    2
+   ]
+  ],
+  "clash": []
+ },
+ "Mod Podge": {
+  "also": [
+   [
+    "crafts",
+    2
+   ]
+  ],
+  "clash": [
+   "paper crafts"
+  ]
+ },
+ "dirt": {
+  "also": [
+   [
+    "soil words",
+    1
+   ]
+  ],
+  "clash": []
+ },
+ "grime": {
+  "also": [
+   [
+    "music genres",
+    2
+   ]
+  ],
+  "clash": [
+   "electronic music styles",
+   "hip hop words"
+  ]
+ },
+ "mess": {
+  "also": [],
+  "clash": [
+   "army words",
+   "navy words"
+  ]
+ },
+ "stain": {
+  "also": [
+   [
+    "painting and decorating",
+    2
+   ]
+  ],
+  "clash": [
+   "diy words",
+   "science lab"
+  ]
+ },
+ "germ": {
+  "also": [
+   [
+    "microbes",
+    1
+   ]
+  ],
+  "clash": [
+   "infections"
+  ]
+ },
+ "hygiene": {
+  "also": [
+   [
+    "healthy habits",
+    2
+   ]
+  ],
+  "clash": [
+   "dental care"
+  ]
+ },
+ "filth": {
+  "also": [],
+  "clash": [
+   "disgust words"
+  ]
+ },
+ "janitor": {
+  "also": [
+   [
+    "service jobs",
+    1
+   ],
+   [
+    "school staff",
+    1
+   ]
+  ],
+  "clash": []
+ },
+ "housekeeper": {
+  "also": [
+   [
+    "service jobs",
+    1
+   ],
+   [
+    "hotel staff",
+    1
+   ]
+  ],
+  "clash": []
+ },
+ "maid": {
+  "also": [
+   [
+    "service jobs",
+    1
+   ],
+   [
+    "hotel staff",
+    1
+   ]
+  ],
+  "clash": [
+   "old-time jobs"
+  ]
+ },
+ "custodian": {
+  "also": [
+   [
+    "service jobs",
+    2
+   ],
+   [
+    "school staff",
+    2
+   ]
+  ],
+  "clash": []
+ },
+ "spring cleaning": {
+  "also": [
+   [
+    "chores",
+    2
+   ]
+  ],
+  "clash": [
+   "signs of spring"
+  ]
+ },
+ "deep clean": {
+  "also": [],
+  "clash": [
+   "chores"
+  ]
+ },
+ "cobweb": {
+  "also": [
+   [
+    "halloween",
+    1
+   ]
+  ],
+  "clash": [
+   "spiders",
+   "animal homes",
+   "attic"
+  ]
+ },
+ "smudge": {
+  "also": [],
+  "clash": [
+   "drawing techniques"
+  ]
+ },
+ "mildew": {
+  "also": [],
+  "clash": [
+   "garden pests",
+   "smelly things"
+  ]
+ },
+ "soot": {
+  "also": [
+   [
+    "fireplace words",
+    1
+   ],
+   [
+    "black things",
+    1
+   ]
+  ],
+  "clash": [
+   "pollution words"
+  ]
+ },
+ "scum": {
+  "also": [],
+  "clash": [
+   "pond life",
+   "old-fashioned insults"
+  ]
+ },
+ "streak": {
+  "also": [],
+  "clash": [
+   "hair care"
+  ]
+ },
+ "fingerprint": {
+  "also": [
+   [
+    "detective words",
+    1
+   ],
+   [
+    "police words",
+    1
+   ],
+   [
+    "phone features",
+    2
+   ]
+  ],
+  "clash": []
+ },
+ "gunk": {
+  "also": [],
+  "clash": [
+   "silly-sounding words"
+  ]
+ },
+ "charwoman": {
+  "also": [
+   [
+    "old-time jobs",
+    2
+   ],
+   [
+    "service jobs",
+    3
+   ]
+  ],
+  "clash": []
+ },
+ "cleaning lady": {
+  "also": [
+   [
+    "service jobs",
+    1
+   ]
+  ],
+  "clash": []
+ },
+ "mop": {
+  "also": [],
+  "clash": [
+   "hairstyles",
+   "laundry room"
+  ]
+ },
+ "bucket": {
+  "also": [
+   [
+    "containers",
+    1
+   ],
+   [
+    "beach gear",
+    1
+   ],
+   [
+    "things with handles",
+    1
+   ]
+  ],
+  "clash": []
+ },
+ "sponge": {
+  "also": [
+   [
+    "reef life",
+    2
+   ],
+   [
+    "sea life",
+    2
+   ],
+   [
+    "cakes",
+    1
+   ],
+   [
+    "___cake",
+    1
+   ],
+   [
+    "bath time",
+    1
+   ],
+   [
+    "toiletries for washing",
+    1
+   ],
+   [
+    "under the sink",
+    1
+   ]
+  ],
+  "clash": [
+   "soft things"
+  ]
+ },
+ "vacuum cleaner": {
+  "also": [
+   [
+    "cleaning appliances",
+    1
+   ],
+   [
+    "things you plug in",
+    1
+   ]
+  ],
+  "clash": [
+   "loud things",
+   "machine sounds"
+  ]
+ },
+ "cloth": {
+  "also": [],
+  "clash": [
+   "fabrics"
+  ]
+ },
+ "rag": {
+  "also": [],
+  "clash": [
+   "newspaper words",
+   "fabrics"
+  ]
+ },
+ "duster": {
+  "also": [
+   [
+    "coats and jackets",
+    3
+   ]
+  ],
+  "clash": [
+   "cleaning appliances"
+  ]
+ },
+ "squeegee": {
+  "also": [
+   [
+    "double letters",
+    3
+   ]
+  ],
+  "clash": [
+   "silly-sounding words"
+  ]
+ },
+ "rubber gloves": {
+  "also": [
+   [
+    "things made of rubber",
+    1
+   ],
+   [
+    "under the sink",
+    2
+   ]
+  ],
+  "clash": [
+   "scarves and gloves"
+  ]
+ },
+ "steel wool": {
+  "also": [
+   [
+    "under the sink",
+    3
+   ]
+  ],
+  "clash": [
+   "wool fabrics"
+  ]
+ },
+ "paper towel": {
+  "also": [
+   [
+    "paper goods",
+    1
+   ],
+   [
+    "things made of paper",
+    1
+   ],
+   [
+    "kitchen",
+    1
+   ]
+  ],
+  "clash": []
+ },
+ "vacuum": {
+  "also": [
+   [
+    "cleaning appliances",
+    1
+   ],
+   [
+    "physics words",
+    2
+   ]
+  ],
+  "clash": [
+   "space"
+  ]
+ },
+ "lint roller": {
+  "also": [],
+  "clash": [
+   "wardrobe"
+  ]
+ },
+ "plunger": {
+  "also": [
+   [
+    "plumbing words",
+    1
+   ],
+   [
+    "bathroom",
+    1
+   ]
+  ],
+  "clash": [
+   "under the sink"
+  ]
+ },
+ "chamois": {
+  "also": [
+   [
+    "wild goats and sheep",
+    2
+   ],
+   [
+    "alpine animals",
+    2
+   ],
+   [
+    "mountain animals",
+    2
+   ]
+  ],
+  "clash": [
+   "things made of leather",
+   "antelopes"
+  ]
+ },
+ "steam mop": {
+  "also": [
+   [
+    "cleaning appliances",
+    1
+   ],
+   [
+    "things you plug in",
+    1
+   ]
+  ],
+  "clash": []
+ },
+ "carpet sweeper": {
+  "also": [
+   [
+    "cleaning appliances",
+    2
+   ]
+  ],
+  "clash": [
+   "retro household items"
+  ]
+ },
+ "robot vacuum": {
+  "also": [
+   [
+    "cleaning appliances",
+    1
+   ],
+   [
+    "robots",
+    1
+   ],
+   [
+    "smart home",
+    1
+   ]
+  ],
+  "clash": []
+ },
+ "Roomba": {
+  "also": [
+   [
+    "cleaning appliances",
+    1
+   ],
+   [
+    "robots",
+    1
+   ],
+   [
+    "smart home",
+    1
+   ]
+  ],
+  "clash": [
+   "latin dances",
+   "ballroom dances"
+  ]
+ },
+ "Hoover": {
+  "also": [
+   [
+    "cleaning appliances",
+    1
+   ],
+   [
+    "brand names used as words",
+    1
+   ],
+   [
+    "us presidents",
+    1
+   ]
+  ],
+  "clash": [
+   "us landmarks"
+  ]
+ },
+ "handheld vacuum": {
+  "also": [
+   [
+    "cleaning appliances",
+    1
+   ],
+   [
+    "small appliances",
+    2
+   ]
+  ],
+  "clash": []
+ },
+ "Dustbuster": {
+  "also": [
+   [
+    "cleaning appliances",
+    2
+   ],
+   [
+    "small appliances",
+    2
+   ]
+  ],
+  "clash": []
+ },
+ "wet vac": {
+  "also": [
+   [
+    "cleaning appliances",
+    2
+   ]
+  ],
+  "clash": [
+   "garage"
+  ]
+ },
+ "shop vac": {
+  "also": [
+   [
+    "cleaning appliances",
+    2
+   ],
+   [
+    "garage",
+    2
+   ]
+  ],
+  "clash": [
+   "power tools"
+  ]
+ },
+ "steam cleaner": {
+  "also": [
+   [
+    "cleaning appliances",
+    2
+   ]
+  ],
+  "clash": []
+ },
+ "pressure washer": {
+  "also": [
+   [
+    "cleaning appliances",
+    2
+   ]
+  ],
+  "clash": [
+   "power tools",
+   "garage",
+   "garden tools"
+  ]
+ },
+ "carpet shampooer": {
+  "also": [
+   [
+    "cleaning appliances",
+    2
+   ]
+  ],
+  "clash": []
+ },
+ "floor polisher": {
+  "also": [
+   [
+    "cleaning appliances",
+    2
+   ]
+  ],
+  "clash": []
+ },
+ "Magic Eraser": {
+  "also": [],
+  "clash": [
+   "stationery"
+  ]
+ },
+ "scouring pad": {
+  "also": [
+   [
+    "washing up",
+    1
+   ],
+   [
+    "under the sink",
+    2
+   ]
+  ],
+  "clash": []
+ },
+ "kitchen roll": {
+  "also": [
+   [
+    "paper goods",
+    1
+   ],
+   [
+    "things made of paper",
+    2
+   ],
+   [
+    "kitchen",
+    1
+   ],
+   [
+    "british english words",
+    2
+   ]
+  ],
+  "clash": []
+ },
+ "wet wipe": {
+  "also": [
+   [
+    "newborn care",
+    1
+   ],
+   [
+    "things to pack",
+    2
+   ]
+  ],
+  "clash": []
+ },
+ "wringer": {
+  "also": [
+   [
+    "laundry words",
+    2
+   ],
+   [
+    "retro household items",
+    2
+   ],
+   [
+    "silent w words",
+    2
+   ]
+  ],
+  "clash": []
+ },
+ "broom": {
+  "also": [
+   [
+    "halloween",
+    1
+   ],
+   [
+    "witchcraft",
+    1
+   ],
+   [
+    "curling words",
+    2
+   ]
+  ],
+  "clash": [
+   "things that fly",
+   "magic items"
+  ]
+ },
+ "toilet brush": {
+  "also": [
+   [
+    "bathroom",
+    1
+   ]
+  ],
+  "clash": []
+ },
+ "bottle brush": {
+  "also": [],
+  "clash": [
+   "australian wildflowers"
+  ]
+ },
+ "lint brush": {
+  "also": [],
+  "clash": [
+   "laundry words"
+  ]
+ },
+ "whisk broom": {
+  "also": [],
+  "clash": [
+   "kitchen utensils"
+  ]
+ },
+ "besom": {
+  "also": [],
+  "clash": [
+   "witchcraft"
+  ]
+ },
+ "wire brush": {
+  "also": [
+   [
+    "hand tools",
+    2
+   ],
+   [
+    "painting and decorating",
+    2
+   ]
+  ],
+  "clash": [
+   "diy words"
+  ]
+ },
+ "nail brush": {
+  "also": [
+   [
+    "nail care",
+    1
+   ],
+   [
+    "bathroom",
+    2
+   ]
+  ],
+  "clash": []
+ },
+ "chimney brush": {
+  "also": [
+   [
+    "fireplace words",
+    2
+   ]
+  ],
+  "clash": [
+   "old-time jobs"
+  ]
+ },
+ "drain brush": {
+  "also": [],
+  "clash": [
+   "plumbing words"
+  ]
+ },
+ "vegetable brush": {
+  "also": [
+   [
+    "kitchen utensils",
+    2
+   ]
+  ],
+  "clash": []
+ },
+ "hearth brush": {
+  "also": [
+   [
+    "fireplace words",
+    2
+   ]
+  ],
+  "clash": []
+ },
+ "clothes brush": {
+  "also": [],
+  "clash": [
+   "wardrobe"
+  ]
+ },
+ "broomstick": {
+  "also": [
+   [
+    "halloween",
+    1
+   ],
+   [
+    "witchcraft",
+    1
+   ],
+   [
+    "magic items",
+    2
+   ]
+  ],
+  "clash": [
+   "things that fly"
+  ]
+ },
+ "wash": {
+  "also": [],
+  "clash": [
+   "desert features",
+   "painting words"
+  ]
+ },
+ "wipe": {
+  "also": [],
+  "clash": [
+   "computer actions"
+  ]
+ },
+ "sweep": {
+  "also": [
+   [
+    "curling words",
+    2
+   ],
+   [
+    "cricket terms",
+    3
+   ]
+  ],
+  "clash": [
+   "old-time jobs"
+  ]
+ },
+ "dust": {
+  "also": [
+   [
+    "star___",
+    2
+   ],
+   [
+    "___man",
+    2
+   ]
+  ],
+  "clash": []
+ },
+ "polish": {
+  "also": [
+   [
+    "homographs",
+    2
+   ]
+  ],
+  "clash": [
+   "nationalities",
+   "slavic languages",
+   "nail care"
+  ]
+ },
+ "rinse": {
+  "also": [],
+  "clash": [
+   "hair care"
+  ]
+ },
+ "hoover": {
+  "also": [
+   [
+    "brand names used as words",
+    1
+   ],
+   [
+    "british english words",
+    1
+   ]
+  ],
+  "clash": []
+ },
+ "bleach": {
+  "also": [
+   [
+    "household chemicals",
+    1
+   ],
+   [
+    "under the sink",
+    1
+   ],
+   [
+    "hair care",
+    2
+   ],
+   [
+    "laundry room",
+    1
+   ]
+  ],
+  "clash": [
+   "white things"
+  ]
+ },
+ "launder": {
+  "also": [],
+  "clash": [
+   "crimes"
+  ]
+ },
+ "buff": {
+  "also": [
+   [
+    "shades of brown",
+    3
+   ],
+   [
+    "fans and followers",
+    2
+   ]
+  ],
+  "clash": [
+   "fitness words",
+   "nail care"
+  ]
+ },
+ "brush": {
+  "also": [
+   [
+    "brooms and brushes",
+    1
+   ],
+   [
+    "hair care",
+    1
+   ],
+   [
+    "art materials",
+    1
+   ],
+   [
+    "painting and decorating",
+    1
+   ]
+  ],
+  "clash": [
+   "dental care",
+   "bedtime routine"
+  ]
+ },
+ "soak": {
+  "also": [],
+  "clash": [
+   "bath time"
+  ]
+ },
+ "sterilize": {
+  "also": [],
+  "clash": [
+   "newborn care",
+   "operating room"
+  ]
+ },
+ "wring": {
+  "also": [
+   [
+    "hand actions",
+    2
+   ],
+   [
+    "homophones",
+    1
+   ],
+   [
+    "rhymes with ring",
+    1
+   ],
+   [
+    "silent w words",
+    1
+   ]
+  ],
+  "clash": []
+ },
+ "swab": {
+  "also": [
+   [
+    "pirate words",
+    2
+   ]
+  ],
+  "clash": [
+   "medical tests",
+   "first aid"
+  ]
+ },
+ "sluice": {
+  "also": [
+   [
+    "gold rush words",
+    2
+   ]
+  ],
+  "clash": [
+   "river features"
+  ]
+ },
+ "spruce up": {
+  "also": [],
+  "clash": [
+   "evergreen trees",
+   "hidden trees"
+  ]
+ },
+ "shine": {
+  "also": [
+   [
+    "sun___",
+    1
+   ]
+  ],
+  "clash": []
+ },
+ "cleanse": {
+  "also": [],
+  "clash": [
+   "skincare products"
+  ]
+ },
+ "steam": {
+  "also": [
+   [
+    "cooking methods",
+    1
+   ]
+  ],
+  "clash": [
+   "states of matter",
+   "railway words"
+  ]
+ },
+ "shampoo": {
+  "also": [
+   [
+    "hair care",
+    1
+   ],
+   [
+    "toiletries for washing",
+    1
+   ],
+   [
+    "bath time",
+    1
+   ],
+   [
+    "words from hindi",
+    1
+   ]
+  ],
+  "clash": []
+ },
+ "flush": {
+  "also": [
+   [
+    "poker terms",
+    2
+   ]
+  ],
+  "clash": [
+   "plumbing words"
+  ]
+ },
+ "unclog": {
+  "also": [
+   [
+    "plumbing words",
+    2
+   ]
+  ],
+  "clash": []
+ },
+ "unblock": {
+  "also": [
+   [
+    "plumbing words",
+    2
+   ]
+  ],
+  "clash": [
+   "social media words"
+  ]
+ },
+ "straighten": {
+  "also": [],
+  "clash": [
+   "hair care"
+  ]
+ },
+ "detergent": {
+  "also": [
+   [
+    "laundry room",
+    1
+   ],
+   [
+    "household chemicals",
+    2
+   ],
+   [
+    "under the sink",
+    2
+   ]
+  ],
+  "clash": []
+ },
+ "washing machine": {
+  "also": [
+   [
+    "laundry room",
+    1
+   ],
+   [
+    "things that spin",
+    1
+   ],
+   [
+    "things you plug in",
+    1
+   ],
+   [
+    "cleaning appliances",
+    2
+   ]
+  ],
+  "clash": [
+   "kitchen appliances"
+  ]
+ },
+ "dryer": {
+  "also": [
+   [
+    "laundry room",
+    1
+   ],
+   [
+    "things you plug in",
+    1
+   ],
+   [
+    "things that spin",
+    2
+   ]
+  ],
+  "clash": [
+   "hair care"
+  ]
+ },
+ "tumble dryer": {
+  "also": [
+   [
+    "laundry room",
+    1
+   ],
+   [
+    "things you plug in",
+    1
+   ],
+   [
+    "things that spin",
+    2
+   ],
+   [
+    "british english words",
+    2
+   ]
+  ],
+  "clash": []
+ },
+ "fabric softener": {
+  "also": [
+   [
+    "laundry room",
+    1
+   ]
+  ],
+  "clash": []
+ },
+ "laundry basket": {
+  "also": [
+   [
+    "laundry room",
+    1
+   ],
+   [
+    "containers",
+    2
+   ]
+  ],
+  "clash": []
+ },
+ "hamper": {
+  "also": [
+   [
+    "laundry room",
+    1
+   ],
+   [
+    "containers",
+    2
+   ]
+  ],
+  "clash": [
+   "picnic basket",
+   "christmas"
+  ]
+ },
+ "clothesline": {
+  "also": [
+   [
+    "laundry room",
+    2
+   ],
+   [
+    "cords and strings",
+    2
+   ]
+  ],
+  "clash": [
+   "garden features"
+  ]
+ },
+ "clothespin": {
+  "also": [
+   [
+    "laundry room",
+    1
+   ]
+  ],
+  "clash": []
+ },
+ "clothes peg": {
+  "also": [
+   [
+    "laundry room",
+    1
+   ]
+  ],
+  "clash": []
+ },
+ "iron": {
+  "also": [
+   [
+    "laundry room",
+    1
+   ],
+   [
+    "metals",
+    1
+   ],
+   [
+    "chemical elements",
+    1
+   ],
+   [
+    "dietary minerals",
+    1
+   ],
+   [
+    "hard materials",
+    1
+   ],
+   [
+    "things that rust",
+    1
+   ],
+   [
+    "things you plug in",
+    1
+   ],
+   [
+    "golf terms",
+    2
+   ],
+   [
+    "___man",
+    2
+   ]
+  ],
+  "clash": [
+   "heavy things"
+  ]
+ },
+ "ironing board": {
+  "also": [
+   [
+    "laundry room",
+    1
+   ],
+   [
+    "things that fold",
+    2
+   ]
+  ],
+  "clash": []
+ },
+ "starch": {
+  "also": [
+   [
+    "nutrients",
+    2
+   ]
+  ],
+  "clash": [
+   "baking ingredients",
+   "food groups"
+  ]
+ },
+ "lint": {
+  "also": [
+   [
+    "laundry room",
+    2
+   ]
+  ],
+  "clash": []
+ },
+ "load": {
+  "also": [
+   [
+    "homophones",
+    3
+   ]
+  ],
+  "clash": []
+ },
+ "laundromat": {
+  "also": [
+   [
+    "brand names used as words",
+    3
+   ]
+  ],
+  "clash": [
+   "shops"
+  ]
+ },
+ "launderette": {
+  "also": [
+   [
+    "british english words",
+    2
+   ]
+  ],
+  "clash": []
+ },
+ "dry cleaning": {
+  "also": [],
+  "clash": [
+   "shops"
+  ]
+ },
+ "drying rack": {
+  "also": [
+   [
+    "laundry room",
+    1
+   ]
+  ],
+  "clash": []
+ },
+ "airer": {
+  "also": [
+   [
+    "laundry room",
+    2
+   ],
+   [
+    "british english words",
+    3
+   ]
+  ],
+  "clash": []
+ },
+ "washboard": {
+  "also": [
+   [
+    "retro household items",
+    1
+   ],
+   [
+    "folk instruments",
+    3
+   ],
+   [
+    "percussion instruments",
+    3
+   ]
+  ],
+  "clash": [
+   "fitness words",
+   "american roots music"
+  ]
+ },
+ "mangle": {
+  "also": [
+   [
+    "retro household items",
+    1
+   ]
+  ],
+  "clash": [
+   "laundry room"
+  ]
+ },
+ "lint trap": {
+  "also": [
+   [
+    "laundry room",
+    2
+   ]
+  ],
+  "clash": []
+ },
+ "dryer sheet": {
+  "also": [
+   [
+    "laundry room",
+    1
+   ]
+  ],
+  "clash": []
+ },
+ "laundry pod": {
+  "also": [
+   [
+    "laundry room",
+    1
+   ]
+  ],
+  "clash": []
+ },
+ "washing powder": {
+  "also": [
+   [
+    "laundry room",
+    1
+   ],
+   [
+    "british english words",
+    3
+   ]
+  ],
+  "clash": []
+ },
+ "spin dryer": {
+  "also": [
+   [
+    "laundry room",
+    2
+   ],
+   [
+    "retro household items",
+    3
+   ]
+  ],
+  "clash": []
+ },
+ "washtub": {
+  "also": [
+   [
+    "retro household items",
+    2
+   ],
+   [
+    "containers",
+    2
+   ]
+  ],
+  "clash": [
+   "folk instruments"
+  ]
+ },
+ "wash bag": {
+  "also": [],
+  "clash": [
+   "things to pack",
+   "travel accessories",
+   "toiletries for washing"
+  ]
+ },
+ "fold": {
+  "also": [
+   [
+    "poker terms",
+    2
+   ],
+   [
+    "card game words",
+    2
+   ]
+  ],
+  "clash": [
+   "paper crafts"
+  ]
+ },
+ "crease": {
+  "also": [
+   [
+    "cricket terms",
+    2
+   ]
+  ],
+  "clash": []
+ },
+ "shrink": {
+  "also": [],
+  "clash": [
+   "mental health words"
+  ]
+ },
+ "soap": {
+  "also": [
+   [
+    "toiletries for washing",
+    1
+   ],
+   [
+    "bath time",
+    1
+   ],
+   [
+    "slippery things",
+    1
+   ],
+   [
+    "bathroom",
+    1
+   ],
+   [
+    "___box",
+    2
+   ]
+  ],
+  "clash": [
+   "tv genres"
+  ]
+ },
+ "disinfectant": {
+  "also": [
+   [
+    "household chemicals",
+    2
+   ],
+   [
+    "under the sink",
+    2
+   ]
+  ],
+  "clash": [
+   "first aid"
+  ]
+ },
+ "window cleaner": {
+  "also": [
+   [
+    "service jobs",
+    2
+   ]
+  ],
+  "clash": [
+   "trades"
+  ]
+ },
+ "drain cleaner": {
+  "also": [
+   [
+    "under the sink",
+    1
+   ],
+   [
+    "household chemicals",
+    2
+   ]
+  ],
+  "clash": [
+   "plumbing words"
+  ]
+ },
+ "toilet cleaner": {
+  "also": [
+   [
+    "under the sink",
+    2
+   ]
+  ],
+  "clash": [
+   "bathroom"
+  ]
+ },
+ "dish soap": {
+  "also": [
+   [
+    "under the sink",
+    1
+   ],
+   [
+    "kitchen",
+    2
+   ]
+  ],
+  "clash": []
+ },
+ "washing-up liquid": {
+  "also": [
+   [
+    "under the sink",
+    1
+   ],
+   [
+    "british english words",
+    2
+   ]
+  ],
+  "clash": []
+ },
+ "oven cleaner": {
+  "also": [
+   [
+    "under the sink",
+    2
+   ]
+  ],
+  "clash": []
+ },
+ "vinegar": {
+  "also": [
+   [
+    "oils and vinegars",
+    1
+   ],
+   [
+    "household chemicals",
+    1
+   ],
+   [
+    "sour foods",
+    1
+   ],
+   [
+    "acids and bases",
+    1
+   ],
+   [
+    "in the pantry",
+    1
+   ],
+   [
+    "sauces and condiments",
+    2
+   ]
+  ],
+  "clash": [
+   "pickles and preserves"
+  ]
+ },
+ "baking soda": {
+  "also": [
+   [
+    "household chemicals",
+    1
+   ],
+   [
+    "baking ingredients",
+    1
+   ],
+   [
+    "in the pantry",
+    1
+   ],
+   [
+    "acids and bases",
+    2
+   ],
+   [
+    "chemical compounds",
+    2
+   ]
+  ],
+  "clash": []
+ },
+ "ammonia": {
+  "also": [
+   [
+    "household chemicals",
+    1
+   ],
+   [
+    "chemical compounds",
+    1
+   ],
+   [
+    "gases",
+    2
+   ],
+   [
+    "acids and bases",
+    2
+   ],
+   [
+    "smelly things",
+    2
+   ]
+  ],
+  "clash": [
+   "things that smell bad"
+  ]
+ },
+ "borax": {
+  "also": [
+   [
+    "household chemicals",
+    1
+   ],
+   [
+    "minerals",
+    3
+   ],
+   [
+    "chemical compounds",
+    3
+   ]
+  ],
+  "clash": []
+ },
+ "scouring powder": {
+  "also": [
+   [
+    "under the sink",
+    2
+   ]
+  ],
+  "clash": []
+ },
+ "cream cleanser": {
+  "also": [],
+  "clash": [
+   "skincare products"
+  ]
+ },
+ "air freshener": {
+  "also": [],
+  "clash": [
+   "things that smell good",
+   "candle scents"
+  ]
+ },
+ "wax": {
+  "also": [
+   [
+    "candle words",
+    1
+   ],
+   [
+    "things that melt",
+    1
+   ],
+   [
+    "surfing words",
+    2
+   ]
+  ],
+  "clash": [
+   "hair care",
+   "skiing words",
+   "moon phases",
+   "natural materials"
+  ]
+ },
+ "rubbing alcohol": {
+  "also": [
+   [
+    "household chemicals",
+    2
+   ],
+   [
+    "first aid",
+    2
+   ]
+  ],
+  "clash": [
+   "medicines"
+  ]
+ },
+ "hydrogen peroxide": {
+  "also": [
+   [
+    "chemical compounds",
+    2
+   ],
+   [
+    "household chemicals",
+    2
+   ],
+   [
+    "first aid",
+    2
+   ]
+  ],
+  "clash": [
+   "hair care"
+  ]
+ },
+ "washing soda": {
+  "also": [
+   [
+    "household chemicals",
+    2
+   ],
+   [
+    "chemical compounds",
+    3
+   ]
+  ],
+  "clash": []
+ },
+ "caustic soda": {
+  "also": [
+   [
+    "household chemicals",
+    2
+   ],
+   [
+    "chemical compounds",
+    2
+   ],
+   [
+    "acids and bases",
+    2
+   ]
+  ],
+  "clash": [
+   "soft drinks"
+  ]
+ },
+ "lye": {
+  "also": [
+   [
+    "household chemicals",
+    1
+   ],
+   [
+    "acids and bases",
+    2
+   ],
+   [
+    "chemical compounds",
+    3
+   ],
+   [
+    "homophones",
+    2
+   ]
+  ],
+  "clash": []
+ },
+ "surface spray": {
+  "also": [
+   [
+    "under the sink",
+    2
+   ]
+  ],
+  "clash": []
+ },
+ "Ajax": {
+  "also": [
+   [
+    "greek heroes",
+    2
+   ],
+   [
+    "trojan war",
+    2
+   ],
+   [
+    "european soccer clubs",
+    2
+   ]
+  ],
+  "clash": []
+ },
+ "Comet": {
+  "also": [
+   [
+    "space rocks",
+    1
+   ]
+  ],
+  "clash": [
+   "astronomy terms",
+   "christmas"
+  ]
+ },
+ "Tide": {
+  "also": [],
+  "clash": [
+   "tides and currents"
+  ]
+ },
+ "Ariel": {
+  "also": [
+   [
+    "shakespeare characters",
+    2
+   ],
+   [
+    "moons",
+    3
+   ],
+   [
+    "girls' names",
+    2
+   ]
+  ],
+  "clash": [
+   "angels and spirits",
+   "fairy tale characters"
+  ]
+ },
+ "Vanish": {
+  "also": [],
+  "clash": [
+   "magic show words"
+  ]
+ },
+ "Dawn": {
+  "also": [
+   [
+    "times of day",
+    1
+   ],
+   [
+    "girls' names",
+    1
+   ]
+  ],
+  "clash": []
+ },
+ "Jif": {
+  "also": [],
+  "clash": [
+   "spreads"
+  ]
+ },
+ "laundry": {
+  "also": [
+   [
+    "laundry words",
+    1
+   ]
+  ],
+  "clash": []
+ },
+ "dishes": {
+  "also": [],
+  "clash": [
+   "table setting"
+  ]
+ },
+ "vacuuming": {
+  "also": [],
+  "clash": [
+   "cleaning verbs"
+  ]
+ },
+ "dusting": {
+  "also": [],
+  "clash": [
+   "cleaning verbs"
+  ]
+ },
+ "ironing": {
+  "also": [
+   [
+    "laundry words",
+    1
+   ]
+  ],
+  "clash": []
+ },
+ "mopping": {
+  "also": [],
+  "clash": [
+   "cleaning verbs"
+  ]
+ },
+ "sweeping": {
+  "also": [],
+  "clash": [
+   "cleaning verbs",
+   "curling words"
+  ]
+ },
+ "tidying": {
+  "also": [],
+  "clash": [
+   "cleaning verbs"
+  ]
+ },
+ "mowing": {
+  "also": [
+   [
+    "gardening verbs",
+    1
+   ]
+  ],
+  "clash": []
+ },
+ "weeding": {
+  "also": [
+   [
+    "gardening verbs",
+    1
+   ]
+  ],
+  "clash": []
+ },
+ "raking": {
+  "also": [
+   [
+    "gardening verbs",
+    1
+   ]
+  ],
+  "clash": []
+ },
+ "gardening": {
+  "also": [],
+  "clash": [
+   "hobbies and crafts",
+   "outdoor activities"
+  ]
+ },
+ "emptying bins": {
+  "also": [],
+  "clash": [
+   "bins and recycling"
+  ]
+ },
+ "watering plants": {
+  "also": [],
+  "clash": [
+   "gardening verbs"
+  ]
+ },
+ "changing sheets": {
+  "also": [],
+  "clash": [
+   "bedding"
+  ]
+ },
+ "folding laundry": {
+  "also": [
+   [
+    "laundry words",
+    2
+   ]
+  ],
+  "clash": []
+ },
+ "scrubbing": {
+  "also": [],
+  "clash": [
+   "cleaning verbs"
+  ]
+ },
+ "polishing": {
+  "also": [],
+  "clash": [
+   "cleaning verbs"
+  ]
+ },
+ "shoveling snow": {
+  "also": [],
+  "clash": [
+   "signs of winter"
+  ]
+ },
+ "hoovering": {
+  "also": [
+   [
+    "british english words",
+    2
+   ]
+  ],
+  "clash": [
+   "cleaning verbs"
+  ]
+ },
+ "unloading the dishwasher": {
+  "also": [],
+  "clash": [
+   "washing up"
+  ]
+ },
+ "loading the dishwasher": {
+  "also": [],
+  "clash": [
+   "washing up"
+  ]
+ },
+ "clearing the table": {
+  "also": [],
+  "clash": [
+   "table setting"
+  ]
+ },
+ "setting the table": {
+  "also": [],
+  "clash": [
+   "table setting"
+  ]
+ },
+ "cleaning gutters": {
+  "also": [],
+  "clash": [
+   "roof parts"
+  ]
+ },
+ "mending": {
+  "also": [
+   [
+    "sewing words",
+    2
+   ]
+  ],
+  "clash": []
+ },
+ "darning": {
+  "also": [
+   [
+    "sewing words",
+    2
+   ]
+  ],
+  "clash": [
+   "knitting words"
+  ]
+ },
+ "litter box": {
+  "also": [
+   [
+    "pet supplies",
+    1
+   ]
+  ],
+  "clash": []
+ },
+ "trash can": {
+  "also": [
+   [
+    "things with lids",
+    1
+   ]
+  ],
+  "clash": []
+ },
+ "garbage can": {
+  "also": [
+   [
+    "things with lids",
+    1
+   ]
+  ],
+  "clash": []
+ },
+ "wheelie bin": {
+  "also": [
+   [
+    "things with wheels",
+    1
+   ],
+   [
+    "things with lids",
+    2
+   ],
+   [
+    "british english words",
+    2
+   ]
+  ],
+  "clash": []
+ },
+ "dumpster": {
+  "also": [
+   [
+    "brand names used as words",
+    3
+   ]
+  ],
+  "clash": []
+ },
+ "skip": {
+  "also": [
+   [
+    "ways to jump",
+    1
+   ],
+   [
+    "british english words",
+    2
+   ]
+  ],
+  "clash": []
+ },
+ "recycling bin": {
+  "also": [
+   [
+    "recycling words",
+    1
+   ]
+  ],
+  "clash": []
+ },
+ "compost": {
+  "also": [
+   [
+    "soil words",
+    1
+   ],
+   [
+    "recycling words",
+    1
+   ],
+   [
+    "green living words",
+    1
+   ]
+  ],
+  "clash": [
+   "garden features"
+  ]
+ },
+ "landfill": {
+  "also": [
+   [
+    "pollution words",
+    1
+   ],
+   [
+    "recycling words",
+    1
+   ]
+  ],
+  "clash": []
+ },
+ "trash bag": {
+  "also": [
+   [
+    "under the sink",
+    1
+   ]
+  ],
+  "clash": []
+ },
+ "bin bag": {
+  "also": [
+   [
+    "under the sink",
+    2
+   ],
+   [
+    "british english words",
+    2
+   ]
+  ],
+  "clash": []
+ },
+ "bin liner": {
+  "also": [
+   [
+    "under the sink",
+    2
+   ]
+  ],
+  "clash": []
+ },
+ "garbage truck": {
+  "also": [
+   [
+    "truck types",
+    1
+   ]
+  ],
+  "clash": [
+   "delivery vehicles"
+  ]
+ },
+ "bin lorry": {
+  "also": [
+   [
+    "truck types",
+    2
+   ],
+   [
+    "british english words",
+    2
+   ]
+  ],
+  "clash": []
+ },
+ "garbage": {
+  "also": [
+   [
+    "things that smell bad",
+    1
+   ]
+  ],
+  "clash": [
+   "words meaning nonsense"
+  ]
+ },
+ "trash": {
+  "also": [],
+  "clash": [
+   "words meaning nonsense"
+  ]
+ },
+ "rubbish": {
+  "also": [
+   [
+    "words meaning nonsense",
+    1
+   ],
+   [
+    "british english words",
+    1
+   ]
+  ],
+  "clash": []
+ },
+ "litter": {
+  "also": [
+   [
+    "pollution words",
+    1
+   ],
+   [
+    "collective nouns",
+    2
+   ]
+  ],
+  "clash": [
+   "baby animals",
+   "pet supplies"
+  ]
+ },
+ "waste": {
+  "also": [
+   [
+    "recycling words",
+    1
+   ],
+   [
+    "pollution words",
+    2
+   ]
+  ],
+  "clash": []
+ },
+ "recycling": {
+  "also": [
+   [
+    "recycling words",
+    1
+   ],
+   [
+    "green living words",
+    1
+   ]
+  ],
+  "clash": []
+ },
+ "compost bin": {
+  "also": [
+   [
+    "garden features",
+    2
+   ],
+   [
+    "green living words",
+    2
+   ]
+  ],
+  "clash": []
+ },
+ "food waste": {
+  "also": [
+   [
+    "recycling words",
+    2
+   ]
+  ],
+  "clash": []
+ },
+ "cardboard": {
+  "also": [
+   [
+    "man-made materials",
+    2
+   ]
+  ],
+  "clash": [
+   "paper goods",
+   "things made of paper"
+  ]
+ },
+ "plastic": {
+  "also": [
+   [
+    "man-made materials",
+    1
+   ]
+  ],
+  "clash": [
+   "plastics"
+  ]
+ },
+ "aluminum": {
+  "also": [
+   [
+    "metals",
+    1
+   ],
+   [
+    "chemical elements",
+    1
+   ]
+  ],
+  "clash": []
+ },
+ "tin can": {
+  "also": [
+   [
+    "things that rust",
+    1
+   ],
+   [
+    "containers",
+    1
+   ]
+  ],
+  "clash": []
+ },
+ "newspaper": {
+  "also": [
+   [
+    "things made of paper",
+    1
+   ]
+  ],
+  "clash": []
+ },
+ "bottle bank": {
+  "also": [
+   [
+    "recycling words",
+    2
+   ]
+  ],
+  "clash": []
+ },
+ "recycling center": {
+  "also": [
+   [
+    "recycling words",
+    2
+   ]
+  ],
+  "clash": []
+ },
+ "garbage disposal": {
+  "also": [
+   [
+    "kitchen appliances",
+    2
+   ],
+   [
+    "under the sink",
+    2
+   ]
+  ],
+  "clash": []
+ },
+ "trash compactor": {
+  "also": [
+   [
+    "kitchen appliances",
+    2
+   ]
+  ],
+  "clash": []
+ },
+ "pedal bin": {
+  "also": [
+   [
+    "kitchen",
+    2
+   ]
+  ],
+  "clash": []
+ },
+ "litter bin": {
+  "also": [
+   [
+    "street furniture",
+    1
+   ]
+  ],
+  "clash": []
+ },
+ "refuse": {
+  "also": [
+   [
+    "homographs",
+    1
+   ]
+  ],
+  "clash": []
+ },
+ "garbage collector": {
+  "also": [
+   [
+    "service jobs",
+    1
+   ]
+  ],
+  "clash": []
+ },
+ "binman": {
+  "also": [
+   [
+    "service jobs",
+    2
+   ],
+   [
+    "british english words",
+    2
+   ]
+  ],
+  "clash": []
+ },
+ "dustbin": {
+  "also": [
+   [
+    "british english words",
+    2
+   ]
+  ],
+  "clash": []
+ },
+ "dustman": {
+  "also": [
+   [
+    "service jobs",
+    2
+   ],
+   [
+    "british english words",
+    2
+   ]
+  ],
+  "clash": []
+ },
+ "wastebasket": {
+  "also": [
+   [
+    "home office",
+    2
+   ],
+   [
+    "containers",
+    2
+   ]
+  ],
+  "clash": []
+ },
+ "wastepaper basket": {
+  "also": [
+   [
+    "home office",
+    2
+   ],
+   [
+    "containers",
+    2
+   ]
+  ],
+  "clash": []
+ },
+ "upcycling": {
+  "also": [
+   [
+    "recycling words",
+    1
+   ],
+   [
+    "green living words",
+    1
+   ]
+  ],
+  "clash": []
+ },
+ "reuse": {
+  "also": [
+   [
+    "recycling words",
+    1
+   ],
+   [
+    "green living words",
+    1
+   ]
+  ],
+  "clash": []
+ },
+ "biodegradable": {
+  "also": [
+   [
+    "recycling words",
+    1
+   ],
+   [
+    "green living words",
+    1
+   ]
+  ],
+  "clash": []
+ },
+ "incinerator": {
+  "also": [],
+  "clash": [
+   "pollution words"
+  ]
+ },
+ "scrapyard": {
+  "also": [],
+  "clash": [
+   "industrial buildings"
+  ]
+ },
+ "junkyard": {
+  "also": [],
+  "clash": [
+   "industrial buildings"
+  ]
+ },
+ "e-waste": {
+  "also": [
+   [
+    "recycling words",
+    2
+   ],
+   [
+    "pollution words",
+    2
+   ]
+  ],
+  "clash": []
+ },
+ "fly-tipping": {
+  "also": [
+   [
+    "pollution words",
+    2
+   ],
+   [
+    "british english words",
+    3
+   ]
+  ],
+  "clash": [
+   "crimes"
+  ]
+ },
+ "glass bottle": {
+  "also": [
+   [
+    "things made of glass",
+    1
+   ],
+   [
+    "containers",
+    1
+   ]
+  ],
+  "clash": []
+ },
+ "wormery": {
+  "also": [
+   [
+    "green living words",
+    3
+   ],
+   [
+    "recycling words",
+    3
+   ]
+  ],
+  "clash": []
+ },
+ "bokashi": {
+  "also": [
+   [
+    "words from japanese",
+    3
+   ]
+  ],
+  "clash": [
+   "fermented foods"
+  ]
+ },
+ "sink": {
+  "also": [
+   [
+    "kitchen",
+    1
+   ],
+   [
+    "bathroom fixtures",
+    1
+   ],
+   [
+    "bathroom",
+    1
+   ]
+  ],
+  "clash": [
+   "plumbing words"
+  ]
+ },
+ "scourer": {
+  "also": [
+   [
+    "cleaning items",
+    1
+   ],
+   [
+    "under the sink",
+    2
+   ]
+  ],
+  "clash": []
+ },
+ "dishcloth": {
+  "also": [
+   [
+    "cleaning items",
+    1
+   ],
+   [
+    "kitchen",
+    1
+   ]
+  ],
+  "clash": []
+ },
+ "tea towel": {
+  "also": [
+   [
+    "kitchen",
+    1
+   ],
+   [
+    "cleaning items",
+    2
+   ],
+   [
+    "british english words",
+    2
+   ]
+  ],
+  "clash": []
+ },
+ "dish towel": {
+  "also": [
+   [
+    "kitchen",
+    1
+   ],
+   [
+    "cleaning items",
+    2
+   ]
+  ],
+  "clash": []
+ },
+ "dish rack": {
+  "also": [
+   [
+    "kitchen",
+    1
+   ]
+  ],
+  "clash": []
+ },
+ "draining board": {
+  "also": [
+   [
+    "kitchen",
+    1
+   ]
+  ],
+  "clash": []
+ },
+ "dishwasher": {
+  "also": [
+   [
+    "kitchen appliances",
+    1
+   ],
+   [
+    "kitchen",
+    1
+   ],
+   [
+    "things you plug in",
+    1
+   ],
+   [
+    "cleaning appliances",
+    2
+   ]
+  ],
+  "clash": [
+   "kitchen brigade"
+  ]
+ },
+ "Brillo pad": {
+  "also": [
+   [
+    "cleaning items",
+    2
+   ],
+   [
+    "under the sink",
+    2
+   ]
+  ],
+  "clash": []
+ },
+ "washing-up bowl": {
+  "also": [
+   [
+    "kitchen",
+    2
+   ],
+   [
+    "containers",
+    2
+   ]
+  ],
+  "clash": []
+ },
+ "plug": {
+  "also": [
+   [
+    "electrical fittings",
+    1
+   ]
+  ],
+  "clash": [
+   "bathroom",
+   "plumbing words"
+  ]
+ },
+ "grease": {
+  "also": [],
+  "clash": [
+   "car parts"
+  ]
+ },
+ "plates": {
+  "also": [
+   [
+    "table setting",
+    1
+   ],
+   [
+    "kitchen",
+    1
+   ]
+  ],
+  "clash": [
+   "earthquake words",
+   "layers of the earth"
+  ]
+ },
+ "cutlery": {
+  "also": [
+   [
+    "table setting",
+    1
+   ],
+   [
+    "kitchen",
+    1
+   ],
+   [
+    "kitchen utensils",
+    2
+   ]
+  ],
+  "clash": []
+ },
+ "pots and pans": {
+  "also": [
+   [
+    "cookware",
+    1
+   ],
+   [
+    "kitchen",
+    1
+   ]
+  ],
+  "clash": []
+ },
+ "dish drainer": {
+  "also": [
+   [
+    "kitchen",
+    1
+   ]
+  ],
+  "clash": []
+ },
+ "plate rack": {
+  "also": [
+   [
+    "kitchen",
+    2
+   ]
+  ],
+  "clash": []
+ },
+ "bubbles": {
+  "also": [
+   [
+    "bath time",
+    1
+   ],
+   [
+    "things that pop",
+    1
+   ],
+   [
+    "things that float",
+    2
+   ]
+  ],
+  "clash": []
+ },
+ "mouse": {
+  "also": [
+   [
+    "rodents",
+    1
+   ],
+   [
+    "computer parts",
+    1
+   ],
+   [
+    "city animals",
+    1
+   ],
+   [
+    "small pets",
+    2
+   ],
+   [
+    "nocturnal animals",
+    2
+   ]
+  ],
+  "clash": [
+   "chinese zodiac"
+  ]
+ },
+ "rat": {
+  "also": [
+   [
+    "rodents",
+    1
+   ],
+   [
+    "city animals",
+    1
+   ],
+   [
+    "chinese zodiac",
+    1
+   ],
+   [
+    "garden pests",
+    2
+   ],
+   [
+    "nocturnal animals",
+    2
+   ],
+   [
+    "small pets",
+    2
+   ],
+   [
+    "reversible words",
+    2
+   ]
+  ],
+  "clash": []
+ },
+ "cockroach": {
+  "also": [
+   [
+    "insects and bugs",
+    1
+   ],
+   [
+    "city animals",
+    2
+   ],
+   [
+    "words from spanish",
+    2
+   ]
+  ],
+  "clash": [
+   "beetles"
+  ]
+ },
+ "ant": {
+  "also": [
+   [
+    "insects and bugs",
+    1
+   ],
+   [
+    "garden bugs",
+    1
+   ],
+   [
+    "homophones",
+    2
+   ]
+  ],
+  "clash": []
+ },
+ "termite": {
+  "also": [
+   [
+    "insects and bugs",
+    1
+   ]
+  ],
+  "clash": []
+ },
+ "silverfish": {
+  "also": [
+   [
+    "insects and bugs",
+    2
+   ]
+  ],
+  "clash": [
+   "fish"
+  ]
+ },
+ "moth": {
+  "also": [
+   [
+    "butterflies and moths",
+    1
+   ],
+   [
+    "insects and bugs",
+    1
+   ],
+   [
+    "nocturnal animals",
+    2
+   ],
+   [
+    "things that fly",
+    2
+   ],
+   [
+    "___ball",
+    2
+   ]
+  ],
+  "clash": []
+ },
+ "bedbug": {
+  "also": [
+   [
+    "biting bugs",
+    1
+   ],
+   [
+    "insects and bugs",
+    1
+   ]
+  ],
+  "clash": []
+ },
+ "flea": {
+  "also": [
+   [
+    "biting bugs",
+    1
+   ],
+   [
+    "insects and bugs",
+    1
+   ],
+   [
+    "tiny things",
+    1
+   ],
+   [
+    "homophones",
+    1
+   ]
+  ],
+  "clash": [
+   "street market"
+  ]
+ },
+ "housefly": {
+  "also": [
+   [
+    "insects and bugs",
+    1
+   ],
+   [
+    "things that fly",
+    2
+   ]
+  ],
+  "clash": []
+ },
+ "fruit fly": {
+  "also": [
+   [
+    "insects and bugs",
+    1
+   ]
+  ],
+  "clash": [
+   "genetics words"
+  ]
+ },
+ "mosquito": {
+  "also": [
+   [
+    "biting bugs",
+    1
+   ],
+   [
+    "insects and bugs",
+    1
+   ],
+   [
+    "words from spanish",
+    1
+   ]
+  ],
+  "clash": [
+   "things that sting",
+   "tropical diseases"
+  ]
+ },
+ "spider": {
+  "also": [
+   [
+    "spiders",
+    1
+   ],
+   [
+    "insects and bugs",
+    2
+   ],
+   [
+    "halloween",
+    2
+   ]
+  ],
+  "clash": []
+ },
+ "earwig": {
+  "also": [
+   [
+    "insects and bugs",
+    1
+   ],
+   [
+    "garden bugs",
+    1
+   ],
+   [
+    "garden pests",
+    2
+   ],
+   [
+    "hidden body parts",
+    2
+   ]
+  ],
+  "clash": []
+ },
+ "woodlouse": {
+  "also": [
+   [
+    "garden bugs",
+    1
+   ],
+   [
+    "insects and bugs",
+    2
+   ],
+   [
+    "crustaceans",
+    3
+   ]
+  ],
+  "clash": []
+ },
+ "carpet beetle": {
+  "also": [
+   [
+    "beetles",
+    2
+   ],
+   [
+    "insects and bugs",
+    2
+   ]
+  ],
+  "clash": []
+ },
+ "clothes moth": {
+  "also": [
+   [
+    "butterflies and moths",
+    2
+   ],
+   [
+    "insects and bugs",
+    2
+   ]
+  ],
+  "clash": []
+ },
+ "pantry moth": {
+  "also": [
+   [
+    "butterflies and moths",
+    2
+   ],
+   [
+    "insects and bugs",
+    2
+   ]
+  ],
+  "clash": []
+ },
+ "weevil": {
+  "also": [
+   [
+    "beetles",
+    2
+   ],
+   [
+    "insects and bugs",
+    2
+   ],
+   [
+    "garden pests",
+    2
+   ]
+  ],
+  "clash": []
+ },
+ "flour beetle": {
+  "also": [
+   [
+    "beetles",
+    3
+   ]
+  ],
+  "clash": []
+ },
+ "louse": {
+  "also": [
+   [
+    "biting bugs",
+    1
+   ],
+   [
+    "insects and bugs",
+    1
+   ],
+   [
+    "irregular plurals",
+    1
+   ]
+  ],
+  "clash": [
+   "old-fashioned insults"
+  ]
+ },
+ "dust mite": {
+  "also": [
+   [
+    "tiny things",
+    2
+   ]
+  ],
+  "clash": [
+   "allergies",
+   "spiders"
+  ]
+ },
+ "woodworm": {
+  "also": [
+   [
+    "beetles",
+    3
+   ]
+  ],
+  "clash": []
+ },
+ "deathwatch beetle": {
+  "also": [
+   [
+    "beetles",
+    3
+   ]
+  ],
+  "clash": []
+ },
+ "carpenter ant": {
+  "also": [
+   [
+    "insects and bugs",
+    2
+   ]
+  ],
+  "clash": []
+ },
+ "fire ant": {
+  "also": [
+   [
+    "insects and bugs",
+    2
+   ],
+   [
+    "things that sting",
+    2
+   ]
+  ],
+  "clash": [
+   "venomous animals"
+  ]
+ },
+ "pharaoh ant": {
+  "also": [
+   [
+    "insects and bugs",
+    3
+   ]
+  ],
+  "clash": []
+ },
+ "German cockroach": {
+  "also": [
+   [
+    "insects and bugs",
+    2
+   ]
+  ],
+  "clash": []
+ },
+ "squirrel": {
+  "also": [
+   [
+    "rodents",
+    1
+   ],
+   [
+    "city animals",
+    1
+   ],
+   [
+    "woodland animals",
+    1
+   ],
+   [
+    "british wildlife",
+    1
+   ],
+   [
+    "north american animals",
+    1
+   ]
+  ],
+  "clash": [
+   "hibernating animals"
+  ]
+ },
+ "raccoon": {
+  "also": [
+   [
+    "city animals",
+    1
+   ],
+   [
+    "north american animals",
+    1
+   ],
+   [
+    "nocturnal animals",
+    1
+   ],
+   [
+    "words from native american languages",
+    1
+   ],
+   [
+    "scavengers",
+    2
+   ]
+  ],
+  "clash": [
+   "striped animals"
+  ]
+ },
+ "pigeon": {
+  "also": [
+   [
+    "city animals",
+    1
+   ],
+   [
+    "birds",
+    1
+   ],
+   [
+    "things that fly",
+    1
+   ],
+   [
+    "garden birds",
+    2
+   ]
+  ],
+  "clash": []
+ },
+ "bat": {
+  "also": [
+   [
+    "bats",
+    1
+   ],
+   [
+    "mammals",
+    1
+   ],
+   [
+    "nocturnal animals",
+    1
+   ],
+   [
+    "things that fly",
+    1
+   ],
+   [
+    "halloween",
+    1
+   ],
+   [
+    "sports equipment",
+    1
+   ],
+   [
+    "baseball terms",
+    1
+   ],
+   [
+    "cricket terms",
+    1
+   ],
+   [
+    "reversible words",
+    2
+   ]
+  ],
+  "clash": [
+   "birds"
+  ]
+ },
+ "gnat": {
+  "also": [
+   [
+    "insects and bugs",
+    1
+   ],
+   [
+    "biting bugs",
+    2
+   ],
+   [
+    "silent letter words",
+    2
+   ]
+  ],
+  "clash": []
+ },
+ "fungus gnat": {
+  "also": [
+   [
+    "insects and bugs",
+    3
+   ]
+  ],
+  "clash": []
+ },
+ "drain fly": {
+  "also": [
+   [
+    "insects and bugs",
+    3
+   ]
+  ],
+  "clash": []
+ },
+ "centipede": {
+  "also": [
+   [
+    "insects and bugs",
+    1
+   ],
+   [
+    "garden bugs",
+    2
+   ]
+  ],
+  "clash": []
+ },
+ "millipede": {
+  "also": [
+   [
+    "insects and bugs",
+    1
+   ],
+   [
+    "garden bugs",
+    1
+   ]
+  ],
+  "clash": []
+ },
+ "cricket": {
+  "also": [
+   [
+    "insects and bugs",
+    1
+   ],
+   [
+    "garden bugs",
+    2
+   ],
+   [
+    "team ball sports",
+    1
+   ],
+   [
+    "ball sports",
+    1
+   ],
+   [
+    "national sports",
+    2
+   ]
+  ],
+  "clash": []
+ },
+ "stink bug": {
+  "also": [
+   [
+    "insects and bugs",
+    2
+   ],
+   [
+    "smelly things",
+    2
+   ]
+  ],
+  "clash": []
+ },
+ "boxelder bug": {
+  "also": [
+   [
+    "insects and bugs",
+    3
+   ]
+  ],
+  "clash": []
+ },
+ "booklouse": {
+  "also": [
+   [
+    "insects and bugs",
+    3
+   ]
+  ],
+  "clash": []
+ },
+ "larder beetle": {
+  "also": [
+   [
+    "beetles",
+    3
+   ]
+  ],
+  "clash": []
+ },
+ "powderpost beetle": {
+  "also": [
+   [
+    "beetles",
+    3
+   ]
+  ],
+  "clash": []
+ },
+ "scorpion": {
+  "also": [
+   [
+    "venomous animals",
+    1
+   ],
+   [
+    "desert animals",
+    1
+   ],
+   [
+    "things that sting",
+    1
+   ]
+  ],
+  "clash": [
+   "zodiac signs",
+   "spiders"
+  ]
+ },
+ "slug": {
+  "also": [
+   [
+    "garden pests",
+    1
+   ],
+   [
+    "garden bugs",
+    1
+   ],
+   [
+    "mollusks",
+    2
+   ],
+   [
+    "slippery things",
+    2
+   ]
+  ],
+  "clash": []
+ },
+ "house mouse": {
+  "also": [
+   [
+    "rodents",
+    1
+   ],
+   [
+    "city animals",
+    2
+   ]
+  ],
+  "clash": []
+ },
+ "Norway rat": {
+  "also": [
+   [
+    "rodents",
+    2
+   ],
+   [
+    "city animals",
+    2
+   ]
+  ],
+  "clash": []
+ },
+ "black rat": {
+  "also": [
+   [
+    "rodents",
+    2
+   ]
+  ],
+  "clash": [
+   "black death"
+  ]
+ },
+ "wasp": {
+  "also": [
+   [
+    "bees and wasps",
+    1
+   ],
+   [
+    "things that sting",
+    1
+   ],
+   [
+    "insects and bugs",
+    1
+   ],
+   [
+    "striped animals",
+    2
+   ]
+  ],
+  "clash": []
+ },
+ "hornet": {
+  "also": [
+   [
+    "bees and wasps",
+    1
+   ],
+   [
+    "things that sting",
+    1
+   ],
+   [
+    "insects and bugs",
+    1
+   ]
+  ],
+  "clash": [
+   "nba teams"
+  ]
+ },
+ "house centipede": {
+  "also": [
+   [
+    "insects and bugs",
+    2
+   ]
+  ],
+  "clash": []
+ },
+ "daddy longlegs": {
+  "also": [
+   [
+    "insects and bugs",
+    1
+   ],
+   [
+    "spiders",
+    2
+   ]
+  ],
+  "clash": []
+ },
+ "architect": {
+  "also": [
+   [
+    "jobs",
+    1
+   ],
+   [
+    "arts jobs",
+    2
+   ]
+  ],
+  "clash": []
+ },
+ "builder": {
+  "also": [
+   [
+    "trades",
+    1
+   ],
+   [
+    "jobs",
+    1
+   ],
+   [
+    "construction site",
+    1
+   ]
+  ],
+  "clash": []
+ },
+ "bricklayer": {
+  "also": [
+   [
+    "trades",
+    1
+   ],
+   [
+    "construction site",
+    1
+   ]
+  ],
+  "clash": []
+ },
+ "carpenter": {
+  "also": [
+   [
+    "trades",
+    1
+   ],
+   [
+    "jobs",
+    1
+   ],
+   [
+    "woodworking words",
+    2
+   ],
+   [
+    "medieval jobs",
+    2
+   ]
+  ],
+  "clash": []
+ },
+ "plumber": {
+  "also": [
+   [
+    "trades",
+    1
+   ],
+   [
+    "jobs",
+    1
+   ],
+   [
+    "plumbing words",
+    1
+   ],
+   [
+    "hidden fruits",
+    1
+   ],
+   [
+    "silent b words",
+    1
+   ]
+  ],
+  "clash": []
+ },
+ "electrician": {
+  "also": [
+   [
+    "trades",
+    1
+   ],
+   [
+    "jobs",
+    1
+   ]
+  ],
+  "clash": []
+ },
+ "contractor": {
+  "also": [
+   [
+    "trades",
+    2
+   ]
+  ],
+  "clash": []
+ },
+ "roofer": {
+  "also": [
+   [
+    "trades",
+    1
+   ]
+  ],
+  "clash": []
+ },
+ "plasterer": {
+  "also": [
+   [
+    "trades",
+    2
+   ]
+  ],
+  "clash": []
+ },
+ "glazier": {
+  "also": [
+   [
+    "trades",
+    2
+   ]
+  ],
+  "clash": []
+ },
+ "tiler": {
+  "also": [
+   [
+    "trades",
+    2
+   ]
+  ],
+  "clash": []
+ },
+ "stonemason": {
+  "also": [
+   [
+    "trades",
+    2
+   ],
+   [
+    "medieval jobs",
+    1
+   ]
+  ],
+  "clash": []
+ },
+ "joiner": {
+  "also": [
+   [
+    "trades",
+    2
+   ],
+   [
+    "woodworking words",
+    2
+   ]
+  ],
+  "clash": []
+ },
+ "surveyor": {
+  "also": [
+   [
+    "jobs",
+    2
+   ],
+   [
+    "real estate words",
+    2
+   ]
+  ],
+  "clash": [
+   "map words"
+  ]
+ },
+ "foreman": {
+  "also": [
+   [
+    "construction site",
+    1
+   ],
+   [
+    "workplace words",
+    2
+   ]
+  ],
+  "clash": [
+   "famous boxers"
+  ]
+ },
+ "laborer": {
+  "also": [
+   [
+    "construction site",
+    1
+   ],
+   [
+    "jobs",
+    2
+   ]
+  ],
+  "clash": []
+ },
+ "scaffolder": {
+  "also": [
+   [
+    "construction site",
+    2
+   ],
+   [
+    "trades",
+    3
+   ]
+  ],
+  "clash": []
+ },
+ "scaffolding": {
+  "also": [
+   [
+    "construction site",
+    1
+   ]
+  ],
+  "clash": []
+ },
+ "blueprint": {
+  "also": [
+   [
+    "construction site",
+    2
+   ]
+  ],
+  "clash": [
+   "blue things"
+  ]
+ },
+ "floor plan": {
+  "also": [],
+  "clash": [
+   "kinds of maps"
+  ]
+ },
+ "crane": {
+  "also": [
+   [
+    "construction site",
+    1
+   ],
+   [
+    "construction vehicles",
+    1
+   ],
+   [
+    "wading birds",
+    1
+   ],
+   [
+    "birds",
+    1
+   ],
+   [
+    "ports and harbors",
+    2
+   ],
+   [
+    "___fly",
+    2
+   ]
+  ],
+  "clash": [
+   "paper crafts"
+  ]
+ },
+ "bulldozer": {
+  "also": [
+   [
+    "construction vehicles",
+    1
+   ],
+   [
+    "construction site",
+    1
+   ],
+   [
+    "heavy things",
+    2
+   ]
+  ],
+  "clash": []
+ },
+ "cement mixer": {
+  "also": [
+   [
+    "construction vehicles",
+    1
+   ],
+   [
+    "construction site",
+    1
+   ],
+   [
+    "things that spin",
+    2
+   ]
+  ],
+  "clash": []
+ },
+ "excavator": {
+  "also": [
+   [
+    "construction vehicles",
+    1
+   ],
+   [
+    "construction site",
+    1
+   ]
+  ],
+  "clash": [
+   "dig site"
+  ]
+ },
+ "digger": {
+  "also": [
+   [
+    "construction vehicles",
+    1
+   ],
+   [
+    "construction site",
+    1
+   ]
+  ],
+  "clash": [
+   "australian slang"
+  ]
+ },
+ "hard hat": {
+  "also": [
+   [
+    "construction site",
+    1
+   ],
+   [
+    "hats",
+    1
+   ]
+  ],
+  "clash": [
+   "mining words"
+  ]
+ },
+ "demolition": {
+  "also": [
+   [
+    "construction site",
+    2
+   ]
+  ],
+  "clash": []
+ },
+ "excavation": {
+  "also": [
+   [
+    "archaeology words",
+    1
+   ],
+   [
+    "dig site",
+    2
+   ],
+   [
+    "construction site",
+    2
+   ]
+  ],
+  "clash": []
+ },
+ "structural engineer": {
+  "also": [],
+  "clash": [
+   "engineering fields"
+  ]
+ },
+ "new build": {
+  "also": [
+   [
+    "real estate words",
+    2
+   ]
+  ],
+  "clash": []
+ },
+ "steeplejack": {
+  "also": [
+   [
+    "old-time jobs",
+    3
+   ],
+   [
+    "trades",
+    3
+   ]
+  ],
+  "clash": [
+   "church parts"
+  ]
+ },
+ "brick": {
+  "also": [
+   [
+    "hard materials",
+    1
+   ],
+   [
+    "rough things",
+    1
+   ],
+   [
+    "man-made materials",
+    1
+   ]
+  ],
+  "clash": []
+ },
+ "concrete": {
+  "also": [
+   [
+    "man-made materials",
+    1
+   ],
+   [
+    "hard materials",
+    1
+   ]
+  ],
+  "clash": []
+ },
+ "cement": {
+  "also": [
+   [
+    "man-made materials",
+    2
+   ]
+  ],
+  "clash": []
+ },
+ "wood": {
+  "also": [
+   [
+    "natural materials",
+    1
+   ],
+   [
+    "fuels",
+    2
+   ],
+   [
+    "homophones",
+    1
+   ],
+   [
+    "fire___",
+    2
+   ]
+  ],
+  "clash": [
+   "types of wood"
+  ]
+ },
+ "timber": {
+  "also": [
+   [
+    "natural materials",
+    2
+   ],
+   [
+    "forestry words",
+    1
+   ]
+  ],
+  "clash": [
+   "types of wood"
+  ]
+ },
+ "lumber": {
+  "also": [
+   [
+    "forestry words",
+    1
+   ],
+   [
+    "natural materials",
+    2
+   ]
+  ],
+  "clash": []
+ },
+ "steel": {
+  "also": [
+   [
+    "alloys",
+    1
+   ],
+   [
+    "metals",
+    1
+   ],
+   [
+    "man-made materials",
+    1
+   ],
+   [
+    "hard materials",
+    1
+   ]
+  ],
+  "clash": [
+   "metallic colors",
+   "shades of gray"
+  ]
+ },
+ "glass": {
+  "also": [
+   [
+    "see-through materials",
+    1
+   ],
+   [
+    "man-made materials",
+    1
+   ],
+   [
+    "smooth things",
+    1
+   ],
+   [
+    "hard materials",
+    2
+   ],
+   [
+    "___house",
+    2
+   ]
+  ],
+  "clash": []
+ },
+ "stone": {
+  "also": [
+   [
+    "natural materials",
+    1
+   ],
+   [
+    "hard materials",
+    1
+   ],
+   [
+    "weight units",
+    2
+   ],
+   [
+    "imperial units",
+    2
+   ],
+   [
+    "head___",
+    2
+   ]
+  ],
+  "clash": []
+ },
+ "mortar": {
+  "also": [
+   [
+    "kitchen utensils",
+    2
+   ],
+   [
+    "___board",
+    3
+   ]
+  ],
+  "clash": [
+   "modern weapons",
+   "siege weapons"
+  ]
+ },
+ "plaster": {
+  "also": [
+   [
+    "first aid",
+    1
+   ],
+   [
+    "british english words",
+    2
+   ],
+   [
+    "sculpture words",
+    2
+   ]
+  ],
+  "clash": [
+   "art materials"
+  ]
+ },
+ "plywood": {
+  "also": [
+   [
+    "man-made materials",
+    2
+   ]
+  ],
+  "clash": []
+ },
+ "sand": {
+  "also": [
+   [
+    "natural materials",
+    1
+   ],
+   [
+    "soil words",
+    1
+   ],
+   [
+    "___box",
+    1
+   ]
+  ],
+  "clash": [
+   "desert features"
+  ]
+ },
+ "gravel": {
+  "also": [
+   [
+    "soil words",
+    2
+   ]
+  ],
+  "clash": [
+   "rock types"
+  ]
+ },
+ "asphalt": {
+  "also": [
+   [
+    "parts of a road",
+    1
+   ],
+   [
+    "man-made materials",
+    2
+   ]
+  ],
+  "clash": [
+   "fossil fuels"
+  ]
+ },
+ "tile": {
+  "also": [
+   [
+    "game pieces",
+    2
+   ],
+   [
+    "mahjong words",
+    1
+   ]
+  ],
+  "clash": []
+ },
+ "slate": {
+  "also": [
+   [
+    "rock types",
+    1
+   ],
+   [
+    "building stones",
+    1
+   ],
+   [
+    "shades of gray",
+    2
+   ]
+  ],
+  "clash": [
+   "shades of blue",
+   "classroom items"
+  ]
+ },
+ "marble": {
+  "also": [
+   [
+    "rock types",
+    1
+   ],
+   [
+    "building stones",
+    1
+   ],
+   [
+    "smooth things",
+    1
+   ],
+   [
+    "things that roll",
+    1
+   ],
+   [
+    "toys",
+    1
+   ],
+   [
+    "things made of glass",
+    1
+   ],
+   [
+    "hard materials",
+    1
+   ]
+  ],
+  "clash": [
+   "classic games"
+  ]
+ },
+ "granite": {
+  "also": [
+   [
+    "rock types",
+    1
+   ],
+   [
+    "igneous rocks",
+    1
+   ],
+   [
+    "building stones",
+    1
+   ],
+   [
+    "hard materials",
+    1
+   ]
+  ],
+  "clash": []
+ },
+ "limestone": {
+  "also": [
+   [
+    "rock types",
+    1
+   ],
+   [
+    "sedimentary rocks",
+    1
+   ],
+   [
+    "building stones",
+    1
+   ]
+  ],
+  "clash": [
+   "cave features"
+  ]
+ },
+ "sandstone": {
+  "also": [
+   [
+    "rock types",
+    1
+   ],
+   [
+    "sedimentary rocks",
+    1
+   ],
+   [
+    "building stones",
+    1
+   ]
+  ],
+  "clash": []
+ },
+ "adobe": {
+  "also": [
+   [
+    "traditional dwellings",
+    2
+   ],
+   [
+    "natural materials",
+    2
+   ],
+   [
+    "words from spanish",
+    2
+   ],
+   [
+    "tech companies",
+    2
+   ],
+   [
+    "houses and homes",
+    2
+   ]
+  ],
+  "clash": []
+ },
+ "clay": {
+  "also": [
+   [
+    "natural materials",
+    1
+   ],
+   [
+    "soil words",
+    1
+   ],
+   [
+    "pottery words",
+    1
+   ],
+   [
+    "art materials",
+    1
+   ],
+   [
+    "sculpture words",
+    1
+   ],
+   [
+    "boys' names",
+    3
+   ]
+  ],
+  "clash": []
+ },
+ "thatch": {
+  "also": [
+   [
+    "natural materials",
+    2
+   ],
+   [
+    "english cottage",
+    1
+   ],
+   [
+    "roof styles",
+    2
+   ]
+  ],
+  "clash": [
+   "hairstyles"
+  ]
+ },
+ "bamboo": {
+  "also": [
+   [
+    "grasses and reeds",
+    1
+   ],
+   [
+    "natural materials",
+    1
+   ],
+   [
+    "materials from asia",
+    1
+   ],
+   [
+    "fiber plants",
+    2
+   ]
+  ],
+  "clash": [
+   "asian trees"
+  ]
+ },
+ "copper": {
+  "also": [
+   [
+    "metals",
+    1
+   ],
+   [
+    "chemical elements",
+    1
+   ],
+   [
+    "metallic colors",
+    1
+   ],
+   [
+    "police words",
+    2
+   ],
+   [
+    "british slang",
+    2
+   ]
+  ],
+  "clash": [
+   "shades of orange",
+   "coins"
+  ]
+ },
+ "vinyl": {
+  "also": [
+   [
+    "plastics",
+    1
+   ],
+   [
+    "man-made materials",
+    1
+   ]
+  ],
+  "clash": [
+   "retro tech"
+  ]
+ },
+ "fiberglass": {
+  "also": [
+   [
+    "man-made materials",
+    2
+   ]
+  ],
+  "clash": [
+   "plastics"
+  ]
+ },
+ "insulation": {
+  "also": [
+   [
+    "heat science",
+    2
+   ]
+  ],
+  "clash": [
+   "electricity words"
+  ]
+ },
+ "particleboard": {
+  "also": [
+   [
+    "man-made materials",
+    3
+   ]
+  ],
+  "clash": []
+ },
+ "chipboard": {
+  "also": [
+   [
+    "man-made materials",
+    3
+   ]
+  ],
+  "clash": []
+ },
+ "hardboard": {
+  "also": [
+   [
+    "man-made materials",
+    3
+   ]
+  ],
+  "clash": []
+ },
+ "stucco": {
+  "also": [
+   [
+    "words from italian",
+    2
+   ]
+  ],
+  "clash": []
+ },
+ "cob": {
+  "also": [
+   [
+    "male animals",
+    2
+   ],
+   [
+    "breads",
+    3
+   ]
+  ],
+  "clash": [
+   "horse breeds"
+  ]
+ },
+ "terracotta": {
+  "also": [
+   [
+    "shades of orange",
+    2
+   ],
+   [
+    "words from italian",
+    2
+   ],
+   [
+    "pottery words",
+    2
+   ],
+   [
+    "double letters",
+    2
+   ]
+  ],
+  "clash": [
+   "shades of red",
+   "ancient china"
+  ]
+ },
+ "tarmac": {
+  "also": [
+   [
+    "parts of a road",
+    2
+   ],
+   [
+    "airport words",
+    2
+   ],
+   [
+    "brand names used as words",
+    2
+   ],
+   [
+    "words named after people",
+    3
+   ]
+  ],
+  "clash": []
+ },
+ "bitumen": {
+  "also": [
+   [
+    "parts of a road",
+    3
+   ]
+  ],
+  "clash": [
+   "fossil fuels"
+  ]
+ },
+ "shingle": {
+  "also": [
+   [
+    "coastal features",
+    2
+   ]
+  ],
+  "clash": [
+   "hairstyles",
+   "common illnesses"
+  ]
+ },
+ "asbestos": {
+  "also": [
+   [
+    "minerals",
+    3
+   ]
+  ],
+  "clash": [
+   "pollution words"
+  ]
+ },
+ "gypsum": {
+  "also": [
+   [
+    "minerals",
+    2
+   ]
+  ],
+  "clash": []
+ },
+ "lime": {
+  "also": [
+   [
+    "citrus fruits",
+    1
+   ],
+   [
+    "fruits",
+    1
+   ],
+   [
+    "green things",
+    1
+   ],
+   [
+    "shades of green",
+    1
+   ],
+   [
+    "deciduous trees",
+    3
+   ],
+   [
+    "___light",
+    2
+   ]
+  ],
+  "clash": []
+ },
+ "aggregate": {
+  "also": [],
+  "clash": [
+   "statistics words"
+  ]
+ },
+ "flagstone": {
+  "also": [
+   [
+    "building stones",
+    2
+   ]
+  ],
+  "clash": [
+   "garden features"
+  ]
+ },
+ "cobblestone": {
+  "also": [
+   [
+    "parts of a road",
+    2
+   ],
+   [
+    "building stones",
+    2
+   ]
+  ],
+  "clash": []
+ },
+ "corrugated iron": {
+  "also": [
+   [
+    "things that rust",
+    2
+   ]
+  ],
+  "clash": []
+ },
+ "laminate": {
+  "also": [
+   [
+    "man-made materials",
+    3
+   ]
+  ],
+  "clash": []
+ },
+ "linoleum": {
+  "also": [
+   [
+    "man-made materials",
+    3
+   ],
+   [
+    "brand names used as words",
+    3
+   ]
+  ],
+  "clash": []
+ },
+ "quartz": {
+  "also": [
+   [
+    "minerals",
+    1
+   ],
+   [
+    "gemstones",
+    2
+   ]
+  ],
+  "clash": [
+   "clock types"
+  ]
+ },
+ "travertine": {
+  "also": [
+   [
+    "building stones",
+    2
+   ],
+   [
+    "sedimentary rocks",
+    3
+   ],
+   [
+    "rock types",
+    3
+   ]
+  ],
+  "clash": []
+ },
+ "ceramic": {
+  "also": [
+   [
+    "man-made materials",
+    1
+   ],
+   [
+    "pottery words",
+    1
+   ],
+   [
+    "hard materials",
+    2
+   ]
+  ],
+  "clash": []
+ },
+ "porcelain": {
+  "also": [
+   [
+    "pottery words",
+    1
+   ],
+   [
+    "man-made materials",
+    2
+   ],
+   [
+    "chinese inventions",
+    2
+   ]
+  ],
+  "clash": []
+ },
+ "reinforced concrete": {
+  "also": [
+   [
+    "man-made materials",
+    2
+   ]
+  ],
+  "clash": []
+ },
+ "mudbrick": {
+  "also": [],
+  "clash": [
+   "traditional dwellings"
+  ]
+ },
+ "firebrick": {
+  "also": [
+   [
+    "fireplace words",
+    3
+   ]
+  ],
+  "clash": []
+ },
+ "hempcrete": {
+  "also": [
+   [
+    "portmanteau words",
+    3
+   ]
+  ],
+  "clash": []
+ },
+ "glulam": {
+  "also": [
+   [
+    "portmanteau words",
+    3
+   ]
+  ],
+  "clash": []
+ },
+ "polystyrene": {
+  "also": [
+   [
+    "plastics",
+    1
+   ],
+   [
+    "man-made materials",
+    1
+   ]
+  ],
+  "clash": []
+ },
+ "wattle and daub": {
+  "also": [],
+  "clash": [
+   "medieval times",
+   "australian trees"
+  ]
+ },
+ "grout": {
+  "also": [
+   [
+    "painting and decorating",
+    2
+   ]
+  ],
+  "clash": []
+ },
+ "MDF": {
+  "also": [
+   [
+    "man-made materials",
+    3
+   ]
+  ],
+  "clash": []
+ },
+ "cellar": {
+  "also": [
+   [
+    "homophones",
+    2
+   ]
+  ],
+  "clash": []
+ },
+ "porch": {
+  "also": [
+   [
+    "architectural features",
+    2
+   ]
+  ],
+  "clash": []
+ },
+ "patio": {
+  "also": [
+   [
+    "words from spanish",
+    1
+   ]
+  ],
+  "clash": [
+   "architectural features"
+  ]
+ },
+ "deck": {
+  "also": [
+   [
+    "ship parts",
+    1
+   ],
+   [
+    "card game words",
+    2
+   ]
+  ],
+  "clash": []
+ },
+ "balcony": {
+  "also": [
+   [
+    "architectural features",
+    2
+   ],
+   [
+    "theater building parts",
+    2
+   ],
+   [
+    "words from italian",
+    3
+   ]
+  ],
+  "clash": []
+ },
+ "veranda": {
+  "also": [
+   [
+    "architectural features",
+    2
+   ],
+   [
+    "words from hindi",
+    2
+   ]
+  ],
+  "clash": []
+ },
+ "terrace": {
+  "also": [
+   [
+    "architectural features",
+    2
+   ]
+  ],
+  "clash": []
+ },
+ "loft": {
+  "also": [],
+  "clash": [
+   "farm buildings"
+  ]
+ },
+ "den": {
+  "also": [
+   [
+    "animal homes",
+    1
+   ]
+  ],
+  "clash": []
+ },
+ "closet": {
+  "also": [
+   [
+    "storage furniture",
+    2
+   ]
+  ],
+  "clash": [
+   "wardrobe"
+  ]
+ },
+ "wall": {
+  "also": [
+   [
+    "castle parts",
+    2
+   ],
+   [
+    "fire___",
+    2
+   ]
+  ],
+  "clash": []
+ },
+ "floor": {
+  "also": [
+   [
+    "gymnastics apparatus",
+    2
+   ],
+   [
+    "___board",
+    2
+   ]
+  ],
+  "clash": []
+ },
+ "ceiling": {
+  "also": [
+   [
+    "homophones",
+    2
+   ]
+  ],
+  "clash": []
+ },
+ "fireplace": {
+  "also": [
+   [
+    "fireplace words",
+    1
+   ],
+   [
+    "heating and cooling",
+    1
+   ],
+   [
+    "living room",
+    1
+   ],
+   [
+    "cozy things",
+    2
+   ]
+  ],
+  "clash": []
+ },
+ "foundation": {
+  "also": [
+   [
+    "makeup",
+    1
+   ]
+  ],
+  "clash": [
+   "charity words"
+  ]
+ },
+ "yard": {
+  "also": [
+   [
+    "length units",
+    1
+   ],
+   [
+    "imperial units",
+    1
+   ],
+   [
+    "back___",
+    1
+   ]
+  ],
+  "clash": []
+ },
+ "lounge": {
+  "also": [],
+  "clash": [
+   "airport words",
+   "living room"
+  ]
+ },
+ "conservatory": {
+  "also": [],
+  "clash": [
+   "school types"
+  ]
+ },
+ "nursery": {
+  "also": [
+   [
+    "school types",
+    2
+   ]
+  ],
+  "clash": [
+   "garden",
+   "baby gear"
+  ]
+ },
+ "foyer": {
+  "also": [
+   [
+    "theater building parts",
+    2
+   ],
+   [
+    "hotel",
+    2
+   ],
+   [
+    "words from french",
+    2
+   ]
+  ],
+  "clash": []
+ },
+ "corridor": {
+  "also": [
+   [
+    "words from italian",
+    3
+   ]
+  ],
+  "clash": []
+ },
+ "hearth": {
+  "also": [
+   [
+    "fireplace words",
+    1
+   ],
+   [
+    "cozy things",
+    2
+   ]
+  ],
+  "clash": []
+ },
+ "mantelpiece": {
+  "also": [
+   [
+    "fireplace words",
+    1
+   ],
+   [
+    "living room",
+    2
+   ]
+  ],
+  "clash": []
+ },
+ "alcove": {
+  "also": [
+   [
+    "architectural features",
+    2
+   ]
+  ],
+  "clash": []
+ },
+ "guest room": {
+  "also": [],
+  "clash": [
+   "room types"
+  ]
+ },
+ "master bedroom": {
+  "also": [],
+  "clash": [
+   "room types"
+  ]
+ },
+ "ensuite": {
+  "also": [
+   [
+    "room types",
+    2
+   ]
+  ],
+  "clash": []
+ },
+ "larder": {
+  "also": [
+   [
+    "british english words",
+    3
+   ]
+  ],
+  "clash": [
+   "in the pantry"
+  ]
+ },
+ "wine cellar": {
+  "also": [
+   [
+    "wine words",
+    2
+   ]
+  ],
+  "clash": []
+ },
+ "courtyard": {
+  "also": [
+   [
+    "architectural features",
+    2
+   ],
+   [
+    "castle parts",
+    2
+   ]
+  ],
+  "clash": [
+   "middle eastern buildings"
+  ]
+ },
+ "atrium": {
+  "also": [
+   [
+    "architectural features",
+    2
+   ]
+  ],
+  "clash": [
+   "organs"
+  ]
+ },
+ "walk-in closet": {
+  "also": [],
+  "clash": [
+   "wardrobe"
+  ]
+ },
+ "tread": {
+  "also": [],
+  "clash": [
+   "car parts"
+  ]
+ },
+ "landing": {
+  "also": [],
+  "clash": [
+   "airport words",
+   "spaceflight words"
+  ]
+ },
+ "spindle": {
+  "also": [],
+  "clash": [
+   "things that spin",
+   "fairy tales"
+  ]
+ },
+ "balustrade": {
+  "also": [
+   [
+    "architectural features",
+    2
+   ]
+  ],
+  "clash": []
+ },
+ "step": {
+  "also": [
+   [
+    "foot___",
+    2
+   ],
+   [
+    "reversible words",
+    2
+   ]
+  ],
+  "clash": [
+   "dance moves",
+   "workout types"
+  ]
+ },
+ "volute": {
+  "also": [],
+  "clash": [
+   "architectural features",
+   "seashells"
+  ]
+ },
+ "finial": {
+  "also": [
+   [
+    "architectural features",
+    3
+   ]
+  ],
+  "clash": [
+   "window coverings",
+   "church parts"
+  ]
+ },
+ "stair runner": {
+  "also": [
+   [
+    "rugs and carpets",
+    2
+   ]
+  ],
+  "clash": []
+ },
+ "stair carpet": {
+  "also": [
+   [
+    "rugs and carpets",
+    2
+   ]
+  ],
+  "clash": []
+ },
+ "gutter": {
+  "also": [
+   [
+    "bowling terms",
+    1
+   ],
+   [
+    "parts of a road",
+    2
+   ]
+  ],
+  "clash": []
+ },
+ "chimney": {
+  "also": [
+   [
+    "fireplace words",
+    1
+   ]
+  ],
+  "clash": [
+   "christmas"
+  ]
+ },
+ "ridge": {
+  "also": [
+   [
+    "mountain features",
+    1
+   ]
+  ],
+  "clash": []
+ },
+ "gable": {
+  "also": [
+   [
+    "roof styles",
+    1
+   ],
+   [
+    "architectural features",
+    2
+   ]
+  ],
+  "clash": []
+ },
+ "rafter": {
+  "also": [
+   [
+    "collective nouns",
+    3
+   ]
+  ],
+  "clash": []
+ },
+ "truss": {
+  "also": [],
+  "clash": [
+   "bridge types"
+  ]
+ },
+ "valley": {
+  "also": [
+   [
+    "mountain features",
+    1
+   ],
+   [
+    "landscapes",
+    1
+   ]
+  ],
+  "clash": [
+   "river features"
+  ]
+ },
+ "hip": {
+  "also": [
+   [
+    "body parts",
+    1
+   ],
+   [
+    "joints",
+    1
+   ],
+   [
+    "roof styles",
+    2
+   ]
+  ],
+  "clash": [
+   "hip hop words"
+  ]
+ },
+ "dormer": {
+  "also": [
+   [
+    "window styles",
+    2
+   ]
+  ],
+  "clash": [
+   "roof styles"
+  ]
+ },
+ "downspout": {
+  "also": [],
+  "clash": [
+   "plumbing words"
+  ]
+ },
+ "downpipe": {
+  "also": [],
+  "clash": [
+   "plumbing words"
+  ]
+ },
+ "fascia": {
+  "also": [],
+  "clash": [
+   "muscles"
+  ]
+ },
+ "verge": {
+  "also": [
+   [
+    "parts of a road",
+    2
+   ]
+  ],
+  "clash": []
+ },
+ "parapet": {
+  "also": [
+   [
+    "castle parts",
+    2
+   ],
+   [
+    "architectural features",
+    2
+   ]
+  ],
+  "clash": []
+ },
+ "cornice": {
+  "also": [
+   [
+    "architectural features",
+    2
+   ]
+  ],
+  "clash": []
+ },
+ "weathervane": {
+  "also": [
+   [
+    "weather instruments",
+    1
+   ],
+   [
+    "things that spin",
+    2
+   ]
+  ],
+  "clash": []
+ },
+ "cupola": {
+  "also": [
+   [
+    "architectural features",
+    2
+   ],
+   [
+    "church parts",
+    2
+   ],
+   [
+    "words from italian",
+    2
+   ]
+  ],
+  "clash": [
+   "mosque parts"
+  ]
+ },
+ "turret": {
+  "also": [
+   [
+    "castle parts",
+    1
+   ],
+   [
+    "architectural features",
+    2
+   ]
+  ],
+  "clash": [
+   "military vehicles"
+  ]
+ },
+ "spire": {
+  "also": [
+   [
+    "church parts",
+    1
+   ],
+   [
+    "architectural features",
+    2
+   ]
+  ],
+  "clash": []
+ },
+ "chimney pot": {
+  "also": [],
+  "clash": [
+   "fireplace words"
+  ]
+ },
+ "chimney stack": {
+  "also": [],
+  "clash": [
+   "fireplace words"
+  ]
+ },
+ "eavestrough": {
+  "also": [],
+  "clash": [
+   "canadian slang"
+  ]
+ },
+ "window": {
+  "also": [
+   [
+    "things made of glass",
+    1
+   ],
+   [
+    "software words",
+    2
+   ],
+   [
+    "___box",
+    3
+   ]
+  ],
+  "clash": []
+ },
+ "door": {
+  "also": [
+   [
+    "back___",
+    2
+   ]
+  ],
+  "clash": []
+ },
+ "windowpane": {
+  "also": [
+   [
+    "things made of glass",
+    2
+   ]
+  ],
+  "clash": []
+ },
+ "pane": {
+  "also": [
+   [
+    "homophones",
+    1
+   ]
+  ],
+  "clash": [
+   "things made of glass"
+  ]
+ },
+ "shutter": {
+  "also": [
+   [
+    "window coverings",
+    1
+   ],
+   [
+    "camera parts",
+    1
+   ]
+  ],
+  "clash": []
+ },
+ "blind": {
+  "also": [
+   [
+    "window coverings",
+    1
+   ],
+   [
+    "sight words",
+    2
+   ],
+   [
+    "poker terms",
+    2
+   ]
+  ],
+  "clash": []
+ },
+ "casement": {
+  "also": [
+   [
+    "window styles",
+    1
+   ]
+  ],
+  "clash": []
+ },
+ "bay window": {
+  "also": [
+   [
+    "window styles",
+    1
+   ]
+  ],
+  "clash": []
+ },
+ "bow window": {
+  "also": [
+   [
+    "window styles",
+    2
+   ]
+  ],
+  "clash": []
+ },
+ "skylight": {
+  "also": [
+   [
+    "window styles",
+    1
+   ]
+  ],
+  "clash": []
+ },
+ "revolving door": {
+  "also": [
+   [
+    "things that spin",
+    2
+   ]
+  ],
+  "clash": []
+ },
+ "trapdoor": {
+  "also": [
+   [
+    "parts of a stage",
+    2
+   ]
+  ],
+  "clash": [
+   "magic show words"
+  ]
+ },
+ "garage door": {
+  "also": [],
+  "clash": [
+   "garage"
+  ]
+ },
+ "back door": {
+  "also": [],
+  "clash": [
+   "cybersecurity words"
+  ]
+ },
+ "barn door": {
+  "also": [],
+  "clash": [
+   "farm buildings"
+  ]
+ },
+ "saloon doors": {
+  "also": [
+   [
+    "wild west",
+    1
+   ],
+   [
+    "cowboy words",
+    2
+   ]
+  ],
+  "clash": []
+ },
+ "bifold door": {
+  "also": [
+   [
+    "things that fold",
+    2
+   ]
+  ],
+  "clash": []
+ },
+ "cat flap": {
+  "also": [
+   [
+    "pet supplies",
+    2
+   ],
+   [
+    "british english words",
+    3
+   ]
+  ],
+  "clash": []
+ },
+ "doggy door": {
+  "also": [
+   [
+    "pet supplies",
+    2
+   ]
+  ],
+  "clash": []
+ },
+ "porthole": {
+  "also": [
+   [
+    "ship parts",
+    1
+   ]
+  ],
+  "clash": []
+ },
+ "transom": {
+  "also": [
+   [
+    "window styles",
+    3
+   ],
+   [
+    "ship parts",
+    3
+   ]
+  ],
+  "clash": []
+ },
+ "fanlight": {
+  "also": [
+   [
+    "window styles",
+    2
+   ]
+  ],
+  "clash": []
+ },
+ "mullion": {
+  "also": [
+   [
+    "architectural features",
+    3
+   ]
+  ],
+  "clash": []
+ },
+ "glazing": {
+  "also": [],
+  "clash": [
+   "pottery words"
+  ]
+ },
+ "stained glass": {
+  "also": [
+   [
+    "church parts",
+    1
+   ],
+   [
+    "things made of glass",
+    1
+   ]
+  ],
+  "clash": []
+ },
+ "rose window": {
+  "also": [
+   [
+    "window styles",
+    1
+   ],
+   [
+    "church parts",
+    1
+   ]
+  ],
+  "clash": []
+ },
+ "picture window": {
+  "also": [
+   [
+    "window styles",
+    2
+   ]
+  ],
+  "clash": []
+ },
+ "oriel": {
+  "also": [
+   [
+    "window styles",
+    2
+   ],
+   [
+    "architectural features",
+    3
+   ]
+  ],
+  "clash": []
+ },
+ "clerestory": {
+  "also": [
+   [
+    "window styles",
+    2
+   ],
+   [
+    "church parts",
+    2
+   ]
+  ],
+  "clash": []
+ },
+ "lancet window": {
+  "also": [
+   [
+    "window styles",
+    2
+   ],
+   [
+    "church parts",
+    2
+   ]
+  ],
+  "clash": []
+ },
+ "sash window": {
+  "also": [
+   [
+    "window styles",
+    1
+   ]
+  ],
+  "clash": []
+ },
+ "casement window": {
+  "also": [
+   [
+    "window styles",
+    1
+   ]
+  ],
+  "clash": []
+ },
+ "awning window": {
+  "also": [
+   [
+    "window styles",
+    2
+   ]
+  ],
+  "clash": []
+ },
+ "jalousie": {
+  "also": [
+   [
+    "window styles",
+    3
+   ]
+  ],
+  "clash": [
+   "window coverings"
+  ]
+ },
+ "storm window": {
+  "also": [
+   [
+    "window styles",
+    2
+   ]
+  ],
+  "clash": []
+ },
+ "window box": {
+  "also": [
+   [
+    "garden features",
+    2
+   ]
+  ],
+  "clash": []
+ },
+ "window seat": {
+  "also": [
+   [
+    "seating",
+    2
+   ]
+  ],
+  "clash": [
+   "in-flight words"
+  ]
+ },
+ "lintel": {
+  "also": [
+   [
+    "architectural features",
+    2
+   ]
+  ],
+  "clash": []
+ },
+ "louver": {
+  "also": [],
+  "clash": [
+   "famous museums"
+  ]
+ },
+ "archway": {
+  "also": [
+   [
+    "architectural features",
+    1
+   ]
+  ],
+  "clash": []
+ },
+ "knob": {
+  "also": [
+   [
+    "silent k words",
+    1
+   ],
+   [
+    "homophones",
+    3
+   ]
+  ],
+  "clash": []
+ },
+ "handle": {
+  "also": [
+   [
+    "social media words",
+    2
+   ]
+  ],
+  "clash": []
+ },
+ "lock": {
+  "also": [
+   [
+    "things with keys",
+    1
+   ],
+   [
+    "rugby terms",
+    2
+   ],
+   [
+    "homophones",
+    2
+   ]
+  ],
+  "clash": [
+   "famous canals"
+  ]
+ },
+ "jamb": {
+  "also": [
+   [
+    "homophones",
+    2
+   ]
+  ],
+  "clash": []
+ },
+ "knocker": {
+  "also": [
+   [
+    "silent k words",
+    1
+   ]
+  ],
+  "clash": []
+ },
+ "spyhole": {
+  "also": [],
+  "clash": [
+   "spy words"
+  ]
+ },
+ "letterbox": {
+  "also": [
+   [
+    "mail words",
+    1
+   ],
+   [
+    "british english words",
+    2
+   ]
+  ],
+  "clash": []
+ },
+ "mail slot": {
+  "also": [
+   [
+    "mail words",
+    1
+   ]
+  ],
+  "clash": []
+ },
+ "doorbell": {
+  "also": [
+   [
+    "things with buttons",
+    2
+   ],
+   [
+    "smart home",
+    2
+   ],
+   [
+    "double letters",
+    2
+   ]
+  ],
+  "clash": []
+ },
+ "escutcheon": {
+  "also": [
+   [
+    "heraldry",
+    3
+   ]
+  ],
+  "clash": []
+ },
+ "stile": {
+  "also": [
+   [
+    "homophones",
+    2
+   ]
+  ],
+  "clash": [
+   "farm"
+  ]
+ },
+ "rail": {
+  "also": [
+   [
+    "railway words",
+    2
+   ],
+   [
+    "hand___",
+    2
+   ],
+   [
+    "reversible words",
+    2
+   ]
+  ],
+  "clash": []
+ },
+ "bolt": {
+  "also": [
+   [
+    "fixings",
+    1
+   ],
+   [
+    "olympic legends",
+    2
+   ]
+  ],
+  "clash": [
+   "storms",
+   "fabrics"
+  ]
+ },
+ "lever handle": {
+  "also": [],
+  "clash": [
+   "simple machines"
+  ]
+ },
+ "architrave": {
+  "also": [
+   [
+    "architectural features",
+    2
+   ]
+  ],
+  "clash": []
+ },
+ "cylinder": {
+  "also": [
+   [
+    "3d shapes",
+    1
+   ]
+  ],
+  "clash": [
+   "car parts",
+   "engines"
+  ]
+ },
+ "paint": {
+  "also": [
+   [
+    "art materials",
+    1
+   ],
+   [
+    "painting and decorating",
+    1
+   ]
+  ],
+  "clash": []
+ },
+ "primer": {
+  "also": [
+   [
+    "painting and decorating",
+    1
+   ],
+   [
+    "makeup",
+    2
+   ]
+  ],
+  "clash": []
+ },
+ "undercoat": {
+  "also": [
+   [
+    "painting and decorating",
+    2
+   ]
+  ],
+  "clash": []
+ },
+ "varnish": {
+  "also": [
+   [
+    "painting and decorating",
+    2
+   ],
+   [
+    "woodworking words",
+    2
+   ]
+  ],
+  "clash": [
+   "nail care"
+  ]
+ },
+ "sandpaper": {
+  "also": [
+   [
+    "woodworking words",
+    1
+   ],
+   [
+    "rough things",
+    1
+   ],
+   [
+    "painting and decorating",
+    2
+   ]
+  ],
+  "clash": []
+ },
+ "sanding": {
+  "also": [
+   [
+    "woodworking words",
+    2
+   ]
+  ],
+  "clash": []
+ },
+ "wood filler": {
+  "also": [
+   [
+    "painting and decorating",
+    3
+   ]
+  ],
+  "clash": []
+ },
+ "spackle": {
+  "also": [
+   [
+    "painting and decorating",
+    2
+   ]
+  ],
+  "clash": []
+ },
+ "putty": {
+  "also": [
+   [
+    "painting and decorating",
+    2
+   ]
+  ],
+  "clash": [
+   "toys"
+  ]
+ },
+ "wallpaper": {
+  "also": [
+   [
+    "painting and decorating",
+    1
+   ],
+   [
+    "double letters",
+    2
+   ]
+  ],
+  "clash": [
+   "phone features"
+  ]
+ },
+ "wallpapering": {
+  "also": [
+   [
+    "painting and decorating",
+    1
+   ]
+  ],
+  "clash": []
+ },
+ "stencil": {
+  "also": [
+   [
+    "art materials",
+    2
+   ],
+   [
+    "painting and decorating",
+    2
+   ]
+  ],
+  "clash": [
+   "drawing techniques"
+  ]
+ },
+ "wood stain": {
+  "also": [
+   [
+    "painting and decorating",
+    2
+   ],
+   [
+    "woodworking words",
+    2
+   ]
+  ],
+  "clash": []
+ },
+ "dust sheet": {
+  "also": [
+   [
+    "painting and decorating",
+    2
+   ]
+  ],
+  "clash": []
+ },
+ "drop cloth": {
+  "also": [
+   [
+    "painting and decorating",
+    2
+   ]
+  ],
+  "clash": []
+ },
+ "paint roller": {
+  "also": [
+   [
+    "painting and decorating",
+    1
+   ]
+  ],
+  "clash": []
+ },
+ "roller tray": {
+  "also": [
+   [
+    "painting and decorating",
+    1
+   ]
+  ],
+  "clash": []
+ },
+ "paintbrush": {
+  "also": [
+   [
+    "painting and decorating",
+    1
+   ],
+   [
+    "art materials",
+    1
+   ]
+  ],
+  "clash": []
+ },
+ "stepladder": {
+  "also": [
+   [
+    "painting and decorating",
+    2
+   ],
+   [
+    "garage",
+    2
+   ]
+  ],
+  "clash": []
+ },
+ "toolbox": {
+  "also": [
+   [
+    "garage",
+    1
+   ]
+  ],
+  "clash": []
+ },
+ "workbench": {
+  "also": [
+   [
+    "woodworking words",
+    1
+   ],
+   [
+    "garage",
+    1
+   ]
+  ],
+  "clash": []
+ },
+ "workshop": {
+  "also": [
+   [
+    "woodworking words",
+    2
+   ]
+  ],
+  "clash": []
+ },
+ "stud finder": {
+  "also": [],
+  "clash": [
+   "measuring tools",
+   "hand tools"
+  ]
+ },
+ "spirit level": {
+  "also": [
+   [
+    "measuring tools",
+    1
+   ],
+   [
+    "hand tools",
+    2
+   ]
+  ],
+  "clash": []
+ },
+ "wall plug": {
+  "also": [
+   [
+    "fixings",
+    2
+   ]
+  ],
+  "clash": [
+   "electrical fittings"
+  ]
+ },
+ "drill bit": {
+  "also": [
+   [
+    "power tools",
+    2
+   ]
+  ],
+  "clash": []
+ },
+ "pilot hole": {
+  "also": [
+   [
+    "woodworking words",
+    3
+   ]
+  ],
+  "clash": []
+ },
+ "countersink": {
+  "also": [
+   [
+    "woodworking words",
+    3
+   ]
+  ],
+  "clash": []
+ },
+ "upcycle": {
+  "also": [
+   [
+    "recycling words",
+    1
+   ],
+   [
+    "green living words",
+    1
+   ]
+  ],
+  "clash": []
+ },
+ "handyman": {
+  "also": [
+   [
+    "trades",
+    1
+   ],
+   [
+    "jobs",
+    1
+   ]
+  ],
+  "clash": []
+ },
+ "tradesman": {
+  "also": [
+   [
+    "jobs",
+    2
+   ]
+  ],
+  "clash": [
+   "trades"
+  ]
+ },
+ "bodge": {
+  "also": [
+   [
+    "british slang",
+    2
+   ]
+  ],
+  "clash": []
+ },
+ "decorate": {
+  "also": [
+   [
+    "painting and decorating",
+    1
+   ]
+  ],
+  "clash": [
+   "christmas"
+  ]
+ },
+ "shelving": {
+  "also": [
+   [
+    "storage furniture",
+    2
+   ]
+  ],
+  "clash": []
+ },
+ "bracket": {
+  "also": [
+   [
+    "fixings",
+    2
+   ],
+   [
+    "punctuation",
+    2
+   ]
+  ],
+  "clash": []
+ },
+ "IKEA": {
+  "also": [
+   [
+    "acronyms",
+    3
+   ]
+  ],
+  "clash": []
+ },
+ "Victorian": {
+  "also": [
+   [
+    "architecture styles",
+    1
+   ]
+  ],
+  "clash": [
+   "victorian era"
+  ]
+ },
+ "Georgian": {
+  "also": [
+   [
+    "architecture styles",
+    1
+   ]
+  ],
+  "clash": [
+   "nationalities",
+   "european languages"
+  ]
+ },
+ "Tudor": {
+  "also": [
+   [
+    "architecture styles",
+    1
+   ],
+   [
+    "royal houses",
+    1
+   ]
+  ],
+  "clash": [
+   "english monarchs"
+  ]
+ },
+ "Colonial": {
+  "also": [
+   [
+    "architecture styles",
+    1
+   ]
+  ],
+  "clash": [
+   "colonial america"
+  ]
+ },
+ "ranch": {
+  "also": [
+   [
+    "cowboy words",
+    1
+   ],
+   [
+    "houses and homes",
+    2
+   ]
+  ],
+  "clash": []
+ },
+ "bungalow": {
+  "also": [
+   [
+    "houses and homes",
+    1
+   ],
+   [
+    "words from hindi",
+    1
+   ]
+  ],
+  "clash": []
+ },
+ "cottage": {
+  "also": [
+   [
+    "houses and homes",
+    1
+   ],
+   [
+    "vacation homes",
+    1
+   ]
+  ],
+  "clash": [
+   "english cottage",
+   "soft cheeses"
+  ]
+ },
+ "Cape Cod": {
+  "also": [
+   [
+    "peninsulas",
+    2
+   ]
+  ],
+  "clash": [
+   "us landmarks"
+  ]
+ },
+ "Craftsman": {
+  "also": [
+   [
+    "architecture styles",
+    2
+   ]
+  ],
+  "clash": []
+ },
+ "Queen Anne": {
+  "also": [
+   [
+    "architecture styles",
+    2
+   ],
+   [
+    "english monarchs",
+    1
+   ],
+   [
+    "famous queens",
+    2
+   ]
+  ],
+  "clash": []
+ },
+ "Federal": {
+  "also": [
+   [
+    "architecture styles",
+    2
+   ]
+  ],
+  "clash": [
+   "government words"
+  ]
+ },
+ "Greek Revival": {
+  "also": [
+   [
+    "architecture styles",
+    1
+   ]
+  ],
+  "clash": []
+ },
+ "Gothic Revival": {
+  "also": [
+   [
+    "architecture styles",
+    1
+   ]
+  ],
+  "clash": []
+ },
+ "Italianate": {
+  "also": [
+   [
+    "architecture styles",
+    2
+   ]
+  ],
+  "clash": []
+ },
+ "Second Empire": {
+  "also": [
+   [
+    "architecture styles",
+    2
+   ]
+  ],
+  "clash": []
+ },
+ "Mediterranean": {
+  "also": [],
+  "clash": [
+   "oceans and seas"
+  ]
+ },
+ "Spanish Colonial": {
+  "also": [
+   [
+    "architecture styles",
+    2
+   ]
+  ],
+  "clash": []
+ },
+ "Mission": {
+  "also": [
+   [
+    "architecture styles",
+    3
+   ]
+  ],
+  "clash": []
+ },
+ "Pueblo": {
+  "also": [
+   [
+    "traditional dwellings",
+    2
+   ]
+  ],
+  "clash": [
+   "architecture styles"
+  ]
+ },
+ "art deco": {
+  "also": [
+   [
+    "architecture styles",
+    1
+   ],
+   [
+    "art movements",
+    1
+   ]
+  ],
+  "clash": []
+ },
+ "modernist": {
+  "also": [
+   [
+    "architecture styles",
+    2
+   ],
+   [
+    "art movements",
+    2
+   ]
+  ],
+  "clash": []
+ },
+ "mid-century modern": {
+  "also": [
+   [
+    "architecture styles",
+    1
+   ]
+  ],
+  "clash": []
+ },
+ "contemporary": {
+  "also": [],
+  "clash": [
+   "architecture styles"
+  ]
+ },
+ "minimalist": {
+  "also": [
+   [
+    "art movements",
+    2
+   ]
+  ],
+  "clash": [
+   "architecture styles"
+  ]
+ },
+ "farmhouse": {
+  "also": [
+   [
+    "houses and homes",
+    1
+   ],
+   [
+    "farm buildings",
+    1
+   ]
+  ],
+  "clash": []
+ },
+ "log cabin": {
+  "also": [
+   [
+    "houses and homes",
+    1
+   ],
+   [
+    "vacation homes",
+    1
+   ]
+  ],
+  "clash": []
+ },
+ "chalet": {
+  "also": [
+   [
+    "houses and homes",
+    1
+   ],
+   [
+    "vacation homes",
+    1
+   ],
+   [
+    "ski resort",
+    2
+   ],
+   [
+    "ski trip",
+    2
+   ]
+  ],
+  "clash": []
+ },
+ "townhouse": {
+  "also": [
+   [
+    "houses and homes",
+    1
+   ]
+  ],
+  "clash": []
+ },
+ "terraced house": {
+  "also": [
+   [
+    "houses and homes",
+    1
+   ]
+  ],
+  "clash": []
+ },
+ "semi-detached": {
+  "also": [
+   [
+    "houses and homes",
+    2
+   ]
+  ],
+  "clash": []
+ },
+ "row house": {
+  "also": [
+   [
+    "houses and homes",
+    1
+   ]
+  ],
+  "clash": []
+ },
+ "brownstone": {
+  "also": [
+   [
+    "houses and homes",
+    2
+   ]
+  ],
+  "clash": []
+ },
+ "duplex": {
+  "also": [
+   [
+    "houses and homes",
+    2
+   ]
+  ],
+  "clash": []
+ },
+ "villa": {
+  "also": [
+   [
+    "houses and homes",
+    1
+   ],
+   [
+    "vacation homes",
+    1
+   ],
+   [
+    "roman life",
+    1
+   ]
+  ],
+  "clash": [
+   "european soccer clubs"
+  ]
+ },
+ "mansion": {
+  "also": [
+   [
+    "houses and homes",
+    1
+   ]
+  ],
+  "clash": []
+ },
+ "manor": {
+  "also": [
+   [
+    "houses and homes",
+    2
+   ]
+  ],
+  "clash": [
+   "medieval times"
+  ]
+ },
+ "McMansion": {
+  "also": [
+   [
+    "portmanteau words",
+    3
+   ]
+  ],
+  "clash": []
+ },
+ "Prairie": {
+  "also": [
+   [
+    "architecture styles",
+    2
+   ]
+  ],
+  "clash": []
+ },
+ "Edwardian": {
+  "also": [
+   [
+    "architecture styles",
+    2
+   ]
+  ],
+  "clash": []
+ },
+ "Regency": {
+  "also": [
+   [
+    "architecture styles",
+    2
+   ]
+  ],
+  "clash": []
+ },
+ "Palladian": {
+  "also": [
+   [
+    "architecture styles",
+    2
+   ]
+  ],
+  "clash": []
+ },
+ "neoclassical": {
+  "also": [
+   [
+    "architecture styles",
+    1
+   ],
+   [
+    "art movements",
+    2
+   ]
+  ],
+  "clash": []
+ },
+ "Beaux-Arts": {
+  "also": [
+   [
+    "architecture styles",
+    2
+   ]
+  ],
+  "clash": [
+   "words from french"
+  ]
+ },
+ "brutalist": {
+  "also": [
+   [
+    "architecture styles",
+    1
+   ]
+  ],
+  "clash": []
+ },
+ "Bauhaus": {
+  "also": [
+   [
+    "architecture styles",
+    1
+   ],
+   [
+    "art movements",
+    1
+   ],
+   [
+    "words from german",
+    2
+   ]
+  ],
+  "clash": []
+ },
+ "Tudor Revival": {
+  "also": [
+   [
+    "architecture styles",
+    2
+   ]
+  ],
+  "clash": []
+ },
+ "Shingle Style": {
+  "also": [
+   [
+    "architecture styles",
+    3
+   ]
+  ],
+  "clash": []
+ },
+ "Stick Style": {
+  "also": [
+   [
+    "architecture styles",
+    3
+   ]
+  ],
+  "clash": []
+ },
+ "Pueblo Revival": {
+  "also": [
+   [
+    "architecture styles",
+    3
+   ]
+  ],
+  "clash": []
+ },
+ "hacienda": {
+  "also": [
+   [
+    "houses and homes",
+    2
+   ],
+   [
+    "words from spanish",
+    2
+   ]
+  ],
+  "clash": []
+ },
+ "château": {
+  "also": [
+   [
+    "houses and homes",
+    2
+   ],
+   [
+    "words from french",
+    2
+   ]
+  ],
+  "clash": [
+   "castles",
+   "wine words"
+  ]
+ },
+ "thatched cottage": {
+  "also": [
+   [
+    "english cottage",
+    1
+   ],
+   [
+    "houses and homes",
+    1
+   ]
+  ],
+  "clash": []
+ },
+ "longhouse": {
+  "also": [
+   [
+    "traditional dwellings",
+    1
+   ],
+   [
+    "vikings",
+    2
+   ]
+  ],
+  "clash": []
+ },
+ "tiny house": {
+  "also": [
+   [
+    "houses and homes",
+    2
+   ]
+  ],
+  "clash": []
+ },
+ "mobile home": {
+  "also": [
+   [
+    "houses and homes",
+    1
+   ],
+   [
+    "rvs and campers",
+    2
+   ]
+  ],
+  "clash": []
+ },
+ "houseboat": {
+  "also": [
+   [
+    "houses and homes",
+    2
+   ],
+   [
+    "boat types",
+    1
+   ]
+  ],
+  "clash": []
+ },
+ "treehouse": {
+  "also": [],
+  "clash": [
+   "playground"
+  ]
+ },
+ "castle": {
+  "also": [
+   [
+    "chess terms",
+    1
+   ]
+  ],
+  "clash": [
+   "castles"
+  ]
+ },
+ "croft": {
+  "also": [
+   [
+    "scottish landscape words",
+    2
+   ]
+  ],
+  "clash": [
+   "farm"
+  ]
+ },
+ "trullo": {
+  "also": [
+   [
+    "traditional dwellings",
+    1
+   ]
+  ],
+  "clash": []
+ },
+ "riad": {
+  "also": [
+   [
+    "traditional dwellings",
+    2
+   ]
+  ],
+  "clash": [
+   "middle eastern buildings"
+  ]
+ },
+ "dacha": {
+  "also": [
+   [
+    "vacation homes",
+    2
+   ]
+  ],
+  "clash": []
+ },
+ "palazzo": {
+  "also": [
+   [
+    "words from italian",
+    1
+   ]
+  ],
+  "clash": []
+ },
+ "hanok": {
+  "also": [
+   [
+    "traditional dwellings",
+    2
+   ],
+   [
+    "east asian buildings",
+    2
+   ]
+  ],
+  "clash": []
+ },
+ "igloo": {
+  "also": [
+   [
+    "traditional dwellings",
+    1
+   ],
+   [
+    "ice words",
+    2
+   ]
+  ],
+  "clash": []
+ },
+ "yurt": {
+  "also": [
+   [
+    "traditional dwellings",
+    1
+   ]
+  ],
+  "clash": []
+ },
+ "cabin": {
+  "also": [
+   [
+    "houses and homes",
+    1
+   ],
+   [
+    "vacation homes",
+    1
+   ],
+   [
+    "hidden vehicles",
+    1
+   ],
+   [
+    "ship parts",
+    2
+   ],
+   [
+    "in-flight words",
+    2
+   ]
+  ],
+  "clash": []
+ },
+ "Arts and Crafts": {
+  "also": [
+   [
+    "architecture styles",
+    1
+   ],
+   [
+    "art movements",
+    1
+   ]
+  ],
+  "clash": [
+   "crafts"
+  ]
+ },
+ "mortgage": {
+  "also": [
+   [
+    "banking words",
+    1
+   ],
+   [
+    "money words",
+    2
+   ]
+  ],
+  "clash": []
+ },
+ "lease": {
+  "also": [
+   [
+    "legal documents",
+    2
+   ]
+  ],
+  "clash": []
+ },
+ "deposit": {
+  "also": [
+   [
+    "banking words",
+    1
+   ],
+   [
+    "money words",
+    2
+   ]
+  ],
+  "clash": []
+ },
+ "rent": {
+  "also": [
+   [
+    "money words",
+    2
+   ]
+  ],
+  "clash": []
+ },
+ "buyer": {
+  "also": [
+   [
+    "shopping words",
+    2
+   ]
+  ],
+  "clash": []
+ },
+ "seller": {
+  "also": [
+   [
+    "shopping words",
+    2
+   ],
+   [
+    "homophones",
+    2
+   ]
+  ],
+  "clash": []
+ },
+ "realtor": {
+  "also": [
+   [
+    "jobs",
+    2
+   ],
+   [
+    "brand names used as words",
+    3
+   ]
+  ],
+  "clash": []
+ },
+ "estate agent": {
+  "also": [
+   [
+    "jobs",
+    2
+   ],
+   [
+    "british english words",
+    2
+   ]
+  ],
+  "clash": []
+ },
+ "broker": {
+  "also": [
+   [
+    "stock market words",
+    1
+   ]
+  ],
+  "clash": []
+ },
+ "escrow": {
+  "also": [
+   [
+    "banking words",
+    3
+   ]
+  ],
+  "clash": []
+ },
+ "down payment": {
+  "also": [
+   [
+    "money words",
+    2
+   ]
+  ],
+  "clash": []
+ },
+ "equity": {
+  "also": [
+   [
+    "stock market words",
+    2
+   ],
+   [
+    "business words",
+    2
+   ]
+  ],
+  "clash": []
+ },
+ "interest rate": {
+  "also": [
+   [
+    "banking words",
+    1
+   ],
+   [
+    "money words",
+    2
+   ]
+  ],
+  "clash": []
+ },
+ "title deed": {
+  "also": [
+   [
+    "legal documents",
+    1
+   ]
+  ],
+  "clash": [
+   "board games"
+  ]
+ },
+ "deed": {
+  "also": [
+   [
+    "legal documents",
+    1
+   ]
+  ],
+  "clash": []
+ },
+ "gazumping": {
+  "also": [
+   [
+    "british slang",
+    3
+   ]
+  ],
+  "clash": []
+ },
+ "foreclosure": {
+  "also": [
+   [
+    "banking words",
+    2
+   ]
+  ],
+  "clash": []
+ },
+ "repossession": {
+  "also": [
+   [
+    "banking words",
+    2
+   ]
+  ],
+  "clash": []
+ },
+ "roommate": {
+  "also": [],
+  "clash": [
+   "words for friend"
+  ]
+ },
+ "refinance": {
+  "also": [
+   [
+    "banking words",
+    2
+   ]
+  ],
+  "clash": []
+ },
+ "remortgage": {
+  "also": [
+   [
+    "banking words",
+    2
+   ]
+  ],
+  "clash": []
+ },
+ "amortization": {
+  "also": [
+   [
+    "banking words",
+    3
+   ]
+  ],
+  "clash": []
+ },
+ "stamp duty": {
+  "also": [
+   [
+    "tax words",
+    1
+   ]
+  ],
+  "clash": []
+ },
+ "property tax": {
+  "also": [
+   [
+    "tax words",
+    1
+   ]
+  ],
+  "clash": []
+ },
+ "condo": {
+  "also": [
+   [
+    "houses and homes",
+    2
+   ]
+  ],
+  "clash": [
+   "vacation homes"
+  ]
+ },
+ "condominium": {
+  "also": [
+   [
+    "houses and homes",
+    2
+   ]
+  ],
+  "clash": []
+ },
+ "commission": {
+  "also": [
+   [
+    "business words",
+    2
+   ]
+  ],
+  "clash": []
+ },
+ "vacancy": {
+  "also": [
+   [
+    "hotel",
+    2
+   ]
+  ],
+  "clash": []
+ },
+ "bridging loan": {
+  "also": [
+   [
+    "banking words",
+    3
+   ]
+  ],
+  "clash": []
+ },
+ "timeshare": {
+  "also": [
+   [
+    "vacation homes",
+    2
+   ]
+  ],
+  "clash": []
+ },
+ "plot": {
+  "also": [],
+  "clash": [
+   "film words"
+  ]
+ },
+ "lot": {
+  "also": [],
+  "clash": [
+   "parking words"
+  ]
+ },
+ "lender": {
+  "also": [
+   [
+    "banking words",
+    2
+   ]
+  ],
+  "clash": []
+ },
+ "real estate agent": {
+  "also": [
+   [
+    "jobs",
+    2
+   ]
+  ],
+  "clash": []
+ },
+ "pied-à-terre": {
+  "also": [
+   [
+    "words from french",
+    2
+   ],
+   [
+    "french phrases in english",
+    2
+   ]
+  ],
+  "clash": [
+   "vacation homes"
+  ]
+ },
+ "certificate of occupancy": {
+  "also": [
+   [
+    "legal documents",
+    3
+   ]
+  ],
+  "clash": []
+ },
+ "lien": {
+  "also": [
+   [
+    "homophones",
+    3
+   ]
+  ],
+  "clash": []
+ },
+ "electricity": {
+  "also": [
+   [
+    "energy types",
+    1
+   ]
+  ],
+  "clash": [
+   "electricity words"
+  ]
+ },
+ "gas": {
+  "also": [
+   [
+    "states of matter",
+    1
+   ],
+   [
+    "fuels",
+    1
+   ],
+   [
+    "fossil fuels",
+    1
+   ],
+   [
+    "___light",
+    2
+   ]
+  ],
+  "clash": [
+   "gas station"
+  ]
+ },
+ "water": {
+  "also": [
+   [
+    "chemical compounds",
+    1
+   ],
+   [
+    "drinks",
+    1
+   ]
+  ],
+  "clash": []
+ },
+ "broadband": {
+  "also": [
+   [
+    "internet words",
+    2
+   ],
+   [
+    "networking",
+    2
+   ]
+  ],
+  "clash": []
+ },
+ "phone": {
+  "also": [
+   [
+    "handheld gadgets",
+    1
+   ]
+  ],
+  "clash": []
+ },
+ "cell phone": {
+  "also": [
+   [
+    "handheld gadgets",
+    1
+   ]
+  ],
+  "clash": []
+ },
+ "council tax": {
+  "also": [
+   [
+    "tax words",
+    1
+   ]
+  ],
+  "clash": []
+ },
+ "cable": {
+  "also": [
+   [
+    "cords and strings",
+    1
+   ],
+   [
+    "tv words",
+    2
+   ]
+  ],
+  "clash": []
+ },
+ "heating": {
+  "also": [],
+  "clash": [
+   "heating and cooling"
+  ]
+ },
+ "heating oil": {
+  "also": [
+   [
+    "fuels",
+    2
+   ],
+   [
+    "fossil fuels",
+    2
+   ]
+  ],
+  "clash": []
+ },
+ "propane": {
+  "also": [
+   [
+    "fuels",
+    1
+   ],
+   [
+    "gases",
+    2
+   ],
+   [
+    "fossil fuels",
+    2
+   ]
+  ],
+  "clash": [
+   "camping gear"
+  ]
+ },
+ "sewer": {
+  "also": [
+   [
+    "homographs",
+    2
+   ],
+   [
+    "plumbing words",
+    2
+   ]
+  ],
+  "clash": []
+ },
+ "streaming": {
+  "also": [
+   [
+    "internet words",
+    1
+   ],
+   [
+    "tv words",
+    2
+   ]
+  ],
+  "clash": []
+ },
+ "student loan": {
+  "also": [
+   [
+    "university words",
+    2
+   ]
+  ],
+  "clash": []
+ },
+ "credit card": {
+  "also": [
+   [
+    "banking words",
+    1
+   ],
+   [
+    "in a wallet",
+    1
+   ],
+   [
+    "money words",
+    1
+   ]
+  ],
+  "clash": []
+ },
+ "daycare": {
+  "also": [],
+  "clash": [
+   "school types"
+  ]
+ },
+ "gym membership": {
+  "also": [
+   [
+    "fitness words",
+    2
+   ]
+  ],
+  "clash": []
+ },
+ "service charge": {
+  "also": [
+   [
+    "restaurant words",
+    2
+   ]
+  ],
+  "clash": []
+ },
+ "landline": {
+  "also": [
+   [
+    "phone words",
+    2
+   ]
+  ],
+  "clash": [
+   "retro tech"
+  ]
+ },
+ "suit": {
+  "also": [
+   [
+    "card game words",
+    1
+   ]
+  ],
+  "clash": [
+   "snow___"
+  ]
+ },
+ "tuxedo": {
+  "also": [
+   [
+    "words named after places",
+    2
+   ]
+  ],
+  "clash": []
+ },
+ "onesie": {
+  "also": [
+   [
+    "nightwear",
+    1
+   ]
+  ],
+  "clash": [
+   "baby gear"
+  ]
+ },
+ "pajamas": {
+  "also": [
+   [
+    "nightwear",
+    1
+   ],
+   [
+    "words from persian",
+    1
+   ],
+   [
+    "words from hindi",
+    2
+   ],
+   [
+    "bedtime routine",
+    2
+   ]
+  ],
+  "clash": []
+ },
+ "nightgown": {
+  "also": [
+   [
+    "nightwear",
+    1
+   ]
+  ],
+  "clash": []
+ },
+ "nightie": {
+  "also": [
+   [
+    "nightwear",
+    1
+   ]
+  ],
+  "clash": []
+ },
+ "nightshirt": {
+  "also": [
+   [
+    "nightwear",
+    1
+   ]
+  ],
+  "clash": []
+ },
+ "bathrobe": {
+  "also": [
+   [
+    "nightwear",
+    1
+   ],
+   [
+    "bath time",
+    2
+   ]
+  ],
+  "clash": []
+ },
+ "dressing gown": {
+  "also": [
+   [
+    "nightwear",
+    1
+   ],
+   [
+    "british english words",
+    2
+   ]
+  ],
+  "clash": []
+ },
+ "robe": {
+  "also": [
+   [
+    "nightwear",
+    1
+   ],
+   [
+    "religious clothing",
+    2
+   ]
+  ],
+  "clash": [
+   "graduation words"
+  ]
+ },
+ "housecoat": {
+  "also": [
+   [
+    "nightwear",
+    2
+   ]
+  ],
+  "clash": []
+ },
+ "uniform": {
+  "also": [],
+  "clash": [
+   "police words"
+  ]
+ },
+ "tracksuit": {
+  "also": [
+   [
+    "sports clothing",
+    1
+   ]
+  ],
+  "clash": []
+ },
+ "sweatsuit": {
+  "also": [
+   [
+    "sports clothing",
+    1
+   ]
+  ],
+  "clash": []
+ },
+ "shell suit": {
+  "also": [
+   [
+    "sports clothing",
+    2
+   ]
+  ],
+  "clash": []
+ },
+ "leotard": {
+  "also": [
+   [
+    "sports clothing",
+    1
+   ],
+   [
+    "gymnastics",
+    2
+   ],
+   [
+    "dance studio words",
+    1
+   ],
+   [
+    "words named after people",
+    1
+   ]
+  ],
+  "clash": []
+ },
+ "unitard": {
+  "also": [
+   [
+    "sports clothing",
+    2
+   ],
+   [
+    "dance studio words",
+    2
+   ]
+  ],
+  "clash": []
+ },
+ "snowsuit": {
+  "also": [
+   [
+    "skiing words",
+    2
+   ]
+  ],
+  "clash": []
+ },
+ "ski suit": {
+  "also": [
+   [
+    "skiing words",
+    2
+   ],
+   [
+    "ski trip",
+    2
+   ]
+  ],
+  "clash": []
+ },
+ "socks": {
+  "also": [
+   [
+    "things that come in pairs",
+    1
+   ],
+   [
+    "smelly things",
+    1
+   ]
+  ],
+  "clash": [
+   "things that smell bad"
+  ]
+ },
+ "scarf": {
+  "also": [
+   [
+    "scarves and gloves",
+    1
+   ],
+   [
+    "hidden vehicles",
+    1
+   ],
+   [
+    "head___",
+    2
+   ],
+   [
+    "knitwear",
+    2
+   ],
+   [
+    "cozy things",
+    2
+   ]
+  ],
+  "clash": []
+ },
+ "gloves": {
+  "also": [
+   [
+    "scarves and gloves",
+    1
+   ],
+   [
+    "things that come in pairs",
+    1
+   ]
+  ],
+  "clash": [
+   "boxing terms"
+  ]
+ },
+ "tie": {
+  "also": [
+   [
+    "neckwear",
+    1
+   ],
+   [
+    "scoring words",
+    1
+   ],
+   [
+    "homophones",
+    2
+   ]
+  ],
+  "clash": [
+   "knots"
+  ]
+ },
+ "necktie": {
+  "also": [
+   [
+    "neckwear",
+    1
+   ]
+  ],
+  "clash": []
+ },
+ "bow tie": {
+  "also": [
+   [
+    "neckwear",
+    1
+   ]
+  ],
+  "clash": []
+ },
+ "cravat": {
+  "also": [
+   [
+    "neckwear",
+    1
+   ]
+  ],
+  "clash": []
+ },
+ "belt": {
+  "also": [
+   [
+    "things made of leather",
+    1
+   ],
+   [
+    "wardrobe",
+    2
+   ]
+  ],
+  "clash": [
+   "karate words",
+   "boxing terms"
+  ]
+ },
+ "suspenders": {
+  "also": [],
+  "clash": [
+   "underwear"
+  ]
+ },
+ "braces": {
+  "also": [
+   [
+    "dental words",
+    1
+   ],
+   [
+    "british english words",
+    2
+   ]
+  ],
+  "clash": []
+ },
+ "cummerbund": {
+  "also": [
+   [
+    "words from hindi",
+    3
+   ]
+  ],
+  "clash": []
+ },
+ "shawl": {
+  "also": [
+   [
+    "scarves and gloves",
+    2
+   ],
+   [
+    "words from persian",
+    3
+   ]
+  ],
+  "clash": []
+ },
+ "sash": {
+  "also": [],
+  "clash": [
+   "neckwear"
+  ]
+ },
+ "cape": {
+  "also": [
+   [
+    "coastal features",
+    1
+   ],
+   [
+    "bullfighting words",
+    2
+   ],
+   [
+    "hidden animals",
+    2
+   ]
+  ],
+  "clash": [
+   "halloween",
+   "peninsulas"
+  ]
+ },
+ "cloak": {
+  "also": [
+   [
+    "medieval clothing",
+    1
+   ],
+   [
+    "hidden trees",
+    2
+   ]
+  ],
+  "clash": [
+   "magic items"
+  ]
+ },
+ "hood": {
+  "also": [
+   [
+    "clothing parts",
+    1
+   ],
+   [
+    "car parts",
+    1
+   ]
+  ],
+  "clash": [
+   "robin hood legend"
+  ]
+ },
+ "earmuffs": {
+  "also": [],
+  "clash": [
+   "hats",
+   "cold things"
+  ]
+ },
+ "costume": {
+  "also": [
+   [
+    "halloween",
+    1
+   ],
+   [
+    "theater words",
+    1
+   ]
+  ],
+  "clash": []
+ },
+ "sleepwear": {
+  "also": [
+   [
+    "nightwear",
+    1
+   ]
+  ],
+  "clash": []
+ },
+ "loungewear": {
+  "also": [],
+  "clash": [
+   "nightwear"
+  ]
+ },
+ "activewear": {
+  "also": [
+   [
+    "sports clothing",
+    1
+   ]
+  ],
+  "clash": []
+ },
+ "sportswear": {
+  "also": [
+   [
+    "sports clothing",
+    1
+   ]
+  ],
+  "clash": []
+ },
+ "shirt": {
+  "also": [
+   [
+    "things with buttons",
+    1
+   ]
+  ],
+  "clash": []
+ },
+ "tank top": {
+  "also": [],
+  "clash": [
+   "knitwear"
+  ]
+ },
+ "polo shirt": {
+  "also": [
+   [
+    "sports clothing",
+    2
+   ]
+  ],
+  "clash": []
+ },
+ "hoodie": {
+  "also": [
+   [
+    "sports clothing",
+    2
+   ]
+  ],
+  "clash": []
+ },
+ "sweatshirt": {
+  "also": [
+   [
+    "sports clothing",
+    2
+   ]
+  ],
+  "clash": []
+ },
+ "tunic": {
+  "also": [
+   [
+    "medieval clothing",
+    1
+   ]
+  ],
+  "clash": [
+   "ancient greece"
+  ]
+ },
+ "henley": {
+  "also": [],
+  "clash": [
+   "rowing words"
+  ]
+ },
+ "jersey": {
+  "also": [
+   [
+    "sports clothing",
+    1
+   ],
+   [
+    "words named after places",
+    1
+   ],
+   [
+    "cattle breeds",
+    2
+   ],
+   [
+    "knitwear",
+    2
+   ],
+   [
+    "fabrics",
+    2
+   ]
+  ],
+  "clash": [
+   "famous islands",
+   "us states"
+  ]
+ },
+ "rugby shirt": {
+  "also": [
+   [
+    "sports clothing",
+    2
+   ]
+  ],
+  "clash": []
+ },
+ "singlet": {
+  "also": [
+   [
+    "sports clothing",
+    2
+   ],
+   [
+    "underwear",
+    2
+   ]
+  ],
+  "clash": []
+ },
+ "tee": {
+  "also": [
+   [
+    "golf terms",
+    1
+   ],
+   [
+    "sounds like a letter",
+    1
+   ],
+   [
+    "homophones",
+    1
+   ]
+  ],
+  "clash": []
+ },
+ "muscle shirt": {
+  "also": [
+   [
+    "sports clothing",
+    3
+   ]
+  ],
+  "clash": []
+ },
+ "Oxford shirt": {
+  "also": [
+   [
+    "words named after places",
+    3
+   ]
+  ],
+  "clash": []
+ },
+ "Hawaiian shirt": {
+  "also": [
+   [
+    "pacific island clothing",
+    1
+   ]
+  ],
+  "clash": []
+ },
+ "bandeau": {
+  "also": [],
+  "clash": [
+   "swimwear",
+   "underwear"
+  ]
+ },
+ "corset top": {
+  "also": [],
+  "clash": [
+   "underwear"
+  ]
+ },
+ "mock neck": {
+  "also": [
+   [
+    "necklines",
+    2
+   ]
+  ],
+  "clash": []
+ },
+ "raglan": {
+  "also": [
+   [
+    "clothing parts",
+    2
+   ],
+   [
+    "words named after people",
+    2
+   ]
+  ],
+  "clash": []
+ },
+ "shacket": {
+  "also": [
+   [
+    "portmanteau words",
+    2
+   ]
+  ],
+  "clash": [
+   "coats and jackets"
+  ]
+ },
+ "blouson": {
+  "also": [],
+  "clash": [
+   "coats and jackets"
+  ]
+ },
+ "cold shoulder": {
+  "also": [],
+  "clash": [
+   "necklines"
+  ]
+ },
+ "jeans": {
+  "also": [
+   [
+    "words named after places",
+    1
+   ],
+   [
+    "blue things",
+    1
+   ],
+   [
+    "homophones",
+    1
+   ]
+  ],
+  "clash": []
+ },
+ "trousers": {
+  "also": [
+   [
+    "british english words",
+    2
+   ]
+  ],
+  "clash": []
+ },
+ "khakis": {
+  "also": [],
+  "clash": [
+   "shades of brown",
+   "words from hindi"
+  ]
+ },
+ "leggings": {
+  "also": [
+   [
+    "sports clothing",
+    1
+   ]
+  ],
+  "clash": []
+ },
+ "sweatpants": {
+  "also": [
+   [
+    "sports clothing",
+    1
+   ]
+  ],
+  "clash": []
+ },
+ "joggers": {
+  "also": [
+   [
+    "sports clothing",
+    1
+   ]
+  ],
+  "clash": [
+   "running words"
+  ]
+ },
+ "track pants": {
+  "also": [
+   [
+    "sports clothing",
+    1
+   ]
+  ],
+  "clash": []
+ },
+ "capris": {
+  "also": [
+   [
+    "words named after places",
+    2
+   ]
+  ],
+  "clash": [
+   "famous islands"
+  ]
+ },
+ "capri pants": {
+  "also": [
+   [
+    "words named after places",
+    2
+   ]
+  ],
+  "clash": []
+ },
+ "Bermuda shorts": {
+  "also": [
+   [
+    "words named after places",
+    1
+   ]
+  ],
+  "clash": []
+ },
+ "cords": {
+  "also": [
+   [
+    "cords and strings",
+    2
+   ],
+   [
+    "homophones",
+    3
+   ]
+  ],
+  "clash": [
+   "cotton fabrics"
+  ]
+ },
+ "flares": {
+  "also": [],
+  "clash": [
+   "sky phenomena"
+  ]
+ },
+ "jodhpurs": {
+  "also": [
+   [
+    "horse riding words",
+    1
+   ],
+   [
+    "words named after places",
+    1
+   ]
+  ],
+  "clash": []
+ },
+ "breeches": {
+  "also": [
+   [
+    "horse riding words",
+    2
+   ],
+   [
+    "medieval clothing",
+    2
+   ]
+  ],
+  "clash": []
+ },
+ "plus fours": {
+  "also": [
+   [
+    "golf terms",
+    3
+   ]
+  ],
+  "clash": []
+ },
+ "yoga pants": {
+  "also": [
+   [
+    "sports clothing",
+    1
+   ],
+   [
+    "yoga words",
+    2
+   ]
+  ],
+  "clash": []
+ },
+ "sweats": {
+  "also": [
+   [
+    "sports clothing",
+    2
+   ]
+  ],
+  "clash": []
+ },
+ "gauchos": {
+  "also": [],
+  "clash": [
+   "gaucho words"
+  ]
+ },
+ "bike shorts": {
+  "also": [
+   [
+    "sports clothing",
+    1
+   ],
+   [
+    "cycling words",
+    2
+   ]
+  ],
+  "clash": []
+ },
+ "cycling shorts": {
+  "also": [
+   [
+    "sports clothing",
+    1
+   ],
+   [
+    "cycling words",
+    2
+   ]
+  ],
+  "clash": []
+ },
+ "gym shorts": {
+  "also": [
+   [
+    "sports clothing",
+    1
+   ]
+  ],
+  "clash": []
+ },
+ "skort": {
+  "also": [
+   [
+    "portmanteau words",
+    1
+   ],
+   [
+    "sports clothing",
+    2
+   ]
+  ],
+  "clash": []
+ },
+ "jorts": {
+  "also": [
+   [
+    "portmanteau words",
+    2
+   ]
+  ],
+  "clash": []
+ },
+ "ski pants": {
+  "also": [
+   [
+    "skiing words",
+    2
+   ]
+  ],
+  "clash": []
+ },
+ "salopettes": {
+  "also": [
+   [
+    "skiing words",
+    2
+   ]
+  ],
+  "clash": []
+ },
+ "pajama pants": {
+  "also": [
+   [
+    "nightwear",
+    1
+   ]
+  ],
+  "clash": []
+ },
+ "pantaloons": {
+  "also": [
+   [
+    "words from italian",
+    3
+   ]
+  ],
+  "clash": []
+ },
+ "dungarees": {
+  "also": [
+   [
+    "work clothes",
+    1
+   ],
+   [
+    "words from hindi",
+    2
+   ]
+  ],
+  "clash": []
+ },
+ "carpenter jeans": {
+  "also": [],
+  "clash": [
+   "work clothes"
+  ]
+ },
+ "gown": {
+  "also": [],
+  "clash": [
+   "graduation words",
+   "hospital"
+  ]
+ },
+ "wedding dress": {
+  "also": [
+   [
+    "weddings",
+    1
+   ]
+  ],
+  "clash": []
+ },
+ "bridesmaid dress": {
+  "also": [
+   [
+    "weddings",
+    1
+   ]
+  ],
+  "clash": []
+ },
+ "tutu": {
+  "also": [
+   [
+    "ballet terms",
+    1
+   ],
+   [
+    "dance studio words",
+    1
+   ]
+  ],
+  "clash": []
+ },
+ "frock": {
+  "also": [],
+  "clash": [
+   "religious clothing"
+  ]
+ },
+ "hoop skirt": {
+  "also": [],
+  "clash": [
+   "victorian era"
+  ]
+ },
+ "crinoline": {
+  "also": [
+   [
+    "victorian era",
+    2
+   ]
+  ],
+  "clash": []
+ },
+ "bustle": {
+  "also": [
+   [
+    "victorian era",
+    2
+   ]
+  ],
+  "clash": []
+ },
+ "tennis skirt": {
+  "also": [
+   [
+    "sports clothing",
+    2
+   ]
+  ],
+  "clash": []
+ },
+ "dress": {
+  "also": [
+   [
+    "head___",
+    2
+   ],
+   [
+    "sun___",
+    2
+   ]
+  ],
+  "clash": []
+ },
+ "coat": {
+  "also": [
+   [
+    "animal coverings",
+    1
+   ],
+   [
+    "rain___",
+    1
+   ],
+   [
+    "wardrobe",
+    2
+   ]
+  ],
+  "clash": [
+   "painting and decorating"
+  ]
+ },
+ "jacket": {
+  "also": [
+   [
+    "things made of leather",
+    2
+   ]
+  ],
+  "clash": []
+ },
+ "parka": {
+  "also": [
+   [
+    "polar expedition gear",
+    2
+   ]
+  ],
+  "clash": []
+ },
+ "anorak": {
+  "also": [
+   [
+    "hiking gear",
+    2
+   ]
+  ],
+  "clash": [
+   "british slang"
+  ]
+ },
+ "windbreaker": {
+  "also": [
+   [
+    "hiking gear",
+    2
+   ]
+  ],
+  "clash": []
+ },
+ "windcheater": {
+  "also": [
+   [
+    "hiking gear",
+    2
+   ]
+  ],
+  "clash": []
+ },
+ "leather jacket": {
+  "also": [
+   [
+    "things made of leather",
+    1
+   ]
+  ],
+  "clash": []
+ },
+ "peacoat": {
+  "also": [],
+  "clash": [
+   "navy words"
+  ]
+ },
+ "duffel coat": {
+  "also": [
+   [
+    "words named after places",
+    2
+   ]
+  ],
+  "clash": []
+ },
+ "fleece": {
+  "also": [
+   [
+    "animal coverings",
+    2
+   ],
+   [
+    "hiking gear",
+    2
+   ]
+  ],
+  "clash": [
+   "greek heroes",
+   "fabrics"
+  ]
+ },
+ "cagoule": {
+  "also": [
+   [
+    "hiking gear",
+    2
+   ],
+   [
+    "british english words",
+    3
+   ]
+  ],
+  "clash": []
+ },
+ "mac": {
+  "also": [
+   [
+    "british english words",
+    3
+   ]
+  ],
+  "clash": [
+   "tech companies"
+  ]
+ },
+ "mackintosh": {
+  "also": [
+   [
+    "words named after people",
+    2
+   ]
+  ],
+  "clash": []
+ },
+ "greatcoat": {
+  "also": [],
+  "clash": [
+   "army words"
+  ]
+ },
+ "topcoat": {
+  "also": [
+   [
+    "painting and decorating",
+    3
+   ]
+  ],
+  "clash": [
+   "nail care"
+  ]
+ },
+ "safari jacket": {
+  "also": [],
+  "clash": [
+   "safari words"
+  ]
+ },
+ "ski jacket": {
+  "also": [
+   [
+    "skiing words",
+    2
+   ]
+  ],
+  "clash": []
+ },
+ "rain jacket": {
+  "also": [
+   [
+    "hiking gear",
+    2
+   ]
+  ],
+  "clash": []
+ },
+ "softshell": {
+  "also": [
+   [
+    "hiking gear",
+    3
+   ]
+  ],
+  "clash": []
+ },
+ "smoking jacket": {
+  "also": [],
+  "clash": [
+   "smoking words"
+  ]
+ },
+ "bolero": {
+  "also": [
+   [
+    "latin dances",
+    3
+   ]
+  ],
+  "clash": [
+   "famous ballets"
+  ]
+ },
+ "ulster": {
+  "also": [
+   [
+    "words named after places",
+    3
+   ]
+  ],
+  "clash": []
+ },
+ "redingote": {
+  "also": [
+   [
+    "words from french",
+    3
+   ]
+  ],
+  "clash": []
+ },
+ "track jacket": {
+  "also": [
+   [
+    "sports clothing",
+    1
+   ]
+  ],
+  "clash": []
+ },
+ "mantle": {
+  "also": [
+   [
+    "layers of the earth",
+    1
+   ],
+   [
+    "homophones",
+    2
+   ]
+  ],
+  "clash": [
+   "fireplace words"
+  ]
+ },
+ "puffer": {
+  "also": [
+   [
+    "___fish",
+    2
+   ]
+  ],
+  "clash": [
+   "fish"
+  ]
+ },
+ "Nehru jacket": {
+  "also": [
+   [
+    "words named after people",
+    2
+   ],
+   [
+    "coats and jackets",
+    1
+   ]
+  ],
+  "clash": []
+ },
+ "briefs": {
+  "also": [],
+  "clash": [
+   "legal documents"
+  ]
+ },
+ "boxers": {
+  "also": [],
+  "clash": [
+   "boxing terms",
+   "dog breeds"
+  ]
+ },
+ "knickers": {
+  "also": [
+   [
+    "silent k words",
+    1
+   ],
+   [
+    "british english words",
+    2
+   ]
+  ],
+  "clash": []
+ },
+ "thong": {
+  "also": [
+   [
+    "australian slang",
+    2
+   ]
+  ],
+  "clash": [
+   "shoes"
+  ]
+ },
+ "G-string": {
+  "also": [],
+  "clash": [
+   "instrument parts",
+   "string instruments"
+  ]
+ },
+ "corset": {
+  "also": [
+   [
+    "victorian era",
+    2
+   ]
+  ],
+  "clash": []
+ },
+ "girdle": {
+  "also": [
+   [
+    "medieval clothing",
+    2
+   ]
+  ],
+  "clash": []
+ },
+ "garter": {
+  "also": [
+   [
+    "weddings",
+    2
+   ]
+  ],
+  "clash": [
+   "orders of knighthood"
+  ]
+ },
+ "stockings": {
+  "also": [
+   [
+    "christmas",
+    1
+   ]
+  ],
+  "clash": []
+ },
+ "tights": {
+  "also": [
+   [
+    "dance studio words",
+    2
+   ]
+  ],
+  "clash": []
+ },
+ "thermals": {
+  "also": [
+   [
+    "polar expedition gear",
+    2
+   ]
+  ],
+  "clash": [
+   "air sports"
+  ]
+ },
+ "teddy": {
+  "also": [
+   [
+    "short forms of names",
+    2
+   ]
+  ],
+  "clash": [
+   "toys"
+  ]
+ },
+ "chemise": {
+  "also": [
+   [
+    "words from french",
+    3
+   ]
+  ],
+  "clash": []
+ },
+ "bloomers": {
+  "also": [
+   [
+    "words named after people",
+    2
+   ]
+  ],
+  "clash": [
+   "victorian era"
+  ]
+ },
+ "drawers": {
+  "also": [],
+  "clash": [
+   "storage furniture"
+  ]
+ },
+ "Y-fronts": {
+  "also": [
+   [
+    "british english words",
+    3
+   ]
+  ],
+  "clash": []
+ },
+ "jockstrap": {
+  "also": [
+   [
+    "sports clothing",
+    2
+   ]
+  ],
+  "clash": []
+ },
+ "sports bra": {
+  "also": [
+   [
+    "sports clothing",
+    1
+   ]
+  ],
+  "clash": []
+ },
+ "negligee": {
+  "also": [
+   [
+    "nightwear",
+    1
+   ],
+   [
+    "words from french",
+    3
+   ]
+  ],
+  "clash": []
+ },
+ "lingerie": {
+  "also": [
+   [
+    "words from french",
+    2
+   ]
+  ],
+  "clash": []
+ },
+ "Spanx": {
+  "also": [
+   [
+    "brand names used as words",
+    3
+   ]
+  ],
+  "clash": []
+ },
+ "basque": {
+  "also": [],
+  "clash": [
+   "european languages",
+   "spanish regions"
+  ]
+ },
+ "smalls": {
+  "also": [
+   [
+    "british english words",
+    3
+   ]
+  ],
+  "clash": []
+ },
+ "camiknickers": {
+  "also": [
+   [
+    "portmanteau words",
+    2
+   ]
+  ],
+  "clash": []
+ },
+ "compression shorts": {
+  "also": [
+   [
+    "sports clothing",
+    2
+   ]
+  ],
+  "clash": []
+ },
+ "hipsters": {
+  "also": [],
+  "clash": [
+   "fashion styles"
+  ]
+ },
+ "swimsuit": {
+  "also": [
+   [
+    "beach gear",
+    1
+   ]
+  ],
+  "clash": []
+ },
+ "bikini": {
+  "also": [
+   [
+    "beach gear",
+    1
+   ],
+   [
+    "words named after places",
+    1
+   ]
+  ],
+  "clash": []
+ },
+ "swimming trunks": {
+  "also": [
+   [
+    "beach gear",
+    1
+   ]
+  ],
+  "clash": []
+ },
+ "swim trunks": {
+  "also": [
+   [
+    "beach gear",
+    1
+   ]
+  ],
+  "clash": []
+ },
+ "board shorts": {
+  "also": [
+   [
+    "beach gear",
+    2
+   ],
+   [
+    "surfing words",
+    2
+   ]
+  ],
+  "clash": []
+ },
+ "bathing suit": {
+  "also": [
+   [
+    "beach gear",
+    1
+   ]
+  ],
+  "clash": []
+ },
+ "swimming costume": {
+  "also": [
+   [
+    "beach gear",
+    1
+   ],
+   [
+    "british english words",
+    3
+   ]
+  ],
+  "clash": []
+ },
+ "tankini": {
+  "also": [
+   [
+    "portmanteau words",
+    2
+   ]
+  ],
+  "clash": []
+ },
+ "Speedo": {
+  "also": [
+   [
+    "brand names used as words",
+    2
+   ]
+  ],
+  "clash": []
+ },
+ "wetsuit": {
+  "also": [
+   [
+    "scuba words",
+    1
+   ],
+   [
+    "surfing words",
+    1
+   ]
+  ],
+  "clash": []
+ },
+ "rash guard": {
+  "also": [
+   [
+    "surfing words",
+    2
+   ]
+  ],
+  "clash": []
+ },
+ "swim cap": {
+  "also": [
+   [
+    "swimming words",
+    1
+   ]
+  ],
+  "clash": [
+   "hats"
+  ]
+ },
+ "swimming cap": {
+  "also": [
+   [
+    "swimming words",
+    1
+   ]
+  ],
+  "clash": [
+   "hats"
+  ]
+ },
+ "burkini": {
+  "also": [
+   [
+    "portmanteau words",
+    2
+   ]
+  ],
+  "clash": [
+   "religious clothing"
+  ]
+ },
+ "swim shorts": {
+  "also": [
+   [
+    "beach gear",
+    1
+   ]
+  ],
+  "clash": []
+ },
+ "cossie": {
+  "also": [
+   [
+    "australian slang",
+    2
+   ]
+  ],
+  "clash": []
+ },
+ "budgie smugglers": {
+  "also": [
+   [
+    "australian slang",
+    1
+   ]
+  ],
+  "clash": []
+ },
+ "jammers": {
+  "also": [
+   [
+    "swimming words",
+    3
+   ]
+  ],
+  "clash": []
+ },
+ "togs": {
+  "also": [
+   [
+    "australian slang",
+    2
+   ]
+  ],
+  "clash": []
+ },
+ "bathers": {
+  "also": [
+   [
+    "australian slang",
+    2
+   ]
+  ],
+  "clash": []
+ },
+ "swimmers": {
+  "also": [
+   [
+    "australian slang",
+    3
+   ]
+  ],
+  "clash": []
+ },
+ "cover-up": {
+  "also": [
+   [
+    "beach gear",
+    2
+   ]
+  ],
+  "clash": []
+ },
+ "rashie": {
+  "also": [
+   [
+    "australian slang",
+    2
+   ],
+   [
+    "surfing words",
+    2
+   ]
+  ],
+  "clash": []
+ },
+ "tech suit": {
+  "also": [
+   [
+    "swimming words",
+    3
+   ]
+  ],
+  "clash": []
+ },
+ "drysuit": {
+  "also": [
+   [
+    "scuba words",
+    2
+   ]
+  ],
+  "clash": []
+ },
+ "swim diaper": {
+  "also": [],
+  "clash": [
+   "baby gear"
+  ]
+ },
+ "jumper": {
+  "also": [
+   [
+    "british english words",
+    1
+   ]
+  ],
+  "clash": []
+ },
+ "cardigan": {
+  "also": [
+   [
+    "words named after people",
+    1
+   ]
+  ],
+  "clash": []
+ },
+ "turtleneck": {
+  "also": [
+   [
+    "necklines",
+    1
+   ]
+  ],
+  "clash": []
+ },
+ "polo neck": {
+  "also": [
+   [
+    "necklines",
+    1
+   ],
+   [
+    "british english words",
+    3
+   ]
+  ],
+  "clash": []
+ },
+ "roll neck": {
+  "also": [
+   [
+    "necklines",
+    2
+   ]
+  ],
+  "clash": []
+ },
+ "cable knit": {
+  "also": [
+   [
+    "knitting words",
+    2
+   ]
+  ],
+  "clash": []
+ },
+ "Fair Isle": {
+  "also": [
+   [
+    "knitting words",
+    2
+   ],
+   [
+    "fabric prints",
+    2
+   ],
+   [
+    "patterns",
+    2
+   ]
+  ],
+  "clash": [
+   "famous islands"
+  ]
+ },
+ "beanie": {
+  "also": [
+   [
+    "hats",
+    1
+   ]
+  ],
+  "clash": []
+ },
+ "bobble hat": {
+  "also": [
+   [
+    "hats",
+    1
+   ]
+  ],
+  "clash": []
+ },
+ "woolly hat": {
+  "also": [
+   [
+    "hats",
+    1
+   ]
+  ],
+  "clash": []
+ },
+ "balaclava": {
+  "also": [
+   [
+    "hats",
+    2
+   ],
+   [
+    "words named after places",
+    2
+   ]
+  ],
+  "clash": [
+   "famous battles"
+  ]
+ },
+ "snood": {
+  "also": [
+   [
+    "scarves and gloves",
+    2
+   ]
+  ],
+  "clash": []
+ },
+ "cowl": {
+  "also": [
+   [
+    "necklines",
+    2
+   ],
+   [
+    "religious clothing",
+    2
+   ],
+   [
+    "hidden animals",
+    2
+   ],
+   [
+    "hidden birds",
+    2
+   ]
+  ],
+  "clash": []
+ },
+ "legwarmers": {
+  "also": [
+   [
+    "dance studio words",
+    2
+   ]
+  ],
+  "clash": []
+ },
+ "Christmas sweater": {
+  "also": [
+   [
+    "christmas",
+    1
+   ]
+  ],
+  "clash": []
+ },
+ "Christmas jumper": {
+  "also": [
+   [
+    "christmas",
+    1
+   ]
+  ],
+  "clash": []
+ },
+ "ugly sweater": {
+  "also": [
+   [
+    "christmas",
+    1
+   ]
+  ],
+  "clash": []
+ },
+ "guernsey": {
+  "also": [
+   [
+    "words named after places",
+    2
+   ],
+   [
+    "aussie rules terms",
+    2
+   ],
+   [
+    "cattle breeds",
+    2
+   ]
+  ],
+  "clash": [
+   "famous islands"
+  ]
+ },
+ "bed socks": {
+  "also": [
+   [
+    "nightwear",
+    2
+   ]
+  ],
+  "clash": []
+ },
+ "booties": {
+  "also": [
+   [
+    "baby gear",
+    2
+   ]
+  ],
+  "clash": []
+ },
+ "matinee jacket": {
+  "also": [
+   [
+    "baby gear",
+    3
+   ]
+  ],
+  "clash": []
+ },
+ "shrug": {
+  "also": [
+   [
+    "gestures",
+    1
+   ]
+  ],
+  "clash": []
+ },
+ "crewneck": {
+  "also": [
+   [
+    "necklines",
+    1
+   ]
+  ],
+  "clash": []
+ },
+ "V-neck": {
+  "also": [
+   [
+    "necklines",
+    1
+   ]
+  ],
+  "clash": []
+ },
+ "knitted scarf": {
+  "also": [
+   [
+    "scarves and gloves",
+    1
+   ]
+  ],
+  "clash": []
+ },
+ "mittens": {
+  "also": [
+   [
+    "scarves and gloves",
+    1
+   ],
+   [
+    "things that come in pairs",
+    1
+   ],
+   [
+    "cozy things",
+    2
+   ]
+  ],
+  "clash": []
+ },
+ "bonnet": {
+  "also": [
+   [
+    "hats",
+    1
+   ],
+   [
+    "historical hats",
+    2
+   ],
+   [
+    "car parts",
+    2
+   ]
+  ],
+  "clash": []
+ },
+ "tam-o'-shanter": {
+  "also": [
+   [
+    "hats",
+    2
+   ]
+  ],
+  "clash": []
+ },
+ "grunge": {
+  "also": [
+   [
+    "rock styles",
+    1
+   ],
+   [
+    "music genres",
+    1
+   ]
+  ],
+  "clash": []
+ },
+ "punk": {
+  "also": [
+   [
+    "rock styles",
+    1
+   ],
+   [
+    "music genres",
+    1
+   ],
+   [
+    "troublemakers",
+    2
+   ]
+  ],
+  "clash": []
+ },
+ "goth": {
+  "also": [
+   [
+    "rock styles",
+    2
+   ]
+  ],
+  "clash": []
+ },
+ "vintage": {
+  "also": [
+   [
+    "wine words",
+    2
+   ]
+  ],
+  "clash": []
+ },
+ "emo": {
+  "also": [
+   [
+    "rock styles",
+    1
+   ],
+   [
+    "music genres",
+    1
+   ]
+  ],
+  "clash": []
+ },
+ "mod": {
+  "also": [
+   [
+    "gaming words",
+    2
+   ]
+  ],
+  "clash": []
+ },
+ "rockabilly": {
+  "also": [
+   [
+    "rock styles",
+    1
+   ],
+   [
+    "music genres",
+    1
+   ],
+   [
+    "american roots music",
+    2
+   ]
+  ],
+  "clash": []
+ },
+ "chic": {
+  "also": [
+   [
+    "words from french",
+    1
+   ]
+  ],
+  "clash": []
+ },
+ "athleisure": {
+  "also": [
+   [
+    "portmanteau words",
+    1
+   ]
+  ],
+  "clash": []
+ },
+ "kawaii": {
+  "also": [
+   [
+    "words from japanese",
+    2
+   ]
+  ],
+  "clash": []
+ },
+ "Harajuku": {
+  "also": [],
+  "clash": [
+   "japanese landmarks"
+  ]
+ },
+ "steampunk": {
+  "also": [
+   [
+    "book genres",
+    2
+   ]
+  ],
+  "clash": []
+ },
+ "cyberpunk": {
+  "also": [
+   [
+    "book genres",
+    2
+   ],
+   [
+    "movie genres",
+    2
+   ]
+  ],
+  "clash": []
+ },
+ "hip-hop": {
+  "also": [
+   [
+    "music genres",
+    1
+   ],
+   [
+    "street dance styles",
+    1
+   ]
+  ],
+  "clash": []
+ },
+ "skater": {
+  "also": [],
+  "clash": [
+   "skating words"
+  ]
+ },
+ "surfer": {
+  "also": [
+   [
+    "surfing words",
+    1
+   ]
+  ],
+  "clash": []
+ },
+ "glam rock": {
+  "also": [
+   [
+    "rock styles",
+    1
+   ],
+   [
+    "music genres",
+    1
+   ]
+  ],
+  "clash": []
+ },
+ "glam": {
+  "also": [
+   [
+    "rock styles",
+    2
+   ]
+  ],
+  "clash": []
+ },
+ "disco": {
+  "also": [
+   [
+    "music genres",
+    1
+   ],
+   [
+    "dance music",
+    1
+   ]
+  ],
+  "clash": []
+ },
+ "New Romantic": {
+  "also": [
+   [
+    "music genres",
+    2
+   ],
+   [
+    "rock styles",
+    2
+   ]
+  ],
+  "clash": []
+ },
+ "avant-garde": {
+  "also": [
+   [
+    "words from french",
+    2
+   ]
+  ],
+  "clash": [
+   "art movements"
+  ]
+ },
+ "haute couture": {
+  "also": [
+   [
+    "words from french",
+    2
+   ],
+   [
+    "french phrases in english",
+    2
+   ]
+  ],
+  "clash": []
+ },
+ "nautical": {
+  "also": [],
+  "clash": [
+   "sailing words"
+  ]
+ },
+ "safari": {
+  "also": [
+   [
+    "swahili words",
+    2
+   ]
+  ],
+  "clash": [
+   "safari words",
+   "words from arabic"
+  ]
+ },
+ "Barbiecore": {
+  "also": [],
+  "clash": [
+   "dolls and figures"
+  ]
+ },
+ "workwear": {
+  "also": [
+   [
+    "work clothes",
+    1
+   ]
+  ],
+  "clash": []
+ },
+ "Ivy League": {
+  "also": [
+   [
+    "university words",
+    2
+   ]
+  ],
+  "clash": []
+ },
+ "Sloane Ranger": {
+  "also": [
+   [
+    "british slang",
+    3
+   ]
+  ],
+  "clash": []
+ },
+ "flapper": {
+  "also": [
+   [
+    "roaring twenties",
+    1
+   ],
+   [
+    "1920s slang",
+    1
+   ]
+  ],
+  "clash": []
+ },
+ "gothic": {
+  "also": [
+   [
+    "architecture styles",
+    1
+   ],
+   [
+    "book genres",
+    2
+   ]
+  ],
+  "clash": []
+ },
+ "gyaru": {
+  "also": [
+   [
+    "words from japanese",
+    3
+   ]
+  ],
+  "clash": []
+ },
+ "visual kei": {
+  "also": [
+   [
+    "music genres",
+    3
+   ]
+  ],
+  "clash": []
+ },
+ "monochrome": {
+  "also": [
+   [
+    "color terms",
+    2
+   ],
+   [
+    "photography words",
+    2
+   ]
+  ],
+  "clash": []
+ },
+ "e-girl": {
+  "also": [],
+  "clash": [
+   "gen z slang"
+  ]
+ },
+ "soft girl": {
+  "also": [],
+  "clash": [
+   "gen z slang"
+  ]
+ },
+ "clean girl": {
+  "also": [],
+  "clash": [
+   "gen z slang"
+  ]
+ },
+ "apron": {
+  "also": [
+   [
+    "kitchen",
+    2
+   ]
+  ],
+  "clash": [
+   "kitchen brigade"
+  ]
+ },
+ "scrubs": {
+  "also": [
+   [
+    "hospital",
+    1
+   ],
+   [
+    "operating room",
+    1
+   ]
+  ],
+  "clash": []
+ },
+ "lab coat": {
+  "also": [
+   [
+    "science lab",
+    1
+   ]
+  ],
+  "clash": []
+ },
+ "hi-vis vest": {
+  "also": [
+   [
+    "construction site",
+    1
+   ]
+  ],
+  "clash": []
+ },
+ "safety boots": {
+  "also": [
+   [
+    "boots",
+    1
+   ],
+   [
+    "construction site",
+    2
+   ]
+  ],
+  "clash": []
+ },
+ "work boots": {
+  "also": [
+   [
+    "boots",
+    1
+   ],
+   [
+    "construction site",
+    2
+   ]
+  ],
+  "clash": []
+ },
+ "steel-toe boots": {
+  "also": [
+   [
+    "boots",
+    1
+   ],
+   [
+    "construction site",
+    2
+   ]
+  ],
+  "clash": []
+ },
+ "hairnet": {
+  "also": [],
+  "clash": [
+   "hair accessories",
+   "kitchen brigade"
+  ]
+ },
+ "chef's jacket": {
+  "also": [],
+  "clash": [
+   "kitchen brigade"
+  ]
+ },
+ "chef's hat": {
+  "also": [
+   [
+    "hats",
+    1
+   ]
+  ],
+  "clash": [
+   "kitchen brigade"
+  ]
+ },
+ "toque": {
+  "also": [
+   [
+    "hats",
+    2
+   ]
+  ],
+  "clash": [
+   "kitchen brigade"
+  ]
+ },
+ "chef's whites": {
+  "also": [],
+  "clash": [
+   "kitchen brigade"
+  ]
+ },
+ "tabard": {
+  "also": [
+   [
+    "medieval clothing",
+    2
+   ],
+   [
+    "heraldry",
+    3
+   ]
+  ],
+  "clash": []
+ },
+ "safety vest": {
+  "also": [
+   [
+    "construction site",
+    2
+   ]
+  ],
+  "clash": []
+ },
+ "reflective vest": {
+  "also": [
+   [
+    "construction site",
+    2
+   ]
+  ],
+  "clash": []
+ },
+ "work gloves": {
+  "also": [
+   [
+    "scarves and gloves",
+    2
+   ]
+  ],
+  "clash": [
+   "garden tools"
+  ]
+ },
+ "goggles": {
+  "also": [
+   [
+    "eyewear",
+    1
+   ],
+   [
+    "swimming words",
+    1
+   ],
+   [
+    "skiing words",
+    2
+   ],
+   [
+    "science lab",
+    2
+   ]
+  ],
+  "clash": []
+ },
+ "carpenter pants": {
+  "also": [
+   [
+    "pants and shorts",
+    1
+   ]
+  ],
+  "clash": []
+ },
+ "painter's pants": {
+  "also": [
+   [
+    "pants and shorts",
+    2
+   ]
+  ],
+  "clash": []
+ },
+ "white coat": {
+  "also": [
+   [
+    "hospital",
+    2
+   ]
+  ],
+  "clash": []
+ },
+ "surgical gown": {
+  "also": [
+   [
+    "operating room",
+    1
+   ]
+  ],
+  "clash": []
+ },
+ "surgical mask": {
+  "also": [
+   [
+    "operating room",
+    1
+   ],
+   [
+    "medical equipment",
+    2
+   ]
+  ],
+  "clash": []
+ },
+ "face shield": {
+  "also": [],
+  "clash": [
+   "medical equipment"
+  ]
+ },
+ "turnout gear": {
+  "also": [
+   [
+    "fire station",
+    2
+   ]
+  ],
+  "clash": []
+ },
+ "bunker gear": {
+  "also": [
+   [
+    "fire station",
+    2
+   ]
+  ],
+  "clash": []
+ },
+ "waders": {
+  "also": [
+   [
+    "fishing words",
+    2
+   ]
+  ],
+  "clash": []
+ },
+ "safety helmet": {
+  "also": [
+   [
+    "construction site",
+    2
+   ]
+  ],
+  "clash": [
+   "hats"
+  ]
+ },
+ "butcher's apron": {
+  "also": [
+   [
+    "butcher shop",
+    2
+   ]
+  ],
+  "clash": []
+ },
+ "cheongsam": {
+  "also": [
+   [
+    "national costumes",
+    2
+   ]
+  ],
+  "clash": []
+ },
+ "qipao": {
+  "also": [
+   [
+    "national costumes",
+    2
+   ]
+  ],
+  "clash": []
+ },
+ "hanbok": {
+  "also": [
+   [
+    "national costumes",
+    1
+   ]
+  ],
+  "clash": []
+ },
+ "áo dài": {
+  "also": [
+   [
+    "national costumes",
+    2
+   ]
+  ],
+  "clash": []
+ },
+ "sarong": {
+  "also": [
+   [
+    "beach gear",
+    2
+   ]
+  ],
+  "clash": []
+ },
+ "kebaya": {
+  "also": [
+   [
+    "national costumes",
+    3
+   ]
+  ],
+  "clash": []
+ },
+ "barong": {
+  "also": [
+   [
+    "national costumes",
+    3
+   ]
+  ],
+  "clash": []
+ },
+ "songket": {
+  "also": [
+   [
+    "fabrics",
+    3
+   ],
+   [
+    "materials from asia",
+    3
+   ]
+  ],
+  "clash": []
+ },
+ "toga": {
+  "also": [
+   [
+    "roman life",
+    1
+   ],
+   [
+    "ancient rome",
+    1
+   ]
+  ],
+  "clash": []
+ },
+ "chiton": {
+  "also": [
+   [
+    "ancient greece",
+    2
+   ]
+  ],
+  "clash": []
+ },
+ "himation": {
+  "also": [
+   [
+    "ancient greece",
+    3
+   ]
+  ],
+  "clash": []
+ },
+ "peplos": {
+  "also": [
+   [
+    "ancient greece",
+    3
+   ]
+  ],
+  "clash": []
+ },
+ "stola": {
+  "also": [
+   [
+    "ancient rome",
+    2
+   ]
+  ],
+  "clash": []
+ },
+ "mantilla": {
+  "also": [],
+  "clash": [
+   "religious clothing"
+  ]
+ },
+ "sombrero": {
+  "also": [
+   [
+    "hats",
+    1
+   ],
+   [
+    "mexican souvenirs",
+    1
+   ],
+   [
+    "words from spanish",
+    2
+   ]
+  ],
+  "clash": []
+ },
+ "serape": {
+  "also": [
+   [
+    "mexican souvenirs",
+    2
+   ]
+  ],
+  "clash": [
+   "south american clothing"
+  ]
+ },
+ "moccasins": {
+  "also": [
+   [
+    "shoes",
+    1
+   ],
+   [
+    "words from native american languages",
+    2
+   ]
+  ],
+  "clash": []
+ },
+ "mukluks": {
+  "also": [
+   [
+    "boots",
+    2
+   ],
+   [
+    "words from native american languages",
+    3
+   ]
+  ],
+  "clash": []
+ },
+ "kamik": {
+  "also": [
+   [
+    "boots",
+    3
+   ]
+  ],
+  "clash": []
+ },
+ "doppa": {
+  "also": [
+   [
+    "hats",
+    3
+   ]
+  ],
+  "clash": []
+ },
+ "nón lá": {
+  "also": [
+   [
+    "hats",
+    2
+   ]
+  ],
+  "clash": []
+ },
+ "fez": {
+  "also": [
+   [
+    "hats",
+    1
+   ],
+   [
+    "turkish souvenirs",
+    2
+   ],
+   [
+    "moroccan souvenirs",
+    2
+   ]
+  ],
+  "clash": [
+   "middle eastern clothing"
+  ]
+ },
+ "kaftan": {
+  "also": [
+   [
+    "words from turkish",
+    2
+   ]
+  ],
+  "clash": [
+   "middle eastern clothing",
+   "african clothing"
+  ]
+ },
+ "turban": {
+  "also": [
+   [
+    "hats",
+    1
+   ],
+   [
+    "religious clothing",
+    1
+   ],
+   [
+    "words from turkish",
+    2
+   ]
+  ],
+  "clash": [
+   "indian clothing"
+  ]
+ },
+ "yashmak": {
+  "also": [
+   [
+    "words from turkish",
+    3
+   ]
+  ],
+  "clash": [
+   "religious clothing"
+  ]
+ },
+ "şalvar": {
+  "also": [],
+  "clash": [
+   "indian clothing"
+  ]
+ },
+ "kalpak": {
+  "also": [
+   [
+    "hats",
+    3
+   ]
+  ],
+  "clash": []
+ },
+ "çarşaf": {
+  "also": [
+   [
+    "religious clothing",
+    3
+   ]
+  ],
+  "clash": [
+   "middle eastern clothing"
+  ]
+ },
+ "kavuk": {
+  "also": [
+   [
+    "hats",
+    3
+   ]
+  ],
+  "clash": []
+ },
+ "cübbe": {
+  "also": [
+   [
+    "religious clothing",
+    3
+   ]
+  ],
+  "clash": []
+ },
+ "mest": {
+  "also": [
+   [
+    "shoes",
+    3
+   ]
+  ],
+  "clash": []
+ },
+ "takke": {
+  "also": [
+   [
+    "hats",
+    3
+   ],
+   [
+    "religious clothing",
+    3
+   ]
+  ],
+  "clash": []
+ },
+ "abaya": {
+  "also": [
+   [
+    "religious clothing",
+    2
+   ]
+  ],
+  "clash": []
+ },
+ "keffiyeh": {
+  "also": [
+   [
+    "scarves and gloves",
+    2
+   ],
+   [
+    "desert travel",
+    2
+   ]
+  ],
+  "clash": []
+ },
+ "shemagh": {
+  "also": [
+   [
+    "scarves and gloves",
+    3
+   ],
+   [
+    "desert travel",
+    3
+   ]
+  ],
+  "clash": []
+ },
+ "hijab": {
+  "also": [
+   [
+    "religious clothing",
+    1
+   ],
+   [
+    "islam words",
+    1
+   ]
+  ],
+  "clash": []
+ },
+ "niqab": {
+  "also": [
+   [
+    "religious clothing",
+    1
+   ],
+   [
+    "islam words",
+    2
+   ]
+  ],
+  "clash": []
+ },
+ "burqa": {
+  "also": [
+   [
+    "religious clothing",
+    1
+   ],
+   [
+    "islam words",
+    2
+   ]
+  ],
+  "clash": []
+ },
+ "chador": {
+  "also": [
+   [
+    "religious clothing",
+    1
+   ],
+   [
+    "islam words",
+    2
+   ]
+  ],
+  "clash": []
+ },
+ "jilbab": {
+  "also": [
+   [
+    "religious clothing",
+    2
+   ]
+  ],
+  "clash": []
+ },
+ "khimar": {
+  "also": [
+   [
+    "religious clothing",
+    2
+   ]
+  ],
+  "clash": []
+ },
+ "shayla": {
+  "also": [
+   [
+    "religious clothing",
+    3
+   ]
+  ],
+  "clash": []
+ },
+ "taqiyah": {
+  "also": [
+   [
+    "religious clothing",
+    2
+   ],
+   [
+    "hats",
+    3
+   ]
+  ],
+  "clash": []
+ },
+ "tarboosh": {
+  "also": [
+   [
+    "hats",
+    2
+   ],
+   [
+    "ottoman clothing",
+    2
+   ]
+  ],
+  "clash": []
+ },
+ "aba": {
+  "also": [
+   [
+    "palindromes",
+    3
+   ]
+  ],
+  "clash": []
+ },
+ "dashiki": {
+  "also": [
+   [
+    "national costumes",
+    3
+   ]
+  ],
+  "clash": []
+ },
+ "kente": {
+  "also": [
+   [
+    "fabrics",
+    2
+   ],
+   [
+    "african art words",
+    2
+   ],
+   [
+    "materials from africa",
+    1
+   ]
+  ],
+  "clash": []
+ },
+ "gele": {
+  "also": [
+   [
+    "hats",
+    3
+   ]
+  ],
+  "clash": []
+ },
+ "kanga": {
+  "also": [
+   [
+    "fabrics",
+    3
+   ],
+   [
+    "materials from africa",
+    3
+   ]
+  ],
+  "clash": []
+ },
+ "kitenge": {
+  "also": [
+   [
+    "fabrics",
+    2
+   ],
+   [
+    "materials from africa",
+    2
+   ]
+  ],
+  "clash": []
+ },
+ "aso oke": {
+  "also": [
+   [
+    "fabrics",
+    3
+   ],
+   [
+    "materials from africa",
+    3
+   ]
+  ],
+  "clash": []
+ },
+ "djellaba": {
+  "also": [
+   [
+    "moroccan souvenirs",
+    2
+   ]
+  ],
+  "clash": [
+   "middle eastern clothing"
+  ]
+ },
+ "kufi": {
+  "also": [
+   [
+    "hats",
+    2
+   ],
+   [
+    "religious clothing",
+    3
+   ]
+  ],
+  "clash": []
+ },
+ "fila": {
+  "also": [
+   [
+    "hats",
+    3
+   ]
+  ],
+  "clash": []
+ },
+ "isicholo": {
+  "also": [
+   [
+    "hats",
+    3
+   ]
+  ],
+  "clash": []
+ },
+ "shweshwe": {
+  "also": [
+   [
+    "fabrics",
+    2
+   ],
+   [
+    "materials from africa",
+    2
+   ]
+  ],
+  "clash": []
+ },
+ "mudcloth": {
+  "also": [
+   [
+    "fabrics",
+    2
+   ],
+   [
+    "african art words",
+    2
+   ],
+   [
+    "materials from africa",
+    2
+   ]
+  ],
+  "clash": []
+ },
+ "bogolan": {
+  "also": [
+   [
+    "fabrics",
+    3
+   ],
+   [
+    "african art words",
+    3
+   ],
+   [
+    "materials from africa",
+    3
+   ]
+  ],
+  "clash": []
+ },
+ "burnous": {
+  "also": [],
+  "clash": [
+   "middle eastern clothing"
+  ]
+ },
+ "tagelmust": {
+  "also": [
+   [
+    "desert travel",
+    3
+   ]
+  ],
+  "clash": []
+ },
+ "chechia": {
+  "also": [
+   [
+    "hats",
+    3
+   ]
+  ],
+  "clash": []
+ },
+ "mokorotlo": {
+  "also": [
+   [
+    "hats",
+    3
+   ]
+  ],
+  "clash": []
+ },
+ "kimono": {
+  "also": [
+   [
+    "words from japanese",
+    1
+   ],
+   [
+    "national costumes",
+    1
+   ],
+   [
+    "japanese souvenirs",
+    1
+   ]
+  ],
+  "clash": []
+ },
+ "yukata": {
+  "also": [
+   [
+    "words from japanese",
+    3
+   ],
+   [
+    "japanese souvenirs",
+    2
+   ]
+  ],
+  "clash": []
+ },
+ "obi": {
+  "also": [],
+  "clash": [
+   "karate words",
+   "judo words"
+  ]
+ },
+ "hakama": {
+  "also": [
+   [
+    "japanese martial arts",
+    2
+   ]
+  ],
+  "clash": []
+ },
+ "geta": {
+  "also": [
+   [
+    "shoes",
+    2
+   ]
+  ],
+  "clash": []
+ },
+ "zori": {
+  "also": [
+   [
+    "shoes",
+    2
+   ]
+  ],
+  "clash": []
+ },
+ "fundoshi": {
+  "also": [
+   [
+    "underwear",
+    2
+   ]
+  ],
+  "clash": [
+   "sumo words"
+  ]
+ },
+ "waraji": {
+  "also": [
+   [
+    "shoes",
+    3
+   ]
+  ],
+  "clash": []
+ },
+ "juban": {
+  "also": [
+   [
+    "underwear",
+    3
+   ]
+  ],
+  "clash": []
+ },
+ "jika-tabi": {
+  "also": [
+   [
+    "shoes",
+    3
+   ]
+  ],
+  "clash": []
+ },
+ "sugegasa": {
+  "also": [
+   [
+    "hats",
+    3
+   ]
+  ],
+  "clash": []
+ },
+ "okobo": {
+  "also": [
+   [
+    "shoes",
+    3
+   ]
+  ],
+  "clash": []
+ },
+ "shiromuku": {
+  "also": [],
+  "clash": [
+   "weddings"
+  ]
+ },
+ "kanzashi": {
+  "also": [
+   [
+    "hair accessories",
+    2
+   ]
+  ],
+  "clash": []
+ },
+ "sari": {
+  "also": [
+   [
+    "national costumes",
+    1
+   ]
+  ],
+  "clash": []
+ },
+ "lehenga": {
+  "also": [],
+  "clash": [
+   "weddings"
+  ]
+ },
+ "dupatta": {
+  "also": [
+   [
+    "scarves and gloves",
+    2
+   ]
+  ],
+  "clash": []
+ },
+ "pagri": {
+  "also": [
+   [
+    "hats",
+    2
+   ]
+  ],
+  "clash": [
+   "religious clothing"
+  ]
+ },
+ "jodhpuris": {
+  "also": [],
+  "clash": [
+   "horse riding words"
+  ]
+ },
+ "odhni": {
+  "also": [
+   [
+    "scarves and gloves",
+    3
+   ]
+  ],
+  "clash": []
+ },
+ "chunni": {
+  "also": [
+   [
+    "scarves and gloves",
+    3
+   ]
+  ],
+  "clash": []
+ },
+ "jutti": {
+  "also": [
+   [
+    "shoes",
+    3
+   ]
+  ],
+  "clash": []
+ },
+ "mojari": {
+  "also": [
+   [
+    "shoes",
+    3
+   ]
+  ],
+  "clash": []
+ },
+ "Kolhapuri": {
+  "also": [
+   [
+    "shoes",
+    3
+   ]
+  ],
+  "clash": []
+ },
+ "lei": {
+  "also": [
+   [
+    "hawaiian words",
+    1
+   ],
+   [
+    "homophones",
+    2
+   ]
+  ],
+  "clash": [
+   "jewelry"
+  ]
+ },
+ "grass skirt": {
+  "also": [],
+  "clash": [
+   "polynesian dances"
+  ]
+ },
+ "aloha shirt": {
+  "also": [
+   [
+    "tops",
+    1
+   ]
+  ],
+  "clash": [
+   "hawaiian words"
+  ]
+ },
+ "pareo": {
+  "also": [
+   [
+    "beach gear",
+    3
+   ]
+  ],
+  "clash": []
+ },
+ "muumuu": {
+  "also": [
+   [
+    "hawaiian words",
+    2
+   ],
+   [
+    "silly-sounding words",
+    2
+   ],
+   [
+    "double letters",
+    3
+   ]
+  ],
+  "clash": []
+ },
+ "hula skirt": {
+  "also": [],
+  "clash": [
+   "polynesian dances"
+  ]
+ },
+ "piupiu": {
+  "also": [
+   [
+    "maori culture",
+    2
+   ],
+   [
+    "maori words",
+    2
+   ]
+  ],
+  "clash": []
+ },
+ "holoku": {
+  "also": [
+   [
+    "hawaiian words",
+    3
+   ]
+  ],
+  "clash": []
+ },
+ "malo": {
+  "also": [
+   [
+    "hawaiian words",
+    3
+   ]
+  ],
+  "clash": []
+ },
+ "korowai": {
+  "also": [
+   [
+    "maori culture",
+    2
+   ],
+   [
+    "maori words",
+    2
+   ]
+  ],
+  "clash": []
+ },
+ "kahu kiwi": {
+  "also": [
+   [
+    "maori culture",
+    3
+   ]
+  ],
+  "clash": []
+ },
+ "tapa cloth": {
+  "also": [
+   [
+    "pacific art words",
+    2
+   ],
+   [
+    "fabrics",
+    2
+   ],
+   [
+    "materials from oceania",
+    1
+   ]
+  ],
+  "clash": []
+ },
+ "kihei": {
+  "also": [
+   [
+    "hawaiian words",
+    3
+   ]
+  ],
+  "clash": []
+ },
+ "poncho": {
+  "also": [
+   [
+    "gaucho words",
+    1
+   ],
+   [
+    "words from spanish",
+    2
+   ]
+  ],
+  "clash": [
+   "mexican souvenirs"
+  ]
+ },
+ "chullo": {
+  "also": [
+   [
+    "hats",
+    2
+   ],
+   [
+    "andes",
+    2
+   ]
+  ],
+  "clash": []
+ },
+ "bombachas": {
+  "also": [
+   [
+    "gaucho words",
+    2
+   ]
+  ],
+  "clash": []
+ },
+ "Panama hat": {
+  "also": [
+   [
+    "hats",
+    1
+   ],
+   [
+    "words named after places",
+    2
+   ]
+  ],
+  "clash": []
+ },
+ "sombrero vueltiao": {
+  "also": [
+   [
+    "hats",
+    2
+   ]
+  ],
+  "clash": []
+ },
+ "montera": {
+  "also": [
+   [
+    "hats",
+    2
+   ],
+   [
+    "bullfighting words",
+    2
+   ]
+  ],
+  "clash": []
+ },
+ "ojotas": {
+  "also": [
+   [
+    "shoes",
+    3
+   ]
+  ],
+  "clash": []
+ },
+ "alpargatas": {
+  "also": [
+   [
+    "shoes",
+    3
+   ]
+  ],
+  "clash": []
+ },
+ "chiripá": {
+  "also": [
+   [
+    "gaucho words",
+    3
+   ]
+  ],
+  "clash": []
+ },
+ "chupalla": {
+  "also": [
+   [
+    "hats",
+    3
+   ]
+  ],
+  "clash": []
+ },
+ "bombín": {
+  "also": [
+   [
+    "hats",
+    3
+   ]
+  ],
+  "clash": []
+ },
+ "manta": {
+  "also": [],
+  "clash": [
+   "rays and eels"
+  ]
+ },
+ "aguayo": {
+  "also": [],
+  "clash": [
+   "andes"
+  ]
+ },
+ "cowboy hat": {
+  "also": [
+   [
+    "hats",
+    1
+   ],
+   [
+    "cowboy words",
+    1
+   ],
+   [
+    "wild west",
+    1
+   ],
+   [
+    "rodeo words",
+    2
+   ]
+  ],
+  "clash": []
+ },
+ "cowboy boots": {
+  "also": [
+   [
+    "boots",
+    1
+   ],
+   [
+    "cowboy words",
+    1
+   ]
+  ],
+  "clash": []
+ },
+ "chaps": {
+  "also": [
+   [
+    "cowboy words",
+    1
+   ]
+  ],
+  "clash": [
+   "british slang"
+  ]
+ },
+ "bolo tie": {
+  "also": [
+   [
+    "neckwear",
+    2
+   ]
+  ],
+  "clash": []
+ },
+ "bandana": {
+  "also": [
+   [
+    "words from hindi",
+    1
+   ],
+   [
+    "scarves and gloves",
+    2
+   ],
+   [
+    "neckwear",
+    2
+   ]
+  ],
+  "clash": []
+ },
+ "Stetson": {
+  "also": [
+   [
+    "hats",
+    1
+   ],
+   [
+    "cowboy words",
+    1
+   ],
+   [
+    "wild west",
+    1
+   ],
+   [
+    "words named after people",
+    2
+   ]
+  ],
+  "clash": []
+ },
+ "ten-gallon hat": {
+  "also": [
+   [
+    "hats",
+    1
+   ],
+   [
+    "cowboy words",
+    1
+   ]
+  ],
+  "clash": []
+ },
+ "spurs": {
+  "also": [
+   [
+    "cowboy words",
+    1
+   ],
+   [
+    "horse tack",
+    1
+   ],
+   [
+    "rodeo words",
+    2
+   ],
+   [
+    "nba teams",
+    2
+   ],
+   [
+    "european soccer clubs",
+    2
+   ]
+  ],
+  "clash": []
+ },
+ "belt buckle": {
+  "also": [
+   [
+    "rodeo words",
+    2
+   ]
+  ],
+  "clash": [
+   "fastenings"
+  ]
+ },
+ "neckerchief": {
+  "also": [
+   [
+    "neckwear",
+    1
+   ]
+  ],
+  "clash": []
+ },
+ "buckskin": {
+  "also": [
+   [
+    "horse colors",
+    2
+   ]
+  ],
+  "clash": []
+ },
+ "gun belt": {
+  "also": [
+   [
+    "wild west",
+    2
+   ]
+  ],
+  "clash": []
+ },
+ "string tie": {
+  "also": [
+   [
+    "neckwear",
+    2
+   ]
+  ],
+  "clash": []
+ },
+ "kilt": {
+  "also": [
+   [
+    "national costumes",
+    1
+   ],
+   [
+    "highland games",
+    1
+   ]
+  ],
+  "clash": []
+ },
+ "lederhosen": {
+  "also": [
+   [
+    "oktoberfest",
+    1
+   ],
+   [
+    "national costumes",
+    1
+   ],
+   [
+    "words from german",
+    2
+   ]
+  ],
+  "clash": []
+ },
+ "dirndl": {
+  "also": [
+   [
+    "oktoberfest",
+    1
+   ],
+   [
+    "national costumes",
+    1
+   ],
+   [
+    "words from german",
+    2
+   ]
+  ],
+  "clash": []
+ },
+ "sporran": {
+  "also": [
+   [
+    "highland games",
+    2
+   ]
+  ],
+  "clash": []
+ },
+ "clogs": {
+  "also": [
+   [
+    "shoes",
+    1
+   ],
+   [
+    "things made of wood",
+    2
+   ]
+  ],
+  "clash": []
+ },
+ "bunad": {
+  "also": [
+   [
+    "national costumes",
+    3
+   ]
+  ],
+  "clash": []
+ },
+ "tartan": {
+  "also": [
+   [
+    "fabric prints",
+    1
+   ],
+   [
+    "patterns",
+    1
+   ],
+   [
+    "highland games",
+    2
+   ]
+  ],
+  "clash": []
+ },
+ "trachten": {
+  "also": [
+   [
+    "oktoberfest",
+    3
+   ]
+  ],
+  "clash": []
+ },
+ "sarafan": {
+  "also": [
+   [
+    "national costumes",
+    3
+   ]
+  ],
+  "clash": []
+ },
+ "kokoshnik": {
+  "also": [
+   [
+    "hats",
+    2
+   ],
+   [
+    "national costumes",
+    3
+   ]
+  ],
+  "clash": []
+ },
+ "vyshyvanka": {
+  "also": [
+   [
+    "national costumes",
+    3
+   ]
+  ],
+  "clash": []
+ },
+ "opanci": {
+  "also": [
+   [
+    "shoes",
+    3
+   ]
+  ],
+  "clash": []
+ },
+ "Glengarry": {
+  "also": [
+   [
+    "hats",
+    2
+   ]
+  ],
+  "clash": []
+ },
+ "balmoral": {
+  "also": [
+   [
+    "hats",
+    2
+   ]
+  ],
+  "clash": [
+   "famous castles"
+  ]
+ },
+ "ghillie brogues": {
+  "also": [
+   [
+    "shoes",
+    2
+   ]
+  ],
+  "clash": []
+ },
+ "beret": {
+  "also": [
+   [
+    "hats",
+    1
+   ],
+   [
+    "words from french",
+    2
+   ]
+  ],
+  "clash": []
+ },
+ "espadrilles": {
+  "also": [
+   [
+    "shoes",
+    1
+   ]
+  ],
+  "clash": []
+ },
+ "Bollenhut": {
+  "also": [
+   [
+    "hats",
+    3
+   ]
+  ],
+  "clash": []
+ },
+ "klompen": {
+  "also": [
+   [
+    "shoes",
+    3
+   ]
+  ],
+  "clash": []
+ },
+ "Breton cap": {
+  "also": [
+   [
+    "hats",
+    2
+   ]
+  ],
+  "clash": []
+ },
+ "coiffe": {
+  "also": [
+   [
+    "hats",
+    3
+   ]
+  ],
+  "clash": []
+ },
+ "plaid": {
+  "also": [
+   [
+    "fabric prints",
+    1
+   ],
+   [
+    "patterns",
+    1
+   ]
+  ],
+  "clash": []
+ }
+}

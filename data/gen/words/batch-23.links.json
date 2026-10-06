@@ -1,0 +1,18744 @@
+{
+"democracy": {
+"also": [],
+"clash": [
+"government words",
+"election words"
+]
+},
+"monarchy": {
+"also": [
+[
+"royal things",
+1
+]
+],
+"clash": [
+"royal titles"
+]
+},
+"dictatorship": {
+"also": [],
+"clash": [
+"government words",
+"words for leader"
+]
+},
+"republic": {
+"also": [],
+"clash": [
+"government words"
+]
+},
+"theocracy": {
+"also": [],
+"clash": [
+"religion words"
+]
+},
+"oligarchy": {
+"also": [],
+"clash": [
+"social classes"
+]
+},
+"anarchy": {
+"also": [],
+"clash": [
+"political ideologies",
+"troublemakers"
+]
+},
+"aristocracy": {
+"also": [
+[
+"social classes",
+1
+]
+],
+"clash": [
+"feudal ranks",
+"royal things"
+]
+},
+"empire": {
+"also": [],
+"clash": [
+"empires",
+"royal things"
+]
+},
+"tyranny": {
+"also": [],
+"clash": [
+"words for leader"
+]
+},
+"federation": {
+"also": [],
+"clash": [
+"government words"
+]
+},
+"junta": {
+"also": [
+[
+"groups of people",
+3
+]
+],
+"clash": [
+"army words"
+]
+},
+"totalitarianism": {
+"also": [],
+"clash": [
+"political ideologies"
+]
+},
+"authoritarianism": {
+"also": [],
+"clash": [
+"political ideologies"
+]
+},
+"absolute monarchy": {
+"also": [],
+"clash": [
+"royal things"
+]
+},
+"constitutional monarchy": {
+"also": [],
+"clash": [
+"royal things",
+"british politics"
+]
+},
+"parliamentary democracy": {
+"also": [],
+"clash": [
+"british politics"
+]
+},
+"representative democracy": {
+"also": [],
+"clash": [
+"us government"
+]
+},
+"sultanate": {
+"also": [],
+"clash": [
+"ottoman titles",
+"ottoman empire"
+]
+},
+"emirate": {
+"also": [],
+"clash": [
+"royal titles",
+"middle eastern countries"
+]
+},
+"caliphate": {
+"also": [],
+"clash": [
+"islam words",
+"ottoman empire",
+"royal titles"
+]
+},
+"principality": {
+"also": [],
+"clash": [
+"tiny countries",
+"royal things"
+]
+},
+"duchy": {
+"also": [],
+"clash": [
+"feudal ranks",
+"royal titles"
+]
+},
+"city-state": {
+"also": [
+[
+"ancient greece",
+2
+]
+],
+"clash": [
+"tiny countries"
+]
+},
+"colony": {
+"also": [
+[
+"collective nouns",
+2
+]
+],
+"clash": [
+"animal homes",
+"colonial america",
+"insects and bugs"
+]
+},
+"triumvirate": {
+"also": [
+[
+"ancient rome",
+3
+]
+],
+"clash": []
+},
+"tetrarchy": {
+"also": [
+[
+"ancient rome",
+4
+]
+],
+"clash": []
+},
+"despotism": {
+"also": [],
+"clash": [
+"words for leader"
+]
+},
+"absolutism": {
+"also": [],
+"clash": [
+"political ideologies"
+]
+},
+"feudalism": {
+"also": [
+[
+"medieval times",
+2
+]
+],
+"clash": [
+"political ideologies",
+"feudal ranks"
+]
+},
+"shogunate": {
+"also": [
+[
+"feudal japan",
+2
+]
+],
+"clash": []
+},
+"khanate": {
+"also": [],
+"clash": [
+"royal titles"
+]
+},
+"regency": {
+"also": [
+[
+"architecture styles",
+3
+]
+],
+"clash": [
+"royal things",
+"antique furniture",
+"royal titles"
+]
+},
+"puppet state": {
+"also": [],
+"clash": [
+"cold war",
+"puppets"
+]
+},
+"banana republic": {
+"also": [],
+"clash": [
+"tropical fruits"
+]
+},
+"military dictatorship": {
+"also": [],
+"clash": [
+"army words"
+]
+},
+"matriarchy": {
+"also": [],
+"clash": [
+"family members"
+]
+},
+"police state": {
+"also": [],
+"clash": [
+"police words"
+]
+},
+"speaker": {
+"also": [
+[
+"political titles",
+1
+],
+[
+"audio gear",
+1
+],
+[
+"home electronics",
+2
+]
+],
+"clash": [
+"british politics",
+"us government",
+"things you plug in",
+"computer parts"
+]
+},
+"chamber": {
+"also": [],
+"clash": [
+"courtroom words",
+"organs",
+"castle parts"
+]
+},
+"assembly": {
+"also": [],
+"clash": [
+"groups of people",
+"school",
+"factory"
+]
+},
+"opposition": {
+"also": [
+[
+"government words",
+1
+]
+],
+"clash": [
+"election words"
+]
+},
+"committee": {
+"also": [
+[
+"government words",
+1
+],
+[
+"groups of people",
+1
+]
+],
+"clash": []
+},
+"gallery": {
+"also": [
+[
+"theater building parts",
+2
+],
+[
+"golf terms",
+3
+]
+],
+"clash": [
+"art gallery words",
+"museum",
+"courtroom words",
+"phone features"
+]
+},
+"mace": {
+"also": [
+[
+"royal things",
+2
+],
+[
+"medieval weapons",
+1
+],
+[
+"historic weapons",
+1
+],
+[
+"spices",
+3
+]
+],
+"clash": [
+"police words"
+]
+},
+"lobby": {
+"also": [
+[
+"hotel",
+2
+],
+[
+"theater building parts",
+2
+]
+],
+"clash": [
+"government words",
+"us government",
+"movie theater"
+]
+},
+"bench": {
+"also": [
+[
+"seating",
+1
+],
+[
+"garden furniture",
+1
+],
+[
+"street furniture",
+1
+],
+[
+"gym equipment",
+2
+]
+],
+"clash": [
+"british politics",
+"playground",
+"soccer terms",
+"woodworking words"
+]
+},
+"floor": {
+"also": [
+[
+"parts of a house",
+1
+],
+[
+"gymnastics apparatus",
+2
+]
+],
+"clash": [
+"stock market words",
+"nightclub words"
+]
+},
+"member": {
+"also": [],
+"clash": [
+"groups of people",
+"british politics"
+]
+},
+"minister": {
+"also": [
+[
+"political titles",
+1
+]
+],
+"clash": [
+"british politics"
+]
+},
+"clerk": {
+"also": [
+[
+"office jobs",
+1
+]
+],
+"clash": [
+"courtroom words",
+"shopping words",
+"service jobs"
+]
+},
+"quorum": {
+"also": [
+[
+"groups of people",
+3
+]
+],
+"clash": []
+},
+"session": {
+"also": [],
+"clash": [
+"courtroom words",
+"recording studio words",
+"jazz words"
+]
+},
+"debate": {
+"also": [
+[
+"election words",
+1
+]
+],
+"clash": [
+"school"
+]
+},
+"motion": {
+"also": [],
+"clash": [
+"physics words",
+"forces",
+"motion verbs"
+]
+},
+"bill": {
+"also": [
+[
+"government words",
+1
+],
+[
+"bird body parts",
+1
+],
+[
+"restaurant words",
+2
+],
+[
+"short forms of names",
+1
+]
+],
+"clash": [
+"money words",
+"household bills",
+"legal documents",
+"us government",
+"nfl teams"
+]
+},
+"vote": {
+"also": [
+[
+"election words",
+1
+]
+],
+"clash": []
+},
+"amendment": {
+"also": [
+[
+"government words",
+1
+]
+],
+"clash": [
+"us government",
+"legal documents"
+]
+},
+"division": {
+"also": [
+[
+"military units",
+1
+],
+[
+"math operations",
+1
+],
+[
+"war words",
+2
+]
+],
+"clash": [
+"soccer terms",
+"business words"
+]
+},
+"recess": {
+"also": [],
+"clash": [
+"playground",
+"school",
+"us government"
+]
+},
+"coalition": {
+"also": [
+[
+"government words",
+1
+],
+[
+"groups of people",
+2
+]
+],
+"clash": [
+"election words"
+]
+},
+"majority": {
+"also": [
+[
+"government words",
+1
+]
+],
+"clash": [
+"election words",
+"us government",
+"ages and stages"
+]
+},
+"minority": {
+"also": [
+[
+"government words",
+1
+]
+],
+"clash": [
+"election words",
+"us government"
+]
+},
+"seat": {
+"also": [
+[
+"bicycle parts",
+2
+]
+],
+"clash": [
+"seating",
+"car parts",
+"election words",
+"british politics",
+"furniture"
+]
+},
+"crossbench": {
+"also": [
+[
+"british politics",
+3
+]
+],
+"clash": []
+},
+"front bench": {
+"also": [
+[
+"british politics",
+2
+]
+],
+"clash": []
+},
+"back bench": {
+"also": [
+[
+"british politics",
+2
+]
+],
+"clash": []
+},
+"dispatch box": {
+"also": [
+[
+"british politics",
+2
+]
+],
+"clash": []
+},
+"sergeant-at-arms": {
+"also": [],
+"clash": [
+"us government",
+"police words",
+"military ranks"
+]
+},
+"usher": {
+"also": [
+[
+"theater jobs",
+2
+],
+[
+"pop stars",
+2
+]
+],
+"clash": [
+"courtroom words",
+"movie theater",
+"weddings"
+]
+},
+"question time": {
+"also": [
+[
+"british politics",
+2
+]
+],
+"clash": []
+},
+"prorogation": {
+"also": [
+[
+"british politics",
+4
+]
+],
+"clash": []
+},
+"dissolution": {
+"also": [],
+"clash": [
+"british politics",
+"monastery"
+]
+},
+"legislature": {
+"also": [
+[
+"government words",
+2
+]
+],
+"clash": []
+},
+"deputy speaker": {
+"also": [],
+"clash": [
+"political titles",
+"british politics"
+]
+},
+"legislator": {
+"also": [],
+"clash": [
+"political titles",
+"government words"
+]
+},
+"lower house": {
+"also": [],
+"clash": [
+"british politics",
+"us government"
+]
+},
+"upper house": {
+"also": [],
+"clash": [
+"british politics",
+"us government"
+]
+},
+"communism": {
+"also": [
+[
+"cold war",
+2
+]
+],
+"clash": [
+"types of government"
+]
+},
+"anarchism": {
+"also": [],
+"clash": [
+"types of government",
+"troublemakers"
+]
+},
+"capitalism": {
+"also": [
+[
+"cold war",
+2
+]
+],
+"clash": [
+"business words",
+"money words"
+]
+},
+"fascism": {
+"also": [],
+"clash": [
+"world war ii terms"
+]
+},
+"feminism": {
+"also": [],
+"clash": [
+"protest words",
+"suffragists",
+"civil rights figures"
+]
+},
+"environmentalism": {
+"also": [],
+"clash": [
+"conservation words",
+"green living words"
+]
+},
+"imperialism": {
+"also": [],
+"clash": [
+"empires"
+]
+},
+"colonialism": {
+"also": [],
+"clash": [
+"colonial america",
+"exploration"
+]
+},
+"Leninism": {
+"also": [],
+"clash": [
+"cold war"
+]
+},
+"Maoism": {
+"also": [],
+"clash": [
+"cold war",
+"ancient china"
+]
+},
+"Stalinism": {
+"also": [],
+"clash": [
+"cold war"
+]
+},
+"Trotskyism": {
+"also": [],
+"clash": [
+"cold war"
+]
+},
+"Bolshevism": {
+"also": [],
+"clash": [
+"revolutions",
+"cold war"
+]
+},
+"Nazism": {
+"also": [],
+"clash": [
+"world war ii terms"
+]
+},
+"neo-Nazism": {
+"also": [],
+"clash": [
+"world war ii terms"
+]
+},
+"social democracy": {
+"also": [],
+"clash": [
+"types of government"
+]
+},
+"democratic socialism": {
+"also": [],
+"clash": [
+"types of government"
+]
+},
+"monarchism": {
+"also": [],
+"clash": [
+"royal things",
+"types of government"
+]
+},
+"republicanism": {
+"also": [],
+"clash": [
+"us government",
+"types of government"
+]
+},
+"federalism": {
+"also": [],
+"clash": [
+"us government",
+"types of government"
+]
+},
+"pacifism": {
+"also": [
+[
+"peace words",
+1
+]
+],
+"clash": []
+},
+"Zionism": {
+"also": [],
+"clash": [
+"judaism words"
+]
+},
+"Islamism": {
+"also": [],
+"clash": [
+"islam words"
+]
+},
+"secularism": {
+"also": [],
+"clash": [
+"religion words"
+]
+},
+"Thatcherism": {
+"also": [],
+"clash": [
+"british politics"
+]
+},
+"Blairism": {
+"also": [],
+"clash": [
+"british politics"
+]
+},
+"Reaganism": {
+"also": [],
+"clash": [
+"us presidents"
+]
+},
+"Trumpism": {
+"also": [],
+"clash": [
+"us presidents"
+]
+},
+"Jacobinism": {
+"also": [
+[
+"french revolution",
+3
+]
+],
+"clash": []
+},
+"Chartism": {
+"also": [],
+"clash": [
+"protest words",
+"victorian era"
+]
+},
+"protectionism": {
+"also": [],
+"clash": [
+"tax words"
+]
+},
+"laissez-faire": {
+"also": [
+[
+"french phrases in english",
+3
+]
+],
+"clash": []
+},
+"unionism": {
+"also": [],
+"clash": [
+"british politics",
+"protest words"
+]
+},
+"mercantilism": {
+"also": [],
+"clash": [
+"business words"
+]
+},
+"liberalism": {
+"also": [],
+"clash": [
+"british politics"
+]
+},
+"conservatism": {
+"also": [],
+"clash": [
+"british politics"
+]
+},
+"socialism": {
+"also": [],
+"clash": [
+"british politics"
+]
+},
+"nationalism": {
+"also": [],
+"clash": [
+"national symbols"
+]
+},
+"embassy": {
+"also": [],
+"clash": [
+"public buildings"
+]
+},
+"ambassador": {
+"also": [],
+"clash": [
+"political titles"
+]
+},
+"consul": {
+"also": [
+[
+"ancient rome",
+2
+]
+],
+"clash": [
+"political titles"
+]
+},
+"treaty": {
+"also": [
+[
+"peace words",
+1
+]
+],
+"clash": [
+"legal documents",
+"historic documents"
+]
+},
+"summit": {
+"also": [
+[
+"mountain features",
+1
+],
+[
+"mountaineering words",
+2
+]
+],
+"clash": [
+"trail words"
+]
+},
+"accord": {
+"also": [
+[
+"peace words",
+1
+],
+[
+"famous car models",
+2
+]
+],
+"clash": []
+},
+"alliance": {
+"also": [
+[
+"groups of people",
+2
+]
+],
+"clash": [
+"war words"
+]
+},
+"pact": {
+"also": [
+[
+"peace words",
+1
+]
+],
+"clash": []
+},
+"negotiation": {
+"also": [
+[
+"peace words",
+2
+]
+],
+"clash": [
+"business words"
+]
+},
+"détente": {
+"also": [
+[
+"cold war",
+2
+]
+],
+"clash": [
+"peace words"
+]
+},
+"entente": {
+"also": [
+[
+"peace words",
+3
+]
+],
+"clash": []
+},
+"attaché": {
+"also": [],
+"clash": [
+"bags"
+]
+},
+"protocol": {
+"also": [],
+"clash": [
+"networking",
+"internet words"
+]
+},
+"extradition": {
+"also": [],
+"clash": [
+"law and order",
+"courtroom words"
+]
+},
+"asylum": {
+"also": [],
+"clash": [
+"hospital"
+]
+},
+"ceasefire": {
+"also": [
+[
+"peace words",
+1
+]
+],
+"clash": [
+"war words"
+]
+},
+"armistice": {
+"also": [
+[
+"peace words",
+1
+]
+],
+"clash": [
+"war words"
+]
+},
+"truce": {
+"also": [
+[
+"peace words",
+1
+]
+],
+"clash": []
+},
+"mediation": {
+"also": [
+[
+"peace words",
+2
+]
+],
+"clash": []
+},
+"mediator": {
+"also": [],
+"clash": [
+"peace words"
+]
+},
+"mission": {
+"also": [
+[
+"religious buildings",
+3
+]
+],
+"clash": [
+"space missions",
+"spy words"
+]
+},
+"delegation": {
+"also": [
+[
+"groups of people",
+2
+]
+],
+"clash": []
+},
+"delegate": {
+"also": [
+[
+"election words",
+2
+]
+],
+"clash": []
+},
+"memorandum": {
+"also": [],
+"clash": [
+"business words",
+"workplace words"
+]
+},
+"convention": {
+"also": [
+[
+"election words",
+2
+],
+[
+"groups of people",
+3
+]
+],
+"clash": []
+},
+"embargo": {
+"also": [
+[
+"journalism words",
+3
+]
+],
+"clash": [
+"tax words"
+]
+},
+"rapprochement": {
+"also": [
+[
+"peace words",
+3
+]
+],
+"clash": []
+},
+"appeasement": {
+"also": [],
+"clash": [
+"world war ii terms"
+]
+},
+"nuncio": {
+"also": [
+[
+"religious leaders",
+4
+]
+],
+"clash": []
+},
+"back channel": {
+"also": [],
+"clash": [
+"spy words"
+]
+},
+"foreign minister": {
+"also": [
+[
+"political titles",
+1
+]
+],
+"clash": []
+},
+"peace talks": {
+"also": [
+[
+"peace words",
+1
+]
+],
+"clash": []
+},
+"peace treaty": {
+"also": [
+[
+"peace words",
+1
+]
+],
+"clash": []
+},
+"peace process": {
+"also": [
+[
+"peace words",
+2
+]
+],
+"clash": []
+},
+"accords": {
+"also": [],
+"clash": [
+"peace words"
+]
+},
+"sovereignty": {
+"also": [
+[
+"government words",
+2
+]
+],
+"clash": []
+},
+"neutrality": {
+"also": [
+[
+"peace words",
+2
+]
+],
+"clash": []
+},
+"non-aggression": {
+"also": [],
+"clash": [
+"peace words"
+]
+},
+"agreement": {
+"also": [
+[
+"peace words",
+2
+]
+],
+"clash": [
+"legal documents"
+]
+},
+"persona non grata": {
+"also": [
+[
+"latin phrases",
+2
+]
+],
+"clash": []
+},
+"chargé d'affaires": {
+"also": [
+[
+"french phrases in english",
+4
+]
+],
+"clash": []
+},
+"chancery": {
+"also": [],
+"clash": [
+"courtroom words"
+]
+},
+"credentials": {
+"also": [],
+"clash": [
+"in a wallet"
+]
+},
+"communiqué": {
+"also": [],
+"clash": [
+"journalism words"
+]
+},
+"high commissioner": {
+"also": [],
+"clash": [
+"political titles"
+]
+},
+"consul general": {
+"also": [],
+"clash": [
+"political titles"
+]
+},
+"sanctions": {
+"also": [],
+"clash": [
+"punishments"
+]
+},
+"ultimatum": {
+"also": [],
+"clash": [
+"war words"
+]
+},
+"diplomatic immunity": {
+"also": [],
+"clash": [
+"law and order"
+]
+},
+"UN": {
+"also": [],
+"clash": [
+"peace words",
+"diplomacy words"
+]
+},
+"United Nations": {
+"also": [
+[
+"peace words",
+2
+]
+],
+"clash": [
+"diplomacy words"
+]
+},
+"NATO": {
+"also": [
+[
+"cold war",
+1
+],
+[
+"acronyms",
+1
+]
+],
+"clash": [
+"military"
+]
+},
+"EU": {
+"also": [],
+"clash": [
+"diplomacy words"
+]
+},
+"WHO": {
+"also": [],
+"clash": [
+"pronouns",
+"hospital"
+]
+},
+"UNESCO": {
+"also": [
+[
+"acronyms",
+2
+]
+],
+"clash": []
+},
+"OPEC": {
+"also": [
+[
+"acronyms",
+2
+]
+],
+"clash": [
+"fossil fuels"
+]
+},
+"IMF": {
+"also": [],
+"clash": [
+"banking words"
+]
+},
+"Interpol": {
+"also": [
+[
+"police words",
+2
+]
+],
+"clash": [
+"spy words"
+]
+},
+"Red Cross": {
+"also": [
+[
+"charity words",
+1
+]
+],
+"clash": [
+"flags with crosses",
+"red things",
+"first aid"
+]
+},
+"UNICEF": {
+"also": [
+[
+"charity words",
+1
+],
+[
+"acronyms",
+2
+]
+],
+"clash": []
+},
+"World Bank": {
+"also": [],
+"clash": [
+"banking words"
+]
+},
+"Red Crescent": {
+"also": [
+[
+"charity words",
+3
+]
+],
+"clash": [
+"flags with crescents",
+"islam words"
+]
+},
+"Amnesty International": {
+"also": [
+[
+"charity words",
+2
+]
+],
+"clash": [
+"protest words"
+]
+},
+"Greenpeace": {
+"also": [
+[
+"charity words",
+3
+]
+],
+"clash": [
+"conservation words",
+"protest words"
+]
+},
+"Oxfam": {
+"also": [
+[
+"charity words",
+1
+]
+],
+"clash": [
+"shops"
+]
+},
+"Doctors Without Borders": {
+"also": [
+[
+"charity words",
+2
+]
+],
+"clash": []
+},
+"Médecins Sans Frontières": {
+"also": [
+[
+"charity words",
+3
+]
+],
+"clash": []
+},
+"MSF": {
+"also": [],
+"clash": [
+"charity words"
+]
+},
+"Save the Children": {
+"also": [
+[
+"charity words",
+1
+]
+],
+"clash": []
+},
+"Salvation Army": {
+"also": [
+[
+"charity words",
+1
+]
+],
+"clash": [
+"religion words",
+"army words"
+]
+},
+"WWF": {
+"also": [
+[
+"charity words",
+2
+]
+],
+"clash": [
+"conservation words",
+"wrestling terms"
+]
+},
+"Commonwealth": {
+"also": [],
+"clash": [
+"british politics",
+"famous sporting events"
+]
+},
+"FIFA": {
+"also": [
+[
+"acronyms",
+1
+],
+[
+"soccer terms",
+1
+]
+],
+"clash": [
+"video games"
+]
+},
+"IOC": {
+"also": [],
+"clash": [
+"olympic sports"
+]
+},
+"CERN": {
+"also": [
+[
+"acronyms",
+3
+],
+[
+"particle physics",
+3
+]
+],
+"clash": []
+},
+"ESA": {
+"also": [],
+"clash": [
+"space missions",
+"spaceflight words"
+]
+},
+"Warsaw Pact": {
+"also": [
+[
+"cold war",
+2
+]
+],
+"clash": [
+"diplomacy words"
+]
+},
+"Comecon": {
+"also": [
+[
+"cold war",
+4
+]
+],
+"clash": []
+},
+"SEATO": {
+"also": [],
+"clash": [
+"cold war"
+]
+},
+"ANZUS": {
+"also": [],
+"clash": [
+"cold war"
+]
+},
+"League of Nations": {
+"also": [],
+"clash": [
+"diplomacy words"
+]
+},
+"Europol": {
+"also": [
+[
+"police words",
+3
+]
+],
+"clash": []
+},
+"ICC": {
+"also": [],
+"clash": [
+"courtroom words",
+"cricket terms"
+]
+},
+"ICJ": {
+"also": [],
+"clash": [
+"courtroom words"
+]
+},
+"Eurozone": {
+"also": [],
+"clash": [
+"european currencies"
+]
+},
+"NAFTA": {
+"also": [
+[
+"acronyms",
+2
+]
+],
+"clash": []
+},
+"ASEAN": {
+"also": [
+[
+"acronyms",
+3
+]
+],
+"clash": []
+},
+"WFP": {
+"also": [],
+"clash": [
+"charity words"
+]
+},
+"UNHCR": {
+"also": [],
+"clash": [
+"charity words"
+]
+},
+"IFRC": {
+"also": [],
+"clash": [
+"charity words"
+]
+},
+"IAEA": {
+"also": [],
+"clash": [
+"nuclear words"
+]
+},
+"Arab League": {
+"also": [],
+"clash": [
+"arabic-speaking countries"
+]
+},
+"Rotary International": {
+"also": [],
+"clash": [
+"charity words"
+]
+},
+"G7": {
+"also": [],
+"clash": [
+"diplomacy words"
+]
+},
+"G20": {
+"also": [],
+"clash": [
+"diplomacy words"
+]
+},
+"G8": {
+"also": [],
+"clash": [
+"diplomacy words"
+]
+},
+"Congress": {
+"also": [
+[
+"groups of people",
+3
+]
+],
+"clash": [
+"government words"
+]
+},
+"Senate": {
+"also": [
+[
+"groups of people",
+3
+],
+[
+"ancient rome",
+2
+]
+],
+"clash": [
+"government words"
+]
+},
+"House": {
+"also": [
+[
+"electronic music styles",
+2
+]
+],
+"clash": [
+"houses and homes",
+"british politics",
+"dance music"
+]
+},
+"Supreme Court": {
+"also": [],
+"clash": [
+"courtroom words"
+]
+},
+"cabinet": {
+"also": [
+[
+"government words",
+1
+],
+[
+"storage furniture",
+1
+],
+[
+"groups of people",
+3
+]
+],
+"clash": [
+"british politics",
+"kitchen",
+"medicine cabinet"
+]
+},
+"White House": {
+"also": [
+[
+"us landmarks",
+1
+],
+[
+"famous buildings",
+1
+]
+],
+"clash": [
+"white things"
+]
+},
+"governor": {
+"also": [
+[
+"political titles",
+1
+],
+[
+"words for leader",
+2
+]
+],
+"clash": []
+},
+"veto": {
+"also": [
+[
+"government words",
+1
+]
+],
+"clash": []
+},
+"president": {
+"also": [
+[
+"political titles",
+1
+],
+[
+"words for leader",
+1
+]
+],
+"clash": []
+},
+"vice president": {
+"also": [
+[
+"political titles",
+1
+]
+],
+"clash": []
+},
+"senator": {
+"also": [
+[
+"political titles",
+1
+]
+],
+"clash": [
+"ancient rome"
+]
+},
+"congressman": {
+"also": [
+[
+"political titles",
+1
+]
+],
+"clash": []
+},
+"congresswoman": {
+"also": [
+[
+"political titles",
+1
+]
+],
+"clash": []
+},
+"representative": {
+"also": [
+[
+"political titles",
+2
+]
+],
+"clash": []
+},
+"filibuster": {
+"also": [
+[
+"government words",
+3
+]
+],
+"clash": [
+"pirate words"
+]
+},
+"impeachment": {
+"also": [
+[
+"government words",
+2
+]
+],
+"clash": []
+},
+"Capitol": {
+"also": [
+[
+"us landmarks",
+1
+],
+[
+"famous buildings",
+2
+]
+],
+"clash": [
+"homophones"
+]
+},
+"Pentagon": {
+"also": [
+[
+"polygons",
+1
+],
+[
+"2d shapes",
+1
+],
+[
+"us landmarks",
+2
+],
+[
+"famous buildings",
+2
+]
+],
+"clash": []
+},
+"Oval Office": {
+"also": [],
+"clash": [
+"us landmarks"
+]
+},
+"executive order": {
+"also": [
+[
+"government words",
+2
+]
+],
+"clash": []
+},
+"Electoral College": {
+"also": [
+[
+"election words",
+2
+]
+],
+"clash": []
+},
+"primary": {
+"also": [
+[
+"election words",
+1
+]
+],
+"clash": [
+"color theory words",
+"school types"
+]
+},
+"caucus": {
+"also": [
+[
+"election words",
+2
+],
+[
+"groups of people",
+3
+]
+],
+"clash": []
+},
+"midterms": {
+"also": [
+[
+"election words",
+2
+]
+],
+"clash": [
+"exam words"
+]
+},
+"Democrat": {
+"also": [],
+"clash": [
+"election words"
+]
+},
+"Republican": {
+"also": [],
+"clash": [
+"election words"
+]
+},
+"Bill of Rights": {
+"also": [
+[
+"government words",
+2
+],
+[
+"historic documents",
+1
+]
+],
+"clash": []
+},
+"Constitution": {
+"also": [
+[
+"government words",
+1
+],
+[
+"historic documents",
+2
+]
+],
+"clash": [
+"famous ships"
+]
+},
+"FBI": {
+"also": [
+[
+"police words",
+2
+]
+],
+"clash": [
+"spy words",
+"detective words"
+]
+},
+"CIA": {
+"also": [
+[
+"spy words",
+1
+],
+[
+"cold war",
+1
+]
+],
+"clash": []
+},
+"NSA": {
+"also": [
+[
+"spy words",
+2
+]
+],
+"clash": []
+},
+"attorney general": {
+"also": [
+[
+"political titles",
+1
+]
+],
+"clash": [
+"courtroom words"
+]
+},
+"secretary of state": {
+"also": [
+[
+"political titles",
+1
+]
+],
+"clash": []
+},
+"chief justice": {
+"also": [],
+"clash": [
+"courtroom words"
+]
+},
+"chief of staff": {
+"also": [
+[
+"political titles",
+2
+]
+],
+"clash": [
+"army words"
+]
+},
+"press secretary": {
+"also": [
+[
+"political titles",
+2
+]
+],
+"clash": []
+},
+"majority leader": {
+"also": [
+[
+"political titles",
+2
+]
+],
+"clash": []
+},
+"minority leader": {
+"also": [
+[
+"political titles",
+2
+]
+],
+"clash": []
+},
+"Senate Majority Leader": {
+"also": [],
+"clash": [
+"political titles"
+]
+},
+"lobbyist": {
+"also": [
+[
+"government words",
+2
+]
+],
+"clash": []
+},
+"super PAC": {
+"also": [
+[
+"election words",
+3
+]
+],
+"clash": []
+},
+"PAC": {
+"also": [
+[
+"acronyms",
+3
+]
+],
+"clash": [
+"election words"
+]
+},
+"gerrymandering": {
+"also": [
+[
+"election words",
+2
+]
+],
+"clash": []
+},
+"swing state": {
+"also": [
+[
+"election words",
+2
+]
+],
+"clash": []
+},
+"inauguration": {
+"also": [
+[
+"government words",
+2
+]
+],
+"clash": []
+},
+"Air Force One": {
+"also": [],
+"clash": [
+"air force words",
+"aircraft types"
+]
+},
+"Capitol Hill": {
+"also": [],
+"clash": [
+"us landmarks"
+]
+},
+"Beltway": {
+"also": [],
+"clash": [
+"road types"
+]
+},
+"federal": {
+"also": [
+[
+"government words",
+1
+]
+],
+"clash": []
+},
+"checks and balances": {
+"also": [
+[
+"government words",
+2
+]
+],
+"clash": []
+},
+"separation of powers": {
+"also": [
+[
+"government words",
+2
+]
+],
+"clash": []
+},
+"Founding Fathers": {
+"also": [
+[
+"american revolution",
+1
+]
+],
+"clash": [
+"founding fathers"
+]
+},
+"Declaration of Independence": {
+"also": [
+[
+"historic documents",
+1
+],
+[
+"american revolution",
+1
+]
+],
+"clash": []
+},
+"Library of Congress": {
+"also": [],
+"clash": [
+"library",
+"famous buildings"
+]
+},
+"Secret Service": {
+"also": [
+[
+"government words",
+2
+]
+],
+"clash": [
+"spy words"
+]
+},
+"EPA": {
+"also": [],
+"clash": [
+"conservation words"
+]
+},
+"FEMA": {
+"also": [
+[
+"acronyms",
+3
+]
+],
+"clash": [
+"natural disasters"
+]
+},
+"NASA": {
+"also": [
+[
+"acronyms",
+1
+],
+[
+"spaceflight words",
+1
+]
+],
+"clash": [
+"space missions"
+]
+},
+"FDA": {
+"also": [],
+"clash": [
+"pharmacy"
+]
+},
+"Department of Defense": {
+"also": [],
+"clash": [
+"military"
+]
+},
+"Homeland Security": {
+"also": [],
+"clash": [
+"police words"
+]
+},
+"lieutenant governor": {
+"also": [
+[
+"political titles",
+2
+]
+],
+"clash": []
+},
+"mayor": {
+"also": [
+[
+"political titles",
+1
+]
+],
+"clash": []
+},
+"ballot": {
+"also": [
+[
+"election words",
+1
+]
+],
+"clash": []
+},
+"county commissioner": {
+"also": [],
+"clash": [
+"political titles"
+]
+},
+"statehouse": {
+"also": [],
+"clash": [
+"public buildings"
+]
+},
+"override": {
+"also": [],
+"clash": [
+"computer actions"
+]
+},
+"Westminster": {
+"also": [
+[
+"london landmarks",
+1
+]
+],
+"clash": [
+"famous churches"
+]
+},
+"Downing Street": {
+"also": [
+[
+"london landmarks",
+1
+],
+[
+"famous streets",
+1
+]
+],
+"clash": []
+},
+"Whitehall": {
+"also": [
+[
+"famous streets",
+3
+],
+[
+"london landmarks",
+2
+]
+],
+"clash": []
+},
+"Lords": {
+"also": [],
+"clash": [
+"famous stadiums",
+"feudal ranks"
+]
+},
+"MP": {
+"also": [
+[
+"political titles",
+1
+]
+],
+"clash": []
+},
+"whip": {
+"also": [
+[
+"political titles",
+2
+],
+[
+"horse tack",
+2
+]
+],
+"clash": [
+"punishments",
+"cooking methods",
+"rodeo words"
+]
+},
+"Chancellor": {
+"also": [
+[
+"political titles",
+1
+]
+],
+"clash": [
+"university words"
+]
+},
+"prime minister": {
+"also": [
+[
+"political titles",
+1
+],
+[
+"words for leader",
+2
+]
+],
+"clash": []
+},
+"Number 10": {
+"also": [],
+"clash": [
+"numbers",
+"london landmarks"
+]
+},
+"Labour": {
+"also": [],
+"clash": [
+"childbirth words"
+]
+},
+"Black Rod": {
+"also": [],
+"clash": [
+"royal things"
+]
+},
+"Home Secretary": {
+"also": [
+[
+"political titles",
+1
+]
+],
+"clash": []
+},
+"Foreign Secretary": {
+"also": [
+[
+"political titles",
+1
+]
+],
+"clash": []
+},
+"Treasury": {
+"also": [
+[
+"government words",
+1
+]
+],
+"clash": [
+"treasure"
+]
+},
+"Chequers": {
+"also": [],
+"clash": [
+"board games"
+]
+},
+"Big Ben": {
+"also": [
+[
+"london landmarks",
+1
+],
+[
+"famous towers",
+1
+]
+],
+"clash": [
+"clock types"
+]
+},
+"Houses of Parliament": {
+"also": [
+[
+"london landmarks",
+1
+],
+[
+"famous buildings",
+1
+]
+],
+"clash": []
+},
+"shadow chancellor": {
+"also": [
+[
+"political titles",
+2
+]
+],
+"clash": []
+},
+"by-election": {
+"also": [
+[
+"election words",
+2
+]
+],
+"clash": []
+},
+"general election": {
+"also": [
+[
+"election words",
+1
+]
+],
+"clash": []
+},
+"hung parliament": {
+"also": [
+[
+"election words",
+2
+]
+],
+"clash": []
+},
+"constituency": {
+"also": [
+[
+"election words",
+2
+]
+],
+"clash": []
+},
+"manifesto": {
+"also": [
+[
+"election words",
+1
+],
+[
+"protest words",
+3
+]
+],
+"clash": []
+},
+"red box": {
+"also": [],
+"clash": [
+"royal things",
+"red things"
+]
+},
+"peer": {
+"also": [],
+"clash": [
+"words for friend"
+]
+},
+"baroness": {
+"also": [
+[
+"feudal ranks",
+2
+]
+],
+"clash": [
+"royal titles"
+]
+},
+"Holyrood": {
+"also": [],
+"clash": [
+"famous palaces"
+]
+},
+"Brexit": {
+"also": [
+[
+"portmanteau words",
+2
+]
+],
+"clash": []
+},
+"civil service": {
+"also": [
+[
+"government words",
+1
+]
+],
+"clash": []
+},
+"spin doctor": {
+"also": [
+[
+"government words",
+2
+],
+[
+"journalism words",
+2
+]
+],
+"clash": []
+},
+"councilor": {
+"also": [
+[
+"political titles",
+2
+]
+],
+"clash": []
+},
+"Lord Chancellor": {
+"also": [],
+"clash": [
+"political titles",
+"courtroom words"
+]
+},
+"Chief Whip": {
+"also": [
+[
+"political titles",
+2
+]
+],
+"clash": []
+},
+"Privy Council": {
+"also": [],
+"clash": [
+"royal things"
+]
+},
+"first past the post": {
+"also": [
+[
+"election words",
+3
+]
+],
+"clash": [
+"horse racing terms"
+]
+},
+"hustings": {
+"also": [
+[
+"election words",
+3
+]
+],
+"clash": []
+},
+"Speaker of the House": {
+"also": [
+[
+"political titles",
+2
+]
+],
+"clash": []
+},
+"safe seat": {
+"also": [
+[
+"election words",
+2
+]
+],
+"clash": []
+},
+"marginal seat": {
+"also": [
+[
+"election words",
+3
+]
+],
+"clash": []
+},
+"Chancellor of the Exchequer": {
+"also": [
+[
+"political titles",
+1
+]
+],
+"clash": []
+},
+"King's Speech": {
+"also": [],
+"clash": [
+"royal things"
+]
+},
+"Conservative": {
+"also": [],
+"clash": [
+"political ideologies"
+]
+},
+"Liberal Party": {
+"also": [],
+"clash": [
+"political ideologies"
+]
+},
+"Unionist": {
+"also": [],
+"clash": [
+"political ideologies"
+]
+},
+"Green Party": {
+"also": [],
+"clash": [
+"environment"
+]
+},
+"Tory": {
+"also": [],
+"clash": [
+"political ideologies"
+]
+},
+"church": {
+"also": [
+[
+"religious buildings",
+1
+]
+],
+"clash": [
+"famous churches"
+]
+},
+"temple": {
+"also": [
+[
+"religious buildings",
+1
+],
+[
+"hinduism words",
+2
+],
+[
+"face",
+2
+]
+],
+"clash": [
+"hanukkah",
+"judaism words",
+"famous temples"
+]
+},
+"cathedral": {
+"also": [
+[
+"religious buildings",
+1
+]
+],
+"clash": [
+"famous churches"
+]
+},
+"chapel": {
+"also": [
+[
+"religious buildings",
+1
+],
+[
+"church parts",
+2
+],
+[
+"monastery",
+2
+]
+],
+"clash": []
+},
+"shrine": {
+"also": [
+[
+"religious buildings",
+1
+],
+[
+"east asian buildings",
+2
+]
+],
+"clash": []
+},
+"monastery": {
+"also": [
+[
+"religious buildings",
+1
+]
+],
+"clash": [
+"monastery"
+]
+},
+"abbey": {
+"also": [
+[
+"religious buildings",
+1
+],
+[
+"monastery",
+1
+]
+],
+"clash": [
+"famous churches"
+]
+},
+"basilica": {
+"also": [
+[
+"religious buildings",
+1
+]
+],
+"clash": [
+"famous churches"
+]
+},
+"gurdwara": {
+"also": [
+[
+"religious buildings",
+2
+]
+],
+"clash": []
+},
+"pagoda": {
+"also": [
+[
+"religious buildings",
+2
+],
+[
+"asian temple features",
+1
+],
+[
+"east asian buildings",
+1
+]
+],
+"clash": [
+"towers and skyscrapers"
+]
+},
+"mandir": {
+"also": [
+[
+"religious buildings",
+3
+],
+[
+"hinduism words",
+3
+]
+],
+"clash": []
+},
+"kirk": {
+"also": [
+[
+"religious buildings",
+3
+],
+[
+"scottish words",
+2
+]
+],
+"clash": []
+},
+"minster": {
+"also": [
+[
+"religious buildings",
+3
+]
+],
+"clash": [
+"famous churches"
+]
+},
+"convent": {
+"also": [
+[
+"religious buildings",
+2
+],
+[
+"monastery",
+2
+]
+],
+"clash": []
+},
+"priory": {
+"also": [
+[
+"religious buildings",
+3
+],
+[
+"monastery",
+3
+]
+],
+"clash": []
+},
+"oratory": {
+"also": [
+[
+"religious buildings",
+4
+]
+],
+"clash": []
+},
+"tabernacle": {
+"also": [
+[
+"religious buildings",
+3
+],
+[
+"church parts",
+3
+]
+],
+"clash": [
+"judaism words"
+]
+},
+"meeting house": {
+"also": [
+[
+"religious buildings",
+3
+]
+],
+"clash": []
+},
+"Kingdom Hall": {
+"also": [
+[
+"religious buildings",
+3
+]
+],
+"clash": []
+},
+"wat": {
+"also": [
+[
+"religious buildings",
+4
+]
+],
+"clash": []
+},
+"Shinto shrine": {
+"also": [
+[
+"religious buildings",
+2
+]
+],
+"clash": [
+"japanese landmarks"
+]
+},
+"fire temple": {
+"also": [
+[
+"religious buildings",
+4
+]
+],
+"clash": []
+},
+"parish church": {
+"also": [
+[
+"religious buildings",
+2
+]
+],
+"clash": []
+},
+"sanctuary": {
+"also": [
+[
+"religious buildings",
+3
+],
+[
+"church parts",
+3
+]
+],
+"clash": [
+"conservation words",
+"animal homes"
+]
+},
+"baptistery": {
+"also": [
+[
+"religious buildings",
+4
+],
+[
+"church parts",
+3
+]
+],
+"clash": []
+},
+"chantry": {
+"also": [
+[
+"religious buildings",
+4
+],
+[
+"church parts",
+4
+]
+],
+"clash": []
+},
+"nunnery": {
+"also": [
+[
+"religious buildings",
+3
+],
+[
+"monastery",
+2
+]
+],
+"clash": []
+},
+"friary": {
+"also": [
+[
+"religious buildings",
+3
+],
+[
+"monastery",
+3
+]
+],
+"clash": []
+},
+"hermitage": {
+"also": [
+[
+"religious buildings",
+3
+]
+],
+"clash": [
+"famous museums"
+]
+},
+"ashram": {
+"also": [
+[
+"religious buildings",
+3
+],
+[
+"hinduism words",
+2
+]
+],
+"clash": []
+},
+"vihara": {
+"also": [
+[
+"religious buildings",
+4
+]
+],
+"clash": []
+},
+"gompa": {
+"also": [
+[
+"religious buildings",
+4
+]
+],
+"clash": []
+},
+"lamasery": {
+"also": [
+[
+"religious buildings",
+4
+]
+],
+"clash": []
+},
+"ziggurat": {
+"also": [
+[
+"religious buildings",
+3
+],
+[
+"mesopotamia",
+2
+]
+],
+"clash": [
+"ancient wonders"
+]
+},
+"pantheon": {
+"also": [
+[
+"rome landmarks",
+2
+]
+],
+"clash": [
+"famous temples",
+"greek gods",
+"roman gods"
+]
+},
+"kiva": {
+"also": [
+[
+"religious buildings",
+4
+]
+],
+"clash": [
+"traditional dwellings"
+]
+},
+"masjid": {
+"also": [
+[
+"religious buildings",
+3
+]
+],
+"clash": [
+"islam words"
+]
+},
+"charterhouse": {
+"also": [
+[
+"religious buildings",
+4
+]
+],
+"clash": [
+"monastery"
+]
+},
+"duomo": {
+"also": [
+[
+"famous churches",
+3
+]
+],
+"clash": []
+},
+"cloister": {
+"also": [
+[
+"religious buildings",
+3
+],
+[
+"monastery",
+2
+],
+[
+"church parts",
+3
+]
+],
+"clash": []
+},
+"collegiate church": {
+"also": [
+[
+"religious buildings",
+4
+]
+],
+"clash": []
+},
+"joss house": {
+"also": [
+[
+"religious buildings",
+4
+]
+],
+"clash": []
+},
+"heiau": {
+"also": [
+[
+"religious buildings",
+4
+]
+],
+"clash": []
+},
+"church hall": {
+"also": [],
+"clash": [
+"church parts"
+]
+},
+"prayer room": {
+"also": [],
+"clash": [
+"mosque parts"
+]
+},
+"sanctum": {
+"also": [],
+"clash": [
+"church parts"
+]
+},
+"Hindu temple": {
+"also": [],
+"clash": [
+"hinduism words"
+]
+},
+"Buddhist temple": {
+"also": [],
+"clash": [
+"buddhism words"
+]
+},
+"Sikh temple": {
+"also": [],
+"clash": [
+"religious buildings"
+]
+},
+"Jain temple": {
+"also": [],
+"clash": [
+"religious buildings"
+]
+},
+"megachurch": {
+"also": [],
+"clash": [
+"religious buildings"
+]
+},
+"Mecca": {
+"also": [
+[
+"holy cities",
+1
+],
+[
+"middle eastern cities",
+2
+]
+],
+"clash": [
+"islam words"
+]
+},
+"Lourdes": {
+"also": [
+[
+"holy cities",
+2
+]
+],
+"clash": [
+"french cities"
+]
+},
+"Varanasi": {
+"also": [
+[
+"holy cities",
+1
+],
+[
+"indian cities",
+2
+]
+],
+"clash": [
+"hinduism words"
+]
+},
+"Jerusalem": {
+"also": [
+[
+"holy cities",
+1
+],
+[
+"middle eastern cities",
+1
+],
+[
+"ancient cities",
+2
+]
+],
+"clash": [
+"capital cities",
+"asian capitals",
+"hanukkah"
+]
+},
+"Santiago de Compostela": {
+"also": [
+[
+"holy cities",
+2
+],
+[
+"spanish cities",
+3
+]
+],
+"clash": [
+"famous hiking trails"
+]
+},
+"Canterbury": {
+"also": [
+[
+"holy cities",
+2
+],
+[
+"british cities",
+2
+]
+],
+"clash": [
+"famous churches"
+]
+},
+"Bodh Gaya": {
+"also": [
+[
+"holy cities",
+3
+]
+],
+"clash": [
+"buddhism words"
+]
+},
+"Amritsar": {
+"also": [
+[
+"holy cities",
+3
+],
+[
+"indian cities",
+3
+]
+],
+"clash": []
+},
+"Medina": {
+"also": [
+[
+"holy cities",
+1
+],
+[
+"middle eastern cities",
+2
+]
+],
+"clash": [
+"islam words"
+]
+},
+"Vatican": {
+"also": [
+[
+"tiny countries",
+1
+],
+[
+"rome landmarks",
+2
+]
+],
+"clash": [
+"holy cities"
+]
+},
+"Rome": {
+"also": [
+[
+"holy cities",
+2
+],
+[
+"european capitals",
+1
+],
+[
+"capital cities",
+1
+],
+[
+"italian cities",
+1
+],
+[
+"european cities",
+1
+],
+[
+"ancient cities",
+1
+]
+],
+"clash": [
+"ancient rome"
+]
+},
+"Fátima": {
+"also": [
+[
+"holy cities",
+3
+]
+],
+"clash": [
+"arabic names",
+"girls' names"
+]
+},
+"Kaaba": {
+"also": [
+[
+"islam words",
+2
+]
+],
+"clash": [
+"mosque parts",
+"famous mosques"
+]
+},
+"Western Wall": {
+"also": [],
+"clash": [
+"judaism words"
+]
+},
+"Wailing Wall": {
+"also": [],
+"clash": [
+"judaism words"
+]
+},
+"Bethlehem": {
+"also": [
+[
+"holy cities",
+1
+],
+[
+"christmas",
+1
+]
+],
+"clash": []
+},
+"Nazareth": {
+"also": [
+[
+"holy cities",
+2
+]
+],
+"clash": []
+},
+"Golden Temple": {
+"also": [
+[
+"famous temples",
+1
+],
+[
+"indian landmarks",
+2
+]
+],
+"clash": []
+},
+"Lumbini": {
+"also": [
+[
+"holy cities",
+3
+]
+],
+"clash": []
+},
+"Sarnath": {
+"also": [
+[
+"holy cities",
+4
+]
+],
+"clash": []
+},
+"Kushinagar": {
+"also": [
+[
+"holy cities",
+4
+]
+],
+"clash": []
+},
+"Mount Kailash": {
+"also": [
+[
+"himalayan peaks",
+3
+],
+[
+"famous mountains",
+3
+]
+],
+"clash": []
+},
+"Haridwar": {
+"also": [
+[
+"holy cities",
+3
+]
+],
+"clash": [
+"indian cities"
+]
+},
+"Rishikesh": {
+"also": [
+[
+"holy cities",
+3
+]
+],
+"clash": [
+"indian cities"
+]
+},
+"Prayagraj": {
+"also": [
+[
+"holy cities",
+3
+],
+[
+"indian cities",
+3
+]
+],
+"clash": []
+},
+"Allahabad": {
+"also": [],
+"clash": [
+"holy cities",
+"indian cities"
+]
+},
+"Tirupati": {
+"also": [
+[
+"holy cities",
+3
+],
+[
+"famous temples",
+3
+]
+],
+"clash": []
+},
+"Puri": {
+"also": [
+[
+"holy cities",
+3
+],
+[
+"flatbreads",
+3
+],
+[
+"indian food",
+3
+]
+],
+"clash": []
+},
+"Kedarnath": {
+"also": [
+[
+"famous temples",
+4
+]
+],
+"clash": []
+},
+"Badrinath": {
+"also": [
+[
+"famous temples",
+4
+]
+],
+"clash": []
+},
+"Ayodhya": {
+"also": [
+[
+"holy cities",
+3
+]
+],
+"clash": []
+},
+"Mathura": {
+"also": [
+[
+"holy cities",
+3
+]
+],
+"clash": []
+},
+"Vrindavan": {
+"also": [
+[
+"holy cities",
+3
+]
+],
+"clash": []
+},
+"Karbala": {
+"also": [
+[
+"holy cities",
+3
+]
+],
+"clash": []
+},
+"Kerbala": {
+"also": [],
+"clash": [
+"holy cities"
+]
+},
+"Najaf": {
+"also": [
+[
+"holy cities",
+3
+]
+],
+"clash": []
+},
+"Mashhad": {
+"also": [
+[
+"holy cities",
+3
+],
+[
+"middle eastern cities",
+3
+]
+],
+"clash": []
+},
+"Qom": {
+"also": [
+[
+"holy cities",
+3
+]
+],
+"clash": []
+},
+"Knock": {
+"also": [
+[
+"impact sounds",
+2
+]
+],
+"clash": []
+},
+"Walsingham": {
+"also": [
+[
+"holy cities",
+4
+]
+],
+"clash": []
+},
+"Iona": {
+"also": [
+[
+"holy cities",
+3
+],
+[
+"monastery",
+3
+]
+],
+"clash": [
+"famous islands"
+]
+},
+"Lindisfarne": {
+"also": [],
+"clash": [
+"monastery",
+"famous islands"
+]
+},
+"Glastonbury": {
+"also": [
+[
+"holy cities",
+3
+],
+[
+"music festivals",
+1
+]
+],
+"clash": []
+},
+"Guadalupe": {
+"also": [],
+"clash": [
+"famous churches",
+"caribbean islands"
+]
+},
+"Medjugorje": {
+"also": [
+[
+"holy cities",
+4
+]
+],
+"clash": []
+},
+"Częstochowa": {
+"also": [
+[
+"holy cities",
+4
+]
+],
+"clash": []
+},
+"Assisi": {
+"also": [
+[
+"holy cities",
+3
+]
+],
+"clash": [
+"italian cities"
+]
+},
+"Mount Athos": {
+"also": [
+[
+"monastery",
+3
+]
+],
+"clash": [
+"famous mountains"
+]
+},
+"Mount Sinai": {
+"also": [
+[
+"famous mountains",
+2
+]
+],
+"clash": []
+},
+"Shikoku": {
+"also": [],
+"clash": [
+"famous islands"
+]
+},
+"Ise": {
+"also": [
+[
+"holy cities",
+4
+]
+],
+"clash": []
+},
+"Kumano Kodo": {
+"also": [
+[
+"famous hiking trails",
+3
+]
+],
+"clash": []
+},
+"Camino de Santiago": {
+"also": [
+[
+"famous hiking trails",
+2
+]
+],
+"clash": []
+},
+"Kandy": {
+"also": [
+[
+"holy cities",
+3
+]
+],
+"clash": [
+"homophones"
+]
+},
+"Ajmer": {
+"also": [
+[
+"holy cities",
+4
+]
+],
+"clash": []
+},
+"Chartres": {
+"also": [
+[
+"famous churches",
+2
+],
+[
+"french cities",
+3
+]
+],
+"clash": []
+},
+"Montserrat": {
+"also": [
+[
+"famous churches",
+3
+],
+[
+"caribbean islands",
+3
+]
+],
+"clash": []
+},
+"Lalibela": {
+"also": [
+[
+"famous churches",
+3
+],
+[
+"holy cities",
+4
+]
+],
+"clash": []
+},
+"Touba": {
+"also": [
+[
+"holy cities",
+4
+]
+],
+"clash": []
+},
+"Kairouan": {
+"also": [
+[
+"holy cities",
+4
+]
+],
+"clash": []
+},
+"Aparecida": {
+"also": [
+[
+"holy cities",
+4
+]
+],
+"clash": []
+},
+"Hebron": {
+"also": [
+[
+"holy cities",
+3
+]
+],
+"clash": [
+"middle eastern cities"
+]
+},
+"Holy Sepulchre": {
+"also": [
+[
+"famous churches",
+3
+]
+],
+"clash": []
+},
+"Dome of the Rock": {
+"also": [],
+"clash": [
+"famous mosques"
+]
+},
+"Temple Mount": {
+"also": [],
+"clash": [
+"judaism words"
+]
+},
+"Mount of Olives": {
+"also": [],
+"clash": [
+"famous mountains"
+]
+},
+"Via Dolorosa": {
+"also": [
+[
+"famous streets",
+3
+]
+],
+"clash": [
+"easter"
+]
+},
+"Golgotha": {
+"also": [
+[
+"easter",
+2
+]
+],
+"clash": []
+},
+"Calvary": {
+"also": [
+[
+"easter",
+2
+]
+],
+"clash": []
+},
+"Gethsemane": {
+"also": [],
+"clash": [
+"easter"
+]
+},
+"Garden Tomb": {
+"also": [],
+"clash": [
+"easter"
+]
+},
+"Jordan River": {
+"also": [
+[
+"famous rivers",
+2
+],
+[
+"asian rivers",
+3
+]
+],
+"clash": []
+},
+"Ganges": {
+"also": [
+[
+"famous rivers",
+1
+],
+[
+"asian rivers",
+1
+]
+],
+"clash": [
+"hinduism words"
+]
+},
+"Lhasa": {
+"also": [
+[
+"holy cities",
+2
+],
+[
+"asian cities",
+3
+]
+],
+"clash": []
+},
+"Jokhang": {
+"also": [
+[
+"famous temples",
+3
+]
+],
+"clash": []
+},
+"Potala Palace": {
+"also": [
+[
+"famous palaces",
+2
+],
+[
+"chinese landmarks",
+3
+]
+],
+"clash": []
+},
+"Mount Wutai": {
+"also": [
+[
+"famous mountains",
+4
+]
+],
+"clash": []
+},
+"Mount Emei": {
+"also": [
+[
+"famous mountains",
+4
+]
+],
+"clash": []
+},
+"Croagh Patrick": {
+"also": [],
+"clash": [
+"famous mountains"
+]
+},
+"Sri Pada": {
+"also": [],
+"clash": [
+"famous mountains"
+]
+},
+"St Davids": {
+"also": [
+[
+"british cities",
+4
+]
+],
+"clash": []
+},
+"St. Peter's Basilica": {
+"also": [
+[
+"famous churches",
+1
+],
+[
+"rome landmarks",
+1
+]
+],
+"clash": []
+},
+"Holy Land": {
+"also": [],
+"clash": [
+"holy cities"
+]
+},
+"Mount Arafat": {
+"also": [],
+"clash": [
+"famous mountains"
+]
+},
+"Patrick": {
+"also": [
+[
+"boys' names",
+1
+],
+[
+"irish names",
+2
+]
+],
+"clash": [
+"st. patrick's day"
+]
+},
+"Nicholas": {
+"also": [
+[
+"boys' names",
+1
+]
+],
+"clash": [
+"christmas"
+]
+},
+"George": {
+"also": [
+[
+"boys' names",
+1
+]
+],
+"clash": [
+"dragons",
+"english monarchs"
+]
+},
+"Francis": {
+"also": [
+[
+"boys' names",
+1
+]
+],
+"clash": []
+},
+"Valentine": {
+"also": [
+[
+"valentine's day",
+1
+]
+],
+"clash": [
+"boys' names"
+]
+},
+"Andrew": {
+"also": [
+[
+"boys' names",
+1
+],
+[
+"biblical names",
+1
+]
+],
+"clash": [
+"flags with crosses"
+]
+},
+"Christopher": {
+"also": [
+[
+"boys' names",
+1
+]
+],
+"clash": []
+},
+"Joan": {
+"also": [
+[
+"girls' names",
+2
+]
+],
+"clash": []
+},
+"Peter": {
+"also": [
+[
+"boys' names",
+1
+],
+[
+"biblical names",
+1
+]
+],
+"clash": []
+},
+"Paul": {
+"also": [
+[
+"boys' names",
+1
+],
+[
+"biblical names",
+1
+]
+],
+"clash": []
+},
+"John": {
+"also": [
+[
+"boys' names",
+1
+],
+[
+"biblical names",
+1
+]
+],
+"clash": []
+},
+"Mary": {
+"also": [
+[
+"girls' names",
+1
+],
+[
+"biblical names",
+1
+],
+[
+"christmas",
+1
+]
+],
+"clash": []
+},
+"Joseph": {
+"also": [
+[
+"boys' names",
+1
+],
+[
+"biblical names",
+1
+],
+[
+"christmas",
+2
+]
+],
+"clash": []
+},
+"Matthew": {
+"also": [
+[
+"boys' names",
+1
+],
+[
+"biblical names",
+1
+]
+],
+"clash": []
+},
+"Mark": {
+"also": [
+[
+"boys' names",
+1
+],
+[
+"biblical names",
+1
+],
+[
+"european currencies",
+2
+]
+],
+"clash": [
+"exam words"
+]
+},
+"Luke": {
+"also": [
+[
+"boys' names",
+1
+],
+[
+"biblical names",
+1
+]
+],
+"clash": []
+},
+"Thomas": {
+"also": [
+[
+"boys' names",
+1
+],
+[
+"biblical names",
+1
+]
+],
+"clash": []
+},
+"James": {
+"also": [
+[
+"boys' names",
+1
+],
+[
+"biblical names",
+1
+]
+],
+"clash": []
+},
+"Jude": {
+"also": [
+[
+"biblical names",
+2
+]
+],
+"clash": [
+"boys' names"
+]
+},
+"Stephen": {
+"also": [
+[
+"boys' names",
+1
+],
+[
+"biblical names",
+2
+]
+],
+"clash": []
+},
+"David": {
+"also": [
+[
+"boys' names",
+1
+],
+[
+"biblical names",
+1
+]
+],
+"clash": []
+},
+"Augustine": {
+"also": [],
+"clash": [
+"boys' names"
+]
+},
+"Benedict": {
+"also": [
+[
+"boys' names",
+3
+]
+],
+"clash": [
+"monastery"
+]
+},
+"Anthony": {
+"also": [
+[
+"boys' names",
+1
+]
+],
+"clash": []
+},
+"Teresa": {
+"also": [
+[
+"girls' names",
+2
+]
+],
+"clash": []
+},
+"Catherine": {
+"also": [
+[
+"girls' names",
+1
+]
+],
+"clash": []
+},
+"Bernadette": {
+"also": [
+[
+"girls' names",
+3
+]
+],
+"clash": []
+},
+"Bridget": {
+"also": [
+[
+"girls' names",
+2
+],
+[
+"irish names",
+2
+]
+],
+"clash": []
+},
+"Brigid": {
+"also": [
+[
+"irish names",
+2
+],
+[
+"celtic gods",
+3
+]
+],
+"clash": [
+"girls' names"
+]
+},
+"Aidan": {
+"also": [
+[
+"boys' names",
+2
+],
+[
+"irish names",
+2
+]
+],
+"clash": []
+},
+"Cuthbert": {
+"also": [
+[
+"old-fashioned names",
+3
+]
+],
+"clash": []
+},
+"Jerome": {
+"also": [
+[
+"boys' names",
+3
+]
+],
+"clash": []
+},
+"Ambrose": {
+"also": [
+[
+"boys' names",
+3
+]
+],
+"clash": []
+},
+"Gregory": {
+"also": [
+[
+"boys' names",
+2
+]
+],
+"clash": []
+},
+"Dominic": {
+"also": [
+[
+"boys' names",
+2
+]
+],
+"clash": [
+"monastery"
+]
+},
+"Clare": {
+"also": [
+[
+"girls' names",
+2
+]
+],
+"clash": []
+},
+"Agnes": {
+"also": [
+[
+"girls' names",
+2
+],
+[
+"old-fashioned names",
+2
+]
+],
+"clash": []
+},
+"Lucy": {
+"also": [
+[
+"girls' names",
+1
+]
+],
+"clash": [
+"religious festivals"
+]
+},
+"Cecilia": {
+"also": [
+[
+"girls' names",
+2
+]
+],
+"clash": []
+},
+"Monica": {
+"also": [
+[
+"girls' names",
+2
+]
+],
+"clash": []
+},
+"Anne": {
+"also": [
+[
+"girls' names",
+1
+]
+],
+"clash": []
+},
+"Elizabeth": {
+"also": [
+[
+"girls' names",
+1
+]
+],
+"clash": [
+"famous queens",
+"english monarchs"
+]
+},
+"Mary Magdalene": {
+"also": [],
+"clash": [
+"biblical names"
+]
+},
+"Sebastian": {
+"also": [
+[
+"boys' names",
+2
+]
+],
+"clash": []
+},
+"Lawrence": {
+"also": [
+[
+"boys' names",
+2
+]
+],
+"clash": []
+},
+"Bartholomew": {
+"also": [
+[
+"biblical names",
+2
+]
+],
+"clash": [
+"boys' names"
+]
+},
+"Philip": {
+"also": [
+[
+"boys' names",
+1
+],
+[
+"biblical names",
+2
+]
+],
+"clash": []
+},
+"Simon": {
+"also": [
+[
+"boys' names",
+1
+]
+],
+"clash": [
+"biblical names"
+]
+},
+"Barnabas": {
+"also": [
+[
+"biblical names",
+3
+]
+],
+"clash": []
+},
+"Timothy": {
+"also": [
+[
+"boys' names",
+1
+],
+[
+"biblical names",
+2
+]
+],
+"clash": []
+},
+"Margaret": {
+"also": [
+[
+"girls' names",
+1
+],
+[
+"old-fashioned names",
+2
+]
+],
+"clash": []
+},
+"Hilda": {
+"also": [
+[
+"old-fashioned names",
+2
+],
+[
+"girls' names",
+3
+]
+],
+"clash": []
+},
+"Denis": {
+"also": [
+[
+"boys' names",
+2
+]
+],
+"clash": []
+},
+"Martin": {
+"also": [
+[
+"boys' names",
+1
+],
+[
+"songbirds",
+3
+]
+],
+"clash": []
+},
+"Wenceslas": {
+"also": [],
+"clash": [
+"christmas carols"
+]
+},
+"Olaf": {
+"also": [],
+"clash": [
+"boys' names"
+]
+},
+"Ursula": {
+"also": [
+[
+"girls' names",
+3
+]
+],
+"clash": []
+},
+"Thérèse": {
+"also": [],
+"clash": [
+"girls' names"
+]
+},
+"Rita": {
+"also": [
+[
+"girls' names",
+2
+]
+],
+"clash": []
+},
+"Hubert": {
+"also": [
+[
+"old-fashioned names",
+3
+]
+],
+"clash": []
+},
+"Giles": {
+"also": [
+[
+"boys' names",
+3
+]
+],
+"clash": []
+},
+"Kevin": {
+"also": [
+[
+"boys' names",
+1
+],
+[
+"irish names",
+2
+]
+],
+"clash": []
+},
+"Brendan": {
+"also": [
+[
+"boys' names",
+2
+],
+[
+"irish names",
+2
+]
+],
+"clash": [
+"explorers"
+]
+},
+"Edmund": {
+"also": [
+[
+"boys' names",
+3
+]
+],
+"clash": [
+"english monarchs"
+]
+},
+"Mother Teresa": {
+"also": [
+[
+"famous women in history",
+1
+],
+[
+"nobel laureates",
+2
+]
+],
+"clash": []
+},
+"Bernard": {
+"also": [
+[
+"boys' names",
+2
+]
+],
+"clash": [
+"dog breeds"
+]
+},
+"Basil": {
+"also": [
+[
+"herbs",
+1
+],
+[
+"boys' names",
+3
+]
+],
+"clash": []
+},
+"Cyril": {
+"also": [
+[
+"boys' names",
+3
+],
+[
+"old-fashioned names",
+3
+]
+],
+"clash": []
+},
+"Florian": {
+"also": [
+[
+"boys' names",
+3
+]
+],
+"clash": []
+},
+"Oscar Romero": {
+"also": [],
+"clash": [
+"civil rights figures"
+]
+},
+"John the Baptist": {
+"also": [],
+"clash": [
+"biblical names"
+]
+},
+"Joan of Arc": {
+"also": [
+[
+"famous women in history",
+1
+]
+],
+"clash": [
+"legendary heroes"
+]
+},
+"Ignatius": {
+"also": [],
+"clash": [
+"boys' names"
+]
+},
+"Oswald": {
+"also": [],
+"clash": [
+"old-fashioned names"
+]
+},
+"Crispin": {
+"also": [],
+"clash": [
+"boys' names"
+]
+},
+"Thomas More": {
+"also": [],
+"clash": [
+"famous people"
+]
+},
+"habit": {
+"also": [
+[
+"monastery",
+1
+]
+],
+"clash": [
+"bad habits",
+"healthy habits"
+]
+},
+"hijab": {
+"also": [
+[
+"middle eastern clothing",
+1
+]
+],
+"clash": [
+"islam words",
+"scarves and gloves"
+]
+},
+"kippah": {
+"also": [
+[
+"judaism words",
+2
+]
+],
+"clash": [
+"hats"
+]
+},
+"turban": {
+"also": [
+[
+"hats",
+1
+],
+[
+"middle eastern clothing",
+2
+],
+[
+"indian clothing",
+2
+],
+[
+"ottoman clothing",
+2
+]
+],
+"clash": []
+},
+"miter": {
+"also": [
+[
+"hats",
+2
+]
+],
+"clash": [
+"woodworking words"
+]
+},
+"wimple": {
+"also": [
+[
+"medieval clothing",
+2
+]
+],
+"clash": [
+"hats"
+]
+},
+"burqa": {
+"also": [
+[
+"middle eastern clothing",
+2
+]
+],
+"clash": [
+"islam words"
+]
+},
+"niqab": {
+"also": [
+[
+"middle eastern clothing",
+2
+]
+],
+"clash": [
+"islam words"
+]
+},
+"chador": {
+"also": [
+[
+"middle eastern clothing",
+3
+]
+],
+"clash": []
+},
+"yarmulke": {
+"also": [
+[
+"judaism words",
+2
+]
+],
+"clash": [
+"words from yiddish",
+"hats"
+]
+},
+"tallit": {
+"also": [
+[
+"judaism words",
+3
+]
+],
+"clash": []
+},
+"prayer shawl": {
+"also": [],
+"clash": [
+"judaism words"
+]
+},
+"robe": {
+"also": [
+[
+"nightwear",
+1
+],
+[
+"royal things",
+2
+]
+],
+"clash": [
+"graduation words",
+"coats and jackets"
+]
+},
+"stole": {
+"also": [
+[
+"irregular past tenses",
+1
+]
+],
+"clash": [
+"scarves and gloves",
+"neckwear"
+]
+},
+"dog collar": {
+"also": [
+[
+"pet supplies",
+2
+]
+],
+"clash": []
+},
+"cowl": {
+"also": [
+[
+"monastery",
+2
+]
+],
+"clash": [
+"hats"
+]
+},
+"scapular": {
+"also": [
+[
+"monastery",
+3
+]
+],
+"clash": []
+},
+"veil": {
+"also": [
+[
+"weddings",
+1
+]
+],
+"clash": [
+"hats"
+]
+},
+"kufi": {
+"also": [
+[
+"hats",
+3
+],
+[
+"african clothing",
+3
+]
+],
+"clash": []
+},
+"abaya": {
+"also": [
+[
+"middle eastern clothing",
+2
+]
+],
+"clash": []
+},
+"jilbab": {
+"also": [
+[
+"middle eastern clothing",
+3
+]
+],
+"clash": []
+},
+"khimar": {
+"also": [
+[
+"middle eastern clothing",
+4
+]
+],
+"clash": []
+},
+"tefillin": {
+"also": [
+[
+"judaism words",
+3
+]
+],
+"clash": []
+},
+"tzitzit": {
+"also": [
+[
+"judaism words",
+3
+]
+],
+"clash": []
+},
+"kittel": {
+"also": [
+[
+"judaism words",
+4
+]
+],
+"clash": []
+},
+"shtreimel": {
+"also": [
+[
+"judaism words",
+4
+],
+[
+"hats",
+4
+]
+],
+"clash": []
+},
+"sheitel": {
+"also": [
+[
+"judaism words",
+4
+]
+],
+"clash": []
+},
+"tichel": {
+"also": [
+[
+"judaism words",
+4
+]
+],
+"clash": []
+},
+"kolpik": {
+"also": [
+[
+"judaism words",
+4
+]
+],
+"clash": []
+},
+"spodik": {
+"also": [
+[
+"judaism words",
+4
+]
+],
+"clash": []
+},
+"saffron robe": {
+"also": [],
+"clash": [
+"buddhism words"
+]
+},
+"kasaya": {
+"also": [
+[
+"buddhism words",
+4
+]
+],
+"clash": []
+},
+"kesa": {
+"also": [
+[
+"japanese clothing",
+4
+]
+],
+"clash": [
+"buddhism words"
+]
+},
+"rakusu": {
+"also": [],
+"clash": [
+"buddhism words"
+]
+},
+"dastar": {
+"also": [
+[
+"indian clothing",
+4
+]
+],
+"clash": []
+},
+"patka": {
+"also": [],
+"clash": [
+"indian clothing"
+]
+},
+"sacred thread": {
+"also": [
+[
+"hinduism words",
+3
+]
+],
+"clash": []
+},
+"janeu": {
+"also": [
+[
+"hinduism words",
+4
+]
+],
+"clash": []
+},
+"headscarf": {
+"also": [
+[
+"scarves and gloves",
+2
+]
+],
+"clash": [
+"hair accessories"
+]
+},
+"mantilla": {
+"also": [
+[
+"european folk costume",
+3
+]
+],
+"clash": [
+"hats"
+]
+},
+"skullcap": {
+"also": [
+[
+"hats",
+2
+]
+],
+"clash": [
+"judaism words"
+]
+},
+"papal tiara": {
+"also": [
+[
+"hats",
+3
+]
+],
+"clash": [
+"royal things"
+]
+},
+"jubbah": {
+"also": [
+[
+"middle eastern clothing",
+3
+]
+],
+"clash": []
+},
+"thawb": {
+"also": [
+[
+"middle eastern clothing",
+2
+]
+],
+"clash": []
+},
+"prayer cap": {
+"also": [],
+"clash": [
+"hats"
+]
+},
+"taqiyah": {
+"also": [],
+"clash": [
+"hats"
+]
+},
+"zucchetto": {
+"also": [],
+"clash": [
+"hats"
+]
+},
+"biretta": {
+"also": [],
+"clash": [
+"hats"
+]
+},
+"cope": {
+"also": [],
+"clash": [
+"ways of speaking"
+]
+},
+"cassock": {
+"also": [],
+"clash": [
+"monastery"
+]
+},
+"vestment": {
+"also": [],
+"clash": [
+"church parts"
+]
+},
+"heaven": {
+"also": [],
+"clash": [
+"happy words"
+]
+},
+"paradise": {
+"also": [],
+"clash": [
+"legendary places"
+]
+},
+"limbo": {
+"also": [
+[
+"party games",
+2
+]
+],
+"clash": [
+"dance moves"
+]
+},
+"nirvana": {
+"also": [
+[
+"famous bands",
+1
+],
+[
+"hinduism words",
+3
+]
+],
+"clash": []
+},
+"underworld": {
+"also": [
+[
+"egyptian afterlife",
+2
+]
+],
+"clash": [
+"greek gods"
+]
+},
+"reincarnation": {
+"also": [
+[
+"hinduism words",
+1
+]
+],
+"clash": [
+"buddhism words"
+]
+},
+"afterlife": {
+"also": [
+[
+"egyptian afterlife",
+2
+]
+],
+"clash": []
+},
+"Hades": {
+"also": [
+[
+"greek gods",
+1
+]
+],
+"clash": []
+},
+"Valhalla": {
+"also": [
+[
+"norse mythology",
+1
+],
+[
+"legendary places",
+2
+]
+],
+"clash": []
+},
+"Elysium": {
+"also": [
+[
+"legendary places",
+2
+]
+],
+"clash": []
+},
+"Elysian Fields": {
+"also": [
+[
+"legendary places",
+3
+]
+],
+"clash": []
+},
+"Tartarus": {
+"also": [
+[
+"legendary places",
+3
+]
+],
+"clash": [
+"titans",
+"greek gods"
+]
+},
+"Sheol": {
+"also": [],
+"clash": [
+"judaism words"
+]
+},
+"Gehenna": {
+"also": [],
+"clash": [
+"judaism words"
+]
+},
+"Jannah": {
+"also": [
+[
+"islam words",
+3
+]
+],
+"clash": []
+},
+"Jahannam": {
+"also": [
+[
+"islam words",
+3
+]
+],
+"clash": []
+},
+"Barzakh": {
+"also": [
+[
+"islam words",
+4
+]
+],
+"clash": []
+},
+"Hel": {
+"also": [
+[
+"norse gods",
+3
+],
+[
+"norse mythology",
+3
+]
+],
+"clash": []
+},
+"Fólkvangr": {
+"also": [
+[
+"norse mythology",
+4
+]
+],
+"clash": []
+},
+"Duat": {
+"also": [
+[
+"egyptian afterlife",
+3
+]
+],
+"clash": []
+},
+"Field of Reeds": {
+"also": [
+[
+"egyptian afterlife",
+3
+]
+],
+"clash": []
+},
+"Aaru": {
+"also": [
+[
+"egyptian afterlife",
+3
+]
+],
+"clash": []
+},
+"Avalon": {
+"also": [
+[
+"legendary places",
+1
+],
+[
+"arthurian legend",
+2
+]
+],
+"clash": []
+},
+"Tír na nÓg": {
+"also": [
+[
+"legendary places",
+3
+],
+[
+"celtic folklore",
+3
+]
+],
+"clash": []
+},
+"Mictlan": {
+"also": [
+[
+"legendary places",
+4
+],
+[
+"aztecs and maya",
+3
+]
+],
+"clash": []
+},
+"Xibalba": {
+"also": [
+[
+"legendary places",
+4
+],
+[
+"aztecs and maya",
+3
+]
+],
+"clash": []
+},
+"Annwn": {
+"also": [
+[
+"legendary places",
+4
+],
+[
+"celtic folklore",
+4
+]
+],
+"clash": []
+},
+"Mag Mell": {
+"also": [
+[
+"legendary places",
+4
+],
+[
+"celtic folklore",
+4
+]
+],
+"clash": []
+},
+"Isles of the Blessed": {
+"also": [
+[
+"legendary places",
+4
+]
+],
+"clash": []
+},
+"Naraka": {
+"also": [],
+"clash": [
+"hinduism words"
+]
+},
+"Svarga": {
+"also": [],
+"clash": [
+"hinduism words"
+]
+},
+"Pure Land": {
+"also": [],
+"clash": [
+"buddhism words"
+]
+},
+"Sukhavati": {
+"also": [
+[
+"buddhism words",
+4
+]
+],
+"clash": []
+},
+"Diyu": {
+"also": [
+[
+"chinese mythology",
+4
+]
+],
+"clash": []
+},
+"Yomi": {
+"also": [],
+"clash": [
+"shinto kami",
+"japanese folklore"
+]
+},
+"Styx": {
+"also": [],
+"clash": [
+"famous bands"
+]
+},
+"River Styx": {
+"also": [],
+"clash": [
+"famous rivers"
+]
+},
+"Charon": {
+"also": [
+[
+"moons",
+3
+]
+],
+"clash": [
+"greek gods"
+]
+},
+"resurrection": {
+"also": [
+[
+"easter",
+1
+]
+],
+"clash": []
+},
+"samsara": {
+"also": [
+[
+"hinduism words",
+3
+],
+[
+"buddhism words",
+3
+]
+],
+"clash": []
+},
+"moksha": {
+"also": [
+[
+"hinduism words",
+2
+]
+],
+"clash": []
+},
+"bardo": {
+"also": [
+[
+"buddhism words",
+4
+]
+],
+"clash": []
+},
+"inferno": {
+"also": [
+[
+"fire words",
+2
+]
+],
+"clash": []
+},
+"hellfire": {
+"also": [],
+"clash": [
+"fire words"
+]
+},
+"brimstone": {
+"also": [],
+"clash": [
+"fire words",
+"minerals"
+]
+},
+"abyss": {
+"also": [],
+"clash": [
+"deep sea fish",
+"ocean"
+]
+},
+"Last Judgment": {
+"also": [
+[
+"famous paintings",
+3
+]
+],
+"clash": []
+},
+"seventh heaven": {
+"also": [
+[
+"happy words",
+2
+]
+],
+"clash": []
+},
+"eternity": {
+"also": [],
+"clash": [
+"time units"
+]
+},
+"spirit world": {
+"also": [],
+"clash": [
+"ghosts and spirits"
+]
+},
+"rapture": {
+"also": [],
+"clash": [
+"happy words"
+]
+},
+"judgment day": {
+"also": [],
+"clash": [
+"courtroom words"
+]
+},
+"mosque": {
+"also": [
+[
+"religious buildings",
+1
+],
+[
+"ramadan and eid",
+1
+],
+[
+"words from arabic",
+2
+]
+],
+"clash": []
+},
+"minaret": {
+"also": [
+[
+"mosque parts",
+1
+],
+[
+"ramadan and eid",
+2
+],
+[
+"words from arabic",
+3
+]
+],
+"clash": []
+},
+"imam": {
+"also": [
+[
+"religious leaders",
+1
+],
+[
+"honorifics",
+3
+],
+[
+"ramadan and eid",
+2
+]
+],
+"clash": []
+},
+"Ramadan": {
+"also": [
+[
+"religious festivals",
+2
+]
+],
+"clash": [
+"ramadan and eid"
+]
+},
+"hajj": {
+"also": [
+[
+"ramadan and eid",
+2
+]
+],
+"clash": [
+"pilgrimage sites"
+]
+},
+"Quran": {
+"also": [
+[
+"ramadan and eid",
+2
+]
+],
+"clash": []
+},
+"Eid": {
+"also": [
+[
+"ramadan and eid",
+1
+],
+[
+"religious festivals",
+1
+]
+],
+"clash": []
+},
+"Muhammad": {
+"also": [
+[
+"arabic names",
+1
+]
+],
+"clash": [
+"boys' names"
+]
+},
+"Mohammed": {
+"also": [
+[
+"arabic names",
+1
+],
+[
+"boys' names",
+2
+]
+],
+"clash": []
+},
+"salah": {
+"also": [],
+"clash": [
+"famous soccer players"
+]
+},
+"zakat": {
+"also": [
+[
+"charity words",
+2
+],
+[
+"ramadan and eid",
+2
+]
+],
+"clash": [
+"tax words"
+]
+},
+"sawm": {
+"also": [
+[
+"ramadan and eid",
+3
+]
+],
+"clash": []
+},
+"adhan": {
+"also": [
+[
+"ramadan and eid",
+3
+]
+],
+"clash": []
+},
+"mihrab": {
+"also": [
+[
+"mosque parts",
+2
+]
+],
+"clash": []
+},
+"minbar": {
+"also": [
+[
+"mosque parts",
+2
+]
+],
+"clash": []
+},
+"wudu": {
+"also": [],
+"clash": [
+"mosque parts"
+]
+},
+"qibla": {
+"also": [
+[
+"mosque parts",
+3
+]
+],
+"clash": []
+},
+"prayer mat": {
+"also": [
+[
+"mosque parts",
+2
+],
+[
+"rugs and carpets",
+2
+]
+],
+"clash": []
+},
+"prayer rug": {
+"also": [
+[
+"rugs and carpets",
+2
+]
+],
+"clash": [
+"mosque parts"
+]
+},
+"iftar": {
+"also": [
+[
+"ramadan and eid",
+1
+]
+],
+"clash": []
+},
+"suhoor": {
+"also": [
+[
+"ramadan and eid",
+2
+]
+],
+"clash": []
+},
+"salaam": {
+"also": [
+[
+"peace words",
+2
+],
+[
+"greetings around the world",
+2
+]
+],
+"clash": []
+},
+"hafiz": {
+"also": [
+[
+"persian poets",
+3
+]
+],
+"clash": []
+},
+"madrasa": {
+"also": [
+[
+"religious buildings",
+4
+],
+[
+"school types",
+3
+]
+],
+"clash": []
+},
+"dervish": {
+"also": [],
+"clash": [
+"middle eastern dances",
+"turkish folklore"
+]
+},
+"Sufi": {
+"also": [],
+"clash": [
+"middle eastern dances",
+"persian poets"
+]
+},
+"takbir": {
+"also": [
+[
+"ramadan and eid",
+4
+]
+],
+"clash": []
+},
+"sadaqah": {
+"also": [
+[
+"charity words",
+3
+],
+[
+"ramadan and eid",
+3
+]
+],
+"clash": []
+},
+"qadi": {
+"also": [],
+"clash": [
+"ottoman titles"
+]
+},
+"nikah": {
+"also": [],
+"clash": [
+"weddings"
+]
+},
+"mahr": {
+"also": [],
+"clash": [
+"weddings"
+]
+},
+"Hijri": {
+"also": [],
+"clash": [
+"clocks and calendars"
+]
+},
+"Islamist": {
+"also": [],
+"clash": [
+"political ideologies"
+]
+},
+"Black Stone": {
+"also": [],
+"clash": [
+"rocks and minerals"
+]
+},
+"tasbih": {
+"also": [],
+"clash": [
+"religion words"
+]
+},
+"misbaha": {
+"also": [],
+"clash": [
+"religion words"
+]
+},
+"inshallah": {
+"also": [],
+"clash": [
+"words from arabic"
+]
+},
+"alhamdulillah": {
+"also": [],
+"clash": [
+"words from arabic"
+]
+},
+"call to prayer": {
+"also": [],
+"clash": [
+"mosque parts"
+]
+},
+"halal": {
+"also": [],
+"clash": [
+"middle eastern food"
+]
+},
+"synagogue": {
+"also": [
+[
+"religious buildings",
+1
+]
+],
+"clash": []
+},
+"rabbi": {
+"also": [
+[
+"religious leaders",
+1
+],
+[
+"honorifics",
+2
+]
+],
+"clash": []
+},
+"kosher": {
+"also": [
+[
+"words from yiddish",
+2
+]
+],
+"clash": []
+},
+"menorah": {
+"also": [
+[
+"hanukkah",
+1
+]
+],
+"clash": []
+},
+"bar mitzvah": {
+"also": [
+[
+"life events",
+1
+]
+],
+"clash": []
+},
+"bat mitzvah": {
+"also": [
+[
+"life events",
+1
+]
+],
+"clash": []
+},
+"Passover": {
+"also": [
+[
+"religious festivals",
+1
+]
+],
+"clash": []
+},
+"Star of David": {
+"also": [
+[
+"hanukkah",
+2
+]
+],
+"clash": [
+"flags with stars",
+"symbols"
+]
+},
+"Hebrew": {
+"also": [
+[
+"ancient languages",
+2
+],
+[
+"middle eastern languages",
+2
+]
+],
+"clash": [
+"writing systems"
+]
+},
+"matzo": {
+"also": [
+[
+"flatbreads",
+2
+]
+],
+"clash": []
+},
+"mazel tov": {
+"also": [
+[
+"words from yiddish",
+2
+]
+],
+"clash": []
+},
+"shalom": {
+"also": [
+[
+"peace words",
+2
+],
+[
+"greetings around the world",
+2
+]
+],
+"clash": []
+},
+"Sabbath": {
+"also": [],
+"clash": [
+"days and weeks"
+]
+},
+"shofar": {
+"also": [],
+"clash": [
+"middle eastern instruments",
+"brass instruments"
+]
+},
+"dreidel": {
+"also": [
+[
+"hanukkah",
+1
+],
+[
+"things that spin",
+2
+]
+],
+"clash": [
+"toys"
+]
+},
+"chuppah": {
+"also": [
+[
+"weddings",
+3
+]
+],
+"clash": []
+},
+"challah": {
+"also": [
+[
+"breads",
+2
+]
+],
+"clash": []
+},
+"yeshiva": {
+"also": [
+[
+"school types",
+4
+]
+],
+"clash": []
+},
+"bris": {
+"also": [
+[
+"life events",
+3
+]
+],
+"clash": []
+},
+"shiva": {
+"also": [
+[
+"life events",
+3
+]
+],
+"clash": [
+"hindu gods"
+]
+},
+"tzedakah": {
+"also": [
+[
+"charity words",
+3
+]
+],
+"clash": []
+},
+"etrog": {
+"also": [],
+"clash": [
+"citrus fruits"
+]
+},
+"Yiddish": {
+"also": [
+[
+"germanic languages",
+3
+],
+[
+"european languages",
+3
+]
+],
+"clash": []
+},
+"chazzan": {
+"also": [],
+"clash": [
+"religious leaders"
+]
+},
+"Messiah": {
+"also": [],
+"clash": [
+"religion words"
+]
+},
+"gefilte fish": {
+"also": [],
+"clash": [
+"fish to eat"
+]
+},
+"latke": {
+"also": [
+[
+"hanukkah",
+1
+],
+[
+"potato dishes",
+2
+],
+[
+"words from yiddish",
+3
+]
+],
+"clash": []
+},
+"oy vey": {
+"also": [
+[
+"words from yiddish",
+1
+],
+[
+"interjections",
+2
+]
+],
+"clash": []
+},
+"Ten Commandments": {
+"also": [],
+"clash": [
+"religion words",
+"holy books"
+]
+},
+"Tisha B'Av": {
+"also": [],
+"clash": [
+"religious festivals"
+]
+},
+"Zion": {
+"also": [],
+"clash": [
+"holy cities"
+]
+},
+"Kabbalah": {
+"also": [],
+"clash": [
+"witchcraft"
+]
+},
+"Diaspora": {
+"also": [],
+"clash": [
+"groups of people"
+]
+},
+"Jewish": {
+"also": [],
+"clash": [
+"religion"
+]
+},
+"rebbe": {
+"also": [],
+"clash": [
+"religious leaders"
+]
+},
+"karma": {
+"also": [
+[
+"hinduism words",
+1
+]
+],
+"clash": []
+},
+"monk": {
+"also": [
+[
+"monastery",
+1
+]
+],
+"clash": [
+"religious leaders",
+"jazz musicians"
+]
+},
+"stupa": {
+"also": [
+[
+"religious buildings",
+2
+],
+[
+"asian temple features",
+1
+]
+],
+"clash": []
+},
+"dharma": {
+"also": [
+[
+"hinduism words",
+1
+]
+],
+"clash": []
+},
+"mantra": {
+"also": [
+[
+"hinduism words",
+1
+]
+],
+"clash": []
+},
+"lama": {
+"also": [],
+"clash": [
+"religious leaders",
+"homophones",
+"andean animals"
+]
+},
+"Zen": {
+"also": [
+[
+"words from japanese",
+2
+]
+],
+"clash": [
+"calm words"
+]
+},
+"sutra": {
+"also": [
+[
+"hinduism words",
+2
+]
+],
+"clash": []
+},
+"mandala": {
+"also": [],
+"clash": [
+"patterns",
+"asian art forms"
+]
+},
+"lotus": {
+"also": [
+[
+"water plants",
+1
+],
+[
+"yoga poses",
+2
+],
+[
+"british car brands",
+2
+]
+],
+"clash": [
+"flowers of east asia"
+]
+},
+"prayer wheel": {
+"also": [
+[
+"asian temple features",
+2
+]
+],
+"clash": []
+},
+"prayer flag": {
+"also": [],
+"clash": [
+"asian temple features"
+]
+},
+"bodhi tree": {
+"also": [
+[
+"asian temple features",
+3
+]
+],
+"clash": []
+},
+"mindfulness": {
+"also": [
+[
+"mental health words",
+2
+]
+],
+"clash": [
+"calm words",
+"yoga words"
+]
+},
+"alms": {
+"also": [
+[
+"charity words",
+3
+]
+],
+"clash": []
+},
+"alms bowl": {
+"also": [],
+"clash": [
+"charity words"
+]
+},
+"novice": {
+"also": [
+[
+"words for beginner",
+1
+],
+[
+"monastery",
+2
+]
+],
+"clash": []
+},
+"Guanyin": {
+"also": [
+[
+"chinese mythology",
+3
+]
+],
+"clash": []
+},
+"dhyana": {
+"also": [
+[
+"hinduism words",
+4
+]
+],
+"clash": [
+"yoga words"
+]
+},
+"dharma wheel": {
+"also": [
+[
+"asian temple features",
+3
+]
+],
+"clash": []
+},
+"vajra": {
+"also": [],
+"clash": [
+"hinduism words"
+]
+},
+"thangka": {
+"also": [
+[
+"asian art forms",
+4
+]
+],
+"clash": []
+},
+"singing bowl": {
+"also": [],
+"clash": [
+"percussion instruments"
+]
+},
+"lotus position": {
+"also": [
+[
+"yoga poses",
+2
+]
+],
+"clash": []
+},
+"Bodhidharma": {
+"also": [],
+"clash": [
+"chinese martial arts"
+]
+},
+"Ashoka": {
+"also": [
+[
+"ancient india",
+2
+],
+[
+"emperors",
+3
+]
+],
+"clash": []
+},
+"mudra": {
+"also": [
+[
+"yoga words",
+3
+]
+],
+"clash": [
+"hinduism words"
+]
+},
+"mala beads": {
+"also": [],
+"clash": [
+"hinduism words"
+]
+},
+"novice monk": {
+"also": [],
+"clash": [
+"monastery"
+]
+},
+"enlightenment": {
+"also": [],
+"clash": [
+"historical periods"
+]
+},
+"Siddhartha": {
+"also": [],
+"clash": [
+"classic novels"
+]
+},
+"koan": {
+"also": [],
+"clash": [
+"puzzles"
+]
+},
+"precepts": {
+"also": [],
+"clash": [
+"religion words"
+]
+},
+"prostration": {
+"also": [],
+"clash": [
+"yoga poses"
+]
+},
+"law": {
+"also": [
+[
+"government words",
+1
+]
+],
+"clash": []
+},
+"order": {
+"also": [],
+"clash": [
+"orders of knighthood",
+"restaurant words",
+"monastery"
+]
+},
+"legislation": {
+"also": [
+[
+"government words",
+1
+]
+],
+"clash": []
+},
+"ordinance": {
+"also": [
+[
+"government words",
+2
+]
+],
+"clash": []
+},
+"bylaw": {
+"also": [
+[
+"government words",
+2
+]
+],
+"clash": []
+},
+"regulation": {
+"also": [
+[
+"government words",
+1
+]
+],
+"clash": []
+},
+"bounty hunter": {
+"also": [
+[
+"wild west",
+2
+]
+],
+"clash": [
+"cowboy words"
+]
+},
+"security guard": {
+"also": [
+[
+"supermarket",
+3
+]
+],
+"clash": [
+"service jobs"
+]
+},
+"bouncer": {
+"also": [
+[
+"nightclub words",
+1
+]
+],
+"clash": [
+"service jobs"
+]
+},
+"lawbreaker": {
+"also": [],
+"clash": [
+"troublemakers",
+"crimes"
+]
+},
+"outlaw": {
+"also": [
+[
+"troublemakers",
+2
+],
+[
+"wild west",
+1
+],
+[
+"robin hood legend",
+2
+]
+],
+"clash": []
+},
+"vigilante": {
+"also": [],
+"clash": [
+"troublemakers"
+]
+},
+"jurisdiction": {
+"also": [
+[
+"government words",
+2
+]
+],
+"clash": []
+},
+"civil rights": {
+"also": [
+[
+"government words",
+2
+],
+[
+"protest words",
+2
+]
+],
+"clash": []
+},
+"due process": {
+"also": [
+[
+"government words",
+3
+]
+],
+"clash": []
+},
+"rule of law": {
+"also": [
+[
+"government words",
+2
+]
+],
+"clash": []
+},
+"deterrent": {
+"also": [],
+"clash": [
+"punishments",
+"cold war"
+]
+},
+"lawman": {
+"also": [
+[
+"wild west",
+2
+]
+],
+"clash": [
+"cowboy words",
+"police words"
+]
+},
+"posse": {
+"also": [
+[
+"cowboy words",
+2
+],
+[
+"groups of people",
+2
+],
+[
+"wild west",
+2
+]
+],
+"clash": []
+},
+"marshal": {
+"also": [
+[
+"wild west",
+2
+],
+[
+"military ranks",
+2
+]
+],
+"clash": [
+"police words",
+"homophones"
+]
+},
+"citizen's arrest": {
+"also": [],
+"clash": [
+"police words"
+]
+},
+"criminal justice": {
+"also": [],
+"clash": [
+"courtroom words"
+]
+},
+"murder": {
+"also": [
+[
+"collective nouns",
+2
+]
+],
+"clash": [
+"detective words"
+]
+},
+"arson": {
+"also": [],
+"clash": [
+"fire words"
+]
+},
+"assault": {
+"also": [],
+"clash": [
+"war words"
+]
+},
+"smuggling": {
+"also": [],
+"clash": [
+"pirate words"
+]
+},
+"piracy": {
+"also": [
+[
+"pirate words",
+2
+]
+],
+"clash": [
+"internet words"
+]
+},
+"treason": {
+"also": [],
+"clash": [
+"spy words"
+]
+},
+"shoplifting": {
+"also": [],
+"clash": [
+"shopping words"
+]
+},
+"vandalism": {
+"also": [],
+"clash": [
+"troublemakers"
+]
+},
+"poaching": {
+"also": [
+[
+"cooking methods",
+1
+],
+[
+"conservation words",
+2
+]
+],
+"clash": [
+"hunting words"
+]
+},
+"counterfeiting": {
+"also": [],
+"clash": [
+"money words"
+]
+},
+"money laundering": {
+"also": [],
+"clash": [
+"laundry words"
+]
+},
+"trafficking": {
+"also": [],
+"clash": [
+"traffic words"
+]
+},
+"drug dealing": {
+"also": [],
+"clash": [
+"illegal drugs"
+]
+},
+"drunk driving": {
+"also": [],
+"clash": [
+"driving words"
+]
+},
+"speeding": {
+"also": [
+[
+"driving words",
+2
+]
+],
+"clash": [
+"police words",
+"traffic words"
+]
+},
+"jaywalking": {
+"also": [
+[
+"traffic words",
+2
+]
+],
+"clash": []
+},
+"littering": {
+"also": [],
+"clash": [
+"pollution words"
+]
+},
+"stalking": {
+"also": [],
+"clash": [
+"hunting words"
+]
+},
+"battery": {
+"also": [
+[
+"electricity words",
+2
+]
+],
+"clash": [
+"battery types",
+"army words"
+]
+},
+"genocide": {
+"also": [
+[
+"war words",
+2
+]
+],
+"clash": []
+},
+"war crime": {
+"also": [
+[
+"war words",
+2
+]
+],
+"clash": []
+},
+"terrorism": {
+"also": [],
+"clash": [
+"war words"
+]
+},
+"insider trading": {
+"also": [
+[
+"stock market words",
+2
+]
+],
+"clash": []
+},
+"tax evasion": {
+"also": [
+[
+"tax words",
+2
+]
+],
+"clash": []
+},
+"identity theft": {
+"also": [
+[
+"cybersecurity words",
+2
+]
+],
+"clash": []
+},
+"cybercrime": {
+"also": [
+[
+"cybersecurity words",
+2
+]
+],
+"clash": []
+},
+"hacking": {
+"also": [
+[
+"cybersecurity words",
+2
+]
+],
+"clash": [
+"computer actions"
+]
+},
+"phishing": {
+"also": [
+[
+"cybersecurity words",
+1
+]
+],
+"clash": [
+"homophones"
+]
+},
+"cyberstalking": {
+"also": [],
+"clash": [
+"cybersecurity words"
+]
+},
+"looting": {
+"also": [],
+"clash": [
+"pirate words"
+]
+},
+"rioting": {
+"also": [],
+"clash": [
+"protest words"
+]
+},
+"libel": {
+"also": [
+[
+"journalism words",
+2
+]
+],
+"clash": []
+},
+"slander": {
+"also": [
+[
+"journalism words",
+2
+]
+],
+"clash": []
+},
+"defamation": {
+"also": [
+[
+"journalism words",
+3
+]
+],
+"clash": []
+},
+"bootlegging": {
+"also": [
+[
+"roaring twenties",
+2
+]
+],
+"clash": []
+},
+"cattle rustling": {
+"also": [
+[
+"wild west",
+2
+]
+],
+"clash": [
+"cowboy words"
+]
+},
+"hit and run": {
+"also": [],
+"clash": [
+"baseball terms"
+]
+},
+"Ponzi scheme": {
+"also": [
+[
+"words named after people",
+3
+]
+],
+"clash": []
+},
+"grand theft auto": {
+"also": [],
+"clash": [
+"video games"
+]
+},
+"contempt of court": {
+"also": [
+[
+"courtroom words",
+2
+]
+],
+"clash": []
+},
+"bank robbery": {
+"also": [],
+"clash": [
+"banking words"
+]
+},
+"fencing": {
+"also": [
+[
+"combat sports",
+1
+],
+[
+"olympic sports",
+1
+]
+],
+"clash": [
+"fencing terms",
+"garden features"
+]
+},
+"mutiny": {
+"also": [
+[
+"pirate words",
+2
+],
+[
+"war words",
+2
+]
+],
+"clash": [
+"navy words"
+]
+},
+"desertion": {
+"also": [],
+"clash": [
+"war words"
+]
+},
+"bigamy": {
+"also": [],
+"clash": [
+"weddings"
+]
+},
+"perjury": {
+"also": [],
+"clash": [
+"courtroom words"
+]
+},
+"hijacking": {
+"also": [],
+"clash": [
+"air travel"
+]
+},
+"judge": {
+"also": [
+[
+"sports officials",
+2
+]
+],
+"clash": [
+"words for expert"
+]
+},
+"jury": {
+"also": [
+[
+"groups of people",
+2
+]
+],
+"clash": []
+},
+"defense": {
+"also": [
+[
+"american football terms",
+2
+],
+[
+"war words",
+2
+]
+],
+"clash": [
+"soccer terms"
+]
+},
+"gavel": {
+"also": [],
+"clash": [
+"royal things"
+]
+},
+"bailiff": {
+"also": [
+[
+"medieval jobs",
+3
+]
+],
+"clash": []
+},
+"evidence": {
+"also": [
+[
+"detective words",
+1
+]
+],
+"clash": []
+},
+"exhibit": {
+"also": [
+[
+"museum",
+2
+],
+[
+"art gallery words",
+2
+]
+],
+"clash": []
+},
+"guilty": {
+"also": [],
+"clash": [
+"emotions"
+]
+},
+"sentence": {
+"also": [
+[
+"grammar terms",
+1
+],
+[
+"punishments",
+2
+]
+],
+"clash": [
+"sentence parts"
+]
+},
+"appeal": {
+"also": [
+[
+"charity words",
+2
+]
+],
+"clash": []
+},
+"hearing": {
+"also": [
+[
+"senses",
+1
+]
+],
+"clash": [
+"hearing words"
+]
+},
+"stenographer": {
+"also": [
+[
+"old-time jobs",
+3
+]
+],
+"clash": []
+},
+"foreman": {
+"also": [
+[
+"words for leader",
+2
+]
+],
+"clash": [
+"construction site"
+]
+},
+"dock": {
+"also": [
+[
+"ports and harbors",
+1
+],
+[
+"weeds",
+3
+]
+],
+"clash": []
+},
+"case": {
+"also": [
+[
+"luggage",
+2
+],
+[
+"grammar terms",
+3
+],
+[
+"detective words",
+2
+]
+],
+"clash": [
+"containers"
+]
+},
+"convict": {
+"also": [
+[
+"prison words",
+2
+]
+],
+"clash": []
+},
+"settlement": {
+"also": [],
+"clash": [
+"kinds of settlements"
+]
+},
+"bail": {
+"also": [
+[
+"cricket terms",
+2
+]
+],
+"clash": [
+"punishments",
+"police words"
+]
+},
+"courthouse": {
+"also": [
+[
+"government words",
+3
+]
+],
+"clash": [
+"public buildings"
+]
+},
+"wig": {
+"also": [
+[
+"hair accessories",
+2
+]
+],
+"clash": [
+"hairstyles"
+]
+},
+"Your Honor": {
+"also": [],
+"clash": [
+"honorifics"
+]
+},
+"court reporter": {
+"also": [],
+"clash": [
+"journalism words"
+]
+},
+"trial": {
+"also": [],
+"clash": [
+"exam words"
+]
+},
+"judgment": {
+"also": [],
+"clash": [
+"afterlife words"
+]
+},
+"cross-examination": {
+"also": [],
+"clash": [
+"detective words"
+]
+},
+"testimony": {
+"also": [],
+"clash": [
+"detective words"
+]
+},
+"witness": {
+"also": [],
+"clash": [
+"detective words"
+]
+},
+"eyewitness": {
+"also": [],
+"clash": [
+"detective words"
+]
+},
+"hung jury": {
+"also": [],
+"clash": [
+"election words"
+]
+},
+"summation": {
+"also": [],
+"clash": [
+"math operations"
+]
+},
+"judge advocate": {
+"also": [],
+"clash": [
+"military ranks"
+]
+},
+"Crown Court": {
+"also": [],
+"clash": [
+"royal things"
+]
+},
+"sidebar": {
+"also": [],
+"clash": [
+"newspaper words"
+]
+},
+"deliberation": {
+"also": [],
+"clash": [
+"exam words"
+]
+},
+"officer": {
+"also": [],
+"clash": [
+"military ranks"
+]
+},
+"badge": {
+"also": [
+[
+"heraldry",
+3
+]
+],
+"clash": [
+"medals and honors"
+]
+},
+"siren": {
+"also": [
+[
+"mythical creatures",
+2
+],
+[
+"greek monsters",
+2
+],
+[
+"loud things",
+2
+]
+],
+"clash": [
+"sea monsters",
+"emergency vehicles"
+]
+},
+"sergeant": {
+"also": [
+[
+"military ranks",
+1
+],
+[
+"war words",
+2
+]
+],
+"clash": []
+},
+"lieutenant": {
+"also": [
+[
+"military ranks",
+1
+],
+[
+"war words",
+2
+]
+],
+"clash": []
+},
+"captain": {
+"also": [
+[
+"military ranks",
+1
+],
+[
+"words for leader",
+1
+],
+[
+"ship crew",
+1
+],
+[
+"pirate crew",
+2
+],
+[
+"flight crew",
+1
+]
+],
+"clash": [
+"team ball sports"
+]
+},
+"police chief": {
+"also": [],
+"clash": [
+"words for leader"
+]
+},
+"commissioner": {
+"also": [
+[
+"political titles",
+2
+]
+],
+"clash": []
+},
+"sheriff": {
+"also": [
+[
+"wild west",
+1
+],
+[
+"cowboy words",
+1
+],
+[
+"robin hood legend",
+2
+]
+],
+"clash": []
+},
+"deputy": {
+"also": [
+[
+"wild west",
+2
+]
+],
+"clash": []
+},
+"trooper": {
+"also": [
+[
+"military ranks",
+2
+]
+],
+"clash": []
+},
+"beat": {
+"also": [
+[
+"music terms",
+1
+],
+[
+"journalism words",
+2
+]
+],
+"clash": [
+"baking words"
+]
+},
+"baton": {
+"also": [
+[
+"orchestra words",
+1
+]
+],
+"clash": [
+"track events"
+]
+},
+"taser": {
+"also": [
+[
+"acronyms",
+2
+]
+],
+"clash": []
+},
+"pursuit": {
+"also": [],
+"clash": [
+"cycling words"
+]
+},
+"backup": {
+"also": [],
+"clash": [
+"software words"
+]
+},
+"SWAT": {
+"also": [
+[
+"acronyms",
+2
+]
+],
+"clash": [
+"homophones"
+]
+},
+"riot police": {
+"also": [
+[
+"protest words",
+1
+]
+],
+"clash": []
+},
+"tear gas": {
+"also": [
+[
+"protest words",
+1
+]
+],
+"clash": []
+},
+"pepper spray": {
+"also": [
+[
+"protest words",
+2
+]
+],
+"clash": []
+},
+"police dog": {
+"also": [],
+"clash": [
+"working dogs"
+]
+},
+"mounted police": {
+"also": [],
+"clash": [
+"horse riding words"
+]
+},
+"Mountie": {
+"also": [],
+"clash": [
+"national symbols"
+]
+},
+"bobby": {
+"also": [
+[
+"short forms of names",
+2
+],
+[
+"british slang",
+2
+]
+],
+"clash": []
+},
+"copper": {
+"also": [
+[
+"metals",
+1
+],
+[
+"shades of orange",
+2
+],
+[
+"metallic colors",
+1
+],
+[
+"british slang",
+2
+]
+],
+"clash": [
+"coins",
+"money slang"
+]
+},
+"pig": {
+"also": [
+[
+"farm animals",
+1
+],
+[
+"domestic animals",
+1
+]
+],
+"clash": []
+},
+"cuffs": {
+"also": [
+[
+"clothing parts",
+2
+]
+],
+"clash": []
+},
+"cruiser": {
+"also": [
+[
+"warships",
+2
+]
+],
+"clash": [
+"boat types",
+"car types"
+]
+},
+"raid": {
+"also": [
+[
+"war words",
+2
+]
+],
+"clash": []
+},
+"bust": {
+"also": [
+[
+"sculpture words",
+2
+]
+],
+"clash": []
+},
+"rookie": {
+"also": [
+[
+"words for beginner",
+1
+]
+],
+"clash": []
+},
+"informant": {
+"also": [],
+"clash": [
+"spy words"
+]
+},
+"snitch": {
+"also": [],
+"clash": [
+"spy words"
+]
+},
+"10-4": {
+"also": [],
+"clash": [
+"radio words"
+]
+},
+"Scotland Yard": {
+"also": [],
+"clash": [
+"london landmarks"
+]
+},
+"holster": {
+"also": [],
+"clash": [
+"cowboy words",
+"wild west"
+]
+},
+"walkie-talkie": {
+"also": [
+[
+"handheld gadgets",
+2
+]
+],
+"clash": [
+"radio words"
+]
+},
+"squad": {
+"also": [
+[
+"military units",
+1
+],
+[
+"groups of people",
+1
+],
+[
+"war words",
+2
+]
+],
+"clash": []
+},
+"uniform": {
+"also": [],
+"clash": [
+"work clothes",
+"school"
+]
+},
+"911": {
+"also": [],
+"clash": [
+"numbers",
+"phone words"
+]
+},
+"999": {
+"also": [],
+"clash": [
+"numbers",
+"phone words"
+]
+},
+"lineup": {
+"also": [],
+"clash": [
+"baseball terms"
+]
+},
+"dispatch": {
+"also": [],
+"clash": [
+"journalism words"
+]
+},
+"booking": {
+"also": [],
+"clash": [
+"hotel"
+]
+},
+"stakeout": {
+"also": [
+[
+"journalism words",
+3
+],
+[
+"police words",
+2
+]
+],
+"clash": []
+},
+"patrol": {
+"also": [],
+"clash": [
+"army words"
+]
+},
+"checkpoint": {
+"also": [],
+"clash": [
+"spy words",
+"video games"
+]
+},
+"roadblock": {
+"also": [],
+"clash": [
+"road signs"
+]
+},
+"flashing lights": {
+"also": [],
+"clash": [
+"emergency vehicles"
+]
+},
+"blue lights": {
+"also": [],
+"clash": [
+"emergency vehicles"
+]
+},
+"squad car": {
+"also": [
+[
+"emergency vehicles",
+1
+]
+],
+"clash": []
+},
+"patrol car": {
+"also": [
+[
+"emergency vehicles",
+1
+]
+],
+"clash": []
+},
+"cop car": {
+"also": [
+[
+"emergency vehicles",
+1
+]
+],
+"clash": []
+},
+"police van": {
+"also": [
+[
+"emergency vehicles",
+1
+]
+],
+"clash": []
+},
+"paddy wagon": {
+"also": [],
+"clash": [
+"emergency vehicles"
+]
+},
+"plainclothes": {
+"also": [],
+"clash": [
+"detective words"
+]
+},
+"gendarme": {
+"also": [],
+"clash": [
+"french phrases in english"
+]
+},
+"cell": {
+"also": [
+[
+"monastery",
+2
+]
+],
+"clash": [
+"biology words",
+"phone words",
+"cell parts"
+]
+},
+"guard": {
+"also": [],
+"clash": [
+"basketball terms",
+"army words",
+"royal things"
+]
+},
+"bars": {
+"also": [],
+"clash": [
+"gymnastics apparatus"
+]
+},
+"yard": {
+"also": [
+[
+"length units",
+1
+],
+[
+"imperial units",
+1
+]
+],
+"clash": [
+"garden",
+"ship parts"
+]
+},
+"shank": {
+"also": [
+[
+"cuts of meat",
+2
+]
+],
+"clash": [
+"golf terms"
+]
+},
+"contraband": {
+"also": [],
+"clash": [
+"pirate words"
+]
+},
+"visiting hours": {
+"also": [],
+"clash": [
+"hospital words"
+]
+},
+"mess hall": {
+"also": [],
+"clash": [
+"army words"
+]
+},
+"jumpsuit": {
+"also": [],
+"clash": [
+"work clothes"
+]
+},
+"shackles": {
+"also": [],
+"clash": [
+"pirate punishments"
+]
+},
+"jailbreak": {
+"also": [],
+"clash": [
+"phone words"
+]
+},
+"breakout": {
+"also": [],
+"clash": [
+"skin words"
+]
+},
+"jailer": {
+"also": [
+[
+"medieval jobs",
+2
+]
+],
+"clash": []
+},
+"screw": {
+"also": [
+[
+"fixings",
+1
+]
+],
+"clash": []
+},
+"old lag": {
+"also": [],
+"clash": [
+"british slang"
+]
+},
+"porridge": {
+"also": [
+[
+"breakfast foods",
+1
+]
+],
+"clash": [
+"british slang"
+]
+},
+"stretch": {
+"also": [],
+"clash": [
+"stretches"
+]
+},
+"bunk": {
+"also": [
+[
+"beds",
+2
+]
+],
+"clash": []
+},
+"roll call": {
+"also": [],
+"clash": [
+"school"
+]
+},
+"pen": {
+"also": [
+[
+"stationery",
+1
+]
+],
+"clash": [
+"farm",
+"animal homes"
+]
+},
+"cooler": {
+"also": [],
+"clash": [
+"picnic basket",
+"beach gear"
+]
+},
+"stir": {
+"also": [
+[
+"cooking methods",
+2
+]
+],
+"clash": []
+},
+"nick": {
+"also": [
+[
+"british slang",
+2
+],
+[
+"short forms of names",
+2
+]
+],
+"clash": []
+},
+"clink": {
+"also": [
+[
+"onomatopoeia",
+2
+]
+],
+"clash": []
+},
+"dungeon": {
+"also": [
+[
+"castle parts",
+1
+]
+],
+"clash": [
+"video games"
+]
+},
+"watchtower": {
+"also": [],
+"clash": [
+"castle parts"
+]
+},
+"Alcatraz": {
+"also": [
+[
+"famous islands",
+2
+],
+[
+"us landmarks",
+2
+]
+],
+"clash": []
+},
+"Robben Island": {
+"also": [
+[
+"famous islands",
+3
+],
+[
+"african landmarks",
+3
+]
+],
+"clash": []
+},
+"Bastille": {
+"also": [
+[
+"french revolution",
+1
+],
+[
+"paris landmarks",
+3
+]
+],
+"clash": []
+},
+"Dartmoor": {
+"also": [],
+"clash": [
+"national parks"
+]
+},
+"furlough": {
+"also": [
+[
+"workplace words",
+3
+]
+],
+"clash": []
+},
+"gulag": {
+"also": [
+[
+"acronyms",
+4
+]
+],
+"clash": [
+"cold war"
+]
+},
+"POW camp": {
+"also": [],
+"clash": [
+"world war ii terms"
+]
+},
+"prison sentence": {
+"also": [],
+"clash": [
+"punishments"
+]
+},
+"time served": {
+"also": [],
+"clash": [
+"punishments"
+]
+},
+"the hole": {
+"also": [],
+"clash": [
+"golf terms"
+]
+},
+"Devil's Island": {
+"also": [],
+"clash": [
+"famous islands"
+]
+},
+"Château d'If": {
+"also": [],
+"clash": [
+"famous castles"
+]
+},
+"searchlight": {
+"also": [],
+"clash": [
+"lights and lamps"
+]
+},
+"barbed wire": {
+"also": [],
+"clash": [
+"prickly things"
+]
+},
+"trusty": {
+"also": [],
+"clash": [
+"positive traits"
+]
+},
+"pat-down": {
+"also": [],
+"clash": [
+"police words"
+]
+},
+"strip search": {
+"also": [],
+"clash": [
+"police words"
+]
+},
+"detention center": {
+"also": [],
+"clash": [
+"punishments"
+]
+},
+"labor camp": {
+"also": [],
+"clash": [
+"punishments"
+]
+},
+"detective": {
+"also": [
+[
+"police words",
+1
+]
+],
+"clash": []
+},
+"clue": {
+"also": [],
+"clash": [
+"board games",
+"word games"
+]
+},
+"suspect": {
+"also": [
+[
+"police words",
+2
+]
+],
+"clash": []
+},
+"magnifying glass": {
+"also": [],
+"clash": [
+"lab equipment"
+]
+},
+"fingerprint": {
+"also": [
+[
+"police words",
+2
+]
+],
+"clash": []
+},
+"mystery": {
+"also": [
+[
+"book genres",
+1
+]
+],
+"clash": []
+},
+"whodunit": {
+"also": [
+[
+"book genres",
+2
+]
+],
+"clash": []
+},
+"whodunnit": {
+"also": [
+[
+"book genres",
+2
+]
+],
+"clash": []
+},
+"crime novel": {
+"also": [
+[
+"book genres",
+2
+]
+],
+"clash": []
+},
+"red herring": {
+"also": [],
+"clash": [
+"fish to eat",
+"figures of speech"
+]
+},
+"interrogation": {
+"also": [
+[
+"police words",
+2
+]
+],
+"clash": []
+},
+"lead": {
+"also": [
+[
+"metals",
+1
+],
+[
+"pet supplies",
+2
+],
+[
+"homographs",
+2
+]
+],
+"clash": []
+},
+"tail": {
+"also": [
+[
+"animal body parts",
+1
+],
+[
+"plane parts",
+2
+]
+],
+"clash": [
+"coins"
+]
+},
+"footprint": {
+"also": [
+[
+"climate words",
+3
+]
+],
+"clash": []
+},
+"crime scene": {
+"also": [
+[
+"police words",
+2
+]
+],
+"clash": []
+},
+"DNA": {
+"also": [
+[
+"genetics words",
+1
+]
+],
+"clash": []
+},
+"trench coat": {
+"also": [
+[
+"coats and jackets",
+1
+]
+],
+"clash": []
+},
+"deerstalker": {
+"also": [
+[
+"hats",
+2
+],
+[
+"historical hats",
+2
+]
+],
+"clash": []
+},
+"hard-boiled": {
+"also": [
+[
+"egg dishes",
+2
+]
+],
+"clash": []
+},
+"noir": {
+"also": [
+[
+"movie genres",
+2
+],
+[
+"colors in french",
+1
+]
+],
+"clash": [
+"red wines"
+]
+},
+"shamus": {
+"also": [
+[
+"words from yiddish",
+3
+]
+],
+"clash": []
+},
+"PI": {
+"also": [],
+"clash": [
+"greek letters",
+"math terms"
+]
+},
+"dossier": {
+"also": [],
+"clash": [
+"spy words"
+]
+},
+"trail": {
+"also": [],
+"clash": [
+"trail words"
+]
+},
+"murder weapon": {
+"also": [],
+"clash": [
+"board games"
+]
+},
+"confession": {
+"also": [],
+"clash": [
+"courtroom words"
+]
+},
+"mastermind": {
+"also": [
+[
+"words for leader",
+2
+]
+],
+"clash": [
+"board games"
+]
+},
+"Baker Street": {
+"also": [
+[
+"famous streets",
+3
+]
+],
+"clash": []
+},
+"accomplice": {
+"also": [],
+"clash": [
+"crimes"
+]
+},
+"tailing": {
+"also": [],
+"clash": [
+"spy words"
+]
+},
+"snoop": {
+"also": [],
+"clash": [
+"spy words"
+]
+},
+"investigator": {
+"also": [],
+"clash": [
+"police words"
+]
+},
+"investigation": {
+"also": [],
+"clash": [
+"police words"
+]
+},
+"autopsy": {
+"also": [],
+"clash": [
+"medical tests"
+]
+},
+"coroner": {
+"also": [],
+"clash": [
+"courtroom words"
+]
+},
+"inquest": {
+"also": [],
+"clash": [
+"courtroom words"
+]
+},
+"forensics": {
+"also": [],
+"clash": [
+"science fields"
+]
+},
+"sidekick": {
+"also": [],
+"clash": [
+"words for friend"
+]
+},
+"smoking gun": {
+"also": [],
+"clash": [
+"modern weapons"
+]
+},
+"hunch": {
+"also": [],
+"clash": [
+"body actions"
+]
+},
+"habeas corpus": {
+"also": [
+[
+"latin phrases",
+2
+]
+],
+"clash": [
+"courtroom words"
+]
+},
+"pro bono": {
+"also": [
+[
+"latin phrases",
+2
+]
+],
+"clash": [
+"charity words"
+]
+},
+"de facto": {
+"also": [
+[
+"latin phrases",
+2
+]
+],
+"clash": []
+},
+"subpoena": {
+"also": [
+[
+"legal documents",
+2
+],
+[
+"courtroom words",
+2
+]
+],
+"clash": [
+"latin phrases"
+]
+},
+"affidavit": {
+"also": [
+[
+"legal documents",
+2
+]
+],
+"clash": [
+"latin phrases"
+]
+},
+"alibi": {
+"also": [
+[
+"detective words",
+1
+]
+],
+"clash": [
+"latin phrases"
+]
+},
+"bona fide": {
+"also": [
+[
+"latin phrases",
+2
+]
+],
+"clash": []
+},
+"quid pro quo": {
+"also": [
+[
+"latin phrases",
+2
+]
+],
+"clash": []
+},
+"ad hoc": {
+"also": [
+[
+"latin phrases",
+2
+]
+],
+"clash": []
+},
+"de jure": {
+"also": [
+[
+"latin phrases",
+3
+]
+],
+"clash": []
+},
+"per se": {
+"also": [
+[
+"latin phrases",
+2
+]
+],
+"clash": []
+},
+"prima facie": {
+"also": [
+[
+"latin phrases",
+3
+]
+],
+"clash": []
+},
+"in camera": {
+"also": [
+[
+"latin phrases",
+4
+]
+],
+"clash": [
+"courtroom words"
+]
+},
+"pro forma": {
+"also": [
+[
+"latin phrases",
+3
+]
+],
+"clash": []
+},
+"ultra vires": {
+"also": [
+[
+"latin phrases",
+4
+]
+],
+"clash": []
+},
+"mens rea": {
+"also": [
+[
+"latin phrases",
+4
+]
+],
+"clash": [
+"courtroom words"
+]
+},
+"actus reus": {
+"also": [
+[
+"latin phrases",
+5
+]
+],
+"clash": [
+"courtroom words"
+]
+},
+"caveat emptor": {
+"also": [
+[
+"latin phrases",
+3
+]
+],
+"clash": []
+},
+"corpus delicti": {
+"also": [
+[
+"latin phrases",
+4
+]
+],
+"clash": [
+"detective words"
+]
+},
+"amicus curiae": {
+"also": [
+[
+"latin phrases",
+4
+]
+],
+"clash": [
+"courtroom words"
+]
+},
+"sub judice": {
+"also": [
+[
+"latin phrases",
+4
+]
+],
+"clash": [
+"courtroom words"
+]
+},
+"res judicata": {
+"also": [
+[
+"latin phrases",
+5
+]
+],
+"clash": []
+},
+"stare decisis": {
+"also": [
+[
+"latin phrases",
+5
+]
+],
+"clash": []
+},
+"in absentia": {
+"also": [
+[
+"latin phrases",
+3
+]
+],
+"clash": []
+},
+"in loco parentis": {
+"also": [
+[
+"latin phrases",
+4
+]
+],
+"clash": []
+},
+"ex parte": {
+"also": [
+[
+"latin phrases",
+4
+]
+],
+"clash": []
+},
+"pro rata": {
+"also": [
+[
+"latin phrases",
+3
+]
+],
+"clash": []
+},
+"inter alia": {
+"also": [
+[
+"latin phrases",
+4
+]
+],
+"clash": []
+},
+"et al.": {
+"also": [
+[
+"latin phrases",
+3
+]
+],
+"clash": []
+},
+"versus": {
+"also": [],
+"clash": [
+"latin phrases"
+]
+},
+"ad litem": {
+"also": [
+[
+"latin phrases",
+5
+]
+],
+"clash": []
+},
+"certiorari": {
+"also": [
+[
+"latin phrases",
+5
+]
+],
+"clash": []
+},
+"mandamus": {
+"also": [
+[
+"latin phrases",
+5
+]
+],
+"clash": []
+},
+"nolo contendere": {
+"also": [
+[
+"latin phrases",
+4
+]
+],
+"clash": [
+"courtroom words"
+]
+},
+"obiter dictum": {
+"also": [
+[
+"latin phrases",
+5
+]
+],
+"clash": []
+},
+"ratio decidendi": {
+"also": [
+[
+"latin phrases",
+5
+]
+],
+"clash": []
+},
+"pro se": {
+"also": [
+[
+"latin phrases",
+4
+]
+],
+"clash": [
+"courtroom words"
+]
+},
+"sui generis": {
+"also": [
+[
+"latin phrases",
+4
+]
+],
+"clash": []
+},
+"res ipsa loquitur": {
+"also": [
+[
+"latin phrases",
+5
+]
+],
+"clash": []
+},
+"ipso facto": {
+"also": [
+[
+"latin phrases",
+4
+]
+],
+"clash": []
+},
+"non compos mentis": {
+"also": [
+[
+"latin phrases",
+4
+]
+],
+"clash": []
+},
+"ex post facto": {
+"also": [
+[
+"latin phrases",
+4
+]
+],
+"clash": []
+},
+"nunc pro tunc": {
+"also": [
+[
+"latin phrases",
+5
+]
+],
+"clash": []
+},
+"ab initio": {
+"also": [
+[
+"latin phrases",
+4
+]
+],
+"clash": []
+},
+"de minimis": {
+"also": [
+[
+"latin phrases",
+4
+]
+],
+"clash": []
+},
+"in rem": {
+"also": [
+[
+"latin phrases",
+5
+]
+],
+"clash": []
+},
+"in personam": {
+"also": [
+[
+"latin phrases",
+5
+]
+],
+"clash": []
+},
+"per curiam": {
+"also": [
+[
+"latin phrases",
+5
+]
+],
+"clash": []
+},
+"sine die": {
+"also": [
+[
+"latin phrases",
+4
+]
+],
+"clash": []
+},
+"sua sponte": {
+"also": [
+[
+"latin phrases",
+5
+]
+],
+"clash": []
+},
+"terra nullius": {
+"also": [
+[
+"latin phrases",
+4
+]
+],
+"clash": []
+},
+"mutatis mutandis": {
+"also": [
+[
+"latin phrases",
+4
+]
+],
+"clash": []
+},
+"pari passu": {
+"also": [
+[
+"latin phrases",
+5
+]
+],
+"clash": []
+},
+"inter vivos": {
+"also": [
+[
+"latin phrases",
+5
+]
+],
+"clash": []
+},
+"mortis causa": {
+"also": [
+[
+"latin phrases",
+5
+]
+],
+"clash": []
+},
+"lis pendens": {
+"also": [
+[
+"latin phrases",
+5
+]
+],
+"clash": []
+},
+"onus probandi": {
+"also": [
+[
+"latin phrases",
+5
+]
+],
+"clash": []
+},
+"pro tem": {
+"also": [
+[
+"latin phrases",
+4
+]
+],
+"clash": []
+},
+"pro tempore": {
+"also": [
+[
+"latin phrases",
+4
+]
+],
+"clash": []
+},
+"quantum meruit": {
+"also": [
+[
+"latin phrases",
+5
+]
+],
+"clash": []
+},
+"sine qua non": {
+"also": [
+[
+"latin phrases",
+3
+]
+],
+"clash": []
+},
+"status quo": {
+"also": [
+[
+"latin phrases",
+2
+],
+[
+"famous bands",
+3
+]
+],
+"clash": []
+},
+"subpoena duces tecum": {
+"also": [
+[
+"latin phrases",
+5
+],
+[
+"legal documents",
+4
+]
+],
+"clash": []
+},
+"in flagrante delicto": {
+"also": [
+[
+"latin phrases",
+4
+]
+],
+"clash": [
+"crimes"
+]
+},
+"modus operandi": {
+"also": [
+[
+"latin phrases",
+2
+],
+[
+"detective words",
+2
+]
+],
+"clash": []
+},
+"habeas data": {
+"also": [
+[
+"latin phrases",
+5
+]
+],
+"clash": []
+},
+"ignorantia juris": {
+"also": [
+[
+"latin phrases",
+5
+]
+],
+"clash": []
+},
+"pro hac vice": {
+"also": [
+[
+"latin phrases",
+5
+]
+],
+"clash": []
+},
+"ex officio": {
+"also": [
+[
+"latin phrases",
+3
+]
+],
+"clash": []
+},
+"ex gratia": {
+"also": [
+[
+"latin phrases",
+4
+]
+],
+"clash": []
+},
+"scire facias": {
+"also": [
+[
+"latin phrases",
+5
+]
+],
+"clash": []
+},
+"qui tam": {
+"also": [
+[
+"latin phrases",
+5
+]
+],
+"clash": []
+},
+"fieri facias": {
+"also": [
+[
+"latin phrases",
+5
+]
+],
+"clash": []
+},
+"corpus juris": {
+"also": [
+[
+"latin phrases",
+5
+]
+],
+"clash": []
+},
+"will": {
+"also": [
+[
+"short forms of names",
+1
+]
+],
+"clash": [
+"boys' names"
+]
+},
+"contract": {
+"also": [
+[
+"workplace words",
+2
+]
+],
+"clash": [
+"business words"
+]
+},
+"deed": {
+"also": [
+[
+"real estate words",
+2
+]
+],
+"clash": []
+},
+"lease": {
+"also": [
+[
+"real estate words",
+1
+]
+],
+"clash": []
+},
+"warrant": {
+"also": [],
+"clash": [
+"police words"
+]
+},
+"patent": {
+"also": [
+[
+"betting words",
+4
+]
+],
+"clash": [
+"inventions"
+]
+},
+"license": {
+"also": [],
+"clash": [
+"in a wallet"
+]
+},
+"title deed": {
+"also": [
+[
+"real estate words",
+2
+]
+],
+"clash": []
+},
+"testament": {
+"also": [],
+"clash": [
+"holy books"
+]
+},
+"marriage certificate": {
+"also": [],
+"clash": [
+"weddings"
+]
+},
+"birth certificate": {
+"also": [],
+"clash": [
+"babies and birth"
+]
+},
+"passport": {
+"also": [
+[
+"travel documents",
+1
+],
+[
+"things to pack",
+2
+]
+],
+"clash": []
+},
+"visa": {
+"also": [
+[
+"travel documents",
+1
+]
+],
+"clash": [
+"banking words"
+]
+},
+"deposition": {
+"also": [],
+"clash": [
+"courtroom words"
+]
+},
+"indictment": {
+"also": [],
+"clash": [
+"courtroom words"
+]
+},
+"injunction": {
+"also": [],
+"clash": [
+"courtroom words"
+]
+},
+"search warrant": {
+"also": [
+[
+"police words",
+2
+]
+],
+"clash": []
+},
+"arrest warrant": {
+"also": [
+[
+"police words",
+2
+]
+],
+"clash": []
+},
+"warrant of arrest": {
+"also": [],
+"clash": [
+"police words"
+]
+},
+"charter": {
+"also": [],
+"clash": [
+"historic documents"
+]
+},
+"statute": {
+"also": [
+[
+"government words",
+2
+]
+],
+"clash": []
+},
+"decree": {
+"also": [
+[
+"government words",
+2
+]
+],
+"clash": [
+"royal things"
+]
+},
+"transcript": {
+"also": [],
+"clash": [
+"courtroom words",
+"university words"
+]
+},
+"brief": {
+"also": [],
+"clash": [
+"courtroom words",
+"underwear"
+]
+},
+"petition": {
+"also": [
+[
+"protest words",
+1
+]
+],
+"clash": []
+},
+"eviction notice": {
+"also": [],
+"clash": [
+"real estate words"
+]
+},
+"IOU": {
+"also": [
+[
+"in a wallet",
+3
+]
+],
+"clash": [
+"money slang"
+]
+},
+"easement": {
+"also": [
+[
+"real estate words",
+3
+]
+],
+"clash": []
+},
+"lien": {
+"also": [
+[
+"real estate words",
+3
+]
+],
+"clash": []
+},
+"consent form": {
+"also": [],
+"clash": [
+"hospital words"
+]
+},
+"proxy": {
+"also": [],
+"clash": [
+"election words",
+"networking"
+]
+},
+"title": {
+"also": [],
+"clash": [
+"parts of a book",
+"tournament words",
+"real estate words"
+]
+},
+"certificate": {
+"also": [],
+"clash": [
+"graduation words"
+]
+},
+"ticket": {
+"also": [
+[
+"election words",
+3
+],
+[
+"travel documents",
+1
+]
+],
+"clash": [
+"ticket words",
+"police words"
+]
+},
+"trust": {
+"also": [],
+"clash": [
+"banking words"
+]
+},
+"lease agreement": {
+"also": [],
+"clash": [
+"real estate words"
+]
+},
+"rental agreement": {
+"also": [],
+"clash": [
+"real estate words"
+]
+},
+"tenancy agreement": {
+"also": [],
+"clash": [
+"real estate words"
+]
+},
+"employment contract": {
+"also": [],
+"clash": [
+"workplace words"
+]
+},
+"plea agreement": {
+"also": [],
+"clash": [
+"courtroom words"
+]
+},
+"rap sheet": {
+"also": [],
+"clash": [
+"police words"
+]
+},
+"charge sheet": {
+"also": [],
+"clash": [
+"police words"
+]
+},
+"divorce papers": {
+"also": [],
+"clash": [
+"life events"
+]
+},
+"probate": {
+"also": [],
+"clash": [
+"courtroom words"
+]
+},
+"prenup": {
+"also": [],
+"clash": [
+"weddings"
+]
+},
+"prenuptial agreement": {
+"also": [],
+"clash": [
+"weddings"
+]
+},
+"bill of sale": {
+"also": [],
+"clash": [
+"shopping words"
+]
+},
+"promissory note": {
+"also": [],
+"clash": [
+"banking words"
+]
+},
+"fine": {
+"also": [],
+"clash": [
+"words for good",
+"law and order"
+]
+},
+"jail": {
+"also": [
+[
+"prison words",
+1
+]
+],
+"clash": []
+},
+"probation": {
+"also": [
+[
+"workplace words",
+3
+]
+],
+"clash": [
+"prison words",
+"law and order"
+]
+},
+"parole": {
+"also": [
+[
+"prison words",
+2
+]
+],
+"clash": []
+},
+"detention": {
+"also": [],
+"clash": [
+"school",
+"prison words"
+]
+},
+"curfew": {
+"also": [
+[
+"government words",
+2
+]
+],
+"clash": []
+},
+"guillotine": {
+"also": [
+[
+"french revolution",
+1
+]
+],
+"clash": []
+},
+"gallows": {
+"also": [],
+"clash": [
+"wild west"
+]
+},
+"electric chair": {
+"also": [],
+"clash": [
+"seating"
+]
+},
+"life sentence": {
+"also": [],
+"clash": [
+"prison words"
+]
+},
+"flogging": {
+"also": [
+[
+"pirate punishments",
+2
+]
+],
+"clash": []
+},
+"whipping": {
+"also": [
+[
+"pirate punishments",
+3
+]
+],
+"clash": []
+},
+"lashes": {
+"also": [],
+"clash": [
+"eye parts"
+]
+},
+"stocks": {
+"also": [
+[
+"medieval times",
+2
+]
+],
+"clash": [
+"stock market words"
+]
+},
+"pillory": {
+"also": [
+[
+"medieval times",
+3
+]
+],
+"clash": []
+},
+"ducking stool": {
+"also": [
+[
+"medieval times",
+3
+]
+],
+"clash": [
+"witchcraft"
+]
+},
+"keelhauling": {
+"also": [
+[
+"pirate punishments",
+2
+]
+],
+"clash": []
+},
+"crucifixion": {
+"also": [
+[
+"easter",
+2
+]
+],
+"clash": [
+"ancient rome"
+]
+},
+"penal colony": {
+"also": [],
+"clash": [
+"prison words"
+]
+},
+"time-out": {
+"also": [],
+"clash": [
+"basketball terms"
+]
+},
+"suspension": {
+"also": [
+[
+"car parts",
+2
+]
+],
+"clash": []
+},
+"penalty": {
+"also": [
+[
+"soccer terms",
+1
+],
+[
+"ice hockey terms",
+2
+]
+],
+"clash": [
+"scoring words"
+]
+},
+"forfeit": {
+"also": [],
+"clash": [
+"party games",
+"tournament words"
+]
+},
+"red card": {
+"also": [
+[
+"soccer terms",
+1
+]
+],
+"clash": [
+"red things"
+]
+},
+"sin bin": {
+"also": [
+[
+"ice hockey terms",
+2
+],
+[
+"rugby terms",
+2
+]
+],
+"clash": []
+},
+"ASBO": {
+"also": [],
+"clash": [
+"acronyms"
+]
+},
+"excommunication": {
+"also": [],
+"clash": [
+"religion words"
+]
+},
+"ostracism": {
+"also": [
+[
+"ancient greece",
+3
+]
+],
+"clash": []
+},
+"paddling": {
+"also": [],
+"clash": [
+"water sports"
+]
+},
+"demotion": {
+"also": [
+[
+"workplace words",
+2
+]
+],
+"clash": []
+},
+"dismissal": {
+"also": [
+[
+"workplace words",
+2
+],
+[
+"cricket terms",
+3
+]
+],
+"clash": []
+},
+"court-martial": {
+"also": [],
+"clash": [
+"army words"
+]
+},
+"dishonorable discharge": {
+"also": [],
+"clash": [
+"army words"
+]
+},
+"drawing and quartering": {
+"also": [],
+"clash": [
+"medieval times"
+]
+},
+"burning at the stake": {
+"also": [],
+"clash": [
+"witchcraft"
+]
+},
+"walking the plank": {
+"also": [
+[
+"pirate punishments",
+1
+]
+],
+"clash": []
+},
+"transportation": {
+"also": [],
+"clash": [
+"public transportation"
+]
+},
+"impalement": {
+"also": [],
+"clash": [
+"heraldry"
+]
+},
+"cat-o'-nine-tails": {
+"also": [
+[
+"pirate punishments",
+2
+]
+],
+"clash": []
+},
+"house arrest": {
+"also": [],
+"clash": [
+"prison words"
+]
+},
+"exile": {
+"also": [],
+"clash": [
+"prison words"
+]
+},
+"hard labor": {
+"also": [],
+"clash": [
+"prison words"
+]
+},
+"death sentence": {
+"also": [],
+"clash": [
+"prison words"
+]
+},
+"death penalty": {
+"also": [],
+"clash": [
+"prison words"
+]
+},
+"grounding": {
+"also": [],
+"clash": [
+"electricity words"
+]
+},
+"penalty points": {
+"also": [],
+"clash": [
+"driving words"
+]
+},
+"driving ban": {
+"also": [],
+"clash": [
+"driving words"
+]
+},
+"disqualification": {
+"also": [],
+"clash": [
+"tournament words"
+]
+},
+"lines": {
+"also": [],
+"clash": [
+"line types"
+]
+},
+"writing lines": {
+"also": [],
+"clash": [
+"school"
+]
+},
+"expulsion": {
+"also": [],
+"clash": [
+"school"
+]
+},
+"suspended sentence": {
+"also": [],
+"clash": [
+"courtroom words"
+]
+},
+"jail time": {
+"also": [
+[
+"prison words",
+2
+]
+],
+"clash": []
+},
+"community service": {
+"also": [],
+"clash": [
+"charity words"
+]
+},
+"mole": {
+"also": [
+[
+"garden pests",
+2
+],
+[
+"burrowing animals",
+1
+],
+[
+"skin words",
+2
+],
+[
+"british wildlife",
+2
+],
+[
+"mexican food",
+3
+]
+],
+"clash": [
+"chemistry words"
+]
+},
+"cipher": {
+"also": [
+[
+"codes and signals",
+2
+],
+[
+"words from arabic",
+3
+]
+],
+"clash": []
+},
+"double agent": {
+"also": [
+[
+"cold war",
+2
+]
+],
+"clash": []
+},
+"spy": {
+"also": [
+[
+"cold war",
+1
+]
+],
+"clash": []
+},
+"sleeper": {
+"also": [],
+"clash": [
+"train types",
+"railway words"
+]
+},
+"defector": {
+"also": [
+[
+"cold war",
+2
+]
+],
+"clash": []
+},
+"bug": {
+"also": [
+[
+"software words",
+2
+],
+[
+"coding words",
+2
+]
+],
+"clash": [
+"insects and bugs"
+]
+},
+"code": {
+"also": [
+[
+"coding words",
+1
+],
+[
+"codes and signals",
+1
+]
+],
+"clash": []
+},
+"encryption": {
+"also": [
+[
+"cybersecurity words",
+2
+]
+],
+"clash": []
+},
+"cover story": {
+"also": [],
+"clash": [
+"newspaper words"
+]
+},
+"legend": {
+"also": [
+[
+"map words",
+2
+]
+],
+"clash": [
+"folklore"
+]
+},
+"reconnaissance": {
+"also": [
+[
+"war words",
+2
+]
+],
+"clash": []
+},
+"intelligence": {
+"also": [],
+"clash": [
+"words for smart"
+]
+},
+"KGB": {
+"also": [
+[
+"cold war",
+1
+]
+],
+"clash": []
+},
+"Stasi": {
+"also": [
+[
+"cold war",
+2
+]
+],
+"clash": []
+},
+"classified": {
+"also": [],
+"clash": [
+"newspaper words"
+]
+},
+"gadget": {
+"also": [],
+"clash": [
+"gadgets"
+]
+},
+"hidden camera": {
+"also": [],
+"clash": [
+"cameras"
+]
+},
+"Mata Hari": {
+"also": [
+[
+"famous women in history",
+2
+]
+],
+"clash": []
+},
+"Kim Philby": {
+"also": [
+[
+"cold war",
+3
+]
+],
+"clash": []
+},
+"Cambridge Five": {
+"also": [
+[
+"cold war",
+3
+]
+],
+"clash": []
+},
+"Rosenbergs": {
+"also": [
+[
+"cold war",
+3
+]
+],
+"clash": []
+},
+"Enigma": {
+"also": [
+[
+"world war ii terms",
+2
+],
+[
+"codes and signals",
+3
+]
+],
+"clash": []
+},
+"Bletchley Park": {
+"also": [
+[
+"world war ii terms",
+3
+]
+],
+"clash": []
+},
+"Checkpoint Charlie": {
+"also": [
+[
+"cold war",
+2
+]
+],
+"clash": []
+},
+"plant": {
+"also": [
+[
+"homographs",
+2
+]
+],
+"clash": [
+"plants"
+]
+},
+"agent provocateur": {
+"also": [],
+"clash": [
+"troublemakers"
+]
+},
+"espionage": {
+"also": [
+[
+"cold war",
+2
+]
+],
+"clash": []
+},
+"surveillance": {
+"also": [
+[
+"casino words",
+3
+]
+],
+"clash": [
+"police words"
+]
+},
+"spyware": {
+"also": [
+[
+"cybersecurity words",
+2
+]
+],
+"clash": []
+},
+"honeypot": {
+"also": [
+[
+"cybersecurity words",
+3
+]
+],
+"clash": []
+},
+"John le Carré": {
+"also": [
+[
+"british novelists",
+2
+]
+],
+"clash": []
+},
+"Ian Fleming": {
+"also": [
+[
+"british novelists",
+2
+]
+],
+"clash": []
+},
+"extraction": {
+"also": [],
+"clash": [
+"dental words"
+]
+},
+"codebreaker": {
+"also": [],
+"clash": [
+"codes and signals"
+]
+},
+"cryptography": {
+"also": [],
+"clash": [
+"codes and signals"
+]
+},
+"decoder": {
+"also": [],
+"clash": [
+"codes and signals"
+]
+},
+"one-time pad": {
+"also": [],
+"clash": [
+"codes and signals"
+]
+},
+"steganography": {
+"also": [],
+"clash": [
+"codes and signals"
+]
+},
+"undercover": {
+"also": [],
+"clash": [
+"police words"
+]
+},
+"wiretap": {
+"also": [],
+"clash": [
+"police words"
+]
+},
+"traitor": {
+"also": [],
+"clash": [
+"war words"
+]
+},
+"saboteur": {
+"also": [],
+"clash": [
+"war words"
+]
+},
+"sabotage": {
+"also": [],
+"clash": [
+"war words"
+]
+},
+"infiltration": {
+"also": [],
+"clash": [
+"war words"
+]
+},
+"black ops": {
+"also": [],
+"clash": [
+"army words"
+]
+},
+"spy plane": {
+"also": [],
+"clash": [
+"aircraft types"
+]
+},
+"spy satellite": {
+"also": [],
+"clash": [
+"space vehicles"
+]
+},
+"MI5": {
+"also": [],
+"clash": [
+"british politics"
+]
+},
+"MI6": {
+"also": [],
+"clash": [
+"british politics"
+]
+},
+"cash": {
+"also": [
+[
+"in a wallet",
+1
+],
+[
+"supermarket",
+2
+],
+[
+"street market",
+2
+]
+],
+"clash": []
+},
+"wallet": {
+"also": [],
+"clash": [
+"in a wallet",
+"bags"
+]
+},
+"purse": {
+"also": [
+[
+"bags",
+1
+]
+],
+"clash": [
+"in a handbag"
+]
+},
+"savings": {
+"also": [
+[
+"banking words",
+2
+]
+],
+"clash": []
+},
+"salary": {
+"also": [
+[
+"workplace words",
+1
+]
+],
+"clash": []
+},
+"wage": {
+"also": [
+[
+"workplace words",
+1
+]
+],
+"clash": []
+},
+"wages": {
+"also": [
+[
+"workplace words",
+1
+]
+],
+"clash": []
+},
+"income": {
+"also": [],
+"clash": [
+"tax words"
+]
+},
+"price": {
+"also": [],
+"clash": [
+"shopping words"
+]
+},
+"cost": {
+"also": [],
+"clash": [
+"shopping words"
+]
+},
+"payment": {
+"also": [],
+"clash": [
+"banking words"
+]
+},
+"debt": {
+"also": [],
+"clash": [
+"banking words"
+]
+},
+"banknote": {
+"also": [
+[
+"in a wallet",
+1
+]
+],
+"clash": []
+},
+"currency": {
+"also": [],
+"clash": [
+"currencies"
+]
+},
+"payday": {
+"also": [
+[
+"workplace words",
+1
+]
+],
+"clash": []
+},
+"paycheck": {
+"also": [
+[
+"workplace words",
+1
+]
+],
+"clash": []
+},
+"tip": {
+"also": [
+[
+"manners and etiquette",
+2
+],
+[
+"restaurant words",
+1
+]
+],
+"clash": []
+},
+"gratuity": {
+"also": [
+[
+"restaurant words",
+3
+]
+],
+"clash": []
+},
+"tipping": {
+"also": [],
+"clash": [
+"restaurant words"
+]
+},
+"donation": {
+"also": [
+[
+"charity words",
+1
+]
+],
+"clash": []
+},
+"refund": {
+"also": [
+[
+"shopping words",
+2
+]
+],
+"clash": []
+},
+"fortune": {
+"also": [],
+"clash": [
+"treasure",
+"superstitions"
+]
+},
+"riches": {
+"also": [],
+"clash": [
+"treasure"
+]
+},
+"treasure": {
+"also": [
+[
+"pirate words",
+1
+]
+],
+"clash": [
+"treasure"
+]
+},
+"broke": {
+"also": [
+[
+"irregular past tenses",
+2
+]
+],
+"clash": []
+},
+"inheritance": {
+"also": [],
+"clash": [
+"tax words",
+"genetics words"
+]
+},
+"pension": {
+"also": [
+[
+"workplace words",
+1
+]
+],
+"clash": []
+},
+"bonus": {
+"also": [
+[
+"workplace words",
+1
+]
+],
+"clash": [
+"power-ups and pickups"
+]
+},
+"commission": {
+"also": [
+[
+"workplace words",
+2
+],
+[
+"real estate words",
+2
+]
+],
+"clash": []
+},
+"royalty": {
+"also": [
+[
+"social classes",
+2
+]
+],
+"clash": [
+"royal things",
+"publishing words"
+]
+},
+"rent": {
+"also": [
+[
+"real estate words",
+1
+],
+[
+"household bills",
+1
+]
+],
+"clash": []
+},
+"fare": {
+"also": [
+[
+"ticket words",
+1
+]
+],
+"clash": [
+"homophones"
+]
+},
+"toll": {
+"also": [],
+"clash": [
+"road trip words"
+]
+},
+"change": {
+"also": [
+[
+"supermarket",
+2
+],
+[
+"street market",
+2
+]
+],
+"clash": [
+"in a wallet"
+]
+},
+"loose change": {
+"also": [
+[
+"in a wallet",
+1
+]
+],
+"clash": []
+},
+"windfall": {
+"also": [],
+"clash": [
+"things that fall from trees",
+"tax words"
+]
+},
+"jackpot": {
+"also": [
+[
+"casino words",
+1
+],
+[
+"lottery words",
+1
+]
+],
+"clash": []
+},
+"payout": {
+"also": [
+[
+"casino words",
+2
+],
+[
+"betting words",
+2
+]
+],
+"clash": []
+},
+"per diem": {
+"also": [
+[
+"latin phrases",
+3
+]
+],
+"clash": []
+},
+"thrift": {
+"also": [],
+"clash": [
+"shops"
+]
+},
+"miser": {
+"also": [],
+"clash": [
+"negative traits"
+]
+},
+"heir": {
+"also": [],
+"clash": [
+"royal titles",
+"homophones"
+]
+},
+"nouveau riche": {
+"also": [
+[
+"social classes",
+2
+],
+[
+"french phrases in english",
+2
+]
+],
+"clash": []
+},
+"minted": {
+"also": [
+[
+"british slang",
+2
+]
+],
+"clash": []
+},
+"loaded": {
+"also": [],
+"clash": [
+"words for big"
+]
+},
+"raise": {
+"also": [
+[
+"workplace words",
+1
+]
+],
+"clash": []
+},
+"pay rise": {
+"also": [
+[
+"workplace words",
+2
+]
+],
+"clash": []
+},
+"overtime": {
+"also": [
+[
+"workplace words",
+1
+]
+],
+"clash": [
+"basketball terms"
+]
+},
+"ransom": {
+"also": [],
+"clash": [
+"crimes"
+]
+},
+"cash prize": {
+"also": [],
+"clash": [
+"lottery words"
+]
+},
+"prize money": {
+"also": [],
+"clash": [
+"trophies and prizes"
+]
+},
+"reward": {
+"also": [],
+"clash": [
+"trophies and prizes"
+]
+},
+"legacy": {
+"also": [],
+"clash": [
+"charity words"
+]
+},
+"piggy bank": {
+"also": [],
+"clash": [
+"containers"
+]
+},
+"tycoon": {
+"also": [],
+"clash": [
+"words for leader"
+]
+},
+"magnate": {
+"also": [],
+"clash": [
+"words for leader"
+]
+},
+"poverty": {
+"also": [],
+"clash": [
+"charity words"
+]
+},
+"alimony": {
+"also": [],
+"clash": [
+"life events"
+]
+},
+"agora": {
+"also": [
+[
+"ancient greece",
+3
+]
+],
+"clash": []
+},
+"dinar": {
+"also": [
+[
+"african currencies",
+2
+],
+[
+"european currencies",
+3
+]
+],
+"clash": []
+},
+"dirham": {
+"also": [
+[
+"african currencies",
+2
+]
+],
+"clash": []
+},
+"dollar": {
+"also": [],
+"clash": [
+"keyboard symbols"
+]
+},
+"legal tender": {
+"also": [],
+"clash": [
+"money words"
+]
+},
+"foreign currency": {
+"also": [
+[
+"in a wallet",
+3
+]
+],
+"clash": []
+},
+"exchange rate": {
+"also": [],
+"clash": [
+"banking words"
+]
+},
+"hard currency": {
+"also": [],
+"clash": [
+"money words"
+]
+},
+"shilling": {
+"also": [],
+"clash": [
+"historic coins",
+"european currencies"
+]
+},
+"kwanza": {
+"also": [],
+"clash": [
+"festivals of the world"
+]
+},
+"Mauritian rupee": {
+"also": [],
+"clash": [
+"asian currencies"
+]
+},
+"Seychellois rupee": {
+"also": [],
+"clash": [
+"asian currencies"
+]
+},
+"yuan": {
+"also": [
+[
+"chinese dynasties",
+2
+]
+],
+"clash": []
+},
+"won": {
+"also": [
+[
+"irregular past tenses",
+1
+],
+[
+"sounds like a number",
+1
+]
+],
+"clash": [
+"homophones"
+]
+},
+"dong": {
+"also": [],
+"clash": [
+"onomatopoeia"
+]
+},
+"kip": {
+"also": [
+[
+"sleep words",
+2
+],
+[
+"british slang",
+2
+]
+],
+"clash": []
+},
+"dram": {
+"also": [
+[
+"old units",
+3
+]
+],
+"clash": [
+"spirits"
+]
+},
+"fen": {
+"also": [
+[
+"wetlands",
+3
+],
+[
+"flat landscapes",
+3
+]
+],
+"clash": []
+},
+"ryo": {
+"also": [
+[
+"historic coins",
+4
+]
+],
+"clash": []
+},
+"tael": {
+"also": [
+[
+"weight units",
+4
+],
+[
+"historic coins",
+4
+]
+],
+"clash": []
+},
+"Philippine peso": {
+"also": [],
+"clash": [
+"latin american currencies"
+]
+},
+"afghani": {
+"also": [],
+"clash": [
+"nationalities"
+]
+},
+"pound": {
+"also": [
+[
+"weight units",
+1
+],
+[
+"imperial units",
+1
+]
+],
+"clash": [
+"animal homes"
+]
+},
+"mark": {
+"also": [
+[
+"boys' names",
+1
+],
+[
+"biblical names",
+1
+]
+],
+"clash": [
+"punctuation",
+"exam words"
+]
+},
+"drachma": {
+"also": [
+[
+"ancient greece",
+3
+],
+[
+"historic coins",
+3
+]
+],
+"clash": []
+},
+"escudo": {
+"also": [
+[
+"treasure",
+3
+],
+[
+"historic coins",
+3
+]
+],
+"clash": []
+},
+"guilder": {
+"also": [],
+"clash": [
+"historic coins"
+]
+},
+"schilling": {
+"also": [],
+"clash": [
+"african currencies"
+]
+},
+"punt": {
+"also": [
+[
+"betting words",
+2
+],
+[
+"small boats",
+2
+],
+[
+"american football terms",
+2
+]
+],
+"clash": []
+},
+"sterling": {
+"also": [],
+"clash": [
+"metals",
+"precious materials"
+]
+},
+"pound sterling": {
+"also": [],
+"clash": [
+"money words"
+]
+},
+"reichsmark": {
+"also": [],
+"clash": [
+"world war ii terms"
+]
+},
+"ostmark": {
+"also": [],
+"clash": [
+"cold war"
+]
+},
+"Eurocent": {
+"also": [],
+"clash": [
+"coins"
+]
+},
+"kopek": {
+"also": [],
+"clash": [
+"historic coins"
+]
+},
+"Deutsche Mark": {
+"also": [],
+"clash": [
+"historic coins"
+]
+},
+"Turkish lira": {
+"also": [],
+"clash": [
+"turkish travel words"
+]
+},
+"real": {
+"also": [],
+"clash": [
+"european soccer clubs"
+]
+},
+"sol": {
+"also": [],
+"clash": [
+"notes and rests",
+"stars"
+]
+},
+"guarani": {
+"also": [
+[
+"indigenous south american languages",
+3
+]
+],
+"clash": []
+},
+"bolívar": {
+"also": [
+[
+"latin american liberators",
+1
+]
+],
+"clash": []
+},
+"quetzal": {
+"also": [
+[
+"colorful birds",
+3
+]
+],
+"clash": []
+},
+"colón": {
+"also": [],
+"clash": [
+"punctuation",
+"organs",
+"explorers"
+]
+},
+"córdoba": {
+"also": [
+[
+"spanish cities",
+3
+],
+[
+"south american cities",
+3
+]
+],
+"clash": []
+},
+"balboa": {
+"also": [
+[
+"explorers",
+3
+],
+[
+"conquistadors",
+3
+]
+],
+"clash": []
+},
+"sucre": {
+"also": [
+[
+"latin american liberators",
+3
+],
+[
+"south american cities",
+4
+]
+],
+"clash": []
+},
+"inti": {
+"also": [
+[
+"inca gods",
+2
+]
+],
+"clash": []
+},
+"gourde": {
+"also": [],
+"clash": [
+"squashes"
+]
+},
+"cruzado": {
+"also": [],
+"clash": [
+"crusades"
+]
+},
+"centavo": {
+"also": [],
+"clash": [
+"coins"
+]
+},
+"milreis": {
+"also": [],
+"clash": [
+"historic coins"
+]
+},
+"bank": {
+"also": [
+[
+"river features",
+2
+]
+],
+"clash": [
+"money words"
+]
+},
+"deposit": {
+"also": [
+[
+"real estate words",
+1
+]
+],
+"clash": [
+"rocks and minerals"
+]
+},
+"mortgage": {
+"also": [
+[
+"real estate words",
+1
+],
+[
+"household bills",
+1
+]
+],
+"clash": []
+},
+"check": {
+"also": [
+[
+"chess terms",
+1
+]
+],
+"clash": [
+"restaurant words",
+"patterns"
+]
+},
+"teller": {
+"also": [
+[
+"office jobs",
+2
+]
+],
+"clash": []
+},
+"PIN": {
+"also": [
+[
+"acronyms",
+1
+]
+],
+"clash": [
+"sewing kit",
+"bowling terms",
+"chess terms",
+"wrestling terms"
+]
+},
+"balance": {
+"also": [],
+"clash": [
+"yoga words",
+"gymnastics"
+]
+},
+"debit card": {
+"also": [
+[
+"in a wallet",
+1
+]
+],
+"clash": []
+},
+"credit card": {
+"also": [
+[
+"in a wallet",
+1
+],
+[
+"household bills",
+2
+]
+],
+"clash": []
+},
+"bank card": {
+"also": [
+[
+"in a wallet",
+2
+]
+],
+"clash": []
+},
+"transfer": {
+"also": [],
+"clash": [
+"soccer terms"
+]
+},
+"branch": {
+"also": [
+[
+"tree parts",
+1
+]
+],
+"clash": []
+},
+"vault": {
+"also": [
+[
+"gymnastics apparatus",
+1
+]
+],
+"clash": [
+"field events",
+"architectural features",
+"church parts"
+]
+},
+"cashier": {
+"also": [
+[
+"supermarket",
+1
+]
+],
+"clash": [
+"service jobs",
+"shopping words"
+]
+},
+"interest rate": {
+"also": [
+[
+"real estate words",
+2
+]
+],
+"clash": []
+},
+"principal": {
+"also": [
+[
+"school staff",
+2
+]
+],
+"clash": [
+"homophones"
+]
+},
+"foreclosure": {
+"also": [
+[
+"real estate words",
+2
+]
+],
+"clash": []
+},
+"default": {
+"also": [],
+"clash": [
+"software words"
+]
+},
+"lender": {
+"also": [
+[
+"real estate words",
+2
+]
+],
+"clash": []
+},
+"loan officer": {
+"also": [
+[
+"office jobs",
+2
+]
+],
+"clash": []
+},
+"escrow": {
+"also": [
+[
+"real estate words",
+3
+]
+],
+"clash": []
+},
+"banker": {
+"also": [
+[
+"casino words",
+3
+],
+[
+"betting words",
+3
+],
+[
+"office jobs",
+2
+]
+],
+"clash": []
+},
+"underwriter": {
+"also": [
+[
+"office jobs",
+3
+]
+],
+"clash": []
+},
+"mortgage broker": {
+"also": [
+[
+"real estate words",
+2
+]
+],
+"clash": []
+},
+"Federal Reserve": {
+"also": [],
+"clash": [
+"us government"
+]
+},
+"Bank of England": {
+"also": [],
+"clash": [
+"london landmarks"
+]
+},
+"offshore account": {
+"also": [],
+"clash": [
+"tax words"
+]
+},
+"Swiss bank account": {
+"also": [],
+"clash": [
+"tax words"
+]
+},
+"direct debit": {
+"also": [],
+"clash": [
+"household bills"
+]
+},
+"standing order": {
+"also": [],
+"clash": [
+"household bills"
+]
+},
+"savings bond": {
+"also": [],
+"clash": [
+"stock market words"
+]
+},
+"investment bank": {
+"also": [],
+"clash": [
+"stock market words"
+]
+},
+"ATM": {
+"also": [],
+"clash": [
+"in a wallet"
+]
+},
+"contactless": {
+"also": [],
+"clash": [
+"phone features"
+]
+},
+"account": {
+"also": [],
+"clash": [
+"social media words"
+]
+},
+"safe deposit box": {
+"also": [],
+"clash": [
+"treasure"
+]
+},
+"penny": {
+"also": [
+[
+"girls' names",
+2
+],
+[
+"short forms of names",
+2
+]
+],
+"clash": []
+},
+"nickel": {
+"also": [
+[
+"metals",
+1
+],
+[
+"chemical elements",
+1
+]
+],
+"clash": [
+"metallic colors"
+]
+},
+"quarter": {
+"also": [
+[
+"fractions",
+1
+]
+],
+"clash": [
+"parts of a town",
+"clocks and calendars"
+]
+},
+"cent": {
+"also": [
+[
+"homophones",
+2
+]
+],
+"clash": []
+},
+"loonie": {
+"also": [
+[
+"canadian slang",
+2
+]
+],
+"clash": []
+},
+"toonie": {
+"also": [
+[
+"canadian slang",
+2
+]
+],
+"clash": []
+},
+"gold coin": {
+"also": [],
+"clash": [
+"treasure"
+]
+},
+"silver coin": {
+"also": [],
+"clash": [
+"treasure"
+]
+},
+"mint": {
+"also": [
+[
+"herbs",
+1
+],
+[
+"candy",
+2
+],
+[
+"shades of green",
+2
+]
+],
+"clash": []
+},
+"tails": {
+"also": [],
+"clash": [
+"animal body parts"
+]
+},
+"bullion": {
+"also": [
+[
+"treasure",
+2
+]
+],
+"clash": []
+},
+"token": {
+"also": [
+[
+"arcade words",
+2
+],
+[
+"game pieces",
+2
+]
+],
+"clash": []
+},
+"Maple Leaf": {
+"also": [
+[
+"national symbols",
+1
+]
+],
+"clash": [
+"flag words"
+]
+},
+"Britannia": {
+"also": [
+[
+"national symbols",
+2
+]
+],
+"clash": []
+},
+"numismatics": {
+"also": [
+[
+"collecting hobbies",
+2
+]
+],
+"clash": []
+},
+"numismatist": {
+"also": [],
+"clash": [
+"collecting hobbies"
+]
+},
+"coin collector": {
+"also": [],
+"clash": [
+"collecting hobbies"
+]
+},
+"coin toss": {
+"also": [],
+"clash": [
+"sports officials"
+]
+},
+"coin purse": {
+"also": [],
+"clash": [
+"bags",
+"in a handbag"
+]
+},
+"small change": {
+"also": [],
+"clash": [
+"in a wallet"
+]
+},
+"reverse": {
+"also": [],
+"clash": [
+"driving words"
+]
+},
+"doubloon": {
+"also": [
+[
+"treasure",
+1
+],
+[
+"pirate words",
+2
+]
+],
+"clash": []
+},
+"ducat": {
+"also": [
+[
+"treasure",
+2
+]
+],
+"clash": []
+},
+"farthing": {
+"also": [],
+"clash": [
+"bike types"
+]
+},
+"guinea": {
+"also": [
+[
+"treasure",
+3
+],
+[
+"african countries",
+1
+]
+],
+"clash": [
+"small pets"
+]
+},
+"sovereign": {
+"also": [
+[
+"royal titles",
+1
+],
+[
+"treasure",
+2
+],
+[
+"words for leader",
+3
+]
+],
+"clash": []
+},
+"denarius": {
+"also": [
+[
+"ancient rome",
+2
+]
+],
+"clash": []
+},
+"piece of eight": {
+"also": [
+[
+"treasure",
+1
+],
+[
+"pirate words",
+2
+]
+],
+"clash": []
+},
+"crown": {
+"also": [
+[
+"royal things",
+1
+],
+[
+"dental words",
+2
+]
+],
+"clash": [
+"tree parts"
+]
+},
+"noble": {
+"also": [
+[
+"social classes",
+1
+],
+[
+"feudal ranks",
+2
+]
+],
+"clash": [
+"gases"
+]
+},
+"sestertius": {
+"also": [
+[
+"ancient rome",
+3
+]
+],
+"clash": []
+},
+"solidus": {
+"also": [
+[
+"byzantine empire",
+4
+]
+],
+"clash": []
+},
+"obol": {
+"also": [
+[
+"ancient greece",
+4
+]
+],
+"clash": []
+},
+"tetradrachm": {
+"also": [
+[
+"ancient greece",
+4
+]
+],
+"clash": []
+},
+"bezant": {
+"also": [
+[
+"heraldry",
+4
+],
+[
+"byzantine empire",
+4
+]
+],
+"clash": []
+},
+"double eagle": {
+"also": [
+[
+"golf terms",
+3
+]
+],
+"clash": [
+"heraldry"
+]
+},
+"tanner": {
+"also": [
+[
+"medieval jobs",
+2
+],
+[
+"surnames that are jobs",
+3
+]
+],
+"clash": []
+},
+"mite": {
+"also": [],
+"clash": [
+"spiders",
+"tiny things"
+]
+},
+"denier": {
+"also": [],
+"clash": [
+"sewing words"
+]
+},
+"Spanish dollar": {
+"also": [],
+"clash": [
+"pirate words"
+]
+},
+"cash coin": {
+"also": [],
+"clash": [
+"ancient china"
+]
+},
+"spade money": {
+"also": [],
+"clash": [
+"ancient china"
+]
+},
+"knife money": {
+"also": [],
+"clash": [
+"ancient china"
+]
+},
+"Ban Liang": {
+"also": [
+[
+"ancient china",
+4
+]
+],
+"clash": []
+},
+"groat": {
+"also": [],
+"clash": [
+"medieval times"
+]
+},
+"tax": {
+"also": [
+[
+"government words",
+1
+]
+],
+"clash": []
+},
+"VAT": {
+"also": [],
+"clash": [
+"containers"
+]
+},
+"tariff": {
+"also": [
+[
+"government words",
+2
+],
+[
+"words from arabic",
+2
+]
+],
+"clash": []
+},
+"duty": {
+"also": [],
+"clash": [
+"army words"
+]
+},
+"property tax": {
+"also": [
+[
+"real estate words",
+2
+],
+[
+"household bills",
+2
+]
+],
+"clash": []
+},
+"stamp duty": {
+"also": [
+[
+"real estate words",
+2
+]
+],
+"clash": []
+},
+"poll tax": {
+"also": [
+[
+"election words",
+3
+]
+],
+"clash": []
+},
+"council tax": {
+"also": [
+[
+"household bills",
+1
+]
+],
+"clash": []
+},
+"audit": {
+"also": [
+[
+"government words",
+2
+]
+],
+"clash": []
+},
+"auditor": {
+"also": [
+[
+"office jobs",
+2
+]
+],
+"clash": []
+},
+"taxpayer": {
+"also": [
+[
+"government words",
+1
+]
+],
+"clash": []
+},
+"tax collector": {
+"also": [
+[
+"medieval jobs",
+2
+]
+],
+"clash": []
+},
+"tithe": {
+"also": [
+[
+"charity words",
+3
+]
+],
+"clash": [
+"religion words"
+]
+},
+"carbon tax": {
+"also": [],
+"clash": [
+"climate words"
+]
+},
+"assessment": {
+"also": [],
+"clash": [
+"exam words"
+]
+},
+"tribute": {
+"also": [],
+"clash": [
+"award words"
+]
+},
+"scutage": {
+"also": [],
+"clash": [
+"medieval times"
+]
+},
+"Danegeld": {
+"also": [
+[
+"vikings",
+4
+]
+],
+"clash": []
+},
+"customs": {
+"also": [
+[
+"government words",
+2
+],
+[
+"airport words",
+2
+]
+],
+"clash": []
+},
+"duty-free": {
+"also": [
+[
+"airport words",
+1
+]
+],
+"clash": [
+"shops"
+]
+},
+"dependent": {
+"also": [],
+"clash": [
+"family members"
+]
+},
+"tax haven": {
+"also": [],
+"clash": [
+"famous islands"
+]
+},
+"cart": {
+"also": [
+[
+"supermarket",
+1
+],
+[
+"horse-drawn vehicles",
+2
+],
+[
+"street market",
+2
+]
+],
+"clash": []
+},
+"trolley": {
+"also": [
+[
+"supermarket",
+1
+]
+],
+"clash": [
+"public transportation"
+]
+},
+"basket": {
+"also": [
+[
+"supermarket",
+1
+],
+[
+"easter",
+2
+],
+[
+"street market",
+1
+]
+],
+"clash": [
+"basketball terms",
+"picnic basket"
+]
+},
+"checkout": {
+"also": [
+[
+"supermarket",
+1
+]
+],
+"clash": []
+},
+"receipt": {
+"also": [
+[
+"supermarket",
+1
+],
+[
+"in a wallet",
+1
+]
+],
+"clash": []
+},
+"sale": {
+"also": [
+[
+"supermarket",
+1
+]
+],
+"clash": [
+"homophones"
+]
+},
+"discount": {
+"also": [
+[
+"supermarket",
+1
+]
+],
+"clash": []
+},
+"bargain": {
+"also": [
+[
+"street market",
+1
+]
+],
+"clash": []
+},
+"coupon": {
+"also": [
+[
+"supermarket",
+1
+],
+[
+"in a wallet",
+2
+],
+[
+"advertising words",
+2
+]
+],
+"clash": []
+},
+"voucher": {
+"also": [
+[
+"supermarket",
+2
+],
+[
+"in a wallet",
+2
+],
+[
+"advertising words",
+2
+]
+],
+"clash": []
+},
+"price tag": {
+"also": [
+[
+"supermarket",
+1
+]
+],
+"clash": []
+},
+"barcode": {
+"also": [
+[
+"supermarket",
+1
+]
+],
+"clash": []
+},
+"aisle": {
+"also": [
+[
+"supermarket",
+1
+],
+[
+"church parts",
+1
+]
+],
+"clash": [
+"homophones",
+"weddings"
+]
+},
+"shelf": {
+"also": [
+[
+"supermarket",
+1
+],
+[
+"storage furniture",
+2
+]
+],
+"clash": []
+},
+"boutique": {
+"also": [
+[
+"shops",
+1
+]
+],
+"clash": []
+},
+"department store": {
+"also": [
+[
+"shops",
+1
+]
+],
+"clash": []
+},
+"outlet": {
+"also": [
+[
+"electrical fittings",
+2
+]
+],
+"clash": []
+},
+"shopper": {
+"also": [
+[
+"supermarket",
+1
+],
+[
+"street market",
+1
+]
+],
+"clash": []
+},
+"gift card": {
+"also": [
+[
+"in a wallet",
+1
+]
+],
+"clash": []
+},
+"loyalty card": {
+"also": [
+[
+"supermarket",
+2
+],
+[
+"in a wallet",
+1
+]
+],
+"clash": []
+},
+"queue": {
+"also": [
+[
+"manners and etiquette",
+2
+],
+[
+"british english words",
+2
+]
+],
+"clash": []
+},
+"browse": {
+"also": [],
+"clash": [
+"internet words"
+]
+},
+"special offer": {
+"also": [
+[
+"supermarket",
+2
+]
+],
+"clash": []
+},
+"Black Friday": {
+"also": [],
+"clash": [
+"thanksgiving"
+]
+},
+"online shopping": {
+"also": [],
+"clash": [
+"internet words"
+]
+},
+"delivery": {
+"also": [],
+"clash": [
+"childbirth words"
+]
+},
+"shopping list": {
+"also": [
+[
+"supermarket",
+1
+]
+],
+"clash": []
+},
+"till": {
+"also": [
+[
+"supermarket",
+1
+]
+],
+"clash": [
+"gardening verbs"
+]
+},
+"cash register": {
+"also": [
+[
+"supermarket",
+1
+]
+],
+"clash": []
+},
+"self-checkout": {
+"also": [
+[
+"supermarket",
+1
+]
+],
+"clash": []
+},
+"conveyor belt": {
+"also": [
+[
+"supermarket",
+2
+]
+],
+"clash": [
+"factory"
+]
+},
+"arcade": {
+"also": [
+[
+"mosque parts",
+4
+]
+],
+"clash": [
+"arcade words"
+]
+},
+"flea market": {
+"also": [
+[
+"street market",
+1
+]
+],
+"clash": []
+},
+"thrift store": {
+"also": [
+[
+"shops",
+1
+],
+[
+"charity words",
+2
+]
+],
+"clash": []
+},
+"charity shop": {
+"also": [
+[
+"shops",
+1
+],
+[
+"charity words",
+1
+]
+],
+"clash": []
+},
+"secondhand": {
+"also": [
+[
+"street market",
+2
+]
+],
+"clash": []
+},
+"kiosk": {
+"also": [
+[
+"shops",
+2
+]
+],
+"clash": []
+},
+"carrier bag": {
+"also": [
+[
+"supermarket",
+2
+]
+],
+"clash": []
+},
+"tote bag": {
+"also": [
+[
+"bags",
+1
+]
+],
+"clash": []
+},
+"deal": {
+"also": [
+[
+"card game words",
+2
+]
+],
+"clash": [
+"business words"
+]
+},
+"rain check": {
+"also": [],
+"clash": [
+"baseball terms"
+]
+},
+"sold out": {
+"also": [],
+"clash": [
+"concert words"
+]
+},
+"stockroom": {
+"also": [
+[
+"supermarket",
+2
+]
+],
+"clash": []
+},
+"convenience store": {
+"also": [
+[
+"shops",
+1
+]
+],
+"clash": []
+},
+"corner shop": {
+"also": [
+[
+"shops",
+1
+]
+],
+"clash": []
+},
+"dollar store": {
+"also": [
+[
+"shops",
+1
+]
+],
+"clash": []
+},
+"shopping cart": {
+"also": [],
+"clash": [
+"supermarket"
+]
+},
+"gift wrap": {
+"also": [],
+"clash": [
+"birthdays",
+"christmas"
+]
+},
+"display": {
+"also": [],
+"clash": [
+"display tech"
+]
+},
+"escalator": {
+"also": [],
+"clash": [
+"airport"
+]
+},
+"food court": {
+"also": [],
+"clash": [
+"fast food"
+]
+},
+"retail": {
+"also": [],
+"clash": [
+"business words"
+]
+},
+"wholesale": {
+"also": [],
+"clash": [
+"business words"
+]
+},
+"customer": {
+"also": [],
+"clash": [
+"business words"
+]
+},
+"purchase": {
+"also": [],
+"clash": [
+"money words"
+]
+},
+"spend": {
+"also": [],
+"clash": [
+"money words"
+]
+},
+"buy": {
+"also": [],
+"clash": [
+"homophones"
+]
+},
+"dough": {
+"also": [
+[
+"baking words",
+1
+]
+],
+"clash": [
+"baking ingredients"
+]
+},
+"bread": {
+"also": [
+[
+"supermarket",
+1
+],
+[
+"street market",
+1
+]
+],
+"clash": [
+"breads"
+]
+},
+"bucks": {
+"also": [
+[
+"male animals",
+2
+],
+[
+"nba teams",
+3
+]
+],
+"clash": [
+"deer"
+]
+},
+"buck": {
+"also": [
+[
+"male animals",
+1
+],
+[
+"deer",
+2
+]
+],
+"clash": []
+},
+"clams": {
+"also": [
+[
+"shellfish",
+1
+],
+[
+"mollusks",
+2
+]
+],
+"clash": []
+},
+"loot": {
+"also": [
+[
+"pirate words",
+2
+]
+],
+"clash": [
+"treasure"
+]
+},
+"grand": {
+"also": [],
+"clash": [
+"words for big",
+"keyboard instruments"
+]
+},
+"score": {
+"also": [
+[
+"scoring words",
+1
+]
+],
+"clash": [
+"numbers",
+"music words"
+]
+},
+"pony": {
+"also": [
+[
+"horses",
+1
+]
+],
+"clash": [
+"pony breeds"
+]
+},
+"monkey": {
+"also": [
+[
+"monkeys",
+1
+],
+[
+"primates",
+1
+]
+],
+"clash": []
+},
+"ton": {
+"also": [
+[
+"weight units",
+1
+],
+[
+"imperial units",
+2
+]
+],
+"clash": []
+},
+"bob": {
+"also": [
+[
+"short forms of names",
+1
+],
+[
+"hairstyles",
+2
+]
+],
+"clash": []
+},
+"lolly": {
+"also": [
+[
+"candy",
+2
+],
+[
+"australian slang",
+2
+]
+],
+"clash": []
+},
+"wedge": {
+"also": [
+[
+"golf terms",
+2
+],
+[
+"simple machines",
+2
+]
+],
+"clash": [
+"shoes"
+]
+},
+"lettuce": {
+"also": [
+[
+"leafy greens",
+1
+]
+],
+"clash": []
+},
+"cabbage": {
+"also": [
+[
+"cabbage family",
+1
+],
+[
+"leafy greens",
+2
+]
+],
+"clash": []
+},
+"cheddar": {
+"also": [
+[
+"cheeses",
+1
+],
+[
+"hard cheeses",
+1
+]
+],
+"clash": []
+},
+"bands": {
+"also": [],
+"clash": [
+"famous bands"
+]
+},
+"gelt": {
+"also": [
+[
+"hanukkah",
+2
+],
+[
+"words from yiddish",
+3
+]
+],
+"clash": []
+},
+"rhino": {
+"also": [
+[
+"african animals",
+1
+],
+[
+"animals with horns",
+1
+],
+[
+"savanna animals",
+1
+]
+],
+"clash": [
+"endangered animals"
+]
+},
+"nicker": {
+"also": [
+[
+"animal sounds",
+3
+]
+],
+"clash": []
+},
+"cha-ching": {
+"also": [
+[
+"onomatopoeia",
+2
+]
+],
+"clash": []
+},
+"ka-ching": {
+"also": [
+[
+"onomatopoeia",
+2
+]
+],
+"clash": []
+},
+"wampum": {
+"also": [
+[
+"words from native american languages",
+3
+]
+],
+"clash": []
+},
+"bankroll": {
+"also": [
+[
+"casino words",
+2
+],
+[
+"betting words",
+2
+]
+],
+"clash": []
+},
+"dead presidents": {
+"also": [],
+"clash": [
+"us presidents"
+]
+},
+"coppers": {
+"also": [],
+"clash": [
+"police words",
+"coins"
+]
+},
+"shrapnel": {
+"also": [
+[
+"war words",
+2
+]
+],
+"clash": []
+},
+"lucre": {
+"also": [],
+"clash": [
+"money words"
+]
+},
+"greenback": {
+"also": [],
+"clash": [
+"green things"
+]
+},
+"greenbacks": {
+"also": [],
+"clash": [
+"green things"
+]
+},
+"shares": {
+"also": [],
+"clash": [
+"social media words"
+]
+},
+"bull": {
+"also": [
+[
+"male animals",
+1
+],
+[
+"bullfighting words",
+1
+]
+],
+"clash": [
+"farm animals"
+]
+},
+"bear": {
+"also": [
+[
+"bears",
+1
+],
+[
+"woodland animals",
+1
+]
+],
+"clash": [
+"rhymes with bear"
+]
+},
+"dividend": {
+"also": [
+[
+"math terms",
+3
+]
+],
+"clash": []
+},
+"index": {
+"also": [
+[
+"parts of a book",
+1
+]
+],
+"clash": [
+"hands and feet"
+]
+},
+"bond": {
+"also": [],
+"clash": [
+"adhesives",
+"chemistry words",
+"spy words"
+]
+},
+"stock": {
+"also": [],
+"clash": [
+"soups",
+"punishments",
+"farm"
+]
+},
+"equity": {
+"also": [
+[
+"real estate words",
+2
+]
+],
+"clash": []
+},
+"trader": {
+"also": [
+[
+"street market",
+2
+]
+],
+"clash": []
+},
+"Wall Street": {
+"also": [
+[
+"famous streets",
+1
+],
+[
+"new york landmarks",
+2
+]
+],
+"clash": []
+},
+"Nasdaq": {
+"also": [
+[
+"acronyms",
+3
+]
+],
+"clash": []
+},
+"blue chip": {
+"also": [],
+"clash": [
+"casino words"
+]
+},
+"futures": {
+"also": [
+[
+"betting words",
+3
+]
+],
+"clash": []
+},
+"derivative": {
+"also": [
+[
+"math terms",
+3
+]
+],
+"clash": []
+},
+"yield": {
+"also": [
+[
+"road signs",
+2
+]
+],
+"clash": []
+},
+"crash": {
+"also": [
+[
+"impact sounds",
+1
+]
+],
+"clash": []
+},
+"bubble": {
+"also": [
+[
+"things that pop",
+2
+]
+],
+"clash": [
+"round things"
+]
+},
+"rally": {
+"also": [
+[
+"protest words",
+1
+],
+[
+"election words",
+1
+],
+[
+"tennis terms",
+2
+],
+[
+"motor racing",
+2
+]
+],
+"clash": []
+},
+"spread": {
+"also": [
+[
+"betting words",
+2
+]
+],
+"clash": [
+"spreads"
+]
+},
+"capital gains": {
+"also": [],
+"clash": [
+"tax words"
+]
+},
+"arbitrage": {
+"also": [
+[
+"betting words",
+3
+]
+],
+"clash": []
+},
+"hedging": {
+"also": [],
+"clash": [
+"betting words"
+]
+},
+"Footsie": {
+"also": [],
+"clash": [
+"british slang"
+]
+},
+"Wall Street crash": {
+"also": [
+[
+"roaring twenties",
+2
+]
+],
+"clash": []
+},
+"broker": {
+"also": [],
+"clash": [
+"real estate words"
+]
+},
+"profit": {
+"also": [],
+"clash": [
+"money words"
+]
+},
+"revenue": {
+"also": [],
+"clash": [
+"tax words"
+]
+},
+"CEO": {
+"also": [
+[
+"office jobs",
+1
+],
+[
+"words for leader",
+1
+]
+],
+"clash": []
+},
+"shareholder": {
+"also": [
+[
+"stock market words",
+2
+]
+],
+"clash": []
+},
+"budget": {
+"also": [
+[
+"government words",
+1
+]
+],
+"clash": [
+"money words"
+]
+},
+"company": {
+"also": [
+[
+"military units",
+2
+]
+],
+"clash": [
+"groups of people"
+]
+},
+"firm": {
+"also": [],
+"clash": [
+"texture words"
+]
+},
+"enterprise": {
+"also": [],
+"clash": [
+"famous ships"
+]
+},
+"manager": {
+"also": [
+[
+"office jobs",
+1
+],
+[
+"words for leader",
+1
+],
+[
+"supermarket",
+2
+]
+],
+"clash": []
+},
+"boss": {
+"also": [
+[
+"workplace words",
+1
+],
+[
+"words for leader",
+1
+]
+],
+"clash": []
+},
+"employee": {
+"also": [
+[
+"workplace words",
+1
+]
+],
+"clash": []
+},
+"staff": {
+"also": [
+[
+"workplace words",
+1
+],
+[
+"groups of people",
+2
+]
+],
+"clash": [
+"music terms"
+]
+},
+"office": {
+"also": [
+[
+"workplace words",
+1
+]
+],
+"clash": []
+},
+"meeting": {
+"also": [
+[
+"workplace words",
+1
+]
+],
+"clash": []
+},
+"chairman": {
+"also": [
+[
+"words for leader",
+1
+],
+[
+"office jobs",
+1
+]
+],
+"clash": []
+},
+"director": {
+"also": [
+[
+"words for leader",
+1
+],
+[
+"behind the camera",
+1
+]
+],
+"clash": []
+},
+"executive": {
+"also": [
+[
+"office jobs",
+1
+],
+[
+"words for leader",
+2
+]
+],
+"clash": []
+},
+"CFO": {
+"also": [
+[
+"office jobs",
+2
+]
+],
+"clash": []
+},
+"COO": {
+"also": [
+[
+"office jobs",
+2
+]
+],
+"clash": [
+"animal sounds"
+]
+},
+"marketing": {
+"also": [
+[
+"advertising words",
+1
+]
+],
+"clash": []
+},
+"brand": {
+"also": [
+[
+"advertising words",
+1
+]
+],
+"clash": []
+},
+"logo": {
+"also": [
+[
+"advertising words",
+1
+]
+],
+"clash": []
+},
+"franchise": {
+"also": [
+[
+"election words",
+3
+]
+],
+"clash": []
+},
+"turnover": {
+"also": [
+[
+"pastries",
+3
+]
+],
+"clash": [
+"basketball terms"
+]
+},
+"spreadsheet": {
+"also": [
+[
+"workplace words",
+2
+]
+],
+"clash": [
+"software words"
+]
+},
+"forecast": {
+"also": [],
+"clash": [
+"forecast words"
+]
+},
+"monopoly": {
+"also": [
+[
+"board games",
+1
+]
+],
+"clash": []
+},
+"layoff": {
+"also": [
+[
+"workplace words",
+2
+]
+],
+"clash": []
+},
+"redundancy": {
+"also": [
+[
+"workplace words",
+2
+]
+],
+"clash": []
+},
+"recruitment": {
+"also": [
+[
+"workplace words",
+2
+]
+],
+"clash": []
+},
+"HR": {
+"also": [
+[
+"workplace words",
+2
+]
+],
+"clash": []
+},
+"payroll": {
+"also": [
+[
+"workplace words",
+2
+]
+],
+"clash": []
+},
+"bookkeeping": {
+"also": [
+[
+"double letters",
+2
+]
+],
+"clash": []
+},
+"conglomerate": {
+"also": [
+[
+"sedimentary rocks",
+3
+]
+],
+"clash": []
+},
+"memo": {
+"also": [
+[
+"workplace words",
+1
+]
+],
+"clash": []
+},
+"agenda": {
+"also": [
+[
+"workplace words",
+2
+]
+],
+"clash": []
+},
+"conference call": {
+"also": [
+[
+"workplace words",
+2
+]
+],
+"clash": []
+},
+"deadline": {
+"also": [
+[
+"workplace words",
+1
+],
+[
+"journalism words",
+2
+]
+],
+"clash": []
+},
+"networking": {
+"also": [
+[
+"workplace words",
+2
+]
+],
+"clash": [
+"networking"
+]
+},
+"business card": {
+"also": [
+[
+"workplace words",
+2
+],
+[
+"in a wallet",
+2
+]
+],
+"clash": []
+},
+"SWOT analysis": {
+"also": [],
+"clash": [
+"acronyms"
+]
+},
+"brainstorm": {
+"also": [
+[
+"workplace words",
+2
+]
+],
+"clash": [
+"storms"
+]
+},
+"intern": {
+"also": [
+[
+"workplace words",
+2
+]
+],
+"clash": []
+},
+"internship": {
+"also": [
+[
+"workplace words",
+2
+]
+],
+"clash": []
+},
+"unicorn": {
+"also": [],
+"clash": [
+"mythical creatures"
+]
+},
+"pivot": {
+"also": [],
+"clash": [
+"basketball terms"
+]
+},
+"workforce": {
+"also": [
+[
+"workplace words",
+2
+],
+[
+"groups of people",
+3
+]
+],
+"clash": []
+},
+"chief executive": {
+"also": [
+[
+"words for leader",
+2
+]
+],
+"clash": []
+},
+"customer service": {
+"also": [
+[
+"supermarket",
+3
+]
+],
+"clash": []
+},
+"market research": {
+"also": [
+[
+"advertising words",
+2
+]
+],
+"clash": []
+},
+"branding": {
+"also": [
+[
+"advertising words",
+2
+]
+],
+"clash": []
+},
+"launch": {
+"also": [],
+"clash": [
+"launch pad",
+"boat types"
+]
+},
+"product": {
+"also": [],
+"clash": [
+"math terms"
+]
+},
+"inventory": {
+"also": [],
+"clash": [
+"gaming words"
+]
+},
+"founder": {
+"also": [],
+"clash": [
+"words for leader"
+]
+},
+"asset": {
+"also": [],
+"clash": [
+"money words"
+]
+},
+"liability": {
+"also": [],
+"clash": [
+"money words"
+]
+},
+"ledger": {
+"also": [],
+"clash": [
+"money words"
+]
+},
+"accounting": {
+"also": [],
+"clash": [
+"money words"
+]
+},
+"cash flow": {
+"also": [],
+"clash": [
+"money words"
+]
+},
+"angel investor": {
+"also": [],
+"clash": [
+"angels and spirits"
+]
+},
+"carpet": {
+"also": [
+[
+"rugs and carpets",
+1
+]
+],
+"clash": []
+},
+"spice": {
+"also": [],
+"clash": [
+"spices"
+]
+},
+"lantern": {
+"also": [
+[
+"lights and lamps",
+1
+],
+[
+"camping gear",
+2
+]
+],
+"clash": [
+"ramadan and eid"
+]
+},
+"haggling": {
+"also": [
+[
+"street market",
+1
+]
+],
+"clash": []
+},
+"tea": {
+"also": [
+[
+"hot drinks",
+1
+],
+[
+"drinks",
+1
+]
+],
+"clash": []
+},
+"brass": {
+"also": [
+[
+"alloys",
+1
+]
+],
+"clash": [
+"brass instruments",
+"metallic colors"
+]
+},
+"stall": {
+"also": [
+[
+"street market",
+1
+]
+],
+"clash": []
+},
+"rug": {
+"also": [
+[
+"rugs and carpets",
+1
+],
+[
+"street market",
+2
+]
+],
+"clash": []
+},
+"kilim": {
+"also": [
+[
+"rugs and carpets",
+2
+],
+[
+"turkish souvenirs",
+2
+]
+],
+"clash": []
+},
+"saffron": {
+"also": [
+[
+"spices",
+1
+],
+[
+"shades of yellow",
+2
+],
+[
+"words from arabic",
+2
+]
+],
+"clash": []
+},
+"cumin": {
+"also": [
+[
+"spices",
+1
+]
+],
+"clash": []
+},
+"pistachio": {
+"also": [
+[
+"nuts",
+1
+],
+[
+"ice cream flavors",
+2
+],
+[
+"shades of green",
+2
+]
+],
+"clash": []
+},
+"Turkish delight": {
+"also": [
+[
+"candy",
+2
+],
+[
+"sweet treats of turkey",
+1
+],
+[
+"turkish souvenirs",
+1
+]
+],
+"clash": []
+},
+"baklava": {
+"also": [
+[
+"sweet treats of turkey",
+1
+],
+[
+"pastries",
+2
+],
+[
+"ramadan and eid",
+3
+]
+],
+"clash": []
+},
+"hookah": {
+"also": [
+[
+"smoking words",
+2
+]
+],
+"clash": []
+},
+"shisha": {
+"also": [
+[
+"smoking words",
+2
+]
+],
+"clash": []
+},
+"nargile": {
+"also": [
+[
+"smoking words",
+3
+]
+],
+"clash": []
+},
+"teapot": {
+"also": [
+[
+"things with handles",
+2
+],
+[
+"things with lids",
+2
+]
+],
+"clash": []
+},
+"coffee": {
+"also": [
+[
+"hot drinks",
+1
+],
+[
+"words from arabic",
+1
+]
+],
+"clash": []
+},
+"cezve": {
+"also": [
+[
+"coffee words",
+3
+],
+[
+"turkish souvenirs",
+3
+]
+],
+"clash": []
+},
+"pottery": {
+"also": [
+[
+"crafts",
+1
+]
+],
+"clash": [
+"pottery words"
+]
+},
+"ceramics": {
+"also": [],
+"clash": [
+"pottery words"
+]
+},
+"mosaic lamp": {
+"also": [
+[
+"turkish souvenirs",
+2
+]
+],
+"clash": []
+},
+"evil eye": {
+"also": [
+[
+"turkish souvenirs",
+1
+],
+[
+"superstitions",
+2
+]
+],
+"clash": []
+},
+"nazar": {
+"also": [
+[
+"turkish souvenirs",
+2
+],
+[
+"superstitions",
+3
+]
+],
+"clash": []
+},
+"hamsa": {
+"also": [],
+"clash": [
+"superstitions"
+]
+},
+"jewelry": {
+"also": [
+[
+"street market",
+1
+]
+],
+"clash": [
+"jewelry"
+]
+},
+"silk": {
+"also": [
+[
+"fabrics",
+1
+],
+[
+"natural materials",
+1
+]
+],
+"clash": [
+"silk road"
+]
+},
+"scarf": {
+"also": [
+[
+"scarves and gloves",
+1
+]
+],
+"clash": []
+},
+"textile": {
+"also": [],
+"clash": [
+"fabrics"
+]
+},
+"leather": {
+"also": [
+[
+"natural materials",
+1
+]
+],
+"clash": []
+},
+"slipper": {
+"also": [
+[
+"shoes",
+2
+]
+],
+"clash": []
+},
+"babouche": {
+"also": [
+[
+"moroccan souvenirs",
+3
+],
+[
+"shoes",
+4
+]
+],
+"clash": []
+},
+"kaftan": {
+"also": [
+[
+"middle eastern clothing",
+2
+],
+[
+"ottoman clothing",
+2
+]
+],
+"clash": []
+},
+"fez": {
+"also": [
+[
+"hats",
+2
+],
+[
+"ottoman clothing",
+2
+],
+[
+"moroccan souvenirs",
+2
+]
+],
+"clash": []
+},
+"Grand Bazaar": {
+"also": [
+[
+"istanbul landmarks",
+1
+]
+],
+"clash": []
+},
+"Khan el-Khalili": {
+"also": [
+[
+"egyptian landmarks",
+4
+]
+],
+"clash": []
+},
+"merchant": {
+"also": [
+[
+"medieval jobs",
+2
+]
+],
+"clash": []
+},
+"vendor": {
+"also": [
+[
+"street market",
+1
+]
+],
+"clash": []
+},
+"stallholder": {
+"also": [
+[
+"street market",
+2
+]
+],
+"clash": []
+},
+"bargaining": {
+"also": [],
+"clash": [
+"street market"
+]
+},
+"perfume": {
+"also": [
+[
+"things that smell good",
+1
+]
+],
+"clash": []
+},
+"incense": {
+"also": [
+[
+"things that smell good",
+2
+],
+[
+"monastery",
+2
+],
+[
+"middle eastern scents",
+2
+]
+],
+"clash": []
+},
+"frankincense": {
+"also": [
+[
+"christmas",
+1
+],
+[
+"middle eastern scents",
+1
+]
+],
+"clash": []
+},
+"myrrh": {
+"also": [
+[
+"christmas",
+1
+],
+[
+"middle eastern scents",
+2
+]
+],
+"clash": []
+},
+"oud": {
+"also": [
+[
+"middle eastern instruments",
+2
+],
+[
+"perfume notes",
+3
+],
+[
+"middle eastern scents",
+2
+]
+],
+"clash": []
+},
+"attar": {
+"also": [
+[
+"middle eastern scents",
+3
+]
+],
+"clash": []
+},
+"rosewater": {
+"also": [
+[
+"middle eastern scents",
+2
+]
+],
+"clash": []
+},
+"rose oil": {
+"also": [
+[
+"middle eastern scents",
+3
+]
+],
+"clash": []
+},
+"henna": {
+"also": [
+[
+"words from arabic",
+2
+],
+[
+"ramadan and eid",
+3
+]
+],
+"clash": []
+},
+"kohl": {
+"also": [
+[
+"makeup",
+2
+],
+[
+"words from arabic",
+3
+]
+],
+"clash": []
+},
+"sumac": {
+"also": [
+[
+"spices",
+2
+],
+[
+"words from arabic",
+3
+]
+],
+"clash": []
+},
+"za'atar": {
+"also": [
+[
+"spice blends",
+2
+]
+],
+"clash": []
+},
+"turmeric": {
+"also": [
+[
+"spices",
+1
+]
+],
+"clash": []
+},
+"cardamom": {
+"also": [
+[
+"spices",
+1
+]
+],
+"clash": []
+},
+"cinnamon": {
+"also": [
+[
+"spices",
+1
+],
+[
+"shades of brown",
+2
+]
+],
+"clash": []
+},
+"dried fruit": {
+"also": [],
+"clash": [
+"dried fruits"
+]
+},
+"fig": {
+"also": [
+[
+"fruits",
+1
+],
+[
+"dried fruits",
+2
+]
+],
+"clash": []
+},
+"olive": {
+"also": [
+[
+"shades of green",
+1
+],
+[
+"street market",
+2
+]
+],
+"clash": [
+"fruits"
+]
+},
+"halva": {
+"also": [
+[
+"sweet treats of turkey",
+2
+]
+],
+"clash": []
+},
+"nougat": {
+"also": [
+[
+"candy",
+2
+]
+],
+"clash": []
+},
+"mint tea": {
+"also": [
+[
+"teas",
+2
+]
+],
+"clash": [
+"moroccan souvenirs"
+]
+},
+"backgammon": {
+"also": [
+[
+"board games",
+1
+]
+],
+"clash": []
+},
+"tavla": {
+"also": [
+[
+"board games",
+4
+]
+],
+"clash": []
+},
+"caravanserai": {
+"also": [
+[
+"silk road",
+3
+]
+],
+"clash": []
+},
+"awning": {
+"also": [
+[
+"street market",
+2
+]
+],
+"clash": []
+},
+"tagine": {
+"also": [
+[
+"north african food",
+2
+],
+[
+"cookware",
+3
+]
+],
+"clash": []
+},
+"hammam": {
+"also": [
+[
+"turkish bath",
+1
+]
+],
+"clash": [
+"spa"
+]
+},
+"Spice Bazaar": {
+"also": [
+[
+"istanbul landmarks",
+3
+]
+],
+"clash": []
+},
+"pomegranate": {
+"also": [
+[
+"fruits",
+1
+]
+],
+"clash": []
+},
+"lamp": {
+"also": [
+[
+"lights and lamps",
+1
+]
+],
+"clash": []
+},
+"sandalwood": {
+"also": [
+[
+"things that smell good",
+2
+],
+[
+"middle eastern scents",
+3
+]
+],
+"clash": []
+},
+"souvenir": {
+"also": [
+[
+"street market",
+1
+]
+],
+"clash": []
+},
+"trinket": {
+"also": [
+[
+"street market",
+2
+]
+],
+"clash": []
+},
+"hawker": {
+"also": [
+[
+"street market",
+2
+]
+],
+"clash": []
+},
+"peddler": {
+"also": [
+[
+"street market",
+2
+],
+[
+"old-time jobs",
+2
+],
+[
+"medieval jobs",
+2
+]
+],
+"clash": []
+},
+"copper pot": {
+"also": [],
+"clash": [
+"cookware"
+]
+},
+"coffee pot": {
+"also": [],
+"clash": [
+"cookware"
+]
+},
+"mosaic": {
+"also": [],
+"clash": [
+"patterns"
+]
+},
+"embroidery": {
+"also": [],
+"clash": [
+"sewing words"
+]
+},
+"prayer beads": {
+"also": [],
+"clash": [
+"religion words"
+]
+},
+"worry beads": {
+"also": [],
+"clash": [
+"religion words"
+]
+},
+"tile": {
+"also": [],
+"clash": [
+"building materials"
+]
+},
+"souk": {
+"also": [],
+"clash": [
+"street market"
+]
+},
+"spice market": {
+"also": [],
+"clash": [
+"street market"
+]
+},
+"covered market": {
+"also": [],
+"clash": [
+"street market"
+]
+},
+"Shinto": {
+"also": [],
+"clash": [
+"shinto kami",
+"words from japanese"
+]
+},
+"Taoism": {
+"also": [],
+"clash": [
+"ancient china"
+]
+},
+"Confucianism": {
+"also": [
+[
+"ancient china",
+3
+]
+],
+"clash": []
+},
+"Zoroastrianism": {
+"also": [
+[
+"ancient persia",
+2
+]
+],
+"clash": []
+},
+"Wicca": {
+"also": [
+[
+"witchcraft",
+2
+]
+],
+"clash": []
+},
+"druidism": {
+"also": [
+[
+"celts",
+2
+]
+],
+"clash": []
+},
+"Druidry": {
+"also": [
+[
+"celts",
+2
+]
+],
+"clash": []
+},
+"voodoo": {
+"also": [],
+"clash": [
+"witchcraft",
+"latin american folklore"
+]
+},
+"Vodou": {
+"also": [],
+"clash": [
+"witchcraft"
+]
+},
+"Norse paganism": {
+"also": [],
+"clash": [
+"norse mythology",
+"vikings"
+]
+},
+"Ásatrú": {
+"also": [],
+"clash": [
+"norse mythology"
+]
+},
+"Manichaeism": {
+"also": [
+[
+"ancient persia",
+4
+]
+],
+"clash": []
+},
+"Mithraism": {
+"also": [
+[
+"ancient rome",
+4
+]
+],
+"clash": []
+},
+"Hasidism": {
+"also": [],
+"clash": [
+"judaism words"
+]
+},
+"Vaishnavism": {
+"also": [
+[
+"hinduism words",
+4
+]
+],
+"clash": []
+},
+"Shaivism": {
+"also": [
+[
+"hinduism words",
+4
+]
+],
+"clash": []
+},
+"Shia Islam": {
+"also": [],
+"clash": [
+"islam words"
+]
+},
+"Sunni Islam": {
+"also": [],
+"clash": [
+"islam words"
+]
+},
+"shamanism": {
+"also": [],
+"clash": [
+"witchcraft"
+]
+},
+"paganism": {
+"also": [],
+"clash": [
+"witchcraft"
+]
+},
+"Baptist": {
+"also": [],
+"clash": [
+"religious leaders"
+]
+},
+"faith": {
+"also": [
+[
+"girls' names",
+2
+],
+[
+"names that are virtues",
+1
+]
+],
+"clash": []
+},
+"prayer": {
+"also": [
+[
+"ramadan and eid",
+2
+],
+[
+"monastery",
+2
+]
+],
+"clash": []
+},
+"soul": {
+"also": [
+[
+"words for a person",
+2
+],
+[
+"music genres",
+1
+]
+],
+"clash": []
+},
+"blessing": {
+"also": [
+[
+"hanukkah",
+3
+]
+],
+"clash": []
+},
+"congregation": {
+"also": [
+[
+"groups of people",
+2
+]
+],
+"clash": []
+},
+"clergy": {
+"also": [
+[
+"social classes",
+2
+],
+[
+"feudal ranks",
+2
+]
+],
+"clash": []
+},
+"devotion": {
+"also": [
+[
+"love words",
+2
+]
+],
+"clash": []
+},
+"baptism": {
+"also": [
+[
+"life events",
+1
+]
+],
+"clash": []
+},
+"miracle": {
+"also": [
+[
+"hanukkah",
+2
+]
+],
+"clash": []
+},
+"hymn": {
+"also": [
+[
+"song types",
+2
+]
+],
+"clash": []
+},
+"psalm": {
+"also": [],
+"clash": [
+"song types",
+"holy books"
+]
+},
+"altar": {
+"also": [
+[
+"church parts",
+1
+]
+],
+"clash": []
+},
+"sacrifice": {
+"also": [
+[
+"ramadan and eid",
+3
+]
+],
+"clash": [
+"chess terms"
+]
+},
+"fasting": {
+"also": [
+[
+"ramadan and eid",
+1
+]
+],
+"clash": []
+},
+"pilgrimage": {
+"also": [],
+"clash": [
+"journeys"
+]
+},
+"grace": {
+"also": [
+[
+"girls' names",
+1
+],
+[
+"names that are virtues",
+1
+]
+],
+"clash": []
+},
+"gospel": {
+"also": [
+[
+"music genres",
+2
+],
+[
+"american roots music",
+2
+]
+],
+"clash": []
+},
+"disciple": {
+"also": [
+[
+"fans and followers",
+2
+]
+],
+"clash": []
+},
+"conversion": {
+"also": [
+[
+"rugby terms",
+2
+]
+],
+"clash": []
+},
+"idol": {
+"also": [],
+"clash": [
+"pop stars",
+"fans and followers"
+]
+},
+"cult": {
+"also": [],
+"clash": [
+"movie genres"
+]
+},
+"denomination": {
+"also": [],
+"clash": [
+"money words"
+]
+},
+"vow": {
+"also": [
+[
+"weddings",
+2
+],
+[
+"monastery",
+2
+]
+],
+"clash": []
+},
+"chant": {
+"also": [
+[
+"protest words",
+1
+],
+[
+"song types",
+2
+]
+],
+"clash": [
+"monastery"
+]
+},
+"relic": {
+"also": [],
+"clash": [
+"artifacts"
+]
+},
+"rosary": {
+"also": [
+[
+"monastery",
+2
+]
+],
+"clash": []
+},
+"crucifix": {
+"also": [
+[
+"church parts",
+2
+],
+[
+"treasure",
+3
+]
+],
+"clash": []
+},
+"cross": {
+"also": [
+[
+"easter",
+1
+],
+[
+"angry words",
+2
+]
+],
+"clash": [
+"flags with crosses",
+"2d shapes",
+"symbols"
+]
+},
+"icon": {
+"also": [
+[
+"software words",
+2
+]
+],
+"clash": []
+},
+"Mass": {
+"also": [
+[
+"physics words",
+1
+]
+],
+"clash": [
+"weight units"
+]
+},
+"vespers": {
+"also": [
+[
+"monastery",
+3
+]
+],
+"clash": []
+},
+"anointing": {
+"also": [
+[
+"royal things",
+3
+]
+],
+"clash": []
+},
+"ordination": {
+"also": [
+[
+"life events",
+3
+]
+],
+"clash": []
+},
+"faithful": {
+"also": [
+[
+"positive traits",
+2
+]
+],
+"clash": []
+},
+"forgiveness": {
+"also": [
+[
+"peace words",
+2
+]
+],
+"clash": []
+},
+"penance": {
+"also": [
+[
+"monastery",
+2
+]
+],
+"clash": []
+},
+"holy water": {
+"also": [],
+"clash": [
+"church parts"
+]
+},
+"devout": {
+"also": [],
+"clash": [
+"positive traits"
+]
+},
+"pious": {
+"also": [],
+"clash": [
+"positive traits"
+]
+},
+"amen": {
+"also": [],
+"clash": [
+"interjections"
+]
+},
+"hallelujah": {
+"also": [],
+"clash": [
+"interjections"
+]
+},
+"hosanna": {
+"also": [],
+"clash": [
+"interjections"
+]
+},
+"martyr": {
+"also": [],
+"clash": [
+"famous saints"
+]
+},
+"apostle": {
+"also": [],
+"clash": [
+"biblical names"
+]
+},
+"prophet": {
+"also": [],
+"clash": [
+"biblical names"
+]
+},
+"sect": {
+"also": [],
+"clash": [
+"groups of people"
+]
+},
+"heathen": {
+"also": [],
+"clash": [
+"troublemakers"
+]
+},
+"heretic": {
+"also": [],
+"clash": [
+"troublemakers"
+]
+},
+"zealot": {
+"also": [],
+"clash": [
+"fans and followers"
+]
+},
+"believer": {
+"also": [],
+"clash": [
+"fans and followers"
+]
+},
+"worshiper": {
+"also": [],
+"clash": [
+"fans and followers"
+]
+},
+"sermon": {
+"also": [],
+"clash": [
+"ways of speaking"
+]
+},
+"preach": {
+"also": [],
+"clash": [
+"ways of speaking"
+]
+},
+"deity": {
+"also": [],
+"clash": [
+"greek gods"
+]
+},
+"divinity": {
+"also": [],
+"clash": [
+"university degrees"
+]
+},
+"theology": {
+"also": [],
+"clash": [
+"school subjects"
+]
+},
+"apocalypse": {
+"also": [],
+"clash": [
+"natural disasters"
+]
+},
+"liturgy": {
+"also": [],
+"clash": [
+"church parts"
+]
+},
+"Christmas": {
+"also": [],
+"clash": [
+"christmas"
+]
+},
+"Easter": {
+"also": [],
+"clash": [
+"easter"
+]
+},
+"Diwali": {
+"also": [
+[
+"hinduism words",
+1
+],
+[
+"festivals of the world",
+1
+]
+],
+"clash": [
+"diwali"
+]
+},
+"Hanukkah": {
+"also": [
+[
+"festivals of the world",
+1
+]
+],
+"clash": [
+"hanukkah"
+]
+},
+"Chanukah": {
+"also": [
+[
+"hanukkah",
+1
+],
+[
+"festivals of the world",
+2
+]
+],
+"clash": []
+},
+"Eid al-Fitr": {
+"also": [
+[
+"ramadan and eid",
+1
+],
+[
+"festivals of the world",
+2
+]
+],
+"clash": []
+},
+"Eid al-Adha": {
+"also": [
+[
+"ramadan and eid",
+1
+],
+[
+"festivals of the world",
+2
+]
+],
+"clash": []
+},
+"Yom Kippur": {
+"also": [],
+"clash": [
+"judaism words"
+]
+},
+"Rosh Hashanah": {
+"also": [
+[
+"new year",
+3
+]
+],
+"clash": [
+"judaism words"
+]
+},
+"Purim": {
+"also": [],
+"clash": [
+"judaism words"
+]
+},
+"Sukkot": {
+"also": [],
+"clash": [
+"judaism words"
+]
+},
+"Shavuot": {
+"also": [],
+"clash": [
+"judaism words"
+]
+},
+"Holi": {
+"also": [
+[
+"hinduism words",
+1
+],
+[
+"festivals of the world",
+1
+]
+],
+"clash": [
+"holi"
+]
+},
+"Navratri": {
+"also": [
+[
+"hinduism words",
+2
+],
+[
+"festivals of the world",
+3
+]
+],
+"clash": []
+},
+"Durga Puja": {
+"also": [
+[
+"festivals of the world",
+3
+]
+],
+"clash": [
+"hinduism words"
+]
+},
+"Ganesh Chaturthi": {
+"also": [
+[
+"festivals of the world",
+3
+]
+],
+"clash": [
+"hinduism words"
+]
+},
+"Janmashtami": {
+"also": [
+[
+"hinduism words",
+3
+]
+],
+"clash": []
+},
+"Raksha Bandhan": {
+"also": [
+[
+"hinduism words",
+3
+]
+],
+"clash": []
+},
+"Pongal": {
+"also": [
+[
+"hinduism words",
+3
+]
+],
+"clash": []
+},
+"Onam": {
+"also": [
+[
+"hinduism words",
+3
+]
+],
+"clash": []
+},
+"Dussehra": {
+"also": [
+[
+"hinduism words",
+3
+]
+],
+"clash": []
+},
+"Maha Shivaratri": {
+"also": [],
+"clash": [
+"hinduism words"
+]
+},
+"Kumbh Mela": {
+"also": [
+[
+"hinduism words",
+3
+],
+[
+"festivals of the world",
+3
+]
+],
+"clash": []
+},
+"Vesak": {
+"also": [
+[
+"festivals of the world",
+3
+]
+],
+"clash": [
+"buddhism words"
+]
+},
+"Losar": {
+"also": [],
+"clash": [
+"new year",
+"buddhism words"
+]
+},
+"Obon": {
+"also": [
+[
+"festivals of the world",
+3
+]
+],
+"clash": []
+},
+"Vaisakhi": {
+"also": [
+[
+"festivals of the world",
+3
+]
+],
+"clash": []
+},
+"Baisakhi": {
+"also": [
+[
+"festivals of the world",
+3
+]
+],
+"clash": []
+},
+"Lent": {
+"also": [
+[
+"easter",
+1
+]
+],
+"clash": []
+},
+"Advent": {
+"also": [
+[
+"christmas",
+1
+]
+],
+"clash": []
+},
+"Epiphany": {
+"also": [
+[
+"christmas",
+2
+]
+],
+"clash": []
+},
+"Good Friday": {
+"also": [
+[
+"easter",
+1
+]
+],
+"clash": []
+},
+"Palm Sunday": {
+"also": [
+[
+"easter",
+1
+]
+],
+"clash": []
+},
+"Ash Wednesday": {
+"also": [
+[
+"easter",
+2
+]
+],
+"clash": []
+},
+"Shrove Tuesday": {
+"also": [
+[
+"easter",
+2
+]
+],
+"clash": []
+},
+"Maundy Thursday": {
+"also": [
+[
+"easter",
+2
+]
+],
+"clash": []
+},
+"Holy Week": {
+"also": [
+[
+"easter",
+1
+]
+],
+"clash": []
+},
+"Easter Sunday": {
+"also": [
+[
+"easter",
+1
+]
+],
+"clash": []
+},
+"Easter Monday": {
+"also": [
+[
+"easter",
+1
+]
+],
+"clash": []
+},
+"Holy Saturday": {
+"also": [
+[
+"easter",
+2
+]
+],
+"clash": []
+},
+"Christmas Eve": {
+"also": [
+[
+"christmas",
+1
+]
+],
+"clash": []
+},
+"Christmastide": {
+"also": [
+[
+"christmas",
+3
+]
+],
+"clash": []
+},
+"Twelfth Night": {
+"also": [
+[
+"christmas",
+2
+],
+[
+"shakespeare plays",
+1
+]
+],
+"clash": []
+},
+"Yule": {
+"also": [
+[
+"christmas",
+2
+]
+],
+"clash": []
+},
+"All Saints' Day": {
+"also": [],
+"clash": [
+"halloween"
+]
+},
+"All Souls' Day": {
+"also": [],
+"clash": [
+"day of the dead",
+"halloween"
+]
+},
+"Mardi Gras": {
+"also": [
+[
+"festivals of the world",
+1
+]
+],
+"clash": [
+"brazilian carnival words",
+"easter"
+]
+},
+"Day of the Dead": {
+"also": [
+[
+"festivals of the world",
+1
+]
+],
+"clash": [
+"day of the dead",
+"halloween"
+]
+},
+"Día de los Muertos": {
+"also": [
+[
+"festivals of the world",
+2
+]
+],
+"clash": [
+"day of the dead"
+]
+},
+"Laylat al-Qadr": {
+"also": [
+[
+"ramadan and eid",
+3
+]
+],
+"clash": []
+},
+"Nowruz": {
+"also": [
+[
+"new year",
+3
+],
+[
+"festivals of the world",
+2
+]
+],
+"clash": []
+},
+"Samhain": {
+"also": [
+[
+"halloween",
+3
+]
+],
+"clash": []
+},
+"Beltane": {
+"also": [
+[
+"celts",
+3
+]
+],
+"clash": []
+},
+"Litha": {
+"also": [
+[
+"midsummer",
+4
+]
+],
+"clash": []
+},
+"Imbolc": {
+"also": [],
+"clash": [
+"celts"
+]
+},
+"Mabon": {
+"also": [],
+"clash": [
+"witchcraft"
+]
+},
+"Ostara": {
+"also": [],
+"clash": [
+"easter"
+]
+},
+"Simchat Torah": {
+"also": [],
+"clash": [
+"judaism words"
+]
+},
+"Tu BiShvat": {
+"also": [],
+"clash": [
+"judaism words"
+]
+},
+"Lag BaOmer": {
+"also": [],
+"clash": [
+"judaism words"
+]
+},
+"Feast of Tabernacles": {
+"also": [],
+"clash": [
+"judaism words"
+]
+},
+"Ugadi": {
+"also": [],
+"clash": [
+"new year"
+]
+},
+"Gudi Padwa": {
+"also": [],
+"clash": [
+"new year"
+]
+},
+"Thaipusam": {
+"also": [
+[
+"festivals of the world",
+4
+]
+],
+"clash": []
+},
+"St. Patrick's Day": {
+"also": [
+[
+"festivals of the world",
+1
+]
+],
+"clash": [
+"st. patrick's day"
+]
+},
+"St. Lucy's Day": {
+"also": [],
+"clash": [
+"christmas"
+]
+},
+"Candlemas": {
+"also": [],
+"clash": [
+"christmas"
+]
+},
+"Ashura": {
+"also": [],
+"clash": [
+"islam words"
+]
+},
+"Mawlid": {
+"also": [],
+"clash": [
+"islam words"
+]
+},
+"Shab-e-Barat": {
+"also": [],
+"clash": [
+"islam words"
+]
+},
+"Pentecost": {
+"also": [],
+"clash": [
+"easter"
+]
+},
+"Whitsun": {
+"also": [],
+"clash": [
+"easter"
+]
+},
+"Ascension Day": {
+"also": [],
+"clash": [
+"easter"
+]
+},
+"Bodhi Day": {
+"also": [],
+"clash": [
+"buddhism words"
+]
+},
+"Magha Puja": {
+"also": [],
+"clash": [
+"buddhism words"
+]
+},
+"Asalha Puja": {
+"also": [],
+"clash": [
+"buddhism words"
+]
+},
+"Kathina": {
+"also": [],
+"clash": [
+"buddhism words"
+]
+},
+"pope": {
+"also": [
+[
+"honorifics",
+2
+]
+],
+"clash": [
+"words for leader"
+]
+},
+"bishop": {
+"also": [
+[
+"game pieces",
+1
+],
+[
+"honorifics",
+3
+],
+[
+"feudal ranks",
+3
+]
+],
+"clash": [
+"chess terms"
+]
+},
+"archbishop": {
+"also": [
+[
+"honorifics",
+3
+],
+[
+"feudal ranks",
+3
+]
+],
+"clash": []
+},
+"cardinal": {
+"also": [
+[
+"north american birds",
+1
+],
+[
+"colorful birds",
+2
+],
+[
+"shades of red",
+2
+],
+[
+"honorifics",
+3
+],
+[
+"number types",
+3
+]
+],
+"clash": []
+},
+"pastor": {
+"also": [
+[
+"honorifics",
+2
+]
+],
+"clash": []
+},
+"reverend": {
+"also": [
+[
+"honorifics",
+1
+]
+],
+"clash": []
+},
+"deacon": {
+"also": [
+[
+"honorifics",
+3
+]
+],
+"clash": []
+},
+"nun": {
+"also": [
+[
+"monastery",
+1
+]
+],
+"clash": [
+"hanukkah"
+]
+},
+"abbot": {
+"also": [
+[
+"monastery",
+1
+]
+],
+"clash": []
+},
+"abbess": {
+"also": [
+[
+"monastery",
+2
+]
+],
+"clash": []
+},
+"friar": {
+"also": [
+[
+"monastery",
+1
+]
+],
+"clash": [
+"robin hood legend"
+]
+},
+"guru": {
+"also": [
+[
+"hinduism words",
+1
+],
+[
+"words for expert",
+1
+]
+],
+"clash": []
+},
+"swami": {
+"also": [
+[
+"hinduism words",
+2
+],
+[
+"honorifics",
+3
+]
+],
+"clash": []
+},
+"brahmin": {
+"also": [
+[
+"hinduism words",
+2
+]
+],
+"clash": [
+"social classes"
+]
+},
+"pandit": {
+"also": [
+[
+"hinduism words",
+3
+],
+[
+"honorifics",
+3
+]
+],
+"clash": []
+},
+"mullah": {
+"also": [
+[
+"honorifics",
+3
+]
+],
+"clash": [
+"islam words"
+]
+},
+"ayatollah": {
+"also": [
+[
+"honorifics",
+3
+]
+],
+"clash": [
+"islam words"
+]
+},
+"mufti": {
+"also": [
+[
+"ottoman titles",
+3
+]
+],
+"clash": [
+"islam words"
+]
+},
+"sheikh": {
+"also": [
+[
+"honorifics",
+2
+],
+[
+"words from arabic",
+2
+]
+],
+"clash": [
+"royal titles"
+]
+},
+"caliph": {
+"also": [
+[
+"royal titles",
+2
+],
+[
+"words from arabic",
+3
+]
+],
+"clash": [
+"islam words"
+]
+},
+"patriarch": {
+"also": [],
+"clash": [
+"family members"
+]
+},
+"canon": {
+"also": [],
+"clash": [
+"homophones"
+]
+},
+"dean": {
+"also": [
+[
+"university words",
+2
+],
+[
+"boys' names",
+2
+]
+],
+"clash": []
+},
+"rector": {
+"also": [],
+"clash": [
+"university words"
+]
+},
+"druid": {
+"also": [
+[
+"celts",
+2
+]
+],
+"clash": [
+"wizard words"
+]
+},
+"Dalai Lama": {
+"also": [
+[
+"buddhism words",
+1
+]
+],
+"clash": []
+},
+"monsignor": {
+"also": [
+[
+"honorifics",
+3
+]
+],
+"clash": []
+},
+"primate": {
+"also": [
+[
+"homographs",
+3
+]
+],
+"clash": [
+"primates"
+]
+},
+"cleric": {
+"also": [],
+"clash": [
+"video game genres"
+]
+},
+"rinpoche": {
+"also": [
+[
+"buddhism words",
+4
+]
+],
+"clash": []
+},
+"roshi": {
+"also": [
+[
+"buddhism words",
+4
+]
+],
+"clash": []
+},
+"sadhu": {
+"also": [
+[
+"hinduism words",
+3
+]
+],
+"clash": []
+},
+"yogi": {
+"also": [
+[
+"hinduism words",
+2
+],
+[
+"yoga words",
+2
+]
+],
+"clash": []
+},
+"rishi": {
+"also": [
+[
+"hinduism words",
+3
+]
+],
+"clash": []
+},
+"sannyasi": {
+"also": [
+[
+"hinduism words",
+4
+]
+],
+"clash": []
+},
+"acharya": {
+"also": [
+[
+"hinduism words",
+4
+]
+],
+"clash": []
+},
+"cantor": {
+"also": [],
+"clash": [
+"judaism words"
+]
+},
+"Supreme Leader": {
+"also": [
+[
+"political titles",
+2
+]
+],
+"clash": []
+},
+"chief rabbi": {
+"also": [],
+"clash": [
+"judaism words"
+]
+},
+"shaman": {
+"also": [],
+"clash": [
+"witchcraft"
+]
+},
+"high priest": {
+"also": [],
+"clash": [
+"ancient egypt"
+]
+},
+"priestess": {
+"also": [],
+"clash": [
+"ancient greece"
+]
+},
+"Grand Ayatollah": {
+"also": [],
+"clash": [
+"islam words"
+]
+},
+"grand mufti": {
+"also": [],
+"clash": [
+"islam words"
+]
+},
+"padre": {
+"also": [],
+"clash": [
+"military ranks"
+]
+},
+"chaplain": {
+"also": [],
+"clash": [
+"army words"
+]
+},
+"mother superior": {
+"also": [],
+"clash": [
+"monastery"
+]
+},
+"Bhagavad Gita": {
+"also": [
+[
+"hinduism words",
+2
+]
+],
+"clash": []
+},
+"Upanishads": {
+"also": [
+[
+"hinduism words",
+2
+]
+],
+"clash": []
+},
+"Ramayana": {
+"also": [
+[
+"hinduism words",
+2
+]
+],
+"clash": []
+},
+"Mahabharata": {
+"also": [
+[
+"hinduism words",
+2
+]
+],
+"clash": []
+},
+"Puranas": {
+"also": [
+[
+"hinduism words",
+3
+]
+],
+"clash": []
+},
+"Vedas": {
+"also": [
+[
+"hinduism words",
+2
+]
+],
+"clash": []
+},
+"Rigveda": {
+"also": [],
+"clash": [
+"hinduism words"
+]
+},
+"Samaveda": {
+"also": [],
+"clash": [
+"hinduism words"
+]
+},
+"Yajurveda": {
+"also": [],
+"clash": [
+"hinduism words"
+]
+},
+"Atharvaveda": {
+"also": [],
+"clash": [
+"hinduism words"
+]
+},
+"Bhagavata Purana": {
+"also": [],
+"clash": [
+"hinduism words"
+]
+},
+"Gita": {
+"also": [],
+"clash": [
+"hinduism words"
+]
+},
+"Tripitaka": {
+"also": [],
+"clash": [
+"buddhism words"
+]
+},
+"Pali Canon": {
+"also": [],
+"clash": [
+"buddhism words"
+]
+},
+"Lotus Sutra": {
+"also": [],
+"clash": [
+"buddhism words"
+]
+},
+"Heart Sutra": {
+"also": [],
+"clash": [
+"buddhism words"
+]
+},
+"Diamond Sutra": {
+"also": [],
+"clash": [
+"buddhism words"
+]
+},
+"Dhammapada": {
+"also": [],
+"clash": [
+"buddhism words"
+]
+},
+"Sutta Pitaka": {
+"also": [],
+"clash": [
+"buddhism words"
+]
+},
+"Vinaya": {
+"also": [],
+"clash": [
+"buddhism words"
+]
+},
+"Tao Te Ching": {
+"also": [
+[
+"ancient china",
+3
+]
+],
+"clash": []
+},
+"Analects": {
+"also": [
+[
+"ancient china",
+3
+]
+],
+"clash": []
+},
+"I Ching": {
+"also": [
+[
+"ancient china",
+3
+]
+],
+"clash": []
+},
+"Kojiki": {
+"also": [],
+"clash": [
+"shinto kami"
+]
+},
+"Nihon Shoki": {
+"also": [],
+"clash": [
+"shinto kami"
+]
+},
+"Book of Mormon": {
+"also": [],
+"clash": [
+"musicals words"
+]
+},
+"Talmud": {
+"also": [],
+"clash": [
+"judaism words"
+]
+},
+"Tanakh": {
+"also": [],
+"clash": [
+"judaism words"
+]
+},
+"Mishnah": {
+"also": [],
+"clash": [
+"judaism words"
+]
+},
+"Zohar": {
+"also": [],
+"clash": [
+"judaism words"
+]
+},
+"Gemara": {
+"also": [],
+"clash": [
+"judaism words"
+]
+},
+"Midrash": {
+"also": [],
+"clash": [
+"judaism words"
+]
+},
+"Hebrew Bible": {
+"also": [],
+"clash": [
+"judaism words"
+]
+},
+"Hadith": {
+"also": [],
+"clash": [
+"islam words"
+]
+},
+"Popol Vuh": {
+"also": [
+[
+"aztecs and maya",
+4
+]
+],
+"clash": []
+},
+"Book of Shadows": {
+"also": [
+[
+"witchcraft",
+3
+]
+],
+"clash": []
+},
+"Book of the Dead": {
+"also": [
+[
+"egyptian afterlife",
+2
+]
+],
+"clash": []
+},
+"Yoga Sutras": {
+"also": [
+[
+"yoga words",
+3
+]
+],
+"clash": []
+},
+"Psalms": {
+"also": [],
+"clash": [
+"song types"
+]
+},
+"Gospels": {
+"also": [],
+"clash": [
+"music genres"
+]
+},
+"Avesta": {
+"also": [],
+"clash": [
+"ancient persia"
+]
+},
+"Zend-Avesta": {
+"also": [],
+"clash": [
+"ancient persia"
+]
+},
+"angel": {
+"also": [
+[
+"christmas",
+1
+]
+],
+"clash": []
+},
+"Gabriel": {
+"also": [
+[
+"biblical names",
+2
+],
+[
+"boys' names",
+2
+]
+],
+"clash": []
+},
+"Michael": {
+"also": [
+[
+"boys' names",
+1
+]
+],
+"clash": [
+"biblical names"
+]
+},
+"Raphael": {
+"also": [
+[
+"renaissance painters",
+1
+],
+[
+"boys' names",
+2
+]
+],
+"clash": []
+},
+"Uriel": {
+"also": [],
+"clash": [
+"biblical names"
+]
+},
+"Lucifer": {
+"also": [],
+"clash": [
+"halloween"
+]
+},
+"devil": {
+"also": [],
+"clash": [
+"halloween"
+]
+},
+"demon": {
+"also": [],
+"clash": [
+"halloween"
+]
+},
+"ghost": {
+"also": [
+[
+"ghosts and spirits",
+1
+],
+[
+"halloween",
+1
+]
+],
+"clash": []
+},
+"spirit": {
+"also": [
+[
+"ghosts and spirits",
+1
+]
+],
+"clash": [
+"spirits"
+]
+},
+"poltergeist": {
+"also": [
+[
+"ghosts and spirits",
+1
+]
+],
+"clash": []
+},
+"genie": {
+"also": [
+[
+"words from arabic",
+2
+],
+[
+"arabian nights",
+1
+]
+],
+"clash": [
+"magic items"
+]
+},
+"jinn": {
+"also": [
+[
+"words from arabic",
+2
+],
+[
+"islam words",
+3
+],
+[
+"arabian nights",
+2
+]
+],
+"clash": []
+},
+"ifrit": {
+"also": [
+[
+"arabian nights",
+3
+]
+],
+"clash": []
+},
+"apparition": {
+"also": [
+[
+"ghosts and spirits",
+2
+]
+],
+"clash": []
+},
+"phantom": {
+"also": [
+[
+"ghosts and spirits",
+1
+]
+],
+"clash": []
+},
+"specter": {
+"also": [
+[
+"ghosts and spirits",
+2
+]
+],
+"clash": []
+},
+"wraith": {
+"also": [
+[
+"ghosts and spirits",
+2
+],
+[
+"undead",
+2
+]
+],
+"clash": []
+},
+"banshee": {
+"also": [
+[
+"ghosts and spirits",
+2
+],
+[
+"celtic folklore",
+2
+]
+],
+"clash": []
+},
+"kami": {
+"also": [
+[
+"shinto kami",
+2
+]
+],
+"clash": []
+},
+"deva": {
+"also": [
+[
+"hinduism words",
+3
+]
+],
+"clash": []
+},
+"asura": {
+"also": [
+[
+"hinduism words",
+3
+]
+],
+"clash": []
+},
+"rakshasa": {
+"also": [
+[
+"hinduism words",
+3
+]
+],
+"clash": []
+},
+"apsara": {
+"also": [],
+"clash": [
+"hinduism words"
+]
+},
+"orisha": {
+"also": [],
+"clash": [
+"yoruba orishas"
+]
+},
+"dybbuk": {
+"also": [],
+"clash": [
+"judaism words",
+"words from yiddish"
+]
+},
+"revenant": {
+"also": [
+[
+"undead",
+2
+]
+],
+"clash": []
+},
+"kachina": {
+"also": [
+[
+"native american folklore",
+3
+]
+],
+"clash": []
+},
+"manitou": {
+"also": [
+[
+"native american folklore",
+3
+]
+],
+"clash": []
+},
+"duppy": {
+"also": [
+[
+"ghosts and spirits",
+3
+]
+],
+"clash": []
+},
+"preta": {
+"also": [
+[
+"ghosts and spirits",
+4
+]
+],
+"clash": []
+},
+"hungry ghost": {
+"also": [],
+"clash": [
+"ghosts and spirits"
+]
+},
+"yurei": {
+"also": [
+[
+"japanese folklore",
+3
+]
+],
+"clash": [
+"ghosts and spirits",
+"yokai"
+]
+},
+"Iblis": {
+"also": [],
+"clash": [
+"islam words"
+]
+},
+"Jibril": {
+"also": [],
+"clash": [
+"islam words"
+]
+},
+"Mikail": {
+"also": [],
+"clash": [
+"islam words"
+]
+},
+"Israfil": {
+"also": [],
+"clash": [
+"islam words"
+]
+},
+"Azrael": {
+"also": [],
+"clash": [
+"islam words"
+]
+},
+"Munkar": {
+"also": [],
+"clash": [
+"islam words"
+]
+},
+"Nakir": {
+"also": [],
+"clash": [
+"islam words"
+]
+},
+"imp": {
+"also": [
+[
+"troublemakers",
+2
+],
+[
+"fairy folk",
+2
+]
+],
+"clash": []
+},
+"ghoul": {
+"also": [
+[
+"undead",
+1
+],
+[
+"words from arabic",
+3
+],
+[
+"halloween",
+2
+]
+],
+"clash": []
+},
+"spook": {
+"also": [
+[
+"ghosts and spirits",
+1
+],
+[
+"halloween",
+2
+]
+],
+"clash": [
+"spy words"
+]
+},
+"phantasm": {
+"also": [
+[
+"ghosts and spirits",
+3
+]
+],
+"clash": []
+},
+"will-o'-the-wisp": {
+"also": [
+[
+"celtic folklore",
+3
+]
+],
+"clash": [
+"ghosts and spirits"
+]
+},
+"wendigo": {
+"also": [
+[
+"native american folklore",
+2
+]
+],
+"clash": [
+"cryptids"
+]
+},
+"daemon": {
+"also": [],
+"clash": [
+"software words"
+]
+},
+"lares": {
+"also": [
+[
+"ancient rome",
+3
+],
+[
+"roman gods",
+3
+]
+],
+"clash": []
+},
+"genius loci": {
+"also": [],
+"clash": [
+"latin phrases",
+"roman gods"
+]
+},
+"evil spirit": {
+"also": [],
+"clash": [
+"ghosts and spirits"
+]
+},
+"spirit guide": {
+"also": [],
+"clash": [
+"ghosts and spirits"
+]
+},
+"ancestor spirit": {
+"also": [],
+"clash": [
+"ghosts and spirits"
+]
+},
+"guardian spirit": {
+"also": [],
+"clash": [
+"ghosts and spirits"
+]
+},
+"fiend": {
+"also": [],
+"clash": [
+"troublemakers"
+]
+},
+"cherub": {
+"also": [],
+"clash": [
+"christmas"
+]
+},
+"Mammon": {
+"also": [],
+"clash": [
+"money words"
+]
+},
+"Satan": {
+"also": [],
+"clash": [
+"halloween"
+]
+},
+"GOP": {
+"also": [],
+"clash": [
+"election words"
+]
+},
+"First Amendment": {
+"also": [],
+"clash": [
+"journalism words"
+]
+},
+"Tories": {
+"also": [],
+"clash": [
+"political ideologies"
+]
+},
+"Tirumala": {
+"also": [
+[
+"famous temples",
+4
+]
+],
+"clash": [
+"holy cities"
+]
+},
+"Shirdi": {
+"also": [],
+"clash": [
+"holy cities"
+]
+},
+"Sabarimala": {
+"also": [],
+"clash": [
+"famous temples"
+]
+},
+"Einsiedeln": {
+"also": [],
+"clash": [
+"monastery"
+]
+},
+"Swithin": {
+"also": [],
+"clash": [
+"superstitions"
+]
+},
+"Thomas Aquinas": {
+"also": [],
+"clash": [
+"greek philosophers"
+]
+},
+"clerical collar": {
+"also": [],
+"clash": [
+"neckwear"
+]
+},
+"happy hunting ground": {
+"also": [
+[
+"native american folklore",
+3
+]
+],
+"clash": []
+},
+"second coming": {
+"also": [],
+"clash": [
+"religion words"
+]
+},
+"ihram": {
+"also": [
+[
+"religious clothing",
+3
+]
+],
+"clash": []
+},
+"umrah": {
+"also": [],
+"clash": [
+"pilgrimage sites"
+]
+},
+"tawaf": {
+"also": [],
+"clash": [
+"pilgrimage sites"
+]
+},
+"Shiite": {
+"also": [],
+"clash": [
+"religion"
+]
+},
+"Shia": {
+"also": [],
+"clash": [
+"religion"
+]
+},
+"Sunni": {
+"also": [],
+"clash": [
+"religion"
+]
+},
+"Muslim": {
+"also": [],
+"clash": [
+"religion"
+]
+},
+"Shabbat": {
+"also": [],
+"clash": [
+"days and weeks"
+]
+},
+"sukkah": {
+"also": [],
+"clash": [
+"religious festivals"
+]
+},
+"Hasidic": {
+"also": [],
+"clash": [
+"religion"
+]
+},
+"Hebrew school": {
+"also": [],
+"clash": [
+"school types"
+]
+},
+"Reform Judaism": {
+"also": [],
+"clash": [
+"religion"
+]
+},
+"Orthodox Jew": {
+"also": [],
+"clash": [
+"religion"
+]
+},
+"Talmudic": {
+"also": [],
+"clash": [
+"holy books"
+]
+},
+"Buddha": {
+"also": [],
+"clash": [
+"asian temple features",
+"famous statues"
+]
+},
+"Buddhist": {
+"also": [],
+"clash": [
+"religion"
+]
+},
+"butter lamp": {
+"also": [],
+"clash": [
+"lights and lamps"
+]
+},
+"neighborhood watch": {
+"also": [],
+"clash": [
+"police words"
+]
+},
+"crime wave": {
+"also": [],
+"clash": [
+"crimes"
+]
+},
+"zero tolerance": {
+"also": [],
+"clash": [
+"police words"
+]
+},
+"joyriding": {
+"also": [],
+"clash": [
+"driving words"
+]
+},
+"bribe": {
+"also": [],
+"clash": [
+"government words"
+]
+},
+"bribery": {
+"also": [],
+"clash": [
+"government words"
+]
+},
+"obstruction of justice": {
+"also": [],
+"clash": [
+"courtroom words"
+]
+},
+"counsel": {
+"also": [],
+"clash": [
+"homophones"
+]
+},
+"court clerk": {
+"also": [],
+"clash": [
+"office jobs"
+]
+},
+"constable": {
+"also": [],
+"clash": [
+"painters"
+]
+},
+"caution": {
+"also": [],
+"clash": [
+"road signs"
+]
+},
+"sting operation": {
+"also": [],
+"clash": [
+"spy words"
+]
+},
+"police radio": {
+"also": [],
+"clash": [
+"radio words"
+]
+},
+"prisoner": {
+"also": [],
+"clash": [
+"war words"
+]
+},
+"prison camp": {
+"also": [],
+"clash": [
+"world war ii terms"
+]
+},
+"ballistics": {
+"also": [],
+"clash": [
+"police words"
+]
+},
+"cold case": {
+"also": [],
+"clash": [
+"police words"
+]
+},
+"culprit": {
+"also": [],
+"clash": [
+"troublemakers"
+]
+},
+"gas chamber": {
+"also": [],
+"clash": [
+"world war ii terms"
+]
+},
+"burner phone": {
+"also": [],
+"clash": [
+"phone words"
+]
+},
+"false passport": {
+"also": [],
+"clash": [
+"travel documents"
+]
+},
+"GRU": {
+"also": [],
+"clash": [
+"cold war"
+]
+},
+"intel": {
+"also": [
+[
+"silicon valley companies",
+2
+],
+[
+"tech companies",
+2
+]
+],
+"clash": []
+},
+"microfilm": {
+"also": [],
+"clash": [
+"retro tech"
+]
+},
+"rich": {
+"also": [],
+"clash": [
+"taste words"
+]
+},
+"spendthrift": {
+"also": [],
+"clash": [
+"negative traits"
+]
+},
+"frugal": {
+"also": [],
+"clash": [
+"positive traits"
+]
+},
+"IRS": {
+"also": [],
+"clash": [
+"government words"
+]
+},
+"HMRC": {
+"also": [],
+"clash": [
+"government words"
+]
+},
+"shop": {
+"also": [],
+"clash": [
+"shops"
+]
+},
+"supermarket": {
+"also": [],
+"clash": [
+"supermarket"
+]
+},
+"changing room": {
+"also": [],
+"clash": [
+"swimming pool"
+]
+},
+"salesperson": {
+"also": [],
+"clash": [
+"service jobs"
+]
+},
+"shop assistant": {
+"also": [],
+"clash": [
+"service jobs"
+]
+},
+"sales clerk": {
+"also": [],
+"clash": [
+"service jobs"
+]
+},
+"sales assistant": {
+"also": [],
+"clash": [
+"service jobs"
+]
+},
+"BOGO": {
+"also": [],
+"clash": [
+"acronyms"
+]
+},
+"dinero": {
+"also": [
+[
+"words from spanish",
+2
+]
+],
+"clash": []
+},
+"headquarters": {
+"also": [],
+"clash": [
+"army words"
+]
+},
+"advertising": {
+"also": [],
+"clash": [
+"advertising words"
+]
+},
+"sales": {
+"also": [],
+"clash": [
+"shopping words"
+]
+},
+"tea glass": {
+"also": [],
+"clash": [
+"turkish drinks"
+]
+},
+"dallah": {
+"also": [
+[
+"coffee words",
+4
+]
+],
+"clash": []
+},
+"knick-knack": {
+"also": [
+[
+"street market",
+2
+]
+],
+"clash": []
+},
+"wares": {
+"also": [],
+"clash": [
+"street market"
+]
+},
+"Islam": {
+"also": [],
+"clash": [
+"islam words"
+]
+},
+"Judaism": {
+"also": [],
+"clash": [
+"judaism words"
+]
+},
+"Buddhism": {
+"also": [],
+"clash": [
+"buddhism words"
+]
+},
+"Hinduism": {
+"also": [],
+"clash": [
+"hinduism words"
+]
+},
+"Sufism": {
+"also": [],
+"clash": [
+"islam words"
+]
+},
+"Santería": {
+"also": [],
+"clash": [
+"latin american folklore"
+]
+},
+"neopaganism": {
+"also": [],
+"clash": [
+"witchcraft"
+]
+},
+"Corpus Christi": {
+"also": [
+[
+"american cities",
+3
+]
+],
+"clash": []
+},
+"collateral": {
+"also": [],
+"clash": [
+"war words"
+]
+}
+}

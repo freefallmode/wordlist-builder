@@ -1,0 +1,15709 @@
+{
+"mechanic": {
+"also": [
+[
+"trades",
+1
+]
+],
+"clash": [
+"garage"
+]
+},
+"garage": {
+"also": [
+[
+"words from french",
+1
+],
+[
+"parts of a house",
+2
+],
+[
+"electronic music styles",
+3
+]
+],
+"clash": [
+"parking words"
+]
+},
+"dealership": {
+"also": [
+[
+"hidden vehicles",
+2
+],
+[
+"hidden body parts",
+3
+]
+],
+"clash": []
+},
+"road trip": {
+"also": [
+[
+"road trip words",
+1
+],
+[
+"journeys",
+2
+],
+[
+"american road trip",
+2
+]
+],
+"clash": []
+},
+"chauffeur": {
+"also": [
+[
+"words from french",
+1
+],
+[
+"service jobs",
+2
+]
+],
+"clash": [
+"hotel staff"
+]
+},
+"driver": {
+"also": [
+[
+"golf terms",
+2
+],
+[
+"service jobs",
+2
+],
+[
+"software words",
+3
+],
+[
+"surnames that are jobs",
+4
+]
+],
+"clash": [
+"golf shots",
+"sports equipment"
+]
+},
+"motorist": {
+"also": [],
+"clash": [
+"kinds of travelers"
+]
+},
+"breakdown truck": {
+"also": [
+[
+"truck types",
+2
+],
+[
+"emergency vehicles",
+3
+]
+],
+"clash": []
+},
+"registration": {
+"also": [],
+"clash": [
+"election words",
+"hotel"
+]
+},
+"car rental": {
+"also": [],
+"clash": [
+"airport words",
+"airport"
+]
+},
+"hire car": {
+"also": [],
+"clash": [
+"airport words",
+"airport"
+]
+},
+"used car": {
+"also": [],
+"clash": [
+"car types"
+]
+},
+"vintage car": {
+"also": [],
+"clash": [
+"car types"
+]
+},
+"classic car": {
+"also": [],
+"clash": [
+"car types"
+]
+},
+"car seat": {
+"also": [
+[
+"baby gear",
+1
+]
+],
+"clash": []
+},
+"road tax": {
+"also": [
+[
+"tax words",
+2
+]
+],
+"clash": []
+},
+"auto shop": {
+"also": [],
+"clash": [
+"garage",
+"shops"
+]
+},
+"body shop": {
+"also": [],
+"clash": [
+"garage",
+"shops"
+]
+},
+"junkyard": {
+"also": [],
+"clash": [
+"recycling words"
+]
+},
+"scrapyard": {
+"also": [],
+"clash": [
+"recycling words"
+]
+},
+"car alarm": {
+"also": [
+[
+"loud things",
+2
+]
+],
+"clash": []
+},
+"car keys": {
+"also": [],
+"clash": [
+"in a handbag"
+]
+},
+"car loan": {
+"also": [],
+"clash": [
+"banking words"
+]
+},
+"car lease": {
+"also": [],
+"clash": [
+"real estate words"
+]
+},
+"autobahn": {
+"also": [
+[
+"road types",
+2
+],
+[
+"words from german",
+2
+]
+],
+"clash": []
+},
+"drive-in": {
+"also": [
+[
+"american road trip",
+1
+],
+[
+"movie theater words",
+2
+],
+[
+"road trip words",
+2
+]
+],
+"clash": []
+},
+"drive-through": {
+"also": [
+[
+"fast food",
+2
+],
+[
+"ough words",
+2
+],
+[
+"american road trip",
+2
+]
+],
+"clash": [
+"restaurant words",
+"road trip words"
+]
+},
+"joyride": {
+"also": [
+[
+"crimes",
+3
+]
+],
+"clash": []
+},
+"carjacking": {
+"also": [
+[
+"crimes",
+1
+],
+[
+"portmanteau words",
+2
+]
+],
+"clash": []
+},
+"Ferrari": {
+"also": [],
+"clash": [
+"motor racing",
+"fast things",
+"formula one drivers"
+]
+},
+"Lamborghini": {
+"also": [
+[
+"hidden animals",
+3
+]
+],
+"clash": []
+},
+"Fiat": {
+"also": [
+[
+"acronyms",
+3
+]
+],
+"clash": [
+"money words"
+]
+},
+"Peugeot": {
+"also": [],
+"clash": [
+"motorcycle brands",
+"bike types"
+]
+},
+"Renault": {
+"also": [],
+"clash": [
+"motor racing"
+]
+},
+"Maserati": {
+"also": [
+[
+"hidden animals",
+3
+]
+],
+"clash": []
+},
+"Bugatti": {
+"also": [
+[
+"hidden insects",
+3
+]
+],
+"clash": []
+},
+"Saab": {
+"also": [
+[
+"acronyms",
+3
+]
+],
+"clash": []
+},
+"SEAT": {
+"also": [
+[
+"on a bus",
+2
+],
+[
+"acronyms",
+3
+]
+],
+"clash": [
+"seating",
+"parts of parliament"
+]
+},
+"Dacia": {
+"also": [],
+"clash": [
+"ancient rome"
+]
+},
+"Tata": {
+"also": [],
+"clash": [
+"ways to say goodbye",
+"asian tech companies"
+]
+},
+"Genesis": {
+"also": [
+[
+"famous bands",
+2
+]
+],
+"clash": [
+"holy books"
+]
+},
+"Polestar": {
+"also": [],
+"clash": [
+"stars",
+"navigation tools"
+]
+},
+"Holden": {
+"also": [
+[
+"boys' names",
+3
+]
+],
+"clash": []
+},
+"Proton": {
+"also": [
+[
+"particle physics",
+1
+]
+],
+"clash": []
+},
+"Great Wall": {
+"also": [
+[
+"chinese landmarks",
+1
+],
+[
+"landmarks",
+1
+]
+],
+"clash": []
+},
+"Alpine": {
+"also": [],
+"clash": [
+"skiing words",
+"motor racing",
+"mountains"
+]
+},
+"Tatra": {
+"also": [
+[
+"mountain ranges",
+3
+]
+],
+"clash": []
+},
+"Simca": {
+"also": [
+[
+"acronyms",
+3
+]
+],
+"clash": []
+},
+"Facel Vega": {
+"also": [],
+"clash": [
+"stars"
+]
+},
+"Hispano-Suiza": {
+"also": [],
+"clash": [
+"aircraft makers"
+]
+},
+"Ligier": {
+"also": [],
+"clash": [
+"motor racing"
+]
+},
+"BMW": {
+"also": [
+[
+"motorcycle brands",
+1
+]
+],
+"clash": []
+},
+"Mercedes": {
+"also": [
+[
+"girls' names",
+3
+],
+[
+"latin american names",
+3
+]
+],
+"clash": [
+"motor racing"
+]
+},
+"Smart": {
+"also": [],
+"clash": [
+"words for smart"
+]
+},
+"Trabant": {
+"also": [
+[
+"hidden animals",
+3
+]
+],
+"clash": []
+},
+"Wartburg": {
+"also": [
+[
+"famous castles",
+3
+]
+],
+"clash": []
+},
+"NSU": {
+"also": [],
+"clash": [
+"motorcycle brands"
+]
+},
+"DKW": {
+"also": [],
+"clash": [
+"motorcycle brands"
+]
+},
+"Lloyd": {
+"also": [
+[
+"boys' names",
+3
+]
+],
+"clash": []
+},
+"Melkus": {
+"also": [
+[
+"hidden animals",
+3
+]
+],
+"clash": []
+},
+"Brabus": {
+"also": [
+[
+"hidden vehicles",
+3
+]
+],
+"clash": []
+},
+"Honda": {
+"also": [
+[
+"motorcycle brands",
+1
+]
+],
+"clash": []
+},
+"Subaru": {
+"also": [],
+"clash": [
+"stars",
+"constellations"
+]
+},
+"Mitsubishi": {
+"also": [
+[
+"aircraft makers",
+3
+]
+],
+"clash": [
+"asian tech companies"
+]
+},
+"Suzuki": {
+"also": [
+[
+"motorcycle brands",
+1
+],
+[
+"japanese names",
+3
+]
+],
+"clash": []
+},
+"Infiniti": {
+"also": [],
+"clash": [
+"big numbers"
+]
+},
+"Scion": {
+"also": [],
+"clash": [
+"family members"
+]
+},
+"Ford": {
+"also": [
+[
+"us presidents",
+1
+],
+[
+"river features",
+2
+]
+],
+"clash": [
+"inventors",
+"famous engineers"
+]
+},
+"Tesla": {
+"also": [
+[
+"inventors",
+1
+],
+[
+"famous engineers",
+2
+],
+[
+"units named after people",
+3
+]
+],
+"clash": [
+"tech companies",
+"silicon valley companies"
+]
+},
+"Jeep": {
+"also": [
+[
+"military vehicles",
+1
+],
+[
+"brand names used as words",
+3
+]
+],
+"clash": []
+},
+"Dodge": {
+"also": [],
+"clash": [
+"sports verbs",
+"body actions",
+"motion verbs"
+]
+},
+"Chrysler": {
+"also": [],
+"clash": [
+"famous buildings",
+"towers and skyscrapers"
+]
+},
+"Lincoln": {
+"also": [
+[
+"us presidents",
+1
+],
+[
+"british cities",
+2
+],
+[
+"boys' names",
+3
+]
+],
+"clash": [
+"shades of green"
+]
+},
+"Pontiac": {
+"also": [],
+"clash": [
+"native american folklore"
+]
+},
+"Plymouth": {
+"also": [
+[
+"british cities",
+2
+],
+[
+"port cities",
+2
+]
+],
+"clash": [
+"famous voyages"
+]
+},
+"Hummer": {
+"also": [],
+"clash": [
+"military vehicles"
+]
+},
+"Ram": {
+"also": [
+[
+"male animals",
+1
+],
+[
+"computer parts",
+2
+]
+],
+"clash": [
+"farm animals",
+"zodiac signs",
+"chinese zodiac",
+"siege weapons",
+"sheep breeds"
+]
+},
+"Saturn": {
+"also": [
+[
+"planets",
+1
+],
+[
+"roman gods",
+2
+]
+],
+"clash": [
+"space vehicles",
+"space missions"
+]
+},
+"Mercury": {
+"also": [
+[
+"planets",
+1
+],
+[
+"chemical elements",
+1
+],
+[
+"roman gods",
+2
+],
+[
+"metals",
+2
+],
+[
+"space missions",
+3
+]
+],
+"clash": [
+"famous bands",
+"pop stars"
+]
+},
+"Lucid": {
+"also": [],
+"clash": [
+"words for smart"
+]
+},
+"Packard": {
+"also": [],
+"clash": [
+"tech companies"
+]
+},
+"Shelby": {
+"also": [
+[
+"unisex names",
+3
+]
+],
+"clash": []
+},
+"Hudson": {
+"also": [
+[
+"north american rivers",
+1
+],
+[
+"explorers",
+3
+],
+[
+"boys' names",
+3
+]
+],
+"clash": []
+},
+"Tucker": {
+"also": [
+[
+"australian slang",
+2
+]
+],
+"clash": []
+},
+"Rambler": {
+"also": [
+[
+"kinds of travelers",
+3
+]
+],
+"clash": []
+},
+"Willys": {
+"also": [],
+"clash": [
+"military vehicles"
+]
+},
+"Kaiser": {
+"also": [
+[
+"royal titles",
+2
+],
+[
+"words from german",
+3
+]
+],
+"clash": []
+},
+"DeSoto": {
+"also": [],
+"clash": [
+"conquistadors",
+"explorers"
+]
+},
+"LaSalle": {
+"also": [],
+"clash": [
+"explorers"
+]
+},
+"Imperial": {
+"also": [],
+"clash": [
+"imperial units",
+"empires"
+]
+},
+"Cord": {
+"also": [
+[
+"cords and strings",
+1
+]
+],
+"clash": []
+},
+"Auburn": {
+"also": [
+[
+"shades of red",
+2
+],
+[
+"shades of brown",
+2
+]
+],
+"clash": [
+"hair",
+"names that are colors"
+]
+},
+"Hennessey": {
+"also": [],
+"clash": [
+"spirits"
+]
+},
+"Checker": {
+"also": [],
+"clash": [
+"taxis of the world",
+"board games",
+"classic games"
+]
+},
+"Jaguar": {
+"also": [
+[
+"big cats",
+1
+],
+[
+"south american animals",
+1
+],
+[
+"amazon animals",
+2
+],
+[
+"rainforest animals",
+2
+],
+[
+"spotted animals",
+2
+],
+[
+"words from south american languages",
+2
+]
+],
+"clash": []
+},
+"Rolls-Royce": {
+"also": [],
+"clash": [
+"aircraft makers"
+]
+},
+"Bentley": {
+"also": [
+[
+"boys' names",
+3
+]
+],
+"clash": []
+},
+"Mini": {
+"also": [],
+"clash": [
+"dresses and skirts",
+"words for small",
+"size labels"
+]
+},
+"McLaren": {
+"also": [],
+"clash": [
+"motor racing",
+"formula one drivers"
+]
+},
+"Lotus": {
+"also": [
+[
+"water plants",
+1
+],
+[
+"flowers",
+1
+],
+[
+"national flowers",
+2
+],
+[
+"yoga poses",
+2
+],
+[
+"tropical flowers",
+3
+]
+],
+"clash": [
+"motor racing"
+]
+},
+"Morgan": {
+"also": [
+[
+"famous pirates",
+2
+],
+[
+"unisex names",
+2
+]
+],
+"clash": []
+},
+"Triumph": {
+"also": [
+[
+"motorcycle brands",
+1
+]
+],
+"clash": [
+"happy words"
+]
+},
+"Rover": {
+"also": [
+[
+"space vehicles",
+2
+],
+[
+"kinds of travelers",
+3
+]
+],
+"clash": []
+},
+"Austin": {
+"also": [
+[
+"american cities",
+1
+],
+[
+"boys' names",
+2
+]
+],
+"clash": []
+},
+"Morris": {
+"also": [
+[
+"boys' names",
+3
+]
+],
+"clash": [
+"folk dances",
+"european folk dances"
+]
+},
+"Caterham": {
+"also": [
+[
+"hidden animals",
+3
+]
+],
+"clash": []
+},
+"Sunbeam": {
+"also": [
+[
+"sun___",
+2
+]
+],
+"clash": []
+},
+"Riley": {
+"also": [
+[
+"unisex names",
+3
+]
+],
+"clash": []
+},
+"Reliant": {
+"also": [
+[
+"hidden animals",
+3
+]
+],
+"clash": []
+},
+"Bristol": {
+"also": [
+[
+"british cities",
+1
+],
+[
+"port cities",
+2
+]
+],
+"clash": []
+},
+"Ariel": {
+"also": [
+[
+"shakespeare characters",
+2
+],
+[
+"moons",
+3
+],
+[
+"motorcycle brands",
+3
+],
+[
+"girls' names",
+3
+],
+[
+"homophones",
+3
+]
+],
+"clash": [
+"fairy tale characters"
+]
+},
+"Noble": {
+"also": [],
+"clash": [
+"royal titles",
+"feudal ranks",
+"gases",
+"positive traits"
+]
+},
+"AC": {
+"also": [
+[
+"electricity words",
+2
+]
+],
+"clash": [
+"heating and cooling"
+]
+},
+"Singer": {
+"also": [
+[
+"arts jobs",
+1
+],
+[
+"surnames that are jobs",
+2
+]
+],
+"clash": [
+"sewing kit",
+"sewing words"
+]
+},
+"Humber": {
+"also": [
+[
+"european rivers",
+3
+]
+],
+"clash": []
+},
+"Marcos": {
+"also": [
+[
+"latin american names",
+3
+]
+],
+"clash": []
+},
+"Bond": {
+"also": [
+[
+"spy words",
+2
+],
+[
+"chemistry words",
+2
+],
+[
+"stock market words",
+2
+]
+],
+"clash": [
+"adhesives"
+]
+},
+"engine": {
+"also": [
+[
+"parts of a train",
+2
+]
+],
+"clash": [
+"engines",
+"plane parts",
+"fire station"
+]
+},
+"wheel": {
+"also": [
+[
+"things that roll",
+1
+],
+[
+"things that spin",
+1
+],
+[
+"bicycle parts",
+1
+],
+[
+"round things",
+1
+],
+[
+"simple machines",
+2
+],
+[
+"cheesemaking words",
+2
+],
+[
+"pottery words",
+2
+],
+[
+"hidden animals",
+3
+]
+],
+"clash": [
+"ship parts",
+"things with wheels"
+]
+},
+"tire": {
+"also": [
+[
+"bicycle parts",
+1
+],
+[
+"things made of rubber",
+1
+],
+[
+"round things",
+2
+],
+[
+"things that roll",
+2
+],
+[
+"black things",
+2
+]
+],
+"clash": [
+"sleep words"
+]
+},
+"brake": {
+"also": [
+[
+"bicycle parts",
+1
+],
+[
+"rhymes with cake",
+1
+],
+[
+"homophones",
+2
+]
+],
+"clash": []
+},
+"steering wheel": {
+"also": [
+[
+"round things",
+2
+]
+],
+"clash": [
+"dashboard items",
+"ship parts"
+]
+},
+"bumper": {
+"also": [],
+"clash": [
+"fairground rides"
+]
+},
+"headlight": {
+"also": [
+[
+"lights and lamps",
+2
+],
+[
+"head___",
+2
+],
+[
+"___light",
+2
+]
+],
+"clash": [
+"bicycle parts",
+"parts of a train"
+]
+},
+"windshield": {
+"also": [
+[
+"things made of glass",
+2
+]
+],
+"clash": [
+"plane parts"
+]
+},
+"hood": {
+"also": [
+[
+"clothing parts",
+1
+],
+[
+"hats",
+2
+],
+[
+"famous ships",
+2
+]
+],
+"clash": [
+"coats and jackets",
+"robin hood legend",
+"kitchen appliances"
+]
+},
+"trunk": {
+"also": [
+[
+"tree parts",
+1
+],
+[
+"luggage",
+1
+],
+[
+"animal body parts",
+1
+],
+[
+"storage furniture",
+2
+],
+[
+"torso",
+3
+]
+],
+"clash": [
+"swimwear",
+"attic"
+]
+},
+"door": {
+"also": [
+[
+"windows and doors",
+1
+],
+[
+"parts of a house",
+1
+],
+[
+"things with handles",
+1
+]
+],
+"clash": [
+"on a bus",
+"plane parts"
+]
+},
+"seatbelt": {
+"also": [
+[
+"in-flight words",
+1
+]
+],
+"clash": []
+},
+"mirror": {
+"also": [
+[
+"bathroom",
+1
+],
+[
+"things made of glass",
+1
+],
+[
+"things that reflect",
+1
+],
+[
+"shiny things",
+2
+],
+[
+"home decor",
+2
+],
+[
+"superstitions",
+2
+]
+],
+"clash": []
+},
+"horn": {
+"also": [
+[
+"animal body parts",
+1
+],
+[
+"brass instruments",
+1
+],
+[
+"instruments",
+1
+],
+[
+"loud things",
+1
+],
+[
+"bicycle parts",
+2
+]
+],
+"clash": [
+"things with horns",
+"peninsulas"
+]
+},
+"battery": {
+"also": [
+[
+"electricity words",
+1
+],
+[
+"emergency supplies",
+2
+],
+[
+"crimes",
+3
+],
+[
+"military units",
+3
+],
+[
+"baseball terms",
+3
+],
+[
+"hidden animals",
+3
+]
+],
+"clash": [
+"battery types"
+]
+},
+"radiator": {
+"also": [
+[
+"heating and cooling",
+1
+]
+],
+"clash": []
+},
+"exhaust": {
+"also": [
+[
+"pollution words",
+2
+]
+],
+"clash": []
+},
+"muffler": {
+"also": [
+[
+"scarves and gloves",
+2
+],
+[
+"neckwear",
+2
+]
+],
+"clash": []
+},
+"gearbox": {
+"also": [
+[
+"___box",
+2
+]
+],
+"clash": []
+},
+"clutch": {
+"also": [
+[
+"bags",
+2
+],
+[
+"hand actions",
+2
+],
+[
+"collective nouns",
+3
+]
+],
+"clash": [
+"in a handbag"
+]
+},
+"transmission": {
+"also": [],
+"clash": [
+"radio words",
+"illnesses"
+]
+},
+"axle": {
+"also": [],
+"clash": [
+"figure skating moves",
+"simple machines",
+"homophones"
+]
+},
+"piston": {
+"also": [],
+"clash": [
+"engines",
+"nba teams"
+]
+},
+"spark plug": {
+"also": [],
+"clash": [
+"electricity words"
+]
+},
+"carburetor": {
+"also": [
+[
+"hidden vehicles",
+3
+]
+],
+"clash": []
+},
+"alternator": {
+"also": [],
+"clash": [
+"electricity words"
+]
+},
+"fender": {
+"also": [
+[
+"fireplace words",
+3
+],
+[
+"bicycle parts",
+3
+]
+],
+"clash": [
+"guitar types"
+]
+},
+"grille": {
+"also": [],
+"clash": [
+"cooking methods",
+"barbecue foods"
+]
+},
+"accelerator": {
+"also": [
+[
+"particle physics",
+2
+],
+[
+"hidden animals",
+3
+]
+],
+"clash": []
+},
+"gearshift": {
+"also": [
+[
+"hidden body parts",
+3
+]
+],
+"clash": []
+},
+"handbrake": {
+"also": [
+[
+"hand___",
+2
+]
+],
+"clash": []
+},
+"sunroof": {
+"also": [
+[
+"sun___",
+2
+]
+],
+"clash": []
+},
+"spoiler": {
+"also": [
+[
+"film words",
+2
+],
+[
+"plane parts",
+2
+],
+[
+"tv words",
+2
+]
+],
+"clash": [
+"motor racing",
+"internet words"
+]
+},
+"suspension": {
+"also": [
+[
+"punishments",
+2
+],
+[
+"chemistry words",
+3
+]
+],
+"clash": [
+"bridge types"
+]
+},
+"crankshaft": {
+"also": [],
+"clash": [
+"engines"
+]
+},
+"camshaft": {
+"also": [],
+"clash": [
+"engines"
+]
+},
+"fuel tank": {
+"also": [],
+"clash": [
+"gas station"
+]
+},
+"fuel pump": {
+"also": [],
+"clash": [
+"gas station"
+]
+},
+"oil filter": {
+"also": [],
+"clash": [
+"gas station"
+]
+},
+"air filter": {
+"also": [],
+"clash": [
+"heating and cooling"
+]
+},
+"cylinder": {
+"also": [
+[
+"3d shapes",
+1
+],
+[
+"lab glassware",
+3
+],
+[
+"scuba words",
+3
+]
+],
+"clash": [
+"engines"
+]
+},
+"distributor": {
+"also": [
+[
+"hidden body parts",
+3
+]
+],
+"clash": [
+"business words"
+]
+},
+"catalytic converter": {
+"also": [],
+"clash": [
+"chemistry words"
+]
+},
+"differential": {
+"also": [],
+"clash": [
+"math terms"
+]
+},
+"taillight": {
+"also": [
+[
+"___light",
+2
+]
+],
+"clash": []
+},
+"turn signal": {
+"also": [],
+"clash": [
+"driving words"
+]
+},
+"indicator": {
+"also": [
+[
+"acids and bases",
+3
+],
+[
+"hidden animals",
+3
+]
+],
+"clash": [
+"driving words"
+]
+},
+"license plate": {
+"also": [],
+"clash": [
+"travel documents"
+]
+},
+"tow bar": {
+"also": [],
+"clash": [
+"rvs and campers"
+]
+},
+"rim": {
+"also": [
+[
+"bicycle parts",
+1
+],
+[
+"basketball terms",
+2
+]
+],
+"clash": [
+"circle parts"
+]
+},
+"tread": {
+"also": [
+[
+"staircase parts",
+2
+]
+],
+"clash": [
+"ways of walking"
+]
+},
+"thermostat": {
+"also": [
+[
+"heating and cooling",
+1
+],
+[
+"smart home",
+2
+]
+],
+"clash": []
+},
+"caliper": {
+"also": [
+[
+"measuring tools",
+2
+],
+[
+"measuring instruments",
+3
+],
+[
+"hidden body parts",
+3
+]
+],
+"clash": []
+},
+"ignition": {
+"also": [],
+"clash": [
+"fire words"
+]
+},
+"headrest": {
+"also": [
+[
+"head___",
+2
+]
+],
+"clash": [
+"in-flight words"
+]
+},
+"armrest": {
+"also": [],
+"clash": [
+"seating"
+]
+},
+"center console": {
+"also": [],
+"clash": [
+"gaming hardware"
+]
+},
+"dipstick": {
+"also": [
+[
+"old-fashioned insults",
+3
+]
+],
+"clash": []
+},
+"oil pan": {
+"also": [],
+"clash": [
+"cookware"
+]
+},
+"flywheel": {
+"also": [
+[
+"things that spin",
+2
+]
+],
+"clash": []
+},
+"ball joint": {
+"also": [],
+"clash": [
+"joints"
+]
+},
+"strut": {
+"also": [
+[
+"ways of walking",
+2
+]
+],
+"clash": []
+},
+"door handle": {
+"also": [
+[
+"parts of a door",
+1
+],
+[
+"things with handles",
+2
+]
+],
+"clash": []
+},
+"dashboard": {
+"also": [
+[
+"___board",
+2
+],
+[
+"hidden trees",
+3
+]
+],
+"clash": []
+},
+"rearview mirror": {
+"also": [
+[
+"things that reflect",
+2
+]
+],
+"clash": []
+},
+"wing mirror": {
+"also": [
+[
+"things that reflect",
+2
+]
+],
+"clash": [
+"plane parts"
+]
+},
+"side mirror": {
+"also": [
+[
+"things that reflect",
+2
+]
+],
+"clash": []
+},
+"gasket": {
+"also": [
+[
+"plumbing words",
+2
+]
+],
+"clash": []
+},
+"emergency brake": {
+"also": [],
+"clash": [
+"parts of a train",
+"parking words"
+]
+},
+"speedometer": {
+"also": [
+[
+"measuring instruments",
+1
+]
+],
+"clash": []
+},
+"odometer": {
+"also": [
+[
+"measuring instruments",
+1
+],
+[
+"road trip words",
+1
+]
+],
+"clash": []
+},
+"fuel gauge": {
+"also": [
+[
+"measuring instruments",
+2
+]
+],
+"clash": []
+},
+"tachometer": {
+"also": [
+[
+"measuring instruments",
+3
+]
+],
+"clash": []
+},
+"temperature gauge": {
+"also": [
+[
+"measuring instruments",
+2
+]
+],
+"clash": [
+"temperature words"
+]
+},
+"clock": {
+"also": [
+[
+"clocks and calendars",
+1
+],
+[
+"things that tick",
+1
+],
+[
+"round things",
+2
+]
+],
+"clash": [
+"clock types"
+]
+},
+"radio": {
+"also": [
+[
+"home electronics",
+1
+],
+[
+"media and communication",
+1
+],
+[
+"retro tech",
+2
+]
+],
+"clash": [
+"radio words",
+"old ways to communicate"
+]
+},
+"car radio": {
+"also": [],
+"clash": [
+"radio words"
+]
+},
+"stereo": {
+"also": [
+[
+"home electronics",
+1
+],
+[
+"audio gear",
+1
+]
+],
+"clash": []
+},
+"air vent": {
+"also": [],
+"clash": [
+"heating and cooling"
+]
+},
+"cigarette lighter": {
+"also": [
+[
+"smoking words",
+1
+]
+],
+"clash": []
+},
+"ashtray": {
+"also": [
+[
+"smoking words",
+1
+],
+[
+"retro household items",
+2
+]
+],
+"clash": []
+},
+"GPS": {
+"also": [
+[
+"navigation tools",
+2
+],
+[
+"phone features",
+2
+],
+[
+"handheld gadgets",
+3
+]
+],
+"clash": [
+"road trip words"
+]
+},
+"sat nav": {
+"also": [
+[
+"navigation tools",
+2
+],
+[
+"gadgets",
+2
+]
+],
+"clash": [
+"road trip words"
+]
+},
+"touchscreen": {
+"also": [
+[
+"display tech",
+1
+],
+[
+"phone features",
+1
+]
+],
+"clash": []
+},
+"CD player": {
+"also": [
+[
+"home electronics",
+1
+],
+[
+"retro tech",
+1
+],
+[
+"audio gear",
+1
+]
+],
+"clash": []
+},
+"cassette player": {
+"also": [
+[
+"retro tech",
+1
+],
+[
+"audio gear",
+1
+]
+],
+"clash": []
+},
+"climate control": {
+"also": [
+[
+"heating and cooling",
+2
+]
+],
+"clash": []
+},
+"instrument panel": {
+"also": [],
+"clash": [
+"plane parts"
+]
+},
+"compass": {
+"also": [
+[
+"navigation tools",
+1
+],
+[
+"hiking gear",
+1
+],
+[
+"math tools",
+2
+],
+[
+"measuring instruments",
+3
+]
+],
+"clash": [
+"compass directions",
+"map words",
+"survival skills"
+]
+},
+"dash cam": {
+"also": [
+[
+"cameras",
+2
+]
+],
+"clash": []
+},
+"bobblehead": {
+"also": [
+[
+"dolls and figures",
+2
+]
+],
+"clash": []
+},
+"hula girl": {
+"also": [],
+"clash": [
+"polynesian dances"
+]
+},
+"fuzzy dice": {
+"also": [],
+"clash": [
+"dice games"
+]
+},
+"air freshener": {
+"also": [
+[
+"things that smell good",
+1
+],
+[
+"cleaning products",
+3
+]
+],
+"clash": []
+},
+"head-up display": {
+"also": [
+[
+"display tech",
+2
+]
+],
+"clash": [
+"plane parts"
+]
+},
+"sedan": {
+"also": [
+[
+"things with wheels",
+2
+]
+],
+"clash": []
+},
+"hatchback": {
+"also": [
+[
+"things with wheels",
+2
+]
+],
+"clash": []
+},
+"coupe": {
+"also": [
+[
+"words from french",
+2
+],
+[
+"things with wheels",
+2
+]
+],
+"clash": []
+},
+"convertible": {
+"also": [
+[
+"things with wheels",
+2
+]
+],
+"clash": []
+},
+"SUV": {
+"also": [
+[
+"things with wheels",
+2
+]
+],
+"clash": []
+},
+"minivan": {
+"also": [
+[
+"things with wheels",
+2
+]
+],
+"clash": []
+},
+"pickup": {
+"also": [
+[
+"truck types",
+1
+],
+[
+"things with wheels",
+2
+],
+[
+"instrument parts",
+3
+]
+],
+"clash": [
+"delivery vehicles"
+]
+},
+"pickup truck": {
+"also": [
+[
+"truck types",
+1
+],
+[
+"things with wheels",
+2
+]
+],
+"clash": []
+},
+"station wagon": {
+"also": [
+[
+"things with wheels",
+2
+]
+],
+"clash": []
+},
+"estate car": {
+"also": [
+[
+"things with wheels",
+2
+]
+],
+"clash": []
+},
+"saloon": {
+"also": [
+[
+"wild west",
+1
+],
+[
+"cowboy words",
+2
+],
+[
+"things with wheels",
+2
+]
+],
+"clash": []
+},
+"limousine": {
+"also": [
+[
+"words from french",
+2
+],
+[
+"words named after places",
+2
+],
+[
+"things with wheels",
+2
+]
+],
+"clash": []
+},
+"limo": {
+"also": [
+[
+"things with wheels",
+2
+]
+],
+"clash": []
+},
+"sports car": {
+"also": [
+[
+"fast things",
+1
+],
+[
+"things with wheels",
+2
+]
+],
+"clash": []
+},
+"roadster": {
+"also": [
+[
+"things with wheels",
+2
+]
+],
+"clash": []
+},
+"crossover": {
+"also": [
+[
+"things with wheels",
+2
+],
+[
+"comic book words",
+3
+]
+],
+"clash": []
+},
+"van": {
+"also": [
+[
+"delivery vehicles",
+1
+],
+[
+"things with wheels",
+2
+]
+],
+"clash": []
+},
+"camper": {
+"also": [
+[
+"rvs and campers",
+1
+],
+[
+"kinds of travelers",
+2
+],
+[
+"things with wheels",
+2
+]
+],
+"clash": [
+"campsite"
+]
+},
+"camper van": {
+"also": [
+[
+"rvs and campers",
+1
+],
+[
+"things with wheels",
+2
+]
+],
+"clash": []
+},
+"RV": {
+"also": [
+[
+"rvs and campers",
+1
+],
+[
+"american road trip",
+2
+],
+[
+"things with wheels",
+2
+]
+],
+"clash": []
+},
+"cabriolet": {
+"also": [
+[
+"words from french",
+2
+],
+[
+"things with wheels",
+2
+],
+[
+"hidden vehicles",
+3
+]
+],
+"clash": [
+"horse-drawn vehicles"
+]
+},
+"supercar": {
+"also": [
+[
+"fast things",
+2
+],
+[
+"things with wheels",
+2
+]
+],
+"clash": []
+},
+"hypercar": {
+"also": [
+[
+"fast things",
+2
+],
+[
+"things with wheels",
+2
+]
+],
+"clash": []
+},
+"muscle car": {
+"also": [
+[
+"things with wheels",
+2
+]
+],
+"clash": [
+"muscles"
+]
+},
+"hot rod": {
+"also": [
+[
+"things with wheels",
+2
+]
+],
+"clash": []
+},
+"compact": {
+"also": [
+[
+"makeup",
+2
+],
+[
+"in a handbag",
+2
+],
+[
+"things with wheels",
+2
+],
+[
+"homographs",
+3
+]
+],
+"clash": []
+},
+"subcompact": {
+"also": [
+[
+"things with wheels",
+2
+]
+],
+"clash": []
+},
+"microcar": {
+"also": [
+[
+"things with wheels",
+2
+]
+],
+"clash": []
+},
+"kei car": {
+"also": [
+[
+"things with wheels",
+2
+]
+],
+"clash": []
+},
+"bubble car": {
+"also": [
+[
+"things with wheels",
+2
+]
+],
+"clash": []
+},
+"town car": {
+"also": [
+[
+"things with wheels",
+2
+]
+],
+"clash": []
+},
+"people carrier": {
+"also": [
+[
+"things with wheels",
+2
+]
+],
+"clash": []
+},
+"MPV": {
+"also": [
+[
+"things with wheels",
+2
+]
+],
+"clash": []
+},
+"police car": {
+"also": [
+[
+"emergency vehicles",
+1
+],
+[
+"police words",
+1
+],
+[
+"things with wheels",
+2
+]
+],
+"clash": []
+},
+"race car": {
+"also": [
+[
+"motor racing",
+1
+],
+[
+"fast things",
+1
+],
+[
+"palindromes",
+2
+],
+[
+"things with wheels",
+2
+]
+],
+"clash": []
+},
+"dragster": {
+"also": [
+[
+"motor racing",
+2
+],
+[
+"things with wheels",
+2
+]
+],
+"clash": []
+},
+"dune buggy": {
+"also": [
+[
+"desert travel",
+1
+],
+[
+"things with wheels",
+2
+]
+],
+"clash": []
+},
+"beach buggy": {
+"also": [
+[
+"things with wheels",
+2
+]
+],
+"clash": [
+"desert travel",
+"beach"
+]
+},
+"go-kart": {
+"also": [
+[
+"things with wheels",
+1
+]
+],
+"clash": [
+"outdoor games",
+"toys"
+]
+},
+"golf cart": {
+"also": [
+[
+"things with wheels",
+1
+],
+[
+"golf terms",
+2
+]
+],
+"clash": []
+},
+"electric car": {
+"also": [
+[
+"things with wheels",
+2
+]
+],
+"clash": []
+},
+"hybrid": {
+"also": [
+[
+"genetics words",
+2
+],
+[
+"things with wheels",
+2
+],
+[
+"evolution words",
+3
+]
+],
+"clash": [
+"plant biology"
+]
+},
+"pony car": {
+"also": [
+[
+"things with wheels",
+2
+]
+],
+"clash": [
+"horses"
+]
+},
+"grand tourer": {
+"also": [
+[
+"things with wheels",
+2
+]
+],
+"clash": []
+},
+"shooting brake": {
+"also": [
+[
+"things with wheels",
+2
+]
+],
+"clash": [
+"hunting words"
+]
+},
+"targa": {
+"also": [
+[
+"things with wheels",
+2
+]
+],
+"clash": []
+},
+"fastback": {
+"also": [
+[
+"things with wheels",
+2
+]
+],
+"clash": []
+},
+"notchback": {
+"also": [
+[
+"things with wheels",
+2
+]
+],
+"clash": []
+},
+"liftback": {
+"also": [
+[
+"things with wheels",
+2
+]
+],
+"clash": []
+},
+"jalopy": {
+"also": [
+[
+"things with wheels",
+2
+]
+],
+"clash": [
+"words for old"
+]
+},
+"banger": {
+"also": [
+[
+"sausages",
+2
+],
+[
+"british slang",
+2
+],
+[
+"things with wheels",
+2
+]
+],
+"clash": []
+},
+"lowrider": {
+"also": [
+[
+"things with wheels",
+2
+]
+],
+"clash": []
+},
+"monster truck": {
+"also": [
+[
+"truck types",
+1
+],
+[
+"things with wheels",
+2
+]
+],
+"clash": []
+},
+"off-roader": {
+"also": [
+[
+"things with wheels",
+2
+]
+],
+"clash": []
+},
+"hearse": {
+"also": [
+[
+"special vehicles",
+1
+],
+[
+"tombs and burials",
+2
+],
+[
+"things with wheels",
+2
+],
+[
+"black things",
+3
+],
+[
+"hidden body parts",
+3
+]
+],
+"clash": [
+"halloween"
+]
+},
+"4x4": {
+"also": [
+[
+"things with wheels",
+2
+]
+],
+"clash": [
+"military vehicles"
+]
+},
+"Model T": {
+"also": [],
+"clash": [
+"american inventions"
+]
+},
+"Beetle": {
+"also": [
+[
+"insects and bugs",
+1
+],
+[
+"garden bugs",
+2
+]
+],
+"clash": [
+"beetles",
+"famous bands"
+]
+},
+"Mustang": {
+"also": [
+[
+"horses",
+1
+],
+[
+"horse breeds",
+2
+],
+[
+"north american animals",
+2
+],
+[
+"wild west",
+2
+],
+[
+"words from spanish",
+2
+],
+[
+"hidden colors",
+3
+]
+],
+"clash": [
+"aircraft types"
+]
+},
+"Corvette": {
+"also": [
+[
+"warships",
+2
+],
+[
+"boat types",
+2
+]
+],
+"clash": []
+},
+"Corolla": {
+"also": [
+[
+"flower parts",
+3
+]
+],
+"clash": []
+},
+"Civic": {
+"also": [
+[
+"palindromes",
+1
+],
+[
+"words made of roman numerals",
+2
+]
+],
+"clash": [
+"government words"
+]
+},
+"Golf": {
+"also": [
+[
+"olympic sports",
+1
+],
+[
+"phonetic alphabet",
+2
+],
+[
+"national sports",
+3
+]
+],
+"clash": [
+"golf terms",
+"ball sports"
+]
+},
+"Fiesta": {
+"also": [
+[
+"words from spanish",
+1
+]
+],
+"clash": [
+"festivals of the world",
+"party supplies"
+]
+},
+"Focus": {
+"also": [
+[
+"photography words",
+2
+],
+[
+"camera parts",
+3
+]
+],
+"clash": []
+},
+"Accord": {
+"also": [
+[
+"diplomacy words",
+2
+]
+],
+"clash": []
+},
+"Jetta": {
+"also": [
+[
+"hidden vehicles",
+3
+]
+],
+"clash": []
+},
+"Thunderbird": {
+"also": [
+[
+"mythical creatures",
+2
+],
+[
+"winged beasts",
+2
+],
+[
+"native american folklore",
+2
+],
+[
+"___bird",
+2
+]
+],
+"clash": []
+},
+"Charger": {
+"also": [
+[
+"phone words",
+2
+],
+[
+"things you plug in",
+2
+]
+],
+"clash": [
+"nfl teams"
+]
+},
+"Challenger": {
+"also": [],
+"clash": [
+"space missions",
+"space vehicles",
+"military vehicles"
+]
+},
+"Viper": {
+"also": [
+[
+"snakes",
+1
+],
+[
+"venomous snakes",
+1
+]
+],
+"clash": [
+"aircraft types"
+]
+},
+"Firebird": {
+"also": [
+[
+"mythical creatures",
+2
+],
+[
+"famous ballets",
+2
+],
+[
+"slavic folklore",
+2
+],
+[
+"fire___",
+2
+],
+[
+"___bird",
+2
+]
+],
+"clash": []
+},
+"Impala": {
+"also": [
+[
+"antelopes",
+1
+],
+[
+"african animals",
+1
+],
+[
+"savanna animals",
+1
+]
+],
+"clash": []
+},
+"Diablo": {
+"also": [
+[
+"words from spanish",
+3
+]
+],
+"clash": []
+},
+"Enzo": {
+"also": [
+[
+"boys' names",
+3
+]
+],
+"clash": []
+},
+"Defender": {
+"also": [
+[
+"soccer positions",
+1
+]
+],
+"clash": [
+"military vehicles"
+]
+},
+"Wrangler": {
+"also": [
+[
+"cowboy words",
+2
+]
+],
+"clash": [
+"western wear",
+"pants and shorts"
+]
+},
+"Cherokee": {
+"also": [
+[
+"native north american languages",
+2
+]
+],
+"clash": [
+"native american folklore"
+]
+},
+"Bronco": {
+"also": [
+[
+"rodeo words",
+1
+],
+[
+"horses",
+2
+],
+[
+"words from spanish",
+2
+]
+],
+"clash": [
+"nfl teams"
+]
+},
+"Explorer": {
+"also": [
+[
+"kinds of travelers",
+2
+]
+],
+"clash": [
+"explorers"
+]
+},
+"Escalade": {
+"also": [],
+"clash": [
+"siege weapons"
+]
+},
+"Skyline": {
+"also": [],
+"clash": [
+"parts of a town",
+"architecture"
+]
+},
+"Panda": {
+"also": [
+[
+"bears",
+1
+],
+[
+"asian animals",
+1
+],
+[
+"black and white animals",
+1
+],
+[
+"endangered animals",
+1
+]
+],
+"clash": []
+},
+"Cinquecento": {
+"also": [
+[
+"words from italian",
+3
+]
+],
+"clash": [
+"renaissance"
+]
+},
+"Polo": {
+"also": [
+[
+"equestrian events",
+2
+],
+[
+"tops",
+2
+],
+[
+"horse and animal sports",
+2
+]
+],
+"clash": [
+"candy",
+"water sports",
+"great travelers"
+]
+},
+"Touareg": {
+"also": [],
+"clash": [
+"desert travel"
+]
+},
+"Cayenne": {
+"also": [
+[
+"spices",
+1
+],
+[
+"chili peppers",
+1
+],
+[
+"shades of red",
+3
+],
+[
+"words from south american languages",
+3
+]
+],
+"clash": []
+},
+"Huracán": {
+"also": [],
+"clash": [
+"storms"
+]
+},
+"Chiron": {
+"also": [],
+"clash": [
+"mythical creatures",
+"greek monsters",
+"greek heroes"
+]
+},
+"Quattro": {
+"also": [],
+"clash": [
+"numbers"
+]
+},
+"Pinto": {
+"also": [
+[
+"horse colors",
+2
+],
+[
+"beans and pulses",
+2
+],
+[
+"words from spanish",
+2
+]
+],
+"clash": []
+},
+"Gremlin": {
+"also": [
+[
+"mythical creatures",
+2
+],
+[
+"fairy folk",
+3
+]
+],
+"clash": []
+},
+"Pacer": {
+"also": [
+[
+"running words",
+3
+]
+],
+"clash": []
+},
+"Leaf": {
+"also": [
+[
+"tree parts",
+1
+],
+[
+"plant parts",
+1
+],
+[
+"things that fall from trees",
+1
+],
+[
+"green things",
+1
+]
+],
+"clash": []
+},
+"Qashqai": {
+"also": [
+[
+"hidden trees",
+4
+]
+],
+"clash": []
+},
+"Hilux": {
+"also": [
+[
+"letters in alphabetical order",
+3
+]
+],
+"clash": []
+},
+"Tacoma": {
+"also": [
+[
+"american cities",
+2
+]
+],
+"clash": []
+},
+"Tundra": {
+"also": [
+[
+"polar regions",
+2
+],
+[
+"flat landscapes",
+2
+],
+[
+"landscapes",
+2
+]
+],
+"clash": [
+"taiga"
+]
+},
+"Escort": {
+"also": [],
+"clash": [
+"police words"
+]
+},
+"Capri": {
+"also": [
+[
+"famous islands",
+1
+],
+[
+"beach destinations",
+3
+],
+[
+"places that are also words",
+3
+]
+],
+"clash": [
+"pants and shorts"
+]
+},
+"Cortina": {
+"also": [
+[
+"famous ski resorts",
+2
+]
+],
+"clash": []
+},
+"Anglia": {
+"also": [],
+"clash": [
+"regions"
+]
+},
+"Sierra": {
+"also": [
+[
+"phonetic alphabet",
+1
+],
+[
+"words from spanish",
+2
+],
+[
+"mountain ranges",
+3
+],
+[
+"girls' names",
+3
+]
+],
+"clash": []
+},
+"Zephyr": {
+"also": [
+[
+"wind words",
+2
+],
+[
+"words from mythology",
+2
+],
+[
+"named winds",
+3
+]
+],
+"clash": [
+"greek gods"
+]
+},
+"Metro": {
+"also": [
+[
+"metro systems",
+1
+],
+[
+"public transportation",
+2
+]
+],
+"clash": []
+},
+"Allegro": {
+"also": [
+[
+"tempo words",
+1
+],
+[
+"music terms",
+2
+],
+[
+"words from italian",
+2
+],
+[
+"hidden body parts",
+3
+]
+],
+"clash": []
+},
+"Silver Ghost": {
+"also": [],
+"clash": [
+"ghosts and spirits"
+]
+},
+"Phantom": {
+"also": [
+[
+"ghosts and spirits",
+1
+],
+[
+"hidden animals",
+3
+]
+],
+"clash": [
+"aircraft types"
+]
+},
+"Esprit": {
+"also": [],
+"clash": [
+"words from french"
+]
+},
+"Elise": {
+"also": [
+[
+"girls' names",
+2
+]
+],
+"clash": []
+},
+"Outback": {
+"also": [
+[
+"outback",
+1
+],
+[
+"landscapes",
+2
+]
+],
+"clash": [
+"outback travel",
+"australian slang"
+]
+},
+"Forester": {
+"also": [
+[
+"outdoor jobs",
+2
+],
+[
+"forestry words",
+2
+]
+],
+"clash": []
+},
+"Lancer": {
+"also": [
+[
+"soldiers of history",
+2
+]
+],
+"clash": []
+},
+"Elantra": {
+"also": [
+[
+"hidden animals",
+3
+]
+],
+"clash": []
+},
+"Sonata": {
+"also": [
+[
+"classical forms",
+1
+]
+],
+"clash": []
+},
+"Suburban": {
+"also": [],
+"clash": [
+"commuting words",
+"parts of a town"
+]
+},
+"Tahoe": {
+"also": [
+[
+"famous lakes",
+2
+]
+],
+"clash": []
+},
+"Malibu": {
+"also": [
+[
+"famous beaches",
+2
+],
+[
+"liqueurs",
+2
+],
+[
+"beach destinations",
+2
+]
+],
+"clash": []
+},
+"Nova": {
+"also": [
+[
+"star types",
+2
+],
+[
+"astronomy terms",
+2
+],
+[
+"girls' names",
+3
+]
+],
+"clash": []
+},
+"El Camino": {
+"also": [],
+"clash": [
+"famous routes"
+]
+},
+"Monte Carlo": {
+"also": [],
+"clash": [
+"european cities",
+"casino games",
+"casino words"
+]
+},
+"Taurus": {
+"also": [
+[
+"zodiac signs",
+1
+],
+[
+"constellations",
+1
+]
+],
+"clash": []
+},
+"Aztek": {
+"also": [],
+"clash": [
+"aztecs and maya"
+]
+},
+"Barracuda": {
+"also": [
+[
+"sea fish",
+2
+],
+[
+"fish",
+2
+],
+[
+"reef life",
+2
+]
+],
+"clash": []
+},
+"Road Runner": {
+"also": [
+[
+"north american birds",
+2
+],
+[
+"desert animals",
+2
+]
+],
+"clash": []
+},
+"Javelin": {
+"also": [
+[
+"field events",
+1
+]
+],
+"clash": []
+},
+"Riviera": {
+"also": [
+[
+"european holiday regions",
+1
+]
+],
+"clash": []
+},
+"Eldorado": {
+"also": [
+[
+"legendary places",
+1
+],
+[
+"words from spanish",
+2
+]
+],
+"clash": []
+},
+"Continental": {
+"also": [],
+"clash": [
+"continents and supercontinents",
+"breakfast foods"
+]
+},
+"Navigator": {
+"also": [
+[
+"flight crew",
+2
+],
+[
+"ship crew",
+2
+]
+],
+"clash": [
+"explorers"
+]
+},
+"Durango": {
+"also": [
+[
+"mexican states",
+2
+]
+],
+"clash": []
+},
+"Cobra": {
+"also": [
+[
+"snakes",
+1
+],
+[
+"venomous snakes",
+1
+],
+[
+"asian animals",
+1
+],
+[
+"indian animals",
+1
+]
+],
+"clash": []
+},
+"Clio": {
+"also": [],
+"clash": [
+"greek gods",
+"entertainment awards"
+]
+},
+"Mégane": {
+"also": [],
+"clash": [
+"girls' names"
+]
+},
+"911": {
+"also": [],
+"clash": [
+"phone words",
+"emergency vehicles"
+]
+},
+"steer": {
+"also": [
+[
+"male animals",
+2
+],
+[
+"farm animals",
+2
+]
+],
+"clash": [
+"cattle breeds"
+]
+},
+"accelerate": {
+"also": [
+[
+"motion verbs",
+2
+],
+[
+"hidden animals",
+3
+]
+],
+"clash": []
+},
+"indicate": {
+"also": [
+[
+"hidden animals",
+3
+]
+],
+"clash": []
+},
+"signal": {
+"also": [
+[
+"phone words",
+1
+],
+[
+"codes and signals",
+2
+],
+[
+"railway words",
+2
+],
+[
+"traffic words",
+2
+]
+],
+"clash": []
+},
+"honk": {
+"also": [
+[
+"animal sounds",
+1
+],
+[
+"onomatopoeia",
+1
+]
+],
+"clash": [
+"loud things"
+]
+},
+"swerve": {
+"also": [
+[
+"motion verbs",
+2
+]
+],
+"clash": []
+},
+"skid": {
+"also": [
+[
+"motion verbs",
+3
+]
+],
+"clash": []
+},
+"stall": {
+"also": [
+[
+"street market",
+1
+],
+[
+"bazaar",
+2
+],
+[
+"farm buildings",
+3
+]
+],
+"clash": [
+"air sports"
+]
+},
+"cruise": {
+"also": [
+[
+"cruise words",
+1
+],
+[
+"journeys",
+2
+],
+[
+"homophones",
+2
+],
+[
+"words from dutch",
+3
+]
+],
+"clash": []
+},
+"speed": {
+"also": [
+[
+"illegal drugs",
+2
+],
+[
+"physics words",
+2
+]
+],
+"clash": [
+"words for fast"
+]
+},
+"U-turn": {
+"also": [
+[
+"giving directions",
+1
+]
+],
+"clash": []
+},
+"lane": {
+"also": [
+[
+"parts of a road",
+1
+],
+[
+"road types",
+1
+],
+[
+"bowling terms",
+2
+],
+[
+"swimming words",
+2
+],
+[
+"homophones",
+3
+]
+],
+"clash": []
+},
+"highway": {
+"also": [
+[
+"road types",
+1
+],
+[
+"american road trip",
+2
+]
+],
+"clash": []
+},
+"freeway": {
+"also": [
+[
+"road types",
+1
+],
+[
+"american road trip",
+2
+]
+],
+"clash": []
+},
+"motorway": {
+"also": [
+[
+"road types",
+1
+]
+],
+"clash": []
+},
+"traffic": {
+"also": [
+[
+"internet words",
+2
+]
+],
+"clash": [
+"traffic words"
+]
+},
+"traffic jam": {
+"also": [
+[
+"traffic words",
+1
+]
+],
+"clash": []
+},
+"gridlock": {
+"also": [
+[
+"traffic words",
+1
+]
+],
+"clash": []
+},
+"intersection": {
+"also": [
+[
+"parts of a road",
+1
+],
+[
+"giving directions",
+2
+],
+[
+"math terms",
+2
+]
+],
+"clash": []
+},
+"junction": {
+"also": [
+[
+"parts of a road",
+1
+],
+[
+"railway words",
+2
+],
+[
+"giving directions",
+2
+]
+],
+"clash": []
+},
+"crossroads": {
+"also": [
+[
+"parts of a road",
+1
+],
+[
+"giving directions",
+2
+]
+],
+"clash": []
+},
+"speeding ticket": {
+"also": [
+[
+"police words",
+2
+]
+],
+"clash": [
+"punishments"
+]
+},
+"driver's license": {
+"also": [
+[
+"in a wallet",
+1
+],
+[
+"travel documents",
+2
+]
+],
+"clash": [
+"legal documents"
+]
+},
+"driving test": {
+"also": [],
+"clash": [
+"exam words"
+]
+},
+"road rage": {
+"also": [
+[
+"angry words",
+2
+],
+[
+"traffic words",
+2
+]
+],
+"clash": []
+},
+"tailgate": {
+"also": [],
+"clash": [
+"american football terms"
+]
+},
+"blind spot": {
+"also": [
+[
+"eye parts",
+3
+]
+],
+"clash": [
+"sight words"
+]
+},
+"toll road": {
+"also": [
+[
+"road types",
+1
+],
+[
+"road trip words",
+2
+]
+],
+"clash": []
+},
+"mileage": {
+"also": [
+[
+"road trip words",
+1
+]
+],
+"clash": []
+},
+"shift gears": {
+"also": [
+[
+"cycling words",
+2
+]
+],
+"clash": []
+},
+"backseat driver": {
+"also": [
+[
+"road trip words",
+2
+]
+],
+"clash": []
+},
+"hitchhike": {
+"also": [
+[
+"travel verbs",
+1
+],
+[
+"road trip words",
+2
+]
+],
+"clash": []
+},
+"collision": {
+"also": [],
+"clash": [
+"physics words",
+"forces"
+]
+},
+"crash": {
+"also": [
+[
+"impact sounds",
+1
+],
+[
+"onomatopoeia",
+1
+],
+[
+"software words",
+2
+],
+[
+"stock market words",
+2
+],
+[
+"collective nouns",
+3
+],
+[
+"hidden trees",
+3
+]
+],
+"clash": [
+"drums",
+"percussion instruments"
+]
+},
+"breakdown": {
+"also": [
+[
+"mental health words",
+2
+]
+],
+"clash": []
+},
+"flat tire": {
+"also": [
+[
+"cycling words",
+2
+]
+],
+"clash": []
+},
+"crosswalk": {
+"also": [
+[
+"parts of a road",
+1
+]
+],
+"clash": [
+"road signs"
+]
+},
+"zebra crossing": {
+"also": [
+[
+"parts of a road",
+1
+],
+[
+"british english words",
+2
+]
+],
+"clash": [
+"road signs",
+"black and white animals",
+"striped animals"
+]
+},
+"traffic light": {
+"also": [
+[
+"street furniture",
+1
+],
+[
+"traffic words",
+1
+],
+[
+"___light",
+3
+]
+],
+"clash": [
+"things that glow",
+"road signs"
+]
+},
+"downshift": {
+"also": [
+[
+"cycling words",
+3
+]
+],
+"clash": []
+},
+"upshift": {
+"also": [
+[
+"cycling words",
+3
+]
+],
+"clash": []
+},
+"rev": {
+"also": [],
+"clash": [
+"honorifics"
+]
+},
+"idle": {
+"also": [
+[
+"homophones",
+2
+]
+],
+"clash": []
+},
+"coast": {
+"also": [
+[
+"landscapes",
+1
+],
+[
+"cycling words",
+2
+]
+],
+"clash": [
+"coastal features"
+]
+},
+"decelerate": {
+"also": [
+[
+"hidden animals",
+3
+]
+],
+"clash": []
+},
+"hydroplane": {
+"also": [
+[
+"boat types",
+3
+]
+],
+"clash": []
+},
+"aquaplane": {
+"also": [
+[
+"hidden colors",
+3
+]
+],
+"clash": [
+"water sports"
+]
+},
+"fishtail": {
+"also": [
+[
+"hairstyles",
+2
+]
+],
+"clash": []
+},
+"donut": {
+"also": [
+[
+"pastries",
+1
+],
+[
+"round things",
+1
+],
+[
+"snacks",
+2
+],
+[
+"breakfast foods",
+2
+]
+],
+"clash": [
+"skateboard tricks"
+]
+},
+"drift": {
+"also": [
+[
+"motion verbs",
+2
+]
+],
+"clash": [
+"snow and ice"
+]
+},
+"drunk driving": {
+"also": [
+[
+"crimes",
+2
+]
+],
+"clash": []
+},
+"carsick": {
+"also": [],
+"clash": [
+"symptoms"
+]
+},
+"pull over": {
+"also": [],
+"clash": [
+"knitwear",
+"police words"
+]
+},
+"buckle up": {
+"also": [],
+"clash": [
+"fastenings"
+]
+},
+"Formula One": {
+"also": [],
+"clash": [
+"famous sporting events",
+"national sports"
+]
+},
+"NASCAR": {
+"also": [
+[
+"acronyms",
+2
+]
+],
+"clash": []
+},
+"rally": {
+"also": [
+[
+"protest words",
+2
+],
+[
+"tennis terms",
+2
+]
+],
+"clash": [
+"election words"
+]
+},
+"grand prix": {
+"also": [
+[
+"words from french",
+2
+]
+],
+"clash": [
+"trophies and prizes"
+]
+},
+"pit stop": {
+"also": [
+[
+"road trip words",
+2
+]
+],
+"clash": []
+},
+"checkered flag": {
+"also": [
+[
+"flag words",
+2
+]
+],
+"clash": []
+},
+"lap": {
+"also": [
+[
+"swimming words",
+1
+],
+[
+"running words",
+1
+],
+[
+"torso",
+3
+],
+[
+"reversible words",
+3
+]
+],
+"clash": [
+"animal movements"
+]
+},
+"podium": {
+"also": [],
+"clash": [
+"trophies and prizes",
+"sports venues"
+]
+},
+"paddock": {
+"also": [
+[
+"farm",
+2
+],
+[
+"horse racing terms",
+2
+]
+],
+"clash": []
+},
+"chicane": {
+"also": [
+[
+"words from french",
+3
+]
+],
+"clash": []
+},
+"hairpin": {
+"also": [
+[
+"hair accessories",
+1
+]
+],
+"clash": [
+"parts of a road"
+]
+},
+"slipstream": {
+"also": [
+[
+"cycling words",
+2
+],
+[
+"hidden body parts",
+3
+]
+],
+"clash": []
+},
+"drafting": {
+"also": [
+[
+"cycling words",
+2
+]
+],
+"clash": [
+"drawing techniques"
+]
+},
+"yellow flag": {
+"also": [
+[
+"yellow things",
+2
+],
+[
+"flag words",
+3
+]
+],
+"clash": []
+},
+"red flag": {
+"also": [
+[
+"red things",
+2
+],
+[
+"flag words",
+3
+]
+],
+"clash": []
+},
+"black flag": {
+"also": [
+[
+"pirate words",
+2
+],
+[
+"black things",
+2
+]
+],
+"clash": []
+},
+"karting": {
+"also": [],
+"clash": [
+"outdoor activities"
+]
+},
+"rallycross": {
+"also": [
+[
+"portmanteau words",
+3
+],
+[
+"double letters",
+3
+]
+],
+"clash": []
+},
+"Dakar Rally": {
+"also": [
+[
+"famous races",
+2
+]
+],
+"clash": []
+},
+"superbike": {
+"also": [
+[
+"motorcycle types",
+2
+]
+],
+"clash": []
+},
+"sidecar": {
+"also": [
+[
+"cocktails",
+2
+],
+[
+"motorcycle types",
+3
+]
+],
+"clash": []
+},
+"rookie": {
+"also": [
+[
+"words for beginner",
+1
+],
+[
+"hidden birds",
+3
+]
+],
+"clash": []
+},
+"undercut": {
+"also": [
+[
+"hairstyles",
+2
+]
+],
+"clash": []
+},
+"apex": {
+"also": [
+[
+"hidden animals",
+3
+]
+],
+"clash": []
+},
+"halo": {
+"also": [
+[
+"sky phenomena",
+2
+]
+],
+"clash": [
+"angels and spirits",
+"video games",
+"religion words"
+]
+},
+"racing helmet": {
+"also": [],
+"clash": [
+"hats"
+]
+},
+"fire suit": {
+"also": [
+[
+"fire___",
+3
+]
+],
+"clash": [
+"work clothes"
+]
+},
+"marshal": {
+"also": [
+[
+"wild west",
+2
+],
+[
+"military ranks",
+3
+]
+],
+"clash": [
+"police words"
+]
+},
+"penalty": {
+"also": [
+[
+"soccer terms",
+1
+],
+[
+"punishments",
+1
+],
+[
+"rugby terms",
+2
+]
+],
+"clash": []
+},
+"burnout": {
+"also": [
+[
+"mental health words",
+2
+]
+],
+"clash": []
+},
+"speedway": {
+"also": [
+[
+"sports venues",
+2
+]
+],
+"clash": []
+},
+"oval": {
+"also": [
+[
+"2d shapes",
+1
+],
+[
+"round things",
+2
+]
+],
+"clash": [
+"us government"
+]
+},
+"team principal": {
+"also": [],
+"clash": [
+"school staff"
+]
+},
+"photo finish": {
+"also": [
+[
+"horse racing terms",
+2
+],
+[
+"running words",
+3
+]
+],
+"clash": []
+},
+"champagne spray": {
+"also": [],
+"clash": [
+"wines"
+]
+},
+"F1": {
+"also": [
+[
+"keyboard keys",
+2
+]
+],
+"clash": []
+},
+"Indy 500": {
+"also": [
+[
+"famous races",
+1
+],
+[
+"famous sporting events",
+2
+]
+],
+"clash": []
+},
+"Daytona 500": {
+"also": [
+[
+"famous races",
+1
+],
+[
+"famous sporting events",
+2
+]
+],
+"clash": []
+},
+"24 Hours of Le Mans": {
+"also": [
+[
+"famous races",
+2
+],
+[
+"famous sporting events",
+2
+]
+],
+"clash": []
+},
+"Monaco Grand Prix": {
+"also": [
+[
+"famous races",
+1
+],
+[
+"famous sporting events",
+2
+]
+],
+"clash": []
+},
+"Monza": {
+"also": [
+[
+"italian cities",
+3
+]
+],
+"clash": []
+},
+"Silverstone": {
+"also": [
+[
+"hidden numbers",
+3
+]
+],
+"clash": []
+},
+"Daytona": {
+"also": [
+[
+"famous beaches",
+3
+]
+],
+"clash": []
+},
+"Le Mans": {
+"also": [
+[
+"french cities",
+2
+]
+],
+"clash": []
+},
+"Suzuka": {
+"also": [
+[
+"japanese cities",
+3
+]
+],
+"clash": []
+},
+"Indianapolis": {
+"also": [
+[
+"american cities",
+1
+]
+],
+"clash": []
+},
+"Monaco": {
+"also": [
+[
+"tiny countries",
+1
+],
+[
+"european countries",
+1
+],
+[
+"western european countries",
+1
+]
+],
+"clash": [
+"european cities"
+]
+},
+"Spa": {
+"also": [
+[
+"european spa towns",
+2
+],
+[
+"places that are also words",
+3
+],
+[
+"words named after places",
+3
+]
+],
+"clash": [
+"spa"
+]
+},
+"Imola": {
+"also": [
+[
+"italian cities",
+3
+]
+],
+"clash": []
+},
+"Hockenheim": {
+"also": [
+[
+"german cities",
+3
+]
+],
+"clash": []
+},
+"Bathurst": {
+"also": [
+[
+"hidden animals",
+3
+]
+],
+"clash": []
+},
+"Mount Panorama": {
+"also": [],
+"clash": [
+"famous mountains"
+]
+},
+"Catalunya": {
+"also": [
+[
+"spanish regions",
+1
+],
+[
+"hidden animals",
+3
+]
+],
+"clash": []
+},
+"Jerez": {
+"also": [
+[
+"spanish cities",
+2
+]
+],
+"clash": [
+"wines"
+]
+},
+"Phillip Island": {
+"also": [],
+"clash": [
+"famous islands"
+]
+},
+"Goodwood": {
+"also": [
+[
+"double letters",
+3
+]
+],
+"clash": []
+},
+"Brooklands": {
+"also": [
+[
+"hidden birds",
+3
+]
+],
+"clash": []
+},
+"Fuji": {
+"also": [
+[
+"famous mountains",
+1
+],
+[
+"famous volcanoes",
+1
+],
+[
+"japanese landmarks",
+1
+],
+[
+"apple varieties",
+2
+]
+],
+"clash": []
+},
+"Darlington": {
+"also": [
+[
+"british cities",
+3
+]
+],
+"clash": []
+},
+"Long Beach": {
+"also": [
+[
+"american cities",
+2
+]
+],
+"clash": [
+"famous beaches"
+]
+},
+"Sonoma": {
+"also": [
+[
+"wine regions",
+2
+]
+],
+"clash": []
+},
+"Montjuïc": {
+"also": [],
+"clash": [
+"landmarks"
+]
+},
+"Red Bull Ring": {
+"also": [],
+"clash": [
+"soft drinks"
+]
+},
+"stop": {
+"also": [
+[
+"reversible words",
+2
+],
+[
+"red things",
+3
+]
+],
+"clash": [
+"punctuation",
+"giving directions"
+]
+},
+"yield": {
+"also": [],
+"clash": [
+"stock market words"
+]
+},
+"one way": {
+"also": [],
+"clash": [
+"ticket words"
+]
+},
+"slow": {
+"also": [],
+"clash": [
+"tempo words"
+]
+},
+"pedestrian crossing": {
+"also": [
+[
+"parts of a road",
+1
+]
+],
+"clash": []
+},
+"road work": {
+"also": [],
+"clash": [
+"construction site"
+]
+},
+"detour": {
+"also": [
+[
+"road trip words",
+1
+],
+[
+"words from french",
+2
+]
+],
+"clash": [
+"giving directions"
+]
+},
+"dead end": {
+"also": [
+[
+"road types",
+2
+]
+],
+"clash": []
+},
+"no parking": {
+"also": [
+[
+"parking words",
+1
+]
+],
+"clash": []
+},
+"merge": {
+"also": [],
+"clash": [
+"computer actions"
+]
+},
+"exit": {
+"also": [],
+"clash": [
+"giving directions",
+"keyboard keys"
+]
+},
+"railroad crossing": {
+"also": [
+[
+"railway words",
+1
+]
+],
+"clash": []
+},
+"level crossing": {
+"also": [
+[
+"railway words",
+1
+]
+],
+"clash": []
+},
+"roundabout": {
+"also": [
+[
+"giving directions",
+1
+],
+[
+"parts of a road",
+1
+],
+[
+"playground",
+2
+],
+[
+"round things",
+3
+]
+],
+"clash": []
+},
+"speed bump": {
+"also": [
+[
+"parts of a road",
+2
+]
+],
+"clash": []
+},
+"dip": {
+"also": [
+[
+"swimming words",
+2
+]
+],
+"clash": [
+"dips"
+]
+},
+"soft shoulder": {
+"also": [
+[
+"parts of a road",
+2
+]
+],
+"clash": []
+},
+"tow zone": {
+"also": [],
+"clash": [
+"parking words"
+]
+},
+"fire lane": {
+"also": [
+[
+"parking words",
+2
+]
+],
+"clash": []
+},
+"bike lane": {
+"also": [
+[
+"parts of a road",
+1
+],
+[
+"cycling words",
+1
+]
+],
+"clash": []
+},
+"bus lane": {
+"also": [
+[
+"parts of a road",
+1
+]
+],
+"clash": []
+},
+"rest area": {
+"also": [
+[
+"road trip words",
+1
+],
+[
+"american road trip",
+2
+]
+],
+"clash": []
+},
+"divided highway": {
+"also": [
+[
+"road types",
+2
+]
+],
+"clash": []
+},
+"men at work": {
+"also": [
+[
+"famous bands",
+3
+]
+],
+"clash": [
+"construction site"
+]
+},
+"pump": {
+"also": [
+[
+"shoes",
+2
+]
+],
+"clash": [
+"cycling words",
+"bicycle parts",
+"inside the body"
+]
+},
+"gasoline": {
+"also": [
+[
+"fuels",
+1
+]
+],
+"clash": []
+},
+"petrol": {
+"also": [
+[
+"fuels",
+1
+]
+],
+"clash": []
+},
+"diesel": {
+"also": [
+[
+"fuels",
+1
+],
+[
+"engines",
+1
+],
+[
+"words named after people",
+2
+]
+],
+"clash": []
+},
+"unleaded": {
+"also": [
+[
+"fuels",
+2
+]
+],
+"clash": []
+},
+"premium": {
+"also": [],
+"clash": [
+"money words"
+]
+},
+"octane": {
+"also": [
+[
+"chemical compounds",
+3
+],
+[
+"hidden colors",
+3
+]
+],
+"clash": []
+},
+"fuel": {
+"also": [],
+"clash": [
+"fuels"
+]
+},
+"attendant": {
+"also": [
+[
+"hidden animals",
+3
+],
+[
+"hidden numbers",
+3
+]
+],
+"clash": []
+},
+"convenience store": {
+"also": [
+[
+"shops",
+1
+]
+],
+"clash": []
+},
+"air pump": {
+"also": [],
+"clash": [
+"bicycle parts"
+]
+},
+"squeegee": {
+"also": [
+[
+"cleaning items",
+1
+],
+[
+"double letters",
+2
+]
+],
+"clash": []
+},
+"antifreeze": {
+"also": [
+[
+"hidden animals",
+3
+]
+],
+"clash": []
+},
+"coolant": {
+"also": [
+[
+"hidden animals",
+3
+]
+],
+"clash": []
+},
+"kiosk": {
+"also": [
+[
+"words from turkish",
+2
+]
+],
+"clash": [
+"street furniture"
+]
+},
+"cashier": {
+"also": [
+[
+"service jobs",
+1
+],
+[
+"hidden trees",
+3
+]
+],
+"clash": [
+"supermarket"
+]
+},
+"canopy": {
+"also": [
+[
+"rainforest",
+1
+],
+[
+"tree parts",
+3
+]
+],
+"clash": [
+"beds",
+"forest floor"
+]
+},
+"snacks": {
+"also": [
+[
+"road trip words",
+1
+]
+],
+"clash": [
+"lunchbox",
+"snacks"
+]
+},
+"coffee": {
+"also": [
+[
+"hot drinks",
+1
+],
+[
+"drinks",
+1
+],
+[
+"cafe",
+1
+],
+[
+"double letters",
+1
+],
+[
+"shades of brown",
+2
+],
+[
+"words from arabic",
+2
+]
+],
+"clash": [
+"coffee words"
+]
+},
+"ice": {
+"also": [
+[
+"snow and ice",
+1
+],
+[
+"cold things",
+1
+],
+[
+"illegal drugs",
+3
+]
+],
+"clash": [
+"ice words"
+]
+},
+"hot dog": {
+"also": [
+[
+"fast food",
+1
+],
+[
+"street food",
+1
+],
+[
+"fairground food",
+1
+],
+[
+"barbecue foods",
+2
+]
+],
+"clash": [
+"sausages",
+"sandwiches"
+]
+},
+"slushie": {
+"also": [
+[
+"cold things",
+2
+]
+],
+"clash": [
+"frozen desserts",
+"soft drinks"
+]
+},
+"beef jerky": {
+"also": [
+[
+"snacks",
+1
+],
+[
+"cured meats",
+2
+]
+],
+"clash": []
+},
+"lottery ticket": {
+"also": [
+[
+"lottery words",
+1
+]
+],
+"clash": []
+},
+"propane": {
+"also": [
+[
+"fuels",
+1
+],
+[
+"gases",
+1
+]
+],
+"clash": []
+},
+"kerosene": {
+"also": [
+[
+"fuels",
+1
+],
+[
+"hidden colors",
+3
+]
+],
+"clash": []
+},
+"ethanol": {
+"also": [
+[
+"fuels",
+2
+],
+[
+"chemical compounds",
+2
+]
+],
+"clash": []
+},
+"gallon": {
+"also": [
+[
+"volume units",
+1
+],
+[
+"imperial units",
+1
+]
+],
+"clash": []
+},
+"liter": {
+"also": [
+[
+"volume units",
+1
+]
+],
+"clash": []
+},
+"gas can": {
+"also": [
+[
+"containers",
+2
+]
+],
+"clash": []
+},
+"jerry can": {
+"also": [
+[
+"containers",
+2
+]
+],
+"clash": []
+},
+"vacuum": {
+"also": [
+[
+"cleaning appliances",
+1
+],
+[
+"physics words",
+2
+]
+],
+"clash": []
+},
+"restroom": {
+"also": [],
+"clash": [
+"bathroom"
+]
+},
+"road map": {
+"also": [
+[
+"kinds of maps",
+1
+],
+[
+"road trip words",
+2
+]
+],
+"clash": []
+},
+"truck stop": {
+"also": [
+[
+"american road trip",
+2
+]
+],
+"clash": [
+"road trip words"
+]
+},
+"parking garage": {
+"also": [],
+"clash": [
+"garage"
+]
+},
+"meter": {
+"also": [
+[
+"length units",
+1
+],
+[
+"poetry terms",
+2
+]
+],
+"clash": [
+"measuring instruments"
+]
+},
+"parking meter": {
+"also": [
+[
+"street furniture",
+1
+]
+],
+"clash": []
+},
+"valet": {
+"also": [
+[
+"hotel staff",
+1
+],
+[
+"words from french",
+2
+]
+],
+"clash": []
+},
+"permit": {
+"also": [
+[
+"homographs",
+3
+]
+],
+"clash": [
+"legal documents"
+]
+},
+"curb": {
+"also": [
+[
+"parts of a road",
+1
+]
+],
+"clash": []
+},
+"tow truck": {
+"also": [
+[
+"truck types",
+1
+]
+],
+"clash": [
+"emergency vehicles"
+]
+},
+"towed": {
+"also": [
+[
+"homophones",
+2
+]
+],
+"clash": []
+},
+"boot": {
+"also": [
+[
+"shoes",
+1
+],
+[
+"boots",
+1
+],
+[
+"car parts",
+2
+]
+],
+"clash": []
+},
+"fine": {
+"also": [
+[
+"punishments",
+1
+],
+[
+"words for good",
+2
+]
+],
+"clash": []
+},
+"spot": {
+"also": [
+[
+"skin words",
+2
+],
+[
+"reversible words",
+2
+]
+],
+"clash": [
+"patterns"
+]
+},
+"level": {
+"also": [
+[
+"palindromes",
+1
+],
+[
+"measuring tools",
+2
+],
+[
+"gaming words",
+2
+]
+],
+"clash": []
+},
+"ramp": {
+"also": [
+[
+"simple machines",
+1
+],
+[
+"hidden animals",
+3
+]
+],
+"clash": [
+"skateboard tricks"
+]
+},
+"driveway": {
+"also": [
+[
+"parts of a house",
+2
+]
+],
+"clash": []
+},
+"carport": {
+"also": [],
+"clash": [
+"garage"
+]
+},
+"parking brake": {
+"also": [
+[
+"car parts",
+1
+]
+],
+"clash": []
+},
+"traffic warden": {
+"also": [],
+"clash": [
+"police words"
+]
+},
+"subway": {
+"also": [
+[
+"sandwiches",
+3
+]
+],
+"clash": [
+"fast food"
+]
+},
+"metro": {
+"also": [
+[
+"metro systems",
+1
+],
+[
+"famous car models",
+2
+]
+],
+"clash": []
+},
+"underground": {
+"also": [
+[
+"metro systems",
+1
+]
+],
+"clash": []
+},
+"tube": {
+"also": [
+[
+"metro systems",
+1
+]
+],
+"clash": [
+"containers",
+"tv words"
+]
+},
+"tram": {
+"also": [
+[
+"reversible words",
+2
+],
+[
+"hidden animals",
+3
+]
+],
+"clash": []
+},
+"streetcar": {
+"also": [],
+"clash": [
+"train types"
+]
+},
+"trolley": {
+"also": [
+[
+"supermarket",
+1
+],
+[
+"things with wheels",
+1
+]
+],
+"clash": [
+"airport words"
+]
+},
+"light rail": {
+"also": [
+[
+"train types",
+1
+]
+],
+"clash": []
+},
+"monorail": {
+"also": [
+[
+"train types",
+1
+],
+[
+"theme park words",
+2
+]
+],
+"clash": []
+},
+"train": {
+"also": [],
+"clash": [
+"trains",
+"sports verbs",
+"weddings",
+"fitness words"
+]
+},
+"commuter rail": {
+"also": [
+[
+"train types",
+2
+]
+],
+"clash": []
+},
+"ferry": {
+"also": [
+[
+"things that float",
+2
+]
+],
+"clash": []
+},
+"vaporetto": {
+"also": [
+[
+"words from italian",
+3
+]
+],
+"clash": []
+},
+"station": {
+"also": [
+[
+"radio words",
+2
+]
+],
+"clash": [
+"station words"
+]
+},
+"bus stop": {
+"also": [
+[
+"street furniture",
+1
+]
+],
+"clash": []
+},
+"depot": {
+"also": [
+[
+"words from french",
+2
+]
+],
+"clash": []
+},
+"terminus": {
+"also": [
+[
+"station words",
+2
+],
+[
+"railway words",
+2
+]
+],
+"clash": []
+},
+"platform": {
+"also": [
+[
+"station words",
+1
+]
+],
+"clash": [
+"shoes",
+"social media words"
+]
+},
+"route": {
+"also": [
+[
+"homophones",
+3
+]
+],
+"clash": []
+},
+"line": {
+"also": [
+[
+"line types",
+2
+],
+[
+"fishing tackle",
+2
+],
+[
+"theater words",
+2
+]
+],
+"clash": [
+"geometry"
+]
+},
+"hub": {
+"also": [
+[
+"bicycle parts",
+2
+]
+],
+"clash": []
+},
+"interchange": {
+"also": [],
+"clash": [
+"road types"
+]
+},
+"shuttle": {
+"also": [
+[
+"space vehicles",
+2
+]
+],
+"clash": [
+"racket sports"
+]
+},
+"maglev": {
+"also": [
+[
+"train types",
+1
+],
+[
+"portmanteau words",
+2
+]
+],
+"clash": [
+"high-speed trains"
+]
+},
+"people mover": {
+"also": [],
+"clash": [
+"airport words"
+]
+},
+"elevated railway": {
+"also": [],
+"clash": [
+"train types"
+]
+},
+"overground": {
+"also": [
+[
+"metro systems",
+2
+]
+],
+"clash": []
+},
+"S-Bahn": {
+"also": [
+[
+"metro systems",
+2
+]
+],
+"clash": []
+},
+"U-Bahn": {
+"also": [
+[
+"metro systems",
+1
+]
+],
+"clash": []
+},
+"RER": {
+"also": [
+[
+"metro systems",
+2
+]
+],
+"clash": []
+},
+"bullet train": {
+"also": [
+[
+"train types",
+1
+],
+[
+"high-speed trains",
+1
+],
+[
+"fast things",
+1
+],
+[
+"asian transport",
+1
+]
+],
+"clash": []
+},
+"high-speed rail": {
+"also": [],
+"clash": [
+"high-speed trains",
+"train types"
+]
+},
+"double-decker": {
+"also": [
+[
+"things with wheels",
+2
+],
+[
+"red things",
+3
+]
+],
+"clash": [
+"sandwiches"
+]
+},
+"school bus": {
+"also": [
+[
+"yellow things",
+1
+],
+[
+"things with wheels",
+2
+]
+],
+"clash": []
+},
+"coach": {
+"also": [
+[
+"horse-drawn vehicles",
+1
+],
+[
+"parts of a train",
+2
+],
+[
+"things with wheels",
+2
+],
+[
+"words named after places",
+3
+]
+],
+"clash": [
+"sports officials"
+]
+},
+"minibus": {
+"also": [
+[
+"things with wheels",
+2
+]
+],
+"clash": []
+},
+"trolleybus": {
+"also": [
+[
+"things with wheels",
+2
+]
+],
+"clash": []
+},
+"articulated bus": {
+"also": [
+[
+"things with wheels",
+2
+]
+],
+"clash": []
+},
+"bendy bus": {
+"also": [
+[
+"things with wheels",
+2
+]
+],
+"clash": []
+},
+"shuttle bus": {
+"also": [
+[
+"things with wheels",
+2
+]
+],
+"clash": []
+},
+"city bus": {
+"also": [
+[
+"things with wheels",
+2
+]
+],
+"clash": []
+},
+"tour bus": {
+"also": [
+[
+"sightseeing words",
+2
+],
+[
+"things with wheels",
+2
+]
+],
+"clash": []
+},
+"party bus": {
+"also": [
+[
+"things with wheels",
+2
+]
+],
+"clash": []
+},
+"sightseeing bus": {
+"also": [
+[
+"sightseeing words",
+2
+],
+[
+"things with wheels",
+2
+]
+],
+"clash": []
+},
+"Routemaster": {
+"also": [
+[
+"things with wheels",
+2
+],
+[
+"red things",
+3
+]
+],
+"clash": [
+"london landmarks"
+]
+},
+"Greyhound": {
+"also": [
+[
+"dog breeds",
+1
+],
+[
+"hounds",
+1
+],
+[
+"hidden colors",
+3
+]
+],
+"clash": []
+},
+"express bus": {
+"also": [
+[
+"things with wheels",
+2
+]
+],
+"clash": []
+},
+"night bus": {
+"also": [
+[
+"things with wheels",
+2
+]
+],
+"clash": []
+},
+"charter bus": {
+"also": [
+[
+"things with wheels",
+2
+]
+],
+"clash": []
+},
+"motorcoach": {
+"also": [
+[
+"things with wheels",
+2
+]
+],
+"clash": []
+},
+"jitney": {
+"also": [
+[
+"taxis of the world",
+2
+],
+[
+"things with wheels",
+2
+]
+],
+"clash": []
+},
+"chicken bus": {
+"also": [
+[
+"things with wheels",
+2
+]
+],
+"clash": [
+"south american travel"
+]
+},
+"omnibus": {
+"also": [
+[
+"things with wheels",
+2
+]
+],
+"clash": [
+"tv words"
+]
+},
+"electric bus": {
+"also": [
+[
+"things with wheels",
+2
+]
+],
+"clash": []
+},
+"sleeper bus": {
+"also": [
+[
+"things with wheels",
+2
+]
+],
+"clash": []
+},
+"airport shuttle": {
+"also": [
+[
+"airport words",
+1
+],
+[
+"airport",
+1
+],
+[
+"things with wheels",
+2
+]
+],
+"clash": []
+},
+"transit bus": {
+"also": [
+[
+"things with wheels",
+2
+]
+],
+"clash": []
+},
+"hop-on hop-off": {
+"also": [
+[
+"sightseeing words",
+1
+]
+],
+"clash": []
+},
+"open-top bus": {
+"also": [
+[
+"things with wheels",
+2
+]
+],
+"clash": []
+},
+"low-floor bus": {
+"also": [
+[
+"things with wheels",
+2
+]
+],
+"clash": []
+},
+"seat": {
+"also": [
+[
+"parts of parliament",
+2
+],
+[
+"car brands",
+2
+]
+],
+"clash": [
+"seating",
+"in-flight words",
+"election words"
+]
+},
+"bus driver": {
+"also": [
+[
+"service jobs",
+2
+]
+],
+"clash": []
+},
+"aisle": {
+"also": [
+[
+"church parts",
+1
+],
+[
+"supermarket",
+1
+],
+[
+"homophones",
+2
+],
+[
+"silent letter words",
+2
+]
+],
+"clash": [
+"in-flight words"
+]
+},
+"window": {
+"also": [
+[
+"windows and doors",
+1
+],
+[
+"parts of a house",
+1
+],
+[
+"things made of glass",
+1
+]
+],
+"clash": [
+"in-flight words"
+]
+},
+"handrail": {
+"also": [
+[
+"staircase parts",
+1
+],
+[
+"hand___",
+2
+]
+],
+"clash": []
+},
+"bell": {
+"also": [
+[
+"percussion instruments",
+1
+],
+[
+"bicycle parts",
+1
+],
+[
+"church parts",
+2
+],
+[
+"christmas",
+2
+],
+[
+"tent types",
+2
+],
+[
+"aircraft makers",
+2
+],
+[
+"homophones",
+3
+]
+],
+"clash": []
+},
+"passenger": {
+"also": [
+[
+"kinds of travelers",
+1
+]
+],
+"clash": []
+},
+"standing room": {
+"also": [],
+"clash": [
+"concert words"
+]
+},
+"emergency exit": {
+"also": [],
+"clash": [
+"in-flight words",
+"plane parts"
+]
+},
+"luggage rack": {
+"also": [
+[
+"parts of a train",
+2
+]
+],
+"clash": []
+},
+"upper deck": {
+"also": [],
+"clash": [
+"ship parts",
+"cruise words"
+]
+},
+"step": {
+"also": [
+[
+"staircase parts",
+1
+],
+[
+"workout types",
+2
+],
+[
+"reversible words",
+2
+]
+],
+"clash": [
+"dance moves"
+]
+},
+"back seat": {
+"also": [],
+"clash": [
+"road trip words"
+]
+},
+"conductor": {
+"also": [
+[
+"orchestra words",
+1
+],
+[
+"railroad jobs",
+1
+],
+[
+"electricity words",
+2
+]
+],
+"clash": []
+},
+"pole": {
+"also": [
+[
+"nationalities",
+1
+],
+[
+"magnet words",
+2
+],
+[
+"fishing tackle",
+2
+],
+[
+"homophones",
+3
+]
+],
+"clash": [
+"field events"
+]
+},
+"bike rack": {
+"also": [
+[
+"street furniture",
+2
+]
+],
+"clash": []
+},
+"security camera": {
+"also": [
+[
+"smart home",
+2
+],
+[
+"cameras",
+2
+]
+],
+"clash": []
+},
+"fare": {
+"also": [
+[
+"rhymes with bear",
+1
+],
+[
+"homophones",
+2
+]
+],
+"clash": []
+},
+"pass": {
+"also": [
+[
+"soccer terms",
+1
+],
+[
+"mountain features",
+1
+],
+[
+"card game words",
+2
+],
+[
+"american football terms",
+2
+],
+[
+"exam words",
+2
+]
+],
+"clash": []
+},
+"one-way": {
+"also": [],
+"clash": [
+"road signs"
+]
+},
+"validate": {
+"also": [
+[
+"hidden fruits",
+3
+]
+],
+"clash": []
+},
+"season ticket": {
+"also": [],
+"clash": [
+"soccer terms"
+]
+},
+"smartcard": {
+"also": [
+[
+"hidden vehicles",
+3
+]
+],
+"clash": []
+},
+"ticket barrier": {
+"also": [
+[
+"station words",
+1
+]
+],
+"clash": []
+},
+"turnstile": {
+"also": [
+[
+"station words",
+1
+]
+],
+"clash": []
+},
+"punch": {
+"also": [
+[
+"boxing terms",
+1
+],
+[
+"hand actions",
+1
+],
+[
+"drinks",
+2
+],
+[
+"puppets",
+3
+]
+],
+"clash": []
+},
+"ticket inspector": {
+"also": [
+[
+"railroad jobs",
+2
+]
+],
+"clash": []
+},
+"ticket office": {
+"also": [
+[
+"station words",
+1
+]
+],
+"clash": [
+"theater words"
+]
+},
+"booking": {
+"also": [
+[
+"hotel",
+2
+]
+],
+"clash": []
+},
+"reservation": {
+"also": [
+[
+"restaurant words",
+1
+],
+[
+"hotel",
+1
+]
+],
+"clash": []
+},
+"e-ticket": {
+"also": [
+[
+"hidden insects",
+3
+]
+],
+"clash": []
+},
+"refund": {
+"also": [
+[
+"shopping words",
+1
+]
+],
+"clash": []
+},
+"standby": {
+"also": [
+[
+"hidden colors",
+3
+]
+],
+"clash": [
+"airport words"
+]
+},
+"upgrade": {
+"also": [
+[
+"software words",
+2
+]
+],
+"clash": [
+"airport words"
+]
+},
+"first class": {
+"also": [
+[
+"mail words",
+2
+]
+],
+"clash": [
+"in-flight words",
+"social classes"
+]
+},
+"economy class": {
+"also": [],
+"clash": [
+"in-flight words"
+]
+},
+"transfer": {
+"also": [
+[
+"soccer terms",
+2
+],
+[
+"banking words",
+2
+]
+],
+"clash": []
+},
+"zone": {
+"also": [
+[
+"hidden numbers",
+3
+]
+],
+"clash": []
+},
+"tap in": {
+"also": [
+[
+"golf shots",
+3
+]
+],
+"clash": []
+},
+"contactless": {
+"also": [
+[
+"banking words",
+2
+]
+],
+"clash": []
+},
+"barcode": {
+"also": [
+[
+"supermarket",
+2
+]
+],
+"clash": []
+},
+"receipt": {
+"also": [
+[
+"shopping words",
+1
+],
+[
+"in a wallet",
+1
+],
+[
+"silent letter words",
+2
+]
+],
+"clash": []
+},
+"stamp": {
+"also": [
+[
+"mail words",
+1
+],
+[
+"collecting hobbies",
+2
+]
+],
+"clash": [
+"travel documents"
+]
+},
+"sold out": {
+"also": [
+[
+"concert words",
+2
+]
+],
+"clash": []
+},
+"carnet": {
+"also": [
+[
+"words from french",
+3
+],
+[
+"hidden vehicles",
+3
+]
+],
+"clash": []
+},
+"ticket stub": {
+"also": [],
+"clash": [
+"movie theater words",
+"concert words"
+]
+},
+"admit one": {
+"also": [],
+"clash": [
+"movie theater words"
+]
+},
+"commute": {
+"also": [
+[
+"travel verbs",
+1
+]
+],
+"clash": []
+},
+"commuter": {
+"also": [
+[
+"kinds of travelers",
+1
+]
+],
+"clash": []
+},
+"rush hour": {
+"also": [
+[
+"traffic words",
+1
+]
+],
+"clash": []
+},
+"carpool": {
+"also": [
+[
+"road trip words",
+1
+]
+],
+"clash": []
+},
+"delay": {
+"also": [],
+"clash": [
+"airport words",
+"station words"
+]
+},
+"timetable": {
+"also": [
+[
+"station words",
+1
+]
+],
+"clash": [
+"clocks and calendars"
+]
+},
+"connection": {
+"also": [],
+"clash": [
+"airport words"
+]
+},
+"crowded": {
+"also": [
+[
+"hidden birds",
+3
+]
+],
+"clash": []
+},
+"telecommute": {
+"also": [],
+"clash": [
+"home office",
+"workplace words"
+]
+},
+"remote work": {
+"also": [],
+"clash": [
+"home office",
+"workplace words"
+]
+},
+"journey": {
+"also": [
+[
+"journeys",
+1
+]
+],
+"clash": [
+"famous bands"
+]
+},
+"shortcut": {
+"also": [],
+"clash": [
+"software words",
+"giving directions"
+]
+},
+"congestion": {
+"also": [
+[
+"traffic words",
+1
+],
+[
+"symptoms",
+2
+]
+],
+"clash": []
+},
+"suburbs": {
+"also": [
+[
+"parts of a town",
+1
+],
+[
+"kinds of settlements",
+1
+]
+],
+"clash": []
+},
+"suburbia": {
+"also": [
+[
+"parts of a town",
+2
+]
+],
+"clash": []
+},
+"commuter town": {
+"also": [
+[
+"kinds of settlements",
+2
+]
+],
+"clash": []
+},
+"travel mug": {
+"also": [
+[
+"things with handles",
+1
+],
+[
+"travel accessories",
+2
+]
+],
+"clash": []
+},
+"earbuds": {
+"also": [
+[
+"audio gear",
+1
+],
+[
+"wearable tech",
+2
+]
+],
+"clash": []
+},
+"podcast": {
+"also": [
+[
+"radio words",
+2
+]
+],
+"clash": []
+},
+"signal failure": {
+"also": [],
+"clash": [
+"railway words"
+]
+},
+"nine to five": {
+"also": [],
+"clash": [
+"workplace words"
+]
+},
+"cab": {
+"also": [
+[
+"things with wheels",
+2
+],
+[
+"hidden vehicles",
+4
+]
+],
+"clash": [
+"red wines",
+"truck types"
+]
+},
+"taxi": {
+"also": [
+[
+"things with wheels",
+2
+]
+],
+"clash": [
+"air travel",
+"airport words"
+]
+},
+"tuk-tuk": {
+"also": [
+[
+"asian transport",
+1
+],
+[
+"things with wheels",
+2
+]
+],
+"clash": []
+},
+"jeepney": {
+"also": [
+[
+"asian transport",
+1
+],
+[
+"things with wheels",
+2
+]
+],
+"clash": []
+},
+"matatu": {
+"also": [
+[
+"african transport",
+1
+],
+[
+"things with wheels",
+2
+]
+],
+"clash": []
+},
+"dolmuş": {
+"also": [
+[
+"turkish travel words",
+1
+],
+[
+"things with wheels",
+2
+]
+],
+"clash": []
+},
+"pedicab": {
+"also": [
+[
+"things with wheels",
+2
+]
+],
+"clash": [
+"bike types"
+]
+},
+"water taxi": {
+"also": [
+[
+"water___",
+3
+]
+],
+"clash": []
+},
+"rickshaw": {
+"also": [
+[
+"asian transport",
+1
+],
+[
+"words from japanese",
+2
+],
+[
+"things with wheels",
+2
+]
+],
+"clash": []
+},
+"auto rickshaw": {
+"also": [
+[
+"asian transport",
+1
+],
+[
+"things with wheels",
+2
+]
+],
+"clash": []
+},
+"cycle rickshaw": {
+"also": [
+[
+"asian transport",
+1
+],
+[
+"things with wheels",
+2
+]
+],
+"clash": []
+},
+"bajaj": {
+"also": [
+[
+"asian transport",
+2
+],
+[
+"things with wheels",
+2
+]
+],
+"clash": []
+},
+"boda boda": {
+"also": [
+[
+"african transport",
+1
+],
+[
+"things with wheels",
+2
+]
+],
+"clash": []
+},
+"okada": {
+"also": [
+[
+"african transport",
+2
+],
+[
+"things with wheels",
+2
+]
+],
+"clash": []
+},
+"motorcycle taxi": {
+"also": [
+[
+"things with wheels",
+2
+]
+],
+"clash": []
+},
+"marshrutka": {
+"also": [
+[
+"things with wheels",
+2
+]
+],
+"clash": []
+},
+"colectivo": {
+"also": [
+[
+"south american travel",
+1
+],
+[
+"things with wheels",
+2
+]
+],
+"clash": []
+},
+"songthaew": {
+"also": [
+[
+"asian transport",
+2
+],
+[
+"things with wheels",
+2
+]
+],
+"clash": []
+},
+"bemo": {
+"also": [
+[
+"things with wheels",
+2
+],
+[
+"asian transport",
+3
+]
+],
+"clash": []
+},
+"angkot": {
+"also": [
+[
+"things with wheels",
+2
+],
+[
+"asian transport",
+3
+]
+],
+"clash": []
+},
+"becak": {
+"also": [
+[
+"things with wheels",
+2
+],
+[
+"asian transport",
+3
+]
+],
+"clash": []
+},
+"cyclo": {
+"also": [
+[
+"asian transport",
+2
+],
+[
+"things with wheels",
+2
+]
+],
+"clash": []
+},
+"trishaw": {
+"also": [
+[
+"asian transport",
+2
+],
+[
+"things with wheels",
+2
+]
+],
+"clash": []
+},
+"black cab": {
+"also": [
+[
+"black things",
+2
+],
+[
+"things with wheels",
+2
+]
+],
+"clash": [
+"london landmarks"
+]
+},
+"hackney carriage": {
+"also": [
+[
+"horse-drawn vehicles",
+2
+],
+[
+"things with wheels",
+2
+],
+[
+"words named after places",
+3
+]
+],
+"clash": []
+},
+"minicab": {
+"also": [
+[
+"things with wheels",
+2
+]
+],
+"clash": []
+},
+"gypsy cab": {
+"also": [
+[
+"things with wheels",
+2
+]
+],
+"clash": []
+},
+"yellow cab": {
+"also": [
+[
+"yellow things",
+1
+],
+[
+"things with wheels",
+2
+]
+],
+"clash": []
+},
+"Uber": {
+"also": [
+[
+"tech companies",
+1
+],
+[
+"silicon valley companies",
+1
+],
+[
+"brand names used as words",
+2
+]
+],
+"clash": []
+},
+"Lyft": {
+"also": [
+[
+"tech companies",
+2
+],
+[
+"silicon valley companies",
+2
+]
+],
+"clash": []
+},
+"Grab": {
+"also": [
+[
+"hand actions",
+1
+],
+[
+"asian tech companies",
+2
+]
+],
+"clash": []
+},
+"Ola": {
+"also": [],
+"clash": [
+"hello around the world"
+]
+},
+"Bolt": {
+"also": [
+[
+"fixings",
+1
+],
+[
+"olympic legends",
+1
+],
+[
+"famous athletes",
+1
+],
+[
+"european tech companies",
+3
+]
+],
+"clash": [
+"storms"
+]
+},
+"Didi": {
+"also": [
+[
+"asian tech companies",
+3
+]
+],
+"clash": []
+},
+"gharry": {
+"also": [
+[
+"things with wheels",
+2
+]
+],
+"clash": []
+},
+"habal-habal": {
+"also": [
+[
+"things with wheels",
+2
+],
+[
+"asian transport",
+3
+]
+],
+"clash": []
+},
+"tricycle": {
+"also": [
+[
+"bike types",
+1
+],
+[
+"things with wheels",
+1
+],
+[
+"toys",
+2
+]
+],
+"clash": []
+},
+"mototaxi": {
+"also": [
+[
+"things with wheels",
+2
+]
+],
+"clash": []
+},
+"keke": {
+"also": [
+[
+"things with wheels",
+2
+],
+[
+"african transport",
+3
+]
+],
+"clash": []
+},
+"dala dala": {
+"also": [
+[
+"african transport",
+2
+],
+[
+"things with wheels",
+2
+]
+],
+"clash": []
+},
+"tro-tro": {
+"also": [
+[
+"african transport",
+1
+],
+[
+"things with wheels",
+2
+]
+],
+"clash": []
+},
+"taxi brousse": {
+"also": [
+[
+"african transport",
+2
+],
+[
+"things with wheels",
+2
+]
+],
+"clash": []
+},
+"sherut": {
+"also": [
+[
+"things with wheels",
+2
+]
+],
+"clash": []
+},
+"coco taxi": {
+"also": [
+[
+"things with wheels",
+2
+]
+],
+"clash": []
+},
+"calesa": {
+"also": [
+[
+"things with wheels",
+2
+],
+[
+"horse-drawn vehicles",
+3
+]
+],
+"clash": []
+},
+"tonga": {
+"also": [
+[
+"things with wheels",
+2
+],
+[
+"horse-drawn vehicles",
+3
+]
+],
+"clash": []
+},
+"hansom cab": {
+"also": [
+[
+"horse-drawn vehicles",
+1
+],
+[
+"things with wheels",
+2
+],
+[
+"words named after people",
+3
+]
+],
+"clash": []
+},
+"cable car": {
+"also": [
+[
+"ski resort",
+2
+]
+],
+"clash": [
+"south american travel",
+"ski trip"
+]
+},
+"gondola": {
+"also": [
+[
+"words from italian",
+1
+],
+[
+"ski resort",
+2
+],
+[
+"things that float",
+2
+]
+],
+"clash": [
+"ski trip"
+]
+},
+"chairlift": {
+"also": [
+[
+"ski trip",
+1
+],
+[
+"ski resort",
+1
+],
+[
+"skiing words",
+1
+]
+],
+"clash": []
+},
+"funicular": {
+"also": [
+[
+"train types",
+3
+]
+],
+"clash": []
+},
+"T-bar": {
+"also": [
+[
+"ski resort",
+2
+],
+[
+"skiing words",
+2
+]
+],
+"clash": []
+},
+"ski lift": {
+"also": [
+[
+"ski resort",
+1
+],
+[
+"skiing words",
+1
+],
+[
+"ski trip",
+1
+]
+],
+"clash": []
+},
+"rope tow": {
+"also": [
+[
+"skiing words",
+2
+],
+[
+"ski resort",
+2
+]
+],
+"clash": []
+},
+"button lift": {
+"also": [
+[
+"skiing words",
+3
+],
+[
+"ski resort",
+3
+]
+],
+"clash": []
+},
+"poma": {
+"also": [
+[
+"skiing words",
+3
+]
+],
+"clash": []
+},
+"J-bar": {
+"also": [
+[
+"skiing words",
+3
+]
+],
+"clash": []
+},
+"magic carpet": {
+"also": [
+[
+"magic items",
+1
+],
+[
+"arabian nights",
+2
+],
+[
+"skiing words",
+3
+]
+],
+"clash": [
+"flying machines"
+]
+},
+"elevator": {
+"also": [
+[
+"things with buttons",
+1
+],
+[
+"hotel",
+2
+]
+],
+"clash": []
+},
+"escalator": {
+"also": [
+[
+"brand names used as words",
+1
+]
+],
+"clash": [
+"airport words",
+"shopping words"
+]
+},
+"paternoster": {
+"also": [],
+"clash": [
+"religion words"
+]
+},
+"dumbwaiter": {
+"also": [],
+"clash": [
+"restaurant words"
+]
+},
+"cog railway": {
+"also": [
+[
+"train types",
+2
+]
+],
+"clash": []
+},
+"rack railway": {
+"also": [
+[
+"train types",
+2
+]
+],
+"clash": []
+},
+"telecabin": {
+"also": [
+[
+"ski resort",
+3
+]
+],
+"clash": []
+},
+"gondola lift": {
+"also": [
+[
+"ski resort",
+2
+]
+],
+"clash": []
+},
+"platter lift": {
+"also": [
+[
+"skiing words",
+3
+]
+],
+"clash": []
+},
+"stairlift": {
+"also": [],
+"clash": [
+"staircase parts"
+]
+},
+"ski tow": {
+"also": [
+[
+"skiing words",
+2
+],
+[
+"ski resort",
+2
+]
+],
+"clash": []
+},
+"glass elevator": {
+"also": [],
+"clash": [
+"things made of glass"
+]
+},
+"flight": {
+"also": [
+[
+"rhymes with light",
+1
+],
+[
+"darts terms",
+3
+]
+],
+"clash": [
+"staircase parts",
+"collective nouns"
+]
+},
+"takeoff": {
+"also": [],
+"clash": [
+"spaceflight words"
+]
+},
+"landing": {
+"also": [
+[
+"staircase parts",
+2
+]
+],
+"clash": []
+},
+"altitude": {
+"also": [
+[
+"hidden birds",
+3
+]
+],
+"clash": []
+},
+"red-eye": {
+"also": [],
+"clash": [
+"red things"
+]
+},
+"sonic boom": {
+"also": [
+[
+"loud things",
+2
+]
+],
+"clash": []
+},
+"contrail": {
+"also": [],
+"clash": [
+"cloud types",
+"sky phenomena"
+]
+},
+"headwind": {
+"also": [
+[
+"wind words",
+2
+],
+[
+"head___",
+2
+]
+],
+"clash": []
+},
+"tailwind": {
+"also": [
+[
+"wind words",
+2
+]
+],
+"clash": []
+},
+"mayday": {
+"also": [
+[
+"codes and signals",
+1
+]
+],
+"clash": []
+},
+"crosswind": {
+"also": [
+[
+"wind words",
+2
+]
+],
+"clash": []
+},
+"airsickness": {
+"also": [],
+"clash": [
+"symptoms"
+]
+},
+"business class": {
+"also": [],
+"clash": [
+"in-flight words"
+]
+},
+"fear of flying": {
+"also": [
+[
+"phobias",
+1
+]
+],
+"clash": []
+},
+"jet": {
+"also": [
+[
+"things that fly",
+1
+],
+[
+"engines",
+2
+],
+[
+"black things",
+2
+],
+[
+"things with wings",
+2
+],
+[
+"gemstones",
+3
+]
+],
+"clash": []
+},
+"jumbo jet": {
+"also": [
+[
+"things that fly",
+1
+],
+[
+"things with wings",
+2
+]
+],
+"clash": []
+},
+"airliner": {
+"also": [
+[
+"things that fly",
+1
+],
+[
+"things with wings",
+2
+]
+],
+"clash": []
+},
+"biplane": {
+"also": [
+[
+"things that fly",
+1
+],
+[
+"things with wings",
+2
+]
+],
+"clash": []
+},
+"triplane": {
+"also": [
+[
+"things that fly",
+1
+],
+[
+"things with wings",
+2
+]
+],
+"clash": []
+},
+"monoplane": {
+"also": [
+[
+"things that fly",
+1
+],
+[
+"things with wings",
+2
+]
+],
+"clash": []
+},
+"seaplane": {
+"also": [
+[
+"things that fly",
+1
+],
+[
+"sea___",
+2
+],
+[
+"things with wings",
+2
+]
+],
+"clash": []
+},
+"floatplane": {
+"also": [
+[
+"things that fly",
+1
+],
+[
+"things with wings",
+2
+]
+],
+"clash": [
+"things that float"
+]
+},
+"flying boat": {
+"also": [
+[
+"things that fly",
+1
+],
+[
+"things with wings",
+2
+]
+],
+"clash": [
+"boat types"
+]
+},
+"glider": {
+"also": [
+[
+"air sports",
+1
+],
+[
+"things that fly",
+1
+],
+[
+"things with wings",
+2
+]
+],
+"clash": []
+},
+"sailplane": {
+"also": [
+[
+"things that fly",
+1
+],
+[
+"air sports",
+2
+],
+[
+"things with wings",
+2
+]
+],
+"clash": []
+},
+"helicopter": {
+"also": [
+[
+"things that fly",
+1
+],
+[
+"flying machines",
+1
+]
+],
+"clash": []
+},
+"fighter jet": {
+"also": [
+[
+"military vehicles",
+1
+],
+[
+"air force words",
+1
+],
+[
+"things that fly",
+1
+],
+[
+"things with wings",
+2
+]
+],
+"clash": []
+},
+"bomber": {
+"also": [
+[
+"air force words",
+1
+],
+[
+"things that fly",
+1
+],
+[
+"military vehicles",
+2
+],
+[
+"things with wings",
+2
+],
+[
+"silent b words",
+3
+]
+],
+"clash": []
+},
+"stealth bomber": {
+"also": [
+[
+"things that fly",
+1
+],
+[
+"air force words",
+2
+],
+[
+"things with wings",
+2
+]
+],
+"clash": []
+},
+"cargo plane": {
+"also": [
+[
+"things that fly",
+1
+],
+[
+"things with wings",
+2
+]
+],
+"clash": []
+},
+"turboprop": {
+"also": [
+[
+"things that fly",
+1
+],
+[
+"things with wings",
+2
+]
+],
+"clash": []
+},
+"private jet": {
+"also": [
+[
+"things that fly",
+1
+],
+[
+"things with wings",
+2
+]
+],
+"clash": []
+},
+"business jet": {
+"also": [
+[
+"things that fly",
+1
+],
+[
+"things with wings",
+2
+]
+],
+"clash": []
+},
+"regional jet": {
+"also": [
+[
+"things that fly",
+1
+],
+[
+"things with wings",
+2
+]
+],
+"clash": []
+},
+"wide-body": {
+"also": [
+[
+"things that fly",
+1
+],
+[
+"things with wings",
+2
+]
+],
+"clash": []
+},
+"narrow-body": {
+"also": [
+[
+"things that fly",
+1
+],
+[
+"things with wings",
+2
+]
+],
+"clash": []
+},
+"light aircraft": {
+"also": [
+[
+"things that fly",
+1
+],
+[
+"things with wings",
+2
+]
+],
+"clash": []
+},
+"microlight": {
+"also": [
+[
+"things that fly",
+1
+],
+[
+"air sports",
+2
+],
+[
+"things with wings",
+2
+]
+],
+"clash": []
+},
+"ultralight": {
+"also": [
+[
+"things that fly",
+1
+],
+[
+"air sports",
+2
+],
+[
+"things with wings",
+2
+]
+],
+"clash": []
+},
+"crop duster": {
+"also": [
+[
+"things that fly",
+1
+],
+[
+"things with wings",
+2
+],
+[
+"farm vehicles",
+3
+]
+],
+"clash": []
+},
+"bushplane": {
+"also": [
+[
+"things that fly",
+1
+],
+[
+"things with wings",
+2
+]
+],
+"clash": []
+},
+"tiltrotor": {
+"also": [
+[
+"things that fly",
+1
+],
+[
+"things with wings",
+2
+]
+],
+"clash": []
+},
+"jump jet": {
+"also": [
+[
+"things that fly",
+1
+],
+[
+"things with wings",
+2
+],
+[
+"air force words",
+3
+]
+],
+"clash": []
+},
+"spy plane": {
+"also": [
+[
+"things that fly",
+1
+],
+[
+"spy words",
+2
+],
+[
+"things with wings",
+2
+]
+],
+"clash": []
+},
+"air tanker": {
+"also": [
+[
+"things that fly",
+1
+],
+[
+"things with wings",
+2
+]
+],
+"clash": []
+},
+"water bomber": {
+"also": [
+[
+"things that fly",
+1
+],
+[
+"things with wings",
+2
+]
+],
+"clash": [
+"emergency vehicles"
+]
+},
+"trainer": {
+"also": [
+[
+"shoes",
+1
+],
+[
+"things that fly",
+1
+],
+[
+"fitness words",
+2
+],
+[
+"things with wings",
+2
+]
+],
+"clash": [
+"animal jobs"
+]
+},
+"interceptor": {
+"also": [
+[
+"things that fly",
+1
+],
+[
+"things with wings",
+2
+],
+[
+"air force words",
+3
+]
+],
+"clash": []
+},
+"gunship": {
+"also": [
+[
+"things that fly",
+1
+],
+[
+"hidden body parts",
+3
+]
+],
+"clash": [
+"warships"
+]
+},
+"airlifter": {
+"also": [
+[
+"things that fly",
+1
+],
+[
+"things with wings",
+2
+]
+],
+"clash": []
+},
+"supersonic jet": {
+"also": [
+[
+"things that fly",
+1
+],
+[
+"fast things",
+2
+],
+[
+"things with wings",
+2
+]
+],
+"clash": []
+},
+"amphibian": {
+"also": [
+[
+"things that fly",
+1
+],
+[
+"things with wings",
+2
+]
+],
+"clash": [
+"reptiles and amphibians",
+"frogs and toads"
+]
+},
+"air ambulance": {
+"also": [
+[
+"emergency vehicles",
+1
+],
+[
+"things that fly",
+1
+]
+],
+"clash": []
+},
+"propeller plane": {
+"also": [
+[
+"things that fly",
+1
+],
+[
+"things with wings",
+2
+]
+],
+"clash": []
+},
+"wing": {
+"also": [
+[
+"bird body parts",
+1
+],
+[
+"animal body parts",
+1
+],
+[
+"insect body parts",
+1
+],
+[
+"rhymes with ring",
+1
+],
+[
+"rugby terms",
+2
+]
+],
+"clash": [
+"things with wings",
+"car parts",
+"hospital words"
+]
+},
+"cockpit": {
+"also": [],
+"clash": [
+"motor racing"
+]
+},
+"tail": {
+"also": [
+[
+"animal body parts",
+1
+],
+[
+"bird body parts",
+2
+],
+[
+"homophones",
+2
+]
+],
+"clash": [
+"coins"
+]
+},
+"flap": {
+"also": [
+[
+"animal movements",
+2
+]
+],
+"clash": []
+},
+"propeller": {
+"also": [
+[
+"things that spin",
+1
+]
+],
+"clash": []
+},
+"jet engine": {
+"also": [
+[
+"loud things",
+1
+]
+],
+"clash": [
+"engines"
+]
+},
+"nose cone": {
+"also": [],
+"clash": [
+"space vehicles"
+]
+},
+"cabin": {
+"also": [
+[
+"vacation homes",
+1
+],
+[
+"cruise words",
+1
+],
+[
+"houses and homes",
+2
+],
+[
+"hidden vehicles",
+2
+]
+],
+"clash": []
+},
+"galley": {
+"also": [
+[
+"boat types",
+2
+],
+[
+"cruise words",
+3
+]
+],
+"clash": [
+"kitchen"
+]
+},
+"tail fin": {
+"also": [
+[
+"fish body parts",
+2
+]
+],
+"clash": []
+},
+"turbine": {
+"also": [
+[
+"engines",
+2
+],
+[
+"power grid words",
+2
+],
+[
+"things that spin",
+2
+]
+],
+"clash": [
+"renewable energy"
+]
+},
+"pylon": {
+"also": [
+[
+"power grid words",
+1
+]
+],
+"clash": []
+},
+"black box": {
+"also": [
+[
+"___box",
+3
+]
+],
+"clash": [
+"black things"
+]
+},
+"joystick": {
+"also": [
+[
+"game controls",
+1
+],
+[
+"gaming hardware",
+1
+],
+[
+"hidden insects",
+3
+]
+],
+"clash": []
+},
+"yoke": {
+"also": [
+[
+"homophones",
+2
+]
+],
+"clash": [
+"farm",
+"animal-powered travel"
+]
+},
+"altimeter": {
+"also": [
+[
+"measuring instruments",
+2
+]
+],
+"clash": []
+},
+"cowling": {
+"also": [
+[
+"hidden animals",
+3
+],
+[
+"hidden birds",
+3
+]
+],
+"clash": []
+},
+"terminal": {
+"also": [
+[
+"airport",
+1
+],
+[
+"software words",
+2
+]
+],
+"clash": []
+},
+"gate": {
+"also": [
+[
+"airport",
+1
+],
+[
+"garden features",
+1
+],
+[
+"castle parts",
+2
+],
+[
+"homophones",
+2
+]
+],
+"clash": []
+},
+"runway": {
+"also": [
+[
+"airport",
+1
+]
+],
+"clash": [
+"fashion styles"
+]
+},
+"taxiway": {
+"also": [
+[
+"airport",
+1
+]
+],
+"clash": []
+},
+"control tower": {
+"also": [
+[
+"airport",
+1
+]
+],
+"clash": [
+"towers and skyscrapers"
+]
+},
+"check-in": {
+"also": [
+[
+"airport",
+1
+],
+[
+"hotel",
+1
+]
+],
+"clash": []
+},
+"baggage claim": {
+"also": [
+[
+"airport",
+1
+]
+],
+"clash": []
+},
+"security": {
+"also": [
+[
+"airport",
+1
+]
+],
+"clash": []
+},
+"customs": {
+"also": [
+[
+"airport",
+1
+]
+],
+"clash": []
+},
+"immigration": {
+"also": [
+[
+"airport",
+1
+],
+[
+"hidden animals",
+3
+]
+],
+"clash": []
+},
+"passport control": {
+"also": [
+[
+"airport",
+1
+]
+],
+"clash": []
+},
+"departure lounge": {
+"also": [
+[
+"airport",
+1
+]
+],
+"clash": []
+},
+"arrivals": {
+"also": [
+[
+"airport",
+1
+]
+],
+"clash": []
+},
+"departures": {
+"also": [
+[
+"airport",
+1
+]
+],
+"clash": []
+},
+"boarding pass": {
+"also": [
+[
+"airport",
+1
+],
+[
+"travel documents",
+1
+]
+],
+"clash": []
+},
+"boarding": {
+"also": [
+[
+"airport",
+1
+]
+],
+"clash": []
+},
+"carousel": {
+"also": [
+[
+"airport",
+1
+],
+[
+"fairground rides",
+1
+],
+[
+"words from french",
+2
+],
+[
+"hidden vehicles",
+3
+]
+],
+"clash": []
+},
+"duty-free": {
+"also": [
+[
+"airport",
+1
+]
+],
+"clash": []
+},
+"airport lounge": {
+"also": [
+[
+"airport",
+1
+]
+],
+"clash": []
+},
+"concourse": {
+"also": [
+[
+"airport",
+1
+],
+[
+"station words",
+2
+]
+],
+"clash": []
+},
+"jet bridge": {
+"also": [
+[
+"airport",
+1
+]
+],
+"clash": []
+},
+"apron": {
+"also": [
+[
+"work clothes",
+1
+],
+[
+"airport",
+2
+]
+],
+"clash": [
+"kitchen utensils"
+]
+},
+"hangar": {
+"also": [
+[
+"airport",
+1
+],
+[
+"homophones",
+2
+],
+[
+"words from french",
+2
+]
+],
+"clash": []
+},
+"tarmac": {
+"also": [
+[
+"airport",
+1
+],
+[
+"black things",
+2
+],
+[
+"brand names used as words",
+2
+],
+[
+"words named after people",
+3
+]
+],
+"clash": []
+},
+"metal detector": {
+"also": [
+[
+"airport",
+1
+]
+],
+"clash": [
+"treasure"
+]
+},
+"body scanner": {
+"also": [
+[
+"airport",
+1
+]
+],
+"clash": []
+},
+"X-ray": {
+"also": [
+[
+"airport",
+1
+],
+[
+"medical tests",
+1
+],
+[
+"phonetic alphabet",
+1
+],
+[
+"hospital words",
+2
+]
+],
+"clash": []
+},
+"layover": {
+"also": [
+[
+"airport",
+1
+]
+],
+"clash": []
+},
+"connecting flight": {
+"also": [
+[
+"airport",
+1
+]
+],
+"clash": []
+},
+"cancellation": {
+"also": [
+[
+"airport",
+2
+]
+],
+"clash": []
+},
+"bag drop": {
+"also": [
+[
+"airport",
+1
+]
+],
+"clash": []
+},
+"carry-on": {
+"also": [
+[
+"airport",
+1
+],
+[
+"luggage",
+1
+]
+],
+"clash": []
+},
+"hand luggage": {
+"also": [
+[
+"airport",
+1
+],
+[
+"luggage",
+1
+]
+],
+"clash": []
+},
+"checked bag": {
+"also": [
+[
+"airport",
+1
+],
+[
+"luggage",
+2
+]
+],
+"clash": []
+},
+"excess baggage": {
+"also": [
+[
+"airport",
+1
+]
+],
+"clash": []
+},
+"luggage cart": {
+"also": [
+[
+"airport",
+1
+],
+[
+"things with wheels",
+1
+],
+[
+"things with handles",
+2
+]
+],
+"clash": []
+},
+"baggage trolley": {
+"also": [
+[
+"airport",
+1
+],
+[
+"things with wheels",
+1
+],
+[
+"things with handles",
+2
+]
+],
+"clash": []
+},
+"departure board": {
+"also": [
+[
+"airport",
+1
+],
+[
+"station words",
+2
+]
+],
+"clash": []
+},
+"gate agent": {
+"also": [
+[
+"airport",
+2
+]
+],
+"clash": []
+},
+"windsock": {
+"also": [
+[
+"weather instruments",
+1
+],
+[
+"airport",
+2
+]
+],
+"clash": []
+},
+"drop-off": {
+"also": [
+[
+"airport",
+2
+]
+],
+"clash": []
+},
+"rental car": {
+"also": [
+[
+"airport",
+2
+]
+],
+"clash": [
+"cars"
+]
+},
+"transit lounge": {
+"also": [
+[
+"airport",
+2
+]
+],
+"clash": []
+},
+"lost property": {
+"also": [
+[
+"airport",
+2
+]
+],
+"clash": [
+"station words"
+]
+},
+"baggage tag": {
+"also": [
+[
+"airport",
+1
+],
+[
+"travel accessories",
+2
+]
+],
+"clash": [
+"luggage"
+]
+},
+"moving walkway": {
+"also": [
+[
+"airport",
+1
+]
+],
+"clash": []
+},
+"passport": {
+"also": [
+[
+"airport",
+1
+],
+[
+"travel documents",
+1
+],
+[
+"things to pack",
+1
+]
+],
+"clash": []
+},
+"luggage": {
+"also": [
+[
+"airport",
+1
+]
+],
+"clash": [
+"luggage"
+]
+},
+"suitcase": {
+"also": [
+[
+"luggage",
+1
+],
+[
+"airport",
+1
+],
+[
+"things with handles",
+1
+]
+],
+"clash": [
+"things to pack"
+]
+},
+"final call": {
+"also": [
+[
+"airport",
+1
+]
+],
+"clash": []
+},
+"gate change": {
+"also": [
+[
+"airport",
+2
+]
+],
+"clash": []
+},
+"airside": {
+"also": [
+[
+"airport",
+3
+]
+],
+"clash": []
+},
+"landside": {
+"also": [
+[
+"airport",
+3
+]
+],
+"clash": []
+},
+"air traffic control": {
+"also": [
+[
+"airport",
+1
+]
+],
+"clash": []
+},
+"check-in desk": {
+"also": [
+[
+"airport",
+1
+]
+],
+"clash": []
+},
+"lost and found": {
+"also": [
+[
+"airport",
+2
+]
+],
+"clash": [
+"station words"
+]
+},
+"pilot": {
+"also": [
+[
+"tv words",
+2
+],
+[
+"ship crew",
+3
+]
+],
+"clash": [
+"jobs"
+]
+},
+"captain": {
+"also": [
+[
+"ship crew",
+1
+],
+[
+"military ranks",
+1
+],
+[
+"pirate crew",
+1
+]
+],
+"clash": []
+},
+"first officer": {
+"also": [
+[
+"ship crew",
+2
+]
+],
+"clash": []
+},
+"flight attendant": {
+"also": [
+[
+"service jobs",
+1
+]
+],
+"clash": [
+"in-flight words"
+]
+},
+"stewardess": {
+"also": [
+[
+"service jobs",
+2
+]
+],
+"clash": []
+},
+"steward": {
+"also": [
+[
+"ship crew",
+2
+]
+],
+"clash": [
+"sports officials"
+]
+},
+"purser": {
+"also": [
+[
+"ship crew",
+1
+]
+],
+"clash": []
+},
+"navigator": {
+"also": [
+[
+"ship crew",
+2
+],
+[
+"famous car models",
+2
+]
+],
+"clash": [
+"explorers"
+]
+},
+"second officer": {
+"also": [
+[
+"ship crew",
+2
+]
+],
+"clash": []
+},
+"cabin crew": {
+"also": [],
+"clash": [
+"in-flight words"
+]
+},
+"chief steward": {
+"also": [
+[
+"ship crew",
+3
+]
+],
+"clash": []
+},
+"radio operator": {
+"also": [
+[
+"ship crew",
+3
+]
+],
+"clash": []
+},
+"air marshal": {
+"also": [
+[
+"military ranks",
+3
+]
+],
+"clash": []
+},
+"Delta": {
+"also": [
+[
+"greek letters",
+1
+],
+[
+"river features",
+1
+]
+],
+"clash": []
+},
+"United": {
+"also": [],
+"clash": [
+"european soccer clubs"
+]
+},
+"Southwest": {
+"also": [
+[
+"compass directions",
+1
+]
+],
+"clash": []
+},
+"Qantas": {
+"also": [
+[
+"acronyms",
+2
+],
+[
+"hidden animals",
+3
+]
+],
+"clash": []
+},
+"Allegiant": {
+"also": [
+[
+"hidden animals",
+3
+]
+],
+"clash": []
+},
+"Gol": {
+"also": [],
+"clash": [
+"soccer terms"
+]
+},
+"Azul": {
+"also": [
+[
+"colors in spanish",
+2
+]
+],
+"clash": []
+},
+"Iberia": {
+"also": [],
+"clash": [
+"peninsulas"
+]
+},
+"SAS": {
+"also": [
+[
+"palindromes",
+2
+]
+],
+"clash": []
+},
+"Swiss": {
+"also": [
+[
+"nationalities",
+1
+]
+],
+"clash": []
+},
+"Norwegian": {
+"also": [
+[
+"nationalities",
+1
+],
+[
+"european languages",
+1
+],
+[
+"germanic languages",
+2
+],
+[
+"cruise lines",
+3
+]
+],
+"clash": []
+},
+"Condor": {
+"also": [
+[
+"vultures",
+1
+],
+[
+"birds of prey",
+1
+],
+[
+"andean animals",
+1
+],
+[
+"south american animals",
+1
+],
+[
+"words from south american languages",
+2
+]
+],
+"clash": []
+},
+"Volotea": {
+"also": [
+[
+"hidden colors",
+3
+]
+],
+"clash": []
+},
+"Monarch": {
+"also": [
+[
+"butterflies and moths",
+1
+],
+[
+"royal titles",
+2
+]
+],
+"clash": [
+"monarchs"
+]
+},
+"Thomas Cook": {
+"also": [],
+"clash": [
+"explorers"
+]
+},
+"Sabena": {
+"also": [
+[
+"acronyms",
+3
+]
+],
+"clash": []
+},
+"ANA": {
+"also": [
+[
+"palindromes",
+2
+]
+],
+"clash": []
+},
+"Garuda": {
+"also": [
+[
+"mythical creatures",
+2
+],
+[
+"winged beasts",
+2
+]
+],
+"clash": [
+"hindu gods"
+]
+},
+"IndiGo": {
+"also": [
+[
+"shades of blue",
+1
+],
+[
+"shades of purple",
+2
+]
+],
+"clash": []
+},
+"Lion Air": {
+"also": [],
+"clash": [
+"big cats"
+]
+},
+"Peach": {
+"also": [
+[
+"stone fruits",
+1
+],
+[
+"fruits",
+1
+],
+[
+"shades of orange",
+2
+],
+[
+"shades of pink",
+2
+]
+],
+"clash": []
+},
+"SriLankan": {
+"also": [
+[
+"nationalities",
+2
+]
+],
+"clash": []
+},
+"Batik Air": {
+"also": [],
+"clash": [
+"fabric prints"
+]
+},
+"Emirates": {
+"also": [
+[
+"hidden animals",
+3
+]
+],
+"clash": [
+"middle eastern countries"
+]
+},
+"hot air balloon": {
+"also": [
+[
+"things that fly",
+1
+],
+[
+"air sports",
+2
+]
+],
+"clash": [
+"things that float"
+]
+},
+"airship": {
+"also": [
+[
+"things that fly",
+1
+],
+[
+"hidden vehicles",
+3
+],
+[
+"hidden body parts",
+3
+]
+],
+"clash": []
+},
+"zeppelin": {
+"also": [
+[
+"things that fly",
+1
+],
+[
+"words named after people",
+2
+]
+],
+"clash": [
+"famous bands"
+]
+},
+"blimp": {
+"also": [
+[
+"things that fly",
+1
+]
+],
+"clash": []
+},
+"hang glider": {
+"also": [
+[
+"air sports",
+1
+],
+[
+"things that fly",
+1
+],
+[
+"things with wings",
+2
+]
+],
+"clash": []
+},
+"paraglider": {
+"also": [
+[
+"air sports",
+1
+],
+[
+"things that fly",
+1
+]
+],
+"clash": []
+},
+"autogyro": {
+"also": [
+[
+"things that fly",
+1
+]
+],
+"clash": []
+},
+"gyrocopter": {
+"also": [
+[
+"things that fly",
+1
+]
+],
+"clash": []
+},
+"ornithopter": {
+"also": [
+[
+"things that fly",
+1
+],
+[
+"things with wings",
+2
+]
+],
+"clash": []
+},
+"jetpack": {
+"also": [
+[
+"things that fly",
+1
+]
+],
+"clash": []
+},
+"kite": {
+"also": [
+[
+"birds of prey",
+1
+],
+[
+"things that fly",
+1
+],
+[
+"toys",
+1
+],
+[
+"rhymes with light",
+1
+],
+[
+"2d shapes",
+2
+]
+],
+"clash": [
+"outdoor games"
+]
+},
+"drone": {
+"also": [
+[
+"gadgets",
+1
+],
+[
+"things that fly",
+1
+],
+[
+"bees and wasps",
+2
+],
+[
+"male animals",
+2
+],
+[
+"robots",
+2
+],
+[
+"hidden numbers",
+3
+]
+],
+"clash": []
+},
+"quadcopter": {
+"also": [
+[
+"things that fly",
+1
+],
+[
+"gadgets",
+2
+]
+],
+"clash": []
+},
+"rocket": {
+"also": [
+[
+"space vehicles",
+1
+],
+[
+"fast things",
+1
+],
+[
+"things that fly",
+1
+],
+[
+"engines",
+2
+],
+[
+"famous locomotives",
+2
+],
+[
+"leafy greens",
+2
+]
+],
+"clash": []
+},
+"space shuttle": {
+"also": [
+[
+"space vehicles",
+1
+],
+[
+"things that fly",
+1
+],
+[
+"things with wings",
+2
+]
+],
+"clash": []
+},
+"spaceship": {
+"also": [
+[
+"space vehicles",
+1
+],
+[
+"things that fly",
+1
+],
+[
+"hidden body parts",
+3
+]
+],
+"clash": []
+},
+"flying saucer": {
+"also": [
+[
+"things that fly",
+1
+],
+[
+"candy",
+3
+]
+],
+"clash": [
+"space vehicles"
+]
+},
+"gas balloon": {
+"also": [
+[
+"things that fly",
+1
+]
+],
+"clash": []
+},
+"dirigible": {
+"also": [
+[
+"things that fly",
+1
+]
+],
+"clash": []
+},
+"paramotor": {
+"also": [
+[
+"things that fly",
+1
+],
+[
+"air sports",
+2
+],
+[
+"portmanteau words",
+3
+],
+[
+"hidden animals",
+3
+]
+],
+"clash": []
+},
+"powered parachute": {
+"also": [
+[
+"things that fly",
+1
+],
+[
+"air sports",
+2
+]
+],
+"clash": []
+},
+"flying car": {
+"also": [
+[
+"things that fly",
+1
+]
+],
+"clash": []
+},
+"rocket pack": {
+"also": [
+[
+"things that fly",
+1
+]
+],
+"clash": []
+},
+"Wright Flyer": {
+"also": [
+[
+"things that fly",
+1
+],
+[
+"things with wings",
+2
+]
+],
+"clash": [
+"american inventions",
+"inventors"
+]
+},
+"aerial screw": {
+"also": [
+[
+"things that fly",
+1
+]
+],
+"clash": []
+},
+"hoverboard": {
+"also": [
+[
+"scooters and skates",
+1
+],
+[
+"___board",
+2
+]
+],
+"clash": []
+},
+"flying carpet": {
+"also": [
+[
+"magic items",
+1
+],
+[
+"arabian nights",
+1
+],
+[
+"things that fly",
+1
+]
+],
+"clash": []
+},
+"rocket ship": {
+"also": [
+[
+"space vehicles",
+1
+],
+[
+"things that fly",
+1
+]
+],
+"clash": []
+},
+"weather balloon": {
+"also": [
+[
+"weather instruments",
+1
+],
+[
+"things that fly",
+1
+]
+],
+"clash": []
+},
+"man-powered aircraft": {
+"also": [
+[
+"things that fly",
+1
+],
+[
+"things with wings",
+2
+]
+],
+"clash": []
+},
+"Heathrow": {
+"also": [],
+"clash": [
+"london landmarks"
+]
+},
+"JFK": {
+"also": [
+[
+"us presidents",
+1
+],
+[
+"places named after people",
+2
+]
+],
+"clash": []
+},
+"Schiphol": {
+"also": [
+[
+"hidden body parts",
+3
+]
+],
+"clash": []
+},
+"LaGuardia": {
+"also": [
+[
+"places named after people",
+2
+]
+],
+"clash": []
+},
+"Newark": {
+"also": [
+[
+"american cities",
+2
+]
+],
+"clash": []
+},
+"Dulles": {
+"also": [
+[
+"places named after people",
+3
+]
+],
+"clash": []
+},
+"Luton": {
+"also": [
+[
+"british cities",
+2
+]
+],
+"clash": []
+},
+"Logan": {
+"also": [
+[
+"boys' names",
+2
+],
+[
+"places named after people",
+3
+]
+],
+"clash": []
+},
+"Incheon": {
+"also": [],
+"clash": [
+"asian cities"
+]
+},
+"Hartsfield-Jackson": {
+"also": [
+[
+"places named after people",
+3
+]
+],
+"clash": []
+},
+"Midway": {
+"also": [
+[
+"world war ii battles",
+2
+],
+[
+"places that are also words",
+3
+]
+],
+"clash": []
+},
+"Soekarno-Hatta": {
+"also": [
+[
+"places named after people",
+3
+]
+],
+"clash": []
+},
+"Kingsford Smith": {
+"also": [
+[
+"places named after people",
+3
+]
+],
+"clash": [
+"australian explorers"
+]
+},
+"Pearson": {
+"also": [
+[
+"places named after people",
+3
+],
+[
+"hidden fruits",
+3
+]
+],
+"clash": []
+},
+"El Dorado": {
+"also": [
+[
+"legendary places",
+1
+],
+[
+"words from spanish",
+2
+]
+],
+"clash": []
+},
+"Ben Gurion": {
+"also": [
+[
+"places named after people",
+2
+],
+[
+"famous leaders",
+3
+]
+],
+"clash": []
+},
+"Jomo Kenyatta": {
+"also": [
+[
+"african historical leaders",
+2
+],
+[
+"places named after people",
+2
+]
+],
+"clash": []
+},
+"OR Tambo": {
+"also": [
+[
+"places named after people",
+2
+],
+[
+"african historical leaders",
+3
+]
+],
+"clash": []
+},
+"Shannon": {
+"also": [
+[
+"european rivers",
+2
+],
+[
+"girls' names",
+2
+],
+[
+"irish names",
+2
+]
+],
+"clash": []
+},
+"McCarran": {
+"also": [
+[
+"places named after people",
+3
+],
+[
+"double letters",
+3
+]
+],
+"clash": []
+},
+"Lambert": {
+"also": [
+[
+"hidden animals",
+3
+]
+],
+"clash": []
+},
+"Reagan National": {
+"also": [
+[
+"places named after people",
+2
+]
+],
+"clash": []
+},
+"Atatürk": {
+"also": [
+[
+"famous leaders",
+1
+],
+[
+"places named after people",
+2
+]
+],
+"clash": []
+},
+"Lindbergh Field": {
+"also": [
+[
+"places named after people",
+2
+]
+],
+"clash": []
+},
+"Charles de Gaulle": {
+"also": [
+[
+"famous leaders",
+2
+],
+[
+"famous generals",
+2
+],
+[
+"places named after people",
+2
+]
+],
+"clash": []
+},
+"Indira Gandhi": {
+"also": [
+[
+"famous women in history",
+2
+],
+[
+"famous leaders",
+2
+],
+[
+"places named after people",
+2
+]
+],
+"clash": []
+},
+"O'Hare": {
+"also": [
+[
+"places named after people",
+3
+],
+[
+"hidden animals",
+3
+]
+],
+"clash": []
+},
+"turbulence": {
+"also": [],
+"clash": [
+"wind words",
+"weather"
+]
+},
+"headphones": {
+"also": [
+[
+"audio gear",
+1
+],
+[
+"head___",
+2
+],
+[
+"hidden numbers",
+3
+]
+],
+"clash": []
+},
+"reading light": {
+"also": [
+[
+"lights and lamps",
+2
+]
+],
+"clash": []
+},
+"life vest": {
+"also": [],
+"clash": [
+"things that float",
+"water sports"
+]
+},
+"oxygen mask": {
+"also": [
+[
+"medical equipment",
+2
+]
+],
+"clash": [
+"scuba words"
+]
+},
+"blanket": {
+"also": [
+[
+"bedding",
+1
+],
+[
+"soft furnishings",
+1
+],
+[
+"cozy things",
+1
+]
+],
+"clash": [
+"picnic basket"
+]
+},
+"pillow": {
+"also": [
+[
+"bedding",
+1
+],
+[
+"soft furnishings",
+1
+],
+[
+"soft things",
+1
+],
+[
+"cozy things",
+1
+]
+],
+"clash": []
+},
+"eye mask": {
+"also": [
+[
+"travel accessories",
+1
+]
+],
+"clash": [
+"sleep words"
+]
+},
+"earplugs": {
+"also": [
+[
+"travel accessories",
+1
+]
+],
+"clash": [
+"sleep words"
+]
+},
+"Wi-Fi": {
+"also": [
+[
+"internet words",
+1
+],
+[
+"networking",
+1
+]
+],
+"clash": [
+"hotel"
+]
+},
+"airplane mode": {
+"also": [
+[
+"phone features",
+1
+]
+],
+"clash": []
+},
+"lavatory": {
+"also": [],
+"clash": [
+"bathroom"
+]
+},
+"footrest": {
+"also": [
+[
+"foot___",
+2
+]
+],
+"clash": []
+},
+"landing card": {
+"also": [
+[
+"travel documents",
+2
+]
+],
+"clash": []
+},
+"peanuts": {
+"also": [
+[
+"nuts",
+1
+],
+[
+"snacks",
+1
+]
+],
+"clash": [
+"comic book words"
+]
+},
+"Antonov": {
+"also": [
+[
+"hidden animals",
+3
+]
+],
+"clash": []
+},
+"Bombardier": {
+"also": [
+[
+"military ranks",
+3
+]
+],
+"clash": [
+"beetles"
+]
+},
+"Douglas": {
+"also": [
+[
+"boys' names",
+2
+]
+],
+"clash": []
+},
+"Sikorsky": {
+"also": [],
+"clash": [
+"inventors"
+]
+},
+"Bell": {
+"also": [
+[
+"percussion instruments",
+1
+],
+[
+"bicycle parts",
+1
+],
+[
+"on a bus",
+2
+]
+],
+"clash": []
+},
+"Piper": {
+"also": [
+[
+"girls' names",
+2
+],
+[
+"surnames that are jobs",
+2
+]
+],
+"clash": [
+"fairy tale characters"
+]
+},
+"Gulfstream": {
+"also": [
+[
+"tides and currents",
+1
+]
+],
+"clash": []
+},
+"Ilyushin": {
+"also": [
+[
+"hidden body parts",
+3
+]
+],
+"clash": []
+},
+"MiG": {
+"also": [
+[
+"acronyms",
+3
+]
+],
+"clash": []
+},
+"Yakovlev": {
+"also": [
+[
+"hidden animals",
+3
+]
+],
+"clash": []
+},
+"Hawker": {
+"also": [
+[
+"street market",
+3
+],
+[
+"hidden birds",
+3
+]
+],
+"clash": []
+},
+"Messerschmitt": {
+"also": [
+[
+"double letters",
+3
+]
+],
+"clash": []
+},
+"Kawasaki": {
+"also": [
+[
+"motorcycle brands",
+1
+]
+],
+"clash": []
+},
+"COMAC": {
+"also": [
+[
+"acronyms",
+3
+]
+],
+"clash": []
+},
+"Pilatus": {
+"also": [
+[
+"alpine peaks",
+3
+]
+],
+"clash": []
+},
+"Cirrus": {
+"also": [
+[
+"cloud types",
+1
+]
+],
+"clash": []
+},
+"Mooney": {
+"also": [
+[
+"hidden numbers",
+3
+]
+],
+"clash": []
+},
+"Robinson": {
+"also": [
+[
+"hidden birds",
+3
+]
+],
+"clash": []
+},
+"Blériot": {
+"also": [],
+"clash": [
+"inventors"
+]
+},
+"SPAD": {
+"also": [
+[
+"acronyms",
+3
+]
+],
+"clash": []
+},
+"voyage": {
+"also": [
+[
+"journeys",
+1
+],
+[
+"words from french",
+2
+]
+],
+"clash": []
+},
+"fleet": {
+"also": [
+[
+"navy words",
+1
+],
+[
+"collective nouns",
+2
+]
+],
+"clash": [
+"words for fast"
+]
+},
+"convoy": {
+"also": [
+[
+"road trip words",
+1
+],
+[
+"words from french",
+3
+]
+],
+"clash": [
+"military units"
+]
+},
+"shipwreck": {
+"also": [
+[
+"shipwreck coast words",
+1
+],
+[
+"pirate words",
+2
+],
+[
+"silent w words",
+2
+],
+[
+"hidden body parts",
+3
+]
+],
+"clash": [
+"treasure"
+]
+},
+"flotilla": {
+"also": [
+[
+"navy words",
+2
+],
+[
+"words from spanish",
+2
+],
+[
+"collective nouns",
+3
+]
+],
+"clash": []
+},
+"armada": {
+"also": [
+[
+"words from spanish",
+1
+],
+[
+"navy words",
+2
+],
+[
+"hidden body parts",
+3
+]
+],
+"clash": [
+"famous battles"
+]
+},
+"navy": {
+"also": [
+[
+"shades of blue",
+1
+],
+[
+"military",
+1
+]
+],
+"clash": [
+"navy words"
+]
+},
+"maritime": {
+"also": [],
+"clash": [
+"navy words"
+]
+},
+"seasick": {
+"also": [
+[
+"sea___",
+2
+],
+[
+"cruise words",
+2
+]
+],
+"clash": [
+"symptoms"
+]
+},
+"wake": {
+"also": [
+[
+"rhymes with cake",
+1
+],
+[
+"sleep words",
+2
+]
+],
+"clash": [
+"tombs and burials"
+]
+},
+"launch": {
+"also": [
+[
+"spaceflight words",
+1
+]
+],
+"clash": []
+},
+"maiden voyage": {
+"also": [],
+"clash": [
+"cruise words"
+]
+},
+"seaworthy": {
+"also": [
+[
+"sea___",
+2
+]
+],
+"clash": []
+},
+"man overboard": {
+"also": [],
+"clash": [
+"pirate words"
+]
+},
+"abandon ship": {
+"also": [],
+"clash": [
+"pirate words"
+]
+},
+"ahoy": {
+"also": [
+[
+"pirate words",
+1
+],
+[
+"greetings",
+2
+]
+],
+"clash": []
+},
+"landlubber": {
+"also": [
+[
+"pirate words",
+2
+]
+],
+"clash": []
+},
+"sea legs": {
+"also": [
+[
+"cruise words",
+2
+]
+],
+"clash": []
+},
+"cargo": {
+"also": [
+[
+"words from spanish",
+2
+],
+[
+"hidden vehicles",
+3
+]
+],
+"clash": []
+},
+"freight": {
+"also": [
+[
+"words from dutch",
+3
+],
+[
+"hidden numbers",
+3
+]
+],
+"clash": []
+},
+"passage": {
+"also": [
+[
+"journeys",
+2
+]
+],
+"clash": []
+},
+"seafaring": {
+"also": [
+[
+"sea___",
+2
+]
+],
+"clash": []
+},
+"anchor": {
+"also": [
+[
+"ship parts",
+1
+],
+[
+"journalism words",
+2
+]
+],
+"clash": [
+"pirate words",
+"symbols"
+]
+},
+"nautical mile": {
+"also": [
+[
+"length units",
+2
+]
+],
+"clash": []
+},
+"waterline": {
+"also": [
+[
+"water___",
+2
+]
+],
+"clash": []
+},
+"displacement": {
+"also": [],
+"clash": [
+"physics words"
+]
+},
+"yacht": {
+"also": [
+[
+"words from dutch",
+1
+],
+[
+"silent letter words",
+2
+],
+[
+"things that float",
+2
+]
+],
+"clash": [
+"sailing sports"
+]
+},
+"cruise ship": {
+"also": [
+[
+"cruise words",
+1
+],
+[
+"things that float",
+2
+]
+],
+"clash": []
+},
+"ocean liner": {
+"also": [
+[
+"things that float",
+2
+]
+],
+"clash": [
+"cruise words"
+]
+},
+"liner": {
+"also": [
+[
+"things that float",
+2
+]
+],
+"clash": [
+"makeup"
+]
+},
+"speedboat": {
+"also": [
+[
+"fast things",
+2
+],
+[
+"things that float",
+2
+]
+],
+"clash": []
+},
+"motorboat": {
+"also": [
+[
+"things that float",
+2
+]
+],
+"clash": []
+},
+"submarine": {
+"also": [
+[
+"warships",
+1
+],
+[
+"sandwiches",
+2
+],
+[
+"things that float",
+2
+]
+],
+"clash": [
+"military vehicles"
+]
+},
+"battleship": {
+"also": [
+[
+"warships",
+1
+],
+[
+"board games",
+2
+],
+[
+"things that float",
+2
+],
+[
+"hidden animals",
+3
+]
+],
+"clash": []
+},
+"aircraft carrier": {
+"also": [
+[
+"warships",
+1
+],
+[
+"things that float",
+2
+]
+],
+"clash": []
+},
+"destroyer": {
+"also": [
+[
+"warships",
+1
+],
+[
+"things that float",
+2
+]
+],
+"clash": []
+},
+"frigate": {
+"also": [
+[
+"warships",
+1
+],
+[
+"things that float",
+2
+]
+],
+"clash": [
+"seabirds"
+]
+},
+"cruiser": {
+"also": [
+[
+"warships",
+1
+],
+[
+"motorcycle types",
+2
+],
+[
+"things that float",
+2
+]
+],
+"clash": []
+},
+"corvette": {
+"also": [
+[
+"warships",
+1
+],
+[
+"things that float",
+2
+],
+[
+"famous car models",
+2
+]
+],
+"clash": []
+},
+"hovercraft": {
+"also": [
+[
+"things that float",
+2
+]
+],
+"clash": []
+},
+"hydrofoil": {
+"also": [
+[
+"things that float",
+2
+]
+],
+"clash": []
+},
+"catamaran": {
+"also": [
+[
+"things that float",
+2
+],
+[
+"hidden animals",
+3
+]
+],
+"clash": []
+},
+"trimaran": {
+"also": [
+[
+"things that float",
+2
+]
+],
+"clash": []
+},
+"jet ski": {
+"also": [
+[
+"brand names used as words",
+2
+],
+[
+"things that float",
+2
+]
+],
+"clash": [
+"water sports",
+"beach"
+]
+},
+"houseboat": {
+"also": [
+[
+"houses and homes",
+2
+],
+[
+"things that float",
+2
+]
+],
+"clash": [
+"vacation homes"
+]
+},
+"paddle steamer": {
+"also": [
+[
+"things that float",
+2
+]
+],
+"clash": []
+},
+"steamboat": {
+"also": [
+[
+"things that float",
+2
+]
+],
+"clash": []
+},
+"riverboat": {
+"also": [
+[
+"things that float",
+2
+]
+],
+"clash": []
+},
+"steamship": {
+"also": [
+[
+"things that float",
+2
+]
+],
+"clash": []
+},
+"pontoon boat": {
+"also": [
+[
+"things that float",
+2
+]
+],
+"clash": []
+},
+"minesweeper": {
+"also": [
+[
+"warships",
+1
+],
+[
+"things that float",
+2
+]
+],
+"clash": [
+"video games"
+]
+},
+"U-boat": {
+"also": [
+[
+"warships",
+1
+],
+[
+"world war ii terms",
+2
+],
+[
+"words from german",
+2
+],
+[
+"things that float",
+2
+]
+],
+"clash": []
+},
+"gunboat": {
+"also": [
+[
+"warships",
+2
+],
+[
+"things that float",
+2
+]
+],
+"clash": []
+},
+"dreadnought": {
+"also": [
+[
+"warships",
+2
+],
+[
+"things that float",
+2
+]
+],
+"clash": []
+},
+"patrol boat": {
+"also": [
+[
+"warships",
+2
+],
+[
+"things that float",
+2
+]
+],
+"clash": []
+},
+"landing craft": {
+"also": [
+[
+"military vehicles",
+2
+],
+[
+"things that float",
+2
+]
+],
+"clash": []
+},
+"torpedo boat": {
+"also": [
+[
+"warships",
+2
+],
+[
+"things that float",
+2
+]
+],
+"clash": []
+},
+"PT boat": {
+"also": [
+[
+"warships",
+2
+],
+[
+"things that float",
+2
+]
+],
+"clash": []
+},
+"warship": {
+"also": [
+[
+"things that float",
+2
+]
+],
+"clash": [
+"warships"
+]
+},
+"cabin cruiser": {
+"also": [
+[
+"things that float",
+2
+]
+],
+"clash": []
+},
+"power boat": {
+"also": [
+[
+"things that float",
+2
+]
+],
+"clash": []
+},
+"superyacht": {
+"also": [
+[
+"things that float",
+2
+]
+],
+"clash": []
+},
+"megayacht": {
+"also": [
+[
+"things that float",
+2
+]
+],
+"clash": []
+},
+"airboat": {
+"also": [
+[
+"things that float",
+2
+]
+],
+"clash": []
+},
+"bass boat": {
+"also": [
+[
+"things that float",
+2
+]
+],
+"clash": []
+},
+"ski boat": {
+"also": [
+[
+"things that float",
+2
+]
+],
+"clash": []
+},
+"cigarette boat": {
+"also": [
+[
+"things that float",
+2
+]
+],
+"clash": [
+"smoking words"
+]
+},
+"narrowboat": {
+"also": [
+[
+"things that float",
+2
+]
+],
+"clash": []
+},
+"showboat": {
+"also": [
+[
+"things that float",
+2
+]
+],
+"clash": []
+},
+"paddle wheeler": {
+"also": [
+[
+"things that float",
+2
+]
+],
+"clash": []
+},
+"packet ship": {
+"also": [
+[
+"things that float",
+2
+]
+],
+"clash": []
+},
+"troopship": {
+"also": [
+[
+"things that float",
+2
+],
+[
+"warships",
+3
+]
+],
+"clash": []
+},
+"hospital ship": {
+"also": [
+[
+"things that float",
+2
+]
+],
+"clash": []
+},
+"ironclad": {
+"also": [
+[
+"warships",
+2
+],
+[
+"things that float",
+2
+]
+],
+"clash": []
+},
+"sloop-of-war": {
+"also": [
+[
+"things that float",
+2
+],
+[
+"warships",
+3
+]
+],
+"clash": []
+},
+"nuclear submarine": {
+"also": [
+[
+"warships",
+1
+],
+[
+"things that float",
+2
+]
+],
+"clash": []
+},
+"canoe": {
+"also": [
+[
+"rhymes with blue",
+1
+],
+[
+"words from native american languages",
+2
+],
+[
+"things that float",
+2
+]
+],
+"clash": [
+"water sports"
+]
+},
+"kayak": {
+"also": [
+[
+"palindromes",
+1
+],
+[
+"words from native american languages",
+2
+],
+[
+"things that float",
+2
+],
+[
+"hidden animals",
+3
+]
+],
+"clash": [
+"water sports"
+]
+},
+"dinghy": {
+"also": [
+[
+"words from hindi",
+2
+],
+[
+"things that float",
+2
+]
+],
+"clash": []
+},
+"rowboat": {
+"also": [
+[
+"things that float",
+2
+]
+],
+"clash": []
+},
+"punt": {
+"also": [
+[
+"american football terms",
+2
+],
+[
+"rugby terms",
+2
+],
+[
+"betting words",
+2
+],
+[
+"things that float",
+2
+]
+],
+"clash": []
+},
+"raft": {
+"also": [
+[
+"things that float",
+1
+]
+],
+"clash": []
+},
+"skiff": {
+"also": [
+[
+"things that float",
+2
+]
+],
+"clash": []
+},
+"pedal boat": {
+"also": [
+[
+"things that float",
+2
+]
+],
+"clash": [
+"beach vacation"
+]
+},
+"paddleboat": {
+"also": [
+[
+"things that float",
+2
+]
+],
+"clash": []
+},
+"inflatable": {
+"also": [
+[
+"beach gear",
+2
+],
+[
+"things that float",
+2
+]
+],
+"clash": []
+},
+"rubber dinghy": {
+"also": [
+[
+"things made of rubber",
+2
+],
+[
+"things that float",
+2
+]
+],
+"clash": [
+"beach gear"
+]
+},
+"rowing boat": {
+"also": [
+[
+"things that float",
+2
+]
+],
+"clash": []
+},
+"lifeboat": {
+"also": [
+[
+"things that float",
+2
+]
+],
+"clash": [
+"cruise words"
+]
+},
+"tender": {
+"also": [
+[
+"things that float",
+2
+],
+[
+"hidden numbers",
+3
+]
+],
+"clash": [
+"love words"
+]
+},
+"jon boat": {
+"also": [
+[
+"things that float",
+2
+]
+],
+"clash": []
+},
+"scull": {
+"also": [
+[
+"rowing words",
+2
+],
+[
+"things that float",
+2
+]
+],
+"clash": []
+},
+"rowing shell": {
+"also": [
+[
+"rowing words",
+2
+],
+[
+"things that float",
+2
+]
+],
+"clash": []
+},
+"dory": {
+"also": [
+[
+"things that float",
+2
+],
+[
+"sea fish",
+3
+]
+],
+"clash": []
+},
+"wherry": {
+"also": [
+[
+"things that float",
+2
+]
+],
+"clash": []
+},
+"pram": {
+"also": [
+[
+"baby gear",
+1
+],
+[
+"things with wheels",
+1
+],
+[
+"things that float",
+2
+],
+[
+"hidden animals",
+3
+]
+],
+"clash": []
+},
+"sea kayak": {
+"also": [
+[
+"things that float",
+2
+]
+],
+"clash": []
+},
+"packraft": {
+"also": [
+[
+"things that float",
+2
+]
+],
+"clash": []
+},
+"paddleboard": {
+"also": [
+[
+"board and paddle sports",
+1
+],
+[
+"___board",
+2
+],
+[
+"things that float",
+2
+]
+],
+"clash": []
+},
+"sailing dinghy": {
+"also": [
+[
+"things that float",
+2
+]
+],
+"clash": []
+},
+"bumper boat": {
+"also": [
+[
+"things that float",
+2
+]
+],
+"clash": [
+"fairground rides"
+]
+},
+"cockleshell": {
+"also": [
+[
+"seashells",
+2
+],
+[
+"things that float",
+2
+]
+],
+"clash": []
+},
+"Zodiac": {
+"also": [
+[
+"things that float",
+2
+],
+[
+"brand names used as words",
+3
+]
+],
+"clash": [
+"zodiac signs"
+]
+},
+"ice yacht": {
+"also": [
+[
+"things that float",
+2
+]
+],
+"clash": []
+},
+"catboat": {
+"also": [
+[
+"things that float",
+2
+]
+],
+"clash": []
+},
+"schooner": {
+"also": [
+[
+"pirate ships",
+2
+],
+[
+"age of sail",
+2
+],
+[
+"things that float",
+2
+],
+[
+"hidden numbers",
+3
+]
+],
+"clash": [
+"beers"
+]
+},
+"galleon": {
+"also": [
+[
+"pirate ships",
+1
+],
+[
+"age of sail",
+1
+],
+[
+"things that float",
+2
+],
+[
+"words from spanish",
+3
+]
+],
+"clash": []
+},
+"clipper": {
+"also": [
+[
+"age of sail",
+2
+],
+[
+"things that float",
+2
+],
+[
+"hidden body parts",
+3
+]
+],
+"clash": [
+"nail care"
+]
+},
+"sloop": {
+"also": [
+[
+"pirate ships",
+2
+],
+[
+"words from dutch",
+2
+],
+[
+"things that float",
+2
+]
+],
+"clash": []
+},
+"ketch": {
+"also": [
+[
+"things that float",
+2
+]
+],
+"clash": []
+},
+"brig": {
+"also": [
+[
+"prison words",
+2
+],
+[
+"things that float",
+2
+]
+],
+"clash": [
+"pirate punishments"
+]
+},
+"brigantine": {
+"also": [
+[
+"pirate ships",
+2
+],
+[
+"things that float",
+2
+],
+[
+"hidden animals",
+3
+]
+],
+"clash": []
+},
+"barque": {
+"also": [
+[
+"things that float",
+2
+],
+[
+"words from french",
+3
+]
+],
+"clash": []
+},
+"barquentine": {
+"also": [
+[
+"things that float",
+2
+]
+],
+"clash": []
+},
+"yawl": {
+"also": [
+[
+"things that float",
+2
+],
+[
+"words from dutch",
+3
+]
+],
+"clash": []
+},
+"cutter": {
+"also": [
+[
+"things that float",
+2
+]
+],
+"clash": [
+"things that cut"
+]
+},
+"caravel": {
+"also": [
+[
+"age of sail",
+2
+],
+[
+"things that float",
+2
+],
+[
+"hidden vehicles",
+3
+]
+],
+"clash": [
+"famous voyages"
+]
+},
+"carrack": {
+"also": [
+[
+"age of sail",
+2
+],
+[
+"things that float",
+2
+],
+[
+"hidden vehicles",
+3
+]
+],
+"clash": []
+},
+"windjammer": {
+"also": [
+[
+"age of sail",
+2
+],
+[
+"things that float",
+2
+]
+],
+"clash": []
+},
+"tall ship": {
+"also": [
+[
+"age of sail",
+2
+],
+[
+"things that float",
+2
+]
+],
+"clash": []
+},
+"square-rigger": {
+"also": [
+[
+"age of sail",
+2
+],
+[
+"things that float",
+2
+]
+],
+"clash": []
+},
+"full-rigger": {
+"also": [
+[
+"things that float",
+2
+]
+],
+"clash": []
+},
+"cog": {
+"also": [
+[
+"things with teeth",
+2
+],
+[
+"bicycle parts",
+2
+],
+[
+"things that float",
+2
+]
+],
+"clash": [
+"clock parts"
+]
+},
+"xebec": {
+"also": [
+[
+"things that float",
+2
+]
+],
+"clash": []
+},
+"polacca": {
+"also": [
+[
+"things that float",
+2
+]
+],
+"clash": []
+},
+"pinnace": {
+"also": [
+[
+"things that float",
+2
+]
+],
+"clash": []
+},
+"sailboat": {
+"also": [
+[
+"things that float",
+2
+]
+],
+"clash": []
+},
+"sailing yacht": {
+"also": [
+[
+"things that float",
+2
+]
+],
+"clash": []
+},
+"snow": {
+"also": [
+[
+"snow and ice",
+1
+],
+[
+"weather",
+1
+],
+[
+"white things",
+1
+],
+[
+"signs of winter",
+1
+],
+[
+"things that float",
+2
+]
+],
+"clash": []
+},
+"trireme": {
+"also": [
+[
+"ancient greece",
+2
+],
+[
+"things that float",
+2
+]
+],
+"clash": []
+},
+"man-of-war": {
+"also": [
+[
+"age of sail",
+2
+],
+[
+"warships",
+2
+],
+[
+"jellyfish and relatives",
+2
+],
+[
+"things that float",
+2
+]
+],
+"clash": []
+},
+"ship of the line": {
+"also": [
+[
+"age of sail",
+1
+],
+[
+"warships",
+2
+],
+[
+"things that float",
+2
+]
+],
+"clash": []
+},
+"tugboat": {
+"also": [
+[
+"things that float",
+2
+]
+],
+"clash": []
+},
+"trawler": {
+"also": [
+[
+"things that float",
+2
+]
+],
+"clash": []
+},
+"barge": {
+"also": [
+[
+"things that float",
+2
+]
+],
+"clash": []
+},
+"tanker": {
+"also": [
+[
+"truck types",
+1
+],
+[
+"things that float",
+2
+],
+[
+"hidden colors",
+3
+]
+],
+"clash": []
+},
+"icebreaker": {
+"also": [
+[
+"polar travel",
+1
+],
+[
+"things that float",
+2
+]
+],
+"clash": [
+"party games"
+]
+},
+"dredger": {
+"also": [
+[
+"things that float",
+2
+],
+[
+"hidden colors",
+3
+]
+],
+"clash": []
+},
+"fishing boat": {
+"also": [
+[
+"things that float",
+2
+]
+],
+"clash": []
+},
+"lobster boat": {
+"also": [
+[
+"things that float",
+2
+]
+],
+"clash": []
+},
+"crabber": {
+"also": [
+[
+"things that float",
+2
+]
+],
+"clash": []
+},
+"longliner": {
+"also": [
+[
+"things that float",
+2
+]
+],
+"clash": []
+},
+"seiner": {
+"also": [
+[
+"things that float",
+2
+]
+],
+"clash": []
+},
+"whaler": {
+"also": [
+[
+"things that float",
+2
+]
+],
+"clash": []
+},
+"factory ship": {
+"also": [
+[
+"things that float",
+2
+]
+],
+"clash": []
+},
+"cargo ship": {
+"also": [
+[
+"things that float",
+2
+]
+],
+"clash": []
+},
+"container ship": {
+"also": [
+[
+"things that float",
+2
+]
+],
+"clash": []
+},
+"freighter": {
+"also": [
+[
+"things that float",
+2
+],
+[
+"hidden numbers",
+3
+]
+],
+"clash": []
+},
+"bulk carrier": {
+"also": [
+[
+"things that float",
+2
+]
+],
+"clash": []
+},
+"oil tanker": {
+"also": [
+[
+"things that float",
+2
+],
+[
+"truck types",
+3
+]
+],
+"clash": []
+},
+"supertanker": {
+"also": [
+[
+"things that float",
+2
+],
+[
+"hidden colors",
+3
+]
+],
+"clash": []
+},
+"collier": {
+"also": [
+[
+"things that float",
+2
+],
+[
+"old-time jobs",
+3
+],
+[
+"surnames that are jobs",
+3
+]
+],
+"clash": [
+"mining words"
+]
+},
+"coaster": {
+"also": [
+[
+"things that float",
+2
+]
+],
+"clash": [
+"fairground rides",
+"dining room"
+]
+},
+"lightship": {
+"also": [
+[
+"things that float",
+2
+],
+[
+"hidden body parts",
+3
+]
+],
+"clash": []
+},
+"fireboat": {
+"also": [
+[
+"emergency vehicles",
+2
+],
+[
+"fire___",
+2
+],
+[
+"things that float",
+2
+]
+],
+"clash": []
+},
+"pilot boat": {
+"also": [
+[
+"things that float",
+2
+]
+],
+"clash": []
+},
+"research vessel": {
+"also": [
+[
+"things that float",
+2
+]
+],
+"clash": []
+},
+"survey ship": {
+"also": [
+[
+"things that float",
+2
+]
+],
+"clash": []
+},
+"cable layer": {
+"also": [
+[
+"things that float",
+2
+]
+],
+"clash": []
+},
+"supply ship": {
+"also": [
+[
+"things that float",
+2
+]
+],
+"clash": []
+},
+"workboat": {
+"also": [
+[
+"things that float",
+2
+]
+],
+"clash": []
+},
+"dredge": {
+"also": [
+[
+"things that float",
+2
+]
+],
+"clash": []
+},
+"hopper barge": {
+"also": [
+[
+"things that float",
+2
+]
+],
+"clash": []
+},
+"lighter": {
+"also": [
+[
+"smoking words",
+1
+],
+[
+"things that float",
+2
+]
+],
+"clash": []
+},
+"scow": {
+"also": [
+[
+"things that float",
+2
+],
+[
+"words from dutch",
+3
+],
+[
+"hidden animals",
+3
+]
+],
+"clash": []
+},
+"car carrier": {
+"also": [
+[
+"things that float",
+2
+]
+],
+"clash": []
+},
+"reefer ship": {
+"also": [
+[
+"things that float",
+2
+]
+],
+"clash": []
+},
+"LNG carrier": {
+"also": [
+[
+"things that float",
+2
+]
+],
+"clash": []
+},
+"drillship": {
+"also": [
+[
+"things that float",
+2
+],
+[
+"hidden body parts",
+3
+]
+],
+"clash": []
+},
+"towboat": {
+"also": [
+[
+"things that float",
+2
+]
+],
+"clash": []
+},
+"pushboat": {
+"also": [
+[
+"things that float",
+2
+]
+],
+"clash": []
+},
+"mailboat": {
+"also": [
+[
+"things that float",
+2
+]
+],
+"clash": []
+},
+"shrimp boat": {
+"also": [
+[
+"things that float",
+2
+]
+],
+"clash": []
+},
+"whaling ship": {
+"also": [
+[
+"things that float",
+2
+]
+],
+"clash": []
+},
+"salvage tug": {
+"also": [
+[
+"things that float",
+2
+]
+],
+"clash": []
+},
+"crane vessel": {
+"also": [
+[
+"things that float",
+2
+]
+],
+"clash": []
+},
+"coast guard cutter": {
+"also": [
+[
+"things that float",
+2
+]
+],
+"clash": []
+},
+"junk": {
+"also": [
+[
+"things that float",
+2
+]
+],
+"clash": [
+"junk drawer"
+]
+},
+"dhow": {
+"also": [
+[
+"things that float",
+2
+]
+],
+"clash": []
+},
+"felucca": {
+"also": [
+[
+"african transport",
+2
+],
+[
+"things that float",
+2
+]
+],
+"clash": []
+},
+"sampan": {
+"also": [
+[
+"asian transport",
+1
+],
+[
+"things that float",
+2
+],
+[
+"words from chinese",
+3
+]
+],
+"clash": []
+},
+"outrigger": {
+"also": [
+[
+"polynesian voyaging",
+2
+],
+[
+"things that float",
+2
+]
+],
+"clash": []
+},
+"gulet": {
+"also": [
+[
+"turkish travel words",
+1
+],
+[
+"things that float",
+2
+]
+],
+"clash": []
+},
+"coracle": {
+"also": [
+[
+"things that float",
+2
+],
+[
+"round things",
+3
+]
+],
+"clash": []
+},
+"umiak": {
+"also": [
+[
+"things that float",
+2
+],
+[
+"words from native american languages",
+3
+]
+],
+"clash": []
+},
+"pirogue": {
+"also": [
+[
+"african transport",
+2
+],
+[
+"things that float",
+2
+],
+[
+"words from french",
+3
+]
+],
+"clash": []
+},
+"dugout canoe": {
+"also": [
+[
+"things that float",
+2
+]
+],
+"clash": []
+},
+"longship": {
+"also": [
+[
+"vikings",
+1
+],
+[
+"things that float",
+2
+],
+[
+"hidden body parts",
+3
+]
+],
+"clash": []
+},
+"bangka": {
+"also": [
+[
+"things that float",
+2
+]
+],
+"clash": []
+},
+"vaka": {
+"also": [
+[
+"polynesian voyaging",
+2
+],
+[
+"things that float",
+2
+]
+],
+"clash": []
+},
+"proa": {
+"also": [
+[
+"polynesian voyaging",
+2
+],
+[
+"things that float",
+2
+]
+],
+"clash": []
+},
+"waka": {
+"also": [
+[
+"polynesian voyaging",
+2
+],
+[
+"maori words",
+2
+],
+[
+"maori culture",
+2
+],
+[
+"things that float",
+2
+]
+],
+"clash": []
+},
+"dragon boat": {
+"also": [
+[
+"things that float",
+2
+]
+],
+"clash": [
+"festivals of the world",
+"lunar new year",
+"dragons"
+]
+},
+"caique": {
+"also": [
+[
+"things that float",
+2
+]
+],
+"clash": []
+},
+"birchbark canoe": {
+"also": [
+[
+"things that float",
+2
+]
+],
+"clash": []
+},
+"currach": {
+"also": [
+[
+"things that float",
+2
+]
+],
+"clash": []
+},
+"shikara": {
+"also": [
+[
+"things that float",
+2
+]
+],
+"clash": []
+},
+"kettuvallam": {
+"also": [
+[
+"things that float",
+2
+]
+],
+"clash": []
+},
+"baidarka": {
+"also": [
+[
+"things that float",
+2
+]
+],
+"clash": []
+},
+"reed boat": {
+"also": [
+[
+"south american travel",
+2
+],
+[
+"things that float",
+2
+]
+],
+"clash": []
+},
+"balsa raft": {
+"also": [
+[
+"things that float",
+2
+]
+],
+"clash": []
+},
+"gufa": {
+"also": [
+[
+"things that float",
+2
+]
+],
+"clash": []
+},
+"jangada": {
+"also": [
+[
+"things that float",
+2
+]
+],
+"clash": []
+},
+"sandolo": {
+"also": [
+[
+"things that float",
+2
+]
+],
+"clash": []
+},
+"luzzu": {
+"also": [
+[
+"things that float",
+2
+]
+],
+"clash": []
+},
+"dgħajsa": {
+"also": [
+[
+"things that float",
+2
+]
+],
+"clash": []
+},
+"ngalawa": {
+"also": [
+[
+"things that float",
+2
+]
+],
+"clash": []
+},
+"paraw": {
+"also": [
+[
+"things that float",
+2
+]
+],
+"clash": []
+},
+"lepa": {
+"also": [
+[
+"things that float",
+2
+]
+],
+"clash": []
+},
+"jukung": {
+"also": [
+[
+"things that float",
+2
+]
+],
+"clash": []
+},
+"perahu": {
+"also": [
+[
+"things that float",
+2
+]
+],
+"clash": []
+},
+"bucentaur": {
+"also": [
+[
+"things that float",
+2
+]
+],
+"clash": []
+},
+"Viking ship": {
+"also": [
+[
+"vikings",
+1
+],
+[
+"things that float",
+2
+]
+],
+"clash": []
+},
+"war canoe": {
+"also": [
+[
+"things that float",
+2
+]
+],
+"clash": []
+},
+"bow": {
+"also": [
+[
+"nautical directions",
+1
+],
+[
+"archery terms",
+1
+],
+[
+"hair accessories",
+1
+],
+[
+"gestures",
+1
+],
+[
+"homographs",
+1
+],
+[
+"historic weapons",
+1
+],
+[
+"medieval weapons",
+2
+]
+],
+"clash": [
+"bowed instruments"
+]
+},
+"stern": {
+"also": [
+[
+"nautical directions",
+1
+],
+[
+"hidden birds",
+3
+]
+],
+"clash": []
+},
+"hull": {
+"also": [
+[
+"british cities",
+2
+],
+[
+"places that are also words",
+3
+]
+],
+"clash": []
+},
+"deck": {
+"also": [
+[
+"card game words",
+1
+],
+[
+"garden features",
+2
+],
+[
+"cruise words",
+2
+],
+[
+"words from dutch",
+3
+]
+],
+"clash": []
+},
+"keel": {
+"also": [
+[
+"reversible words",
+2
+],
+[
+"hidden animals",
+3
+]
+],
+"clash": [
+"pirate punishments"
+]
+},
+"bridge": {
+"also": [
+[
+"card games",
+2
+],
+[
+"dental words",
+2
+],
+[
+"instrument parts",
+2
+]
+],
+"clash": [
+"bridge types"
+]
+},
+"porthole": {
+"also": [
+[
+"round things",
+2
+],
+[
+"cruise words",
+2
+]
+],
+"clash": []
+},
+"hold": {
+"also": [
+[
+"wrestling terms",
+2
+]
+],
+"clash": []
+},
+"funnel": {
+"also": [
+[
+"kitchen utensils",
+1
+],
+[
+"lab glassware",
+1
+]
+],
+"clash": []
+},
+"smokestack": {
+"also": [],
+"clash": [
+"industrial buildings"
+]
+},
+"gangway": {
+"also": [
+[
+"cruise words",
+2
+]
+],
+"clash": []
+},
+"gangplank": {
+"also": [],
+"clash": [
+"pirate punishments"
+]
+},
+"forecastle": {
+"also": [
+[
+"silent letter words",
+3
+]
+],
+"clash": []
+},
+"poop deck": {
+"also": [
+[
+"pirate words",
+3
+]
+],
+"clash": []
+},
+"quarterdeck": {
+"also": [
+[
+"navy words",
+3
+]
+],
+"clash": []
+},
+"main deck": {
+"also": [
+[
+"cruise words",
+3
+]
+],
+"clash": []
+},
+"helm": {
+"also": [
+[
+"hidden trees",
+3
+]
+],
+"clash": []
+},
+"wheelhouse": {
+"also": [
+[
+"___house",
+2
+]
+],
+"clash": []
+},
+"tiller": {
+"also": [
+[
+"garden tools",
+3
+]
+],
+"clash": [
+"farm vehicles"
+]
+},
+"figurehead": {
+"also": [
+[
+"hidden fruits",
+3
+]
+],
+"clash": []
+},
+"capstan": {
+"also": [
+[
+"hidden colors",
+3
+]
+],
+"clash": []
+},
+"gunwale": {
+"also": [
+[
+"silent w words",
+3
+]
+],
+"clash": []
+},
+"transom": {
+"also": [
+[
+"windows and doors",
+3
+]
+],
+"clash": []
+},
+"bunk": {
+"also": [
+[
+"beds",
+1
+]
+],
+"clash": []
+},
+"stem": {
+"also": [
+[
+"flower parts",
+1
+],
+[
+"plant parts",
+1
+]
+],
+"clash": []
+},
+"mess deck": {
+"also": [
+[
+"navy words",
+3
+]
+],
+"clash": []
+},
+"yardarm": {
+"also": [
+[
+"pirate punishments",
+3
+],
+[
+"hidden body parts",
+3
+]
+],
+"clash": []
+},
+"lower deck": {
+"also": [
+[
+"cruise words",
+2
+]
+],
+"clash": []
+},
+"crow's nest": {
+"also": [
+[
+"pirate words",
+2
+]
+],
+"clash": []
+},
+"tack": {
+"also": [
+[
+"fixings",
+1
+],
+[
+"sewing words",
+2
+]
+],
+"clash": [
+"horse tack"
+]
+},
+"reef": {
+"also": [
+[
+"coastal features",
+1
+]
+],
+"clash": [
+"reef life"
+]
+},
+"trim": {
+"also": [],
+"clash": [
+"hair care"
+]
+},
+"heel": {
+"also": [
+[
+"hands and feet",
+1
+],
+[
+"hidden animals",
+3
+]
+],
+"clash": [
+"shoes"
+]
+},
+"beat": {
+"also": [
+[
+"music words",
+1
+],
+[
+"cooking methods",
+2
+]
+],
+"clash": []
+},
+"sheet": {
+"also": [
+[
+"bedding",
+1
+],
+[
+"paper goods",
+2
+]
+],
+"clash": []
+},
+"genoa": {
+"also": [
+[
+"italian cities",
+1
+],
+[
+"port cities",
+2
+],
+[
+"places that are also words",
+3
+]
+],
+"clash": []
+},
+"boom": {
+"also": [
+[
+"onomatopoeia",
+1
+],
+[
+"stock market words",
+2
+],
+[
+"words from dutch",
+2
+]
+],
+"clash": [
+"loud things"
+]
+},
+"regatta": {
+"also": [
+[
+"rowing words",
+1
+],
+[
+"sailing sports",
+1
+],
+[
+"words from italian",
+1
+]
+],
+"clash": []
+},
+"cleat": {
+"also": [],
+"clash": [
+"shoes",
+"sports clothing"
+]
+},
+"centerboard": {
+"also": [
+[
+"___board",
+2
+]
+],
+"clash": []
+},
+"daggerboard": {
+"also": [
+[
+"___board",
+2
+]
+],
+"clash": []
+},
+"trapeze": {
+"also": [
+[
+"circus acts",
+1
+],
+[
+"hidden animals",
+3
+]
+],
+"clash": []
+},
+"in irons": {
+"also": [],
+"clash": [
+"prison words"
+]
+},
+"becalmed": {
+"also": [
+[
+"calm words",
+2
+],
+[
+"silent letter words",
+3
+]
+],
+"clash": []
+},
+"doldrums": {
+"also": [
+[
+"sad words",
+2
+]
+],
+"clash": []
+},
+"trade winds": {
+"also": [
+[
+"wind words",
+1
+],
+[
+"named winds",
+2
+]
+],
+"clash": []
+},
+"gust": {
+"also": [
+[
+"wind words",
+1
+]
+],
+"clash": []
+},
+"lull": {
+"also": [],
+"clash": [
+"calm words"
+]
+},
+"hoist": {
+"also": [
+[
+"words from dutch",
+3
+]
+],
+"clash": []
+},
+"set sail": {
+"also": [],
+"clash": [
+"travel verbs"
+]
+},
+"cast off": {
+"also": [
+[
+"knitting words",
+1
+]
+],
+"clash": []
+},
+"belay": {
+"also": [
+[
+"climbing words",
+1
+]
+],
+"clash": []
+},
+"burgee": {
+"also": [
+[
+"flag words",
+2
+]
+],
+"clash": []
+},
+"ensign": {
+"also": [
+[
+"flag words",
+1
+],
+[
+"military ranks",
+2
+],
+[
+"navy words",
+2
+]
+],
+"clash": []
+},
+"pennant": {
+"also": [
+[
+"flag words",
+1
+],
+[
+"baseball terms",
+2
+],
+[
+"hidden animals",
+3
+]
+],
+"clash": []
+},
+"yachting": {
+"also": [
+[
+"sailing sports",
+1
+]
+],
+"clash": []
+},
+"sailor": {
+"also": [
+[
+"navy words",
+1
+],
+[
+"ship crew",
+1
+]
+],
+"clash": [
+"hats"
+]
+},
+"broach": {
+"also": [],
+"clash": [
+"jewelry"
+]
+},
+"headsail": {
+"also": [
+[
+"head___",
+2
+]
+],
+"clash": []
+},
+"shroud": {
+"also": [
+[
+"tombs and burials",
+2
+]
+],
+"clash": []
+},
+"backstay": {
+"also": [
+[
+"back___",
+2
+]
+],
+"clash": []
+},
+"wind vane": {
+"also": [
+[
+"weather instruments",
+1
+]
+],
+"clash": []
+},
+"dock": {
+"also": [
+[
+"weeds",
+2
+],
+[
+"courtroom words",
+2
+],
+[
+"words from dutch",
+3
+]
+],
+"clash": []
+},
+"pier": {
+"also": [
+[
+"homophones",
+2
+]
+],
+"clash": [
+"beach"
+]
+},
+"quay": {
+"also": [
+[
+"homophones",
+2
+]
+],
+"clash": []
+},
+"jetty": {
+"also": [
+[
+"hidden vehicles",
+3
+]
+],
+"clash": []
+},
+"marina": {
+"also": [
+[
+"girls' names",
+2
+]
+],
+"clash": []
+},
+"berth": {
+"also": [
+[
+"homophones",
+2
+]
+],
+"clash": [
+"parts of a train",
+"beds"
+]
+},
+"breakwater": {
+"also": [
+[
+"coastal features",
+2
+]
+],
+"clash": []
+},
+"mole": {
+"also": [
+[
+"garden pests",
+1
+],
+[
+"spy words",
+1
+],
+[
+"burrowing animals",
+1
+],
+[
+"british wildlife",
+1
+],
+[
+"skin words",
+2
+],
+[
+"mexican food",
+3
+],
+[
+"chemistry words",
+3
+]
+],
+"clash": []
+},
+"slipway": {
+"also": [
+[
+"hidden body parts",
+3
+]
+],
+"clash": []
+},
+"shipyard": {
+"also": [
+[
+"hidden body parts",
+3
+]
+],
+"clash": []
+},
+"lighthouse": {
+"also": [
+[
+"towers and skyscrapers",
+1
+],
+[
+"___house",
+2
+]
+],
+"clash": [
+"coastal features"
+]
+},
+"buoy": {
+"also": [
+[
+"things that float",
+1
+],
+[
+"homophones",
+2
+],
+[
+"words from dutch",
+3
+]
+],
+"clash": []
+},
+"bollard": {
+"also": [
+[
+"street furniture",
+1
+]
+],
+"clash": []
+},
+"anchorage": {
+"also": [
+[
+"american cities",
+2
+],
+[
+"places that are also words",
+3
+]
+],
+"clash": []
+},
+"seawall": {
+"also": [
+[
+"sea___",
+2
+]
+],
+"clash": [
+"coastal features"
+]
+},
+"pontoon": {
+"also": [
+[
+"card games",
+2
+],
+[
+"things that float",
+2
+]
+],
+"clash": []
+},
+"boathouse": {
+"also": [
+[
+"___house",
+2
+],
+[
+"hidden vehicles",
+4
+]
+],
+"clash": []
+},
+"warehouse": {
+"also": [
+[
+"industrial buildings",
+1
+],
+[
+"___house",
+2
+]
+],
+"clash": []
+},
+"waterfront": {
+"also": [
+[
+"water___",
+2
+]
+],
+"clash": []
+},
+"lock": {
+"also": [
+[
+"things with keys",
+1
+]
+],
+"clash": [
+"river features",
+"hair",
+"straits and canals"
+]
+},
+"gantry crane": {
+"also": [],
+"clash": [
+"construction vehicles"
+]
+},
+"cruise terminal": {
+"also": [
+[
+"cruise words",
+1
+]
+],
+"clash": []
+},
+"fish market": {
+"also": [],
+"clash": [
+"street market"
+]
+},
+"channel": {
+"also": [
+[
+"tv words",
+1
+],
+[
+"river features",
+2
+]
+],
+"clash": [
+"straits and canals"
+]
+},
+"beacon": {
+"also": [],
+"clash": [
+"codes and signals"
+]
+},
+"Titanic": {
+"also": [
+[
+"words for big",
+2
+],
+[
+"words from mythology",
+3
+],
+[
+"hidden colors",
+3
+]
+],
+"clash": []
+},
+"Mayflower": {
+"also": [
+[
+"famous voyages",
+1
+],
+[
+"colonial america",
+1
+],
+[
+"wildflowers",
+3
+]
+],
+"clash": []
+},
+"Santa Maria": {
+"also": [
+[
+"famous voyages",
+2
+]
+],
+"clash": []
+},
+"Victory": {
+"also": [],
+"clash": [
+"war words"
+]
+},
+"Bounty": {
+"also": [],
+"clash": [
+"candy",
+"chocolates",
+"pirate words"
+]
+},
+"Cutty Sark": {
+"also": [
+[
+"london landmarks",
+2
+]
+],
+"clash": [
+"spirits"
+]
+},
+"Endeavour": {
+"also": [
+[
+"famous voyages",
+3
+]
+],
+"clash": [
+"space vehicles",
+"space missions"
+]
+},
+"Beagle": {
+"also": [
+[
+"dog breeds",
+1
+],
+[
+"hounds",
+1
+],
+[
+"famous voyages",
+2
+],
+[
+"hidden birds",
+3
+]
+],
+"clash": []
+},
+"Lusitania": {
+"also": [
+[
+"hidden colors",
+3
+]
+],
+"clash": [
+"old country names"
+]
+},
+"Queen Mary": {
+"also": [
+[
+"english monarchs",
+2
+]
+],
+"clash": [
+"famous queens",
+"cruise words"
+]
+},
+"Bismarck": {
+"also": [
+[
+"famous leaders",
+2
+]
+],
+"clash": []
+},
+"Arizona": {
+"also": [
+[
+"us states",
+1
+]
+],
+"clash": []
+},
+"Missouri": {
+"also": [
+[
+"us states",
+1
+],
+[
+"north american rivers",
+1
+]
+],
+"clash": []
+},
+"Enterprise": {
+"also": [
+[
+"business words",
+2
+]
+],
+"clash": [
+"space vehicles"
+]
+},
+"Nimitz": {
+"also": [],
+"clash": [
+"famous generals"
+]
+},
+"Constitution": {
+"also": [
+[
+"historic documents",
+1
+],
+[
+"government words",
+1
+],
+[
+"hidden birds",
+3
+]
+],
+"clash": []
+},
+"Golden Hind": {
+"also": [
+[
+"pirate ships",
+3
+]
+],
+"clash": []
+},
+"Niña": {
+"also": [],
+"clash": [
+"climate words"
+]
+},
+"Argo": {
+"also": [
+[
+"famous voyages",
+2
+]
+],
+"clash": [
+"greek heroes"
+]
+},
+"Flying Dutchman": {
+"also": [
+[
+"ghosts and spirits",
+2
+]
+],
+"clash": [
+"legendary places"
+]
+},
+"Nautilus": {
+"also": [
+[
+"mollusks",
+2
+],
+[
+"cephalopods",
+2
+]
+],
+"clash": []
+},
+"Hispaniola": {
+"also": [
+[
+"caribbean islands",
+2
+]
+],
+"clash": []
+},
+"Endurance": {
+"also": [
+[
+"expedition ships",
+1
+]
+],
+"clash": []
+},
+"Fram": {
+"also": [
+[
+"expedition ships",
+1
+],
+[
+"hidden animals",
+3
+]
+],
+"clash": []
+},
+"Kon-Tiki": {
+"also": [
+[
+"famous voyages",
+1
+]
+],
+"clash": []
+},
+"Olympic": {
+"also": [],
+"clash": [
+"ancient olympics"
+]
+},
+"Carpathia": {
+"also": [
+[
+"hidden vehicles",
+3
+]
+],
+"clash": [
+"mountain ranges"
+]
+},
+"Exxon Valdez": {
+"also": [],
+"clash": [
+"pollution words"
+]
+},
+"Monitor": {
+"also": [
+[
+"computer parts",
+1
+],
+[
+"lizards",
+2
+]
+],
+"clash": [
+"display tech"
+]
+},
+"Merrimack": {
+"also": [
+[
+"north american rivers",
+3
+]
+],
+"clash": []
+},
+"Calypso": {
+"also": [
+[
+"latin music styles",
+2
+],
+[
+"moons",
+3
+]
+],
+"clash": [
+"greek gods"
+]
+},
+"Mary Celeste": {
+"also": [],
+"clash": [
+"ghosts and spirits"
+]
+},
+"Batavia": {
+"also": [
+[
+"old city names",
+2
+],
+[
+"hidden animals",
+3
+]
+],
+"clash": []
+},
+"Essex": {
+"also": [
+[
+"english counties",
+1
+]
+],
+"clash": []
+},
+"Hood": {
+"also": [
+[
+"car parts",
+2
+]
+],
+"clash": [
+"hats"
+]
+},
+"Erebus": {
+"also": [
+[
+"expedition ships",
+1
+],
+[
+"famous volcanoes",
+3
+],
+[
+"hidden vehicles",
+3
+]
+],
+"clash": [
+"greek gods"
+]
+},
+"Resolution": {
+"also": [
+[
+"new year",
+1
+]
+],
+"clash": []
+},
+"Discovery": {
+"also": [
+[
+"expedition ships",
+1
+]
+],
+"clash": [
+"space vehicles"
+]
+},
+"Normandie": {
+"also": [
+[
+"french regions",
+2
+]
+],
+"clash": []
+},
+"Sultana": {
+"also": [
+[
+"dried fruits",
+1
+],
+[
+"royal titles",
+2
+],
+[
+"hidden colors",
+3
+]
+],
+"clash": []
+},
+"Kursk": {
+"also": [
+[
+"world war ii battles",
+2
+]
+],
+"clash": []
+},
+"Thresher": {
+"also": [
+[
+"sharks",
+2
+]
+],
+"clash": []
+},
+"Maine": {
+"also": [
+[
+"us states",
+1
+]
+],
+"clash": []
+},
+"Half Moon": {
+"also": [
+[
+"moon phases",
+2
+]
+],
+"clash": []
+},
+"Speedwell": {
+"also": [
+[
+"wildflowers",
+2
+],
+[
+"double letters",
+3
+]
+],
+"clash": []
+},
+"Queen Elizabeth": {
+"also": [
+[
+"english monarchs",
+1
+],
+[
+"famous queens",
+1
+]
+],
+"clash": []
+},
+"Morro Castle": {
+"also": [],
+"clash": [
+"famous castles"
+]
+},
+"Whydah": {
+"also": [
+[
+"pirate ships",
+1
+],
+[
+"african birds",
+3
+]
+],
+"clash": []
+},
+"Thermopylae": {
+"also": [
+[
+"ancient battles",
+1
+]
+],
+"clash": []
+},
+"Queen Anne's Revenge": {
+"also": [
+[
+"pirate ships",
+1
+]
+],
+"clash": []
+}
+}

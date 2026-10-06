@@ -1,0 +1,13087 @@
+{
+ "Georgia": {
+  "also": [
+   [
+    "countries ending in ia",
+    2
+   ],
+   [
+    "flags with crosses",
+    2
+   ],
+   [
+    "fonts",
+    3
+   ],
+   [
+    "girls' names",
+    2
+   ],
+   [
+    "names that are places",
+    1
+   ],
+   [
+    "places named after people",
+    3
+   ],
+   [
+    "red and white flags",
+    3
+   ],
+   [
+    "us states",
+    1
+   ]
+  ],
+  "clash": [
+   "asian countries",
+   "eastern european countries",
+   "european countries",
+   "middle eastern countries"
+  ]
+ },
+ "Greece": {
+  "also": [
+   [
+    "flags with crosses",
+    1
+   ]
+  ],
+  "clash": [
+   "ancient greece",
+   "eastern european countries",
+   "homophones",
+   "western european countries"
+  ]
+ },
+ "Croatia": {
+  "also": [
+   [
+    "countries ending in ia",
+    2
+   ],
+   [
+    "tricolor flags",
+    3
+   ]
+  ],
+  "clash": [
+   "eastern european countries",
+   "western european countries"
+  ]
+ },
+ "Slovenia": {
+  "also": [
+   [
+    "countries ending in ia",
+    2
+   ],
+   [
+    "tricolor flags",
+    3
+   ]
+  ],
+  "clash": [
+   "eastern european countries",
+   "landlocked countries",
+   "western european countries"
+  ]
+ },
+ "Cyprus": {
+  "also": [
+   [
+    "famous islands",
+    1
+   ]
+  ],
+  "clash": [
+   "asian countries",
+   "eastern european countries",
+   "greek islands",
+   "middle eastern countries",
+   "western european countries"
+  ]
+ },
+ "Russia": {
+  "also": [
+   [
+    "countries ending in ia",
+    1
+   ],
+   [
+    "tricolor flags",
+    1
+   ]
+  ],
+  "clash": [
+   "asian countries"
+  ]
+ },
+ "Poland": {
+  "also": [
+   [
+    "red and white flags",
+    1
+   ]
+  ],
+  "clash": [
+   "western european countries"
+  ]
+ },
+ "Romania": {
+  "also": [
+   [
+    "countries ending in ia",
+    2
+   ],
+   [
+    "tricolor flags",
+    2
+   ]
+  ],
+  "clash": []
+ },
+ "Hungary": {
+  "also": [
+   [
+    "tricolor flags",
+    2
+   ]
+  ],
+  "clash": [
+   "western european countries"
+  ]
+ },
+ "Bulgaria": {
+  "also": [
+   [
+    "countries ending in ia",
+    2
+   ],
+   [
+    "tricolor flags",
+    2
+   ]
+  ],
+  "clash": []
+ },
+ "Czech Republic": {
+  "also": [],
+  "clash": [
+   "western european countries"
+  ]
+ },
+ "Slovakia": {
+  "also": [
+   [
+    "countries ending in ia",
+    2
+   ],
+   [
+    "flags with crosses",
+    4
+   ],
+   [
+    "tricolor flags",
+    3
+   ]
+  ],
+  "clash": [
+   "western european countries"
+  ]
+ },
+ "Serbia": {
+  "also": [
+   [
+    "countries ending in ia",
+    2
+   ],
+   [
+    "flags with crosses",
+    4
+   ],
+   [
+    "tricolor flags",
+    3
+   ]
+  ],
+  "clash": []
+ },
+ "Lithuania": {
+  "also": [
+   [
+    "countries ending in ia",
+    2
+   ],
+   [
+    "tricolor flags",
+    3
+   ]
+  ],
+  "clash": []
+ },
+ "Latvia": {
+  "also": [
+   [
+    "countries ending in ia",
+    2
+   ],
+   [
+    "red and white flags",
+    3
+   ]
+  ],
+  "clash": []
+ },
+ "Estonia": {
+  "also": [
+   [
+    "countries ending in ia",
+    2
+   ],
+   [
+    "tricolor flags",
+    3
+   ]
+  ],
+  "clash": []
+ },
+ "Moldova": {
+  "also": [
+   [
+    "tricolor flags",
+    4
+   ]
+  ],
+  "clash": []
+ },
+ "Albania": {
+  "also": [
+   [
+    "countries ending in ia",
+    2
+   ]
+  ],
+  "clash": []
+ },
+ "Bosnia": {
+  "also": [
+   [
+    "flags with stars",
+    4
+   ]
+  ],
+  "clash": [
+   "landlocked countries"
+  ]
+ },
+ "Montenegro": {
+  "also": [
+   [
+    "liqueurs",
+    4
+   ]
+  ],
+  "clash": []
+ },
+ "North Macedonia": {
+  "also": [
+   [
+    "countries ending in ia",
+    3
+   ]
+  ],
+  "clash": []
+ },
+ "France": {
+  "also": [
+   [
+    "places after new",
+    3
+   ],
+   [
+    "tricolor flags",
+    1
+   ]
+  ],
+  "clash": []
+ },
+ "Germany": {
+  "also": [
+   [
+    "tricolor flags",
+    1
+   ]
+  ],
+  "clash": []
+ },
+ "Spain": {
+  "also": [
+   [
+    "places after new",
+    3
+   ]
+  ],
+  "clash": []
+ },
+ "Italy": {
+  "also": [
+   [
+    "tricolor flags",
+    1
+   ]
+  ],
+  "clash": []
+ },
+ "England": {
+  "also": [
+   [
+    "flags with crosses",
+    1
+   ],
+   [
+    "hidden body parts",
+    3
+   ],
+   [
+    "places after new",
+    1
+   ],
+   [
+    "red and white flags",
+    2
+   ]
+  ],
+  "clash": [
+   "island nations"
+  ]
+ },
+ "Ireland": {
+  "also": [
+   [
+    "hidden animals",
+    2
+   ],
+   [
+    "names that are places",
+    4
+   ],
+   [
+    "places after new",
+    4
+   ],
+   [
+    "st. patrick's day",
+    1
+   ],
+   [
+    "tricolor flags",
+    1
+   ]
+  ],
+  "clash": []
+ },
+ "Netherlands": {
+  "also": [
+   [
+    "tricolor flags",
+    2
+   ]
+  ],
+  "clash": []
+ },
+ "Belgium": {
+  "also": [
+   [
+    "tricolor flags",
+    1
+   ]
+  ],
+  "clash": []
+ },
+ "Switzerland": {
+  "also": [
+   [
+    "flags with crosses",
+    1
+   ],
+   [
+    "red and white flags",
+    1
+   ]
+  ],
+  "clash": []
+ },
+ "Austria": {
+  "also": [
+   [
+    "countries ending in ia",
+    1
+   ],
+   [
+    "red and white flags",
+    2
+   ]
+  ],
+  "clash": []
+ },
+ "Scotland": {
+  "also": [
+   [
+    "flags with crosses",
+    1
+   ],
+   [
+    "foods named after places",
+    3
+   ]
+  ],
+  "clash": [
+   "island nations"
+  ]
+ },
+ "Wales": {
+  "also": [],
+  "clash": [
+   "homophones",
+   "island nations"
+  ]
+ },
+ "Sweden": {
+  "also": [
+   [
+    "flags with crosses",
+    1
+   ],
+   [
+    "places after new",
+    4
+   ]
+  ],
+  "clash": []
+ },
+ "Norway": {
+  "also": [
+   [
+    "flags with crosses",
+    1
+   ]
+  ],
+  "clash": []
+ },
+ "Denmark": {
+  "also": [
+   [
+    "flags with crosses",
+    1
+   ],
+   [
+    "red and white flags",
+    1
+   ]
+  ],
+  "clash": []
+ },
+ "Finland": {
+  "also": [
+   [
+    "flags with crosses",
+    1
+   ]
+  ],
+  "clash": []
+ },
+ "Iceland": {
+  "also": [
+   [
+    "famous islands",
+    1
+   ],
+   [
+    "flags with crosses",
+    1
+   ],
+   [
+    "geothermal words",
+    3
+   ],
+   [
+    "hidden animals",
+    2
+   ],
+   [
+    "vikings",
+    2
+   ]
+  ],
+  "clash": []
+ },
+ "Luxembourg": {
+  "also": [
+   [
+    "royal houses",
+    4
+   ],
+   [
+    "tricolor flags",
+    3
+   ]
+  ],
+  "clash": [
+   "paris landmarks",
+   "tiny countries"
+  ]
+ },
+ "Monaco": {
+  "also": [
+   [
+    "european soccer clubs",
+    3
+   ],
+   [
+    "famous race tracks",
+    1
+   ],
+   [
+    "fonts",
+    5
+   ],
+   [
+    "red and white flags",
+    2
+   ]
+  ],
+  "clash": [
+   "casino words"
+  ]
+ },
+ "Liechtenstein": {
+  "also": [
+   [
+    "royal houses",
+    4
+   ]
+  ],
+  "clash": []
+ },
+ "Andorra": {
+  "also": [
+   [
+    "tricolor flags",
+    4
+   ]
+  ],
+  "clash": [
+   "french-speaking countries",
+   "spanish-speaking countries"
+  ]
+ },
+ "Malta": {
+  "also": [
+   [
+    "famous islands",
+    1
+   ],
+   [
+    "flags with crosses",
+    3
+   ],
+   [
+    "red and white flags",
+    3
+   ]
+  ],
+  "clash": []
+ },
+ "Vatican City": {
+  "also": [
+   [
+    "holy cities",
+    2
+   ],
+   [
+    "pilgrimage sites",
+    2
+   ]
+  ],
+  "clash": []
+ },
+ "China": {
+  "also": [
+   [
+    "dining room",
+    2
+   ],
+   [
+    "flags with stars",
+    1
+   ],
+   [
+    "hidden body parts",
+    1
+   ],
+   [
+    "places that are also words",
+    1
+   ],
+   [
+    "wedding anniversaries",
+    3
+   ],
+   [
+    "words for friend",
+    4
+   ]
+  ],
+  "clash": [
+   "ancient china"
+  ]
+ },
+ "Japan": {
+  "also": [
+   [
+    "red and white flags",
+    1
+   ],
+   [
+    "snowboard tricks",
+    4
+   ]
+  ],
+  "clash": []
+ },
+ "India": {
+  "also": [
+   [
+    "countries ending in ia",
+    1
+   ],
+   [
+    "girls' names",
+    3
+   ],
+   [
+    "names that are places",
+    2
+   ],
+   [
+    "phonetic alphabet",
+    1
+   ],
+   [
+    "tricolor flags",
+    1
+   ]
+  ],
+  "clash": [
+   "ancient india"
+  ]
+ },
+ "North Korea": {
+  "also": [
+   [
+    "flags with stars",
+    2
+   ]
+  ],
+  "clash": []
+ },
+ "Vietnam": {
+  "also": [
+   [
+    "flags with stars",
+    2
+   ]
+  ],
+  "clash": []
+ },
+ "Indonesia": {
+  "also": [
+   [
+    "countries ending in ia",
+    1
+   ],
+   [
+    "red and white flags",
+    2
+   ]
+  ],
+  "clash": []
+ },
+ "Philippines": {
+  "also": [
+   [
+    "flags with stars",
+    3
+   ],
+   [
+    "places named after people",
+    3
+   ]
+  ],
+  "clash": [
+   "spanish-speaking countries"
+  ]
+ },
+ "Malaysia": {
+  "also": [
+   [
+    "countries ending in ia",
+    1
+   ],
+   [
+    "flags with crescents",
+    2
+   ],
+   [
+    "flags with stars",
+    3
+   ]
+  ],
+  "clash": []
+ },
+ "Singapore": {
+  "also": [
+   [
+    "flags with crescents",
+    3
+   ],
+   [
+    "flags with stars",
+    3
+   ],
+   [
+    "foods named after places",
+    3
+   ],
+   [
+    "port cities",
+    1
+   ],
+   [
+    "red and white flags",
+    3
+   ],
+   [
+    "world war ii battles",
+    3
+   ]
+  ],
+  "clash": []
+ },
+ "Cambodia": {
+  "also": [
+   [
+    "countries ending in ia",
+    2
+   ]
+  ],
+  "clash": []
+ },
+ "Myanmar": {
+  "also": [
+   [
+    "flags with stars",
+    3
+   ],
+   [
+    "tricolor flags",
+    4
+   ]
+  ],
+  "clash": []
+ },
+ "Pakistan": {
+  "also": [
+   [
+    "flags with crescents",
+    1
+   ],
+   [
+    "flags with stars",
+    3
+   ]
+  ],
+  "clash": [
+   "middle eastern countries"
+  ]
+ },
+ "Sri Lanka": {
+  "also": [
+   [
+    "famous islands",
+    1
+   ]
+  ],
+  "clash": []
+ },
+ "Nepal": {
+  "also": [
+   [
+    "flags with crescents",
+    4
+   ]
+  ],
+  "clash": []
+ },
+ "Maldives": {
+  "also": [
+   [
+    "beach destinations",
+    1
+   ],
+   [
+    "famous islands",
+    2
+   ],
+   [
+    "flags with crescents",
+    3
+   ]
+  ],
+  "clash": []
+ },
+ "Mongolia": {
+  "also": [
+   [
+    "countries ending in ia",
+    2
+   ]
+  ],
+  "clash": [
+   "empires"
+  ]
+ },
+ "Afghanistan": {
+  "also": [],
+  "clash": [
+   "middle eastern countries"
+  ]
+ },
+ "Uzbekistan": {
+  "also": [
+   [
+    "flags with crescents",
+    3
+   ],
+   [
+    "flags with stars",
+    4
+   ]
+  ],
+  "clash": []
+ },
+ "Tajikistan": {
+  "also": [
+   [
+    "flags with stars",
+    4
+   ]
+  ],
+  "clash": []
+ },
+ "Turkmenistan": {
+  "also": [
+   [
+    "flags with crescents",
+    3
+   ],
+   [
+    "flags with stars",
+    4
+   ]
+  ],
+  "clash": []
+ },
+ "Brunei": {
+  "also": [
+   [
+    "flags with crescents",
+    4
+   ]
+  ],
+  "clash": [
+   "island nations",
+   "tiny countries"
+  ]
+ },
+ "East Timor": {
+  "also": [
+   [
+    "flags with stars",
+    4
+   ]
+  ],
+  "clash": [
+   "oceanian countries"
+  ]
+ },
+ "Saudi Arabia": {
+  "also": [
+   [
+    "countries ending in ia",
+    2
+   ],
+   [
+    "places named after people",
+    3
+   ]
+  ],
+  "clash": []
+ },
+ "Iran": {
+  "also": [
+   [
+    "tricolor flags",
+    3
+   ]
+  ],
+  "clash": [
+   "ancient persia",
+   "arabic-speaking countries"
+  ]
+ },
+ "Iraq": {
+  "also": [
+   [
+    "tricolor flags",
+    3
+   ]
+  ],
+  "clash": [
+   "landlocked countries",
+   "mesopotamia"
+  ]
+ },
+ "Israel": {
+  "also": [
+   [
+    "flags with stars",
+    2
+   ],
+   [
+    "names that are places",
+    4
+   ]
+  ],
+  "clash": [
+   "arabic-speaking countries",
+   "biblical names"
+  ]
+ },
+ "Syria": {
+  "also": [
+   [
+    "countries ending in ia",
+    2
+   ],
+   [
+    "flags with stars",
+    3
+   ],
+   [
+    "tricolor flags",
+    3
+   ]
+  ],
+  "clash": []
+ },
+ "Jordan": {
+  "also": [
+   [
+    "asian rivers",
+    2
+   ],
+   [
+    "boys' names",
+    2
+   ],
+   [
+    "flags with stars",
+    3
+   ],
+   [
+    "unisex names",
+    1
+   ]
+  ],
+  "clash": [
+   "biblical names",
+   "girls' names",
+   "landlocked countries"
+  ]
+ },
+ "Lebanon": {
+  "also": [],
+  "clash": [
+   "french-speaking countries"
+  ]
+ },
+ "Qatar": {
+  "also": [
+   [
+    "red and white flags",
+    3
+   ]
+  ],
+  "clash": []
+ },
+ "Bahrain": {
+  "also": [
+   [
+    "red and white flags",
+    3
+   ]
+  ],
+  "clash": []
+ },
+ "Yemen": {
+  "also": [
+   [
+    "tricolor flags",
+    3
+   ]
+  ],
+  "clash": []
+ },
+ "Turkey": {
+  "also": [
+   [
+    "bowling terms",
+    2
+   ],
+   [
+    "cappadocia",
+    2
+   ],
+   [
+    "farm",
+    2
+   ],
+   [
+    "farm animals",
+    1
+   ],
+   [
+    "flags with crescents",
+    1
+   ],
+   [
+    "flags with stars",
+    2
+   ],
+   [
+    "foods named after places",
+    3
+   ],
+   [
+    "game birds",
+    1
+   ],
+   [
+    "places that are also words",
+    1
+   ],
+   [
+    "poultry",
+    1
+   ],
+   [
+    "red and white flags",
+    2
+   ],
+   [
+    "scoring words",
+    3
+   ],
+   [
+    "thanksgiving",
+    1
+   ],
+   [
+    "things with wings",
+    3
+   ],
+   [
+    "words named after places",
+    3
+   ]
+  ],
+  "clash": [
+   "arabic-speaking countries",
+   "christmas",
+   "eastern european countries",
+   "european countries"
+  ]
+ },
+ "Egypt": {
+  "also": [
+   [
+    "tricolor flags",
+    3
+   ]
+  ],
+  "clash": [
+   "ancient egypt"
+  ]
+ },
+ "Morocco": {
+  "also": [
+   [
+    "flags with stars",
+    3
+   ]
+  ],
+  "clash": [
+   "french-speaking countries",
+   "middle eastern countries"
+  ]
+ },
+ "Algeria": {
+  "also": [
+   [
+    "countries ending in ia",
+    2
+   ],
+   [
+    "flags with crescents",
+    2
+   ],
+   [
+    "flags with stars",
+    3
+   ]
+  ],
+  "clash": [
+   "french-speaking countries",
+   "middle eastern countries"
+  ]
+ },
+ "Tunisia": {
+  "also": [
+   [
+    "countries ending in ia",
+    2
+   ],
+   [
+    "flags with crescents",
+    2
+   ],
+   [
+    "flags with stars",
+    3
+   ],
+   [
+    "red and white flags",
+    3
+   ]
+  ],
+  "clash": [
+   "french-speaking countries",
+   "middle eastern countries"
+  ]
+ },
+ "Libya": {
+  "also": [
+   [
+    "flags with crescents",
+    3
+   ],
+   [
+    "flags with stars",
+    4
+   ]
+  ],
+  "clash": [
+   "middle eastern countries"
+  ]
+ },
+ "Sudan": {
+  "also": [],
+  "clash": [
+   "east african countries",
+   "middle eastern countries"
+  ]
+ },
+ "Chad": {
+  "also": [
+   [
+    "famous lakes",
+    3
+   ],
+   [
+    "tricolor flags",
+    3
+   ]
+  ],
+  "clash": [
+   "boys' names",
+   "west african countries"
+  ]
+ },
+ "Cameroon": {
+  "also": [
+   [
+    "flags with stars",
+    4
+   ],
+   [
+    "tricolor flags",
+    4
+   ]
+  ],
+  "clash": [
+   "west african countries"
+  ]
+ },
+ "Congo": {
+  "also": [
+   [
+    "african rivers",
+    2
+   ],
+   [
+    "famous forests",
+    3
+   ],
+   [
+    "rainforest",
+    2
+   ]
+  ],
+  "clash": [
+   "landlocked countries",
+   "west african countries"
+  ]
+ },
+ "Gabon": {
+  "also": [
+   [
+    "tricolor flags",
+    4
+   ]
+  ],
+  "clash": [
+   "west african countries"
+  ]
+ },
+ "Equatorial Guinea": {
+  "also": [],
+  "clash": [
+   "west african countries"
+  ]
+ },
+ "São Tomé": {
+  "also": [
+   [
+    "african cities",
+    4
+   ],
+   [
+    "flags with stars",
+    5
+   ]
+  ],
+  "clash": [
+   "tiny countries",
+   "west african countries"
+  ]
+ },
+ "Madagascar": {
+  "also": [
+   [
+    "famous islands",
+    1
+   ],
+   [
+    "pirate places",
+    3
+   ]
+  ],
+  "clash": [
+   "east african countries",
+   "southern african countries"
+  ]
+ },
+ "Mauritius": {
+  "also": [
+   [
+    "beach destinations",
+    2
+   ],
+   [
+    "famous islands",
+    2
+   ],
+   [
+    "places named after people",
+    4
+   ]
+  ],
+  "clash": [
+   "east african countries",
+   "french-speaking countries",
+   "tiny countries"
+  ]
+ },
+ "Seychelles": {
+  "also": [
+   [
+    "beach destinations",
+    2
+   ],
+   [
+    "famous islands",
+    2
+   ],
+   [
+    "places named after people",
+    5
+   ]
+  ],
+  "clash": [
+   "east african countries"
+  ]
+ },
+ "Comoros": {
+  "also": [
+   [
+    "flags with crescents",
+    4
+   ],
+   [
+    "flags with stars",
+    5
+   ]
+  ],
+  "clash": [
+   "east african countries",
+   "tiny countries"
+  ]
+ },
+ "Mauritania": {
+  "also": [
+   [
+    "countries ending in ia",
+    3
+   ],
+   [
+    "flags with crescents",
+    3
+   ],
+   [
+    "flags with stars",
+    4
+   ],
+   [
+    "west african countries",
+    3
+   ]
+  ],
+  "clash": [
+   "french-speaking countries"
+  ]
+ },
+ "Central African Republic": {
+  "also": [
+   [
+    "flags with stars",
+    5
+   ]
+  ],
+  "clash": [
+   "west african countries"
+  ]
+ },
+ "Nigeria": {
+  "also": [
+   [
+    "countries ending in ia",
+    1
+   ]
+  ],
+  "clash": []
+ },
+ "Ghana": {
+  "also": [
+   [
+    "empires",
+    4
+   ],
+   [
+    "flags with stars",
+    3
+   ],
+   [
+    "tricolor flags",
+    3
+   ]
+  ],
+  "clash": []
+ },
+ "Senegal": {
+  "also": [
+   [
+    "african rivers",
+    3
+   ],
+   [
+    "flags with stars",
+    4
+   ],
+   [
+    "tricolor flags",
+    4
+   ]
+  ],
+  "clash": []
+ },
+ "Ivory Coast": {
+  "also": [
+   [
+    "tricolor flags",
+    3
+   ]
+  ],
+  "clash": []
+ },
+ "Mali": {
+  "also": [
+   [
+    "empires",
+    2
+   ],
+   [
+    "tricolor flags",
+    3
+   ]
+  ],
+  "clash": []
+ },
+ "Liberia": {
+  "also": [
+   [
+    "countries ending in ia",
+    2
+   ],
+   [
+    "flags with stars",
+    4
+   ]
+  ],
+  "clash": []
+ },
+ "Sierra Leone": {
+  "also": [
+   [
+    "tricolor flags",
+    3
+   ]
+  ],
+  "clash": []
+ },
+ "Guinea": {
+  "also": [
+   [
+    "historic coins",
+    3
+   ],
+   [
+    "places after new",
+    3
+   ],
+   [
+    "places that are also words",
+    2
+   ],
+   [
+    "treasure",
+    4
+   ],
+   [
+    "tricolor flags",
+    3
+   ]
+  ],
+  "clash": []
+ },
+ "Gambia": {
+  "also": [
+   [
+    "african rivers",
+    3
+   ],
+   [
+    "countries ending in ia",
+    3
+   ],
+   [
+    "tricolor flags",
+    4
+   ]
+  ],
+  "clash": []
+ },
+ "Burkina Faso": {
+  "also": [
+   [
+    "flags with stars",
+    4
+   ]
+  ],
+  "clash": []
+ },
+ "Benin": {
+  "also": [
+   [
+    "empires",
+    4
+   ]
+  ],
+  "clash": []
+ },
+ "Togo": {
+  "also": [
+   [
+    "flags with stars",
+    4
+   ]
+  ],
+  "clash": []
+ },
+ "Niger": {
+  "also": [
+   [
+    "african rivers",
+    2
+   ],
+   [
+    "tricolor flags",
+    4
+   ]
+  ],
+  "clash": []
+ },
+ "Guinea-Bissau": {
+  "also": [
+   [
+    "flags with stars",
+    5
+   ]
+  ],
+  "clash": []
+ },
+ "Cape Verde": {
+  "also": [
+   [
+    "flags with stars",
+    4
+   ]
+  ],
+  "clash": []
+ },
+ "Kenya": {
+  "also": [
+   [
+    "names that are places",
+    3
+   ]
+  ],
+  "clash": []
+ },
+ "Ethiopia": {
+  "also": [
+   [
+    "countries ending in ia",
+    2
+   ],
+   [
+    "flags with stars",
+    3
+   ],
+   [
+    "tricolor flags",
+    3
+   ]
+  ],
+  "clash": [
+   "empires"
+  ]
+ },
+ "Tanzania": {
+  "also": [
+   [
+    "countries ending in ia",
+    2
+   ],
+   [
+    "portmanteau words",
+    4
+   ]
+  ],
+  "clash": []
+ },
+ "Somalia": {
+  "also": [
+   [
+    "countries ending in ia",
+    2
+   ],
+   [
+    "flags with stars",
+    3
+   ],
+   [
+    "pirate places",
+    3
+   ]
+  ],
+  "clash": []
+ },
+ "Burundi": {
+  "also": [
+   [
+    "flags with crosses",
+    4
+   ],
+   [
+    "flags with stars",
+    4
+   ]
+  ],
+  "clash": []
+ },
+ "Eritrea": {
+  "also": [],
+  "clash": [
+   "arabic-speaking countries"
+  ]
+ },
+ "Djibouti": {
+  "also": [
+   [
+    "african cities",
+    3
+   ],
+   [
+    "flags with stars",
+    4
+   ],
+   [
+    "port cities",
+    4
+   ]
+  ],
+  "clash": []
+ },
+ "South Sudan": {
+  "also": [
+   [
+    "flags with stars",
+    4
+   ]
+  ],
+  "clash": [
+   "arabic-speaking countries"
+  ]
+ },
+ "Zimbabwe": {
+  "also": [
+   [
+    "flags with stars",
+    3
+   ]
+  ],
+  "clash": [
+   "east african countries"
+  ]
+ },
+ "Namibia": {
+  "also": [
+   [
+    "countries ending in ia",
+    2
+   ]
+  ],
+  "clash": []
+ },
+ "Zambia": {
+  "also": [
+   [
+    "countries ending in ia",
+    2
+   ]
+  ],
+  "clash": [
+   "east african countries"
+  ]
+ },
+ "Mozambique": {
+  "also": [
+   [
+    "all five vowels",
+    2
+   ],
+   [
+    "flags with stars",
+    4
+   ]
+  ],
+  "clash": [
+   "east african countries"
+  ]
+ },
+ "Malawi": {
+  "also": [
+   [
+    "famous lakes",
+    3
+   ]
+  ],
+  "clash": [
+   "east african countries"
+  ]
+ },
+ "Angola": {
+  "also": [
+   [
+    "capoeira words",
+    3
+   ],
+   [
+    "flags with stars",
+    4
+   ]
+  ],
+  "clash": []
+ },
+ "Canada": {
+  "also": [
+   [
+    "red and white flags",
+    1
+   ]
+  ],
+  "clash": []
+ },
+ "Mexico": {
+  "also": [
+   [
+    "day of the dead",
+    1
+   ],
+   [
+    "places after new",
+    1
+   ],
+   [
+    "tricolor flags",
+    1
+   ]
+  ],
+  "clash": [
+   "south american countries"
+  ]
+ },
+ "Cuba": {
+  "also": [
+   [
+    "caribbean islands",
+    1
+   ],
+   [
+    "flags with stars",
+    2
+   ]
+  ],
+  "clash": []
+ },
+ "Jamaica": {
+  "also": [
+   [
+    "beach destinations",
+    1
+   ],
+   [
+    "caribbean islands",
+    1
+   ],
+   [
+    "flags with crosses",
+    3
+   ],
+   [
+    "pirate places",
+    2
+   ]
+  ],
+  "clash": []
+ },
+ "Guatemala": {
+  "also": [],
+  "clash": [
+   "south american countries"
+  ]
+ },
+ "Honduras": {
+  "also": [
+   [
+    "flags with stars",
+    4
+   ]
+  ],
+  "clash": [
+   "south american countries"
+  ]
+ },
+ "Panama": {
+  "also": [
+   [
+    "famous canals",
+    1
+   ],
+   [
+    "flags with stars",
+    3
+   ],
+   [
+    "hats",
+    2
+   ],
+   [
+    "places that are also words",
+    2
+   ],
+   [
+    "straits and canals",
+    1
+   ]
+  ],
+  "clash": [
+   "south american countries"
+  ]
+ },
+ "Costa Rica": {
+  "also": [],
+  "clash": [
+   "south american countries"
+  ]
+ },
+ "Nicaragua": {
+  "also": [
+   [
+    "famous lakes",
+    4
+   ]
+  ],
+  "clash": [
+   "south american countries"
+  ]
+ },
+ "El Salvador": {
+  "also": [],
+  "clash": [
+   "south american countries"
+  ]
+ },
+ "Belize": {
+  "also": [],
+  "clash": [
+   "south american countries",
+   "spanish-speaking countries"
+  ]
+ },
+ "Bahamas": {
+  "also": [
+   [
+    "beach destinations",
+    1
+   ],
+   [
+    "caribbean islands",
+    1
+   ],
+   [
+    "pirate places",
+    2
+   ]
+  ],
+  "clash": []
+ },
+ "Dominican Republic": {
+  "also": [
+   [
+    "flags with crosses",
+    3
+   ]
+  ],
+  "clash": []
+ },
+ "Barbados": {
+  "also": [
+   [
+    "beach destinations",
+    2
+   ],
+   [
+    "caribbean islands",
+    1
+   ]
+  ],
+  "clash": []
+ },
+ "Trinidad": {
+  "also": [
+   [
+    "caribbean islands",
+    2
+   ]
+  ],
+  "clash": [
+   "south american countries"
+  ]
+ },
+ "Grenada": {
+  "also": [
+   [
+    "caribbean islands",
+    2
+   ],
+   [
+    "flags with stars",
+    4
+   ]
+  ],
+  "clash": []
+ },
+ "Dominica": {
+  "also": [
+   [
+    "caribbean islands",
+    2
+   ],
+   [
+    "flags with crosses",
+    4
+   ],
+   [
+    "flags with stars",
+    5
+   ]
+  ],
+  "clash": []
+ },
+ "St Lucia": {
+  "also": [
+   [
+    "beach destinations",
+    2
+   ],
+   [
+    "caribbean islands",
+    2
+   ],
+   [
+    "countries ending in ia",
+    3
+   ]
+  ],
+  "clash": []
+ },
+ "Antigua": {
+  "also": [
+   [
+    "beach destinations",
+    2
+   ],
+   [
+    "caribbean islands",
+    2
+   ]
+  ],
+  "clash": []
+ },
+ "St Kitts": {
+  "also": [
+   [
+    "caribbean islands",
+    3
+   ],
+   [
+    "flags with stars",
+    5
+   ]
+  ],
+  "clash": []
+ },
+ "St Vincent": {
+  "also": [
+   [
+    "caribbean islands",
+    3
+   ]
+  ],
+  "clash": []
+ },
+ "Brazil": {
+  "also": [
+   [
+    "flags with stars",
+    1
+   ]
+  ],
+  "clash": [
+   "nuts",
+   "spanish-speaking countries"
+  ]
+ },
+ "Chile": {
+  "also": [
+   [
+    "andes",
+    2
+   ],
+   [
+    "flags with stars",
+    2
+   ],
+   [
+    "places that are also words",
+    1
+   ]
+  ],
+  "clash": []
+ },
+ "Peru": {
+  "also": [
+   [
+    "andes",
+    2
+   ],
+   [
+    "red and white flags",
+    2
+   ],
+   [
+    "rhymes with blue",
+    2
+   ]
+  ],
+  "clash": []
+ },
+ "Colombia": {
+  "also": [
+   [
+    "countries ending in ia",
+    1
+   ],
+   [
+    "places named after people",
+    2
+   ],
+   [
+    "tricolor flags",
+    2
+   ]
+  ],
+  "clash": []
+ },
+ "Venezuela": {
+  "also": [
+   [
+    "flags with stars",
+    3
+   ],
+   [
+    "tricolor flags",
+    3
+   ]
+  ],
+  "clash": []
+ },
+ "Ecuador": {
+  "also": [
+   [
+    "andes",
+    2
+   ],
+   [
+    "tricolor flags",
+    3
+   ]
+  ],
+  "clash": []
+ },
+ "Bolivia": {
+  "also": [
+   [
+    "andes",
+    2
+   ],
+   [
+    "countries ending in ia",
+    1
+   ],
+   [
+    "places named after people",
+    2
+   ],
+   [
+    "tricolor flags",
+    3
+   ]
+  ],
+  "clash": []
+ },
+ "Uruguay": {
+  "also": [
+   [
+    "south american rivers",
+    3
+   ]
+  ],
+  "clash": []
+ },
+ "Paraguay": {
+  "also": [
+   [
+    "south american rivers",
+    3
+   ],
+   [
+    "tricolor flags",
+    4
+   ]
+  ],
+  "clash": []
+ },
+ "Suriname": {
+  "also": [
+   [
+    "flags with stars",
+    4
+   ]
+  ],
+  "clash": []
+ },
+ "French Guiana": {
+  "also": [
+   [
+    "french-speaking countries",
+    3
+   ]
+  ],
+  "clash": [
+   "north american countries"
+  ]
+ },
+ "Australia": {
+  "also": [
+   [
+    "anzac day",
+    2
+   ],
+   [
+    "continents and supercontinents",
+    1
+   ],
+   [
+    "countries ending in ia",
+    1
+   ],
+   [
+    "flags with crosses",
+    2
+   ],
+   [
+    "flags with stars",
+    1
+   ]
+  ],
+  "clash": [
+   "island nations"
+  ]
+ },
+ "New Zealand": {
+  "also": [
+   [
+    "anzac day",
+    2
+   ],
+   [
+    "flags with crosses",
+    2
+   ],
+   [
+    "flags with stars",
+    2
+   ],
+   [
+    "polynesian voyaging",
+    2
+   ]
+  ],
+  "clash": []
+ },
+ "Fiji": {
+  "also": [
+   [
+    "beach destinations",
+    1
+   ],
+   [
+    "flags with crosses",
+    3
+   ],
+   [
+    "pacific islands",
+    1
+   ]
+  ],
+  "clash": []
+ },
+ "Samoa": {
+  "also": [
+   [
+    "flags with stars",
+    4
+   ],
+   [
+    "pacific islands",
+    2
+   ],
+   [
+    "polynesian voyaging",
+    2
+   ]
+  ],
+  "clash": []
+ },
+ "Tonga": {
+  "also": [
+   [
+    "animal-powered travel",
+    5
+   ],
+   [
+    "asian transport",
+    4
+   ],
+   [
+    "flags with crosses",
+    4
+   ],
+   [
+    "pacific islands",
+    2
+   ],
+   [
+    "polynesian voyaging",
+    2
+   ],
+   [
+    "red and white flags",
+    3
+   ],
+   [
+    "taxis of the world",
+    5
+   ]
+  ],
+  "clash": []
+ },
+ "Papua New Guinea": {
+  "also": [
+   [
+    "flags with stars",
+    4
+   ]
+  ],
+  "clash": [
+   "asian countries"
+  ]
+ },
+ "Vanuatu": {
+  "also": [
+   [
+    "pacific islands",
+    3
+   ]
+  ],
+  "clash": []
+ },
+ "Solomon Islands": {
+  "also": [
+   [
+    "flags with stars",
+    4
+   ],
+   [
+    "pacific islands",
+    3
+   ],
+   [
+    "places named after people",
+    4
+   ]
+  ],
+  "clash": []
+ },
+ "Kiribati": {
+  "also": [
+   [
+    "pacific islands",
+    3
+   ],
+   [
+    "pacific languages",
+    4
+   ]
+  ],
+  "clash": []
+ },
+ "Tuvalu": {
+  "also": [
+   [
+    "flags with crosses",
+    4
+   ],
+   [
+    "flags with stars",
+    4
+   ],
+   [
+    "pacific islands",
+    3
+   ]
+  ],
+  "clash": []
+ },
+ "Nauru": {
+  "also": [
+   [
+    "flags with stars",
+    4
+   ],
+   [
+    "pacific islands",
+    3
+   ]
+  ],
+  "clash": []
+ },
+ "Palau": {
+  "also": [
+   [
+    "pacific islands",
+    3
+   ]
+  ],
+  "clash": []
+ },
+ "Marshall Islands": {
+  "also": [
+   [
+    "flags with stars",
+    4
+   ],
+   [
+    "pacific islands",
+    3
+   ],
+   [
+    "places named after people",
+    4
+   ]
+  ],
+  "clash": []
+ },
+ "Micronesia": {
+  "also": [
+   [
+    "countries ending in ia",
+    3
+   ],
+   [
+    "flags with stars",
+    4
+   ],
+   [
+    "world regions",
+    3
+   ]
+  ],
+  "clash": []
+ },
+ "Armenia": {
+  "also": [
+   [
+    "countries ending in ia",
+    2
+   ],
+   [
+    "tricolor flags",
+    3
+   ]
+  ],
+  "clash": [
+   "asian countries",
+   "eastern european countries",
+   "european countries",
+   "middle eastern countries"
+  ]
+ },
+ "Azerbaijan": {
+  "also": [
+   [
+    "flags with crescents",
+    3
+   ],
+   [
+    "flags with stars",
+    4
+   ]
+  ],
+  "clash": [
+   "asian countries",
+   "eastern european countries",
+   "european countries",
+   "middle eastern countries"
+  ]
+ },
+ "Guadalajara": {
+  "also": [
+   [
+    "spanish cities",
+    4
+   ]
+  ],
+  "clash": [
+   "south american cities"
+  ]
+ },
+ "Monterrey": {
+  "also": [],
+  "clash": [
+   "south american cities"
+  ]
+ },
+ "Tijuana": {
+  "also": [],
+  "clash": [
+   "south american cities"
+  ]
+ },
+ "Cancún": {
+  "also": [
+   [
+    "beach destinations",
+    1
+   ]
+  ],
+  "clash": [
+   "south american cities"
+  ]
+ },
+ "Puebla": {
+  "also": [
+   [
+    "famous battles",
+    4
+   ],
+   [
+    "mexican states",
+    3
+   ]
+  ],
+  "clash": [
+   "south american cities"
+  ]
+ },
+ "Oaxaca": {
+  "also": [
+   [
+    "cheeses",
+    3
+   ],
+   [
+    "day of the dead",
+    4
+   ],
+   [
+    "mexican states",
+    2
+   ]
+  ],
+  "clash": [
+   "mexican landmarks",
+   "south american cities"
+  ]
+ },
+ "Ciudad Juárez": {
+  "also": [],
+  "clash": [
+   "south american cities"
+  ]
+ },
+ "Chihuahua": {
+  "also": [
+   [
+    "cheeses",
+    4
+   ],
+   [
+    "dog breeds",
+    1
+   ],
+   [
+    "mexican states",
+    2
+   ],
+   [
+    "tiny things",
+    3
+   ],
+   [
+    "toy dogs",
+    1
+   ],
+   [
+    "words named after places",
+    2
+   ]
+  ],
+  "clash": [
+   "south american cities"
+  ]
+ },
+ "Hermosillo": {
+  "also": [],
+  "clash": [
+   "south american cities"
+  ]
+ },
+ "Morelia": {
+  "also": [],
+  "clash": [
+   "south american cities"
+  ]
+ },
+ "Querétaro": {
+  "also": [
+   [
+    "mexican states",
+    4
+   ]
+  ],
+  "clash": [
+   "south american cities"
+  ]
+ },
+ "Toluca": {
+  "also": [],
+  "clash": [
+   "south american cities"
+  ]
+ },
+ "Cuernavaca": {
+  "also": [],
+  "clash": [
+   "south american cities"
+  ]
+ },
+ "Guanajuato": {
+  "also": [
+   [
+    "mexican states",
+    3
+   ]
+  ],
+  "clash": [
+   "mexican landmarks",
+   "south american cities"
+  ]
+ },
+ "Zacatecas": {
+  "also": [
+   [
+    "mexican states",
+    3
+   ]
+  ],
+  "clash": [
+   "south american cities"
+  ]
+ },
+ "Culiacán": {
+  "also": [],
+  "clash": [
+   "south american cities"
+  ]
+ },
+ "Saltillo": {
+  "also": [],
+  "clash": [
+   "south american cities"
+  ]
+ },
+ "Torreón": {
+  "also": [],
+  "clash": [
+   "south american cities"
+  ]
+ },
+ "Mexicali": {
+  "also": [],
+  "clash": [
+   "south american cities"
+  ]
+ },
+ "Taxco": {
+  "also": [],
+  "clash": [
+   "mexican landmarks",
+   "south american cities"
+  ]
+ },
+ "Punta Cana": {
+  "also": [
+   [
+    "beach destinations",
+    2
+   ]
+  ],
+  "clash": [
+   "south american cities"
+  ]
+ },
+ "Varadero": {
+  "also": [
+   [
+    "beach destinations",
+    3
+   ],
+   [
+    "famous beaches",
+    3
+   ]
+  ],
+  "clash": [
+   "south american cities"
+  ]
+ },
+ "Camagüey": {
+  "also": [],
+  "clash": [
+   "south american cities"
+  ]
+ },
+ "Holguín": {
+  "also": [],
+  "clash": [
+   "south american cities"
+  ]
+ },
+ "Ponce": {
+  "also": [],
+  "clash": [
+   "american cities",
+   "conquistadors",
+   "south american cities"
+  ]
+ },
+ "Novosibirsk": {
+  "also": [],
+  "clash": [
+   "asian cities",
+   "european cities"
+  ]
+ },
+ "Omsk": {
+  "also": [],
+  "clash": [
+   "asian cities",
+   "european cities"
+  ]
+ },
+ "Irkutsk": {
+  "also": [],
+  "clash": [
+   "asian cities",
+   "european cities",
+   "famous lakes"
+  ]
+ },
+ "Krasnoyarsk": {
+  "also": [],
+  "clash": [
+   "asian cities",
+   "european cities"
+  ]
+ },
+ "Tomsk": {
+  "also": [],
+  "clash": [
+   "asian cities",
+   "european cities"
+  ]
+ },
+ "Chelyabinsk": {
+  "also": [],
+  "clash": [
+   "asian cities",
+   "european cities"
+  ]
+ },
+ "Khabarovsk": {
+  "also": [],
+  "clash": [
+   "asian cities",
+   "european cities"
+  ]
+ },
+ "Yakutsk": {
+  "also": [],
+  "clash": [
+   "asian cities",
+   "european cities"
+  ]
+ },
+ "Barnaul": {
+  "also": [],
+  "clash": [
+   "asian cities",
+   "european cities"
+  ]
+ },
+ "Norilsk": {
+  "also": [],
+  "clash": [
+   "asian cities",
+   "european cities"
+  ]
+ },
+ "Aguascalientes": {
+  "also": [
+   [
+    "mexican states",
+    4
+   ]
+  ],
+  "clash": [
+   "south american cities"
+  ]
+ },
+ "Yekaterinburg": {
+  "also": [],
+  "clash": [
+   "asian cities",
+   "european cities",
+   "old city names"
+  ]
+ },
+ "Quetzaltenango": {
+  "also": [],
+  "clash": [
+   "south american cities"
+  ]
+ },
+ "San Pedro Sula": {
+  "also": [],
+  "clash": [
+   "south american cities"
+  ]
+ },
+ "San Luis Potosí": {
+  "also": [
+   [
+    "mexican states",
+    4
+   ]
+  ],
+  "clash": [
+   "south american cities"
+  ]
+ },
+ "Santiago de Cuba": {
+  "also": [],
+  "clash": [
+   "capital cities",
+   "south american cities"
+  ]
+ },
+ "Playa del Carmen": {
+  "also": [
+   [
+    "beach destinations",
+    3
+   ],
+   [
+    "famous beaches",
+    3
+   ]
+  ],
+  "clash": [
+   "south american cities"
+  ]
+ },
+ "Cabo San Lucas": {
+  "also": [
+   [
+    "beach destinations",
+    2
+   ]
+  ],
+  "clash": [
+   "south american cities"
+  ]
+ },
+ "Acapulco": {
+  "also": [
+   [
+    "beach destinations",
+    2
+   ]
+  ],
+  "clash": [
+   "south american cities"
+  ]
+ },
+ "Veracruz": {
+  "also": [
+   [
+    "mexican states",
+    3
+   ],
+   [
+    "port cities",
+    3
+   ]
+  ],
+  "clash": [
+   "south american cities"
+  ]
+ },
+ "Mazatlán": {
+  "also": [
+   [
+    "beach destinations",
+    3
+   ],
+   [
+    "port cities",
+    3
+   ]
+  ],
+  "clash": [
+   "south american cities"
+  ]
+ },
+ "Puerto Vallarta": {
+  "also": [
+   [
+    "beach destinations",
+    2
+   ]
+  ],
+  "clash": [
+   "south american cities"
+  ]
+ },
+ "Tulum": {
+  "also": [
+   [
+    "aztecs and maya",
+    3
+   ],
+   [
+    "beach destinations",
+    2
+   ],
+   [
+    "famous beaches",
+    3
+   ],
+   [
+    "maya and aztec sites",
+    2
+   ],
+   [
+    "mexican landmarks",
+    2
+   ],
+   [
+    "turkish breakfast",
+    4
+   ],
+   [
+    "turkish instruments",
+    4
+   ]
+  ],
+  "clash": [
+   "south american cities"
+  ]
+ },
+ "Ensenada": {
+  "also": [
+   [
+    "port cities",
+    3
+   ]
+  ],
+  "clash": [
+   "south american cities"
+  ]
+ },
+ "San Miguel de Allende": {
+  "also": [],
+  "clash": [
+   "mexican landmarks",
+   "south american cities"
+  ]
+ },
+ "Washington": {
+  "also": [
+   [
+    "hidden body parts",
+    2
+   ],
+   [
+    "places named after people",
+    1
+   ],
+   [
+    "street names",
+    1
+   ],
+   [
+    "us presidents",
+    1
+   ],
+   [
+    "us states",
+    1
+   ]
+  ],
+  "clash": []
+ },
+ "Ottawa": {
+  "also": [
+   [
+    "famous marathons",
+    5
+   ],
+   [
+    "north american rivers",
+    3
+   ]
+  ],
+  "clash": []
+ },
+ "Mexico City": {
+  "also": [
+   [
+    "olympic host cities",
+    2
+   ]
+  ],
+  "clash": []
+ },
+ "Buenos Aires": {
+  "also": [
+   [
+    "port cities",
+    2
+   ]
+  ],
+  "clash": []
+ },
+ "Canberra": {
+  "also": [
+   [
+    "australian cities",
+    1
+   ]
+  ],
+  "clash": []
+ },
+ "Wellington": {
+  "also": [
+   [
+    "boots",
+    2
+   ],
+   [
+    "famous generals",
+    2
+   ],
+   [
+    "new zealand cities",
+    1
+   ],
+   [
+    "places named after people",
+    2
+   ],
+   [
+    "street names",
+    3
+   ],
+   [
+    "words named after people",
+    3
+   ]
+  ],
+  "clash": [
+   "dishes",
+   "foods named after people"
+  ]
+ },
+ "Havana": {
+  "also": [
+   [
+    "port cities",
+    4
+   ],
+   [
+    "smoking words",
+    3
+   ]
+  ],
+  "clash": [
+   "cat breeds"
+  ]
+ },
+ "Lima": {
+  "also": [
+   [
+    "foods named after places",
+    4
+   ],
+   [
+    "phonetic alphabet",
+    1
+   ]
+  ],
+  "clash": [
+   "beans and pulses"
+  ]
+ },
+ "Santiago": {
+  "also": [
+   [
+    "latin american names",
+    1
+   ],
+   [
+    "orders of knighthood",
+    4
+   ]
+  ],
+  "clash": [
+   "famous saints",
+   "spanish cities"
+  ]
+ },
+ "Quito": {
+  "also": [
+   [
+    "andes",
+    2
+   ]
+  ],
+  "clash": []
+ },
+ "La Paz": {
+  "also": [
+   [
+    "andes",
+    2
+   ]
+  ],
+  "clash": []
+ },
+ "Montevideo": {
+  "also": [
+   [
+    "port cities",
+    3
+   ]
+  ],
+  "clash": []
+ },
+ "Kingston": {
+  "also": [
+   [
+    "canadian cities",
+    3
+   ],
+   [
+    "names that are places",
+    3
+   ],
+   [
+    "port cities",
+    4
+   ]
+  ],
+  "clash": []
+ },
+ "Nassau": {
+  "also": [
+   [
+    "pirate places",
+    2
+   ],
+   [
+    "port cities",
+    4
+   ]
+  ],
+  "clash": [
+   "royal houses"
+  ]
+ },
+ "Panama City": {
+  "also": [
+   [
+    "american cities",
+    4
+   ],
+   [
+    "port cities",
+    3
+   ]
+  ],
+  "clash": []
+ },
+ "San José": {
+  "also": [
+   [
+    "american cities",
+    2
+   ]
+  ],
+  "clash": []
+ },
+ "Asunción": {
+  "also": [],
+  "clash": [
+   "religious festivals"
+  ]
+ },
+ "Sucre": {
+  "also": [
+   [
+    "latin american currencies",
+    4
+   ],
+   [
+    "places named after people",
+    5
+   ]
+  ],
+  "clash": [
+   "latin american liberators"
+  ]
+ },
+ "Georgetown": {
+  "also": [
+   [
+    "places named after people",
+    4
+   ]
+  ],
+  "clash": []
+ },
+ "Santo Domingo": {
+  "also": [
+   [
+    "port cities",
+    4
+   ]
+  ],
+  "clash": []
+ },
+ "Port-au-Prince": {
+  "also": [
+   [
+    "port cities",
+    4
+   ]
+  ],
+  "clash": []
+ },
+ "Bridgetown": {
+  "also": [
+   [
+    "port cities",
+    4
+   ]
+  ],
+  "clash": []
+ },
+ "Castries": {
+  "also": [
+   [
+    "port cities",
+    4
+   ]
+  ],
+  "clash": []
+ },
+ "Roseau": {
+  "also": [
+   [
+    "port cities",
+    4
+   ]
+  ],
+  "clash": []
+ },
+ "Basseterre": {
+  "also": [
+   [
+    "port cities",
+    4
+   ]
+  ],
+  "clash": []
+ },
+ "Kingstown": {
+  "also": [
+   [
+    "port cities",
+    4
+   ]
+  ],
+  "clash": []
+ },
+ "Suva": {
+  "also": [
+   [
+    "oceanian cities",
+    3
+   ]
+  ],
+  "clash": []
+ },
+ "Apia": {
+  "also": [
+   [
+    "oceanian cities",
+    4
+   ]
+  ],
+  "clash": []
+ },
+ "Port Moresby": {
+  "also": [
+   [
+    "oceanian cities",
+    3
+   ]
+  ],
+  "clash": []
+ },
+ "Honiara": {
+  "also": [
+   [
+    "oceanian cities",
+    4
+   ]
+  ],
+  "clash": []
+ },
+ "Port Vila": {
+  "also": [
+   [
+    "oceanian cities",
+    4
+   ]
+  ],
+  "clash": []
+ },
+ "Nuku'alofa": {
+  "also": [
+   [
+    "oceanian cities",
+    5
+   ]
+  ],
+  "clash": []
+ },
+ "Tarawa": {
+  "also": [
+   [
+    "oceanian cities",
+    4
+   ],
+   [
+    "pacific islands",
+    4
+   ],
+   [
+    "world war ii battles",
+    3
+   ]
+  ],
+  "clash": []
+ },
+ "Funafuti": {
+  "also": [
+   [
+    "oceanian cities",
+    5
+   ]
+  ],
+  "clash": []
+ },
+ "Majuro": {
+  "also": [
+   [
+    "oceanian cities",
+    5
+   ]
+  ],
+  "clash": []
+ },
+ "Palikir": {
+  "also": [
+   [
+    "oceanian cities",
+    5
+   ]
+  ],
+  "clash": []
+ },
+ "Ankara": {
+  "also": [
+   [
+    "african art words",
+    4
+   ],
+   [
+    "african home",
+    4
+   ],
+   [
+    "fabric prints",
+    4
+   ],
+   [
+    "materials from africa",
+    4
+   ],
+   [
+    "medieval battles",
+    4
+   ]
+  ],
+  "clash": [
+   "asian capitals",
+   "asian cities",
+   "european capitals",
+   "middle eastern cities",
+   "old city names"
+  ]
+ },
+ "Tbilisi": {
+  "also": [],
+  "clash": [
+   "asian capitals",
+   "european capitals",
+   "middle eastern cities"
+  ]
+ },
+ "Yerevan": {
+  "also": [],
+  "clash": [
+   "asian capitals",
+   "european capitals",
+   "middle eastern cities"
+  ]
+ },
+ "Baku": {
+  "also": [
+   [
+    "mythical creatures",
+    4
+   ],
+   [
+    "yokai",
+    4
+   ]
+  ],
+  "clash": [
+   "asian capitals",
+   "european capitals",
+   "middle eastern cities"
+  ]
+ },
+ "Nicosia": {
+  "also": [
+   [
+    "european capitals",
+    3
+   ]
+  ],
+  "clash": [
+   "asian capitals",
+   "middle eastern cities"
+  ]
+ },
+ "Port of Spain": {
+  "also": [],
+  "clash": [
+   "south american cities"
+  ]
+ },
+ "St John's": {
+  "also": [
+   [
+    "port cities",
+    4
+   ]
+  ],
+  "clash": []
+ },
+ "St George's": {
+  "also": [
+   [
+    "port cities",
+    4
+   ]
+  ],
+  "clash": []
+ },
+ "London": {
+  "also": [
+   [
+    "famous marathons",
+    1
+   ],
+   [
+    "hidden names",
+    2
+   ],
+   [
+    "names that are places",
+    3
+   ],
+   [
+    "olympic host cities",
+    1
+   ],
+   [
+    "places after new",
+    4
+   ],
+   [
+    "street names",
+    2
+   ]
+  ],
+  "clash": []
+ },
+ "Paris": {
+  "also": [
+   [
+    "famous marathons",
+    3
+   ],
+   [
+    "names that are places",
+    1
+   ],
+   [
+    "olympic host cities",
+    1
+   ],
+   [
+    "trojan war",
+    2
+   ]
+  ],
+  "clash": []
+ },
+ "Berlin": {
+  "also": [
+   [
+    "famous marathons",
+    2
+   ],
+   [
+    "foods named after places",
+    3
+   ],
+   [
+    "german states",
+    1
+   ],
+   [
+    "olympic host cities",
+    2
+   ],
+   [
+    "world war ii battles",
+    3
+   ]
+  ],
+  "clash": []
+ },
+ "Rome": {
+  "also": [
+   [
+    "ancient rome",
+    1
+   ],
+   [
+    "apple varieties",
+    4
+   ],
+   [
+    "famous marathons",
+    4
+   ],
+   [
+    "holy cities",
+    2
+   ],
+   [
+    "olympic host cities",
+    2
+   ],
+   [
+    "pilgrimage sites",
+    1
+   ]
+  ],
+  "clash": [
+   "homophones"
+  ]
+ },
+ "Madrid": {
+  "also": [
+   [
+    "spanish regions",
+    3
+   ]
+  ],
+  "clash": [
+   "european soccer clubs"
+  ]
+ },
+ "Lisbon": {
+  "also": [
+   [
+    "famous marathons",
+    5
+   ],
+   [
+    "port cities",
+    2
+   ],
+   [
+    "spice trade",
+    3
+   ]
+  ],
+  "clash": []
+ },
+ "Dublin": {
+  "also": [
+   [
+    "famous marathons",
+    4
+   ],
+   [
+    "port cities",
+    3
+   ],
+   [
+    "st. patrick's day",
+    2
+   ],
+   [
+    "vikings",
+    3
+   ]
+  ],
+  "clash": []
+ },
+ "Amsterdam": {
+  "also": [
+   [
+    "famous marathons",
+    3
+   ],
+   [
+    "olympic host cities",
+    2
+   ],
+   [
+    "places after new",
+    3
+   ],
+   [
+    "port cities",
+    3
+   ],
+   [
+    "spice trade",
+    3
+   ]
+  ],
+  "clash": []
+ },
+ "Brussels": {
+  "also": [
+   [
+    "foods named after places",
+    2
+   ]
+  ],
+  "clash": [
+   "cabbage family"
+  ]
+ },
+ "Vienna": {
+  "also": [
+   [
+    "famous marathons",
+    4
+   ],
+   [
+    "foods named after places",
+    3
+   ],
+   [
+    "names that are places",
+    3
+   ]
+  ],
+  "clash": [
+   "sausages"
+  ]
+ },
+ "Athens": {
+  "also": [
+   [
+    "ancient greece",
+    1
+   ],
+   [
+    "famous marathons",
+    3
+   ],
+   [
+    "hidden birds",
+    3
+   ],
+   [
+    "olympic host cities",
+    1
+   ]
+  ],
+  "clash": []
+ },
+ "Moscow": {
+  "also": [
+   [
+    "olympic host cities",
+    2
+   ],
+   [
+    "world war ii battles",
+    3
+   ]
+  ],
+  "clash": [
+   "cocktails"
+  ]
+ },
+ "Prague": {
+  "also": [
+   [
+    "famous marathons",
+    4
+   ]
+  ],
+  "clash": []
+ },
+ "Stockholm": {
+  "also": [
+   [
+    "famous marathons",
+    4
+   ],
+   [
+    "olympic host cities",
+    2
+   ],
+   [
+    "port cities",
+    3
+   ]
+  ],
+  "clash": []
+ },
+ "Oslo": {
+  "also": [
+   [
+    "olympic host cities",
+    2
+   ],
+   [
+    "port cities",
+    3
+   ]
+  ],
+  "clash": []
+ },
+ "Copenhagen": {
+  "also": [
+   [
+    "european soccer clubs",
+    4
+   ],
+   [
+    "famous marathons",
+    5
+   ],
+   [
+    "napoleonic battles",
+    4
+   ],
+   [
+    "port cities",
+    3
+   ]
+  ],
+  "clash": []
+ },
+ "Helsinki": {
+  "also": [
+   [
+    "olympic host cities",
+    2
+   ],
+   [
+    "port cities",
+    3
+   ]
+  ],
+  "clash": []
+ },
+ "Reykjavík": {
+  "also": [
+   [
+    "port cities",
+    3
+   ]
+  ],
+  "clash": []
+ },
+ "Bern": {
+  "also": [
+   [
+    "places after new",
+    5
+   ]
+  ],
+  "clash": [
+   "homophones"
+  ]
+ },
+ "Kyiv": {
+  "also": [],
+  "clash": [
+   "foods named after places"
+  ]
+ },
+ "Sofia": {
+  "also": [
+   [
+    "girls' names",
+    2
+   ],
+   [
+    "latin american names",
+    1
+   ]
+  ],
+  "clash": []
+ },
+ "Riga": {
+  "also": [
+   [
+    "port cities",
+    3
+   ]
+  ],
+  "clash": []
+ },
+ "Tallinn": {
+  "also": [
+   [
+    "port cities",
+    3
+   ]
+  ],
+  "clash": []
+ },
+ "Sarajevo": {
+  "also": [
+   [
+    "film festivals",
+    5
+   ],
+   [
+    "olympic host cities",
+    2
+   ]
+  ],
+  "clash": [
+   "world war i battles"
+  ]
+ },
+ "Valletta": {
+  "also": [
+   [
+    "port cities",
+    3
+   ]
+  ],
+  "clash": []
+ },
+ "Tokyo": {
+  "also": [
+   [
+    "famous marathons",
+    2
+   ],
+   [
+    "olympic host cities",
+    1
+   ]
+  ],
+  "clash": []
+ },
+ "Beijing": {
+  "also": [
+   [
+    "olympic host cities",
+    1
+   ],
+   [
+    "rhymes with ring",
+    2
+   ]
+  ],
+  "clash": [
+   "old city names"
+  ]
+ },
+ "Seoul": {
+  "also": [
+   [
+    "famous marathons",
+    4
+   ],
+   [
+    "olympic host cities",
+    2
+   ]
+  ],
+  "clash": [
+   "homophones"
+  ]
+ },
+ "Manila": {
+  "also": [
+   [
+    "port cities",
+    3
+   ]
+  ],
+  "clash": [
+   "paper goods",
+   "stationery"
+  ]
+ },
+ "Jakarta": {
+  "also": [
+   [
+    "port cities",
+    3
+   ]
+  ],
+  "clash": []
+ },
+ "Kabul": {
+  "also": [
+   [
+    "silk road cities",
+    3
+   ]
+  ],
+  "clash": [
+   "middle eastern cities"
+  ]
+ },
+ "Islamabad": {
+  "also": [],
+  "clash": [
+   "indian cities"
+  ]
+ },
+ "Dhaka": {
+  "also": [],
+  "clash": [
+   "indian cities"
+  ]
+ },
+ "Tehran": {
+  "also": [],
+  "clash": [
+   "asian cities"
+  ]
+ },
+ "Baghdad": {
+  "also": [
+   [
+    "arabian nights",
+    2
+   ],
+   [
+    "silk road",
+    3
+   ],
+   [
+    "silk road cities",
+    3
+   ]
+  ],
+  "clash": [
+   "asian cities"
+  ]
+ },
+ "Riyadh": {
+  "also": [],
+  "clash": [
+   "asian cities"
+  ]
+ },
+ "Damascus": {
+  "also": [
+   [
+    "crusades",
+    3
+   ],
+   [
+    "foods named after places",
+    4
+   ],
+   [
+    "silk road",
+    3
+   ],
+   [
+    "silk road cities",
+    3
+   ]
+  ],
+  "clash": [
+   "alloys",
+   "ancient cities",
+   "asian cities",
+   "fabrics",
+   "words named after places"
+  ]
+ },
+ "Beirut": {
+  "also": [
+   [
+    "port cities",
+    3
+   ]
+  ],
+  "clash": [
+   "asian cities"
+  ]
+ },
+ "Amman": {
+  "also": [],
+  "clash": [
+   "asian cities"
+  ]
+ },
+ "Kuwait City": {
+  "also": [
+   [
+    "port cities",
+    3
+   ]
+  ],
+  "clash": [
+   "asian cities"
+  ]
+ },
+ "Doha": {
+  "also": [
+   [
+    "port cities",
+    3
+   ]
+  ],
+  "clash": [
+   "asian cities"
+  ]
+ },
+ "Abu Dhabi": {
+  "also": [
+   [
+    "port cities",
+    3
+   ]
+  ],
+  "clash": [
+   "asian cities"
+  ]
+ },
+ "Muscat": {
+  "also": [
+   [
+    "port cities",
+    3
+   ],
+   [
+    "white wines",
+    3
+   ]
+  ],
+  "clash": [
+   "asian cities"
+  ]
+ },
+ "Manama": {
+  "also": [
+   [
+    "port cities",
+    3
+   ]
+  ],
+  "clash": [
+   "asian cities"
+  ]
+ },
+ "Sanaa": {
+  "also": [
+   [
+    "architects",
+    5
+   ]
+  ],
+  "clash": [
+   "asian cities"
+  ]
+ },
+ "Naypyidaw": {
+  "also": [
+   [
+    "asian cities",
+    1
+   ]
+  ],
+  "clash": []
+ },
+ "Colombo": {
+  "also": [
+   [
+    "port cities",
+    3
+   ]
+  ],
+  "clash": []
+ },
+ "Malé": {
+  "also": [],
+  "clash": [
+   "beach destinations",
+   "homophones"
+  ]
+ },
+ "Astana": {
+  "also": [],
+  "clash": [
+   "old city names"
+  ]
+ },
+ "Tashkent": {
+  "also": [
+   [
+    "silk road",
+    3
+   ],
+   [
+    "silk road cities",
+    3
+   ]
+  ],
+  "clash": []
+ },
+ "Bandar Seri Begawan": {
+  "also": [
+   [
+    "asian cities",
+    1
+   ]
+  ],
+  "clash": []
+ },
+ "Sri Jayawardenepura Kotte": {
+  "also": [
+   [
+    "asian cities",
+    3
+   ]
+  ],
+  "clash": []
+ },
+ "Cairo": {
+  "also": [
+   [
+    "african cities",
+    1
+   ],
+   [
+    "names that are places",
+    4
+   ]
+  ],
+  "clash": []
+ },
+ "Nairobi": {
+  "also": [
+   [
+    "african cities",
+    1
+   ],
+   [
+    "african national parks",
+    3
+   ]
+  ],
+  "clash": []
+ },
+ "Addis Ababa": {
+  "also": [
+   [
+    "african cities",
+    2
+   ]
+  ],
+  "clash": []
+ },
+ "Abuja": {
+  "also": [
+   [
+    "african cities",
+    2
+   ]
+  ],
+  "clash": []
+ },
+ "Pretoria": {
+  "also": [
+   [
+    "african cities",
+    2
+   ],
+   [
+    "places named after people",
+    4
+   ]
+  ],
+  "clash": []
+ },
+ "Cape Town": {
+  "also": [
+   [
+    "african cities",
+    1
+   ],
+   [
+    "beach destinations",
+    2
+   ],
+   [
+    "famous marathons",
+    5
+   ]
+  ],
+  "clash": []
+ },
+ "Accra": {
+  "also": [
+   [
+    "african cities",
+    2
+   ]
+  ],
+  "clash": []
+ },
+ "Dakar": {
+  "also": [
+   [
+    "african cities",
+    2
+   ],
+   [
+    "port cities",
+    3
+   ]
+  ],
+  "clash": [
+   "famous races"
+  ]
+ },
+ "Rabat": {
+  "also": [
+   [
+    "african cities",
+    3
+   ],
+   [
+    "neckwear",
+    5
+   ]
+  ],
+  "clash": [
+   "middle eastern cities"
+  ]
+ },
+ "Algiers": {
+  "also": [
+   [
+    "african cities",
+    2
+   ],
+   [
+    "pirate places",
+    3
+   ],
+   [
+    "port cities",
+    3
+   ]
+  ],
+  "clash": [
+   "middle eastern cities"
+  ]
+ },
+ "Tunis": {
+  "also": [
+   [
+    "african cities",
+    2
+   ],
+   [
+    "pirate places",
+    3
+   ],
+   [
+    "port cities",
+    3
+   ],
+   [
+    "sheep breeds",
+    5
+   ]
+  ],
+  "clash": [
+   "middle eastern cities"
+  ]
+ },
+ "Tripoli": {
+  "also": [
+   [
+    "african cities",
+    2
+   ],
+   [
+    "crusades",
+    3
+   ],
+   [
+    "pirate places",
+    3
+   ],
+   [
+    "port cities",
+    3
+   ]
+  ],
+  "clash": [
+   "middle eastern cities"
+  ]
+ },
+ "Khartoum": {
+  "also": [
+   [
+    "african cities",
+    2
+   ]
+  ],
+  "clash": [
+   "middle eastern cities"
+  ]
+ },
+ "Kampala": {
+  "also": [
+   [
+    "african cities",
+    2
+   ]
+  ],
+  "clash": []
+ },
+ "Kigali": {
+  "also": [
+   [
+    "african cities",
+    3
+   ]
+  ],
+  "clash": []
+ },
+ "Dodoma": {
+  "also": [
+   [
+    "african cities",
+    4
+   ]
+  ],
+  "clash": []
+ },
+ "Mogadishu": {
+  "also": [
+   [
+    "african cities",
+    2
+   ],
+   [
+    "famous battles",
+    3
+   ]
+  ],
+  "clash": []
+ },
+ "Asmara": {
+  "also": [
+   [
+    "african cities",
+    4
+   ]
+  ],
+  "clash": []
+ },
+ "Juba": {
+  "also": [
+   [
+    "african cities",
+    4
+   ],
+   [
+    "african rivers",
+    4
+   ],
+   [
+    "north american folk dances",
+    4
+   ]
+  ],
+  "clash": []
+ },
+ "Kinshasa": {
+  "also": [
+   [
+    "african cities",
+    2
+   ]
+  ],
+  "clash": []
+ },
+ "Brazzaville": {
+  "also": [
+   [
+    "african cities",
+    4
+   ],
+   [
+    "places named after people",
+    4
+   ]
+  ],
+  "clash": []
+ },
+ "Luanda": {
+  "also": [
+   [
+    "african cities",
+    3
+   ]
+  ],
+  "clash": []
+ },
+ "Lusaka": {
+  "also": [
+   [
+    "african cities",
+    3
+   ]
+  ],
+  "clash": []
+ },
+ "Harare": {
+  "also": [
+   [
+    "african cities",
+    2
+   ]
+  ],
+  "clash": [
+   "old city names"
+  ]
+ },
+ "Maputo": {
+  "also": [
+   [
+    "african cities",
+    3
+   ]
+  ],
+  "clash": []
+ },
+ "Lilongwe": {
+  "also": [
+   [
+    "african cities",
+    4
+   ]
+  ],
+  "clash": []
+ },
+ "Windhoek": {
+  "also": [
+   [
+    "african cities",
+    3
+   ]
+  ],
+  "clash": []
+ },
+ "Gaborone": {
+  "also": [
+   [
+    "african cities",
+    3
+   ]
+  ],
+  "clash": []
+ },
+ "Maseru": {
+  "also": [
+   [
+    "african cities",
+    4
+   ]
+  ],
+  "clash": []
+ },
+ "Mbabane": {
+  "also": [
+   [
+    "african cities",
+    5
+   ]
+  ],
+  "clash": []
+ },
+ "Antananarivo": {
+  "also": [
+   [
+    "african cities",
+    4
+   ]
+  ],
+  "clash": []
+ },
+ "Port Louis": {
+  "also": [
+   [
+    "african cities",
+    4
+   ]
+  ],
+  "clash": []
+ },
+ "Moroni": {
+  "also": [
+   [
+    "african cities",
+    5
+   ]
+  ],
+  "clash": []
+ },
+ "Bamako": {
+  "also": [
+   [
+    "african cities",
+    3
+   ]
+  ],
+  "clash": []
+ },
+ "Niamey": {
+  "also": [
+   [
+    "african cities",
+    4
+   ]
+  ],
+  "clash": []
+ },
+ "Ouagadougou": {
+  "also": [
+   [
+    "african cities",
+    4
+   ]
+  ],
+  "clash": []
+ },
+ "N'Djamena": {
+  "also": [
+   [
+    "african cities",
+    4
+   ]
+  ],
+  "clash": []
+ },
+ "Yaoundé": {
+  "also": [
+   [
+    "african cities",
+    4
+   ]
+  ],
+  "clash": []
+ },
+ "Libreville": {
+  "also": [
+   [
+    "african cities",
+    4
+   ]
+  ],
+  "clash": []
+ },
+ "Malabo": {
+  "also": [
+   [
+    "african cities",
+    5
+   ]
+  ],
+  "clash": []
+ },
+ "Bangui": {
+  "also": [
+   [
+    "african cities",
+    4
+   ]
+  ],
+  "clash": []
+ },
+ "Freetown": {
+  "also": [
+   [
+    "african cities",
+    3
+   ]
+  ],
+  "clash": []
+ },
+ "Monrovia": {
+  "also": [
+   [
+    "african cities",
+    3
+   ]
+  ],
+  "clash": []
+ },
+ "Conakry": {
+  "also": [
+   [
+    "african cities",
+    4
+   ]
+  ],
+  "clash": []
+ },
+ "Bissau": {
+  "also": [
+   [
+    "african cities",
+    5
+   ]
+  ],
+  "clash": []
+ },
+ "Banjul": {
+  "also": [
+   [
+    "african cities",
+    4
+   ]
+  ],
+  "clash": []
+ },
+ "Nouakchott": {
+  "also": [
+   [
+    "african cities",
+    5
+   ]
+  ],
+  "clash": []
+ },
+ "Porto-Novo": {
+  "also": [
+   [
+    "african cities",
+    4
+   ]
+  ],
+  "clash": []
+ },
+ "Lomé": {
+  "also": [
+   [
+    "african cities",
+    4
+   ],
+   [
+    "port cities",
+    4
+   ]
+  ],
+  "clash": []
+ },
+ "Yamoussoukro": {
+  "also": [
+   [
+    "african cities",
+    4
+   ]
+  ],
+  "clash": []
+ },
+ "Praia": {
+  "also": [
+   [
+    "african cities",
+    5
+   ]
+  ],
+  "clash": []
+ },
+ "Bloemfontein": {
+  "also": [
+   [
+    "african cities",
+    4
+   ]
+  ],
+  "clash": []
+ },
+ "Gitega": {
+  "also": [
+   [
+    "african cities",
+    5
+   ]
+  ],
+  "clash": []
+ },
+ "St Petersburg": {
+  "also": [
+   [
+    "american cities",
+    3
+   ],
+   [
+    "places named after people",
+    2
+   ],
+   [
+    "port cities",
+    3
+   ]
+  ],
+  "clash": [
+   "capital cities",
+   "european capitals"
+  ]
+ },
+ "Geneva": {
+  "also": [
+   [
+    "famous lakes",
+    2
+   ],
+   [
+    "names that are places",
+    3
+   ]
+  ],
+  "clash": [
+   "capital cities",
+   "european capitals"
+  ]
+ },
+ "Zürich": {
+  "also": [
+   [
+    "famous lakes",
+    3
+   ]
+  ],
+  "clash": [
+   "capital cities",
+   "european capitals"
+  ]
+ },
+ "Rotterdam": {
+  "also": [
+   [
+    "famous marathons",
+    4
+   ],
+   [
+    "film festivals",
+    4
+   ],
+   [
+    "port cities",
+    1
+   ]
+  ],
+  "clash": []
+ },
+ "Antwerp": {
+  "also": [
+   [
+    "olympic host cities",
+    3
+   ],
+   [
+    "port cities",
+    2
+   ]
+  ],
+  "clash": []
+ },
+ "Kraków": {
+  "also": [],
+  "clash": [
+   "capital cities",
+   "european capitals"
+  ]
+ },
+ "Porto": {
+  "also": [
+   [
+    "european soccer clubs",
+    2
+   ]
+  ],
+  "clash": [
+   "wines"
+  ]
+ },
+ "Salzburg": {
+  "also": [],
+  "clash": [
+   "european soccer clubs"
+  ]
+ },
+ "Dubrovnik": {
+  "also": [
+   [
+    "beach destinations",
+    2
+   ],
+   [
+    "port cities",
+    3
+   ]
+  ],
+  "clash": []
+ },
+ "Basel": {
+  "also": [
+   [
+    "european soccer clubs",
+    4
+   ]
+  ],
+  "clash": []
+ },
+ "Gothenburg": {
+  "also": [
+   [
+    "port cities",
+    3
+   ]
+  ],
+  "clash": []
+ },
+ "Bergen": {
+  "also": [
+   [
+    "port cities",
+    3
+   ]
+  ],
+  "clash": []
+ },
+ "The Hague": {
+  "also": [],
+  "clash": [
+   "capital cities",
+   "european capitals"
+  ]
+ },
+ "Odesa": {
+  "also": [
+   [
+    "port cities",
+    2
+   ]
+  ],
+  "clash": []
+ },
+ "Split": {
+  "also": [
+   [
+    "blackjack terms",
+    2
+   ],
+   [
+    "bowling terms",
+    2
+   ],
+   [
+    "places that are also words",
+    2
+   ],
+   [
+    "rowing words",
+    4
+   ]
+  ],
+  "clash": [
+   "desserts and sweets",
+   "gymnastics moves"
+  ]
+ },
+ "Thessaloniki": {
+  "also": [
+   [
+    "places named after people",
+    5
+   ],
+   [
+    "port cities",
+    3
+   ]
+  ],
+  "clash": []
+ },
+ "Gdańsk": {
+  "also": [
+   [
+    "port cities",
+    2
+   ]
+  ],
+  "clash": [
+   "old city names"
+  ]
+ },
+ "Innsbruck": {
+  "also": [
+   [
+    "olympic host cities",
+    2
+   ]
+  ],
+  "clash": [
+   "famous ski resorts"
+  ]
+ },
+ "Lucerne": {
+  "also": [
+   [
+    "famous lakes",
+    3
+   ]
+  ],
+  "clash": []
+ },
+ "Malmö": {
+  "also": [
+   [
+    "european soccer clubs",
+    4
+   ]
+  ],
+  "clash": []
+ },
+ "Eindhoven": {
+  "also": [],
+  "clash": [
+   "european soccer clubs"
+  ]
+ },
+ "Delft": {
+  "also": [
+   [
+    "places that are also words",
+    4
+   ]
+  ],
+  "clash": [
+   "pottery words",
+   "shades of blue"
+  ]
+ },
+ "Liège": {
+  "also": [
+   [
+    "world war i battles",
+    4
+   ]
+  ],
+  "clash": [
+   "feudal ranks",
+   "royal titles"
+  ]
+ },
+ "Linz": {
+  "also": [
+   [
+    "foods named after places",
+    4
+   ]
+  ],
+  "clash": []
+ },
+ "Lugano": {
+  "also": [
+   [
+    "famous lakes",
+    3
+   ]
+  ],
+  "clash": []
+ },
+ "Wrocław": {
+  "also": [],
+  "clash": [
+   "old city names"
+  ]
+ },
+ "Sochi": {
+  "also": [
+   [
+    "olympic host cities",
+    2
+   ]
+  ],
+  "clash": []
+ },
+ "Volgograd": {
+  "also": [],
+  "clash": [
+   "old city names",
+   "world war ii battles"
+  ]
+ },
+ "Kaliningrad": {
+  "also": [
+   [
+    "places named after people",
+    4
+   ]
+  ],
+  "clash": [
+   "old city names"
+  ]
+ },
+ "Murmansk": {
+  "also": [
+   [
+    "port cities",
+    3
+   ]
+  ],
+  "clash": []
+ },
+ "Faro": {
+  "also": [
+   [
+    "card games",
+    5
+   ],
+   [
+    "casino games",
+    4
+   ]
+  ],
+  "clash": []
+ },
+ "Uppsala": {
+  "also": [
+   [
+    "vikings",
+    4
+   ]
+  ],
+  "clash": []
+ },
+ "Varna": {
+  "also": [
+   [
+    "ancient india",
+    4
+   ],
+   [
+    "hinduism words",
+    5
+   ],
+   [
+    "medieval battles",
+    4
+   ],
+   [
+    "port cities",
+    4
+   ]
+  ],
+  "clash": []
+ },
+ "Ohrid": {
+  "also": [
+   [
+    "famous lakes",
+    3
+   ]
+  ],
+  "clash": []
+ },
+ "Dnipro": {
+  "also": [],
+  "clash": [
+   "european rivers"
+  ]
+ },
+ "Pécs": {
+  "also": [],
+  "clash": [
+   "fitness words",
+   "muscles"
+  ]
+ },
+ "Braga": {
+  "also": [
+   [
+    "european soccer clubs",
+    4
+   ]
+  ],
+  "clash": []
+ },
+ "Manchester": {
+  "also": [
+   [
+    "american cities",
+    4
+   ],
+   [
+    "hidden body parts",
+    3
+   ],
+   [
+    "industrial revolution",
+    3
+   ]
+  ],
+  "clash": [
+   "european soccer clubs"
+  ]
+ },
+ "Birmingham": {
+  "also": [
+   [
+    "american cities",
+    3
+   ]
+  ],
+  "clash": [
+   "european soccer clubs"
+  ]
+ },
+ "Liverpool": {
+  "also": [
+   [
+    "european soccer clubs",
+    1
+   ],
+   [
+    "port cities",
+    1
+   ]
+  ],
+  "clash": []
+ },
+ "Leeds": {
+  "also": [],
+  "clash": [
+   "european soccer clubs"
+  ]
+ },
+ "Edinburgh": {
+  "also": [
+   [
+    "castles",
+    2
+   ],
+   [
+    "famous castles",
+    1
+   ],
+   [
+    "film festivals",
+    4
+   ]
+  ],
+  "clash": [
+   "capital cities",
+   "european capitals"
+  ]
+ },
+ "Bristol": {
+  "also": [
+   [
+    "aircraft makers",
+    4
+   ],
+   [
+    "british car brands",
+    4
+   ],
+   [
+    "famous race tracks",
+    4
+   ],
+   [
+    "names that are places",
+    3
+   ],
+   [
+    "port cities",
+    3
+   ]
+  ],
+  "clash": []
+ },
+ "Sheffield": {
+  "also": [],
+  "clash": [
+   "european soccer clubs"
+  ]
+ },
+ "Newcastle": {
+  "also": [
+   [
+    "australian cities",
+    2
+   ]
+  ],
+  "clash": [
+   "european soccer clubs"
+  ]
+ },
+ "Cardiff": {
+  "also": [],
+  "clash": [
+   "capital cities",
+   "european capitals",
+   "european soccer clubs"
+  ]
+ },
+ "Belfast": {
+  "also": [
+   [
+    "port cities",
+    3
+   ]
+  ],
+  "clash": [
+   "capital cities",
+   "european capitals"
+  ]
+ },
+ "Nottingham": {
+  "also": [
+   [
+    "robin hood legend",
+    2
+   ]
+  ],
+  "clash": [
+   "english counties"
+  ]
+ },
+ "Leicester": {
+  "also": [
+   [
+    "foods named after places",
+    4
+   ],
+   [
+    "sheep breeds",
+    4
+   ]
+  ],
+  "clash": [
+   "cheeses",
+   "english counties",
+   "european soccer clubs",
+   "hard cheeses"
+  ]
+ },
+ "Oxford": {
+  "also": [
+   [
+    "shoes",
+    2
+   ]
+  ],
+  "clash": [
+   "shades of blue"
+  ]
+ },
+ "Cambridge": {
+  "also": [
+   [
+    "american cities",
+    4
+   ]
+  ],
+  "clash": [
+   "shades of blue"
+  ]
+ },
+ "York": {
+  "also": [
+   [
+    "places after new",
+    1
+   ],
+   [
+    "royal houses",
+    2
+   ],
+   [
+    "street names",
+    3
+   ]
+  ],
+  "clash": [
+   "english counties"
+  ]
+ },
+ "Bath": {
+  "also": [
+   [
+    "___house",
+    1
+   ],
+   [
+    "bathroom",
+    1
+   ],
+   [
+    "bathroom fixtures",
+    1
+   ],
+   [
+    "bedtime routine",
+    1
+   ],
+   [
+    "european spa towns",
+    1
+   ],
+   [
+    "foods named after places",
+    3
+   ],
+   [
+    "foot___",
+    4
+   ],
+   [
+    "newborn care",
+    2
+   ],
+   [
+    "places that are also words",
+    2
+   ],
+   [
+    "sun___",
+    2
+   ]
+  ],
+  "clash": []
+ },
+ "Brighton": {
+  "also": [
+   [
+    "european soccer clubs",
+    3
+   ],
+   [
+    "places after new",
+    5
+   ]
+  ],
+  "clash": []
+ },
+ "Southampton": {
+  "also": [
+   [
+    "european soccer clubs",
+    3
+   ],
+   [
+    "port cities",
+    2
+   ]
+  ],
+  "clash": []
+ },
+ "Portsmouth": {
+  "also": [
+   [
+    "american cities",
+    4
+   ],
+   [
+    "port cities",
+    2
+   ]
+  ],
+  "clash": [
+   "european soccer clubs"
+  ]
+ },
+ "Plymouth": {
+  "also": [
+   [
+    "american car brands",
+    2
+   ],
+   [
+    "american cities",
+    4
+   ],
+   [
+    "colonial america",
+    1
+   ],
+   [
+    "places after new",
+    4
+   ],
+   [
+    "port cities",
+    2
+   ],
+   [
+    "thanksgiving",
+    2
+   ]
+  ],
+  "clash": []
+ },
+ "Aberdeen": {
+  "also": [
+   [
+    "european soccer clubs",
+    3
+   ],
+   [
+    "port cities",
+    3
+   ]
+  ],
+  "clash": [
+   "cattle breeds"
+  ]
+ },
+ "Dundee": {
+  "also": [
+   [
+    "___cake",
+    2
+   ],
+   [
+    "foods named after places",
+    3
+   ]
+  ],
+  "clash": [
+   "cakes"
+  ]
+ },
+ "Swansea": {
+  "also": [],
+  "clash": [
+   "european soccer clubs"
+  ]
+ },
+ "Coventry": {
+  "also": [],
+  "clash": [
+   "european soccer clubs"
+  ]
+ },
+ "Hull": {
+  "also": [
+   [
+    "age of sail",
+    2
+   ],
+   [
+    "cruise words",
+    3
+   ],
+   [
+    "model making",
+    3
+   ],
+   [
+    "navy words",
+    2
+   ],
+   [
+    "places that are also words",
+    3
+   ],
+   [
+    "port cities",
+    3
+   ],
+   [
+    "rowing words",
+    3
+   ],
+   [
+    "ship parts",
+    1
+   ],
+   [
+    "shipwreck coast words",
+    3
+   ],
+   [
+    "ways to cut food",
+    4
+   ]
+  ],
+  "clash": [
+   "boats and ships"
+  ]
+ },
+ "Stoke": {
+  "also": [],
+  "clash": [
+   "european soccer clubs",
+   "fire words",
+   "fireplace words"
+  ]
+ },
+ "Derby": {
+  "also": [
+   [
+    "equestrian events",
+    4
+   ],
+   [
+    "horse racing terms",
+    2
+   ],
+   [
+    "places that are also words",
+    3
+   ],
+   [
+    "shoes",
+    3
+   ],
+   [
+    "soccer terms",
+    3
+   ]
+  ],
+  "clash": [
+   "english counties",
+   "european soccer clubs",
+   "famous horse races",
+   "famous races",
+   "hats"
+  ]
+ },
+ "Norwich": {
+  "also": [
+   [
+    "silent w words",
+    3
+   ]
+  ],
+  "clash": [
+   "european soccer clubs"
+  ]
+ },
+ "Canterbury": {
+  "also": [
+   [
+    "antique furniture",
+    5
+   ],
+   [
+    "holy cities",
+    2
+   ],
+   [
+    "pilgrimage sites",
+    2
+   ]
+  ],
+  "clash": [
+   "classic novels",
+   "famous churches"
+  ]
+ },
+ "Durham": {
+  "also": [
+   [
+    "american cities",
+    4
+   ],
+   [
+    "english counties",
+    2
+   ]
+  ],
+  "clash": []
+ },
+ "Lancaster": {
+  "also": [
+   [
+    "american cities",
+    4
+   ],
+   [
+    "royal houses",
+    2
+   ],
+   [
+    "world war ii terms",
+    4
+   ]
+  ],
+  "clash": [
+   "english counties"
+  ]
+ },
+ "Chester": {
+  "also": [
+   [
+    "hidden body parts",
+    3
+   ],
+   [
+    "names that are places",
+    3
+   ],
+   [
+    "old-fashioned names",
+    3
+   ]
+  ],
+  "clash": [
+   "boys' names"
+  ]
+ },
+ "Salisbury": {
+  "also": [
+   [
+    "old city names",
+    4
+   ]
+  ],
+  "clash": [
+   "dishes",
+   "famous churches"
+  ]
+ },
+ "Winchester": {
+  "also": [
+   [
+    "modern weapons",
+    3
+   ],
+   [
+    "wild west",
+    2
+   ]
+  ],
+  "clash": [
+   "historic weapons"
+  ]
+ },
+ "Sunderland": {
+  "also": [
+   [
+    "european soccer clubs",
+    3
+   ]
+  ],
+  "clash": []
+ },
+ "Lincoln": {
+  "also": [
+   [
+    "american car brands",
+    2
+   ],
+   [
+    "names that are places",
+    3
+   ],
+   [
+    "places named after people",
+    2
+   ],
+   [
+    "sheep breeds",
+    4
+   ],
+   [
+    "street names",
+    2
+   ],
+   [
+    "us presidents",
+    1
+   ]
+  ],
+  "clash": [
+   "car brands",
+   "english counties"
+  ]
+ },
+ "Gloucester": {
+  "also": [
+   [
+    "foods named after places",
+    4
+   ],
+   [
+    "shakespeare characters",
+    4
+   ]
+  ],
+  "clash": [
+   "cheeses",
+   "english counties",
+   "hard cheeses"
+  ]
+ },
+ "Worcester": {
+  "also": [
+   [
+    "american cities",
+    4
+   ]
+  ],
+  "clash": [
+   "english counties",
+   "sauces and condiments"
+  ]
+ },
+ "Hereford": {
+  "also": [
+   [
+    "cattle breeds",
+    2
+   ]
+  ],
+  "clash": [
+   "english counties"
+  ]
+ },
+ "Wells": {
+  "also": [
+   [
+    "british novelists",
+    2
+   ],
+   [
+    "places that are also words",
+    3
+   ]
+  ],
+  "clash": []
+ },
+ "Stirling": {
+  "also": [
+   [
+    "castles",
+    3
+   ],
+   [
+    "engines",
+    4
+   ],
+   [
+    "famous castles",
+    3
+   ]
+  ],
+  "clash": [
+   "money words"
+  ]
+ },
+ "Perth": {
+  "also": [
+   [
+    "australian cities",
+    1
+   ]
+  ],
+  "clash": [
+   "capital cities"
+  ]
+ },
+ "Newport": {
+  "also": [
+   [
+    "american cities",
+    4
+   ]
+  ],
+  "clash": []
+ },
+ "Peterborough": {
+  "also": [
+   [
+    "ough words",
+    3
+   ]
+  ],
+  "clash": []
+ },
+ "Wakefield": {
+  "also": [
+   [
+    "medieval battles",
+    4
+   ]
+  ],
+  "clash": []
+ },
+ "St Albans": {
+  "also": [
+   [
+    "medieval battles",
+    4
+   ]
+  ],
+  "clash": []
+ },
+ "Armagh": {
+  "also": [
+   [
+    "st. patrick's day",
+    4
+   ]
+  ],
+  "clash": []
+ },
+ "Londonderry": {
+  "also": [],
+  "clash": [
+   "old city names"
+  ]
+ },
+ "Wrexham": {
+  "also": [],
+  "clash": [
+   "european soccer clubs"
+  ]
+ },
+ "St Davids": {
+  "also": [
+   [
+    "pilgrimage sites",
+    4
+   ]
+  ],
+  "clash": []
+ },
+ "Bangor": {
+  "also": [
+   [
+    "american cities",
+    4
+   ]
+  ],
+  "clash": []
+ },
+ "Marseille": {
+  "also": [
+   [
+    "european soccer clubs",
+    3
+   ],
+   [
+    "port cities",
+    2
+   ]
+  ],
+  "clash": []
+ },
+ "Lyon": {
+  "also": [
+   [
+    "european soccer clubs",
+    3
+   ],
+   [
+    "foods named after places",
+    4
+   ],
+   [
+    "scottish clan names",
+    4
+   ]
+  ],
+  "clash": []
+ },
+ "Nice": {
+  "also": [
+   [
+    "beach destinations",
+    3
+   ],
+   [
+    "places that are also words",
+    2
+   ],
+   [
+    "positive traits",
+    1
+   ],
+   [
+    "words for good",
+    1
+   ]
+  ],
+  "clash": [
+   "port cities"
+  ]
+ },
+ "Bordeaux": {
+  "also": [
+   [
+    "colors in french",
+    3
+   ],
+   [
+    "european soccer clubs",
+    4
+   ],
+   [
+    "foods named after places",
+    2
+   ],
+   [
+    "red wines",
+    2
+   ],
+   [
+    "wine regions",
+    1
+   ],
+   [
+    "words named after places",
+    3
+   ]
+  ],
+  "clash": [
+   "shades of red"
+  ]
+ },
+ "Toulouse": {
+  "also": [
+   [
+    "napoleonic battles",
+    4
+   ],
+   [
+    "sausages",
+    3
+   ]
+  ],
+  "clash": [
+   "geese and swans"
+  ]
+ },
+ "Strasbourg": {
+  "also": [],
+  "clash": [
+   "german cities"
+  ]
+ },
+ "Lille": {
+  "also": [
+   [
+    "european soccer clubs",
+    4
+   ]
+  ],
+  "clash": []
+ },
+ "Nantes": {
+  "also": [
+   [
+    "european soccer clubs",
+    4
+   ]
+  ],
+  "clash": []
+ },
+ "Cannes": {
+  "also": [
+   [
+    "beach destinations",
+    2
+   ],
+   [
+    "film festivals",
+    1
+   ]
+  ],
+  "clash": []
+ },
+ "Calais": {
+  "also": [
+   [
+    "greek heroes",
+    4
+   ],
+   [
+    "port cities",
+    3
+   ]
+  ],
+  "clash": []
+ },
+ "Versailles": {
+  "also": [
+   [
+    "famous gardens",
+    1
+   ],
+   [
+    "famous palaces",
+    1
+   ],
+   [
+    "french revolution",
+    2
+   ]
+  ],
+  "clash": []
+ },
+ "Grenoble": {
+  "also": [
+   [
+    "olympic host cities",
+    3
+   ]
+  ],
+  "clash": []
+ },
+ "Dijon": {
+  "also": [
+   [
+    "foods named after places",
+    2
+   ],
+   [
+    "sauces and condiments",
+    2
+   ],
+   [
+    "words named after places",
+    3
+   ]
+  ],
+  "clash": []
+ },
+ "Reims": {
+  "also": [
+   [
+    "famous churches",
+    3
+   ]
+  ],
+  "clash": [
+   "wine regions"
+  ]
+ },
+ "Le Havre": {
+  "also": [
+   [
+    "port cities",
+    2
+   ]
+  ],
+  "clash": []
+ },
+ "Toulon": {
+  "also": [
+   [
+    "napoleonic battles",
+    4
+   ]
+  ],
+  "clash": [
+   "port cities"
+  ]
+ },
+ "Rouen": {
+  "also": [],
+  "clash": [
+   "ducks"
+  ]
+ },
+ "Orléans": {
+  "also": [
+   [
+    "medieval battles",
+    3
+   ],
+   [
+    "places after new",
+    1
+   ],
+   [
+    "royal houses",
+    3
+   ]
+  ],
+  "clash": []
+ },
+ "Nîmes": {
+  "also": [],
+  "clash": [
+   "cotton fabrics",
+   "words named after places"
+  ]
+ },
+ "Tours": {
+  "also": [
+   [
+    "medieval battles",
+    3
+   ]
+  ],
+  "clash": [
+   "sightseeing words"
+  ]
+ },
+ "Limoges": {
+  "also": [],
+  "clash": [
+   "pottery words"
+  ]
+ },
+ "Amiens": {
+  "also": [
+   [
+    "famous churches",
+    4
+   ],
+   [
+    "world war i battles",
+    3
+   ]
+  ],
+  "clash": []
+ },
+ "Nancy": {
+  "also": [
+   [
+    "girls' names",
+    1
+   ]
+  ],
+  "clash": []
+ },
+ "Caen": {
+  "also": [
+   [
+    "world war ii battles",
+    3
+   ]
+  ],
+  "clash": []
+ },
+ "Brest": {
+  "also": [
+   [
+    "port cities",
+    3
+   ]
+  ],
+  "clash": []
+ },
+ "Dunkirk": {
+  "also": [
+   [
+    "port cities",
+    3
+   ],
+   [
+    "world war ii battles",
+    1
+   ]
+  ],
+  "clash": []
+ },
+ "Biarritz": {
+  "also": [
+   [
+    "beach destinations",
+    3
+   ]
+  ],
+  "clash": []
+ },
+ "Chartres": {
+  "also": [
+   [
+    "famous churches",
+    2
+   ],
+   [
+    "medieval times",
+    3
+   ],
+   [
+    "pilgrimage sites",
+    3
+   ]
+  ],
+  "clash": []
+ },
+ "Annecy": {
+  "also": [
+   [
+    "famous lakes",
+    4
+   ],
+   [
+    "film festivals",
+    4
+   ]
+  ],
+  "clash": []
+ },
+ "Carcassonne": {
+  "also": [
+   [
+    "board games",
+    3
+   ],
+   [
+    "castles",
+    3
+   ],
+   [
+    "famous castles",
+    3
+   ]
+  ],
+  "clash": []
+ },
+ "Lourdes": {
+  "also": [
+   [
+    "holy cities",
+    2
+   ],
+   [
+    "names that are places",
+    4
+   ],
+   [
+    "pilgrimage sites",
+    2
+   ]
+  ],
+  "clash": [
+   "girls' names"
+  ]
+ },
+ "Angers": {
+  "also": [],
+  "clash": [
+   "angry words"
+  ]
+ },
+ "Poitiers": {
+  "also": [
+   [
+    "medieval battles",
+    3
+   ]
+  ],
+  "clash": []
+ },
+ "La Rochelle": {
+  "also": [],
+  "clash": [
+   "port cities"
+  ]
+ },
+ "Bayonne": {
+  "also": [
+   [
+    "foods named after places",
+    4
+   ]
+  ],
+  "clash": [
+   "historic weapons"
+  ]
+ },
+ "Saint-Malo": {
+  "also": [],
+  "clash": [
+   "port cities"
+  ]
+ },
+ "Saint-Tropez": {
+  "also": [
+   [
+    "beach destinations",
+    2
+   ]
+  ],
+  "clash": []
+ },
+ "Cherbourg": {
+  "also": [
+   [
+    "port cities",
+    3
+   ]
+  ],
+  "clash": []
+ },
+ "Boulogne": {
+  "also": [],
+  "clash": [
+   "port cities"
+  ]
+ },
+ "Le Mans": {
+  "also": [
+   [
+    "famous race tracks",
+    1
+   ],
+   [
+    "famous races",
+    2
+   ]
+  ],
+  "clash": [
+   "motor racing"
+  ]
+ },
+ "Clermont-Ferrand": {
+  "also": [
+   [
+    "film festivals",
+    5
+   ]
+  ],
+  "clash": []
+ },
+ "Saint-Étienne": {
+  "also": [
+   [
+    "european soccer clubs",
+    4
+   ]
+  ],
+  "clash": []
+ },
+ "Mulhouse": {
+  "also": [],
+  "clash": [
+   "german cities"
+  ]
+ },
+ "Colmar": {
+  "also": [],
+  "clash": [
+   "german cities"
+  ]
+ },
+ "Vichy": {
+  "also": [
+   [
+    "european spa towns",
+    2
+   ],
+   [
+    "world war ii terms",
+    3
+   ]
+  ],
+  "clash": []
+ },
+ "Cognac": {
+  "also": [
+   [
+    "foods named after places",
+    2
+   ],
+   [
+    "shades of brown",
+    4
+   ],
+   [
+    "spirits",
+    2
+   ],
+   [
+    "words named after places",
+    3
+   ]
+  ],
+  "clash": [
+   "wine regions"
+  ]
+ },
+ "Valence": {
+  "also": [
+   [
+    "chemistry words",
+    3
+   ]
+  ],
+  "clash": []
+ },
+ "Ajaccio": {
+  "also": [],
+  "clash": [
+   "port cities"
+  ]
+ },
+ "Bastia": {
+  "also": [],
+  "clash": [
+   "port cities"
+  ]
+ },
+ "Lorient": {
+  "also": [],
+  "clash": [
+   "port cities"
+  ]
+ },
+ "Saint-Nazaire": {
+  "also": [],
+  "clash": [
+   "port cities"
+  ]
+ },
+ "Deauville": {
+  "also": [
+   [
+    "beach destinations",
+    3
+   ],
+   [
+    "film festivals",
+    5
+   ]
+  ],
+  "clash": []
+ },
+ "Menton": {
+  "also": [
+   [
+    "beach destinations",
+    3
+   ]
+  ],
+  "clash": []
+ },
+ "Antibes": {
+  "also": [
+   [
+    "beach destinations",
+    3
+   ]
+  ],
+  "clash": []
+ },
+ "Épernay": {
+  "also": [],
+  "clash": [
+   "wine regions"
+  ]
+ },
+ "Verdun": {
+  "also": [
+   [
+    "world war i battles",
+    1
+   ]
+  ],
+  "clash": [
+   "famous battles"
+  ]
+ },
+ "Sedan": {
+  "also": [
+   [
+    "car types",
+    1
+   ],
+   [
+    "famous battles",
+    4
+   ]
+  ],
+  "clash": []
+ },
+ "Pau": {
+  "also": [
+   [
+    "hawaiian words",
+    3
+   ]
+  ],
+  "clash": []
+ },
+ "Munich": {
+  "also": [
+   [
+    "oktoberfest",
+    1
+   ],
+   [
+    "olympic host cities",
+    2
+   ]
+  ],
+  "clash": [
+   "european soccer clubs"
+  ]
+ },
+ "Hamburg": {
+  "also": [
+   [
+    "chicken breeds",
+    4
+   ],
+   [
+    "famous marathons",
+    5
+   ],
+   [
+    "foods named after places",
+    1
+   ],
+   [
+    "german states",
+    1
+   ],
+   [
+    "port cities",
+    1
+   ]
+  ],
+  "clash": [
+   "european soccer clubs",
+   "fast food",
+   "sandwiches",
+   "sausages"
+  ]
+ },
+ "Frankfurt": {
+  "also": [
+   [
+    "famous marathons",
+    4
+   ],
+   [
+    "foods named after places",
+    2
+   ]
+  ],
+  "clash": [
+   "european soccer clubs",
+   "fast food",
+   "sausages"
+  ]
+ },
+ "Cologne": {
+  "also": [
+   [
+    "personal care",
+    2
+   ],
+   [
+    "places that are also words",
+    3
+   ],
+   [
+    "things that smell good",
+    2
+   ],
+   [
+    "toiletries",
+    2
+   ],
+   [
+    "words named after places",
+    3
+   ]
+  ],
+  "clash": []
+ },
+ "Stuttgart": {
+  "also": [
+   [
+    "european soccer clubs",
+    4
+   ]
+  ],
+  "clash": []
+ },
+ "Dresden": {
+  "also": [
+   [
+    "napoleonic battles",
+    4
+   ]
+  ],
+  "clash": [
+   "world war ii battles"
+  ]
+ },
+ "Leipzig": {
+  "also": [
+   [
+    "napoleonic battles",
+    3
+   ]
+  ],
+  "clash": [
+   "european soccer clubs"
+  ]
+ },
+ "Bonn": {
+  "also": [],
+  "clash": [
+   "capital cities",
+   "european capitals"
+  ]
+ },
+ "Nuremberg": {
+  "also": [],
+  "clash": [
+   "world war ii terms"
+  ]
+ },
+ "Hanover": {
+  "also": [
+   [
+    "royal houses",
+    2
+   ]
+  ],
+  "clash": [
+   "english monarchs"
+  ]
+ },
+ "Bremen": {
+  "also": [
+   [
+    "german states",
+    2
+   ],
+   [
+    "port cities",
+    3
+   ]
+  ],
+  "clash": [
+   "european soccer clubs",
+   "fairy tales"
+  ]
+ },
+ "Dortmund": {
+  "also": [],
+  "clash": [
+   "european soccer clubs"
+  ]
+ },
+ "Heidelberg": {
+  "also": [
+   [
+    "famous castles",
+    3
+   ]
+  ],
+  "clash": []
+ },
+ "Potsdam": {
+  "also": [
+   [
+    "world war ii terms",
+    3
+   ]
+  ],
+  "clash": []
+ },
+ "Wiesbaden": {
+  "also": [
+   [
+    "european spa towns",
+    3
+   ]
+  ],
+  "clash": [
+   "spa"
+  ]
+ },
+ "Kiel": {
+  "also": [
+   [
+    "famous canals",
+    3
+   ],
+   [
+    "port cities",
+    3
+   ],
+   [
+    "straits and canals",
+    3
+   ]
+  ],
+  "clash": []
+ },
+ "Rostock": {
+  "also": [
+   [
+    "port cities",
+    4
+   ]
+  ],
+  "clash": []
+ },
+ "Münster": {
+  "also": [],
+  "clash": [
+   "foods named after places",
+   "french cheeses",
+   "pungent foods",
+   "regions",
+   "smelly things"
+  ]
+ },
+ "Aachen": {
+  "also": [
+   [
+    "european spa towns",
+    3
+   ]
+  ],
+  "clash": [
+   "spa"
+  ]
+ },
+ "Weimar": {
+  "also": [],
+  "clash": [
+   "capital cities"
+  ]
+ },
+ "Jena": {
+  "also": [
+   [
+    "napoleonic battles",
+    3
+   ]
+  ],
+  "clash": []
+ },
+ "Trier": {
+  "also": [
+   [
+    "cheesemaking words",
+    5
+   ]
+  ],
+  "clash": [
+   "ancient cities"
+  ]
+ },
+ "Ulm": {
+  "also": [
+   [
+    "napoleonic battles",
+    4
+   ],
+   [
+    "places after new",
+    5
+   ]
+  ],
+  "clash": []
+ },
+ "Oldenburg": {
+  "also": [
+   [
+    "horse breeds",
+    4
+   ],
+   [
+    "royal houses",
+    4
+   ]
+  ],
+  "clash": []
+ },
+ "Wolfsburg": {
+  "also": [
+   [
+    "european soccer clubs",
+    4
+   ]
+  ],
+  "clash": []
+ },
+ "Bayreuth": {
+  "also": [
+   [
+    "opera words",
+    4
+   ]
+  ],
+  "clash": [
+   "music festivals"
+  ]
+ },
+ "Baden-Baden": {
+  "also": [
+   [
+    "european spa towns",
+    2
+   ]
+  ],
+  "clash": [
+   "spa"
+  ]
+ },
+ "Leverkusen": {
+  "also": [],
+  "clash": [
+   "european soccer clubs"
+  ]
+ },
+ "Mönchengladbach": {
+  "also": [],
+  "clash": [
+   "european soccer clubs"
+  ]
+ },
+ "Garmisch-Partenkirchen": {
+  "also": [
+   [
+    "famous ski resorts",
+    3
+   ],
+   [
+    "olympic host cities",
+    3
+   ]
+  ],
+  "clash": []
+ },
+ "Venice": {
+  "also": [
+   [
+    "film festivals",
+    2
+   ],
+   [
+    "names that are places",
+    3
+   ],
+   [
+    "port cities",
+    2
+   ],
+   [
+    "spice trade",
+    2
+   ]
+  ],
+  "clash": [
+   "famous canals"
+  ]
+ },
+ "Milan": {
+  "also": [
+   [
+    "foods named after places",
+    4
+   ],
+   [
+    "names that are places",
+    3
+   ],
+   [
+    "olympic host cities",
+    2
+   ]
+  ],
+  "clash": [
+   "european soccer clubs"
+  ]
+ },
+ "Florence": {
+  "also": [
+   [
+    "foods named after places",
+    4
+   ],
+   [
+    "girls' names",
+    2
+   ],
+   [
+    "names that are places",
+    2
+   ],
+   [
+    "old-fashioned names",
+    2
+   ],
+   [
+    "renaissance",
+    2
+   ]
+  ],
+  "clash": []
+ },
+ "Naples": {
+  "also": [
+   [
+    "foods named after places",
+    3
+   ],
+   [
+    "port cities",
+    2
+   ]
+  ],
+  "clash": [
+   "pizza styles"
+  ]
+ },
+ "Turin": {
+  "also": [
+   [
+    "olympic host cities",
+    2
+   ]
+  ],
+  "clash": []
+ },
+ "Pisa": {
+  "also": [],
+  "clash": [
+   "famous towers"
+  ]
+ },
+ "Verona": {
+  "also": [
+   [
+    "names that are places",
+    3
+   ]
+  ],
+  "clash": [
+   "girls' names"
+  ]
+ },
+ "Bologna": {
+  "also": [
+   [
+    "european soccer clubs",
+    4
+   ],
+   [
+    "foods named after places",
+    2
+   ],
+   [
+    "sausages",
+    2
+   ],
+   [
+    "words named after places",
+    3
+   ]
+  ],
+  "clash": [
+   "pasta dishes"
+  ]
+ },
+ "Genoa": {
+  "also": [
+   [
+    "___cake",
+    3
+   ],
+   [
+    "european soccer clubs",
+    4
+   ],
+   [
+    "foods named after places",
+    3
+   ],
+   [
+    "port cities",
+    2
+   ],
+   [
+    "sailing words",
+    4
+   ],
+   [
+    "spice trade",
+    3
+   ]
+  ],
+  "clash": []
+ },
+ "Palermo": {
+  "also": [
+   [
+    "port cities",
+    3
+   ]
+  ],
+  "clash": []
+ },
+ "Siena": {
+  "also": [
+   [
+    "names that are places",
+    4
+   ]
+  ],
+  "clash": [
+   "art materials",
+   "shades of brown",
+   "shades of orange"
+  ]
+ },
+ "Sorrento": {
+  "also": [
+   [
+    "european holiday regions",
+    3
+   ],
+   [
+    "peninsulas",
+    4
+   ]
+  ],
+  "clash": []
+ },
+ "Bari": {
+  "also": [
+   [
+    "port cities",
+    3
+   ]
+  ],
+  "clash": []
+ },
+ "Catania": {
+  "also": [
+   [
+    "port cities",
+    3
+   ]
+  ],
+  "clash": []
+ },
+ "Messina": {
+  "also": [
+   [
+    "black death",
+    4
+   ],
+   [
+    "port cities",
+    3
+   ],
+   [
+    "straits and canals",
+    3
+   ]
+  ],
+  "clash": []
+ },
+ "Trieste": {
+  "also": [
+   [
+    "exploration",
+    4
+   ],
+   [
+    "port cities",
+    3
+   ]
+  ],
+  "clash": []
+ },
+ "Padua": {
+  "also": [],
+  "clash": [
+   "famous saints"
+  ]
+ },
+ "Parma": {
+  "also": [
+   [
+    "european soccer clubs",
+    4
+   ],
+   [
+    "foods named after places",
+    2
+   ]
+  ],
+  "clash": [
+   "hard cheeses",
+   "italian cheeses"
+  ]
+ },
+ "Modena": {
+  "also": [],
+  "clash": [
+   "oils and vinegars"
+  ]
+ },
+ "Assisi": {
+  "also": [
+   [
+    "holy cities",
+    3
+   ],
+   [
+    "pilgrimage sites",
+    2
+   ]
+  ],
+  "clash": [
+   "famous saints"
+  ]
+ },
+ "Ravenna": {
+  "also": [
+   [
+    "byzantine empire",
+    3
+   ]
+  ],
+  "clash": []
+ },
+ "Rimini": {
+  "also": [
+   [
+    "beach destinations",
+    3
+   ]
+  ],
+  "clash": []
+ },
+ "Cagliari": {
+  "also": [],
+  "clash": [
+   "port cities"
+  ]
+ },
+ "Taranto": {
+  "also": [
+   [
+    "world war ii battles",
+    4
+   ]
+  ],
+  "clash": [
+   "folk dances",
+   "port cities",
+   "spiders"
+  ]
+ },
+ "Salerno": {
+  "also": [
+   [
+    "port cities",
+    3
+   ],
+   [
+    "world war ii battles",
+    3
+   ]
+  ],
+  "clash": []
+ },
+ "Como": {
+  "also": [
+   [
+    "famous lakes",
+    2
+   ]
+  ],
+  "clash": []
+ },
+ "Cremona": {
+  "also": [],
+  "clash": [
+   "string instruments"
+  ]
+ },
+ "Trento": {
+  "also": [],
+  "clash": [
+   "italian regions"
+  ]
+ },
+ "Ancona": {
+  "also": [
+   [
+    "chicken breeds",
+    4
+   ],
+   [
+    "port cities",
+    3
+   ]
+  ],
+  "clash": []
+ },
+ "Agrigento": {
+  "also": [
+   [
+    "ancient sites of europe",
+    3
+   ]
+  ],
+  "clash": [
+   "ancient cities"
+  ]
+ },
+ "Matera": {
+  "also": [],
+  "clash": [
+   "ancient cities"
+  ]
+ },
+ "Orvieto": {
+  "also": [
+   [
+    "white wines",
+    4
+   ]
+  ],
+  "clash": []
+ },
+ "Livorno": {
+  "also": [
+   [
+    "port cities",
+    3
+   ]
+  ],
+  "clash": []
+ },
+ "La Spezia": {
+  "also": [
+   [
+    "port cities",
+    3
+   ]
+  ],
+  "clash": []
+ },
+ "Taormina": {
+  "also": [
+   [
+    "beach destinations",
+    3
+   ],
+   [
+    "film festivals",
+    5
+   ]
+  ],
+  "clash": []
+ },
+ "Brindisi": {
+  "also": [
+   [
+    "port cities",
+    3
+   ]
+  ],
+  "clash": []
+ },
+ "Aosta": {
+  "also": [],
+  "clash": [
+   "italian regions"
+  ]
+ },
+ "Monza": {
+  "also": [
+   [
+    "famous race tracks",
+    1
+   ]
+  ],
+  "clash": [
+   "motor racing"
+  ]
+ },
+ "Barcelona": {
+  "also": [
+   [
+    "european soccer clubs",
+    1
+   ],
+   [
+    "famous marathons",
+    4
+   ],
+   [
+    "olympic host cities",
+    1
+   ],
+   [
+    "port cities",
+    2
+   ]
+  ],
+  "clash": []
+ },
+ "Seville": {
+  "also": [
+   [
+    "foods named after places",
+    3
+   ]
+  ],
+  "clash": [
+   "citrus fruits"
+  ]
+ },
+ "Valencia": {
+  "also": [
+   [
+    "european soccer clubs",
+    3
+   ],
+   [
+    "famous marathons",
+    4
+   ],
+   [
+    "foods named after places",
+    3
+   ],
+   [
+    "names that are places",
+    3
+   ],
+   [
+    "port cities",
+    3
+   ],
+   [
+    "south american cities",
+    4
+   ],
+   [
+    "spanish regions",
+    2
+   ]
+  ],
+  "clash": [
+   "citrus fruits"
+  ]
+ },
+ "Málaga": {
+  "also": [
+   [
+    "beach destinations",
+    3
+   ],
+   [
+    "port cities",
+    3
+   ],
+   [
+    "wines",
+    5
+   ]
+  ],
+  "clash": []
+ },
+ "Bilbao": {
+  "also": [
+   [
+    "port cities",
+    3
+   ]
+  ],
+  "clash": [
+   "european soccer clubs"
+  ]
+ },
+ "Granada": {
+  "also": [
+   [
+    "places after new",
+    4
+   ]
+  ],
+  "clash": []
+ },
+ "Zaragoza": {
+  "also": [
+   [
+    "places named after people",
+    4
+   ]
+  ],
+  "clash": []
+ },
+ "Córdoba": {
+  "also": [
+   [
+    "latin american currencies",
+    3
+   ],
+   [
+    "south american cities",
+    3
+   ]
+  ],
+  "clash": []
+ },
+ "Toledo": {
+  "also": [
+   [
+    "american cities",
+    3
+   ]
+  ],
+  "clash": [
+   "historic weapons"
+  ]
+ },
+ "Salamanca": {
+  "also": [
+   [
+    "napoleonic battles",
+    4
+   ]
+  ],
+  "clash": []
+ },
+ "San Sebastián": {
+  "also": [
+   [
+    "film festivals",
+    4
+   ],
+   [
+    "napoleonic battles",
+    4
+   ]
+  ],
+  "clash": []
+ },
+ "Pamplona": {
+  "also": [
+   [
+    "bullfighting words",
+    2
+   ]
+  ],
+  "clash": []
+ },
+ "Alicante": {
+  "also": [
+   [
+    "beach destinations",
+    3
+   ],
+   [
+    "port cities",
+    3
+   ]
+  ],
+  "clash": []
+ },
+ "Palma": {
+  "also": [
+   [
+    "beach destinations",
+    3
+   ],
+   [
+    "port cities",
+    3
+   ]
+  ],
+  "clash": [
+   "famous islands"
+  ]
+ },
+ "Ibiza": {
+  "also": [
+   [
+    "beach destinations",
+    1
+   ],
+   [
+    "famous islands",
+    1
+   ]
+  ],
+  "clash": []
+ },
+ "Murcia": {
+  "also": [
+   [
+    "spanish regions",
+    2
+   ]
+  ],
+  "clash": []
+ },
+ "Cádiz": {
+  "also": [
+   [
+    "port cities",
+    3
+   ]
+  ],
+  "clash": [
+   "ancient cities"
+  ]
+ },
+ "Gijón": {
+  "also": [
+   [
+    "port cities",
+    3
+   ]
+  ],
+  "clash": []
+ },
+ "Santander": {
+  "also": [
+   [
+    "port cities",
+    3
+   ]
+  ],
+  "clash": [
+   "banking words"
+  ]
+ },
+ "León": {
+  "also": [
+   [
+    "spanish regions",
+    4
+   ]
+  ],
+  "clash": [
+   "boys' names",
+   "mexican states"
+  ]
+ },
+ "Segovia": {
+  "also": [],
+  "clash": [
+   "ancient sites of europe"
+  ]
+ },
+ "Cuenca": {
+  "also": [
+   [
+    "south american cities",
+    4
+   ]
+  ],
+  "clash": []
+ },
+ "Tarragona": {
+  "also": [
+   [
+    "port cities",
+    3
+   ]
+  ],
+  "clash": [
+   "ancient cities"
+  ]
+ },
+ "Almería": {
+  "also": [
+   [
+    "port cities",
+    3
+   ]
+  ],
+  "clash": []
+ },
+ "Huelva": {
+  "also": [
+   [
+    "port cities",
+    3
+   ]
+  ],
+  "clash": []
+ },
+ "Jerez": {
+  "also": [
+   [
+    "famous race tracks",
+    3
+   ],
+   [
+    "wine regions",
+    3
+   ]
+  ],
+  "clash": [
+   "spirits",
+   "wines"
+  ]
+ },
+ "Marbella": {
+  "also": [
+   [
+    "beach destinations",
+    2
+   ]
+  ],
+  "clash": []
+ },
+ "Benidorm": {
+  "also": [
+   [
+    "beach destinations",
+    2
+   ]
+  ],
+  "clash": []
+ },
+ "Ronda": {
+  "also": [],
+  "clash": [
+   "bullfighting words"
+  ]
+ },
+ "Mérida": {
+  "also": [],
+  "clash": [
+   "ancient cities"
+  ]
+ },
+ "Badajoz": {
+  "also": [
+   [
+    "napoleonic battles",
+    4
+   ]
+  ],
+  "clash": []
+ },
+ "Logroño": {
+  "also": [],
+  "clash": [
+   "wine regions"
+  ]
+ },
+ "Vitoria": {
+  "also": [
+   [
+    "napoleonic battles",
+    4
+   ]
+  ],
+  "clash": [
+   "south american soccer clubs"
+  ]
+ },
+ "Vigo": {
+  "also": [
+   [
+    "port cities",
+    3
+   ]
+  ],
+  "clash": [
+   "european soccer clubs"
+  ]
+ },
+ "A Coruña": {
+  "also": [
+   [
+    "port cities",
+    3
+   ]
+  ],
+  "clash": []
+ },
+ "Las Palmas": {
+  "also": [
+   [
+    "beach destinations",
+    3
+   ],
+   [
+    "port cities",
+    3
+   ]
+  ],
+  "clash": [
+   "famous islands"
+  ]
+ },
+ "Torremolinos": {
+  "also": [
+   [
+    "beach destinations",
+    3
+   ]
+  ],
+  "clash": []
+ },
+ "Sitges": {
+  "also": [
+   [
+    "beach destinations",
+    3
+   ],
+   [
+    "film festivals",
+    5
+   ]
+  ],
+  "clash": []
+ },
+ "Ceuta": {
+  "also": [
+   [
+    "african cities",
+    3
+   ],
+   [
+    "spanish regions",
+    4
+   ]
+  ],
+  "clash": []
+ },
+ "Melilla": {
+  "also": [
+   [
+    "african cities",
+    3
+   ],
+   [
+    "spanish regions",
+    4
+   ]
+  ],
+  "clash": []
+ },
+ "Santiago de Compostela": {
+  "also": [
+   [
+    "holy cities",
+    3
+   ],
+   [
+    "pilgrimage sites",
+    2
+   ]
+  ],
+  "clash": [
+   "famous routes"
+  ]
+ },
+ "Istanbul": {
+  "also": [
+   [
+    "ottoman empire",
+    2
+   ],
+   [
+    "port cities",
+    2
+   ]
+  ],
+  "clash": [
+   "asian capitals",
+   "asian cities",
+   "capital cities",
+   "european capitals",
+   "european cities",
+   "middle eastern cities",
+   "old city names",
+   "silk road cities"
+  ]
+ },
+ "İzmir": {
+  "also": [
+   [
+    "port cities",
+    3
+   ]
+  ],
+  "clash": [
+   "asian cities",
+   "middle eastern cities"
+  ]
+ },
+ "Antalya": {
+  "also": [
+   [
+    "beach destinations",
+    2
+   ],
+   [
+    "turkish resorts",
+    1
+   ]
+  ],
+  "clash": [
+   "asian cities",
+   "middle eastern cities",
+   "turkish football clubs"
+  ]
+ },
+ "Bodrum": {
+  "also": [
+   [
+    "beach destinations",
+    3
+   ],
+   [
+    "turkish resorts",
+    1
+   ]
+  ],
+  "clash": [
+   "ancient wonders",
+   "asian cities",
+   "middle eastern cities"
+  ]
+ },
+ "Bursa": {
+  "also": [
+   [
+    "kebab types",
+    4
+   ],
+   [
+    "ottoman empire",
+    4
+   ]
+  ],
+  "clash": [
+   "asian cities",
+   "inside the body",
+   "joints",
+   "middle eastern cities",
+   "turkish football clubs"
+  ]
+ },
+ "Adana": {
+  "also": [
+   [
+    "kebab types",
+    2
+   ]
+  ],
+  "clash": [
+   "asian cities",
+   "middle eastern cities"
+  ]
+ },
+ "Konya": {
+  "also": [
+   [
+    "holy cities",
+    4
+   ]
+  ],
+  "clash": [
+   "asian cities",
+   "middle eastern cities",
+   "turkish football clubs"
+  ]
+ },
+ "Trabzon": {
+  "also": [
+   [
+    "port cities",
+    3
+   ],
+   [
+    "silk road cities",
+    4
+   ]
+  ],
+  "clash": [
+   "asian cities",
+   "middle eastern cities",
+   "turkish football clubs"
+  ]
+ },
+ "Gaziantep": {
+  "also": [
+   [
+    "turkish football clubs",
+    4
+   ]
+  ],
+  "clash": [
+   "asian cities",
+   "middle eastern cities"
+  ]
+ },
+ "Kayseri": {
+  "also": [
+   [
+    "cappadocia",
+    3
+   ]
+  ],
+  "clash": [
+   "asian cities",
+   "middle eastern cities",
+   "turkish football clubs",
+   "turkish landmarks"
+  ]
+ },
+ "Eskişehir": {
+  "also": [],
+  "clash": [
+   "asian cities",
+   "middle eastern cities",
+   "turkish football clubs"
+  ]
+ },
+ "Diyarbakır": {
+  "also": [],
+  "clash": [
+   "asian cities",
+   "middle eastern cities",
+   "turkish football clubs"
+  ]
+ },
+ "Mersin": {
+  "also": [
+   [
+    "port cities",
+    4
+   ]
+  ],
+  "clash": [
+   "asian cities",
+   "middle eastern cities"
+  ]
+ },
+ "Samsun": {
+  "also": [
+   [
+    "port cities",
+    3
+   ]
+  ],
+  "clash": [
+   "asian cities",
+   "middle eastern cities",
+   "turkish football clubs"
+  ]
+ },
+ "Edirne": {
+  "also": [
+   [
+    "ottoman empire",
+    4
+   ]
+  ],
+  "clash": [
+   "asian cities",
+   "european cities",
+   "middle eastern cities",
+   "old city names"
+  ]
+ },
+ "Erzurum": {
+  "also": [],
+  "clash": [
+   "asian cities",
+   "middle eastern cities",
+   "turkish football clubs"
+  ]
+ },
+ "Şanlıurfa": {
+  "also": [],
+  "clash": [
+   "ancient sites of turkey",
+   "asian cities",
+   "middle eastern cities"
+  ]
+ },
+ "Malatya": {
+  "also": [],
+  "clash": [
+   "asian cities",
+   "middle eastern cities",
+   "turkish football clubs"
+  ]
+ },
+ "Van": {
+  "also": [
+   [
+    "car types",
+    1
+   ],
+   [
+    "famous lakes",
+    4
+   ],
+   [
+    "post office",
+    3
+   ],
+   [
+    "things with wheels",
+    1
+   ]
+  ],
+  "clash": [
+   "asian cities",
+   "cat breeds",
+   "middle eastern cities",
+   "turkish animals",
+   "turkish football clubs"
+  ]
+ },
+ "Mardin": {
+  "also": [],
+  "clash": [
+   "asian cities",
+   "middle eastern cities"
+  ]
+ },
+ "Denizli": {
+  "also": [],
+  "clash": [
+   "asian cities",
+   "middle eastern cities",
+   "turkish football clubs"
+  ]
+ },
+ "Çanakkale": {
+  "also": [],
+  "clash": [
+   "asian cities",
+   "european cities",
+   "middle eastern cities",
+   "turkish landmarks",
+   "world war i battles"
+  ]
+ },
+ "Kars": {
+  "also": [],
+  "clash": [
+   "asian cities",
+   "homophones",
+   "middle eastern cities"
+  ]
+ },
+ "Sivas": {
+  "also": [],
+  "clash": [
+   "asian cities",
+   "middle eastern cities",
+   "turkish football clubs"
+  ]
+ },
+ "Antakya": {
+  "also": [],
+  "clash": [
+   "ancient cities",
+   "asian cities",
+   "crusades",
+   "middle eastern cities",
+   "silk road cities"
+  ]
+ },
+ "Alanya": {
+  "also": [
+   [
+    "beach destinations",
+    3
+   ],
+   [
+    "turkish resorts",
+    2
+   ]
+  ],
+  "clash": [
+   "asian cities",
+   "middle eastern cities",
+   "turkish football clubs"
+  ]
+ },
+ "Fethiye": {
+  "also": [
+   [
+    "beach destinations",
+    3
+   ],
+   [
+    "turkish resorts",
+    2
+   ]
+  ],
+  "clash": [
+   "asian cities",
+   "middle eastern cities"
+  ]
+ },
+ "Marmaris": {
+  "also": [
+   [
+    "beach destinations",
+    3
+   ],
+   [
+    "turkish resorts",
+    1
+   ]
+  ],
+  "clash": [
+   "asian cities",
+   "middle eastern cities"
+  ]
+ },
+ "Kuşadası": {
+  "also": [
+   [
+    "beach destinations",
+    3
+   ],
+   [
+    "turkish resorts",
+    2
+   ]
+  ],
+  "clash": [
+   "asian cities",
+   "middle eastern cities"
+  ]
+ },
+ "Selçuk": {
+  "also": [],
+  "clash": [
+   "ancient sites of turkey",
+   "asian cities",
+   "middle eastern cities",
+   "turkish landmarks"
+  ]
+ },
+ "Nevşehir": {
+  "also": [
+   [
+    "cappadocia",
+    4
+   ]
+  ],
+  "clash": [
+   "asian cities",
+   "middle eastern cities",
+   "turkish landmarks"
+  ]
+ },
+ "Sinop": {
+  "also": [],
+  "clash": [
+   "asian cities",
+   "middle eastern cities"
+  ]
+ },
+ "Rize": {
+  "also": [],
+  "clash": [
+   "asian cities",
+   "middle eastern cities",
+   "teas",
+   "turkish drinks",
+   "turkish football clubs"
+  ]
+ },
+ "Manisa": {
+  "also": [],
+  "clash": [
+   "asian cities",
+   "middle eastern cities",
+   "turkish football clubs"
+  ]
+ },
+ "Aydın": {
+  "also": [],
+  "clash": [
+   "asian cities",
+   "middle eastern cities"
+  ]
+ },
+ "Muğla": {
+  "also": [],
+  "clash": [
+   "asian cities",
+   "middle eastern cities"
+  ]
+ },
+ "Elazığ": {
+  "also": [],
+  "clash": [
+   "asian cities",
+   "middle eastern cities",
+   "turkish football clubs"
+  ]
+ },
+ "Batman": {
+  "also": [],
+  "clash": [
+   "asian cities",
+   "comic book words",
+   "middle eastern cities"
+  ]
+ },
+ "Tarsus": {
+  "also": [
+   [
+    "ancient sites of turkey",
+    3
+   ],
+   [
+    "bird body parts",
+    4
+   ],
+   [
+    "insect body parts",
+    4
+   ]
+  ],
+  "clash": [
+   "asian cities",
+   "bones",
+   "middle eastern cities"
+  ]
+ },
+ "İskenderun": {
+  "also": [
+   [
+    "port cities",
+    3
+   ]
+  ],
+  "clash": [
+   "asian cities",
+   "middle eastern cities"
+  ]
+ },
+ "İzmit": {
+  "also": [],
+  "clash": [
+   "asian cities",
+   "middle eastern cities"
+  ]
+ },
+ "Tekirdağ": {
+  "also": [],
+  "clash": [
+   "asian cities",
+   "european cities",
+   "middle eastern cities"
+  ]
+ },
+ "Zonguldak": {
+  "also": [],
+  "clash": [
+   "asian cities",
+   "middle eastern cities",
+   "turkish football clubs"
+  ]
+ },
+ "Afyon": {
+  "also": [],
+  "clash": [
+   "asian cities",
+   "middle eastern cities"
+  ]
+ },
+ "Isparta": {
+  "also": [],
+  "clash": [
+   "asian cities",
+   "middle eastern cities"
+  ]
+ },
+ "Amasya": {
+  "also": [],
+  "clash": [
+   "asian cities",
+   "middle eastern cities"
+  ]
+ },
+ "Tokat": {
+  "also": [
+   [
+    "kebab types",
+    4
+   ]
+  ],
+  "clash": [
+   "asian cities",
+   "middle eastern cities"
+  ]
+ },
+ "Bolu": {
+  "also": [],
+  "clash": [
+   "asian cities",
+   "middle eastern cities",
+   "turkish football clubs"
+  ]
+ },
+ "Kahramanmaraş": {
+  "also": [],
+  "clash": [
+   "asian cities",
+   "middle eastern cities"
+  ]
+ },
+ "Dubai": {
+  "also": [
+   [
+    "famous marathons",
+    4
+   ],
+   [
+    "port cities",
+    3
+   ]
+  ],
+  "clash": [
+   "asian capitals",
+   "asian cities",
+   "capital cities"
+  ]
+ },
+ "Jerusalem": {
+  "also": [
+   [
+    "crusades",
+    1
+   ],
+   [
+    "hanukkah",
+    2
+   ],
+   [
+    "holy cities",
+    1
+   ],
+   [
+    "pilgrimage sites",
+    1
+   ]
+  ],
+  "clash": [
+   "ancient cities",
+   "asian capitals",
+   "asian cities",
+   "capital cities",
+   "judaism words"
+  ]
+ },
+ "Mecca": {
+  "also": [
+   [
+    "holy cities",
+    1
+   ],
+   [
+    "pilgrimage sites",
+    1
+   ],
+   [
+    "ramadan and eid",
+    3
+   ]
+  ],
+  "clash": [
+   "asian cities",
+   "islam words",
+   "places that are also words"
+  ]
+ },
+ "Tel Aviv": {
+  "also": [
+   [
+    "beach destinations",
+    2
+   ]
+  ],
+  "clash": [
+   "asian capitals",
+   "asian cities",
+   "capital cities"
+  ]
+ },
+ "Medina": {
+  "also": [
+   [
+    "holy cities",
+    2
+   ],
+   [
+    "middle eastern buildings",
+    3
+   ],
+   [
+    "pilgrimage sites",
+    2
+   ]
+  ],
+  "clash": [
+   "asian cities",
+   "islam words",
+   "parts of a town"
+  ]
+ },
+ "Jeddah": {
+  "also": [
+   [
+    "port cities",
+    3
+   ]
+  ],
+  "clash": [
+   "asian cities"
+  ]
+ },
+ "Alexandria": {
+  "also": [
+   [
+    "african cities",
+    2
+   ],
+   [
+    "american cities",
+    4
+   ],
+   [
+    "ancient cities",
+    2
+   ],
+   [
+    "ancient egypt",
+    3
+   ],
+   [
+    "places named after people",
+    2
+   ],
+   [
+    "port cities",
+    2
+   ],
+   [
+    "spice trade",
+    3
+   ]
+  ],
+  "clash": []
+ },
+ "Bethlehem": {
+  "also": [
+   [
+    "christmas",
+    1
+   ],
+   [
+    "holy cities",
+    2
+   ],
+   [
+    "pilgrimage sites",
+    1
+   ]
+  ],
+  "clash": [
+   "asian cities"
+  ]
+ },
+ "Nazareth": {
+  "also": [
+   [
+    "holy cities",
+    2
+   ],
+   [
+    "pilgrimage sites",
+    2
+   ]
+  ],
+  "clash": [
+   "asian cities",
+   "christmas"
+  ]
+ },
+ "Gaza": {
+  "also": [],
+  "clash": [
+   "asian cities",
+   "cotton fabrics"
+  ]
+ },
+ "Aleppo": {
+  "also": [
+   [
+    "chili peppers",
+    4
+   ],
+   [
+    "silk road",
+    3
+   ],
+   [
+    "silk road cities",
+    3
+   ]
+  ],
+  "clash": [
+   "ancient cities",
+   "asian cities"
+  ]
+ },
+ "Basra": {
+  "also": [
+   [
+    "arabian nights",
+    3
+   ],
+   [
+    "middle eastern pastimes",
+    5
+   ],
+   [
+    "port cities",
+    3
+   ]
+  ],
+  "clash": [
+   "asian cities"
+  ]
+ },
+ "Mosul": {
+  "also": [],
+  "clash": [
+   "ancient cities",
+   "asian cities",
+   "cotton fabrics",
+   "mesopotamia",
+   "words named after places"
+  ]
+ },
+ "Isfahan": {
+  "also": [
+   [
+    "silk road cities",
+    3
+   ]
+  ],
+  "clash": [
+   "ancient persia",
+   "asian cities",
+   "rugs and carpets"
+  ]
+ },
+ "Shiraz": {
+  "also": [
+   [
+    "red wines",
+    1
+   ]
+  ],
+  "clash": [
+   "ancient persia",
+   "asian cities",
+   "rugs and carpets",
+   "wines"
+  ]
+ },
+ "Tabriz": {
+  "also": [
+   [
+    "rugs and carpets",
+    5
+   ],
+   [
+    "silk road cities",
+    3
+   ]
+  ],
+  "clash": [
+   "ancient persia",
+   "asian cities"
+  ]
+ },
+ "Mashhad": {
+  "also": [
+   [
+    "holy cities",
+    3
+   ],
+   [
+    "pilgrimage sites",
+    3
+   ]
+  ],
+  "clash": [
+   "asian cities"
+  ]
+ },
+ "Sharjah": {
+  "also": [
+   [
+    "port cities",
+    3
+   ]
+  ],
+  "clash": [
+   "asian cities"
+  ]
+ },
+ "Haifa": {
+  "also": [
+   [
+    "port cities",
+    3
+   ]
+  ],
+  "clash": [
+   "asian cities",
+   "beach destinations"
+  ]
+ },
+ "Eilat": {
+  "also": [
+   [
+    "beach destinations",
+    3
+   ]
+  ],
+  "clash": [
+   "asian cities"
+  ]
+ },
+ "Ramallah": {
+  "also": [],
+  "clash": [
+   "asian cities"
+  ]
+ },
+ "Hebron": {
+  "also": [
+   [
+    "holy cities",
+    3
+   ],
+   [
+    "pilgrimage sites",
+    3
+   ]
+  ],
+  "clash": [
+   "ancient cities",
+   "asian cities"
+  ]
+ },
+ "Jericho": {
+  "also": [
+   [
+    "ancient cities",
+    2
+   ],
+   [
+    "ancient sites of the middle east",
+    2
+   ],
+   [
+    "oasis",
+    4
+   ]
+  ],
+  "clash": [
+   "asian cities"
+  ]
+ },
+ "Aqaba": {
+  "also": [
+   [
+    "port cities",
+    3
+   ],
+   [
+    "world war i battles",
+    4
+   ]
+  ],
+  "clash": [
+   "asian cities"
+  ]
+ },
+ "Aden": {
+  "also": [
+   [
+    "port cities",
+    3
+   ]
+  ],
+  "clash": [
+   "asian cities"
+  ]
+ },
+ "Erbil": {
+  "also": [],
+  "clash": [
+   "ancient cities",
+   "asian cities",
+   "mesopotamia"
+  ]
+ },
+ "Kirkuk": {
+  "also": [],
+  "clash": [
+   "asian cities",
+   "mesopotamia"
+  ]
+ },
+ "Najaf": {
+  "also": [
+   [
+    "holy cities",
+    3
+   ],
+   [
+    "pilgrimage sites",
+    3
+   ]
+  ],
+  "clash": [
+   "asian cities"
+  ]
+ },
+ "Karbala": {
+  "also": [
+   [
+    "holy cities",
+    3
+   ],
+   [
+    "pilgrimage sites",
+    3
+   ]
+  ],
+  "clash": [
+   "asian cities",
+   "famous battles"
+  ]
+ },
+ "Fallujah": {
+  "also": [
+   [
+    "famous battles",
+    3
+   ]
+  ],
+  "clash": [
+   "asian cities"
+  ]
+ },
+ "Homs": {
+  "also": [],
+  "clash": [
+   "asian cities"
+  ]
+ },
+ "Latakia": {
+  "also": [
+   [
+    "port cities",
+    3
+   ]
+  ],
+  "clash": [
+   "asian cities"
+  ]
+ },
+ "Dammam": {
+  "also": [
+   [
+    "port cities",
+    3
+   ]
+  ],
+  "clash": [
+   "asian cities"
+  ]
+ },
+ "Taif": {
+  "also": [],
+  "clash": [
+   "asian cities"
+  ]
+ },
+ "Tabuk": {
+  "also": [],
+  "clash": [
+   "asian cities"
+  ]
+ },
+ "Ajman": {
+  "also": [],
+  "clash": [
+   "asian cities"
+  ]
+ },
+ "Fujairah": {
+  "also": [],
+  "clash": [
+   "asian cities"
+  ]
+ },
+ "Al Ain": {
+  "also": [
+   [
+    "oasis",
+    4
+   ]
+  ],
+  "clash": [
+   "asian cities"
+  ]
+ },
+ "Salalah": {
+  "also": [],
+  "clash": [
+   "asian cities"
+  ]
+ },
+ "Nizwa": {
+  "also": [],
+  "clash": [
+   "asian cities"
+  ]
+ },
+ "Qom": {
+  "also": [
+   [
+    "holy cities",
+    3
+   ],
+   [
+    "pilgrimage sites",
+    3
+   ]
+  ],
+  "clash": [
+   "asian cities"
+  ]
+ },
+ "Kerman": {
+  "also": [],
+  "clash": [
+   "ancient persia",
+   "asian cities",
+   "rugs and carpets"
+  ]
+ },
+ "Yazd": {
+  "also": [
+   [
+    "silk road cities",
+    4
+   ]
+  ],
+  "clash": [
+   "ancient persia",
+   "asian cities"
+  ]
+ },
+ "Tyre": {
+  "also": [
+   [
+    "ancient cities",
+    2
+   ],
+   [
+    "ancient sites of the middle east",
+    3
+   ],
+   [
+    "bicycle parts",
+    2
+   ],
+   [
+    "car parts",
+    2
+   ],
+   [
+    "crusades",
+    3
+   ],
+   [
+    "port cities",
+    3
+   ]
+  ],
+  "clash": [
+   "asian cities",
+   "homophones",
+   "things that roll",
+   "things with wheels"
+  ]
+ },
+ "Sidon": {
+  "also": [
+   [
+    "ancient cities",
+    3
+   ],
+   [
+    "ancient sites of the middle east",
+    3
+   ],
+   [
+    "port cities",
+    3
+   ]
+  ],
+  "clash": [
+   "asian cities"
+  ]
+ },
+ "Byblos": {
+  "also": [
+   [
+    "ancient cities",
+    3
+   ],
+   [
+    "ancient sites of the middle east",
+    3
+   ]
+  ],
+  "clash": [
+   "asian cities"
+  ]
+ },
+ "Acre": {
+  "also": [
+   [
+    "crusades",
+    3
+   ],
+   [
+    "imperial units",
+    1
+   ],
+   [
+    "medieval battles",
+    4
+   ],
+   [
+    "port cities",
+    3
+   ]
+  ],
+  "clash": [
+   "asian cities",
+   "measurement"
+  ]
+ },
+ "Nablus": {
+  "also": [],
+  "clash": [
+   "asian cities"
+  ]
+ },
+ "Ashdod": {
+  "also": [
+   [
+    "port cities",
+    3
+   ]
+  ],
+  "clash": [
+   "asian cities"
+  ]
+ },
+ "Beersheba": {
+  "also": [
+   [
+    "anzac day",
+    4
+   ],
+   [
+    "world war i battles",
+    4
+   ]
+  ],
+  "clash": [
+   "asian cities"
+  ]
+ },
+ "Tiberias": {
+  "also": [
+   [
+    "holy cities",
+    4
+   ]
+  ],
+  "clash": [
+   "asian cities"
+  ]
+ },
+ "Hama": {
+  "also": [],
+  "clash": [
+   "asian cities"
+  ]
+ },
+ "Palmyra": {
+  "also": [
+   [
+    "ancient cities",
+    2
+   ],
+   [
+    "ancient sites of the middle east",
+    2
+   ],
+   [
+    "landmarks",
+    3
+   ],
+   [
+    "oasis",
+    4
+   ],
+   [
+    "silk road",
+    3
+   ],
+   [
+    "silk road cities",
+    3
+   ]
+  ],
+  "clash": [
+   "asian cities"
+  ]
+ },
+ "Ramadi": {
+  "also": [],
+  "clash": [
+   "asian cities"
+  ]
+ },
+ "Tikrit": {
+  "also": [],
+  "clash": [
+   "asian cities"
+  ]
+ },
+ "Sulaymaniyah": {
+  "also": [],
+  "clash": [
+   "asian cities"
+  ]
+ },
+ "Sharm el-Sheikh": {
+  "also": [
+   [
+    "african cities",
+    3
+   ],
+   [
+    "beach destinations",
+    3
+   ],
+   [
+    "egyptian landmarks",
+    4
+   ]
+  ],
+  "clash": []
+ },
+ "Ras al-Khaimah": {
+  "also": [],
+  "clash": [
+   "asian cities"
+  ]
+ },
+ "Saigon": {
+  "also": [
+   [
+    "old city names",
+    1
+   ]
+  ],
+  "clash": [
+   "asian capitals",
+   "capital cities"
+  ]
+ },
+ "Busan": {
+  "also": [
+   [
+    "film festivals",
+    4
+   ],
+   [
+    "port cities",
+    2
+   ]
+  ],
+  "clash": []
+ },
+ "Taipei": {
+  "also": [],
+  "clash": [
+   "asian capitals",
+   "capital cities",
+   "chinese cities"
+  ]
+ },
+ "Yangon": {
+  "also": [
+   [
+    "old city names",
+    4
+   ]
+  ],
+  "clash": [
+   "asian capitals",
+   "capital cities"
+  ]
+ },
+ "Mandalay": {
+  "also": [
+   [
+    "world war ii battles",
+    4
+   ]
+  ],
+  "clash": []
+ },
+ "Chittagong": {
+  "also": [
+   [
+    "port cities",
+    3
+   ]
+  ],
+  "clash": [
+   "indian cities"
+  ]
+ },
+ "Karachi": {
+  "also": [
+   [
+    "port cities",
+    3
+   ]
+  ],
+  "clash": [
+   "asian capitals",
+   "capital cities",
+   "indian cities"
+  ]
+ },
+ "Lahore": {
+  "also": [],
+  "clash": [
+   "indian cities"
+  ]
+ },
+ "Peshawar": {
+  "also": [],
+  "clash": [
+   "indian cities"
+  ]
+ },
+ "Rawalpindi": {
+  "also": [],
+  "clash": [
+   "indian cities"
+  ]
+ },
+ "Faisalabad": {
+  "also": [],
+  "clash": [
+   "indian cities"
+  ]
+ },
+ "Multan": {
+  "also": [],
+  "clash": [
+   "indian cities"
+  ]
+ },
+ "Quetta": {
+  "also": [
+   [
+    "metric prefixes",
+    5
+   ]
+  ],
+  "clash": [
+   "indian cities"
+  ]
+ },
+ "Kandy": {
+  "also": [
+   [
+    "holy cities",
+    3
+   ],
+   [
+    "pilgrimage sites",
+    4
+   ]
+  ],
+  "clash": [
+   "candy",
+   "homophones"
+  ]
+ },
+ "Kandahar": {
+  "also": [],
+  "clash": [
+   "middle eastern cities"
+  ]
+ },
+ "Herat": {
+  "also": [
+   [
+    "silk road",
+    3
+   ],
+   [
+    "silk road cities",
+    3
+   ]
+  ],
+  "clash": [
+   "middle eastern cities"
+  ]
+ },
+ "Samarkand": {
+  "also": [
+   [
+    "silk road",
+    2
+   ],
+   [
+    "silk road cities",
+    1
+   ]
+  ],
+  "clash": [
+   "ancient cities"
+  ]
+ },
+ "Bukhara": {
+  "also": [
+   [
+    "silk road",
+    3
+   ],
+   [
+    "silk road cities",
+    1
+   ]
+  ],
+  "clash": [
+   "ancient cities",
+   "rugs and carpets"
+  ]
+ },
+ "Almaty": {
+  "also": [
+   [
+    "silk road cities",
+    4
+   ]
+  ],
+  "clash": [
+   "asian capitals",
+   "capital cities",
+   "old city names"
+  ]
+ },
+ "Incheon": {
+  "also": [
+   [
+    "famous airports",
+    3
+   ],
+   [
+    "port cities",
+    3
+   ]
+  ],
+  "clash": []
+ },
+ "Gyeongju": {
+  "also": [
+   [
+    "ancient sites of asia",
+    4
+   ]
+  ],
+  "clash": [
+   "ancient cities"
+  ]
+ },
+ "Phuket": {
+  "also": [
+   [
+    "beach destinations",
+    2
+   ],
+   [
+    "famous islands",
+    2
+   ]
+  ],
+  "clash": []
+ },
+ "Pattaya": {
+  "also": [
+   [
+    "beach destinations",
+    3
+   ]
+  ],
+  "clash": []
+ },
+ "Ayutthaya": {
+  "also": [
+   [
+    "landmarks",
+    4
+   ]
+  ],
+  "clash": [
+   "ancient cities"
+  ]
+ },
+ "Penang": {
+  "also": [
+   [
+    "famous islands",
+    3
+   ],
+   [
+    "port cities",
+    3
+   ]
+  ],
+  "clash": []
+ },
+ "Malacca": {
+  "also": [
+   [
+    "port cities",
+    3
+   ],
+   [
+    "spice trade",
+    3
+   ],
+   [
+    "straits and canals",
+    2
+   ]
+  ],
+  "clash": []
+ },
+ "Cebu": {
+  "also": [
+   [
+    "beach destinations",
+    3
+   ],
+   [
+    "famous islands",
+    3
+   ],
+   [
+    "port cities",
+    3
+   ]
+  ],
+  "clash": []
+ },
+ "Davao": {
+  "also": [
+   [
+    "port cities",
+    3
+   ]
+  ],
+  "clash": []
+ },
+ "Quezon City": {
+  "also": [],
+  "clash": [
+   "asian capitals",
+   "capital cities"
+  ]
+ },
+ "Surabaya": {
+  "also": [
+   [
+    "port cities",
+    3
+   ]
+  ],
+  "clash": []
+ },
+ "Bandung": {
+  "also": [
+   [
+    "asian drinks",
+    4
+   ]
+  ],
+  "clash": []
+ },
+ "Denpasar": {
+  "also": [],
+  "clash": [
+   "indonesian islands"
+  ]
+ },
+ "Da Nang": {
+  "also": [
+   [
+    "beach destinations",
+    3
+   ],
+   [
+    "port cities",
+    3
+   ]
+  ],
+  "clash": []
+ },
+ "Hue": {
+  "also": [
+   [
+    "color terms",
+    1
+   ],
+   [
+    "color theory words",
+    2
+   ],
+   [
+    "painting words",
+    3
+   ],
+   [
+    "rhymes with blue",
+    2
+   ]
+  ],
+  "clash": [
+   "colors"
+  ]
+ },
+ "Haiphong": {
+  "also": [
+   [
+    "port cities",
+    3
+   ]
+  ],
+  "clash": []
+ },
+ "Nha Trang": {
+  "also": [
+   [
+    "beach destinations",
+    3
+   ]
+  ],
+  "clash": []
+ },
+ "Kaohsiung": {
+  "also": [
+   [
+    "port cities",
+    3
+   ]
+  ],
+  "clash": [
+   "chinese cities"
+  ]
+ },
+ "Ho Chi Minh City": {
+  "also": [
+   [
+    "places named after people",
+    3
+   ],
+   [
+    "port cities",
+    3
+   ]
+  ],
+  "clash": [
+   "asian capitals",
+   "capital cities",
+   "famous leaders"
+  ]
+ },
+ "Mazar-i-Sharif": {
+  "also": [],
+  "clash": [
+   "middle eastern cities"
+  ]
+ },
+ "Shanghai": {
+  "also": [
+   [
+    "darts terms",
+    4
+   ],
+   [
+    "places that are also words",
+    3
+   ],
+   [
+    "port cities",
+    1
+   ],
+   [
+    "words named after places",
+    4
+   ]
+  ],
+  "clash": [
+   "asian capitals",
+   "capital cities"
+  ]
+ },
+ "Hong Kong": {
+  "also": [
+   [
+    "port cities",
+    1
+   ],
+   [
+    "red and white flags",
+    3
+   ]
+  ],
+  "clash": [
+   "asian capitals",
+   "capital cities"
+  ]
+ },
+ "Guangzhou": {
+  "also": [
+   [
+    "port cities",
+    3
+   ]
+  ],
+  "clash": [
+   "old city names"
+  ]
+ },
+ "Shenzhen": {
+  "also": [
+   [
+    "port cities",
+    3
+   ]
+  ],
+  "clash": []
+ },
+ "Chongqing": {
+  "also": [],
+  "clash": [
+   "spicy dishes of asia"
+  ]
+ },
+ "Xi'an": {
+  "also": [
+   [
+    "silk road",
+    3
+   ],
+   [
+    "silk road cities",
+    2
+   ]
+  ],
+  "clash": [
+   "ancient china",
+   "asian capitals",
+   "chinese landmarks"
+  ]
+ },
+ "Nanjing": {
+  "also": [],
+  "clash": [
+   "ancient china",
+   "asian capitals",
+   "old city names"
+  ]
+ },
+ "Hangzhou": {
+  "also": [],
+  "clash": [
+   "famous gardens"
+  ]
+ },
+ "Tianjin": {
+  "also": [
+   [
+    "port cities",
+    3
+   ]
+  ],
+  "clash": []
+ },
+ "Macau": {
+  "also": [
+   [
+    "casino words",
+    2
+   ]
+  ],
+  "clash": [
+   "port cities"
+  ]
+ },
+ "Suzhou": {
+  "also": [],
+  "clash": [
+   "famous gardens"
+  ]
+ },
+ "Qingdao": {
+  "also": [
+   [
+    "port cities",
+    3
+   ]
+  ],
+  "clash": [
+   "beers"
+  ]
+ },
+ "Dalian": {
+  "also": [
+   [
+    "port cities",
+    4
+   ]
+  ],
+  "clash": []
+ },
+ "Harbin": {
+  "also": [],
+  "clash": [
+   "festivals of the world"
+  ]
+ },
+ "Guilin": {
+  "also": [],
+  "clash": [
+   "chinese landmarks"
+  ]
+ },
+ "Lhasa": {
+  "also": [
+   [
+    "holy cities",
+    2
+   ],
+   [
+    "pilgrimage sites",
+    3
+   ]
+  ],
+  "clash": [
+   "buddhism words",
+   "dog breeds"
+  ]
+ },
+ "Kashgar": {
+  "also": [
+   [
+    "silk road",
+    3
+   ],
+   [
+    "silk road cities",
+    2
+   ]
+  ],
+  "clash": []
+ },
+ "Xiamen": {
+  "also": [
+   [
+    "port cities",
+    4
+   ]
+  ],
+  "clash": []
+ },
+ "Fuzhou": {
+  "also": [
+   [
+    "port cities",
+    3
+   ]
+  ],
+  "clash": []
+ },
+ "Lanzhou": {
+  "also": [
+   [
+    "silk road cities",
+    3
+   ]
+  ],
+  "clash": []
+ },
+ "Haikou": {
+  "also": [],
+  "clash": [
+   "famous islands"
+  ]
+ },
+ "Sanya": {
+  "also": [
+   [
+    "beach destinations",
+    4
+   ]
+  ],
+  "clash": [
+   "famous islands"
+  ]
+ },
+ "Lijiang": {
+  "also": [
+   [
+    "chinese landmarks",
+    4
+   ]
+  ],
+  "clash": []
+ },
+ "Dali": {
+  "also": [],
+  "clash": [
+   "modern artists",
+   "spanish painters"
+  ]
+ },
+ "Dunhuang": {
+  "also": [
+   [
+    "ancient sites of asia",
+    3
+   ],
+   [
+    "silk road",
+    3
+   ],
+   [
+    "silk road cities",
+    2
+   ]
+  ],
+  "clash": []
+ },
+ "Luoyang": {
+  "also": [
+   [
+    "ancient china",
+    4
+   ],
+   [
+    "silk road cities",
+    3
+   ]
+  ],
+  "clash": [
+   "asian capitals"
+  ]
+ },
+ "Kaifeng": {
+  "also": [],
+  "clash": [
+   "ancient china",
+   "asian capitals"
+  ]
+ },
+ "Pingyao": {
+  "also": [
+   [
+    "chinese landmarks",
+    4
+   ]
+  ],
+  "clash": []
+ },
+ "Ningbo": {
+  "also": [
+   [
+    "port cities",
+    4
+   ]
+  ],
+  "clash": []
+ },
+ "Yangzhou": {
+  "also": [],
+  "clash": [
+   "rice dishes"
+  ]
+ },
+ "Shaoxing": {
+  "also": [],
+  "clash": [
+   "asian drinks"
+  ]
+ },
+ "Qufu": {
+  "also": [],
+  "clash": [
+   "ancient china"
+  ]
+ },
+ "Turpan": {
+  "also": [
+   [
+    "silk road",
+    4
+   ],
+   [
+    "silk road cities",
+    3
+   ]
+  ],
+  "clash": []
+ },
+ "Osaka": {
+  "also": [
+   [
+    "famous marathons",
+    4
+   ],
+   [
+    "port cities",
+    3
+   ]
+  ],
+  "clash": [
+   "tennis champions"
+  ]
+ },
+ "Kyoto": {
+  "also": [
+   [
+    "feudal japan",
+    2
+   ]
+  ],
+  "clash": [
+   "asian capitals",
+   "capital cities",
+   "climate words",
+   "japanese landmarks"
+  ]
+ },
+ "Hiroshima": {
+  "also": [
+   [
+    "nuclear words",
+    1
+   ],
+   [
+    "world war ii terms",
+    1
+   ]
+  ],
+  "clash": [
+   "world war ii battles"
+  ]
+ },
+ "Nagasaki": {
+  "also": [
+   [
+    "nuclear words",
+    2
+   ],
+   [
+    "port cities",
+    3
+   ],
+   [
+    "world war ii terms",
+    2
+   ]
+  ],
+  "clash": [
+   "world war ii battles"
+  ]
+ },
+ "Yokohama": {
+  "also": [
+   [
+    "port cities",
+    2
+   ]
+  ],
+  "clash": []
+ },
+ "Nagoya": {
+  "also": [
+   [
+    "famous marathons",
+    5
+   ]
+  ],
+  "clash": []
+ },
+ "Sapporo": {
+  "also": [
+   [
+    "beers",
+    3
+   ],
+   [
+    "olympic host cities",
+    3
+   ]
+  ],
+  "clash": [
+   "famous ski resorts",
+   "festivals of the world"
+  ]
+ },
+ "Kobe": {
+  "also": [
+   [
+    "foods named after places",
+    3
+   ],
+   [
+    "port cities",
+    3
+   ]
+  ],
+  "clash": [
+   "basketball legends",
+   "cuts of meat"
+  ]
+ },
+ "Fukuoka": {
+  "also": [
+   [
+    "famous marathons",
+    4
+   ]
+  ],
+  "clash": []
+ },
+ "Nara": {
+  "also": [],
+  "clash": [
+   "asian capitals",
+   "historical periods",
+   "japanese landmarks"
+  ]
+ },
+ "Kawasaki": {
+  "also": [
+   [
+    "aircraft makers",
+    4
+   ],
+   [
+    "motorcycle brands",
+    1
+   ]
+  ],
+  "clash": [
+   "childhood illnesses",
+   "japanese car brands"
+  ]
+ },
+ "Kamakura": {
+  "also": [
+   [
+    "feudal japan",
+    3
+   ]
+  ],
+  "clash": [
+   "asian capitals",
+   "historical periods",
+   "japanese landmarks"
+  ]
+ },
+ "Nikko": {
+  "also": [
+   [
+    "national parks",
+    3
+   ]
+  ],
+  "clash": [
+   "japanese landmarks"
+  ]
+ },
+ "Hakodate": {
+  "also": [
+   [
+    "port cities",
+    3
+   ]
+  ],
+  "clash": []
+ },
+ "Kanazawa": {
+  "also": [],
+  "clash": [
+   "famous gardens",
+   "japanese landmarks"
+  ]
+ },
+ "Okayama": {
+  "also": [],
+  "clash": [
+   "famous gardens"
+  ]
+ },
+ "Kumamoto": {
+  "also": [
+   [
+    "shellfish",
+    5
+   ]
+  ],
+  "clash": [
+   "famous castles"
+  ]
+ },
+ "Naha": {
+  "also": [
+   [
+    "beach destinations",
+    4
+   ]
+  ],
+  "clash": [
+   "famous islands"
+  ]
+ },
+ "Niigata": {
+  "also": [
+   [
+    "port cities",
+    3
+   ]
+  ],
+  "clash": []
+ },
+ "Matsuyama": {
+  "also": [],
+  "clash": [
+   "famous castles"
+  ]
+ },
+ "Takayama": {
+  "also": [],
+  "clash": [
+   "japanese landmarks"
+  ]
+ },
+ "Himeji": {
+  "also": [
+   [
+    "castles",
+    3
+   ],
+   [
+    "famous castles",
+    3
+   ],
+   [
+    "japanese landmarks",
+    3
+   ]
+  ],
+  "clash": []
+ },
+ "Yokosuka": {
+  "also": [
+   [
+    "port cities",
+    3
+   ]
+  ],
+  "clash": []
+ },
+ "Matsue": {
+  "also": [],
+  "clash": [
+   "famous castles"
+  ]
+ },
+ "Nagano": {
+  "also": [
+   [
+    "olympic host cities",
+    2
+   ]
+  ],
+  "clash": [
+   "famous ski resorts"
+  ]
+ },
+ "Akita": {
+  "also": [
+   [
+    "japanese animals",
+    2
+   ],
+   [
+    "working dogs",
+    2
+   ]
+  ],
+  "clash": []
+ },
+ "Fukushima": {
+  "also": [
+   [
+    "nuclear words",
+    2
+   ]
+  ],
+  "clash": [
+   "natural disasters",
+   "nuclear power plant"
+  ]
+ },
+ "Mito": {
+  "also": [],
+  "clash": [
+   "famous gardens"
+  ]
+ },
+ "Shimonoseki": {
+  "also": [
+   [
+    "port cities",
+    3
+   ]
+  ],
+  "clash": []
+ },
+ "Miyazaki": {
+  "also": [],
+  "clash": [
+   "film directors"
+  ]
+ },
+ "Beppu": {
+  "also": [
+   [
+    "geothermal words",
+    4
+   ]
+  ],
+  "clash": [
+   "spa"
+  ]
+ },
+ "Sasebo": {
+  "also": [],
+  "clash": [
+   "port cities"
+  ]
+ },
+ "Otaru": {
+  "also": [],
+  "clash": [
+   "port cities"
+  ]
+ },
+ "Hirosaki": {
+  "also": [],
+  "clash": [
+   "famous castles"
+  ]
+ },
+ "Mumbai": {
+  "also": [
+   [
+    "famous marathons",
+    5
+   ],
+   [
+    "port cities",
+    2
+   ]
+  ],
+  "clash": [
+   "asian capitals",
+   "capital cities",
+   "old city names"
+  ]
+ },
+ "Delhi": {
+  "also": [
+   [
+    "places after new",
+    1
+   ]
+  ],
+  "clash": [
+   "asian capitals",
+   "capital cities",
+   "homophones"
+  ]
+ },
+ "Kolkata": {
+  "also": [
+   [
+    "port cities",
+    3
+   ]
+  ],
+  "clash": [
+   "asian capitals",
+   "capital cities",
+   "old city names"
+  ]
+ },
+ "Chennai": {
+  "also": [
+   [
+    "port cities",
+    3
+   ]
+  ],
+  "clash": [
+   "old city names"
+  ]
+ },
+ "Bangalore": {
+  "also": [
+   [
+    "old city names",
+    3
+   ]
+  ],
+  "clash": []
+ },
+ "Agra": {
+  "also": [],
+  "clash": [
+   "indian landmarks"
+  ]
+ },
+ "Jaipur": {
+  "also": [],
+  "clash": [
+   "indian landmarks"
+  ]
+ },
+ "Varanasi": {
+  "also": [
+   [
+    "holy cities",
+    2
+   ],
+   [
+    "pilgrimage sites",
+    2
+   ]
+  ],
+  "clash": [
+   "indian landmarks"
+  ]
+ },
+ "Amritsar": {
+  "also": [
+   [
+    "holy cities",
+    3
+   ],
+   [
+    "pilgrimage sites",
+    3
+   ]
+  ],
+  "clash": [
+   "famous temples",
+   "indian landmarks"
+  ]
+ },
+ "Mysore": {
+  "also": [],
+  "clash": [
+   "indian landmarks",
+   "indian sweets"
+  ]
+ },
+ "Kochi": {
+  "also": [
+   [
+    "port cities",
+    3
+   ]
+  ],
+  "clash": [
+   "spice trade"
+  ]
+ },
+ "Udaipur": {
+  "also": [],
+  "clash": [
+   "indian landmarks"
+  ]
+ },
+ "Jodhpur": {
+  "also": [],
+  "clash": [
+   "boots",
+   "indian landmarks",
+   "pants and shorts",
+   "words named after places"
+  ]
+ },
+ "Jaisalmer": {
+  "also": [],
+  "clash": [
+   "indian landmarks"
+  ]
+ },
+ "Bhopal": {
+  "also": [
+   [
+    "pollution words",
+    4
+   ]
+  ],
+  "clash": []
+ },
+ "Patna": {
+  "also": [],
+  "clash": [
+   "grains"
+  ]
+ },
+ "Shimla": {
+  "also": [],
+  "clash": [
+   "old city names"
+  ]
+ },
+ "Darjeeling": {
+  "also": [
+   [
+    "foods named after places",
+    3
+   ],
+   [
+    "teas",
+    2
+   ]
+  ],
+  "clash": []
+ },
+ "Rishikesh": {
+  "also": [
+   [
+    "holy cities",
+    3
+   ],
+   [
+    "pilgrimage sites",
+    3
+   ]
+  ],
+  "clash": [
+   "yoga words"
+  ]
+ },
+ "Haridwar": {
+  "also": [
+   [
+    "holy cities",
+    3
+   ],
+   [
+    "pilgrimage sites",
+    3
+   ]
+  ],
+  "clash": []
+ },
+ "Madurai": {
+  "also": [
+   [
+    "holy cities",
+    4
+   ]
+  ],
+  "clash": []
+ },
+ "Trivandrum": {
+  "also": [
+   [
+    "old city names",
+    5
+   ]
+  ],
+  "clash": []
+ },
+ "Gwalior": {
+  "also": [],
+  "clash": [
+   "indian landmarks"
+  ]
+ },
+ "Allahabad": {
+  "also": [
+   [
+    "old city names",
+    3
+   ],
+   [
+    "pilgrimage sites",
+    4
+   ]
+  ],
+  "clash": []
+ },
+ "Mangalore": {
+  "also": [
+   [
+    "port cities",
+    3
+   ]
+  ],
+  "clash": [
+   "spice trade"
+  ]
+ },
+ "Pondicherry": {
+  "also": [
+   [
+    "old city names",
+    3
+   ]
+  ],
+  "clash": []
+ },
+ "Panaji": {
+  "also": [],
+  "clash": [
+   "indian states"
+  ]
+ },
+ "Imphal": {
+  "also": [
+   [
+    "world war ii battles",
+    3
+   ]
+  ],
+  "clash": [
+   "famous battles"
+  ]
+ },
+ "Ujjain": {
+  "also": [
+   [
+    "holy cities",
+    4
+   ],
+   [
+    "pilgrimage sites",
+    4
+   ]
+  ],
+  "clash": []
+ },
+ "Mathura": {
+  "also": [
+   [
+    "holi",
+    3
+   ],
+   [
+    "holy cities",
+    3
+   ],
+   [
+    "pilgrimage sites",
+    4
+   ]
+  ],
+  "clash": []
+ },
+ "Ajmer": {
+  "also": [
+   [
+    "holy cities",
+    4
+   ],
+   [
+    "pilgrimage sites",
+    4
+   ]
+  ],
+  "clash": []
+ },
+ "Pushkar": {
+  "also": [
+   [
+    "holy cities",
+    4
+   ],
+   [
+    "pilgrimage sites",
+    4
+   ]
+  ],
+  "clash": []
+ },
+ "Aurangabad": {
+  "also": [
+   [
+    "old city names",
+    3
+   ]
+  ],
+  "clash": []
+ },
+ "Calicut": {
+  "also": [
+   [
+    "old city names",
+    3
+   ],
+   [
+    "spice trade",
+    3
+   ]
+  ],
+  "clash": [
+   "cotton fabrics",
+   "port cities",
+   "words named after places"
+  ]
+ },
+ "Tirupati": {
+  "also": [
+   [
+    "famous temples",
+    4
+   ],
+   [
+    "holy cities",
+    4
+   ],
+   [
+    "pilgrimage sites",
+    4
+   ]
+  ],
+  "clash": []
+ },
+ "Visakhapatnam": {
+  "also": [
+   [
+    "port cities",
+    3
+   ]
+  ],
+  "clash": []
+ },
+ "New York": {
+  "also": [
+   [
+    "famous marathons",
+    1
+   ],
+   [
+    "pizza styles",
+    1
+   ],
+   [
+    "port cities",
+    3
+   ],
+   [
+    "us states",
+    1
+   ]
+  ],
+  "clash": [
+   "capital cities"
+  ]
+ },
+ "Los Angeles": {
+  "also": [
+   [
+    "famous marathons",
+    3
+   ],
+   [
+    "olympic host cities",
+    1
+   ],
+   [
+    "port cities",
+    3
+   ]
+  ],
+  "clash": []
+ },
+ "Chicago": {
+  "also": [
+   [
+    "famous bands",
+    3
+   ],
+   [
+    "famous marathons",
+    2
+   ],
+   [
+    "foods named after places",
+    3
+   ],
+   [
+    "pizza styles",
+    2
+   ]
+  ],
+  "clash": [
+   "musicals words"
+  ]
+ },
+ "Houston": {
+  "also": [
+   [
+    "famous marathons",
+    4
+   ],
+   [
+    "names that are places",
+    3
+   ],
+   [
+    "places named after people",
+    2
+   ],
+   [
+    "port cities",
+    3
+   ],
+   [
+    "spaceflight words",
+    3
+   ]
+  ],
+  "clash": [
+   "pop stars"
+  ]
+ },
+ "Philadelphia": {
+  "also": [
+   [
+    "famous marathons",
+    4
+   ],
+   [
+    "foods named after places",
+    3
+   ],
+   [
+    "port cities",
+    3
+   ]
+  ],
+  "clash": [
+   "capital cities"
+  ]
+ },
+ "Phoenix": {
+  "also": [
+   [
+    "chicken breeds",
+    5
+   ],
+   [
+    "constellations",
+    3
+   ],
+   [
+    "mythical creatures",
+    1
+   ],
+   [
+    "places that are also words",
+    2
+   ],
+   [
+    "space vehicles",
+    4
+   ],
+   [
+    "things that fly",
+    3
+   ],
+   [
+    "things with wings",
+    3
+   ],
+   [
+    "unisex names",
+    2
+   ],
+   [
+    "winged beasts",
+    1
+   ]
+  ],
+  "clash": [
+   "capital cities",
+   "greek monsters"
+  ]
+ },
+ "San Diego": {
+  "also": [
+   [
+    "beach destinations",
+    2
+   ],
+   [
+    "port cities",
+    2
+   ]
+  ],
+  "clash": []
+ },
+ "Dallas": {
+  "also": [
+   [
+    "names that are places",
+    2
+   ],
+   [
+    "places named after people",
+    3
+   ]
+  ],
+  "clash": []
+ },
+ "Austin": {
+  "also": [
+   [
+    "british car brands",
+    3
+   ],
+   [
+    "names that are places",
+    2
+   ],
+   [
+    "places named after people",
+    3
+   ]
+  ],
+  "clash": [
+   "capital cities"
+  ]
+ },
+ "San Francisco": {
+  "also": [
+   [
+    "fonts",
+    4
+   ],
+   [
+    "places named after people",
+    3
+   ]
+  ],
+  "clash": []
+ },
+ "Seattle": {
+  "also": [
+   [
+    "places named after people",
+    2
+   ],
+   [
+    "port cities",
+    2
+   ]
+  ],
+  "clash": []
+ },
+ "Denver": {
+  "also": [
+   [
+    "foods named after places",
+    3
+   ],
+   [
+    "names that are places",
+    3
+   ],
+   [
+    "places named after people",
+    3
+   ]
+  ],
+  "clash": [
+   "capital cities",
+   "country singers",
+   "egg dishes"
+  ]
+ },
+ "Boston": {
+  "also": [
+   [
+    "ballroom dances",
+    5
+   ],
+   [
+    "famous bands",
+    3
+   ],
+   [
+    "famous marathons",
+    1
+   ],
+   [
+    "foods named after places",
+    3
+   ],
+   [
+    "port cities",
+    2
+   ]
+  ],
+  "clash": [
+   "cakes",
+   "capital cities",
+   "pies and tarts",
+   "terriers"
+  ]
+ },
+ "Miami": {
+  "also": [
+   [
+    "beach destinations",
+    2
+   ],
+   [
+    "port cities",
+    3
+   ]
+  ],
+  "clash": []
+ },
+ "Atlanta": {
+  "also": [
+   [
+    "civil war battles",
+    3
+   ],
+   [
+    "olympic host cities",
+    1
+   ]
+  ],
+  "clash": [
+   "capital cities"
+  ]
+ },
+ "Detroit": {
+  "also": [
+   [
+    "north american rivers",
+    4
+   ]
+  ],
+  "clash": []
+ },
+ "Las Vegas": {
+  "also": [
+   [
+    "casino words",
+    1
+   ]
+  ],
+  "clash": []
+ },
+ "Nashville": {
+  "also": [
+   [
+    "civil war battles",
+    4
+   ],
+   [
+    "places named after people",
+    4
+   ]
+  ],
+  "clash": [
+   "american roots music",
+   "capital cities",
+   "country singers"
+  ]
+ },
+ "New Orleans": {
+  "also": [
+   [
+    "port cities",
+    2
+   ]
+  ],
+  "clash": [
+   "american roots music",
+   "jazz words"
+  ]
+ },
+ "Honolulu": {
+  "also": [
+   [
+    "beach destinations",
+    2
+   ],
+   [
+    "famous marathons",
+    3
+   ],
+   [
+    "oceanian cities",
+    2
+   ]
+  ],
+  "clash": [
+   "capital cities",
+   "pacific islands"
+  ]
+ },
+ "Portland": {
+  "also": [
+   [
+    "port cities",
+    3
+   ],
+   [
+    "sheep breeds",
+    5
+   ],
+   [
+    "street names",
+    3
+   ]
+  ],
+  "clash": [
+   "building materials",
+   "building stones"
+  ]
+ },
+ "Baltimore": {
+  "also": [
+   [
+    "places named after people",
+    3
+   ],
+   [
+    "port cities",
+    2
+   ]
+  ],
+  "clash": []
+ },
+ "Pittsburgh": {
+  "also": [
+   [
+    "places named after people",
+    3
+   ]
+  ],
+  "clash": []
+ },
+ "Cleveland": {
+  "also": [
+   [
+    "places named after people",
+    3
+   ],
+   [
+    "us presidents",
+    3
+   ]
+  ],
+  "clash": []
+ },
+ "Orlando": {
+  "also": [
+   [
+    "legendary heroes",
+    4
+   ],
+   [
+    "names that are places",
+    3
+   ],
+   [
+    "shakespeare characters",
+    4
+   ]
+  ],
+  "clash": [
+   "famous theme parks"
+  ]
+ },
+ "Memphis": {
+  "also": [
+   [
+    "ancient cities",
+    3
+   ],
+   [
+    "ancient egypt",
+    3
+   ],
+   [
+    "ancient sites of africa",
+    3
+   ],
+   [
+    "names that are places",
+    3
+   ]
+  ],
+  "clash": [
+   "american roots music",
+   "egyptian landmarks",
+   "jazz words"
+  ]
+ },
+ "Jacksonville": {
+  "also": [
+   [
+    "places named after people",
+    4
+   ],
+   [
+    "port cities",
+    3
+   ]
+  ],
+  "clash": []
+ },
+ "Columbus": {
+  "also": [
+   [
+    "explorers",
+    1
+   ],
+   [
+    "famous voyages",
+    1
+   ],
+   [
+    "places named after people",
+    2
+   ],
+   [
+    "space station",
+    4
+   ]
+  ],
+  "clash": [
+   "capital cities",
+   "famous people"
+  ]
+ },
+ "Indianapolis": {
+  "also": [
+   [
+    "famous race tracks",
+    1
+   ]
+  ],
+  "clash": [
+   "capital cities"
+  ]
+ },
+ "Charlotte": {
+  "also": [
+   [
+    "desserts and sweets",
+    4
+   ],
+   [
+    "girls' names",
+    1
+   ],
+   [
+    "names that are places",
+    2
+   ],
+   [
+    "places named after people",
+    3
+   ]
+  ],
+  "clash": []
+ },
+ "Oklahoma City": {
+  "also": [],
+  "clash": [
+   "capital cities"
+  ]
+ },
+ "Louisville": {
+  "also": [
+   [
+    "places named after people",
+    3
+   ]
+  ],
+  "clash": []
+ },
+ "Tucson": {
+  "also": [],
+  "clash": [
+   "famous car models"
+  ]
+ },
+ "Fresno": {
+  "also": [
+   [
+    "chili peppers",
+    4
+   ]
+  ],
+  "clash": []
+ },
+ "Sacramento": {
+  "also": [
+   [
+    "gold rush words",
+    3
+   ],
+   [
+    "north american rivers",
+    3
+   ]
+  ],
+  "clash": [
+   "capital cities"
+  ]
+ },
+ "Kansas City": {
+  "also": [],
+  "clash": [
+   "american roots music",
+   "jazz words"
+  ]
+ },
+ "Omaha": {
+  "also": [
+   [
+    "native north american languages",
+    4
+   ],
+   [
+    "poker terms",
+    4
+   ]
+  ],
+  "clash": []
+ },
+ "Raleigh": {
+  "also": [
+   [
+    "names that are places",
+    3
+   ],
+   [
+    "places named after people",
+    3
+   ]
+  ],
+  "clash": [
+   "capital cities",
+   "explorers"
+  ]
+ },
+ "St Louis": {
+  "also": [
+   [
+    "olympic host cities",
+    3
+   ],
+   [
+    "pizza styles",
+    3
+   ],
+   [
+    "places named after people",
+    3
+   ]
+  ],
+  "clash": [
+   "crusades",
+   "french kings"
+  ]
+ },
+ "Tampa": {
+  "also": [
+   [
+    "port cities",
+    3
+   ]
+  ],
+  "clash": [
+   "gulfs and bays"
+  ]
+ },
+ "Buffalo": {
+  "also": [
+   [
+    "___berry",
+    2
+   ],
+   [
+    "___fish",
+    3
+   ],
+   [
+    "animals with horns",
+    1
+   ],
+   [
+    "foods named after places",
+    2
+   ],
+   [
+    "game meats",
+    3
+   ],
+   [
+    "hidden colors",
+    3
+   ],
+   [
+    "places that are also words",
+    2
+   ],
+   [
+    "prairie",
+    1
+   ],
+   [
+    "safari words",
+    1
+   ],
+   [
+    "savanna",
+    2
+   ],
+   [
+    "savanna animals",
+    2
+   ],
+   [
+    "things with horns",
+    1
+   ],
+   [
+    "types of milk",
+    3
+   ],
+   [
+    "water___",
+    2
+   ],
+   [
+    "wild cattle",
+    1
+   ],
+   [
+    "wild west",
+    2
+   ]
+  ],
+  "clash": []
+ },
+ "Anchorage": {
+  "also": [
+   [
+    "port cities",
+    3
+   ],
+   [
+    "ports and harbors",
+    3
+   ]
+  ],
+  "clash": [
+   "sailing words",
+   "ship parts"
+  ]
+ },
+ "Newark": {
+  "also": [
+   [
+    "famous airports",
+    3
+   ]
+  ],
+  "clash": []
+ },
+ "Richmond": {
+  "also": [
+   [
+    "afl clubs",
+    1
+   ]
+  ],
+  "clash": [
+   "british cities",
+   "capital cities"
+  ]
+ },
+ "Boise": {
+  "also": [],
+  "clash": [
+   "capital cities"
+  ]
+ },
+ "Reno": {
+  "also": [
+   [
+    "casino words",
+    3
+   ]
+  ],
+  "clash": []
+ },
+ "Des Moines": {
+  "also": [],
+  "clash": [
+   "capital cities"
+  ]
+ },
+ "Madison": {
+  "also": [
+   [
+    "cycling words",
+    5
+   ],
+   [
+    "names that are places",
+    2
+   ],
+   [
+    "places named after people",
+    3
+   ],
+   [
+    "street names",
+    2
+   ],
+   [
+    "us presidents",
+    2
+   ]
+  ],
+  "clash": [
+   "capital cities"
+  ]
+ },
+ "Savannah": {
+  "also": [
+   [
+    "cat breeds",
+    3
+   ],
+   [
+    "names that are places",
+    2
+   ],
+   [
+    "north american rivers",
+    3
+   ],
+   [
+    "port cities",
+    3
+   ],
+   [
+    "savanna",
+    1
+   ]
+  ],
+  "clash": []
+ },
+ "Charleston": {
+  "also": [
+   [
+    "ballroom dances",
+    3
+   ],
+   [
+    "dance moves",
+    2
+   ],
+   [
+    "dance music",
+    2
+   ],
+   [
+    "dances",
+    2
+   ],
+   [
+    "mahjong words",
+    4
+   ],
+   [
+    "places named after people",
+    3
+   ],
+   [
+    "port cities",
+    3
+   ],
+   [
+    "roaring twenties",
+    1
+   ],
+   [
+    "words named after places",
+    4
+   ]
+  ],
+  "clash": []
+ },
+ "Santa Fe": {
+  "also": [
+   [
+    "south american soccer clubs",
+    4
+   ]
+  ],
+  "clash": [
+   "capital cities",
+   "famous car models"
+  ]
+ },
+ "Little Rock": {
+  "also": [],
+  "clash": [
+   "capital cities"
+  ]
+ },
+ "Hartford": {
+  "also": [],
+  "clash": [
+   "capital cities"
+  ]
+ },
+ "Providence": {
+  "also": [],
+  "clash": [
+   "capital cities",
+   "religion words"
+  ]
+ },
+ "Albany": {
+  "also": [
+   [
+    "australian cities",
+    4
+   ]
+  ],
+  "clash": [
+   "capital cities"
+  ]
+ },
+ "Baton Rouge": {
+  "also": [],
+  "clash": [
+   "capital cities"
+  ]
+ },
+ "Montgomery": {
+  "also": [
+   [
+    "famous generals",
+    2
+   ],
+   [
+    "scottish clan names",
+    3
+   ]
+  ],
+  "clash": [
+   "capital cities"
+  ]
+ },
+ "Chattanooga": {
+  "also": [
+   [
+    "civil war battles",
+    3
+   ]
+  ],
+  "clash": []
+ },
+ "Lexington": {
+  "also": [
+   [
+    "american revolution",
+    2
+   ],
+   [
+    "famous battles",
+    2
+   ]
+  ],
+  "clash": []
+ },
+ "Rochester": {
+  "also": [
+   [
+    "castles",
+    4
+   ]
+  ],
+  "clash": [
+   "british cities"
+  ]
+ },
+ "Syracuse": {
+  "also": [
+   [
+    "ancient cities",
+    3
+   ],
+   [
+    "italian cities",
+    3
+   ]
+  ],
+  "clash": []
+ },
+ "Wilmington": {
+  "also": [
+   [
+    "port cities",
+    3
+   ]
+  ],
+  "clash": []
+ },
+ "Annapolis": {
+  "also": [
+   [
+    "places named after people",
+    4
+   ]
+  ],
+  "clash": [
+   "capital cities",
+   "navy words"
+  ]
+ },
+ "Norfolk": {
+  "also": [
+   [
+    "english counties",
+    1
+   ],
+   [
+    "port cities",
+    3
+   ]
+  ],
+  "clash": []
+ },
+ "Virginia Beach": {
+  "also": [
+   [
+    "beach destinations",
+    2
+   ]
+  ],
+  "clash": []
+ },
+ "Tallahassee": {
+  "also": [
+   [
+    "double letters",
+    3
+   ]
+  ],
+  "clash": [
+   "capital cities"
+  ]
+ },
+ "Pensacola": {
+  "also": [
+   [
+    "beach destinations",
+    2
+   ]
+  ],
+  "clash": []
+ },
+ "Key West": {
+  "also": [
+   [
+    "beach destinations",
+    2
+   ],
+   [
+    "famous islands",
+    2
+   ]
+  ],
+  "clash": [
+   "caribbean islands"
+  ]
+ },
+ "Fort Lauderdale": {
+  "also": [
+   [
+    "beach destinations",
+    3
+   ]
+  ],
+  "clash": []
+ },
+ "Amarillo": {
+  "also": [
+   [
+    "colors in spanish",
+    2
+   ]
+  ],
+  "clash": [
+   "shades of yellow"
+  ]
+ },
+ "Corpus Christi": {
+  "also": [
+   [
+    "port cities",
+    3
+   ],
+   [
+    "religious festivals",
+    3
+   ]
+  ],
+  "clash": []
+ },
+ "Galveston": {
+  "also": [
+   [
+    "beach destinations",
+    2
+   ],
+   [
+    "port cities",
+    3
+   ]
+  ],
+  "clash": [
+   "gulfs and bays"
+  ]
+ },
+ "Topeka": {
+  "also": [],
+  "clash": [
+   "capital cities"
+  ]
+ },
+ "Bismarck": {
+  "also": [
+   [
+    "famous leaders",
+    2
+   ],
+   [
+    "famous ships",
+    2
+   ],
+   [
+    "foods named after people",
+    4
+   ]
+  ],
+  "clash": [
+   "capital cities"
+  ]
+ },
+ "Cheyenne": {
+  "also": [
+   [
+    "names that are places",
+    3
+   ],
+   [
+    "native north american languages",
+    2
+   ],
+   [
+    "prairie",
+    3
+   ]
+  ],
+  "clash": [
+   "capital cities"
+  ]
+ },
+ "Juneau": {
+  "also": [
+   [
+    "port cities",
+    3
+   ]
+  ],
+  "clash": [
+   "capital cities"
+  ]
+ },
+ "Olympia": {
+  "also": [
+   [
+    "ancient cities",
+    3
+   ],
+   [
+    "ancient olympics",
+    1
+   ],
+   [
+    "ancient sites of europe",
+    2
+   ],
+   [
+    "famous paintings",
+    4
+   ]
+  ],
+  "clash": [
+   "capital cities"
+  ]
+ },
+ "Tacoma": {
+  "also": [
+   [
+    "famous car models",
+    3
+   ],
+   [
+    "port cities",
+    3
+   ]
+  ],
+  "clash": []
+ },
+ "Eugene": {
+  "also": [
+   [
+    "boys' names",
+    2
+   ],
+   [
+    "old-fashioned names",
+    3
+   ]
+  ],
+  "clash": []
+ },
+ "Oakland": {
+  "also": [
+   [
+    "port cities",
+    3
+   ]
+  ],
+  "clash": []
+ },
+ "Long Beach": {
+  "also": [
+   [
+    "famous race tracks",
+    3
+   ],
+   [
+    "port cities",
+    3
+   ]
+  ],
+  "clash": []
+ },
+ "Anaheim": {
+  "also": [
+   [
+    "chili peppers",
+    3
+   ]
+  ],
+  "clash": [
+   "famous theme parks"
+  ]
+ },
+ "Santa Barbara": {
+  "also": [
+   [
+    "beach destinations",
+    2
+   ]
+  ],
+  "clash": []
+ },
+ "Palm Springs": {
+  "also": [
+   [
+    "film festivals",
+    4
+   ]
+  ],
+  "clash": []
+ },
+ "Flagstaff": {
+  "also": [
+   [
+    "flag words",
+    3
+   ]
+  ],
+  "clash": []
+ },
+ "Boulder": {
+  "also": [
+   [
+    "heavy things",
+    1
+   ],
+   [
+    "japanese garden",
+    3
+   ],
+   [
+    "places that are also words",
+    3
+   ],
+   [
+    "rocks and minerals",
+    1
+   ],
+   [
+    "things that roll",
+    2
+   ]
+  ],
+  "clash": []
+ },
+ "St Paul": {
+  "also": [],
+  "clash": [
+   "capital cities"
+  ]
+ },
+ "Green Bay": {
+  "also": [],
+  "clash": [
+   "gulfs and bays"
+  ]
+ },
+ "Flint": {
+  "also": [
+   [
+    "artifacts",
+    2
+   ],
+   [
+    "building stones",
+    2
+   ],
+   [
+    "fire words",
+    2
+   ],
+   [
+    "hard materials",
+    2
+   ],
+   [
+    "natural materials",
+    3
+   ],
+   [
+    "quartz varieties",
+    3
+   ],
+   [
+    "sedimentary rocks",
+    2
+   ],
+   [
+    "stone age",
+    2
+   ],
+   [
+    "things that cut",
+    4
+   ]
+  ],
+  "clash": []
+ },
+ "Lansing": {
+  "also": [],
+  "clash": [
+   "capital cities"
+  ]
+ },
+ "Springfield": {
+  "also": [],
+  "clash": [
+   "capital cities",
+   "cartoon words"
+  ]
+ },
+ "Atlantic City": {
+  "also": [
+   [
+    "casino words",
+    2
+   ]
+  ],
+  "clash": []
+ },
+ "Jackson": {
+  "also": [
+   [
+    "american novelists",
+    4
+   ],
+   [
+    "places named after people",
+    3
+   ],
+   [
+    "street names",
+    3
+   ],
+   [
+    "us presidents",
+    2
+   ]
+  ],
+  "clash": [
+   "capital cities"
+  ]
+ },
+ "Mobile": {
+  "also": [
+   [
+    "baby gear",
+    3
+   ],
+   [
+    "british english words",
+    1
+   ],
+   [
+    "phone words",
+    1
+   ],
+   [
+    "places that are also words",
+    2
+   ],
+   [
+    "port cities",
+    3
+   ],
+   [
+    "sculpture words",
+    4
+   ],
+   [
+    "snow___",
+    1
+   ]
+  ],
+  "clash": []
+ },
+ "Columbia": {
+  "also": [
+   [
+    "continents and supercontinents",
+    5
+   ],
+   [
+    "north american rivers",
+    2
+   ],
+   [
+    "places named after people",
+    2
+   ],
+   [
+    "sheep breeds",
+    5
+   ],
+   [
+    "space missions",
+    3
+   ],
+   [
+    "space vehicles",
+    3
+   ]
+  ],
+  "clash": [
+   "capital cities",
+   "south american countries"
+  ]
+ },
+ "Augusta": {
+  "also": [],
+  "clash": [
+   "capital cities",
+   "girls' names",
+   "golf terms",
+   "old-fashioned names"
+  ]
+ },
+ "Macon": {
+  "also": [],
+  "clash": [
+   "white wines",
+   "wine regions"
+  ]
+ },
+ "Durango": {
+  "also": [
+   [
+    "famous car models",
+    3
+   ],
+   [
+    "mexican states",
+    3
+   ]
+  ],
+  "clash": []
+ },
+ "Aspen": {
+  "also": [
+   [
+    "deciduous trees",
+    2
+   ],
+   [
+    "famous ski resorts",
+    1
+   ],
+   [
+    "hidden animals",
+    3
+   ],
+   [
+    "names that are trees",
+    1
+   ],
+   [
+    "taiga",
+    2
+   ],
+   [
+    "types of wood",
+    3
+   ]
+  ],
+  "clash": []
+ },
+ "Helena": {
+  "also": [
+   [
+    "shakespeare characters",
+    4
+   ]
+  ],
+  "clash": [
+   "capital cities",
+   "girls' names",
+   "old-fashioned names"
+  ]
+ },
+ "Salt Lake City": {
+  "also": [
+   [
+    "olympic host cities",
+    2
+   ]
+  ],
+  "clash": [
+   "capital cities"
+  ]
+ },
+ "Winston-Salem": {
+  "also": [],
+  "clash": [
+   "smoking words"
+  ]
+ },
+ "Toronto": {
+  "also": [
+   [
+    "famous marathons",
+    4
+   ],
+   [
+    "film festivals",
+    3
+   ]
+  ],
+  "clash": [
+   "capital cities"
+  ]
+ },
+ "Montreal": {
+  "also": [
+   [
+    "olympic host cities",
+    2
+   ],
+   [
+    "port cities",
+    3
+   ]
+  ],
+  "clash": [
+   "capital cities"
+  ]
+ },
+ "Vancouver": {
+  "also": [
+   [
+    "olympic host cities",
+    2
+   ],
+   [
+    "places named after people",
+    3
+   ],
+   [
+    "port cities",
+    2
+   ]
+  ],
+  "clash": [
+   "explorers",
+   "famous islands"
+  ]
+ },
+ "Calgary": {
+  "also": [
+   [
+    "olympic host cities",
+    2
+   ]
+  ],
+  "clash": []
+ },
+ "Edmonton": {
+  "also": [],
+  "clash": [
+   "capital cities"
+  ]
+ },
+ "Quebec City": {
+  "also": [
+   [
+    "port cities",
+    3
+   ]
+  ],
+  "clash": [
+   "canadian provinces",
+   "capital cities"
+  ]
+ },
+ "Winnipeg": {
+  "also": [
+   [
+    "famous lakes",
+    3
+   ]
+  ],
+  "clash": [
+   "capital cities"
+  ]
+ },
+ "Halifax": {
+  "also": [
+   [
+    "port cities",
+    2
+   ]
+  ],
+  "clash": [
+   "capital cities"
+  ]
+ },
+ "Victoria": {
+  "also": [
+   [
+    "african capitals",
+    4
+   ],
+   [
+    "australian states and regions",
+    1
+   ],
+   [
+    "english monarchs",
+    1
+   ],
+   [
+    "famous lakes",
+    2
+   ],
+   [
+    "famous queens",
+    2
+   ],
+   [
+    "famous train stations",
+    3
+   ],
+   [
+    "girls' names",
+    1
+   ],
+   [
+    "names that are places",
+    2
+   ],
+   [
+    "places named after people",
+    1
+   ],
+   [
+    "roman gods",
+    4
+   ],
+   [
+    "street names",
+    2
+   ]
+  ],
+  "clash": [
+   "cakes",
+   "capital cities",
+   "stone fruits"
+  ]
+ },
+ "Hamilton": {
+  "also": [
+   [
+    "famous mathematicians",
+    4
+   ],
+   [
+    "formula one drivers",
+    2
+   ],
+   [
+    "founding fathers",
+    3
+   ],
+   [
+    "new zealand cities",
+    3
+   ],
+   [
+    "places named after people",
+    4
+   ],
+   [
+    "scottish clan names",
+    2
+   ],
+   [
+    "street names",
+    3
+   ]
+  ],
+  "clash": [
+   "musicals words"
+  ]
+ },
+ "Saskatoon": {
+  "also": [],
+  "clash": [
+   "berries",
+   "canadian food"
+  ]
+ },
+ "Regina": {
+  "also": [
+   [
+    "names that are places",
+    3
+   ]
+  ],
+  "clash": [
+   "capital cities",
+   "royal titles"
+  ]
+ },
+ "Kitchener": {
+  "also": [
+   [
+    "famous generals",
+    3
+   ]
+  ],
+  "clash": []
+ },
+ "Fredericton": {
+  "also": [],
+  "clash": [
+   "capital cities"
+  ]
+ },
+ "Charlottetown": {
+  "also": [
+   [
+    "places named after people",
+    4
+   ]
+  ],
+  "clash": [
+   "capital cities"
+  ]
+ },
+ "Whitehorse": {
+  "also": [],
+  "clash": [
+   "capital cities"
+  ]
+ },
+ "Yellowknife": {
+  "also": [],
+  "clash": [
+   "capital cities"
+  ]
+ },
+ "Iqaluit": {
+  "also": [],
+  "clash": [
+   "capital cities"
+  ]
+ },
+ "Saint John": {
+  "also": [
+   [
+    "midsummer",
+    3
+   ],
+   [
+    "port cities",
+    3
+   ]
+  ],
+  "clash": [
+   "caribbean islands"
+  ]
+ },
+ "Thunder Bay": {
+  "also": [
+   [
+    "port cities",
+    3
+   ]
+  ],
+  "clash": []
+ },
+ "Nanaimo": {
+  "also": [],
+  "clash": [
+   "canadian food",
+   "desserts of the world"
+  ]
+ },
+ "Banff": {
+  "also": [
+   [
+    "canadian landmarks",
+    1
+   ],
+   [
+    "famous ski resorts",
+    3
+   ],
+   [
+    "national parks",
+    2
+   ]
+  ],
+  "clash": []
+ },
+ "Jasper": {
+  "also": [
+   [
+    "boys' names",
+    2
+   ],
+   [
+    "canadian landmarks",
+    3
+   ],
+   [
+    "names that are gems",
+    2
+   ],
+   [
+    "national parks",
+    3
+   ],
+   [
+    "places that are also words",
+    4
+   ],
+   [
+    "precious materials",
+    4
+   ],
+   [
+    "quartz varieties",
+    3
+   ]
+  ],
+  "clash": []
+ },
+ "Red Deer": {
+  "also": [
+   [
+    "animals with horns",
+    3
+   ],
+   [
+    "british wildlife",
+    2
+   ],
+   [
+    "deer",
+    2
+   ],
+   [
+    "game meats",
+    3
+   ],
+   [
+    "national animals",
+    4
+   ]
+  ],
+  "clash": []
+ },
+ "Saguenay": {
+  "also": [
+   [
+    "north american rivers",
+    4
+   ]
+  ],
+  "clash": []
+ },
+ "Waterloo": {
+  "also": [
+   [
+    "european rail",
+    3
+   ],
+   [
+    "famous train stations",
+    2
+   ],
+   [
+    "napoleonic battles",
+    1
+   ],
+   [
+    "words named after places",
+    4
+   ]
+  ],
+  "clash": [
+   "famous battles"
+  ]
+ },
+ "Niagara Falls": {
+  "also": [
+   [
+    "canadian landmarks",
+    1
+   ],
+   [
+    "famous waterfalls",
+    1
+   ],
+   [
+    "landmarks",
+    1
+   ],
+   [
+    "us landmarks",
+    1
+   ]
+  ],
+  "clash": []
+ },
+ "Fort McMurray": {
+  "also": [],
+  "clash": [
+   "fossil fuels"
+  ]
+ },
+ "Dawson City": {
+  "also": [
+   [
+    "gold rush words",
+    3
+   ]
+  ],
+  "clash": []
+ },
+ "Churchill": {
+  "also": [
+   [
+    "nobel laureates",
+    2
+   ],
+   [
+    "world war ii terms",
+    2
+   ]
+  ],
+  "clash": [
+   "famous leaders"
+  ]
+ },
+ "Gander": {
+  "also": [
+   [
+    "anagrams of each other",
+    2
+   ],
+   [
+    "british slang",
+    2
+   ],
+   [
+    "farm animals",
+    3
+   ],
+   [
+    "male animals",
+    2
+   ],
+   [
+    "ways of looking",
+    3
+   ]
+  ],
+  "clash": []
+ },
+ "Rio": {
+  "also": [
+   [
+    "beach destinations",
+    1
+   ],
+   [
+    "names that are places",
+    4
+   ],
+   [
+    "olympic host cities",
+    1
+   ]
+  ],
+  "clash": [
+   "capital cities"
+  ]
+ },
+ "São Paulo": {
+  "also": [
+   [
+    "places named after people",
+    4
+   ],
+   [
+    "south american soccer clubs",
+    2
+   ]
+  ],
+  "clash": [
+   "capital cities"
+  ]
+ },
+ "Medellín": {
+  "also": [],
+  "clash": [
+   "illegal drugs"
+  ]
+ },
+ "Cali": {
+  "also": [],
+  "clash": [
+   "illegal drugs"
+  ]
+ },
+ "Cartagena": {
+  "also": [
+   [
+    "beach destinations",
+    3
+   ],
+   [
+    "pirate places",
+    3
+   ],
+   [
+    "port cities",
+    3
+   ],
+   [
+    "spanish cities",
+    3
+   ]
+  ],
+  "clash": []
+ },
+ "Salvador": {
+  "also": [
+   [
+    "beach destinations",
+    3
+   ],
+   [
+    "brazilian carnival words",
+    3
+   ],
+   [
+    "latin american names",
+    2
+   ]
+  ],
+  "clash": [
+   "capital cities",
+   "north american countries",
+   "port cities"
+  ]
+ },
+ "Recife": {
+  "also": [
+   [
+    "beach destinations",
+    3
+   ],
+   [
+    "brazilian carnival words",
+    3
+   ]
+  ],
+  "clash": [
+   "port cities"
+  ]
+ },
+ "Fortaleza": {
+  "also": [
+   [
+    "beach destinations",
+    3
+   ],
+   [
+    "south american soccer clubs",
+    4
+   ]
+  ],
+  "clash": [
+   "port cities"
+  ]
+ },
+ "Manaus": {
+  "also": [],
+  "clash": [
+   "rainforest"
+  ]
+ },
+ "Belém": {
+  "also": [],
+  "clash": [
+   "port cities",
+   "rainforest"
+  ]
+ },
+ "Natal": {
+  "also": [
+   [
+    "beach destinations",
+    3
+   ]
+  ],
+  "clash": [
+   "christmas",
+   "port cities"
+  ]
+ },
+ "Guayaquil": {
+  "also": [
+   [
+    "port cities",
+    4
+   ]
+  ],
+  "clash": [
+   "capital cities"
+  ]
+ },
+ "Cusco": {
+  "also": [
+   [
+    "andes",
+    2
+   ],
+   [
+    "inca empire",
+    2
+   ]
+  ],
+  "clash": [
+   "ancient cities",
+   "andean sites",
+   "capital cities"
+  ]
+ },
+ "Valparaíso": {
+  "also": [
+   [
+    "port cities",
+    2
+   ]
+  ],
+  "clash": []
+ },
+ "Concepción": {
+  "also": [],
+  "clash": [
+   "religious festivals"
+  ]
+ },
+ "Antofagasta": {
+  "also": [],
+  "clash": [
+   "port cities"
+  ]
+ },
+ "Punta Arenas": {
+  "also": [],
+  "clash": [
+   "antarctic places",
+   "polar exploration"
+  ]
+ },
+ "Ushuaia": {
+  "also": [
+   [
+    "south american landmarks",
+    3
+   ]
+  ],
+  "clash": [
+   "antarctic places",
+   "polar exploration"
+  ]
+ },
+ "Mendoza": {
+  "also": [
+   [
+    "wine regions",
+    2
+   ]
+  ],
+  "clash": [
+   "red wines",
+   "wines"
+  ]
+ },
+ "Rosario": {
+  "also": [],
+  "clash": [
+   "religion words"
+  ]
+ },
+ "Bariloche": {
+  "also": [
+   [
+    "famous ski resorts",
+    4
+   ]
+  ],
+  "clash": []
+ },
+ "Salta": {
+  "also": [
+   [
+    "ottoman clothing",
+    5
+   ]
+  ],
+  "clash": []
+ },
+ "Potosí": {
+  "also": [
+   [
+    "south american landmarks",
+    4
+   ]
+  ],
+  "clash": [
+   "mining words"
+  ]
+ },
+ "Barranquilla": {
+  "also": [],
+  "clash": [
+   "port cities"
+  ]
+ },
+ "Santa Marta": {
+  "also": [
+   [
+    "beach destinations",
+    3
+   ]
+  ],
+  "clash": [
+   "port cities"
+  ]
+ },
+ "Maracaibo": {
+  "also": [
+   [
+    "famous lakes",
+    4
+   ],
+   [
+    "pirate places",
+    4
+   ]
+  ],
+  "clash": [
+   "port cities"
+  ]
+ },
+ "Cayenne": {
+  "also": [
+   [
+    "chili peppers",
+    2
+   ],
+   [
+    "famous car models",
+    3
+   ],
+   [
+    "foods named after places",
+    3
+   ],
+   [
+    "red things",
+    3
+   ],
+   [
+    "spices",
+    1
+   ],
+   [
+    "spicy foods",
+    2
+   ],
+   [
+    "vegetables",
+    3
+   ],
+   [
+    "words named after places",
+    3
+   ]
+  ],
+  "clash": [
+   "capital cities"
+  ]
+ },
+ "Iquitos": {
+  "also": [],
+  "clash": [
+   "rainforest"
+  ]
+ },
+ "Puno": {
+  "also": [],
+  "clash": [
+   "famous lakes"
+  ]
+ },
+ "Iquique": {
+  "also": [],
+  "clash": [
+   "port cities"
+  ]
+ },
+ "Ouro Preto": {
+  "also": [],
+  "clash": [
+   "gold rush words"
+  ]
+ },
+ "Maceió": {
+  "also": [
+   [
+    "beach destinations",
+    3
+   ]
+  ],
+  "clash": [
+   "port cities"
+  ]
+ },
+ "Santos": {
+  "also": [
+   [
+    "port cities",
+    3
+   ],
+   [
+    "south american soccer clubs",
+    1
+   ]
+  ],
+  "clash": [
+   "coffee words"
+  ]
+ },
+ "Valdivia": {
+  "also": [
+   [
+    "conquistadors",
+    3
+   ]
+  ],
+  "clash": []
+ },
+ "Arica": {
+  "also": [],
+  "clash": [
+   "port cities"
+  ]
+ },
+ "Ayacucho": {
+  "also": [
+   [
+    "famous battles",
+    4
+   ]
+  ],
+  "clash": []
+ },
+ "Florianópolis": {
+  "also": [
+   [
+    "beach destinations",
+    3
+   ]
+  ],
+  "clash": []
+ },
+ "Mar del Plata": {
+  "also": [
+   [
+    "beach destinations",
+    3
+   ],
+   [
+    "film festivals",
+    5
+   ]
+  ],
+  "clash": [
+   "port cities"
+  ]
+ },
+ "Punta del Este": {
+  "also": [
+   [
+    "beach destinations",
+    3
+   ]
+  ],
+  "clash": []
+ },
+ "Viña del Mar": {
+  "also": [
+   [
+    "beach destinations",
+    3
+   ]
+  ],
+  "clash": []
+ }
+}

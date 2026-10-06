@@ -1,0 +1,12911 @@
+{
+ "taco": {
+  "also": [
+   [
+    "fast food",
+    1
+   ],
+   [
+    "street food",
+    1
+   ]
+  ],
+  "clash": []
+ },
+ "burrito": {
+  "also": [
+   [
+    "fast food",
+    1
+   ],
+   [
+    "street food",
+    2
+   ]
+  ],
+  "clash": []
+ },
+ "nachos": {
+  "also": [
+   [
+    "snacks",
+    1
+   ],
+   [
+    "fast food",
+    2
+   ],
+   [
+    "crunchy foods",
+    2
+   ]
+  ],
+  "clash": []
+ },
+ "quesadilla": {
+  "also": [
+   [
+    "cheese dishes",
+    1
+   ]
+  ],
+  "clash": []
+ },
+ "guacamole": {
+  "also": [
+   [
+    "dips",
+    1
+   ],
+   [
+    "creamy foods",
+    2
+   ],
+   [
+    "words from nahuatl",
+    3
+   ]
+  ],
+  "clash": [
+   "green things"
+  ]
+ },
+ "salsa": {
+  "also": [
+   [
+    "dips",
+    1
+   ],
+   [
+    "sauces and condiments",
+    1
+   ],
+   [
+    "spicy foods",
+    1
+   ],
+   [
+    "latin dances",
+    1
+   ],
+   [
+    "dances",
+    1
+   ],
+   [
+    "latin music styles",
+    2
+   ]
+  ],
+  "clash": [
+   "music genres"
+  ]
+ },
+ "tortilla": {
+  "also": [
+   [
+    "flatbreads",
+    1
+   ],
+   [
+    "breads",
+    1
+   ],
+   [
+    "spanish food",
+    2
+   ]
+  ],
+  "clash": []
+ },
+ "tamale": {
+  "also": [
+   [
+    "street food",
+    2
+   ]
+  ],
+  "clash": []
+ },
+ "churro": {
+  "also": [
+   [
+    "spanish food",
+    1
+   ],
+   [
+    "street food",
+    2
+   ],
+   [
+    "desserts of the world",
+    2
+   ]
+  ],
+  "clash": []
+ },
+ "tostada": {
+  "also": [],
+  "clash": [
+   "deep-fried foods"
+  ]
+ },
+ "refried beans": {
+  "also": [],
+  "clash": [
+   "beans and pulses"
+  ]
+ },
+ "jalapeño": {
+  "also": [
+   [
+    "chili peppers",
+    1
+   ],
+   [
+    "spicy foods",
+    1
+   ]
+  ],
+  "clash": [
+   "green things"
+  ]
+ },
+ "taco salad": {
+  "also": [
+   [
+    "salads",
+    1
+   ]
+  ],
+  "clash": []
+ },
+ "carne asada": {
+  "also": [],
+  "clash": [
+   "barbecue foods"
+  ]
+ },
+ "queso": {
+  "also": [
+   [
+    "dips",
+    1
+   ],
+   [
+    "cheese dishes",
+    2
+   ]
+  ],
+  "clash": [
+   "cheeses"
+  ]
+ },
+ "chorizo": {
+  "also": [
+   [
+    "sausages",
+    1
+   ],
+   [
+    "cured meats",
+    1
+   ],
+   [
+    "spanish food",
+    1
+   ]
+  ],
+  "clash": [
+   "breakfast foods"
+  ]
+ },
+ "mole": {
+  "also": [
+   [
+    "burrowing animals",
+    1
+   ],
+   [
+    "garden pests",
+    2
+   ],
+   [
+    "spy words",
+    1
+   ],
+   [
+    "skin words",
+    2
+   ],
+   [
+    "chemistry words",
+    3
+   ],
+   [
+    "british wildlife",
+    2
+   ]
+  ],
+  "clash": [
+   "mammals",
+   "woodland animals"
+  ]
+ },
+ "pozole": {
+  "also": [
+   [
+    "soups",
+    3
+   ],
+   [
+    "stews",
+    3
+   ]
+  ],
+  "clash": []
+ },
+ "elote": {
+  "also": [
+   [
+    "street food",
+    2
+   ]
+  ],
+  "clash": []
+ },
+ "chilaquiles": {
+  "also": [
+   [
+    "breakfast foods",
+    3
+   ]
+  ],
+  "clash": []
+ },
+ "huevos rancheros": {
+  "also": [
+   [
+    "egg dishes",
+    2
+   ],
+   [
+    "breakfast foods",
+    2
+   ]
+  ],
+  "clash": []
+ },
+ "flan": {
+  "also": [
+   [
+    "puddings",
+    1
+   ],
+   [
+    "desserts of the world",
+    1
+   ],
+   [
+    "spanish food",
+    2
+   ],
+   [
+    "creamy foods",
+    2
+   ]
+  ],
+  "clash": []
+ },
+ "chalupa": {
+  "also": [],
+  "clash": [
+   "deep-fried foods"
+  ]
+ },
+ "flauta": {
+  "also": [
+   [
+    "deep-fried foods",
+    3
+   ]
+  ],
+  "clash": []
+ },
+ "barbacoa": {
+  "also": [],
+  "clash": [
+   "barbecue foods",
+   "words from spanish"
+  ]
+ },
+ "birria": {
+  "also": [
+   [
+    "stews",
+    3
+   ]
+  ],
+  "clash": []
+ },
+ "menudo": {
+  "also": [
+   [
+    "soups",
+    3
+   ]
+  ],
+  "clash": [
+   "famous bands"
+  ]
+ },
+ "tres leches": {
+  "also": [
+   [
+    "cakes",
+    2
+   ],
+   [
+    "desserts of the world",
+    2
+   ]
+  ],
+  "clash": [
+   "south american sweets"
+  ]
+ },
+ "queso fresco": {
+  "also": [
+   [
+    "soft cheeses",
+    3
+   ],
+   [
+    "cheeses",
+    3
+   ]
+  ],
+  "clash": []
+ },
+ "cotija": {
+  "also": [
+   [
+    "cheeses",
+    3
+   ],
+   [
+    "hard cheeses",
+    3
+   ]
+  ],
+  "clash": []
+ },
+ "Mexican rice": {
+  "also": [
+   [
+    "rice dishes",
+    2
+   ]
+  ],
+  "clash": []
+ },
+ "chipotle": {
+  "also": [
+   [
+    "chili peppers",
+    2
+   ],
+   [
+    "spicy foods",
+    2
+   ]
+  ],
+  "clash": [
+   "fast food"
+  ]
+ },
+ "tomatillo": {
+  "also": [
+   [
+    "vegetables",
+    3
+   ]
+  ],
+  "clash": [
+   "fruits"
+  ]
+ },
+ "frijoles": {
+  "also": [
+   [
+    "beans and pulses",
+    3
+   ]
+  ],
+  "clash": []
+ },
+ "salsa verde": {
+  "also": [
+   [
+    "sauces and condiments",
+    2
+   ],
+   [
+    "dips",
+    2
+   ]
+  ],
+  "clash": [
+   "italian food"
+  ]
+ },
+ "mole poblano": {
+  "also": [
+   [
+    "sauces and condiments",
+    3
+   ]
+  ],
+  "clash": []
+ },
+ "torta": {
+  "also": [
+   [
+    "sandwiches",
+    3
+   ]
+  ],
+  "clash": [
+   "cakes"
+  ]
+ },
+ "huarache": {
+  "also": [
+   [
+    "shoes",
+    3
+   ]
+  ],
+  "clash": []
+ },
+ "nopales": {
+  "also": [
+   [
+    "vegetables",
+    4
+   ]
+  ],
+  "clash": [
+   "cacti and succulents"
+  ]
+ },
+ "esquites": {
+  "also": [
+   [
+    "street food",
+    4
+   ]
+  ],
+  "clash": []
+ },
+ "pambazo": {
+  "also": [
+   [
+    "sandwiches",
+    4
+   ]
+  ],
+  "clash": []
+ },
+ "cemita": {
+  "also": [
+   [
+    "sandwiches",
+    4
+   ],
+   [
+    "breads",
+    4
+   ]
+  ],
+  "clash": []
+ },
+ "bolillo": {
+  "also": [
+   [
+    "breads",
+    3
+   ]
+  ],
+  "clash": []
+ },
+ "concha": {
+  "also": [
+   [
+    "breads",
+    3
+   ],
+   [
+    "pastries",
+    3
+   ]
+  ],
+  "clash": []
+ },
+ "pan dulce": {
+  "also": [
+   [
+    "pastries",
+    2
+   ],
+   [
+    "breads",
+    3
+   ]
+  ],
+  "clash": []
+ },
+ "capirotada": {
+  "also": [
+   [
+    "puddings",
+    4
+   ]
+  ],
+  "clash": []
+ },
+ "huitlacoche": {
+  "also": [],
+  "clash": [
+   "mushrooms"
+  ]
+ },
+ "cajeta": {
+  "also": [],
+  "clash": [
+   "toppings",
+   "south american sweets"
+  ]
+ },
+ "alegría": {
+  "also": [
+   [
+    "candy",
+    3
+   ]
+  ],
+  "clash": []
+ },
+ "buñuelo": {
+  "also": [
+   [
+    "desserts of the world",
+    3
+   ]
+  ],
+  "clash": []
+ },
+ "pipián": {
+  "also": [
+   [
+    "sauces and condiments",
+    4
+   ]
+  ],
+  "clash": []
+ },
+ "carne guisada": {
+  "also": [
+   [
+    "stews",
+    3
+   ]
+  ],
+  "clash": []
+ },
+ "aguachile": {
+  "also": [
+   [
+    "seafood dishes",
+    4
+   ]
+  ],
+  "clash": []
+ },
+ "tacos dorados": {
+  "also": [
+   [
+    "deep-fried foods",
+    3
+   ]
+  ],
+  "clash": []
+ },
+ "fideo": {
+  "also": [
+   [
+    "pasta shapes",
+    3
+   ],
+   [
+    "noodles",
+    3
+   ]
+  ],
+  "clash": []
+ },
+ "frijoles charros": {
+  "also": [
+   [
+    "stews",
+    4
+   ],
+   [
+    "beans and pulses",
+    4
+   ]
+  ],
+  "clash": []
+ },
+ "pico de gallo": {
+  "also": [
+   [
+    "dips",
+    2
+   ],
+   [
+    "sauces and condiments",
+    2
+   ]
+  ],
+  "clash": [
+   "salads"
+  ]
+ },
+ "pan de muerto": {
+  "also": [
+   [
+    "day of the dead",
+    1
+   ],
+   [
+    "breads",
+    3
+   ]
+  ],
+  "clash": []
+ },
+ "chiles en nogada": {
+  "also": [
+   [
+    "stuffed foods",
+    3
+   ]
+  ],
+  "clash": []
+ },
+ "queso fundido": {
+  "also": [
+   [
+    "cheese dishes",
+    3
+   ],
+   [
+    "dips",
+    3
+   ]
+  ],
+  "clash": []
+ },
+ "rosca de reyes": {
+  "also": [
+   [
+    "cakes",
+    3
+   ],
+   [
+    "breads",
+    3
+   ],
+   [
+    "desserts of the world",
+    3
+   ]
+  ],
+  "clash": [
+   "christmas"
+  ]
+ },
+ "arroz con leche": {
+  "also": [
+   [
+    "puddings",
+    2
+   ],
+   [
+    "rice dishes",
+    2
+   ],
+   [
+    "desserts of the world",
+    2
+   ]
+  ],
+  "clash": []
+ },
+ "sopa de lima": {
+  "also": [
+   [
+    "soups",
+    3
+   ]
+  ],
+  "clash": []
+ },
+ "café de olla": {
+  "also": [
+   [
+    "coffee drinks",
+    3
+   ],
+   [
+    "hot drinks",
+    3
+   ]
+  ],
+  "clash": []
+ },
+ "fried chicken": {
+  "also": [
+   [
+    "fast food",
+    1
+   ]
+  ],
+  "clash": [
+   "barbecue foods"
+  ]
+ },
+ "grits": {
+  "also": [
+   [
+    "breakfast foods",
+    1
+   ]
+  ],
+  "clash": [
+   "grains"
+  ]
+ },
+ "biscuit": {
+  "also": [
+   [
+    "cookies",
+    1
+   ],
+   [
+    "breads",
+    2
+   ],
+   [
+    "british english words",
+    2
+   ]
+  ],
+  "clash": []
+ },
+ "cornbread": {
+  "also": [
+   [
+    "breads",
+    1
+   ]
+  ],
+  "clash": []
+ },
+ "collard greens": {
+  "also": [
+   [
+    "leafy greens",
+    1
+   ],
+   [
+    "cabbage family",
+    2
+   ]
+  ],
+  "clash": []
+ },
+ "hush puppies": {
+  "also": [],
+  "clash": [
+   "shoes"
+  ]
+ },
+ "gumbo": {
+  "also": [
+   [
+    "stews",
+    1
+   ],
+   [
+    "soups",
+    1
+   ]
+  ],
+  "clash": []
+ },
+ "jambalaya": {
+  "also": [
+   [
+    "rice dishes",
+    1
+   ]
+  ],
+  "clash": [
+   "stews"
+  ]
+ },
+ "pecan pie": {
+  "also": [
+   [
+    "pies and tarts",
+    1
+   ],
+   [
+    "desserts of the world",
+    2
+   ]
+  ],
+  "clash": []
+ },
+ "catfish": {
+  "also": [
+   [
+    "freshwater fish",
+    1
+   ],
+   [
+    "fish",
+    1
+   ],
+   [
+    "fish to eat",
+    2
+   ]
+  ],
+  "clash": [
+   "social media words"
+  ]
+ },
+ "okra": {
+  "also": [
+   [
+    "vegetables",
+    1
+   ]
+  ],
+  "clash": []
+ },
+ "pulled pork": {
+  "also": [
+   [
+    "barbecue foods",
+    1
+   ]
+  ],
+  "clash": [
+   "sandwiches"
+  ]
+ },
+ "barbecue": {
+  "also": [],
+  "clash": [
+   "garden furniture",
+   "australian backyard",
+   "summer flowers"
+  ]
+ },
+ "peach cobbler": {
+  "also": [
+   [
+    "pies and tarts",
+    2
+   ],
+   [
+    "puddings",
+    2
+   ]
+  ],
+  "clash": []
+ },
+ "banana pudding": {
+  "also": [
+   [
+    "puddings",
+    1
+   ]
+  ],
+  "clash": []
+ },
+ "fried okra": {
+  "also": [
+   [
+    "deep-fried foods",
+    2
+   ]
+  ],
+  "clash": []
+ },
+ "beignet": {
+  "also": [
+   [
+    "pastries",
+    2
+   ],
+   [
+    "french pastries",
+    2
+   ],
+   [
+    "french food",
+    2
+   ]
+  ],
+  "clash": []
+ },
+ "praline": {
+  "also": [
+   [
+    "candy",
+    1
+   ],
+   [
+    "chocolates",
+    1
+   ]
+  ],
+  "clash": []
+ },
+ "crawfish": {
+  "also": [
+   [
+    "crustaceans",
+    1
+   ],
+   [
+    "shellfish",
+    1
+   ]
+  ],
+  "clash": []
+ },
+ "po' boy": {
+  "also": [
+   [
+    "sandwiches",
+    1
+   ]
+  ],
+  "clash": []
+ },
+ "étouffée": {
+  "also": [
+   [
+    "stews",
+    3
+   ]
+  ],
+  "clash": []
+ },
+ "pimento cheese": {
+  "also": [
+   [
+    "spreads",
+    2
+   ],
+   [
+    "cheese dishes",
+    3
+   ]
+  ],
+  "clash": [
+   "dips"
+  ]
+ },
+ "red beans": {
+  "also": [
+   [
+    "beans and pulses",
+    1
+   ]
+  ],
+  "clash": []
+ },
+ "Hoppin' John": {
+  "also": [
+   [
+    "rice dishes",
+    3
+   ]
+  ],
+  "clash": [
+   "new year"
+  ]
+ },
+ "boiled peanuts": {
+  "also": [
+   [
+    "snacks",
+    2
+   ]
+  ],
+  "clash": [
+   "nuts"
+  ]
+ },
+ "pork rinds": {
+  "also": [
+   [
+    "snacks",
+    1
+   ],
+   [
+    "salty foods",
+    1
+   ],
+   [
+    "crunchy foods",
+    1
+   ]
+  ],
+  "clash": []
+ },
+ "country ham": {
+  "also": [
+   [
+    "cured meats",
+    2
+   ]
+  ],
+  "clash": []
+ },
+ "sausage gravy": {
+  "also": [
+   [
+    "sauces and condiments",
+    3
+   ],
+   [
+    "breakfast foods",
+    2
+   ]
+  ],
+  "clash": []
+ },
+ "deviled egg": {
+  "also": [
+   [
+    "egg dishes",
+    1
+   ],
+   [
+    "picnic basket",
+    1
+   ],
+   [
+    "stuffed foods",
+    2
+   ]
+  ],
+  "clash": []
+ },
+ "fried pickle": {
+  "also": [],
+  "clash": [
+   "pickles and preserves"
+  ]
+ },
+ "muffuletta": {
+  "also": [
+   [
+    "sandwiches",
+    3
+   ],
+   [
+    "breads",
+    3
+   ]
+  ],
+  "clash": []
+ },
+ "boudin": {
+  "also": [
+   [
+    "sausages",
+    3
+   ]
+  ],
+  "clash": []
+ },
+ "dirty rice": {
+  "also": [
+   [
+    "rice dishes",
+    2
+   ]
+  ],
+  "clash": []
+ },
+ "Brunswick stew": {
+  "also": [
+   [
+    "stews",
+    3
+   ]
+  ],
+  "clash": []
+ },
+ "burgoo": {
+  "also": [
+   [
+    "stews",
+    4
+   ]
+  ],
+  "clash": []
+ },
+ "spoonbread": {
+  "also": [
+   [
+    "breads",
+    3
+   ]
+  ],
+  "clash": [
+   "puddings"
+  ]
+ },
+ "hoecake": {
+  "also": [
+   [
+    "breads",
+    3
+   ],
+   [
+    "flatbreads",
+    3
+   ]
+  ],
+  "clash": [
+   "breakfast foods"
+  ]
+ },
+ "corn pone": {
+  "also": [
+   [
+    "breads",
+    3
+   ]
+  ],
+  "clash": []
+ },
+ "chow-chow": {
+  "also": [
+   [
+    "pickles and preserves",
+    3
+   ],
+   [
+    "sauces and condiments",
+    3
+   ]
+  ],
+  "clash": [
+   "dog breeds"
+  ]
+ },
+ "chess pie": {
+  "also": [
+   [
+    "pies and tarts",
+    3
+   ]
+  ],
+  "clash": []
+ },
+ "pound cake": {
+  "also": [
+   [
+    "cakes",
+    1
+   ]
+  ],
+  "clash": []
+ },
+ "hummingbird cake": {
+  "also": [
+   [
+    "cakes",
+    3
+   ]
+  ],
+  "clash": []
+ },
+ "red velvet": {
+  "also": [
+   [
+    "cakes",
+    1
+   ],
+   [
+    "ice cream flavors",
+    2
+   ]
+  ],
+  "clash": [
+   "shades of red",
+   "fabrics"
+  ]
+ },
+ "MoonPie": {
+  "also": [
+   [
+    "snacks",
+    2
+   ]
+  ],
+  "clash": [
+   "american candy"
+  ]
+ },
+ "cracklins": {
+  "also": [
+   [
+    "snacks",
+    3
+   ]
+  ],
+  "clash": []
+ },
+ "andouille": {
+  "also": [
+   [
+    "sausages",
+    2
+   ],
+   [
+    "french food",
+    3
+   ]
+  ],
+  "clash": []
+ },
+ "tasso": {
+  "also": [
+   [
+    "cured meats",
+    4
+   ]
+  ],
+  "clash": []
+ },
+ "cheese straw": {
+  "also": [
+   [
+    "snacks",
+    3
+   ]
+  ],
+  "clash": []
+ },
+ "tomato pie": {
+  "also": [
+   [
+    "savory pies",
+    3
+   ]
+  ],
+  "clash": [
+   "pizza styles"
+  ]
+ },
+ "Hot Brown": {
+  "also": [
+   [
+    "sandwiches",
+    3
+   ]
+  ],
+  "clash": []
+ },
+ "hot chicken": {
+  "also": [
+   [
+    "fast food",
+    3
+   ]
+  ],
+  "clash": []
+ },
+ "succotash": {
+  "also": [
+   [
+    "words from native american languages",
+    3
+   ]
+  ],
+  "clash": [
+   "beans and pulses"
+  ]
+ },
+ "Lowcountry boil": {
+  "also": [
+   [
+    "seafood dishes",
+    3
+   ]
+  ],
+  "clash": []
+ },
+ "chicken bog": {
+  "also": [
+   [
+    "rice dishes",
+    4
+   ]
+  ],
+  "clash": []
+ },
+ "Frogmore stew": {
+  "also": [
+   [
+    "seafood dishes",
+    4
+   ],
+   [
+    "stews",
+    4
+   ]
+  ],
+  "clash": []
+ },
+ "Benedictine": {
+  "also": [
+   [
+    "spreads",
+    4
+   ]
+  ],
+  "clash": [
+   "liqueurs",
+   "monastery",
+   "religion words"
+  ]
+ },
+ "divinity": {
+  "also": [
+   [
+    "candy",
+    3
+   ]
+  ],
+  "clash": [
+   "religion words"
+  ]
+ },
+ "fried catfish": {
+  "also": [
+   [
+    "deep-fried foods",
+    2
+   ]
+  ],
+  "clash": []
+ },
+ "country gravy": {
+  "also": [
+   [
+    "sauces and condiments",
+    3
+   ]
+  ],
+  "clash": []
+ },
+ "fatback": {
+  "also": [
+   [
+    "cuts of meat",
+    3
+   ]
+  ],
+  "clash": [
+   "butcher shop"
+  ]
+ },
+ "ham hock": {
+  "also": [
+   [
+    "cuts of meat",
+    2
+   ],
+   [
+    "butcher shop",
+    2
+   ]
+  ],
+  "clash": []
+ },
+ "shrimp and grits": {
+  "also": [
+   [
+    "seafood dishes",
+    3
+   ]
+  ],
+  "clash": []
+ },
+ "chicken and dumplings": {
+  "also": [
+   [
+    "stews",
+    3
+   ]
+  ],
+  "clash": [
+   "dumplings"
+  ]
+ },
+ "sweet potato pie": {
+  "also": [
+   [
+    "pies and tarts",
+    2
+   ],
+   [
+    "thanksgiving",
+    3
+   ]
+  ],
+  "clash": []
+ },
+ "Key lime pie": {
+  "also": [
+   [
+    "pies and tarts",
+    1
+   ],
+   [
+    "desserts of the world",
+    2
+   ]
+  ],
+  "clash": [
+   "citrus fruits"
+  ]
+ },
+ "fried green tomatoes": {
+  "also": [
+   [
+    "deep-fried foods",
+    3
+   ]
+  ],
+  "clash": []
+ },
+ "biscuits and gravy": {
+  "also": [
+   [
+    "breakfast foods",
+    2
+   ]
+  ],
+  "clash": []
+ },
+ "chicken and waffles": {
+  "also": [
+   [
+    "breakfast foods",
+    3
+   ]
+  ],
+  "clash": []
+ },
+ "poutine": {
+  "also": [
+   [
+    "fast food",
+    2
+   ],
+   [
+    "potato dishes",
+    2
+   ],
+   [
+    "cheese dishes",
+    2
+   ]
+  ],
+  "clash": []
+ },
+ "maple syrup": {
+  "also": [
+   [
+    "sweeteners",
+    1
+   ],
+   [
+    "toppings",
+    1
+   ],
+   [
+    "sticky things",
+    1
+   ],
+   [
+    "sweet foods",
+    1
+   ]
+  ],
+  "clash": [
+   "breakfast foods"
+  ]
+ },
+ "butter tart": {
+  "also": [
+   [
+    "pies and tarts",
+    2
+   ],
+   [
+    "pastries",
+    2
+   ]
+  ],
+  "clash": []
+ },
+ "Nanaimo bar": {
+  "also": [
+   [
+    "desserts of the world",
+    3
+   ]
+  ],
+  "clash": []
+ },
+ "tourtière": {
+  "also": [
+   [
+    "savory pies",
+    2
+   ]
+  ],
+  "clash": []
+ },
+ "bannock": {
+  "also": [
+   [
+    "breads",
+    2
+   ],
+   [
+    "flatbreads",
+    3
+   ],
+   [
+    "british food",
+    3
+   ]
+  ],
+  "clash": []
+ },
+ "peameal bacon": {
+  "also": [
+   [
+    "cured meats",
+    3
+   ],
+   [
+    "breakfast foods",
+    3
+   ]
+  ],
+  "clash": []
+ },
+ "Montreal bagel": {
+  "also": [
+   [
+    "breads",
+    3
+   ]
+  ],
+  "clash": []
+ },
+ "smoked meat": {
+  "also": [
+   [
+    "cured meats",
+    2
+   ]
+  ],
+  "clash": [
+   "sandwiches"
+  ]
+ },
+ "BeaverTails": {
+  "also": [
+   [
+    "pastries",
+    3
+   ],
+   [
+    "deep-fried foods",
+    3
+   ]
+  ],
+  "clash": []
+ },
+ "ketchup chips": {
+  "also": [
+   [
+    "snacks",
+    3
+   ]
+  ],
+  "clash": []
+ },
+ "sugar pie": {
+  "also": [
+   [
+    "pies and tarts",
+    3
+   ]
+  ],
+  "clash": [
+   "terms of endearment"
+  ]
+ },
+ "Timbits": {
+  "also": [
+   [
+    "deep-fried foods",
+    3
+   ]
+  ],
+  "clash": []
+ },
+ "Kraft Dinner": {
+  "also": [
+   [
+    "pasta dishes",
+    3
+   ],
+   [
+    "cheese dishes",
+    3
+   ]
+  ],
+  "clash": []
+ },
+ "donair": {
+  "also": [
+   [
+    "fast food",
+    3
+   ],
+   [
+    "street food",
+    3
+   ]
+  ],
+  "clash": [
+   "kebab types"
+  ]
+ },
+ "ginger beef": {
+  "also": [],
+  "clash": [
+   "chinese food"
+  ]
+ },
+ "Saskatoon berry": {
+  "also": [
+   [
+    "berries",
+    3
+   ]
+  ],
+  "clash": []
+ },
+ "fiddlehead": {
+  "also": [
+   [
+    "vegetables",
+    3
+   ]
+  ],
+  "clash": [
+   "plants"
+  ]
+ },
+ "cretons": {
+  "also": [
+   [
+    "spreads",
+    4
+   ]
+  ],
+  "clash": []
+ },
+ "pemmican": {
+  "also": [
+   [
+    "expedition rations",
+    2
+   ]
+  ],
+  "clash": [
+   "polar exploration",
+   "polar expedition gear"
+  ]
+ },
+ "figgy duff": {
+  "also": [
+   [
+    "puddings",
+    4
+   ]
+  ],
+  "clash": []
+ },
+ "pouding chômeur": {
+  "also": [
+   [
+    "puddings",
+    4
+   ]
+  ],
+  "clash": []
+ },
+ "maple taffy": {
+  "also": [
+   [
+    "candy",
+    3
+   ]
+  ],
+  "clash": []
+ },
+ "Coffee Crisp": {
+  "also": [
+   [
+    "chocolates",
+    3
+   ],
+   [
+    "candy",
+    3
+   ]
+  ],
+  "clash": []
+ },
+ "flapper pie": {
+  "also": [
+   [
+    "pies and tarts",
+    4
+   ]
+  ],
+  "clash": [
+   "roaring twenties",
+   "1920s slang"
+  ]
+ },
+ "bumbleberry pie": {
+  "also": [
+   [
+    "pies and tarts",
+    3
+   ]
+  ],
+  "clash": []
+ },
+ "maple butter": {
+  "also": [
+   [
+    "spreads",
+    3
+   ]
+  ],
+  "clash": []
+ },
+ "cipaille": {
+  "also": [
+   [
+    "savory pies",
+    4
+   ]
+  ],
+  "clash": []
+ },
+ "pea soup": {
+  "also": [
+   [
+    "soups",
+    1
+   ]
+  ],
+  "clash": []
+ },
+ "Montreal steak": {
+  "also": [],
+  "clash": [
+   "spice blends"
+  ]
+ },
+ "Hickory Sticks": {
+  "also": [
+   [
+    "snacks",
+    3
+   ]
+  ],
+  "clash": []
+ },
+ "maple fudge": {
+  "also": [
+   [
+    "candy",
+    3
+   ]
+  ],
+  "clash": []
+ },
+ "all-dressed chips": {
+  "also": [
+   [
+    "snacks",
+    3
+   ]
+  ],
+  "clash": []
+ },
+ "water": {
+  "also": [
+   [
+    "chemical compounds",
+    1
+   ],
+   [
+    "household bills",
+    1
+   ]
+  ],
+  "clash": [
+   "things that reflect"
+  ]
+ },
+ "milk": {
+  "also": [
+   [
+    "dairy and eggs",
+    1
+   ],
+   [
+    "milk products",
+    1
+   ],
+   [
+    "white things",
+    1
+   ]
+  ],
+  "clash": [
+   "types of milk"
+  ]
+ },
+ "milkshake": {
+  "also": [
+   [
+    "fast food",
+    2
+   ]
+  ],
+  "clash": [
+   "frozen desserts"
+  ]
+ },
+ "smoothie": {
+  "also": [],
+  "clash": [
+   "soft drinks",
+   "healthy snacks"
+  ]
+ },
+ "punch": {
+  "also": [
+   [
+    "boxing terms",
+    1
+   ],
+   [
+    "hand actions",
+    1
+   ],
+   [
+    "body actions",
+    2
+   ]
+  ],
+  "clash": [
+   "puppets",
+   "cocktails",
+   "impact sounds",
+   "karate words"
+  ]
+ },
+ "cider": {
+  "also": [],
+  "clash": [
+   "beers",
+   "wines",
+   "oils and vinegars"
+  ]
+ },
+ "mead": {
+  "also": [
+   [
+    "wines",
+    2
+   ],
+   [
+    "medieval food",
+    2
+   ],
+   [
+    "vikings",
+    2
+   ]
+  ],
+  "clash": [
+   "beers"
+  ]
+ },
+ "eggnog": {
+  "also": [
+   [
+    "christmas",
+    1
+   ]
+  ],
+  "clash": [
+   "cocktails",
+   "hot drinks"
+  ]
+ },
+ "chocolate milk": {
+  "also": [],
+  "clash": [
+   "types of milk"
+  ]
+ },
+ "sparkling water": {
+  "also": [
+   [
+    "fizzy drinks",
+    1
+   ]
+  ],
+  "clash": [
+   "soft drinks"
+  ]
+ },
+ "mineral water": {
+  "also": [
+   [
+    "fizzy drinks",
+    2
+   ]
+  ],
+  "clash": [
+   "soft drinks"
+  ]
+ },
+ "buttermilk": {
+  "also": [
+   [
+    "types of milk",
+    1
+   ],
+   [
+    "milk products",
+    1
+   ],
+   [
+    "baking ingredients",
+    2
+   ]
+  ],
+  "clash": []
+ },
+ "kombucha": {
+  "also": [
+   [
+    "fizzy drinks",
+    2
+   ]
+  ],
+  "clash": [
+   "teas"
+  ]
+ },
+ "almond milk": {
+  "also": [
+   [
+    "types of milk",
+    1
+   ]
+  ],
+  "clash": []
+ },
+ "oat milk": {
+  "also": [
+   [
+    "types of milk",
+    1
+   ]
+  ],
+  "clash": []
+ },
+ "soy milk": {
+  "also": [
+   [
+    "types of milk",
+    1
+   ]
+  ],
+  "clash": []
+ },
+ "slushie": {
+  "also": [],
+  "clash": [
+   "frozen desserts",
+   "soft drinks"
+  ]
+ },
+ "horchata": {
+  "also": [
+   [
+    "mexican food",
+    2
+   ],
+   [
+    "spanish food",
+    3
+   ]
+  ],
+  "clash": [
+   "south american drinks"
+  ]
+ },
+ "kefir": {
+  "also": [
+   [
+    "milk products",
+    2
+   ]
+  ],
+  "clash": [
+   "types of milk"
+  ]
+ },
+ "agua fresca": {
+  "also": [
+   [
+    "mexican food",
+    3
+   ]
+  ],
+  "clash": []
+ },
+ "egg cream": {
+  "also": [],
+  "clash": [
+   "soft drinks"
+  ]
+ },
+ "kvass": {
+  "also": [],
+  "clash": [
+   "beers"
+  ]
+ },
+ "perry": {
+  "also": [],
+  "clash": [
+   "beers",
+   "boys' names"
+  ]
+ },
+ "malted milk": {
+  "also": [],
+  "clash": [
+   "milk products"
+  ]
+ },
+ "hard seltzer": {
+  "also": [],
+  "clash": [
+   "beers"
+  ]
+ },
+ "rice milk": {
+  "also": [
+   [
+    "types of milk",
+    2
+   ]
+  ],
+  "clash": []
+ },
+ "mocktail": {
+  "also": [],
+  "clash": [
+   "cocktails"
+  ]
+ },
+ "pulque": {
+  "also": [
+   [
+    "mexican food",
+    3
+   ]
+  ],
+  "clash": [
+   "national spirits"
+  ]
+ },
+ "chicha": {
+  "also": [
+   [
+    "south american drinks",
+    3
+   ]
+  ],
+  "clash": [
+   "beers"
+  ]
+ },
+ "kumis": {
+  "also": [
+   [
+    "fermented foods",
+    3
+   ],
+   [
+    "milk products",
+    3
+   ]
+  ],
+  "clash": []
+ },
+ "shrub": {
+  "also": [],
+  "clash": [
+   "hedge plants",
+   "garden",
+   "plants"
+  ]
+ },
+ "sorrel": {
+  "also": [
+   [
+    "herbs",
+    2
+   ],
+   [
+    "horse colors",
+    2
+   ],
+   [
+    "leafy greens",
+    3
+   ]
+  ],
+  "clash": [
+   "weeds"
+  ]
+ },
+ "Shirley Temple": {
+  "also": [
+   [
+    "classic film stars",
+    1
+   ]
+  ],
+  "clash": []
+ },
+ "Arnold Palmer": {
+  "also": [
+   [
+    "famous athletes",
+    2
+   ]
+  ],
+  "clash": []
+ },
+ "tea": {
+  "also": [
+   [
+    "sounds like a letter",
+    1
+   ],
+   [
+    "homophones",
+    2
+   ],
+   [
+    "bazaar",
+    2
+   ]
+  ],
+  "clash": [
+   "golf terms"
+  ]
+ },
+ "coffee": {
+  "also": [
+   [
+    "double letters",
+    1
+   ],
+   [
+    "words from arabic",
+    2
+   ],
+   [
+    "things that smell good",
+    1
+   ],
+   [
+    "bitter foods",
+    1
+   ],
+   [
+    "hot things",
+    1
+   ],
+   [
+    "shades of brown",
+    2
+   ]
+  ],
+  "clash": []
+ },
+ "hot chocolate": {
+  "also": [
+   [
+    "cozy things",
+    1
+   ]
+  ],
+  "clash": [
+   "chocolates"
+  ]
+ },
+ "cocoa": {
+  "also": [
+   [
+    "cozy things",
+    1
+   ],
+   [
+    "expedition rations",
+    2
+   ],
+   [
+    "shades of brown",
+    2
+   ]
+  ],
+  "clash": [
+   "chocolates",
+   "words from nahuatl"
+  ]
+ },
+ "latte": {
+  "also": [
+   [
+    "words from italian",
+    3
+   ]
+  ],
+  "clash": []
+ },
+ "cappuccino": {
+  "also": [
+   [
+    "words from italian",
+    2
+   ],
+   [
+    "shades of brown",
+    3
+   ]
+  ],
+  "clash": []
+ },
+ "chai": {
+  "also": [
+   [
+    "hindi everyday words",
+    2
+   ],
+   [
+    "indian food",
+    2
+   ]
+  ],
+  "clash": [
+   "turkish drinks"
+  ]
+ },
+ "mulled wine": {
+  "also": [
+   [
+    "christmas",
+    1
+   ]
+  ],
+  "clash": []
+ },
+ "Irish coffee": {
+  "also": [
+   [
+    "cocktails",
+    2
+   ]
+  ],
+  "clash": []
+ },
+ "wassail": {
+  "also": [
+   [
+    "christmas",
+    2
+   ]
+  ],
+  "clash": [
+   "christmas carols"
+  ]
+ },
+ "glühwein": {
+  "also": [
+   [
+    "christmas",
+    2
+   ],
+   [
+    "german food",
+    2
+   ]
+  ],
+  "clash": []
+ },
+ "warm milk": {
+  "also": [
+   [
+    "bedtime routine",
+    1
+   ],
+   [
+    "cozy things",
+    2
+   ]
+  ],
+  "clash": []
+ },
+ "Horlicks": {
+  "also": [],
+  "clash": [
+   "bedtime routine"
+  ]
+ },
+ "Bovril": {
+  "also": [],
+  "clash": [
+   "spreads"
+  ]
+ },
+ "Milo": {
+  "also": [
+   [
+    "boys' names",
+    2
+   ]
+  ],
+  "clash": []
+ },
+ "atole": {
+  "also": [
+   [
+    "mexican food",
+    3
+   ]
+  ],
+  "clash": []
+ },
+ "champurrado": {
+  "also": [
+   [
+    "mexican food",
+    3
+   ]
+  ],
+  "clash": []
+ },
+ "salep": {
+  "also": [
+   [
+    "turkish drinks",
+    2
+   ]
+  ],
+  "clash": []
+ },
+ "sahlab": {
+  "also": [
+   [
+    "middle eastern food",
+    3
+   ]
+  ],
+  "clash": []
+ },
+ "yerba mate": {
+  "also": [
+   [
+    "south american drinks",
+    2
+   ],
+   [
+    "gaucho words",
+    2
+   ]
+  ],
+  "clash": []
+ },
+ "golden milk": {
+  "also": [],
+  "clash": [
+   "ayurveda words"
+  ]
+ },
+ "posset": {
+  "also": [
+   [
+    "puddings",
+    3
+   ],
+   [
+    "medieval food",
+    3
+   ]
+  ],
+  "clash": []
+ },
+ "grog": {
+  "also": [
+   [
+    "pirate words",
+    1
+   ],
+   [
+    "navy words",
+    2
+   ]
+  ],
+  "clash": [
+   "cocktails"
+  ]
+ },
+ "glögg": {
+  "also": [
+   [
+    "christmas",
+    3
+   ]
+  ],
+  "clash": []
+ },
+ "Turkish coffee": {
+  "also": [
+   [
+    "turkish drinks",
+    1
+   ],
+   [
+    "turkish food",
+    1
+   ],
+   [
+    "turkish breakfast",
+    2
+   ]
+  ],
+  "clash": []
+ },
+ "caudle": {
+  "also": [
+   [
+    "medieval food",
+    4
+   ]
+  ],
+  "clash": []
+ },
+ "rooibos": {
+  "also": [
+   [
+    "african remedies",
+    2
+   ]
+  ],
+  "clash": []
+ },
+ "steamer": {
+  "also": [
+   [
+    "boat types",
+    2
+   ]
+  ],
+  "clash": []
+ },
+ "hot buttered rum": {
+  "also": [
+   [
+    "cocktails",
+    3
+   ]
+  ],
+  "clash": []
+ },
+ "Tom and Jerry": {
+  "also": [
+   [
+    "cocktails",
+    3
+   ]
+  ],
+  "clash": [
+   "cartoon words"
+  ]
+ },
+ "mocha": {
+  "also": [
+   [
+    "shades of brown",
+    1
+   ]
+  ],
+  "clash": [
+   "middle eastern cities"
+  ]
+ },
+ "Earl Grey": {
+  "also": [],
+  "clash": [
+   "perfume notes"
+  ]
+ },
+ "chamomile": {
+  "also": [
+   [
+    "herbs",
+    2
+   ],
+   [
+    "medicinal plants",
+    2
+   ],
+   [
+    "wildflowers",
+    3
+   ]
+  ],
+  "clash": []
+ },
+ "peppermint": {
+  "also": [
+   [
+    "herbs",
+    1
+   ],
+   [
+    "candy",
+    2
+   ],
+   [
+    "candle scents",
+    2
+   ]
+  ],
+  "clash": [
+   "spices"
+  ]
+ },
+ "jasmine": {
+  "also": [
+   [
+    "girls' names",
+    1
+   ],
+   [
+    "names that are flowers",
+    1
+   ],
+   [
+    "perfume notes",
+    1
+   ],
+   [
+    "garden flowers",
+    2
+   ],
+   [
+    "vines and climbers",
+    2
+   ]
+  ],
+  "clash": [
+   "flowers of east asia"
+  ]
+ },
+ "matcha": {
+  "also": [
+   [
+    "japanese food",
+    2
+   ]
+  ],
+  "clash": [
+   "shades of green"
+  ]
+ },
+ "Darjeeling": {
+  "also": [
+   [
+    "indian cities",
+    2
+   ]
+  ],
+  "clash": [
+   "indian states"
+  ]
+ },
+ "Assam": {
+  "also": [
+   [
+    "indian states",
+    2
+   ]
+  ],
+  "clash": []
+ },
+ "Ceylon": {
+  "also": [
+   [
+    "old country names",
+    1
+   ]
+  ],
+  "clash": []
+ },
+ "iced tea": {
+  "also": [],
+  "clash": [
+   "soft drinks"
+  ]
+ },
+ "sencha": {
+  "also": [
+   [
+    "japanese food",
+    3
+   ]
+  ],
+  "clash": []
+ },
+ "genmaicha": {
+  "also": [
+   [
+    "japanese food",
+    3
+   ]
+  ],
+  "clash": []
+ },
+ "hojicha": {
+  "also": [
+   [
+    "japanese food",
+    3
+   ]
+  ],
+  "clash": []
+ },
+ "gyokuro": {
+  "also": [
+   [
+    "japanese food",
+    3
+   ]
+  ],
+  "clash": []
+ },
+ "Yunnan": {
+  "also": [],
+  "clash": [
+   "chinese cities"
+  ]
+ },
+ "hibiscus": {
+  "also": [
+   [
+    "tropical flowers",
+    1
+   ],
+   [
+    "edible flowers",
+    2
+   ]
+  ],
+  "clash": [
+   "summer flowers"
+  ]
+ },
+ "chrysanthemum": {
+  "also": [
+   [
+    "flowers of east asia",
+    1
+   ],
+   [
+    "garden flowers",
+    2
+   ],
+   [
+    "bouquet flowers",
+    2
+   ]
+  ],
+  "clash": [
+   "chinese medicine"
+  ]
+ },
+ "gunpowder": {
+  "also": [
+   [
+    "chinese inventions",
+    1
+   ]
+  ],
+  "clash": [
+   "historic weapons",
+   "pirate weapons",
+   "war words"
+  ]
+ },
+ "Dragon Well": {
+  "also": [],
+  "clash": [
+   "dragons"
+  ]
+ },
+ "White Peony": {
+  "also": [],
+  "clash": [
+   "flowers"
+  ]
+ },
+ "rosehip": {
+  "also": [],
+  "clash": [
+   "plant parts",
+   "berries"
+  ]
+ },
+ "nettle": {
+  "also": [
+   [
+    "weeds",
+    1
+   ],
+   [
+    "things that sting",
+    1
+   ],
+   [
+    "medicinal plants",
+    3
+   ]
+  ],
+  "clash": [
+   "poisonous plants",
+   "prickly things"
+  ]
+ },
+ "lemongrass": {
+  "also": [
+   [
+    "herbs",
+    2
+   ],
+   [
+    "thai food",
+    2
+   ],
+   [
+    "grasses and reeds",
+    3
+   ]
+  ],
+  "clash": []
+ },
+ "fennel": {
+  "also": [
+   [
+    "herbs",
+    1
+   ],
+   [
+    "spices",
+    2
+   ],
+   [
+    "vegetables",
+    2
+   ]
+  ],
+  "clash": []
+ },
+ "dandelion": {
+  "also": [
+   [
+    "weeds",
+    1
+   ],
+   [
+    "wildflowers",
+    1
+   ],
+   [
+    "spring flowers",
+    2
+   ],
+   [
+    "yellow things",
+    2
+   ],
+   [
+    "leafy greens",
+    3
+   ]
+  ],
+  "clash": []
+ },
+ "lemon verbena": {
+  "also": [
+   [
+    "herbs",
+    3
+   ]
+  ],
+  "clash": []
+ },
+ "echinacea": {
+  "also": [
+   [
+    "medicinal plants",
+    2
+   ],
+   [
+    "native american remedies",
+    2
+   ]
+  ],
+  "clash": []
+ },
+ "builder's tea": {
+  "also": [
+   [
+    "british slang",
+    2
+   ]
+  ],
+  "clash": [
+   "british english words"
+  ]
+ },
+ "espresso": {
+  "also": [
+   [
+    "words from italian",
+    2
+   ]
+  ],
+  "clash": []
+ },
+ "macchiato": {
+  "also": [
+   [
+    "words from italian",
+    3
+   ]
+  ],
+  "clash": []
+ },
+ "ristretto": {
+  "also": [
+   [
+    "words from italian",
+    4
+   ]
+  ],
+  "clash": []
+ },
+ "affogato": {
+  "also": [
+   [
+    "frozen desserts",
+    2
+   ]
+  ],
+  "clash": []
+ },
+ "red eye": {
+  "also": [],
+  "clash": [
+   "airport words",
+   "air travel"
+  ]
+ },
+ "Greek coffee": {
+  "also": [
+   [
+    "greek food",
+    3
+   ]
+  ],
+  "clash": []
+ },
+ "breve": {
+  "also": [
+   [
+    "notes and rests",
+    4
+   ]
+  ],
+  "clash": []
+ },
+ "piccolo": {
+  "also": [
+   [
+    "woodwind instruments",
+    1
+   ]
+  ],
+  "clash": [
+   "orchestra words"
+  ]
+ },
+ "carajillo": {
+  "also": [
+   [
+    "cocktails",
+    3
+   ]
+  ],
+  "clash": []
+ },
+ "egg coffee": {
+  "also": [
+   [
+    "vietnamese food",
+    3
+   ]
+  ],
+  "clash": []
+ },
+ "black eye": {
+  "also": [
+   [
+    "injuries",
+    1
+   ]
+  ],
+  "clash": []
+ },
+ "Gibraltar": {
+  "also": [
+   [
+    "straits and canals",
+    1
+   ]
+  ],
+  "clash": [
+   "tiny countries",
+   "peninsulas"
+  ]
+ },
+ "café au lait": {
+  "also": [
+   [
+    "french phrases in english",
+    3
+   ],
+   [
+    "shades of brown",
+    3
+   ]
+  ],
+  "clash": []
+ },
+ "bean": {
+  "also": [],
+  "clash": [
+   "beans and pulses",
+   "vegetables"
+  ]
+ },
+ "roast": {
+  "also": [
+   [
+    "comedy words",
+    3
+   ]
+  ],
+  "clash": [
+   "british food"
+  ]
+ },
+ "grind": {
+  "also": [
+   [
+    "skateboard tricks",
+    2
+   ]
+  ],
+  "clash": [
+   "gaming words"
+  ]
+ },
+ "barista": {
+  "also": [
+   [
+    "food jobs",
+    1
+   ],
+   [
+    "service jobs",
+    1
+   ],
+   [
+    "cafe",
+    1
+   ]
+  ],
+  "clash": []
+ },
+ "espresso machine": {
+  "also": [
+   [
+    "cafe",
+    1
+   ],
+   [
+    "kitchen appliances",
+    2
+   ],
+   [
+    "small appliances",
+    2
+   ]
+  ],
+  "clash": []
+ },
+ "percolator": {
+  "also": [
+   [
+    "small appliances",
+    3
+   ]
+  ],
+  "clash": []
+ },
+ "grinder": {
+  "also": [],
+  "clash": [
+   "power tools",
+   "sandwiches"
+  ]
+ },
+ "filter": {
+  "also": [
+   [
+    "smoking words",
+    2
+   ],
+   [
+    "social media words",
+    2
+   ],
+   [
+    "photography words",
+    2
+   ]
+  ],
+  "clash": [
+   "camera parts"
+  ]
+ },
+ "brew": {
+  "also": [],
+  "clash": [
+   "witchcraft",
+   "beers"
+  ]
+ },
+ "drip": {
+  "also": [
+   [
+    "water sounds",
+    1
+   ],
+   [
+    "gen z slang",
+    2
+   ]
+  ],
+  "clash": []
+ },
+ "java": {
+  "also": [
+   [
+    "programming languages",
+    1
+   ],
+   [
+    "indonesian islands",
+    1
+   ]
+  ],
+  "clash": []
+ },
+ "joe": {
+  "also": [
+   [
+    "boys' names",
+    1
+   ],
+   [
+    "short forms of names",
+    1
+   ]
+  ],
+  "clash": []
+ },
+ "cupping": {
+  "also": [
+   [
+    "middle eastern remedies",
+    2
+   ],
+   [
+    "chinese medicine",
+    2
+   ]
+  ],
+  "clash": []
+ },
+ "cezve": {
+  "also": [
+   [
+    "turkish home",
+    2
+   ]
+  ],
+  "clash": []
+ },
+ "siphon": {
+  "also": [],
+  "clash": [
+   "plumbing words",
+   "lab equipment"
+  ]
+ },
+ "extraction": {
+  "also": [
+   [
+    "dental words",
+    2
+   ]
+  ],
+  "clash": []
+ },
+ "bloom": {
+  "also": [],
+  "clash": [
+   "plants",
+   "flower parts",
+   "signs of spring"
+  ]
+ },
+ "coffeehouse": {
+  "also": [
+   [
+    "middle eastern inventions",
+    3
+   ]
+  ],
+  "clash": []
+ },
+ "mug": {
+  "also": [
+   [
+    "containers",
+    1
+   ],
+   [
+    "kitchen",
+    2
+   ]
+  ],
+  "clash": [
+   "face",
+   "crimes"
+  ]
+ },
+ "coffee maker": {
+  "also": [
+   [
+    "small appliances",
+    1
+   ],
+   [
+    "kitchen appliances",
+    1
+   ]
+  ],
+  "clash": []
+ },
+ "filter paper": {
+  "also": [],
+  "clash": [
+   "lab equipment"
+  ]
+ },
+ "milk frother": {
+  "also": [
+   [
+    "small appliances",
+    3
+   ]
+  ],
+  "clash": []
+ },
+ "aroma": {
+  "also": [
+   [
+    "smell words",
+    1
+   ]
+  ],
+  "clash": []
+ },
+ "squash": {
+  "also": [
+   [
+    "racket sports",
+    1
+   ],
+   [
+    "squashes",
+    1
+   ],
+   [
+    "vegetables",
+    2
+   ],
+   [
+    "british english words",
+    2
+   ]
+  ],
+  "clash": []
+ },
+ "cordial": {
+  "also": [],
+  "clash": [
+   "positive traits",
+   "liqueurs"
+  ]
+ },
+ "cola": {
+  "also": [
+   [
+    "fizzy drinks",
+    1
+   ]
+  ],
+  "clash": []
+ },
+ "lemonade": {
+  "also": [
+   [
+    "fizzy drinks",
+    1
+   ]
+  ],
+  "clash": []
+ },
+ "root beer": {
+  "also": [
+   [
+    "fizzy drinks",
+    1
+   ]
+  ],
+  "clash": [
+   "beers"
+  ]
+ },
+ "ginger ale": {
+  "also": [
+   [
+    "fizzy drinks",
+    1
+   ]
+  ],
+  "clash": []
+ },
+ "soda": {
+  "also": [
+   [
+    "fizzy drinks",
+    1
+   ]
+  ],
+  "clash": [
+   "household chemicals"
+  ]
+ },
+ "cream soda": {
+  "also": [
+   [
+    "fizzy drinks",
+    2
+   ]
+  ],
+  "clash": []
+ },
+ "ginger beer": {
+  "also": [
+   [
+    "fizzy drinks",
+    1
+   ]
+  ],
+  "clash": [
+   "beers"
+  ]
+ },
+ "tonic water": {
+  "also": [
+   [
+    "bitter foods",
+    1
+   ],
+   [
+    "fizzy drinks",
+    1
+   ]
+  ],
+  "clash": []
+ },
+ "club soda": {
+  "also": [
+   [
+    "fizzy drinks",
+    2
+   ]
+  ],
+  "clash": []
+ },
+ "soda water": {
+  "also": [
+   [
+    "fizzy drinks",
+    1
+   ]
+  ],
+  "clash": []
+ },
+ "seltzer": {
+  "also": [
+   [
+    "fizzy drinks",
+    2
+   ]
+  ],
+  "clash": []
+ },
+ "Sprite": {
+  "also": [
+   [
+    "fairy folk",
+    2
+   ]
+  ],
+  "clash": []
+ },
+ "Coke": {
+  "also": [
+   [
+    "fuels",
+    3
+   ]
+  ],
+  "clash": [
+   "illegal drugs"
+  ]
+ },
+ "Tango": {
+  "also": [
+   [
+    "ballroom dances",
+    1
+   ],
+   [
+    "latin dances",
+    1
+   ],
+   [
+    "dances",
+    1
+   ],
+   [
+    "phonetic alphabet",
+    1
+   ],
+   [
+    "hidden colors",
+    2
+   ]
+  ],
+  "clash": []
+ },
+ "Crush": {
+  "also": [
+   [
+    "love words",
+    1
+   ]
+  ],
+  "clash": []
+ },
+ "Tab": {
+  "also": [
+   [
+    "keyboard keys",
+    1
+   ]
+  ],
+  "clash": []
+ },
+ "Moxie": {
+  "also": [],
+  "clash": [
+   "positive traits"
+  ]
+ },
+ "Inca Kola": {
+  "also": [
+   [
+    "south american drinks",
+    1
+   ]
+  ],
+  "clash": []
+ },
+ "Guaraná": {
+  "also": [
+   [
+    "south american drinks",
+    1
+   ],
+   [
+    "brazilian food",
+    2
+   ]
+  ],
+  "clash": []
+ },
+ "sarsaparilla": {
+  "also": [],
+  "clash": [
+   "wild west"
+  ]
+ },
+ "birch beer": {
+  "also": [],
+  "clash": [
+   "beers",
+   "deciduous trees"
+  ]
+ },
+ "Shasta": {
+  "also": [],
+  "clash": [
+   "famous volcanoes",
+   "famous mountains"
+  ]
+ },
+ "chinotto": {
+  "also": [
+   [
+    "citrus fruits",
+    4
+   ]
+  ],
+  "clash": []
+ },
+ "Bundaberg": {
+  "also": [],
+  "clash": [
+   "australian cities"
+  ]
+ },
+ "Cheerwine": {
+  "also": [],
+  "clash": [
+   "wines"
+  ]
+ },
+ "bitter lemon": {
+  "also": [
+   [
+    "fizzy drinks",
+    2
+   ]
+  ],
+  "clash": []
+ },
+ "Ramune": {
+  "also": [
+   [
+    "japanese food",
+    3
+   ]
+  ],
+  "clash": []
+ },
+ "pop": {
+  "also": [
+   [
+    "music genres",
+    1
+   ],
+   [
+    "onomatopoeia",
+    1
+   ],
+   [
+    "family members",
+    2
+   ]
+  ],
+  "clash": [
+   "impact sounds",
+   "things that pop"
+  ]
+ },
+ "fizzy drink": {
+  "also": [
+   [
+    "fizzy drinks",
+    1
+   ]
+  ],
+  "clash": []
+ },
+ "soda pop": {
+  "also": [
+   [
+    "fizzy drinks",
+    2
+   ]
+  ],
+  "clash": []
+ },
+ "Red Bull": {
+  "also": [],
+  "clash": [
+   "cattle breeds"
+  ]
+ },
+ "Canada Dry": {
+  "also": [],
+  "clash": [
+   "north american countries"
+  ]
+ },
+ "orange": {
+  "also": [
+   [
+    "citrus fruits",
+    1
+   ],
+   [
+    "fruits",
+    1
+   ],
+   [
+    "shades of orange",
+    1
+   ],
+   [
+    "colors",
+    1
+   ],
+   [
+    "fruit trees",
+    2
+   ]
+  ],
+  "clash": []
+ },
+ "apple": {
+  "also": [
+   [
+    "fruits",
+    1
+   ],
+   [
+    "fruit trees",
+    1
+   ],
+   [
+    "silicon valley companies",
+    1
+   ],
+   [
+    "tech companies",
+    1
+   ],
+   [
+    "crunchy foods",
+    1
+   ]
+  ],
+  "clash": [
+   "red things",
+   "green things"
+  ]
+ },
+ "grape": {
+  "also": [
+   [
+    "fruits",
+    1
+   ]
+  ],
+  "clash": [
+   "berries",
+   "shades of purple"
+  ]
+ },
+ "cranberry": {
+  "also": [
+   [
+    "berries",
+    1
+   ],
+   [
+    "fruits",
+    1
+   ],
+   [
+    "thanksgiving",
+    2
+   ],
+   [
+    "shades of red",
+    2
+   ]
+  ],
+  "clash": []
+ },
+ "pineapple": {
+  "also": [
+   [
+    "tropical fruits",
+    1
+   ],
+   [
+    "fruits",
+    1
+   ],
+   [
+    "pizza toppings",
+    1
+   ]
+  ],
+  "clash": [
+   "prickly things"
+  ]
+ },
+ "tomato": {
+  "also": [
+   [
+    "vegetables",
+    1
+   ],
+   [
+    "red things",
+    1
+   ],
+   [
+    "words from nahuatl",
+    2
+   ],
+   [
+    "pizza toppings",
+    2
+   ],
+   [
+    "hidden names",
+    2
+   ]
+  ],
+  "clash": [
+   "fruits"
+  ]
+ },
+ "grapefruit": {
+  "also": [
+   [
+    "citrus fruits",
+    1
+   ],
+   [
+    "fruits",
+    1
+   ],
+   [
+    "bitter foods",
+    1
+   ]
+  ],
+  "clash": []
+ },
+ "carrot": {
+  "also": [
+   [
+    "root vegetables",
+    1
+   ],
+   [
+    "vegetables",
+    1
+   ]
+  ],
+  "clash": [
+   "shades of orange"
+  ]
+ },
+ "lemon": {
+  "also": [
+   [
+    "citrus fruits",
+    1
+   ],
+   [
+    "fruits",
+    1
+   ],
+   [
+    "sour foods",
+    1
+   ],
+   [
+    "yellow things",
+    1
+   ],
+   [
+    "shades of yellow",
+    2
+   ]
+  ],
+  "clash": []
+ },
+ "lime": {
+  "also": [
+   [
+    "citrus fruits",
+    1
+   ],
+   [
+    "fruits",
+    1
+   ],
+   [
+    "sour foods",
+    1
+   ],
+   [
+    "green things",
+    1
+   ],
+   [
+    "shades of green",
+    1
+   ],
+   [
+    "deciduous trees",
+    3
+   ]
+  ],
+  "clash": [
+   "building materials"
+  ]
+ },
+ "prune": {
+  "also": [
+   [
+    "dried fruits",
+    1
+   ],
+   [
+    "gardening verbs",
+    1
+   ]
+  ],
+  "clash": []
+ },
+ "pomegranate": {
+  "also": [
+   [
+    "fruits",
+    1
+   ]
+  ],
+  "clash": [
+   "shades of red"
+  ]
+ },
+ "mango": {
+  "also": [
+   [
+    "tropical fruits",
+    1
+   ],
+   [
+    "fruits",
+    1
+   ]
+  ],
+  "clash": [
+   "asian fruits",
+   "shades of orange"
+  ]
+ },
+ "guava": {
+  "also": [
+   [
+    "tropical fruits",
+    1
+   ],
+   [
+    "fruits",
+    1
+   ]
+  ],
+  "clash": []
+ },
+ "passion fruit": {
+  "also": [
+   [
+    "tropical fruits",
+    1
+   ],
+   [
+    "fruits",
+    1
+   ]
+  ],
+  "clash": []
+ },
+ "beet": {
+  "also": [
+   [
+    "root vegetables",
+    1
+   ],
+   [
+    "vegetables",
+    1
+   ],
+   [
+    "homophones",
+    2
+   ]
+  ],
+  "clash": [
+   "shades of red",
+   "shades of purple"
+  ]
+ },
+ "celery": {
+  "also": [
+   [
+    "vegetables",
+    1
+   ],
+   [
+    "crunchy foods",
+    1
+   ]
+  ],
+  "clash": []
+ },
+ "wheatgrass": {
+  "also": [
+   [
+    "superfoods",
+    2
+   ]
+  ],
+  "clash": [
+   "grasses and reeds"
+  ]
+ },
+ "aloe": {
+  "also": [
+   [
+    "medicinal plants",
+    1
+   ],
+   [
+    "cacti and succulents",
+    1
+   ],
+   [
+    "houseplants",
+    2
+   ]
+  ],
+  "clash": []
+ },
+ "noni": {
+  "also": [
+   [
+    "oceanian remedies",
+    2
+   ]
+  ],
+  "clash": []
+ },
+ "açaí": {
+  "also": [
+   [
+    "superfoods",
+    1
+   ],
+   [
+    "brazilian food",
+    1
+   ],
+   [
+    "berries",
+    2
+   ]
+  ],
+  "clash": []
+ },
+ "cherry": {
+  "also": [
+   [
+    "stone fruits",
+    1
+   ],
+   [
+    "fruits",
+    1
+   ],
+   [
+    "red things",
+    1
+   ],
+   [
+    "shades of red",
+    1
+   ],
+   [
+    "fruit trees",
+    1
+   ],
+   [
+    "types of wood",
+    2
+   ]
+  ],
+  "clash": [
+   "flowers of east asia",
+   "spring flowers"
+  ]
+ },
+ "tart cherry": {
+  "also": [
+   [
+    "stone fruits",
+    2
+   ]
+  ],
+  "clash": []
+ },
+ "pear": {
+  "also": [
+   [
+    "fruits",
+    1
+   ],
+   [
+    "fruit trees",
+    1
+   ],
+   [
+    "rhymes with bear",
+    1
+   ],
+   [
+    "homophones",
+    1
+   ]
+  ],
+  "clash": []
+ },
+ "peach": {
+  "also": [
+   [
+    "stone fruits",
+    1
+   ],
+   [
+    "fruits",
+    1
+   ],
+   [
+    "fruit trees",
+    1
+   ],
+   [
+    "shades of orange",
+    2
+   ],
+   [
+    "shades of pink",
+    2
+   ]
+  ],
+  "clash": []
+ },
+ "apricot": {
+  "also": [
+   [
+    "stone fruits",
+    1
+   ],
+   [
+    "dried fruits",
+    1
+   ],
+   [
+    "fruits",
+    1
+   ],
+   [
+    "shades of orange",
+    2
+   ]
+  ],
+  "clash": []
+ },
+ "blackcurrant": {
+  "also": [
+   [
+    "berries",
+    1
+   ],
+   [
+    "fruits",
+    1
+   ]
+  ],
+  "clash": []
+ },
+ "cucumber": {
+  "also": [
+   [
+    "vegetables",
+    1
+   ],
+   [
+    "green things",
+    2
+   ]
+  ],
+  "clash": []
+ },
+ "kale": {
+  "also": [
+   [
+    "leafy greens",
+    1
+   ],
+   [
+    "superfoods",
+    1
+   ],
+   [
+    "cabbage family",
+    2
+   ],
+   [
+    "bitter foods",
+    2
+   ]
+  ],
+  "clash": []
+ },
+ "ginger": {
+  "also": [
+   [
+    "spices",
+    1
+   ]
+  ],
+  "clash": [
+   "root vegetables",
+   "shades of orange",
+   "girls' names"
+  ]
+ },
+ "watermelon": {
+  "also": [
+   [
+    "melons",
+    1
+   ],
+   [
+    "fruits",
+    1
+   ]
+  ],
+  "clash": []
+ },
+ "papaya": {
+  "also": [
+   [
+    "tropical fruits",
+    1
+   ],
+   [
+    "fruits",
+    1
+   ]
+  ],
+  "clash": []
+ },
+ "lychee": {
+  "also": [
+   [
+    "asian fruits",
+    1
+   ],
+   [
+    "tropical fruits",
+    2
+   ],
+   [
+    "fruits",
+    1
+   ]
+  ],
+  "clash": []
+ },
+ "sugarcane": {
+  "also": [
+   [
+    "grasses and reeds",
+    3
+   ]
+  ],
+  "clash": [
+   "sweeteners"
+  ]
+ },
+ "elderberry": {
+  "also": [
+   [
+    "berries",
+    2
+   ]
+  ],
+  "clash": []
+ },
+ "sea buckthorn": {
+  "also": [
+   [
+    "berries",
+    4
+   ]
+  ],
+  "clash": []
+ },
+ "blueberry": {
+  "also": [
+   [
+    "berries",
+    1
+   ],
+   [
+    "fruits",
+    1
+   ],
+   [
+    "blue things",
+    1
+   ]
+  ],
+  "clash": []
+ },
+ "strawberry": {
+  "also": [
+   [
+    "berries",
+    1
+   ],
+   [
+    "fruits",
+    1
+   ],
+   [
+    "red things",
+    1
+   ],
+   [
+    "ice cream flavors",
+    1
+   ]
+  ],
+  "clash": []
+ },
+ "raspberry": {
+  "also": [
+   [
+    "berries",
+    1
+   ],
+   [
+    "fruits",
+    1
+   ],
+   [
+    "shades of red",
+    2
+   ]
+  ],
+  "clash": [
+   "ice cream flavors"
+  ]
+ },
+ "kiwi": {
+  "also": [
+   [
+    "fruits",
+    1
+   ],
+   [
+    "flightless birds",
+    1
+   ],
+   [
+    "new zealand animals",
+    1
+   ],
+   [
+    "birds",
+    1
+   ]
+  ],
+  "clash": [
+   "tropical fruits",
+   "nationalities"
+  ]
+ },
+ "plum": {
+  "also": [
+   [
+    "stone fruits",
+    1
+   ],
+   [
+    "fruits",
+    1
+   ],
+   [
+    "shades of purple",
+    1
+   ],
+   [
+    "fruit trees",
+    1
+   ]
+  ],
+  "clash": []
+ },
+ "tangerine": {
+  "also": [
+   [
+    "citrus fruits",
+    1
+   ],
+   [
+    "fruits",
+    1
+   ],
+   [
+    "shades of orange",
+    1
+   ]
+  ],
+  "clash": []
+ },
+ "clementine": {
+  "also": [
+   [
+    "citrus fruits",
+    1
+   ],
+   [
+    "fruits",
+    1
+   ],
+   [
+    "girls' names",
+    3
+   ]
+  ],
+  "clash": []
+ },
+ "blood orange": {
+  "also": [
+   [
+    "citrus fruits",
+    1
+   ],
+   [
+    "fruits",
+    1
+   ]
+  ],
+  "clash": []
+ },
+ "mandarin": {
+  "also": [
+   [
+    "citrus fruits",
+    1
+   ],
+   [
+    "fruits",
+    1
+   ],
+   [
+    "languages of china",
+    1
+   ],
+   [
+    "asian languages",
+    1
+   ]
+  ],
+  "clash": []
+ },
+ "calamansi": {
+  "also": [
+   [
+    "citrus fruits",
+    3
+   ]
+  ],
+  "clash": []
+ },
+ "soursop": {
+  "also": [
+   [
+    "tropical fruits",
+    3
+   ]
+  ],
+  "clash": []
+ },
+ "tamarind": {
+  "also": [
+   [
+    "spices",
+    2
+   ],
+   [
+    "tropical fruits",
+    3
+   ],
+   [
+    "sour foods",
+    2
+   ]
+  ],
+  "clash": []
+ },
+ "lingonberry": {
+  "also": [
+   [
+    "berries",
+    2
+   ]
+  ],
+  "clash": []
+ },
+ "dragon fruit": {
+  "also": [
+   [
+    "tropical fruits",
+    1
+   ],
+   [
+    "fruits",
+    1
+   ]
+  ],
+  "clash": [
+   "dragons"
+  ]
+ },
+ "starfruit": {
+  "also": [
+   [
+    "tropical fruits",
+    2
+   ],
+   [
+    "fruits",
+    2
+   ]
+  ],
+  "clash": []
+ },
+ "V8": {
+  "also": [
+   [
+    "engines",
+    1
+   ]
+  ],
+  "clash": []
+ },
+ "margarita": {
+  "also": [
+   [
+    "girls' names",
+    3
+   ]
+  ],
+  "clash": [
+   "pizza styles",
+   "latin american names"
+  ]
+ },
+ "Manhattan": {
+  "also": [],
+  "clash": [
+   "new york landmarks",
+   "american cities",
+   "famous islands"
+  ]
+ },
+ "old fashioned": {
+  "also": [],
+  "clash": [
+   "words for old"
+  ]
+ },
+ "Bloody Mary": {
+  "also": [
+   [
+    "ghosts and spirits",
+    2
+   ]
+  ],
+  "clash": [
+   "famous queens",
+   "english monarchs"
+  ]
+ },
+ "mimosa": {
+  "also": [],
+  "clash": [
+   "flowers",
+   "australian trees"
+  ]
+ },
+ "bellini": {
+  "also": [
+   [
+    "opera composers",
+    3
+   ],
+   [
+    "renaissance painters",
+    4
+   ]
+  ],
+  "clash": []
+ },
+ "sangria": {
+  "also": [
+   [
+    "spanish food",
+    2
+   ]
+  ],
+  "clash": []
+ },
+ "caipirinha": {
+  "also": [
+   [
+    "brazilian food",
+    2
+   ]
+  ],
+  "clash": []
+ },
+ "sidecar": {
+  "also": [],
+  "clash": [
+   "motorcycle types"
+  ]
+ },
+ "gimlet": {
+  "also": [
+   [
+    "hand tools",
+    3
+   ]
+  ],
+  "clash": []
+ },
+ "screwdriver": {
+  "also": [
+   [
+    "hand tools",
+    1
+   ],
+   [
+    "tools",
+    1
+   ]
+  ],
+  "clash": []
+ },
+ "bramble": {
+  "also": [],
+  "clash": [
+   "berries",
+   "prickly things",
+   "weeds"
+  ]
+ },
+ "grasshopper": {
+  "also": [
+   [
+    "insects and bugs",
+    1
+   ],
+   [
+    "garden bugs",
+    1
+   ]
+  ],
+  "clash": []
+ },
+ "zombie": {
+  "also": [
+   [
+    "undead",
+    1
+   ],
+   [
+    "halloween",
+    1
+   ],
+   [
+    "mythical creatures",
+    2
+   ]
+  ],
+  "clash": []
+ },
+ "hurricane": {
+  "also": [
+   [
+    "storms",
+    1
+   ],
+   [
+    "natural disasters",
+    1
+   ],
+   [
+    "wind words",
+    1
+   ]
+  ],
+  "clash": [
+   "military vehicles"
+  ]
+ },
+ "Rob Roy": {
+  "also": [],
+  "clash": [
+   "legendary heroes"
+  ]
+ },
+ "rusty nail": {
+  "also": [
+   [
+    "things that rust",
+    2
+   ]
+  ],
+  "clash": []
+ },
+ "godfather": {
+  "also": [
+   [
+    "extended family",
+    2
+   ]
+  ],
+  "clash": []
+ },
+ "mudslide": {
+  "also": [
+   [
+    "natural disasters",
+    1
+   ]
+  ],
+  "clash": []
+ },
+ "aviation": {
+  "also": [],
+  "clash": [
+   "air travel"
+  ]
+ },
+ "hanky panky": {
+  "also": [
+   [
+    "rhyming pairs",
+    2
+   ]
+  ],
+  "clash": []
+ },
+ "Gibson": {
+  "also": [],
+  "clash": [
+   "guitar types"
+  ]
+ },
+ "pisco sour": {
+  "also": [
+   [
+    "peruvian food",
+    2
+   ]
+  ],
+  "clash": []
+ },
+ "stinger": {
+  "also": [
+   [
+    "insect body parts",
+    2
+   ]
+  ],
+  "clash": [
+   "things that sting"
+  ]
+ },
+ "sea breeze": {
+  "also": [
+   [
+    "candle scents",
+    2
+   ]
+  ],
+  "clash": [
+   "wind words"
+  ]
+ },
+ "kamikaze": {
+  "also": [
+   [
+    "words from japanese",
+    2
+   ]
+  ],
+  "clash": [
+   "world war ii terms"
+  ]
+ },
+ "lemon drop": {
+  "also": [
+   [
+    "candy",
+    2
+   ]
+  ],
+  "clash": []
+ },
+ "painkiller": {
+  "also": [
+   [
+    "medicines",
+    1
+   ]
+  ],
+  "clash": []
+ },
+ "scorpion": {
+  "also": [
+   [
+    "venomous animals",
+    1
+   ],
+   [
+    "desert animals",
+    1
+   ],
+   [
+    "things that sting",
+    1
+   ]
+  ],
+  "clash": [
+   "spiders",
+   "zodiac signs"
+  ]
+ },
+ "paper plane": {
+  "also": [
+   [
+    "paper crafts",
+    1
+   ]
+  ],
+  "clash": [
+   "things that fly"
+  ]
+ },
+ "penicillin": {
+  "also": [
+   [
+    "accidental inventions",
+    1
+   ],
+   [
+    "medicines",
+    1
+   ],
+   [
+    "famous discoveries",
+    1
+   ]
+  ],
+  "clash": []
+ },
+ "Bronx": {
+  "also": [],
+  "clash": [
+   "new york landmarks",
+   "american cities"
+  ]
+ },
+ "tuxedo": {
+  "also": [
+   [
+    "clothes",
+    2
+   ]
+  ],
+  "clash": [
+   "work clothes"
+  ]
+ },
+ "Black Velvet": {
+  "also": [],
+  "clash": [
+   "fabrics"
+  ]
+ },
+ "snowball": {
+  "also": [],
+  "clash": [
+   "snow and ice",
+   "signs of winter"
+  ]
+ },
+ "michelada": {
+  "also": [],
+  "clash": [
+   "beers",
+   "mexican food"
+  ]
+ },
+ "Caesar": {
+  "also": [
+   [
+    "salad dressings",
+    1
+   ]
+  ],
+  "clash": [
+   "roman emperors",
+   "ancient rome"
+  ]
+ },
+ "white lady": {
+  "also": [],
+  "clash": [
+   "ghosts and spirits"
+  ]
+ },
+ "Mary Pickford": {
+  "also": [
+   [
+    "classic film stars",
+    2
+   ]
+  ],
+  "clash": []
+ },
+ "Long Island": {
+  "also": [
+   [
+    "famous islands",
+    2
+   ]
+  ],
+  "clash": []
+ },
+ "sour": {
+  "also": [
+   [
+    "taste words",
+    1
+   ]
+  ],
+  "clash": []
+ },
+ "sling": {
+  "also": [
+   [
+    "first aid",
+    2
+   ],
+   [
+    "historic weapons",
+    2
+   ]
+  ],
+  "clash": []
+ },
+ "fizz": {
+  "also": [
+   [
+    "onomatopoeia",
+    2
+   ]
+  ],
+  "clash": []
+ },
+ "Bee's Knees": {
+  "also": [
+   [
+    "1920s slang",
+    1
+   ]
+  ],
+  "clash": []
+ },
+ "Planter's Punch": {
+  "also": [],
+  "clash": [
+   "soft drinks"
+  ]
+ },
+ "champagne": {
+  "also": [
+   [
+    "wine regions",
+    1
+   ],
+   [
+    "foods named after places",
+    1
+   ],
+   [
+    "french regions",
+    2
+   ]
+  ],
+  "clash": [
+   "things that pop",
+   "shades of yellow"
+  ]
+ },
+ "rosé": {
+  "also": [],
+  "clash": [
+   "shades of pink"
+  ]
+ },
+ "port": {
+  "also": [
+   [
+    "nautical directions",
+    1
+   ]
+  ],
+  "clash": [
+   "ports and harbors",
+   "computer parts"
+  ]
+ },
+ "sherry": {
+  "also": [
+   [
+    "girls' names",
+    2
+   ]
+  ],
+  "clash": []
+ },
+ "Madeira": {
+  "also": [
+   [
+    "famous islands",
+    2
+   ]
+  ],
+  "clash": [
+   "cakes"
+  ]
+ },
+ "Marsala": {
+  "also": [],
+  "clash": [
+   "shades of red"
+  ]
+ },
+ "sake": {
+  "also": [
+   [
+    "japanese food",
+    1
+   ]
+  ],
+  "clash": [
+   "asian drinks",
+   "homophones"
+  ]
+ },
+ "blush": {
+  "also": [
+   [
+    "facial expressions",
+    2
+   ],
+   [
+    "makeup",
+    2
+   ]
+  ],
+  "clash": []
+ },
+ "Asti": {
+  "also": [],
+  "clash": [
+   "italian cities"
+  ]
+ },
+ "Malaga": {
+  "also": [
+   [
+    "spanish cities",
+    2
+   ]
+  ],
+  "clash": []
+ },
+ "Chianti": {
+  "also": [
+   [
+    "wine regions",
+    2
+   ]
+  ],
+  "clash": []
+ },
+ "Rioja": {
+  "also": [
+   [
+    "wine regions",
+    1
+   ],
+   [
+    "spanish regions",
+    2
+   ]
+  ],
+  "clash": []
+ },
+ "Bordeaux": {
+  "also": [
+   [
+    "wine regions",
+    1
+   ],
+   [
+    "french cities",
+    1
+   ],
+   [
+    "shades of red",
+    2
+   ]
+  ],
+  "clash": []
+ },
+ "Burgundy": {
+  "also": [
+   [
+    "wine regions",
+    1
+   ],
+   [
+    "french regions",
+    1
+   ],
+   [
+    "shades of red",
+    1
+   ]
+  ],
+  "clash": []
+ },
+ "Beaujolais": {
+  "also": [
+   [
+    "wine regions",
+    2
+   ]
+  ],
+  "clash": []
+ },
+ "Médoc": {
+  "also": [
+   [
+    "wine regions",
+    3
+   ]
+  ],
+  "clash": []
+ },
+ "Pomerol": {
+  "also": [
+   [
+    "wine regions",
+    3
+   ]
+  ],
+  "clash": []
+ },
+ "Saint-Émilion": {
+  "also": [
+   [
+    "wine regions",
+    3
+   ]
+  ],
+  "clash": []
+ },
+ "Margaux": {
+  "also": [
+   [
+    "wine regions",
+    3
+   ]
+  ],
+  "clash": []
+ },
+ "Graves": {
+  "also": [
+   [
+    "wine regions",
+    3
+   ]
+  ],
+  "clash": [
+   "tombs and burials"
+  ]
+ },
+ "Douro": {
+  "also": [
+   [
+    "european rivers",
+    3
+   ],
+   [
+    "wine regions",
+    3
+   ]
+  ],
+  "clash": []
+ },
+ "Toro": {
+  "also": [],
+  "clash": [
+   "bullfighting words"
+  ]
+ },
+ "Hermitage": {
+  "also": [
+   [
+    "famous museums",
+    2
+   ]
+  ],
+  "clash": [
+   "monastery"
+  ]
+ },
+ "Cahors": {
+  "also": [
+   [
+    "french cities",
+    3
+   ]
+  ],
+  "clash": []
+ },
+ "Concord": {
+  "also": [],
+  "clash": [
+   "american revolution",
+   "aircraft types"
+  ]
+ },
+ "claret": {
+  "also": [
+   [
+    "shades of red",
+    2
+   ]
+  ],
+  "clash": []
+ },
+ "Navarra": {
+  "also": [
+   [
+    "spanish regions",
+    2
+   ]
+  ],
+  "clash": []
+ },
+ "Châteauneuf-du-Pape": {
+  "also": [
+   [
+    "wine regions",
+    3
+   ]
+  ],
+  "clash": []
+ },
+ "Côtes du Rhône": {
+  "also": [
+   [
+    "wine regions",
+    3
+   ]
+  ],
+  "clash": []
+ },
+ "Lambrusco": {
+  "also": [],
+  "clash": [
+   "italian food"
+  ]
+ },
+ "Chablis": {
+  "also": [
+   [
+    "wine regions",
+    3
+   ]
+  ],
+  "clash": []
+ },
+ "muscat": {
+  "also": [
+   [
+    "asian capitals",
+    2
+   ],
+   [
+    "capital cities",
+    2
+   ],
+   [
+    "middle eastern cities",
+    2
+   ]
+  ],
+  "clash": []
+ },
+ "hock": {
+  "also": [
+   [
+    "parts of a horse",
+    3
+   ]
+  ],
+  "clash": [
+   "cuts of meat"
+  ]
+ },
+ "Moselle": {
+  "also": [
+   [
+    "european rivers",
+    2
+   ],
+   [
+    "wine regions",
+    2
+   ]
+  ],
+  "clash": []
+ },
+ "retsina": {
+  "also": [
+   [
+    "greek food",
+    2
+   ]
+  ],
+  "clash": []
+ },
+ "palomino": {
+  "also": [
+   [
+    "horse colors",
+    2
+   ]
+  ],
+  "clash": []
+ },
+ "Orvieto": {
+  "also": [],
+  "clash": [
+   "italian cities"
+  ]
+ },
+ "Tokaji": {
+  "also": [],
+  "clash": [
+   "wine regions"
+  ]
+ },
+ "vintage": {
+  "also": [
+   [
+    "fashion styles",
+    2
+   ],
+   [
+    "words for old",
+    1
+   ]
+  ],
+  "clash": []
+ },
+ "cork": {
+  "also": [
+   [
+    "places that are also words",
+    1
+   ],
+   [
+    "things that float",
+    1
+   ],
+   [
+    "natural materials",
+    2
+   ]
+  ],
+  "clash": [
+   "european cities"
+  ]
+ },
+ "sommelier": {
+  "also": [
+   [
+    "food jobs",
+    1
+   ]
+  ],
+  "clash": []
+ },
+ "bouquet": {
+  "also": [
+   [
+    "smell words",
+    3
+   ]
+  ],
+  "clash": [
+   "bouquet flowers"
+  ]
+ },
+ "cellar": {
+  "also": [
+   [
+    "parts of a house",
+    1
+   ]
+  ],
+  "clash": []
+ },
+ "vine": {
+  "also": [],
+  "clash": [
+   "vines and climbers"
+  ]
+ },
+ "barrel": {
+  "also": [
+   [
+    "containers",
+    1
+   ],
+   [
+    "things made of wood",
+    1
+   ]
+  ],
+  "clash": []
+ },
+ "oak": {
+  "also": [
+   [
+    "deciduous trees",
+    1
+   ],
+   [
+    "trees",
+    1
+   ],
+   [
+    "types of wood",
+    1
+   ]
+  ],
+  "clash": []
+ },
+ "cask": {
+  "also": [
+   [
+    "containers",
+    2
+   ]
+  ],
+  "clash": []
+ },
+ "corkscrew": {
+  "also": [],
+  "clash": [
+   "curves and spirals"
+  ]
+ },
+ "nose": {
+  "also": [
+   [
+    "face",
+    1
+   ],
+   [
+    "senses",
+    1
+   ],
+   [
+    "body parts",
+    1
+   ]
+  ],
+  "clash": []
+ },
+ "palate": {
+  "also": [
+   [
+    "homophones",
+    2
+   ]
+  ],
+  "clash": [
+   "taste words"
+  ]
+ },
+ "sweet": {
+  "also": [
+   [
+    "taste words",
+    1
+   ]
+  ],
+  "clash": []
+ },
+ "harvest": {
+  "also": [
+   [
+    "signs of autumn",
+    1
+   ],
+   [
+    "farm",
+    2
+   ]
+  ],
+  "clash": [
+   "thanksgiving"
+  ]
+ },
+ "sediment": {
+  "also": [
+   [
+    "erosion words",
+    2
+   ]
+  ],
+  "clash": []
+ },
+ "acidity": {
+  "also": [],
+  "clash": [
+   "acids and bases"
+  ]
+ },
+ "château": {
+  "also": [],
+  "clash": [
+   "castles"
+  ]
+ },
+ "magnum": {
+  "also": [],
+  "clash": [
+   "modern weapons"
+  ]
+ },
+ "jeroboam": {
+  "also": [],
+  "clash": [
+   "biblical names"
+  ]
+ },
+ "rehoboam": {
+  "also": [],
+  "clash": [
+   "biblical names"
+  ]
+ },
+ "methuselah": {
+  "also": [
+   [
+    "biblical names",
+    2
+   ]
+  ],
+  "clash": []
+ },
+ "nebuchadnezzar": {
+  "also": [
+   [
+    "mesopotamia",
+    2
+   ]
+  ],
+  "clash": []
+ },
+ "balthazar": {
+  "also": [],
+  "clash": [
+   "christmas",
+   "biblical names"
+  ]
+ },
+ "wine glass": {
+  "also": [
+   [
+    "things made of glass",
+    1
+   ]
+  ],
+  "clash": []
+ },
+ "swirl": {
+  "also": [
+   [
+    "curves and spirals",
+    2
+   ]
+  ],
+  "clash": []
+ },
+ "crisp": {
+  "also": [
+   [
+    "texture words",
+    2
+   ]
+  ],
+  "clash": [
+   "snacks"
+  ]
+ },
+ "legs": {
+  "also": [
+   [
+    "arms and legs",
+    1
+   ]
+  ],
+  "clash": []
+ },
+ "fermentation": {
+  "also": [
+   [
+    "chemical reactions",
+    1
+   ]
+  ],
+  "clash": []
+ },
+ "bottle": {
+  "also": [
+   [
+    "containers",
+    1
+   ],
+   [
+    "things made of glass",
+    1
+   ]
+  ],
+  "clash": []
+ },
+ "punt": {
+  "also": [
+   [
+    "small boats",
+    1
+   ],
+   [
+    "american football terms",
+    1
+   ],
+   [
+    "rugby terms",
+    2
+   ]
+  ],
+  "clash": []
+ },
+ "stout": {
+  "also": [],
+  "clash": [
+   "words for big"
+  ]
+ },
+ "porter": {
+  "also": [
+   [
+    "hotel staff",
+    1
+   ],
+   [
+    "railroad jobs",
+    1
+   ]
+  ],
+  "clash": [
+   "old-time jobs"
+  ]
+ },
+ "bitter": {
+  "also": [
+   [
+    "taste words",
+    1
+   ],
+   [
+    "words for cold",
+    2
+   ]
+  ],
+  "clash": []
+ },
+ "Corona": {
+  "also": [
+   [
+    "astronomy terms",
+    3
+   ]
+  ],
+  "clash": [
+   "viruses"
+  ]
+ },
+ "Miller": {
+  "also": [
+   [
+    "surnames that are jobs",
+    1
+   ],
+   [
+    "medieval jobs",
+    2
+   ]
+  ],
+  "clash": []
+ },
+ "Sapporo": {
+  "also": [
+   [
+    "japanese cities",
+    1
+   ]
+  ],
+  "clash": []
+ },
+ "Kirin": {
+  "also": [],
+  "clash": [
+   "japanese folklore",
+   "mythical creatures"
+  ]
+ },
+ "Tsingtao": {
+  "also": [],
+  "clash": [
+   "chinese cities"
+  ]
+ },
+ "Samuel Adams": {
+  "also": [
+   [
+    "founding fathers",
+    2
+   ]
+  ],
+  "clash": []
+ },
+ "Blue Moon": {
+  "also": [
+   [
+    "moon phases",
+    1
+   ]
+  ],
+  "clash": []
+ },
+ "Kingfisher": {
+  "also": [
+   [
+    "colorful birds",
+    1
+   ],
+   [
+    "birds",
+    1
+   ],
+   [
+    "british wildlife",
+    2
+   ]
+  ],
+  "clash": []
+ },
+ "Tusker": {
+  "also": [],
+  "clash": [
+   "animals with tusks"
+  ]
+ },
+ "Efes": {
+  "also": [],
+  "clash": [
+   "ancient sites of turkey"
+  ]
+ },
+ "Tiger": {
+  "also": [
+   [
+    "big cats",
+    1
+   ],
+   [
+    "striped animals",
+    1
+   ],
+   [
+    "asian animals",
+    1
+   ],
+   [
+    "chinese zodiac",
+    1
+   ],
+   [
+    "indian animals",
+    1
+   ],
+   [
+    "endangered animals",
+    1
+   ]
+  ],
+  "clash": []
+ },
+ "Brahma": {
+  "also": [
+   [
+    "hindu gods",
+    1
+   ]
+  ],
+  "clash": [
+   "cattle breeds"
+  ]
+ },
+ "Kilkenny": {
+  "also": [],
+  "clash": [
+   "european cities"
+  ]
+ },
+ "Harp": {
+  "also": [
+   [
+    "string instruments",
+    1
+   ],
+   [
+    "celtic instruments",
+    2
+   ]
+  ],
+  "clash": []
+ },
+ "Oktoberfest": {
+  "also": [
+   [
+    "festivals of the world",
+    1
+   ]
+  ],
+  "clash": [
+   "oktoberfest"
+  ]
+ },
+ "Trappist": {
+  "also": [],
+  "clash": [
+   "monastery"
+  ]
+ },
+ "mild": {
+  "also": [],
+  "clash": [
+   "words for small"
+  ]
+ },
+ "radler": {
+  "also": [],
+  "clash": [
+   "cycling words"
+  ]
+ },
+ "vodka": {
+  "also": [
+   [
+    "national spirits",
+    1
+   ]
+  ],
+  "clash": []
+ },
+ "whiskey": {
+  "also": [],
+  "clash": [
+   "national spirits"
+  ]
+ },
+ "gin": {
+  "also": [],
+  "clash": [
+   "card games"
+  ]
+ },
+ "brandy": {
+  "also": [],
+  "clash": [
+   "girls' names"
+  ]
+ },
+ "bourbon": {
+  "also": [
+   [
+    "royal houses",
+    1
+   ],
+   [
+    "cookies",
+    3
+   ]
+  ],
+  "clash": [
+   "french kings"
+  ]
+ },
+ "rye": {
+  "also": [
+   [
+    "grains",
+    1
+   ],
+   [
+    "flours",
+    1
+   ],
+   [
+    "breads",
+    2
+   ]
+  ],
+  "clash": []
+ },
+ "Scotch": {
+  "also": [],
+  "clash": [
+   "adhesives",
+   "nationalities"
+  ]
+ },
+ "cognac": {
+  "also": [
+   [
+    "french cities",
+    3
+   ]
+  ],
+  "clash": []
+ },
+ "moonshine": {
+  "also": [],
+  "clash": [
+   "sky phenomena"
+  ]
+ },
+ "Bombay Sapphire": {
+  "also": [],
+  "clash": [
+   "old city names",
+   "gemstones"
+  ]
+ },
+ "Grey Goose": {
+  "also": [],
+  "clash": [
+   "geese and swans"
+  ]
+ },
+ "Captain Morgan": {
+  "also": [
+   [
+    "famous pirates",
+    2
+   ]
+  ],
+  "clash": []
+ },
+ "Wild Turkey": {
+  "also": [],
+  "clash": [
+   "game birds",
+   "north american birds"
+  ]
+ },
+ "Famous Grouse": {
+  "also": [],
+  "clash": [
+   "game birds"
+  ]
+ },
+ "Beefeater": {
+  "also": [],
+  "clash": [
+   "london landmarks"
+  ]
+ },
+ "Belvedere": {
+  "also": [],
+  "clash": [
+   "famous palaces"
+  ]
+ },
+ "Kraken": {
+  "also": [
+   [
+    "sea monsters",
+    1
+   ],
+   [
+    "mythical creatures",
+    1
+   ]
+  ],
+  "clash": []
+ },
+ "Chartreuse": {
+  "also": [
+   [
+    "shades of green",
+    2
+   ],
+   [
+    "shades of yellow",
+    3
+   ]
+  ],
+  "clash": []
+ },
+ "Bénédictine": {
+  "also": [],
+  "clash": [
+   "monastery",
+   "religion words"
+  ]
+ },
+ "curaçao": {
+  "also": [
+   [
+    "caribbean islands",
+    2
+   ]
+  ],
+  "clash": []
+ },
+ "blue curaçao": {
+  "also": [],
+  "clash": [
+   "caribbean islands"
+  ]
+ },
+ "Chambord": {
+  "also": [],
+  "clash": [
+   "famous castles"
+  ]
+ },
+ "Malibu": {
+  "also": [
+   [
+    "famous beaches",
+    1
+   ]
+  ],
+  "clash": []
+ },
+ "maraschino": {
+  "also": [],
+  "clash": [
+   "toppings"
+  ]
+ },
+ "Fireball": {
+  "also": [
+   [
+    "space rocks",
+    2
+   ]
+  ],
+  "clash": []
+ },
+ "ratafia": {
+  "also": [],
+  "clash": [
+   "cookies"
+  ]
+ },
+ "Rompope": {
+  "also": [],
+  "clash": [
+   "mexican food"
+  ]
+ },
+ "Montenegro": {
+  "also": [
+   [
+    "european countries",
+    1
+   ],
+   [
+    "eastern european countries",
+    2
+   ]
+  ],
+  "clash": []
+ },
+ "Strega": {
+  "also": [],
+  "clash": [
+   "witchcraft"
+  ]
+ },
+ "Southern Comfort": {
+  "also": [],
+  "clash": [
+   "cozy things"
+  ]
+ },
+ "tequila": {
+  "also": [],
+  "clash": [
+   "mexican food"
+  ]
+ },
+ "ouzo": {
+  "also": [
+   [
+    "greek food",
+    2
+   ]
+  ],
+  "clash": []
+ },
+ "soju": {
+  "also": [
+   [
+    "korean food",
+    2
+   ]
+  ],
+  "clash": []
+ },
+ "pisco": {
+  "also": [
+   [
+    "peruvian food",
+    2
+   ]
+  ],
+  "clash": []
+ },
+ "cachaça": {
+  "also": [
+   [
+    "brazilian food",
+    2
+   ]
+  ],
+  "clash": []
+ },
+ "rakı": {
+  "also": [
+   [
+    "turkish food",
+    2
+   ]
+  ],
+  "clash": [
+   "turkish drinks"
+  ]
+ },
+ "mezcal": {
+  "also": [],
+  "clash": [
+   "mexican food"
+  ]
+ },
+ "grappa": {
+  "also": [
+   [
+    "italian food",
+    3
+   ]
+  ],
+  "clash": []
+ },
+ "chacha": {
+  "also": [],
+  "clash": [
+   "latin dances",
+   "ballroom dances"
+  ]
+ },
+ "chef": {
+  "also": [
+   [
+    "food jobs",
+    1
+   ]
+  ],
+  "clash": []
+ },
+ "cook": {
+  "also": [
+   [
+    "food jobs",
+    1
+   ],
+   [
+    "explorers",
+    3
+   ]
+  ],
+  "clash": []
+ },
+ "stove": {
+  "also": [
+   [
+    "kitchen appliances",
+    1
+   ],
+   [
+    "hot things",
+    1
+   ],
+   [
+    "heating and cooling",
+    2
+   ]
+  ],
+  "clash": []
+ },
+ "season": {
+  "also": [],
+  "clash": [
+   "seasons"
+  ]
+ },
+ "baste": {
+  "also": [
+   [
+    "sewing words",
+    2
+   ]
+  ],
+  "clash": []
+ },
+ "reduce": {
+  "also": [
+   [
+    "recycling words",
+    2
+   ]
+  ],
+  "clash": []
+ },
+ "temper": {
+  "also": [],
+  "clash": [
+   "angry words"
+  ]
+ },
+ "taste": {
+  "also": [
+   [
+    "senses",
+    1
+   ]
+  ],
+  "clash": []
+ },
+ "pinch": {
+  "also": [
+   [
+    "hand actions",
+    2
+   ]
+  ],
+  "clash": []
+ },
+ "dash": {
+  "also": [
+   [
+    "punctuation",
+    1
+   ]
+  ],
+  "clash": [
+   "running words"
+  ]
+ },
+ "drizzle": {
+  "also": [
+   [
+    "rain words",
+    1
+   ]
+  ],
+  "clash": []
+ },
+ "sprinkle": {
+  "also": [
+   [
+    "rain words",
+    2
+   ]
+  ],
+  "clash": []
+ },
+ "apron": {
+  "also": [
+   [
+    "work clothes",
+    1
+   ]
+  ],
+  "clash": []
+ },
+ "umami": {
+  "also": [
+   [
+    "taste words",
+    1
+   ]
+  ],
+  "clash": []
+ },
+ "stock": {
+  "also": [],
+  "clash": [
+   "soups",
+   "stock market words"
+  ]
+ },
+ "dressing": {
+  "also": [
+   [
+    "first aid",
+    2
+   ]
+  ],
+  "clash": [
+   "salad dressings"
+  ]
+ },
+ "serving": {
+  "also": [],
+  "clash": [
+   "tennis terms"
+  ]
+ },
+ "tablespoon": {
+  "also": [
+   [
+    "volume units",
+    1
+   ]
+  ],
+  "clash": []
+ },
+ "toque": {
+  "also": [
+   [
+    "canadian slang",
+    1
+   ],
+   [
+    "hats",
+    2
+   ]
+  ],
+  "clash": []
+ },
+ "batch": {
+  "also": [],
+  "clash": [
+   "collective nouns"
+  ]
+ },
+ "hob": {
+  "also": [],
+  "clash": [
+   "kitchen appliances"
+  ]
+ },
+ "burner": {
+  "also": [],
+  "clash": [
+   "science lab"
+  ]
+ },
+ "boil": {
+  "also": [],
+  "clash": [
+   "skin words"
+  ]
+ },
+ "fry": {
+  "also": [
+   [
+    "baby animals",
+    3
+   ]
+  ],
+  "clash": []
+ },
+ "steam": {
+  "also": [
+   [
+    "turkish bath",
+    2
+   ]
+  ],
+  "clash": [
+   "states of matter"
+  ]
+ },
+ "poach": {
+  "also": [],
+  "clash": [
+   "hunting words",
+   "crimes"
+  ]
+ },
+ "blanch": {
+  "also": [],
+  "clash": [
+   "girls' names"
+  ]
+ },
+ "toast": {
+  "also": [
+   [
+    "breakfast foods",
+    1
+   ],
+   [
+    "weddings",
+    2
+   ]
+  ],
+  "clash": [
+   "breads"
+  ]
+ },
+ "smoke": {
+  "also": [
+   [
+    "fire words",
+    1
+   ]
+  ],
+  "clash": []
+ },
+ "microwave": {
+  "also": [
+   [
+    "kitchen appliances",
+    1
+   ],
+   [
+    "accidental inventions",
+    1
+   ]
+  ],
+  "clash": [
+   "light words"
+  ]
+ },
+ "char": {
+  "also": [
+   [
+    "salmon and trout",
+    3
+   ]
+  ],
+  "clash": []
+ },
+ "brown": {
+  "also": [
+   [
+    "colors",
+    1
+   ],
+   [
+    "shades of brown",
+    1
+   ]
+  ],
+  "clash": []
+ },
+ "sweat": {
+  "also": [],
+  "clash": [
+   "symptoms"
+  ]
+ },
+ "casserole": {
+  "also": [],
+  "clash": [
+   "stews"
+  ]
+ },
+ "scramble": {
+  "also": [],
+  "clash": [
+   "egg dishes"
+  ]
+ },
+ "stew": {
+  "also": [],
+  "clash": [
+   "stews"
+  ]
+ },
+ "braai": {
+  "also": [
+   [
+    "south african food",
+    2
+   ]
+  ],
+  "clash": []
+ },
+ "infuse": {
+  "also": [],
+  "clash": [
+   "teas"
+  ]
+ },
+ "nuke": {
+  "also": [],
+  "clash": [
+   "nuclear words"
+  ]
+ },
+ "chop": {
+  "also": [
+   [
+    "karate words",
+    2
+   ]
+  ],
+  "clash": []
+ },
+ "dice": {
+  "also": [
+   [
+    "game pieces",
+    1
+   ]
+  ],
+  "clash": [
+   "dice games"
+  ]
+ },
+ "slice": {
+  "also": [
+   [
+    "tennis shots",
+    2
+   ],
+   [
+    "golf shots",
+    2
+   ]
+  ],
+  "clash": []
+ },
+ "grate": {
+  "also": [
+   [
+    "fireplace words",
+    1
+   ],
+   [
+    "homophones",
+    1
+   ]
+  ],
+  "clash": []
+ },
+ "cube": {
+  "also": [
+   [
+    "3d shapes",
+    1
+   ]
+  ],
+  "clash": []
+ },
+ "core": {
+  "also": [
+   [
+    "layers of the earth",
+    1
+   ]
+  ],
+  "clash": []
+ },
+ "pit": {
+  "also": [],
+  "clash": [
+   "motor racing"
+  ]
+ },
+ "butterfly": {
+  "also": [
+   [
+    "swimming strokes",
+    1
+   ],
+   [
+    "butterflies and moths",
+    1
+   ],
+   [
+    "insects and bugs",
+    1
+   ],
+   [
+    "things that fly",
+    1
+   ],
+   [
+    "pollinators",
+    1
+   ],
+   [
+    "things with wings",
+    1
+   ]
+  ],
+  "clash": []
+ },
+ "quarter": {
+  "also": [
+   [
+    "coins",
+    1
+   ],
+   [
+    "fractions",
+    1
+   ]
+  ],
+  "clash": []
+ },
+ "wedge": {
+  "also": [
+   [
+    "simple machines",
+    1
+   ],
+   [
+    "golf terms",
+    2
+   ]
+  ],
+  "clash": [
+   "shoes"
+  ]
+ },
+ "score": {
+  "also": [
+   [
+    "scoring words",
+    1
+   ]
+  ],
+  "clash": []
+ },
+ "skin": {
+  "also": [
+   [
+    "body parts",
+    1
+   ],
+   [
+    "senses",
+    1
+   ],
+   [
+    "skin words",
+    1
+   ]
+  ],
+  "clash": []
+ },
+ "pare": {
+  "also": [
+   [
+    "homophones",
+    2
+   ]
+  ],
+  "clash": []
+ },
+ "seed": {
+  "also": [
+   [
+    "plant parts",
+    1
+   ]
+  ],
+  "clash": []
+ },
+ "stone": {
+  "also": [
+   [
+    "imperial units",
+    1
+   ],
+   [
+    "weight units",
+    1
+   ]
+  ],
+  "clash": [
+   "rock types"
+  ]
+ },
+ "hull": {
+  "also": [
+   [
+    "ship parts",
+    1
+   ]
+  ],
+  "clash": []
+ },
+ "shred": {
+  "also": [],
+  "clash": [
+   "skateboard tricks"
+  ]
+ },
+ "fillet": {
+  "also": [],
+  "clash": [
+   "cuts of meat"
+  ]
+ },
+ "supreme": {
+  "also": [],
+  "clash": [
+   "words for good"
+  ]
+ },
+ "shuck": {
+  "also": [],
+  "clash": [
+   "foods with shells"
+  ]
+ },
+ "matchstick": {
+  "also": [],
+  "clash": [
+   "things made of wood"
+  ]
+ },
+ "pot": {
+  "also": [
+   [
+    "containers",
+    2
+   ]
+  ],
+  "clash": [
+   "illegal drugs"
+  ]
+ },
+ "pan": {
+  "also": [
+   [
+    "greek gods",
+    1
+   ]
+  ],
+  "clash": []
+ },
+ "wok": {
+  "also": [
+   [
+    "words from chinese",
+    1
+   ]
+  ],
+  "clash": []
+ },
+ "slow cooker": {
+  "also": [
+   [
+    "small appliances",
+    1
+   ],
+   [
+    "kitchen appliances",
+    2
+   ]
+  ],
+  "clash": []
+ },
+ "pressure cooker": {
+  "also": [
+   [
+    "kitchen appliances",
+    2
+   ]
+  ],
+  "clash": []
+ },
+ "tagine": {
+  "also": [
+   [
+    "stews",
+    1
+   ],
+   [
+    "north african food",
+    1
+   ]
+  ],
+  "clash": []
+ },
+ "rondeau": {
+  "also": [
+   [
+    "poetry forms",
+    4
+   ]
+  ],
+  "clash": []
+ },
+ "clay pot": {
+  "also": [
+   [
+    "african home",
+    2
+   ]
+  ],
+  "clash": []
+ },
+ "kettle": {
+  "also": [
+   [
+    "kitchen appliances",
+    1
+   ],
+   [
+    "small appliances",
+    1
+   ]
+  ],
+  "clash": []
+ },
+ "Instant Pot": {
+  "also": [
+   [
+    "small appliances",
+    2
+   ]
+  ],
+  "clash": []
+ },
+ "Crock-Pot": {
+  "also": [
+   [
+    "small appliances",
+    2
+   ]
+  ],
+  "clash": []
+ },
+ "fondue pot": {
+  "also": [],
+  "clash": [
+   "cheese dishes"
+  ]
+ },
+ "terrine": {
+  "also": [],
+  "clash": [
+   "french food"
+  ]
+ },
+ "comal": {
+  "also": [],
+  "clash": [
+   "mexican food"
+  ]
+ },
+ "tawa": {
+  "also": [],
+  "clash": [
+   "indian food"
+  ]
+ },
+ "karahi": {
+  "also": [],
+  "clash": [
+   "indian food"
+  ]
+ },
+ "donabe": {
+  "also": [],
+  "clash": [
+   "japanese food"
+  ]
+ },
+ "spider": {
+  "also": [
+   [
+    "spiders",
+    1
+   ]
+  ],
+  "clash": []
+ },
+ "mandoline": {
+  "also": [],
+  "clash": [
+   "string instruments"
+  ]
+ },
+ "kitchen scale": {
+  "also": [
+   [
+    "measuring tools",
+    1
+   ]
+  ],
+  "clash": []
+ },
+ "thermometer": {
+  "also": [
+   [
+    "medical equipment",
+    1
+   ],
+   [
+    "weather instruments",
+    1
+   ],
+   [
+    "measuring tools",
+    1
+   ],
+   [
+    "medicine cabinet",
+    1
+   ]
+  ],
+  "clash": []
+ },
+ "mortar": {
+  "also": [
+   [
+    "modern weapons",
+    1
+   ],
+   [
+    "building materials",
+    1
+   ],
+   [
+    "african home",
+    2
+   ]
+  ],
+  "clash": []
+ },
+ "funnel": {
+  "also": [
+   [
+    "lab glassware",
+    1
+   ]
+  ],
+  "clash": []
+ },
+ "nutcracker": {
+  "also": [
+   [
+    "famous ballets",
+    1
+   ],
+   [
+    "christmas",
+    2
+   ]
+  ],
+  "clash": []
+ },
+ "chopsticks": {
+  "also": [
+   [
+    "things that come in pairs",
+    1
+   ],
+   [
+    "things made of wood",
+    1
+   ]
+  ],
+  "clash": []
+ },
+ "twine": {
+  "also": [
+   [
+    "cords and strings",
+    1
+   ]
+  ],
+  "clash": []
+ },
+ "scoop": {
+  "also": [
+   [
+    "journalism words",
+    2
+   ]
+  ],
+  "clash": []
+ },
+ "turner": {
+  "also": [],
+  "clash": [
+   "painters"
+  ]
+ },
+ "wooden spoon": {
+  "also": [
+   [
+    "things made of wood",
+    1
+   ]
+  ],
+  "clash": []
+ },
+ "egg timer": {
+  "also": [],
+  "clash": [
+   "clock types",
+   "things that tick"
+  ]
+ },
+ "kitchen knife": {
+  "also": [
+   [
+    "things that cut",
+    1
+   ]
+  ],
+  "clash": []
+ },
+ "kitchen shears": {
+  "also": [
+   [
+    "things that cut",
+    2
+   ]
+  ],
+  "clash": []
+ },
+ "cleaver": {
+  "also": [
+   [
+    "things that cut",
+    2
+   ]
+  ],
+  "clash": []
+ },
+ "skewer": {
+  "also": [],
+  "clash": [
+   "foods on a stick"
+  ]
+ },
+ "sieve": {
+  "also": [],
+  "clash": [
+   "lab equipment"
+  ]
+ },
+ "pestle": {
+  "also": [],
+  "clash": [
+   "pharmacy"
+  ]
+ },
+ "oven mitt": {
+  "also": [],
+  "clash": [
+   "scarves and gloves"
+  ]
+ },
+ "oven glove": {
+  "also": [],
+  "clash": [
+   "scarves and gloves"
+  ]
+ },
+ "spatula": {
+  "also": [],
+  "clash": [
+   "art materials"
+  ]
+ },
+ "juicer": {
+  "also": [
+   [
+    "small appliances",
+    2
+   ]
+  ],
+  "clash": []
+ },
+ "spice grinder": {
+  "also": [
+   [
+    "small appliances",
+    3
+   ]
+  ],
+  "clash": []
+ },
+ "knead": {
+  "also": [
+   [
+    "silent k words",
+    1
+   ],
+   [
+    "homophones",
+    2
+   ]
+  ],
+  "clash": []
+ },
+ "dough": {
+  "also": [
+   [
+    "money slang",
+    1
+   ],
+   [
+    "ough words",
+    1
+   ]
+  ],
+  "clash": []
+ },
+ "batter": {
+  "also": [
+   [
+    "baseball terms",
+    1
+   ]
+  ],
+  "clash": [
+   "cricket terms"
+  ]
+ },
+ "flour": {
+  "also": [
+   [
+    "homophones",
+    1
+   ],
+   [
+    "baking ingredients",
+    1
+   ]
+  ],
+  "clash": []
+ },
+ "yeast": {
+  "also": [
+   [
+    "microbes",
+    2
+   ],
+   [
+    "baking ingredients",
+    1
+   ]
+  ],
+  "clash": []
+ },
+ "oven": {
+  "also": [
+   [
+    "kitchen appliances",
+    1
+   ],
+   [
+    "hot things",
+    1
+   ]
+  ],
+  "clash": []
+ },
+ "fold": {
+  "also": [
+   [
+    "poker terms",
+    2
+   ]
+  ],
+  "clash": []
+ },
+ "cream": {
+  "also": [
+   [
+    "milk products",
+    1
+   ]
+  ],
+  "clash": [
+   "shades of yellow"
+  ]
+ },
+ "crust": {
+  "also": [
+   [
+    "layers of the earth",
+    1
+   ]
+  ],
+  "clash": []
+ },
+ "icing": {
+  "also": [
+   [
+    "ice hockey terms",
+    2
+   ]
+  ],
+  "clash": []
+ },
+ "glaze": {
+  "also": [
+   [
+    "pottery words",
+    1
+   ]
+  ],
+  "clash": []
+ },
+ "baking soda": {
+  "also": [
+   [
+    "household chemicals",
+    1
+   ],
+   [
+    "baking ingredients",
+    1
+   ]
+  ],
+  "clash": []
+ },
+ "baking powder": {
+  "also": [
+   [
+    "baking ingredients",
+    1
+   ]
+  ],
+  "clash": []
+ },
+ "proof": {
+  "also": [],
+  "clash": [
+   "math terms"
+  ]
+ },
+ "parchment": {
+  "also": [],
+  "clash": [
+   "paper goods",
+   "ancient writing"
+  ]
+ },
+ "caster sugar": {
+  "also": [
+   [
+    "sweeteners",
+    2
+   ],
+   [
+    "baking ingredients",
+    1
+   ]
+  ],
+  "clash": []
+ },
+ "icing sugar": {
+  "also": [
+   [
+    "sweeteners",
+    2
+   ],
+   [
+    "baking ingredients",
+    1
+   ]
+  ],
+  "clash": []
+ },
+ "powdered sugar": {
+  "also": [
+   [
+    "sweeteners",
+    2
+   ],
+   [
+    "baking ingredients",
+    1
+   ]
+  ],
+  "clash": []
+ },
+ "confectioners' sugar": {
+  "also": [
+   [
+    "sweeteners",
+    2
+   ],
+   [
+    "baking ingredients",
+    1
+   ]
+  ],
+  "clash": []
+ },
+ "shortening": {
+  "also": [
+   [
+    "baking ingredients",
+    2
+   ]
+  ],
+  "clash": []
+ },
+ "sprinkles": {
+  "also": [
+   [
+    "toppings",
+    1
+   ]
+  ],
+  "clash": []
+ },
+ "vanilla": {
+  "also": [
+   [
+    "ice cream flavors",
+    1
+   ],
+   [
+    "candle scents",
+    1
+   ],
+   [
+    "perfume notes",
+    1
+   ],
+   [
+    "things that smell good",
+    1
+   ],
+   [
+    "spices",
+    2
+   ]
+  ],
+  "clash": []
+ },
+ "dust": {
+  "also": [
+   [
+    "cleaning verbs",
+    1
+   ]
+  ],
+  "clash": []
+ },
+ "baker": {
+  "also": [
+   [
+    "surnames that are jobs",
+    1
+   ],
+   [
+    "food jobs",
+    1
+   ]
+  ],
+  "clash": []
+ },
+ "stand mixer": {
+  "also": [
+   [
+    "kitchen appliances",
+    2
+   ]
+  ],
+  "clash": []
+ },
+ "hand mixer": {
+  "also": [
+   [
+    "small appliances",
+    2
+   ]
+  ],
+  "clash": []
+ },
+ "docking": {
+  "also": [
+   [
+    "spaceflight words",
+    2
+   ]
+  ],
+  "clash": []
+ },
+ "tier": {
+  "also": [],
+  "clash": [
+   "homophones"
+  ]
+ },
+ "puff pastry": {
+  "also": [
+   [
+    "pastries",
+    1
+   ]
+  ],
+  "clash": []
+ },
+ "choux": {
+  "also": [
+   [
+    "pastries",
+    2
+   ]
+  ],
+  "clash": []
+ },
+ "meringue": {
+  "also": [
+   [
+    "desserts of the world",
+    2
+   ]
+  ],
+  "clash": []
+ },
+ "ganache": {
+  "also": [],
+  "clash": [
+   "chocolates"
+  ]
+ },
+ "self-rising": {
+  "also": [
+   [
+    "flours",
+    1
+   ]
+  ],
+  "clash": []
+ },
+ "all-purpose": {
+  "also": [
+   [
+    "flours",
+    2
+   ]
+  ],
+  "clash": []
+ },
+ "bread flour": {
+  "also": [
+   [
+    "flours",
+    1
+   ]
+  ],
+  "clash": []
+ },
+ "cake flour": {
+  "also": [
+   [
+    "flours",
+    2
+   ]
+  ],
+  "clash": []
+ },
+ "rye flour": {
+  "also": [
+   [
+    "flours",
+    1
+   ]
+  ],
+  "clash": []
+ },
+ "whole wheat": {
+  "also": [
+   [
+    "flours",
+    1
+   ]
+  ],
+  "clash": []
+ },
+ "sourdough": {
+  "also": [
+   [
+    "breads",
+    1
+   ]
+  ],
+  "clash": []
+ },
+ "golden brown": {
+  "also": [
+   [
+    "shades of brown",
+    3
+   ]
+  ],
+  "clash": []
+ },
+ "laminate": {
+  "also": [],
+  "clash": [
+   "building materials"
+  ]
+ },
+ "pâtisserie": {
+  "also": [],
+  "clash": [
+   "bakery"
+  ]
+ },
+ "showstopper": {
+  "also": [],
+  "clash": [
+   "musicals words"
+  ]
+ },
+ "smoking": {
+  "also": [],
+  "clash": [
+   "smoking words"
+  ]
+ },
+ "freezing": {
+  "also": [
+   [
+    "words for cold",
+    1
+   ]
+  ],
+  "clash": []
+ },
+ "chilling": {
+  "also": [
+   [
+    "words for cold",
+    2
+   ]
+  ],
+  "clash": [
+   "scared words"
+  ]
+ },
+ "waxing": {
+  "also": [
+   [
+    "moon phases",
+    1
+   ]
+  ],
+  "clash": []
+ },
+ "potting": {
+  "also": [
+   [
+    "gardening verbs",
+    2
+   ]
+  ],
+  "clash": []
+ },
+ "canning": {
+  "also": [],
+  "clash": [
+   "recycling words"
+  ]
+ },
+ "drying": {
+  "also": [],
+  "clash": [
+   "laundry words"
+  ]
+ },
+ "fermenting": {
+  "also": [],
+  "clash": [
+   "chemical reactions"
+  ]
+ },
+ "pasteurizing": {
+  "also": [],
+  "clash": [
+   "inventions"
+  ]
+ },
+ "confit": {
+  "also": [],
+  "clash": [
+   "french food"
+  ]
+ },
+ "sugar": {
+  "also": [
+   [
+    "sweeteners",
+    1
+   ],
+   [
+    "baking ingredients",
+    1
+   ],
+   [
+    "terms of endearment",
+    2
+   ]
+  ],
+  "clash": []
+ },
+ "rice": {
+  "also": [
+   [
+    "grains",
+    1
+   ],
+   [
+    "pasta, rice and grains",
+    1
+   ]
+  ],
+  "clash": []
+ },
+ "salt": {
+  "also": [
+   [
+    "chemical compounds",
+    2
+   ]
+  ],
+  "clash": [
+   "taste words"
+  ]
+ },
+ "pepper": {
+  "also": [
+   [
+    "spices",
+    1
+   ],
+   [
+    "vegetables",
+    2
+   ]
+  ],
+  "clash": [
+   "chili peppers"
+  ]
+ },
+ "cereal": {
+  "also": [
+   [
+    "breakfast foods",
+    1
+   ],
+   [
+    "words from mythology",
+    2
+   ]
+  ],
+  "clash": []
+ },
+ "oats": {
+  "also": [
+   [
+    "grains",
+    1
+   ],
+   [
+    "breakfast cereals",
+    2
+   ]
+  ],
+  "clash": []
+ },
+ "honey": {
+  "also": [
+   [
+    "sweeteners",
+    1
+   ],
+   [
+    "sticky things",
+    1
+   ],
+   [
+    "sweet foods",
+    1
+   ],
+   [
+    "terms of endearment",
+    1
+   ],
+   [
+    "middle eastern remedies",
+    2
+   ]
+  ],
+  "clash": []
+ },
+ "olive oil": {
+  "also": [
+   [
+    "oils and vinegars",
+    1
+   ]
+  ],
+  "clash": []
+ },
+ "vinegar": {
+  "also": [
+   [
+    "sour foods",
+    1
+   ],
+   [
+    "household chemicals",
+    1
+   ],
+   [
+    "oils and vinegars",
+    1
+   ]
+  ],
+  "clash": []
+ },
+ "peanut butter": {
+  "also": [
+   [
+    "spreads",
+    1
+   ]
+  ],
+  "clash": []
+ },
+ "jam": {
+  "also": [
+   [
+    "spreads",
+    1
+   ]
+  ],
+  "clash": [
+   "traffic words"
+  ]
+ },
+ "ketchup": {
+  "also": [
+   [
+    "sauces and condiments",
+    1
+   ],
+   [
+    "words from chinese",
+    1
+   ]
+  ],
+  "clash": []
+ },
+ "mustard": {
+  "also": [
+   [
+    "sauces and condiments",
+    1
+   ],
+   [
+    "shades of yellow",
+    1
+   ],
+   [
+    "spices",
+    2
+   ]
+  ],
+  "clash": []
+ },
+ "mayonnaise": {
+  "also": [
+   [
+    "sauces and condiments",
+    1
+   ]
+  ],
+  "clash": []
+ },
+ "soy sauce": {
+  "also": [
+   [
+    "asian sauces",
+    1
+   ],
+   [
+    "salty foods",
+    1
+   ],
+   [
+    "umami foods",
+    1
+   ]
+  ],
+  "clash": []
+ },
+ "cornstarch": {
+  "also": [
+   [
+    "baking ingredients",
+    2
+   ]
+  ],
+  "clash": []
+ },
+ "crackers": {
+  "also": [
+   [
+    "snacks",
+    1
+   ],
+   [
+    "crunchy foods",
+    1
+   ]
+  ],
+  "clash": []
+ },
+ "lentils": {
+  "also": [
+   [
+    "beans and pulses",
+    1
+   ]
+  ],
+  "clash": []
+ },
+ "chickpeas": {
+  "also": [
+   [
+    "beans and pulses",
+    1
+   ]
+  ],
+  "clash": []
+ },
+ "noodles": {
+  "also": [],
+  "clash": [
+   "long things"
+  ]
+ },
+ "couscous": {
+  "also": [
+   [
+    "north african food",
+    1
+   ],
+   [
+    "grains",
+    2
+   ]
+  ],
+  "clash": [
+   "pasta shapes"
+  ]
+ },
+ "quinoa": {
+  "also": [
+   [
+    "grains",
+    1
+   ],
+   [
+    "andean crops",
+    1
+   ],
+   [
+    "superfoods",
+    1
+   ],
+   [
+    "words from south american languages",
+    2
+   ]
+  ],
+  "clash": []
+ },
+ "cinnamon": {
+  "also": [
+   [
+    "spices",
+    1
+   ],
+   [
+    "candle scents",
+    1
+   ],
+   [
+    "shades of brown",
+    2
+   ]
+  ],
+  "clash": []
+ },
+ "paprika": {
+  "also": [
+   [
+    "spices",
+    1
+   ]
+  ],
+  "clash": []
+ },
+ "nutmeg": {
+  "also": [
+   [
+    "spices",
+    1
+   ],
+   [
+    "soccer terms",
+    3
+   ]
+  ],
+  "clash": []
+ },
+ "oregano": {
+  "also": [
+   [
+    "herbs",
+    1
+   ]
+  ],
+  "clash": []
+ },
+ "bay leaves": {
+  "also": [
+   [
+    "herbs",
+    1
+   ]
+  ],
+  "clash": []
+ },
+ "cumin": {
+  "also": [
+   [
+    "spices",
+    1
+   ]
+  ],
+  "clash": []
+ },
+ "chili powder": {
+  "also": [
+   [
+    "spices",
+    2
+   ],
+   [
+    "spice blends",
+    2
+   ]
+  ],
+  "clash": []
+ },
+ "cocoa powder": {
+  "also": [
+   [
+    "baking ingredients",
+    1
+   ]
+  ],
+  "clash": []
+ },
+ "molasses": {
+  "also": [
+   [
+    "sweeteners",
+    1
+   ]
+  ],
+  "clash": []
+ },
+ "golden syrup": {
+  "also": [
+   [
+    "sweeteners",
+    2
+   ]
+  ],
+  "clash": []
+ },
+ "brown sugar": {
+  "also": [
+   [
+    "sweeteners",
+    1
+   ],
+   [
+    "baking ingredients",
+    1
+   ]
+  ],
+  "clash": []
+ },
+ "coconut milk": {
+  "also": [],
+  "clash": [
+   "types of milk"
+  ]
+ },
+ "condensed milk": {
+  "also": [
+   [
+    "types of milk",
+    1
+   ]
+  ],
+  "clash": []
+ },
+ "powdered milk": {
+  "also": [
+   [
+    "types of milk",
+    2
+   ]
+  ],
+  "clash": []
+ },
+ "evaporated milk": {
+  "also": [
+   [
+    "types of milk",
+    2
+   ]
+  ],
+  "clash": []
+ },
+ "ramen": {
+  "also": [
+   [
+    "noodle dishes",
+    1
+   ],
+   [
+    "japanese food",
+    1
+   ]
+  ],
+  "clash": []
+ },
+ "raisins": {
+  "also": [
+   [
+    "dried fruits",
+    1
+   ]
+  ],
+  "clash": []
+ },
+ "dried fruit": {
+  "also": [
+   [
+    "dried fruits",
+    1
+   ]
+  ],
+  "clash": []
+ },
+ "popcorn": {
+  "also": [
+   [
+    "snacks",
+    1
+   ],
+   [
+    "things that pop",
+    1
+   ]
+  ],
+  "clash": []
+ },
+ "sardines": {
+  "also": [
+   [
+    "fish to eat",
+    1
+   ]
+  ],
+  "clash": []
+ },
+ "jar": {
+  "also": [
+   [
+    "containers",
+    1
+   ]
+  ],
+  "clash": []
+ },
+ "tin": {
+  "also": [
+   [
+    "metals",
+    1
+   ],
+   [
+    "containers",
+    1
+   ],
+   [
+    "wedding anniversaries",
+    1
+   ]
+  ],
+  "clash": []
+ },
+ "canister": {
+  "also": [
+   [
+    "containers",
+    2
+   ]
+  ],
+  "clash": []
+ },
+ "larder": {
+  "also": [
+   [
+    "english cottage",
+    2
+   ]
+  ],
+  "clash": []
+ },
+ "shelf": {
+  "also": [],
+  "clash": [
+   "ice features"
+  ]
+ },
+ "pickles": {
+  "also": [
+   [
+    "pickles and preserves",
+    1
+   ],
+   [
+    "sour foods",
+    1
+   ]
+  ],
+  "clash": []
+ },
+ "olives": {
+  "also": [
+   [
+    "salty foods",
+    1
+   ]
+  ],
+  "clash": []
+ },
+ "capers": {
+  "also": [],
+  "clash": [
+   "pickles and preserves"
+  ]
+ },
+ "anchovies": {
+  "also": [
+   [
+    "salty foods",
+    1
+   ],
+   [
+    "umami foods",
+    1
+   ],
+   [
+    "fish to eat",
+    2
+   ]
+  ],
+  "clash": []
+ },
+ "sesame oil": {
+  "also": [
+   [
+    "oils and vinegars",
+    1
+   ]
+  ],
+  "clash": []
+ },
+ "fish sauce": {
+  "also": [
+   [
+    "asian sauces",
+    1
+   ],
+   [
+    "pungent foods",
+    1
+   ]
+  ],
+  "clash": []
+ },
+ "hot sauce": {
+  "also": [
+   [
+    "sauces and condiments",
+    1
+   ],
+   [
+    "spicy foods",
+    2
+   ]
+  ],
+  "clash": []
+ },
+ "sriracha": {
+  "also": [
+   [
+    "sauces and condiments",
+    2
+   ],
+   [
+    "asian sauces",
+    2
+   ]
+  ],
+  "clash": []
+ },
+ "Worcestershire": {
+  "also": [
+   [
+    "sauces and condiments",
+    2
+   ],
+   [
+    "english counties",
+    2
+   ]
+  ],
+  "clash": []
+ },
+ "tahini": {
+  "also": [
+   [
+    "middle eastern food",
+    2
+   ]
+  ],
+  "clash": [
+   "spreads"
+  ]
+ },
+ "polenta": {
+  "also": [
+   [
+    "italian food",
+    2
+   ]
+  ],
+  "clash": [
+   "grains"
+  ]
+ },
+ "semolina": {
+  "also": [],
+  "clash": [
+   "flours",
+   "puddings"
+  ]
+ },
+ "bulgur": {
+  "also": [
+   [
+    "grains",
+    2
+   ]
+  ],
+  "clash": []
+ },
+ "barley": {
+  "also": [
+   [
+    "grains",
+    1
+   ]
+  ],
+  "clash": []
+ },
+ "split peas": {
+  "also": [
+   [
+    "beans and pulses",
+    1
+   ]
+  ],
+  "clash": []
+ },
+ "dried beans": {
+  "also": [
+   [
+    "beans and pulses",
+    1
+   ]
+  ],
+  "clash": []
+ },
+ "corn syrup": {
+  "also": [
+   [
+    "sweeteners",
+    2
+   ]
+  ],
+  "clash": []
+ },
+ "agave": {
+  "also": [
+   [
+    "sweeteners",
+    1
+   ],
+   [
+    "cacti and succulents",
+    2
+   ]
+  ],
+  "clash": []
+ },
+ "marshmallows": {
+  "also": [
+   [
+    "campfire foods",
+    1
+   ],
+   [
+    "candy",
+    1
+   ]
+  ],
+  "clash": []
+ },
+ "granola": {
+  "also": [
+   [
+    "breakfast cereals",
+    1
+   ]
+  ],
+  "clash": []
+ },
+ "nuts": {
+  "also": [
+   [
+    "nuts",
+    1
+   ]
+  ],
+  "clash": [
+   "fixings"
+  ]
+ },
+ "spices": {
+  "also": [
+   [
+    "spices",
+    1
+   ]
+  ],
+  "clash": []
+ },
+ "dried herbs": {
+  "also": [
+   [
+    "herbs",
+    2
+   ]
+  ],
+  "clash": []
+ },
+ "canned tuna": {
+  "also": [
+   [
+    "fish to eat",
+    2
+   ]
+  ],
+  "clash": []
+ },
+ "lazy Susan": {
+  "also": [],
+  "clash": [
+   "table setting"
+  ]
+ },
+ "sandwich": {
+  "also": [
+   [
+    "words named after people",
+    1
+   ]
+  ],
+  "clash": []
+ },
+ "juice box": {
+  "also": [],
+  "clash": [
+   "___box"
+  ]
+ },
+ "chips": {
+  "also": [
+   [
+    "snacks",
+    1
+   ],
+   [
+    "salty foods",
+    1
+   ],
+   [
+    "fast food",
+    2
+   ],
+   [
+    "poker terms",
+    2
+   ],
+   [
+    "casino words",
+    2
+   ]
+  ],
+  "clash": []
+ },
+ "cookie": {
+  "also": [
+   [
+    "cookies",
+    1
+   ],
+   [
+    "words from dutch",
+    1
+   ],
+   [
+    "internet words",
+    2
+   ]
+  ],
+  "clash": []
+ },
+ "yogurt": {
+  "also": [
+   [
+    "words from turkish",
+    1
+   ],
+   [
+    "milk products",
+    1
+   ],
+   [
+    "creamy foods",
+    1
+   ]
+  ],
+  "clash": []
+ },
+ "banana": {
+  "also": [
+   [
+    "tropical fruits",
+    1
+   ],
+   [
+    "fruits",
+    1
+   ],
+   [
+    "yellow things",
+    1
+   ]
+  ],
+  "clash": []
+ },
+ "string cheese": {
+  "also": [
+   [
+    "cheeses",
+    2
+   ]
+  ],
+  "clash": []
+ },
+ "granola bar": {
+  "also": [
+   [
+    "snacks",
+    1
+   ],
+   [
+    "healthy snacks",
+    2
+   ]
+  ],
+  "clash": []
+ },
+ "napkin": {
+  "also": [
+   [
+    "paper goods",
+    1
+   ],
+   [
+    "square things",
+    2
+   ]
+  ],
+  "clash": []
+ },
+ "pretzels": {
+  "also": [
+   [
+    "snacks",
+    1
+   ],
+   [
+    "salty foods",
+    1
+   ],
+   [
+    "crunchy foods",
+    1
+   ]
+  ],
+  "clash": [
+   "german food"
+  ]
+ },
+ "muffin": {
+  "also": [
+   [
+    "breads",
+    2
+   ],
+   [
+    "cakes",
+    2
+   ]
+  ],
+  "clash": [
+   "breakfast foods"
+  ]
+ },
+ "grapes": {
+  "also": [
+   [
+    "fruits",
+    1
+   ]
+  ],
+  "clash": [
+   "berries"
+  ]
+ },
+ "hummus": {
+  "also": [
+   [
+    "dips",
+    1
+   ],
+   [
+    "meze",
+    1
+   ],
+   [
+    "creamy foods",
+    1
+   ],
+   [
+    "middle eastern food",
+    1
+   ]
+  ],
+  "clash": []
+ },
+ "wrap": {
+  "also": [
+   [
+    "sandwiches",
+    2
+   ]
+  ],
+  "clash": []
+ },
+ "pasta salad": {
+  "also": [
+   [
+    "salads",
+    1
+   ]
+  ],
+  "clash": []
+ },
+ "fork": {
+  "also": [],
+  "clash": [
+   "river features"
+  ]
+ },
+ "spoon": {
+  "also": [
+   [
+    "things that reflect",
+    2
+   ]
+  ],
+  "clash": []
+ },
+ "bento": {
+  "also": [
+   [
+    "japanese food",
+    1
+   ]
+  ],
+  "clash": []
+ },
+ "onigiri": {
+  "also": [
+   [
+    "japanese food",
+    1
+   ]
+  ],
+  "clash": []
+ },
+ "trail mix": {
+  "also": [
+   [
+    "snacks",
+    1
+   ],
+   [
+    "healthy snacks",
+    2
+   ]
+  ],
+  "clash": [
+   "hiking gear"
+  ]
+ },
+ "crisps": {
+  "also": [
+   [
+    "british english words",
+    1
+   ],
+   [
+    "snacks",
+    1
+   ],
+   [
+    "salty foods",
+    1
+   ]
+  ],
+  "clash": []
+ },
+ "ice pack": {
+  "also": [
+   [
+    "first aid",
+    2
+   ]
+  ],
+  "clash": []
+ },
+ "foil": {
+  "also": [
+   [
+    "fencing terms",
+    1
+   ]
+  ],
+  "clash": []
+ },
+ "boiled egg": {
+  "also": [
+   [
+    "egg dishes",
+    1
+   ]
+  ],
+  "clash": []
+ },
+ "ham sandwich": {
+  "also": [
+   [
+    "sandwiches",
+    1
+   ]
+  ],
+  "clash": []
+ },
+ "cheese sandwich": {
+  "also": [
+   [
+    "sandwiches",
+    1
+   ]
+  ],
+  "clash": []
+ },
+ "tuna sandwich": {
+  "also": [
+   [
+    "sandwiches",
+    1
+   ]
+  ],
+  "clash": []
+ },
+ "flapjack": {
+  "also": [],
+  "clash": [
+   "breakfast foods",
+   "cakes"
+  ]
+ },
+ "pita": {
+  "also": [
+   [
+    "flatbreads",
+    1
+   ],
+   [
+    "breads",
+    1
+   ]
+  ],
+  "clash": []
+ },
+ "Goldfish": {
+  "also": [],
+  "clash": [
+   "pets",
+   "small pets",
+   "freshwater fish"
+  ]
+ },
+ "Oreo": {
+  "also": [
+   [
+    "cookies",
+    1
+   ]
+  ],
+  "clash": []
+ },
+ "Kit Kat": {
+  "also": [
+   [
+    "chocolates",
+    1
+   ],
+   [
+    "candy",
+    1
+   ]
+  ],
+  "clash": []
+ },
+ "Babybel": {
+  "also": [
+   [
+    "cheeses",
+    2
+   ]
+  ],
+  "clash": []
+ },
+ "PB&J": {
+  "also": [
+   [
+    "sandwiches",
+    1
+   ]
+  ],
+  "clash": []
+ },
+ "applesauce": {
+  "also": [],
+  "clash": [
+   "sauces and condiments"
+  ]
+ },
+ "thermos": {
+  "also": [],
+  "clash": [
+   "camping gear"
+  ]
+ },
+ "water bottle": {
+  "also": [
+   [
+    "hiking gear",
+    2
+   ]
+  ],
+  "clash": []
+ },
+ "blanket": {
+  "also": [
+   [
+    "bedding",
+    1
+   ],
+   [
+    "cozy things",
+    1
+   ]
+  ],
+  "clash": []
+ },
+ "wicker": {
+  "also": [
+   [
+    "natural materials",
+    2
+   ]
+  ],
+  "clash": []
+ },
+ "flask": {
+  "also": [
+   [
+    "lab glassware",
+    1
+   ]
+  ],
+  "clash": []
+ },
+ "plate": {
+  "also": [
+   [
+    "round things",
+    1
+   ],
+   [
+    "earthquake words",
+    2
+   ]
+  ],
+  "clash": []
+ },
+ "cup": {
+  "also": [
+   [
+    "trophies and prizes",
+    2
+   ]
+  ],
+  "clash": []
+ },
+ "cheese": {
+  "also": [
+   [
+    "dairy and eggs",
+    1
+   ]
+  ],
+  "clash": []
+ },
+ "potato salad": {
+  "also": [
+   [
+    "salads",
+    1
+   ]
+  ],
+  "clash": []
+ },
+ "coleslaw": {
+  "also": [
+   [
+    "salads",
+    1
+   ]
+  ],
+  "clash": []
+ },
+ "quiche": {
+  "also": [
+   [
+    "savory pies",
+    1
+   ],
+   [
+    "egg dishes",
+    2
+   ],
+   [
+    "french food",
+    2
+   ]
+  ],
+  "clash": []
+ },
+ "scones": {
+  "also": [
+   [
+    "british food",
+    2
+   ]
+  ],
+  "clash": []
+ },
+ "pork pie": {
+  "also": [
+   [
+    "savory pies",
+    1
+   ],
+   [
+    "british food",
+    2
+   ]
+  ],
+  "clash": [
+   "cockney rhyming slang"
+  ]
+ },
+ "sausage roll": {
+  "also": [
+   [
+    "british food",
+    2
+   ]
+  ],
+  "clash": []
+ },
+ "Scotch egg": {
+  "also": [
+   [
+    "british food",
+    1
+   ]
+  ],
+  "clash": []
+ },
+ "baguette": {
+  "also": [
+   [
+    "breads",
+    1
+   ],
+   [
+    "french food",
+    1
+   ]
+  ],
+  "clash": []
+ },
+ "gingham": {
+  "also": [
+   [
+    "cotton fabrics",
+    1
+   ],
+   [
+    "fabric prints",
+    2
+   ]
+  ],
+  "clash": []
+ },
+ "pâté": {
+  "also": [
+   [
+    "spreads",
+    1
+   ],
+   [
+    "french food",
+    2
+   ]
+  ],
+  "clash": []
+ },
+ "salami": {
+  "also": [
+   [
+    "cured meats",
+    1
+   ],
+   [
+    "sausages",
+    1
+   ],
+   [
+    "italian food",
+    2
+   ]
+  ],
+  "clash": []
+ },
+ "chutney": {
+  "also": [
+   [
+    "pickles and preserves",
+    1
+   ],
+   [
+    "sauces and condiments",
+    2
+   ]
+  ],
+  "clash": []
+ },
+ "sunscreen": {
+  "also": [
+   [
+    "beach gear",
+    1
+   ],
+   [
+    "beach vacation",
+    1
+   ],
+   [
+    "toiletries",
+    2
+   ]
+  ],
+  "clash": []
+ },
+ "bread": {
+  "also": [
+   [
+    "money slang",
+    1
+   ]
+  ],
+  "clash": []
+ },
+ "butter": {
+  "also": [
+   [
+    "dairy and eggs",
+    1
+   ],
+   [
+    "things that melt",
+    1
+   ]
+  ],
+  "clash": []
+ },
+ "chocolate": {
+  "also": [
+   [
+    "words from nahuatl",
+    1
+   ]
+  ],
+  "clash": []
+ },
+ "apples": {
+  "also": [
+   [
+    "fruits",
+    1
+   ]
+  ],
+  "clash": []
+ },
+ "cherries": {
+  "also": [
+   [
+    "fruits",
+    1
+   ]
+  ],
+  "clash": []
+ },
+ "strawberries": {
+  "also": [
+   [
+    "berries",
+    1
+   ]
+  ],
+  "clash": []
+ },
+ "cooler": {
+  "also": [],
+  "clash": [
+   "camping gear"
+  ]
+ },
+ "cucumber sandwiches": {
+  "also": [
+   [
+    "sandwiches",
+    2
+   ]
+  ],
+  "clash": []
+ },
+ "finger sandwiches": {
+  "also": [
+   [
+    "sandwiches",
+    2
+   ]
+  ],
+  "clash": []
+ },
+ "bug spray": {
+  "also": [
+   [
+    "camping gear",
+    2
+   ]
+  ],
+  "clash": []
+ },
+ "hamper": {
+  "also": [],
+  "clash": [
+   "christmas"
+  ]
+ },
+ "mugs": {
+  "also": [
+   [
+    "containers",
+    2
+   ]
+  ],
+  "clash": []
+ },
+ "menu": {
+  "also": [
+   [
+    "words from french",
+    1
+   ]
+  ],
+  "clash": []
+ },
+ "waiter": {
+  "also": [
+   [
+    "service jobs",
+    1
+   ],
+   [
+    "food jobs",
+    1
+   ]
+  ],
+  "clash": []
+ },
+ "waitress": {
+  "also": [
+   [
+    "service jobs",
+    1
+   ],
+   [
+    "food jobs",
+    1
+   ]
+  ],
+  "clash": []
+ },
+ "check": {
+  "also": [
+   [
+    "chess terms",
+    1
+   ]
+  ],
+  "clash": []
+ },
+ "bill": {
+  "also": [
+   [
+    "bird body parts",
+    1
+   ],
+   [
+    "short forms of names",
+    1
+   ]
+  ],
+  "clash": [
+   "money words"
+  ]
+ },
+ "tip": {
+  "also": [
+   [
+    "manners and etiquette",
+    1
+   ]
+  ],
+  "clash": []
+ },
+ "order": {
+  "also": [
+   [
+    "classification words",
+    2
+   ]
+  ],
+  "clash": []
+ },
+ "host": {
+  "also": [],
+  "clash": [
+   "religion words"
+  ]
+ },
+ "server": {
+  "also": [
+   [
+    "networking",
+    2
+   ]
+  ],
+  "clash": []
+ },
+ "counter": {
+  "also": [],
+  "clash": [
+   "game pieces"
+  ]
+ },
+ "valet": {
+  "also": [
+   [
+    "hotel staff",
+    1
+   ]
+  ],
+  "clash": []
+ },
+ "canteen": {
+  "also": [
+   [
+    "hiking gear",
+    2
+   ]
+  ],
+  "clash": []
+ },
+ "patio": {
+  "also": [
+   [
+    "words from spanish",
+    1
+   ],
+   [
+    "garden features",
+    2
+   ]
+  ],
+  "clash": []
+ },
+ "delivery": {
+  "also": [
+   [
+    "childbirth words",
+    2
+   ]
+  ],
+  "clash": []
+ },
+ "buffet": {
+  "also": [
+   [
+    "storage furniture",
+    2
+   ]
+  ],
+  "clash": []
+ },
+ "receipt": {
+  "also": [
+   [
+    "in a wallet",
+    1
+   ]
+  ],
+  "clash": []
+ },
+ "high chair": {
+  "also": [
+   [
+    "baby gear",
+    1
+   ]
+  ],
+  "clash": []
+ },
+ "booster seat": {
+  "also": [
+   [
+    "baby gear",
+    2
+   ]
+  ],
+  "clash": []
+ },
+ "dishwasher": {
+  "also": [
+   [
+    "kitchen appliances",
+    1
+   ]
+  ],
+  "clash": []
+ },
+ "tavern": {
+  "also": [],
+  "clash": [
+   "medieval times"
+  ]
+ },
+ "critic": {
+  "also": [],
+  "clash": [
+   "journalism words"
+  ]
+ },
+ "review": {
+  "also": [],
+  "clash": [
+   "journalism words"
+  ]
+ },
+ "course": {
+  "also": [],
+  "clash": [
+   "golf terms"
+  ]
+ },
+ "bistro": {
+  "also": [],
+  "clash": [
+   "french food"
+  ]
+ },
+ "glacier": {
+  "also": [
+   [
+    "ice features",
+    1
+   ],
+   [
+    "cold things",
+    1
+   ]
+  ],
+  "clash": []
+ },
+ "apprentice": {
+  "also": [
+   [
+    "words for beginner",
+    1
+   ]
+  ],
+  "clash": []
+ },
+ "butcher": {
+  "also": [
+   [
+    "food jobs",
+    1
+   ]
+  ],
+  "clash": []
+ },
+ "potager": {
+  "also": [],
+  "clash": [
+   "garden styles"
+  ]
+ },
+ "communard": {
+  "also": [],
+  "clash": [
+   "french revolution"
+  ]
+ },
+ "scullery maid": {
+  "also": [],
+  "clash": [
+   "old-time jobs"
+  ]
+ },
+ "boulanger": {
+  "also": [],
+  "clash": [
+   "bakery"
+  ]
+ },
+ "sorbet": {
+  "also": [
+   [
+    "frozen desserts",
+    1
+   ]
+  ],
+  "clash": []
+ },
+ "antipasto": {
+  "also": [
+   [
+    "italian food",
+    1
+   ]
+  ],
+  "clash": []
+ },
+ "antipasti": {
+  "also": [
+   [
+    "italian food",
+    1
+   ]
+  ],
+  "clash": []
+ },
+ "pudding": {
+  "also": [
+   [
+    "puddings",
+    1
+   ],
+   [
+    "british english words",
+    2
+   ]
+  ],
+  "clash": []
+ },
+ "dolce": {
+  "also": [
+   [
+    "music terms",
+    3
+   ]
+  ],
+  "clash": []
+ },
+ "intermezzo": {
+  "also": [],
+  "clash": [
+   "classical forms",
+   "music terms"
+  ]
+ },
+ "relevé": {
+  "also": [
+   [
+    "ballet terms",
+    2
+   ]
+  ],
+  "clash": []
+ },
+ "savory": {
+  "also": [
+   [
+    "herbs",
+    3
+   ]
+  ],
+  "clash": []
+ },
+ "afters": {
+  "also": [],
+  "clash": [
+   "british slang"
+  ]
+ },
+ "hors d'oeuvre": {
+  "also": [
+   [
+    "french phrases in english",
+    2
+   ]
+  ],
+  "clash": []
+ },
+ "canapé": {
+  "also": [],
+  "clash": [
+   "seating"
+  ]
+ },
+ "cheese board": {
+  "also": [],
+  "clash": [
+   "cheese dishes"
+  ]
+ },
+ "tiffin": {
+  "also": [
+   [
+    "indian home",
+    1
+   ]
+  ],
+  "clash": []
+ },
+ "brinner": {
+  "also": [
+   [
+    "portmanteau words",
+    1
+   ]
+  ],
+  "clash": []
+ },
+ "brunch": {
+  "also": [
+   [
+    "portmanteau words",
+    1
+   ]
+  ],
+  "clash": []
+ },
+ "linner": {
+  "also": [
+   [
+    "portmanteau words",
+    3
+   ]
+  ],
+  "clash": []
+ },
+ "iftar": {
+  "also": [
+   [
+    "ramadan and eid",
+    1
+   ],
+   [
+    "islam words",
+    2
+   ]
+  ],
+  "clash": []
+ },
+ "suhoor": {
+  "also": [
+   [
+    "ramadan and eid",
+    2
+   ]
+  ],
+  "clash": []
+ },
+ "sahur": {
+  "also": [
+   [
+    "ramadan and eid",
+    3
+   ]
+  ],
+  "clash": []
+ },
+ "smoko": {
+  "also": [
+   [
+    "australian slang",
+    2
+   ]
+  ],
+  "clash": []
+ },
+ "cream tea": {
+  "also": [
+   [
+    "british food",
+    2
+   ]
+  ],
+  "clash": []
+ },
+ "afternoon tea": {
+  "also": [
+   [
+    "british food",
+    2
+   ]
+  ],
+  "clash": []
+ },
+ "snack": {
+  "also": [],
+  "clash": [
+   "snacks"
+  ]
+ },
+ "knife": {
+  "also": [
+   [
+    "things that cut",
+    1
+   ],
+   [
+    "silent k words",
+    1
+   ]
+  ],
+  "clash": []
+ },
+ "teaspoon": {
+  "also": [
+   [
+    "volume units",
+    1
+   ]
+  ],
+  "clash": []
+ },
+ "candlestick": {
+  "also": [
+   [
+    "home decor",
+    1
+   ],
+   [
+    "candle words",
+    2
+   ]
+  ],
+  "clash": []
+ },
+ "candle": {
+  "also": [
+   [
+    "candle words",
+    1
+   ]
+  ],
+  "clash": []
+ },
+ "charger": {
+  "also": [
+   [
+    "phone words",
+    2
+   ]
+  ],
+  "clash": []
+ },
+ "coupe": {
+  "also": [
+   [
+    "car types",
+    1
+   ]
+  ],
+  "clash": []
+ },
+ "pitcher": {
+  "also": [
+   [
+    "baseball terms",
+    1
+   ]
+  ],
+  "clash": []
+ },
+ "bowl": {
+  "also": [
+   [
+    "containers",
+    2
+   ]
+  ],
+  "clash": [
+   "bowling terms"
+  ]
+ },
+ "saucer": {
+  "also": [],
+  "clash": [
+   "things that fly"
+  ]
+ },
+ "coaster": {
+  "also": [],
+  "clash": [
+   "fairground rides"
+  ]
+ },
+ "tumbler": {
+  "also": [],
+  "clash": [
+   "gymnastics"
+  ]
+ },
+ "champagne flute": {
+  "also": [
+   [
+    "things made of glass",
+    2
+   ]
+  ],
+  "clash": []
+ },
+ "goblet": {
+  "also": [
+   [
+    "things made of glass",
+    2
+   ]
+  ],
+  "clash": []
+ },
+ "egg cup": {
+  "also": [],
+  "clash": [
+   "containers"
+  ]
+ },
+ "stool": {
+  "also": [
+   [
+    "seating",
+    1
+   ]
+  ],
+  "clash": [
+   "medical tests"
+  ]
+ },
+ "burger": {
+  "also": [
+   [
+    "fast food",
+    1
+   ]
+  ],
+  "clash": []
+ },
+ "fries": {
+  "also": [
+   [
+    "fast food",
+    1
+   ],
+   [
+    "potato dishes",
+    1
+   ]
+  ],
+  "clash": []
+ },
+ "pancakes": {
+  "also": [
+   [
+    "breakfast foods",
+    1
+   ]
+  ],
+  "clash": []
+ },
+ "waffles": {
+  "also": [
+   [
+    "breakfast foods",
+    1
+   ]
+  ],
+  "clash": []
+ },
+ "hash browns": {
+  "also": [
+   [
+    "potato dishes",
+    1
+   ],
+   [
+    "breakfast foods",
+    1
+   ]
+  ],
+  "clash": []
+ },
+ "bacon": {
+  "also": [
+   [
+    "cured meats",
+    1
+   ],
+   [
+    "breakfast foods",
+    1
+   ],
+   [
+    "salty foods",
+    1
+   ]
+  ],
+  "clash": []
+ },
+ "eggs": {
+  "also": [
+   [
+    "dairy and eggs",
+    1
+   ]
+  ],
+  "clash": []
+ },
+ "chrome": {
+  "also": [
+   [
+    "shiny things",
+    2
+   ]
+  ],
+  "clash": [
+   "metals"
+  ]
+ },
+ "malt": {
+  "also": [],
+  "clash": [
+   "grains"
+  ]
+ },
+ "float": {
+  "also": [],
+  "clash": [
+   "things that float"
+  ]
+ },
+ "chili": {
+  "also": [
+   [
+    "stews",
+    1
+   ],
+   [
+    "spicy foods",
+    1
+   ],
+   [
+    "chili peppers",
+    1
+   ]
+  ],
+  "clash": []
+ },
+ "grilled cheese": {
+  "also": [
+   [
+    "cheese dishes",
+    1
+   ],
+   [
+    "sandwiches",
+    1
+   ]
+  ],
+  "clash": []
+ },
+ "patty melt": {
+  "also": [
+   [
+    "sandwiches",
+    2
+   ]
+  ],
+  "clash": []
+ },
+ "Reuben": {
+  "also": [
+   [
+    "sandwiches",
+    2
+   ]
+  ],
+  "clash": [
+   "biblical names"
+  ]
+ },
+ "club sandwich": {
+  "also": [
+   [
+    "sandwiches",
+    1
+   ]
+  ],
+  "clash": []
+ },
+ "BLT": {
+  "also": [
+   [
+    "sandwiches",
+    1
+   ]
+  ],
+  "clash": []
+ },
+ "sundae": {
+  "also": [
+   [
+    "frozen desserts",
+    1
+   ],
+   [
+    "homophones",
+    2
+   ]
+  ],
+  "clash": []
+ },
+ "pickle": {
+  "also": [
+   [
+    "pickles and preserves",
+    1
+   ],
+   [
+    "sour foods",
+    1
+   ]
+  ],
+  "clash": []
+ },
+ "tuna melt": {
+  "also": [
+   [
+    "sandwiches",
+    2
+   ]
+  ],
+  "clash": []
+ },
+ "hot dog": {
+  "also": [
+   [
+    "fast food",
+    1
+   ]
+  ],
+  "clash": [
+   "sausages"
+  ]
+ },
+ "cheeseburger": {
+  "also": [
+   [
+    "fast food",
+    1
+   ]
+  ],
+  "clash": []
+ },
+ "chili dog": {
+  "also": [
+   [
+    "fast food",
+    2
+   ]
+  ],
+  "clash": []
+ },
+ "French toast": {
+  "also": [
+   [
+    "breakfast foods",
+    1
+   ]
+  ],
+  "clash": []
+ },
+ "omelet": {
+  "also": [
+   [
+    "egg dishes",
+    1
+   ],
+   [
+    "breakfast foods",
+    1
+   ]
+  ],
+  "clash": []
+ },
+ "home fries": {
+  "also": [
+   [
+    "potato dishes",
+    2
+   ]
+  ],
+  "clash": []
+ },
+ "apple pie": {
+  "also": [
+   [
+    "pies and tarts",
+    1
+   ],
+   [
+    "candle scents",
+    2
+   ]
+  ],
+  "clash": []
+ },
+ "cherry pie": {
+  "also": [
+   [
+    "pies and tarts",
+    1
+   ]
+  ],
+  "clash": []
+ },
+ "vinyl": {
+  "also": [
+   [
+    "plastics",
+    1
+   ]
+  ],
+  "clash": [
+   "music words"
+  ]
+ },
+ "hash": {
+  "also": [],
+  "clash": [
+   "keyboard symbols"
+  ]
+ },
+ "jukebox": {
+  "also": [],
+  "clash": [
+   "arcade words"
+  ]
+ },
+ "corned beef": {
+  "also": [
+   [
+    "cured meats",
+    2
+   ]
+  ],
+  "clash": []
+ },
+ "sunny-side up": {
+  "also": [
+   [
+    "egg dishes",
+    2
+   ]
+  ],
+  "clash": []
+ },
+ "mac and cheese": {
+  "also": [
+   [
+    "cheese dishes",
+    1
+   ],
+   [
+    "pasta dishes",
+    1
+   ]
+  ],
+  "clash": []
+ },
+ "Denver omelet": {
+  "also": [
+   [
+    "egg dishes",
+    2
+   ]
+  ],
+  "clash": []
+ },
+ "banana split": {
+  "also": [
+   [
+    "frozen desserts",
+    2
+   ]
+  ],
+  "clash": []
+ },
+ "cotton candy": {
+  "also": [
+   [
+    "candy",
+    1
+   ]
+  ],
+  "clash": []
+ },
+ "candy floss": {
+  "also": [
+   [
+    "candy",
+    1
+   ]
+  ],
+  "clash": []
+ },
+ "snow cone": {
+  "also": [
+   [
+    "frozen desserts",
+    2
+   ]
+  ],
+  "clash": []
+ },
+ "fudge": {
+  "also": [
+   [
+    "candy",
+    1
+   ],
+   [
+    "polite swears",
+    2
+   ]
+  ],
+  "clash": []
+ },
+ "pretzel": {
+  "also": [
+   [
+    "german food",
+    1
+   ],
+   [
+    "snacks",
+    1
+   ]
+  ],
+  "clash": []
+ },
+ "bratwurst": {
+  "also": [
+   [
+    "sausages",
+    1
+   ],
+   [
+    "german food",
+    2
+   ]
+  ],
+  "clash": []
+ },
+ "waffle": {
+  "also": [
+   [
+    "breakfast foods",
+    1
+   ],
+   [
+    "square things",
+    1
+   ]
+  ],
+  "clash": []
+ },
+ "ice cream": {
+  "also": [
+   [
+    "cold things",
+    1
+   ],
+   [
+    "things that melt",
+    1
+   ]
+  ],
+  "clash": []
+ },
+ "Italian sausage": {
+  "also": [
+   [
+    "sausages",
+    2
+   ]
+  ],
+  "clash": []
+ },
+ "gyro": {
+  "also": [
+   [
+    "greek food",
+    1
+   ],
+   [
+    "street food",
+    2
+   ]
+  ],
+  "clash": []
+ },
+ "kebab": {
+  "also": [
+   [
+    "words from turkish",
+    1
+   ],
+   [
+    "turkish food",
+    1
+   ],
+   [
+    "street food",
+    1
+   ],
+   [
+    "fast food",
+    2
+   ]
+  ],
+  "clash": []
+ },
+ "shaved ice": {
+  "also": [
+   [
+    "frozen desserts",
+    2
+   ]
+  ],
+  "clash": []
+ },
+ "peanut brittle": {
+  "also": [
+   [
+    "candy",
+    1
+   ]
+  ],
+  "clash": []
+ },
+ "gingerbread": {
+  "also": [
+   [
+    "cookies",
+    1
+   ],
+   [
+    "christmas",
+    1
+   ]
+  ],
+  "clash": []
+ },
+ "crêpe": {
+  "also": [
+   [
+    "french food",
+    1
+   ]
+  ],
+  "clash": []
+ },
+ "rock candy": {
+  "also": [
+   [
+    "candy",
+    1
+   ]
+  ],
+  "clash": []
+ },
+ "soft serve": {
+  "also": [
+   [
+    "frozen desserts",
+    2
+   ]
+  ],
+  "clash": []
+ },
+ "corn on the cob": {
+  "also": [
+   [
+    "barbecue foods",
+    1
+   ]
+  ],
+  "clash": []
+ },
+ "mini doughnuts": {
+  "also": [],
+  "clash": [
+   "pastries"
+  ]
+ },
+ "kettle corn": {
+  "also": [
+   [
+    "snacks",
+    2
+   ]
+  ],
+  "clash": []
+ },
+ "caramel corn": {
+  "also": [
+   [
+    "snacks",
+    2
+   ]
+  ],
+  "clash": []
+ },
+ "oliebollen": {
+  "also": [],
+  "clash": [
+   "desserts of the world"
+  ]
+ },
+ "poffertjes": {
+  "also": [],
+  "clash": [
+   "breakfast foods"
+  ]
+ },
+ "turkey leg": {
+  "also": [],
+  "clash": [
+   "poultry"
+  ]
+ },
+ "lassi": {
+  "also": [
+   [
+    "indian food",
+    2
+   ]
+  ],
+  "clash": []
+ },
+ "mango lassi": {
+  "also": [
+   [
+    "indian food",
+    2
+   ]
+  ],
+  "clash": []
+ },
+ "Yakult": {
+  "also": [],
+  "clash": [
+   "fermented foods"
+  ]
+ },
+ "sikhye": {
+  "also": [
+   [
+    "korean food",
+    3
+   ]
+  ],
+  "clash": []
+ },
+ "thandai": {
+  "also": [
+   [
+    "holi",
+    2
+   ]
+  ],
+  "clash": []
+ },
+ "falooda": {
+  "also": [],
+  "clash": [
+   "indian sweets",
+   "frozen desserts"
+  ]
+ },
+ "cendol": {
+  "also": [],
+  "clash": [
+   "desserts of the world"
+  ]
+ },
+ "ayran": {
+  "also": [
+   [
+    "turkish drinks",
+    1
+   ],
+   [
+    "turkish food",
+    1
+   ]
+  ],
+  "clash": []
+ },
+ "doogh": {
+  "also": [
+   [
+    "persian food",
+    2
+   ]
+  ],
+  "clash": []
+ },
+ "sharbat": {
+  "also": [],
+  "clash": [
+   "turkish drinks"
+  ]
+ },
+ "grass jelly": {
+  "also": [],
+  "clash": [
+   "desserts of the world"
+  ]
+ },
+ "kimchi": {
+  "also": [
+   [
+    "korean food",
+    1
+   ],
+   [
+    "spicy dishes of asia",
+    1
+   ],
+   [
+    "pungent foods",
+    1
+   ]
+  ],
+  "clash": []
+ },
+ "miso": {
+  "also": [
+   [
+    "japanese food",
+    1
+   ],
+   [
+    "umami foods",
+    1
+   ]
+  ],
+  "clash": []
+ },
+ "sour cream": {
+  "also": [
+   [
+    "milk products",
+    1
+   ]
+  ],
+  "clash": []
+ },
+ "labneh": {
+  "also": [
+   [
+    "middle eastern food",
+    3
+   ],
+   [
+    "soft cheeses",
+    3
+   ]
+  ],
+  "clash": []
+ },
+ "skyr": {
+  "also": [
+   [
+    "milk products",
+    3
+   ]
+  ],
+  "clash": []
+ },
+ "injera": {
+  "also": [
+   [
+    "flatbreads",
+    1
+   ],
+   [
+    "east african food",
+    1
+   ]
+  ],
+  "clash": []
+ },
+ "dosa": {
+  "also": [
+   [
+    "indian food",
+    2
+   ]
+  ],
+  "clash": [
+   "flatbreads"
+  ]
+ },
+ "idli": {
+  "also": [
+   [
+    "indian food",
+    2
+   ]
+  ],
+  "clash": []
+ },
+ "garum": {
+  "also": [],
+  "clash": [
+   "roman life"
+  ]
+ },
+ "doenjang": {
+  "also": [
+   [
+    "korean food",
+    3
+   ]
+  ],
+  "clash": []
+ },
+ "gochujang": {
+  "also": [
+   [
+    "asian sauces",
+    2
+   ],
+   [
+    "korean food",
+    2
+   ]
+  ],
+  "clash": []
+ },
+ "surströmming": {
+  "also": [],
+  "clash": [
+   "smelly things",
+   "things that smell bad"
+  ]
+ },
+ "poi": {
+  "also": [
+   [
+    "pacific islands food",
+    2
+   ]
+  ],
+  "clash": []
+ },
+ "quark": {
+  "also": [
+   [
+    "particle physics",
+    2
+   ],
+   [
+    "soft cheeses",
+    3
+   ]
+  ],
+  "clash": []
+ },
+ "tarhana": {
+  "also": [
+   [
+    "turkish food",
+    3
+   ]
+  ],
+  "clash": []
+ },
+ "natto": {
+  "also": [
+   [
+    "japanese food",
+    2
+   ]
+  ],
+  "clash": []
+ },
+ "stinky tofu": {
+  "also": [],
+  "clash": [
+   "smelly things",
+   "street food"
+  ]
+ },
+ "century egg": {
+  "also": [
+   [
+    "chinese food",
+    2
+   ]
+  ],
+  "clash": []
+ },
+ "sauerkraut": {
+  "also": [
+   [
+    "german food",
+    1
+   ],
+   [
+    "sour foods",
+    1
+   ]
+  ],
+  "clash": []
+ },
+ "atchara": {
+  "also": [
+   [
+    "filipino food",
+    3
+   ]
+  ],
+  "clash": []
+ },
+ "shrikhand": {
+  "also": [
+   [
+    "indian sweets",
+    3
+   ]
+  ],
+  "clash": []
+ },
+ "sujuk": {
+  "also": [
+   [
+    "sausages",
+    3
+   ]
+  ],
+  "clash": [
+   "turkish breakfast"
+  ]
+ },
+ "crème fraîche": {
+  "also": [
+   [
+    "milk products",
+    2
+   ]
+  ],
+  "clash": []
+ },
+ "dahi": {
+  "also": [],
+  "clash": [
+   "indian food"
+  ]
+ },
+ "appam": {
+  "also": [],
+  "clash": [
+   "flatbreads"
+  ]
+ },
+ "kenkey": {
+  "also": [],
+  "clash": [
+   "west african food"
+  ]
+ },
+ "tempura": {
+  "also": [
+   [
+    "japanese food",
+    1
+   ]
+  ],
+  "clash": []
+ },
+ "falafel": {
+  "also": [
+   [
+    "meze",
+    1
+   ],
+   [
+    "middle eastern food",
+    1
+   ],
+   [
+    "street food",
+    1
+   ]
+  ],
+  "clash": []
+ },
+ "French fries": {
+  "also": [
+   [
+    "fast food",
+    1
+   ],
+   [
+    "potato dishes",
+    1
+   ]
+  ],
+  "clash": []
+ },
+ "spring roll": {
+  "also": [],
+  "clash": [
+   "chinese food"
+  ]
+ },
+ "egg roll": {
+  "also": [],
+  "clash": [
+   "chinese food"
+  ]
+ },
+ "samosa": {
+  "also": [
+   [
+    "indian food",
+    1
+   ],
+   [
+    "street food",
+    2
+   ]
+  ],
+  "clash": []
+ },
+ "pakora": {
+  "also": [
+   [
+    "indian food",
+    1
+   ]
+  ],
+  "clash": []
+ },
+ "onion bhaji": {
+  "also": [
+   [
+    "indian food",
+    2
+   ]
+  ],
+  "clash": []
+ },
+ "arancini": {
+  "also": [
+   [
+    "italian food",
+    1
+   ]
+  ],
+  "clash": []
+ },
+ "calamari": {
+  "also": [
+   [
+    "seafood dishes",
+    1
+   ]
+  ],
+  "clash": []
+ },
+ "chicken nuggets": {
+  "also": [
+   [
+    "fast food",
+    1
+   ]
+  ],
+  "clash": []
+ },
+ "tortilla chips": {
+  "also": [
+   [
+    "snacks",
+    1
+   ]
+  ],
+  "clash": []
+ },
+ "potato chips": {
+  "also": [
+   [
+    "snacks",
+    1
+   ],
+   [
+    "salty foods",
+    1
+   ]
+  ],
+  "clash": []
+ },
+ "tonkatsu": {
+  "also": [
+   [
+    "japanese food",
+    2
+   ]
+  ],
+  "clash": []
+ },
+ "katsu": {
+  "also": [
+   [
+    "japanese food",
+    2
+   ]
+  ],
+  "clash": []
+ },
+ "karaage": {
+  "also": [
+   [
+    "japanese food",
+    2
+   ]
+  ],
+  "clash": []
+ },
+ "sufganiyah": {
+  "also": [
+   [
+    "hanukkah",
+    2
+   ]
+  ],
+  "clash": []
+ },
+ "jalebi": {
+  "also": [
+   [
+    "indian sweets",
+    1
+   ]
+  ],
+  "clash": []
+ },
+ "gulab jamun": {
+  "also": [
+   [
+    "indian sweets",
+    1
+   ]
+  ],
+  "clash": []
+ },
+ "medu vada": {
+  "also": [
+   [
+    "indian food",
+    3
+   ]
+  ],
+  "clash": []
+ },
+ "vada": {
+  "also": [
+   [
+    "indian food",
+    3
+   ]
+  ],
+  "clash": []
+ },
+ "mandazi": {
+  "also": [
+   [
+    "east african food",
+    2
+   ]
+  ],
+  "clash": []
+ },
+ "puff-puff": {
+  "also": [
+   [
+    "west african food",
+    2
+   ]
+  ],
+  "clash": []
+ },
+ "akara": {
+  "also": [
+   [
+    "west african food",
+    3
+   ]
+  ],
+  "clash": []
+ },
+ "koeksister": {
+  "also": [
+   [
+    "south african food",
+    3
+   ]
+  ],
+  "clash": []
+ },
+ "tater tots": {
+  "also": [
+   [
+    "potato dishes",
+    1
+   ]
+  ],
+  "clash": []
+ },
+ "fish fingers": {
+  "also": [],
+  "clash": [
+   "fish to eat"
+  ]
+ },
+ "buffalo wings": {
+  "also": [
+   [
+    "barbecue foods",
+    2
+   ]
+  ],
+  "clash": []
+ },
+ "coxinha": {
+  "also": [
+   [
+    "brazilian food",
+    1
+   ]
+  ],
+  "clash": []
+ },
+ "fish and chips": {
+  "also": [
+   [
+    "british food",
+    1
+   ],
+   [
+    "seafood dishes",
+    1
+   ]
+  ],
+  "clash": []
+ },
+ "chicken Kiev": {
+  "also": [],
+  "clash": [
+   "old city names"
+  ]
+ },
+ "puri": {
+  "also": [],
+  "clash": [
+   "flatbreads"
+  ]
+ },
+ "bhatura": {
+  "also": [],
+  "clash": [
+   "flatbreads"
+  ]
+ },
+ "ravioli": {
+  "also": [
+   [
+    "pasta shapes",
+    1
+   ],
+   [
+    "italian food",
+    1
+   ]
+  ],
+  "clash": []
+ },
+ "empanada": {
+  "also": [
+   [
+    "savory pies",
+    1
+   ],
+   [
+    "argentinian food",
+    1
+   ]
+  ],
+  "clash": []
+ },
+ "dolma": {
+  "also": [
+   [
+    "meze",
+    1
+   ],
+   [
+    "turkish food",
+    1
+   ],
+   [
+    "middle eastern food",
+    2
+   ]
+  ],
+  "clash": []
+ },
+ "pierogi": {
+  "also": [
+   [
+    "eastern european food",
+    1
+   ],
+   [
+    "dumplings",
+    1
+   ]
+  ],
+  "clash": []
+ },
+ "dumpling": {
+  "also": [
+   [
+    "dumplings",
+    1
+   ]
+  ],
+  "clash": []
+ },
+ "tortellini": {
+  "also": [
+   [
+    "pasta shapes",
+    1
+   ]
+  ],
+  "clash": []
+ },
+ "cannelloni": {
+  "also": [
+   [
+    "pasta shapes",
+    1
+   ]
+  ],
+  "clash": []
+ },
+ "manicotti": {
+  "also": [
+   [
+    "pasta shapes",
+    2
+   ]
+  ],
+  "clash": []
+ },
+ "calzone": {
+  "also": [
+   [
+    "pizza styles",
+    1
+   ]
+  ],
+  "clash": []
+ },
+ "pasty": {
+  "also": [
+   [
+    "savory pies",
+    1
+   ],
+   [
+    "british food",
+    2
+   ]
+  ],
+  "clash": []
+ },
+ "gyoza": {
+  "also": [
+   [
+    "dumplings",
+    1
+   ],
+   [
+    "japanese food",
+    2
+   ]
+  ],
+  "clash": []
+ },
+ "wonton": {
+  "also": [
+   [
+    "dumplings",
+    1
+   ],
+   [
+    "chinese food",
+    1
+   ]
+  ],
+  "clash": []
+ },
+ "bao": {
+  "also": [
+   [
+    "chinese food",
+    2
+   ]
+  ],
+  "clash": []
+ },
+ "baozi": {
+  "also": [
+   [
+    "dumplings",
+    2
+   ]
+  ],
+  "clash": []
+ },
+ "xiaolongbao": {
+  "also": [
+   [
+    "dumplings",
+    2
+   ]
+  ],
+  "clash": []
+ },
+ "momo": {
+  "also": [
+   [
+    "dumplings",
+    2
+   ]
+  ],
+  "clash": []
+ },
+ "pelmeni": {
+  "also": [
+   [
+    "dumplings",
+    2
+   ],
+   [
+    "eastern european food",
+    2
+   ]
+  ],
+  "clash": []
+ },
+ "vareniki": {
+  "also": [
+   [
+    "dumplings",
+    3
+   ]
+  ],
+  "clash": []
+ },
+ "manti": {
+  "also": [
+   [
+    "dumplings",
+    2
+   ],
+   [
+    "turkish food",
+    2
+   ]
+  ],
+  "clash": []
+ },
+ "khinkali": {
+  "also": [
+   [
+    "dumplings",
+    3
+   ]
+  ],
+  "clash": []
+ },
+ "kibbeh": {
+  "also": [
+   [
+    "middle eastern food",
+    2
+   ],
+   [
+    "meze",
+    3
+   ]
+  ],
+  "clash": []
+ },
+ "gołąbki": {
+  "also": [
+   [
+    "eastern european food",
+    3
+   ]
+  ],
+  "clash": []
+ },
+ "sarma": {
+  "also": [
+   [
+    "turkish food",
+    3
+   ]
+  ],
+  "clash": []
+ },
+ "arepa": {
+  "also": [
+   [
+    "flatbreads",
+    2
+   ]
+  ],
+  "clash": []
+ },
+ "turducken": {
+  "also": [
+   [
+    "thanksgiving",
+    2
+   ]
+  ],
+  "clash": []
+ },
+ "cannoli": {
+  "also": [
+   [
+    "pastries",
+    2
+   ],
+   [
+    "italian food",
+    1
+   ]
+  ],
+  "clash": []
+ },
+ "éclair": {
+  "also": [
+   [
+    "french pastries",
+    1
+   ],
+   [
+    "pastries",
+    1
+   ]
+  ],
+  "clash": []
+ },
+ "cream puff": {
+  "also": [
+   [
+    "pastries",
+    1
+   ]
+  ],
+  "clash": []
+ },
+ "profiterole": {
+  "also": [
+   [
+    "french pastries",
+    2
+   ]
+  ],
+  "clash": []
+ },
+ "inari": {
+  "also": [
+   [
+    "sushi types",
+    2
+   ],
+   [
+    "shinto kami",
+    2
+   ]
+  ],
+  "clash": []
+ },
+ "börek": {
+  "also": [
+   [
+    "savory pies",
+    2
+   ],
+   [
+    "turkish food",
+    1
+   ]
+  ],
+  "clash": []
+ },
+ "gözleme": {
+  "also": [
+   [
+    "turkish breakfast",
+    2
+   ],
+   [
+    "turkish food",
+    2
+   ]
+  ],
+  "clash": []
+ },
+ "spanakopita": {
+  "also": [
+   [
+    "greek food",
+    1
+   ]
+  ],
+  "clash": []
+ },
+ "Cornish pasty": {
+  "also": [
+   [
+    "savory pies",
+    1
+   ],
+   [
+    "british food",
+    2
+   ]
+  ],
+  "clash": []
+ },
+ "haggis": {
+  "also": [
+   [
+    "british food",
+    2
+   ]
+  ],
+  "clash": []
+ },
+ "agnolotti": {
+  "also": [
+   [
+    "pasta shapes",
+    3
+   ]
+  ],
+  "clash": []
+ },
+ "cappelletti": {
+  "also": [
+   [
+    "pasta shapes",
+    3
+   ]
+  ],
+  "clash": []
+ },
+ "mezzelune": {
+  "also": [
+   [
+    "pasta shapes",
+    4
+   ]
+  ],
+  "clash": []
+ },
+ "dim sum": {
+  "also": [
+   [
+    "chinese food",
+    1
+   ]
+  ],
+  "clash": []
+ },
+ "stuffed turkey": {
+  "also": [
+   [
+    "thanksgiving",
+    1
+   ],
+   [
+    "christmas",
+    2
+   ]
+  ],
+  "clash": []
+ },
+ "dolmades": {
+  "also": [
+   [
+    "greek food",
+    1
+   ]
+  ],
+  "clash": []
+ },
+ "Pop-Tart": {
+  "also": [
+   [
+    "breakfast foods",
+    2
+   ]
+  ],
+  "clash": []
+ },
+ "stromboli": {
+  "also": [
+   [
+    "famous volcanoes",
+    3
+   ]
+  ],
+  "clash": []
+ },
+ "potsticker": {
+  "also": [
+   [
+    "dumplings",
+    1
+   ]
+  ],
+  "clash": []
+ },
+ "mandu": {
+  "also": [
+   [
+    "dumplings",
+    2
+   ],
+   [
+    "korean food",
+    2
+   ]
+  ],
+  "clash": []
+ },
+ "papa rellena": {
+  "also": [
+   [
+    "peruvian food",
+    3
+   ]
+  ],
+  "clash": []
+ },
+ "beef Wellington": {
+  "also": [
+   [
+    "british food",
+    2
+   ]
+  ],
+  "clash": []
+ },
+ "cordon bleu": {
+  "also": [],
+  "clash": [
+   "restaurant words"
+  ]
+ },
+ "jelly doughnut": {
+  "also": [],
+  "clash": [
+   "deep-fried foods"
+  ]
+ },
+ "pączki": {
+  "also": [],
+  "clash": [
+   "deep-fried foods"
+  ]
+ },
+ "pigs in a blanket": {
+  "also": [],
+  "clash": [
+   "christmas"
+  ]
+ },
+ "lollipop": {
+  "also": [
+   [
+    "candy",
+    1
+   ]
+  ],
+  "clash": []
+ },
+ "popsicle": {
+  "also": [
+   [
+    "frozen desserts",
+    1
+   ],
+   [
+    "cold things",
+    1
+   ]
+  ],
+  "clash": []
+ },
+ "yakitori": {
+  "also": [
+   [
+    "japanese food",
+    1
+   ]
+  ],
+  "clash": []
+ },
+ "shish kebab": {
+  "also": [
+   [
+    "kebab types",
+    2
+   ]
+  ],
+  "clash": []
+ },
+ "souvlaki": {
+  "also": [
+   [
+    "greek food",
+    1
+   ]
+  ],
+  "clash": []
+ },
+ "anticucho": {
+  "also": [
+   [
+    "peruvian food",
+    2
+   ]
+  ],
+  "clash": []
+ },
+ "kushiyaki": {
+  "also": [
+   [
+    "japanese food",
+    3
+   ]
+  ],
+  "clash": []
+ },
+ "kushikatsu": {
+  "also": [
+   [
+    "japanese food",
+    3
+   ]
+  ],
+  "clash": []
+ },
+ "dango": {
+  "also": [
+   [
+    "japanese food",
+    2
+   ]
+  ],
+  "clash": []
+ },
+ "tanghulu": {
+  "also": [
+   [
+    "chinese food",
+    3
+   ]
+  ],
+  "clash": []
+ },
+ "ice lolly": {
+  "also": [
+   [
+    "frozen desserts",
+    1
+   ],
+   [
+    "british english words",
+    2
+   ]
+  ],
+  "clash": []
+ },
+ "ice pop": {
+  "also": [
+   [
+    "frozen desserts",
+    1
+   ]
+  ],
+  "clash": []
+ },
+ "seekh kebab": {
+  "also": [
+   [
+    "kebab types",
+    3
+   ]
+  ],
+  "clash": []
+ },
+ "kofta kebab": {
+  "also": [
+   [
+    "kebab types",
+    2
+   ]
+  ],
+  "clash": []
+ },
+ "suya": {
+  "also": [
+   [
+    "west african food",
+    1
+   ]
+  ],
+  "clash": []
+ },
+ "sosatie": {
+  "also": [
+   [
+    "south african food",
+    3
+   ]
+  ],
+  "clash": []
+ },
+ "pinchos": {
+  "also": [
+   [
+    "spanish food",
+    2
+   ]
+  ],
+  "clash": []
+ },
+ "pincho": {
+  "also": [
+   [
+    "spanish food",
+    2
+   ]
+  ],
+  "clash": []
+ },
+ "Pogo": {
+  "also": [],
+  "clash": [
+   "things that bounce"
+  ]
+ },
+ "Chupa Chups": {
+  "also": [
+   [
+    "candy",
+    1
+   ]
+  ],
+  "clash": []
+ },
+ "Tootsie Pop": {
+  "also": [
+   [
+    "candy",
+    1
+   ],
+   [
+    "american candy",
+    2
+   ]
+  ],
+  "clash": []
+ },
+ "Blow Pop": {
+  "also": [
+   [
+    "candy",
+    2
+   ]
+  ],
+  "clash": []
+ },
+ "Dum Dums": {
+  "also": [
+   [
+    "candy",
+    2
+   ]
+  ],
+  "clash": []
+ },
+ "Push Pop": {
+  "also": [
+   [
+    "candy",
+    2
+   ]
+  ],
+  "clash": []
+ },
+ "Calippo": {
+  "also": [
+   [
+    "frozen desserts",
+    2
+   ]
+  ],
+  "clash": []
+ },
+ "Mini Milk": {
+  "also": [
+   [
+    "frozen desserts",
+    3
+   ]
+  ],
+  "clash": []
+ },
+ "Fudgsicle": {
+  "also": [
+   [
+    "frozen desserts",
+    2
+   ]
+  ],
+  "clash": []
+ },
+ "Creamsicle": {
+  "also": [
+   [
+    "frozen desserts",
+    2
+   ]
+  ],
+  "clash": []
+ },
+ "Magnum": {
+  "also": [
+   [
+    "frozen desserts",
+    2
+   ]
+  ],
+  "clash": [
+   "modern weapons"
+  ]
+ },
+ "chicken satay": {
+  "also": [
+   [
+    "thai food",
+    2
+   ]
+  ],
+  "clash": []
+ },
+ "paleta": {
+  "also": [
+   [
+    "frozen desserts",
+    2
+   ],
+   [
+    "mexican food",
+    2
+   ]
+  ],
+  "clash": []
+ },
+ "fishball": {
+  "also": [
+   [
+    "street food",
+    3
+   ]
+  ],
+  "clash": []
+ },
+ "satay": {
+  "also": [],
+  "clash": [
+   "thai food"
+  ]
+ },
+ "egg": {
+  "also": [
+   [
+    "dairy and eggs",
+    1
+   ],
+   [
+    "things with shells",
+    1
+   ]
+  ],
+  "clash": []
+ },
+ "pistachio": {
+  "also": [
+   [
+    "nuts",
+    1
+   ],
+   [
+    "ice cream flavors",
+    1
+   ],
+   [
+    "shades of green",
+    2
+   ]
+  ],
+  "clash": []
+ },
+ "crab": {
+  "also": [
+   [
+    "crustaceans",
+    1
+   ],
+   [
+    "shellfish",
+    1
+   ],
+   [
+    "rock pool",
+    1
+   ],
+   [
+    "animals with shells",
+    1
+   ]
+  ],
+  "clash": [
+   "zodiac signs"
+  ]
+ },
+ "oyster": {
+  "also": [
+   [
+    "shellfish",
+    1
+   ],
+   [
+    "mollusks",
+    1
+   ],
+   [
+    "things with shells",
+    1
+   ]
+  ],
+  "clash": []
+ },
+ "coconut": {
+  "also": [
+   [
+    "tropical fruits",
+    1
+   ]
+  ],
+  "clash": [
+   "nuts"
+  ]
+ },
+ "peanut": {
+  "also": [
+   [
+    "nuts",
+    1
+   ],
+   [
+    "andean crops",
+    1
+   ],
+   [
+    "things with shells",
+    1
+   ]
+  ],
+  "clash": []
+ },
+ "lobster": {
+  "also": [
+   [
+    "crustaceans",
+    1
+   ],
+   [
+    "shellfish",
+    1
+   ]
+  ],
+  "clash": [
+   "red things"
+  ]
+ },
+ "shrimp": {
+  "also": [
+   [
+    "crustaceans",
+    1
+   ],
+   [
+    "shellfish",
+    1
+   ],
+   [
+    "rock pool",
+    1
+   ]
+  ],
+  "clash": []
+ },
+ "prawn": {
+  "also": [
+   [
+    "crustaceans",
+    1
+   ],
+   [
+    "shellfish",
+    1
+   ]
+  ],
+  "clash": []
+ },
+ "clam": {
+  "also": [
+   [
+    "shellfish",
+    1
+   ],
+   [
+    "mollusks",
+    1
+   ],
+   [
+    "seashells",
+    1
+   ],
+   [
+    "money slang",
+    2
+   ]
+  ],
+  "clash": []
+ },
+ "mussel": {
+  "also": [
+   [
+    "shellfish",
+    1
+   ],
+   [
+    "mollusks",
+    1
+   ],
+   [
+    "homophones",
+    1
+   ]
+  ],
+  "clash": []
+ },
+ "scallop": {
+  "also": [
+   [
+    "shellfish",
+    1
+   ],
+   [
+    "mollusks",
+    1
+   ],
+   [
+    "seashells",
+    1
+   ]
+  ],
+  "clash": []
+ },
+ "walnut": {
+  "also": [
+   [
+    "nuts",
+    1
+   ],
+   [
+    "nut trees",
+    1
+   ],
+   [
+    "types of wood",
+    1
+   ]
+  ],
+  "clash": []
+ },
+ "pecan": {
+  "also": [
+   [
+    "nuts",
+    1
+   ],
+   [
+    "nut trees",
+    2
+   ]
+  ],
+  "clash": []
+ },
+ "almond": {
+  "also": [
+   [
+    "nuts",
+    1
+   ],
+   [
+    "nut trees",
+    1
+   ],
+   [
+    "types of milk",
+    1
+   ],
+   [
+    "flours",
+    2
+   ]
+  ],
+  "clash": []
+ },
+ "hazelnut": {
+  "also": [
+   [
+    "nuts",
+    1
+   ],
+   [
+    "nut trees",
+    1
+   ]
+  ],
+  "clash": [
+   "shades of brown"
+  ]
+ },
+ "Brazil nut": {
+  "also": [
+   [
+    "nuts",
+    1
+   ]
+  ],
+  "clash": []
+ },
+ "macadamia": {
+  "also": [
+   [
+    "nuts",
+    1
+   ]
+  ],
+  "clash": []
+ },
+ "chestnut": {
+  "also": [
+   [
+    "nuts",
+    1
+   ],
+   [
+    "nut trees",
+    1
+   ],
+   [
+    "horse colors",
+    1
+   ],
+   [
+    "shades of brown",
+    1
+   ],
+   [
+    "prickly things",
+    2
+   ]
+  ],
+  "clash": []
+ },
+ "crayfish": {
+  "also": [
+   [
+    "crustaceans",
+    1
+   ]
+  ],
+  "clash": []
+ },
+ "snail": {
+  "also": [
+   [
+    "animals with shells",
+    1
+   ],
+   [
+    "garden pests",
+    1
+   ],
+   [
+    "mollusks",
+    1
+   ],
+   [
+    "things with shells",
+    1
+   ]
+  ],
+  "clash": []
+ },
+ "escargot": {
+  "also": [
+   [
+    "french food",
+    1
+   ]
+  ],
+  "clash": []
+ },
+ "sea urchin": {
+  "also": [
+   [
+    "tide pool life",
+    1
+   ],
+   [
+    "reef life",
+    2
+   ]
+  ],
+  "clash": [
+   "prickly things"
+  ]
+ },
+ "abalone": {
+  "also": [
+   [
+    "seashells",
+    1
+   ],
+   [
+    "mollusks",
+    2
+   ],
+   [
+    "shellfish",
+    2
+   ]
+  ],
+  "clash": []
+ },
+ "whelk": {
+  "also": [
+   [
+    "seashells",
+    1
+   ],
+   [
+    "mollusks",
+    2
+   ],
+   [
+    "shellfish",
+    2
+   ]
+  ],
+  "clash": []
+ },
+ "periwinkle": {
+  "also": [
+   [
+    "rock pool",
+    1
+   ],
+   [
+    "seashells",
+    2
+   ],
+   [
+    "shades of blue",
+    2
+   ],
+   [
+    "garden flowers",
+    3
+   ]
+  ],
+  "clash": []
+ },
+ "cockle": {
+  "also": [
+   [
+    "seashells",
+    1
+   ],
+   [
+    "shellfish",
+    2
+   ]
+  ],
+  "clash": []
+ },
+ "razor clam": {
+  "also": [
+   [
+    "shellfish",
+    2
+   ],
+   [
+    "seashells",
+    2
+   ]
+  ],
+  "clash": []
+ },
+ "langoustine": {
+  "also": [
+   [
+    "crustaceans",
+    2
+   ],
+   [
+    "shellfish",
+    2
+   ]
+  ],
+  "clash": []
+ },
+ "conch": {
+  "also": [
+   [
+    "seashells",
+    1
+   ]
+  ],
+  "clash": []
+ },
+ "geoduck": {
+  "also": [
+   [
+    "shellfish",
+    3
+   ]
+  ],
+  "clash": []
+ },
+ "barnacle": {
+  "also": [
+   [
+    "rock pool",
+    1
+   ],
+   [
+    "crustaceans",
+    2
+   ]
+  ],
+  "clash": []
+ },
+ "goose barnacle": {
+  "also": [
+   [
+    "crustaceans",
+    3
+   ]
+  ],
+  "clash": []
+ },
+ "winkle": {
+  "also": [
+   [
+    "rock pool",
+    2
+   ]
+  ],
+  "clash": []
+ },
+ "spiny lobster": {
+  "also": [
+   [
+    "crustaceans",
+    2
+   ]
+  ],
+  "clash": []
+ },
+ "king crab": {
+  "also": [
+   [
+    "crustaceans",
+    2
+   ]
+  ],
+  "clash": []
+ },
+ "snow crab": {
+  "also": [
+   [
+    "crustaceans",
+    2
+   ]
+  ],
+  "clash": []
+ },
+ "Dungeness crab": {
+  "also": [
+   [
+    "crustaceans",
+    2
+   ]
+  ],
+  "clash": []
+ },
+ "blue crab": {
+  "also": [
+   [
+    "crustaceans",
+    2
+   ]
+  ],
+  "clash": []
+ },
+ "mud crab": {
+  "also": [
+   [
+    "crustaceans",
+    3
+   ]
+  ],
+  "clash": []
+ },
+ "quahog": {
+  "also": [
+   [
+    "shellfish",
+    3
+   ]
+  ],
+  "clash": []
+ },
+ "sea snail": {
+  "also": [
+   [
+    "mollusks",
+    2
+   ]
+  ],
+  "clash": []
+ },
+ "limpet": {
+  "also": [
+   [
+    "seashells",
+    1
+   ],
+   [
+    "rock pool",
+    1
+   ]
+  ],
+  "clash": []
+ },
+ "pili nut": {
+  "also": [
+   [
+    "nuts",
+    3
+   ]
+  ],
+  "clash": []
+ },
+ "pine nut": {
+  "also": [
+   [
+    "nuts",
+    2
+   ]
+  ],
+  "clash": []
+ },
+ "monkey nut": {
+  "also": [
+   [
+    "nuts",
+    2
+   ]
+  ],
+  "clash": []
+ },
+ "balut": {
+  "also": [
+   [
+    "filipino food",
+    2
+   ]
+  ],
+  "clash": []
+ },
+ "sunflower seed": {
+  "also": [],
+  "clash": [
+   "nuts",
+   "healthy snacks"
+  ]
+ },
+ "pumpkin seed": {
+  "also": [],
+  "clash": [
+   "nuts",
+   "healthy snacks"
+  ]
+ },
+ "eggs Benedict": {
+  "also": [
+   [
+    "egg dishes",
+    1
+   ],
+   [
+    "breakfast foods",
+    1
+   ]
+  ],
+  "clash": []
+ },
+ "pavlova": {
+  "also": [
+   [
+    "australian food",
+    1
+   ],
+   [
+    "desserts of the world",
+    1
+   ]
+  ],
+  "clash": []
+ },
+ "Caesar salad": {
+  "also": [
+   [
+    "salads",
+    1
+   ]
+  ],
+  "clash": []
+ },
+ "peach Melba": {
+  "also": [
+   [
+    "desserts of the world",
+    2
+   ]
+  ],
+  "clash": []
+ },
+ "margherita": {
+  "also": [
+   [
+    "pizza styles",
+    1
+   ]
+  ],
+  "clash": []
+ },
+ "carpaccio": {
+  "also": [
+   [
+    "italian food",
+    2
+   ]
+  ],
+  "clash": [
+   "renaissance painters"
+  ]
+ },
+ "Stroganoff": {
+  "also": [
+   [
+    "stews",
+    1
+   ]
+  ],
+  "clash": [
+   "eastern european food"
+  ]
+ },
+ "Cobb salad": {
+  "also": [
+   [
+    "salads",
+    1
+   ]
+  ],
+  "clash": []
+ },
+ "crêpe Suzette": {
+  "also": [
+   [
+    "french food",
+    2
+   ]
+  ],
+  "clash": []
+ },
+ "Battenberg": {
+  "also": [
+   [
+    "cakes",
+    1
+   ],
+   [
+    "british food",
+    3
+   ]
+  ],
+  "clash": []
+ },
+ "Victoria sponge": {
+  "also": [
+   [
+    "cakes",
+    1
+   ],
+   [
+    "british food",
+    2
+   ]
+  ],
+  "clash": []
+ },
+ "madeleine": {
+  "also": [
+   [
+    "french pastries",
+    1
+   ],
+   [
+    "girls' names",
+    2
+   ]
+  ],
+  "clash": []
+ },
+ "Sachertorte": {
+  "also": [
+   [
+    "cakes",
+    2
+   ],
+   [
+    "desserts of the world",
+    2
+   ]
+  ],
+  "clash": []
+ },
+ "béchamel": {
+  "also": [
+   [
+    "french sauces",
+    1
+   ]
+  ],
+  "clash": []
+ },
+ "Mornay": {
+  "also": [
+   [
+    "french sauces",
+    1
+   ]
+  ],
+  "clash": []
+ },
+ "Garibaldi": {
+  "also": [
+   [
+    "cookies",
+    2
+   ]
+  ],
+  "clash": [
+   "famous leaders"
+  ]
+ },
+ "Bismarck": {
+  "also": [
+   [
+    "famous leaders",
+    2
+   ]
+  ],
+  "clash": [
+   "famous generals"
+  ]
+ },
+ "Chateaubriand": {
+  "also": [
+   [
+    "cuts of meat",
+    2
+   ]
+  ],
+  "clash": []
+ },
+ "pommes Anna": {
+  "also": [
+   [
+    "potato dishes",
+    3
+   ]
+  ],
+  "clash": []
+ },
+ "Sally Lunn": {
+  "also": [
+   [
+    "breads",
+    3
+   ]
+  ],
+  "clash": []
+ },
+ "fettuccine Alfredo": {
+  "also": [
+   [
+    "pasta dishes",
+    1
+   ]
+  ],
+  "clash": []
+ },
+ "boysenberry": {
+  "also": [
+   [
+    "berries",
+    2
+   ]
+  ],
+  "clash": []
+ },
+ "loganberry": {
+  "also": [
+   [
+    "berries",
+    2
+   ]
+  ],
+  "clash": []
+ },
+ "Granny Smith": {
+  "also": [
+   [
+    "apple varieties",
+    1
+   ]
+  ],
+  "clash": []
+ },
+ "Bramley": {
+  "also": [
+   [
+    "apple varieties",
+    2
+   ]
+  ],
+  "clash": []
+ },
+ "Dobos torte": {
+  "also": [
+   [
+    "cakes",
+    3
+   ]
+  ],
+  "clash": []
+ },
+ "Esterházy torte": {
+  "also": [
+   [
+    "cakes",
+    3
+   ]
+  ],
+  "clash": []
+ },
+ "savarin": {
+  "also": [
+   [
+    "cakes",
+    3
+   ]
+  ],
+  "clash": []
+ },
+ "Soubise": {
+  "also": [
+   [
+    "french sauces",
+    3
+   ]
+  ],
+  "clash": []
+ },
+ "tournedos Rossini": {
+  "also": [],
+  "clash": [
+   "opera composers"
+  ]
+ },
+ "lamington": {
+  "also": [
+   [
+    "australian food",
+    1
+   ]
+  ],
+  "clash": []
+ },
+ "General Tso's": {
+  "also": [
+   [
+    "chinese food",
+    2
+   ]
+  ],
+  "clash": []
+ },
+ "kung pao": {
+  "also": [
+   [
+    "chinese food",
+    1
+   ]
+  ],
+  "clash": []
+ },
+ "mapo tofu": {
+  "also": [
+   [
+    "spicy dishes of asia",
+    1
+   ],
+   [
+    "chinese food",
+    1
+   ]
+  ],
+  "clash": []
+ },
+ "Mozartkugel": {
+  "also": [
+   [
+    "chocolates",
+    2
+   ],
+   [
+    "candy",
+    2
+   ]
+  ],
+  "clash": []
+ },
+ "lobster Newberg": {
+  "also": [
+   [
+    "seafood dishes",
+    3
+   ]
+  ],
+  "clash": []
+ },
+ "oysters Rockefeller": {
+  "also": [
+   [
+    "seafood dishes",
+    3
+   ]
+  ],
+  "clash": []
+ },
+ "chicken Tetrazzini": {
+  "also": [
+   [
+    "pasta dishes",
+    3
+   ]
+  ],
+  "clash": []
+ },
+ "oysters Kilpatrick": {
+  "also": [
+   [
+    "seafood dishes",
+    4
+   ]
+  ],
+  "clash": []
+ },
+ "Bartlett pear": {
+  "also": [],
+  "clash": [
+   "apple varieties"
+  ]
+ },
+ "graham cracker": {
+  "also": [],
+  "clash": [
+   "cookies"
+  ]
+ }
+}
