@@ -24,7 +24,8 @@ input[type=search]{width:100%}
 main input[type=search]{width:220px}
 textarea{width:100%}
 h2{margin:0 0 2px}
-#crumbs{font-size:12px;margin-bottom:4px}
+#crumbs{font-size:12px}
+.row.top{margin:0 0 4px}
 #crumbs a{color:var(--ac);cursor:pointer}
 
 /* theme tree */

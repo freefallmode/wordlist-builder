@@ -1,13 +1,14 @@
 Food & Drink:
-  food
+  food:
     desserts
       cakes
       ice cream flavors
-    fastfood
+    fast food
     fruits
       citrus fruits
       berries
       tropical fruits
+      stone fruits
     vegetables
       root vegetables
       leafy greens
@@ -22,77 +23,98 @@ Food & Drink:
     sweets and candy
     breakfast foods
     sauces and condiments
-    cuisines
-  drinks
+    cooking methods
+  drinks:
     hot drinks
     soft drinks
     cocktails
     wines
     juices
-Nature & Animals:
-  nature
-    forest
-      trees
-      forest plants
-    water
-      rivers
-      lakes
-      seas and oceans
-      water sports
-    weather
-    landforms
-    rocks and minerals
-    natural disasters
-    deserts
-  animals
-    mammals
-    birds
-    reptiles
-    amphibians
-    fish
-    insects
-    sea creatures
-    farm animals
-    pets
-    dog breeds
-    cat breeds
-    dinosaurs
-    baby animals
-    animal homes
-    animal sounds
-  flowers
-  garden
-    garden tools
+  cuisines:
+    italian food
+    french food
+    spanish food
+    indian food
+    chinese food
+    japanese food
+    mexican food
+    middle eastern food
+    african food
+Animals:
+  mammals
+  birds
+  reptiles
+  amphibians
+  fish
+  insects
+  sea creatures
+  farm animals
+  pets
+  dog breeds
+  cat breeds
+  horse breeds
+  dinosaurs
+  baby animals
+  animal homes
+  animal sounds
+  animals of the world:
+    african animals
+    asian animals
+    australian animals
+    south american animals
+    north american animals
+    arctic animals
+Nature & Earth:
+  plants:
+    trees
+    flowers
     garden plants
-    herbs
-Places & Travel:
-  countries
+    forest plants
+    cacti and succulents
+  garden:
+    garden tools
+    garden features
+  landscapes:
+    landforms
+    water features
+    desert features
+  weather
+  rocks and minerals
+  natural disasters
+Places & Geography:
+  countries:
     european countries
     asian countries
     african countries
     north american countries
     south american countries
     island nations
-  geography
+  cities:
     capital cities
     world cities
-    us states
-    mountains
-    islands
-    famous landmarks
-    continents and regions
-  travel
-    hotel
+  us states
+  famous mountains
+  famous rivers
+  islands
+  famous landmarks
+  continents and regions
+  places:
+    farm [place]
+    restaurant [place]
+    supermarket [place]
+    hospital [place]
+    zoo [place]
+    beach [place]
+    airport [place]
+    library [place]
+    post office [place]
+Travel & Transport:
+  travel:
+    hotel [place]
     camping
-    beach
-    tourist attractions
     luggage
-    farm
-    restaurant
-    supermarket
-    hospital
-    zoo
-  transport
+    tourist attractions
+  transport:
     cars
     car brands
     aircraft
@@ -100,25 +122,46 @@ Places & Travel:
     trains
     bicycles
     road words
-    airport words
-Body & People:
-  body and health
-    body parts
-    bones
-    organs
-    senses
-    emotions
-    illnesses
-    medical terms
-    dental terms
-  people
+Body & Health:
+  body parts
+  bones
+  organs
+  senses
+  illnesses
+  medical terms
+  dental terms
+  fitness
+People & Society:
+  people:
     family
     relationships
     personality traits
+    emotions
     greetings
     ages and stages
-Everyday Life:
-  home
+  jobs:
+    medical jobs
+    trades
+    science jobs
+    service jobs
+    arts jobs
+    tech jobs
+  society:
+    government
+    law and crime
+    money and finance
+    currencies
+    shops and stores
+    public places
+    religion terms
+    military ranks
+  school:
+    school subjects
+    stationery
+    classroom items
+    university terms
+Home & Everyday:
+  home:
     rooms
     furniture
     kitchen items
@@ -128,14 +171,15 @@ Everyday Life:
     tools
     cleaning items
     building materials
-  clothing
+    office items
+  clothing:
     clothes
     shoes
     hats
     jewelry
     fabrics
     accessories
-  holidays
+  holidays and celebrations:
     christmas
     halloween
     easter
@@ -144,47 +188,26 @@ Everyday Life:
     weddings
     birthdays
     festivals
-  time
+  time:
     months
     days and seasons
     time units
     zodiac signs
     chinese zodiac
     clocks and calendars
-Society & Work:
-  society
-    government
-    law and crime
-    money and finance
-    currencies
-    shops and stores
-    public places
-    religion terms
-    military ranks
-  jobs
-    medical jobs
-    trades
-    science jobs
-    service jobs
-    arts jobs
-    office items
-    tech jobs
-  school
-    school subjects
-    stationery
-    classroom items
-    university terms
 Sports & Games:
-  sports
+  sports:
     ball sports
-    olympic sports
+    racket sports
+    water sports
     winter sports
-    martial arts
-    sports equipment
+    combat sports
+    olympic sports
     athletics
+    sports equipment
     golf terms
     football terms
-  games and hobbies
+  games and hobbies:
     board games
     card games
     video game genres
@@ -194,34 +217,34 @@ Sports & Games:
     playground
     puzzles
 Arts & Entertainment:
-  music
+  music:
     instruments
     music genres
     music terms
     dances
     composers
     singing
-  arts
+  arts:
     painting
     painters
     art movements
-    theatre
+    theater
     poetry terms
     photography
     architecture styles
-  entertainment
+  entertainment:
     movie genres
     tv genres
     circus
     magic
     comedy
-  literature
+  literature:
     book genres
     authors
     fairy tale characters
     shakespeare
 History & Myth:
-  history
+  history:
     ancient civilizations
     medieval
     explorers
@@ -230,7 +253,7 @@ History & Myth:
     wars and battles
     famous leaders
     archaeology
-  mythology and fantasy
+  mythology and fantasy:
     greek gods
     roman gods
     norse gods
@@ -240,7 +263,7 @@ History & Myth:
     legendary heroes
     magic items
 Science & Tech:
-  science
+  science:
     chemical elements
     lab equipment
     physics terms
@@ -249,19 +272,18 @@ Science & Tech:
     scientists
     inventions
     units of measurement
-  space
+  space:
     planets
     moons
     constellations
     space missions
     astronomy terms
     space vehicles
-  math
-    shapes
+  math:
     math terms
-    fractions and numbers
+    numbers
     geometry
-  technology
+  technology:
     computer parts
     programming languages
     internet terms
@@ -269,17 +291,36 @@ Science & Tech:
     robots
     software terms
     networking
-Words & Concepts:
-  descriptive words
-    size words
-    texture words
-    taste words
-    sounds
-    motion verbs
-    kitchen verbs
-    opposites
-    weather words
-  colors
+Language & Wordplay:
+  language:
+    languages
+    greek letters
+    punctuation
+    grammar terms
+  wordplay:
+    ___ball [wordplay]
+    fire___ [wordplay]
+    ___fly [wordplay]
+    sun___ [wordplay]
+    hidden animals [wordplay]
+    palindromes [wordplay]
+Qualities:
+  colors:
     shades of red
     shades of blue
     shades of green
+    shades of yellow
+  shapes
+  materials
+  textures
+  tastes
+  sizes
+  sounds
+  motion verbs
+  things that are…:
+    red things [property]
+    round things [property]
+    things with wings [property]
+    things that sting [property]
+    things with keys [property]
+    cold things [property]

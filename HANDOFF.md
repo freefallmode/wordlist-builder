@@ -29,7 +29,7 @@ Called straight from the browser (`anthropic-dangerous-direct-browser-access`). 
 ```js
 P = {
   themes: [{ id, name, label, parent, group, kind, region, d, note, wd, cn, dm }],  // display order
-  words:  { [slug]: { t, th: [themeId], on, z, d, src: ['L','M','W','C','D'], note } },
+  words:  { [slug]: { t, uk, th: [themeId], on, z, d, src: ['L','M','W','C','D'], note } },
 }
 ```
 - Theme `id` is a slug of the name at creation and never changes on rename (levels and translations will refer to it).
@@ -37,18 +37,25 @@ P = {
 - `region`: '' or a continent, for regional stops on the journey.
 - `group`: a container for browsing, never a playable theme.
 - `label`: the name shown in the game when it differs from `name`.
-- Word `z`: Zipf, `null` if rarer than the list, `undefined` if not looked up yet. `d`: null means auto.
+- Word `t` is the American spelling (capitals kept for proper nouns such as Paris or Plato); `uk` is the British spelling when it differs. The key is a lowercase slug of `t`. The Spelling setting (toolbar toggle) picks which form is shown and written to the game file; search and duplicate checks use both. Import / export → "Find British spellings" asks Claude to fill in `uk` for older words.
+- Word `z`: Zipf (the higher of the two spellings), `null` if rarer than the list, `undefined` if not looked up yet. `d`: null means auto.
 
 ## File formats
 
 Project file and IndexedDB autosave (`schema: 2`), compact: theme rows are arrays described by `themeFields`; word rows by `wordFields`; words refer to themes by **index** in the themes array. Zipf is stored times ten (0 = rarer than the list, -1 = unknown). Sources are one letter each (L llm, M manual, W wikidata, C conceptnet, D datamuse). Opening a schema 1 file (the first version) converts it; the first version's localStorage data (`wlb`) is migrated on first load.
 
-Game file (Import / export → Game file): minified, enabled words only, `v: 1`. `themes: [id, name, label, parentIndex (-1 = top), group, kind, region, difficulty]`, `words: [text, zipf10, difficulty, [themeIndex…]]`.
+Game file (Import / export → Game file): minified, enabled words only, `v: 1`, `spelling: "US" | "UK"`. `themes: [id, name, label, parentIndex (-1 = top), group, kind, region, difficulty]`, `words: [text, zipf10, difficulty, [themeIndex…], otherSpelling?]` where `text` is in the chosen spelling.
+
+Theme outline (`themes-starter.txt`, Load starter outline, Export outline): two spaces per level, groups end in `:`, and a kind may follow the name in brackets, e.g. `beach [place]`.
+
+## Word filters
+
+Single words 3 to 12 letters; two-word names (shown on two lines in the game) up to 20 letters in total and 12 per word; more than two words is rejected. Filters only mark words disabled with a reason, never delete.
 
 ## Known gaps and next steps
 
 - A word's theme links only come from where it was generated or added. The game rule "no word fits two themes in a level" needs every theme a word truly fits, so a cross-check pass (Claude asked which nearby themes each word also fits) is the next big piece.
 - No links between themes beyond parent/child (siblings and easily confused themes are what make levels hard).
-- No plural or spelling-variant merging (doughnut/donut).
+- No plural merging, and only US/UK spelling pairs (not other variants such as donut/doughnut in the same dialect).
 - No profanity list by default.
 - Multi-language: theme ids are stable, words are not yet keyed by concept.
