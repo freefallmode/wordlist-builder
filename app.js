@@ -3,7 +3,7 @@
 // The project lives in IndexedDB (autosaved) and in project files. Both use
 // the compact format from serialize(): words point at themes by index.
 
-const VERSION = '21';  // must match data-v and the ?v= links in index.html
+const VERSION = '22';  // must match data-v and the ?v= links in index.html
 const $ = s => document.querySelector(s);
 const esc = s => String(s ?? '').replace(/[&<>"']/g, c => ({ '&': '&amp;', '<': '&lt;', '>': '&gt;', '"': '&quot;', "'": '&#39;' }[c]));
 const slug = t => t.normalize('NFKD').replace(/[̀-ͯ]/g, '').replace(/[^\p{L}\p{N}]+/gu, '_').replace(/^_|_$/g, '').toLowerCase();
@@ -303,7 +303,7 @@ function deserialize(j) {
       src: (x.sources || []).map(s => SRC[s]).filter(Boolean), note: x.note || '' };
     return { themes, words };
   }
-  throw Error('Not a wordlist project file');
+  throw Error('Not a wordlist library file');
 }
 // The first version kept everything in localStorage under 'wlb'.
 function fromOldLocal(o) {
@@ -465,7 +465,7 @@ function renderTree() {
       + `<span class="ac"><button data-add="${id}" title="Add sub-theme">+</button><button data-ren="${id}" title="Rename">✎</button><button data-del="${id}" title="Delete">✕</button></span></div>`
       + (kids.length && op ? kids.map(k => row(k, d + 1)).join('') : '');
   };
-  $('#tree').innerHTML = kidsOf(null).map(id => row(id, 0)).join('') || '<p class="muted">No themes yet. Add one, or use Import / export to open the starter wordlist or add the starter theme tree.</p>';
+  $('#tree').innerHTML = kidsOf(null).map(id => row(id, 0)).join('') || '<p class="muted">No themes yet. Add one, or use Import / export to load the starter wordlist or the starter theme tree.</p>';
   $('#lock').textContent = UI.unlock ? '🔓' : '🔒';
   $('#lock').title = UI.unlock ? 'Drop a theme on another to nest it, near a row edge to reorder, or on ＋ to make it top level.' : 'Dragging themes is off. Click to turn it on.';
 }
@@ -639,7 +639,7 @@ ${existing.length ? '- Do not repeat any of these existing words: ' + [...new Se
       const fresh = addWords(r.words, 'llm', t.id);
       const linked = Object.values(P.words).filter(w => w.th.includes(t.id)).length - before;
       render();
-      status(`Claude returned ${r.words.length}: ${fresh} new to the project, ${linked - fresh} existing words linked, ${r.words.length - linked} already here.`);
+      status(`Claude returned ${r.words.length}: ${fresh} new to the library, ${linked - fresh} existing words linked, ${r.words.length - linked} already here.`);
       return false;
     }, 'p']]);
 }
@@ -816,11 +816,11 @@ function settingsDialog() {
 }
 
 function dataDialog() {
-  dialog('Import / export', '<h4>Project: theme tree and words (.json)</h4><p class="muted">Everything in the app. It is autosaved in this browser; save a file to back it up or move it to another browser. Opening one <b>replaces</b> the current project.</p>'
-    + '<div class="row"><button id="dx-save" class="p">Save project to a file</button><button id="dx-open">Open project file from your computer…</button></div>'
-    + '<div class="row"><button id="dx-wl">Open the starter wordlist</button><span class="muted">the ready-made tree and words that come with the app</span></div>'
+  dialog('Import / export', '<h4>Library: theme tree and words (.json)</h4><p class="muted">Everything in the app. It is autosaved in this browser; export it to a file to back it up or move it to another browser. Importing or loading one <b>replaces</b> the current library.</p>'
+    + '<div class="row"><button id="dx-save" class="p">Export library</button><button id="dx-open">Import library…</button></div>'
+    + '<div class="row"><button id="dx-wl">Load starter wordlist</button><span class="muted">the ready-made tree and words that come with the app</span></div>'
     + '<h4>Theme tree only, no words (.txt)</h4><p class="muted">The tree as an indented text list you can edit in any text editor. Importing <b>adds</b> its themes to the current tree.</p>'
-    + '<div class="row"><button id="dx-starter">Add starter theme tree</button><button id="dx-imp">Import theme tree…</button><button id="dx-out">Export theme tree</button></div>'
+    + '<div class="row"><button id="dx-starter">Load starter theme tree</button><button id="dx-imp">Import theme tree…</button><button id="dx-out">Export theme tree</button></div>'
     + '<h4>For the game and spreadsheets (export only)</h4><p class="muted">The game file holds enabled words only, compact, family-friendly if set in Settings.</p>'
     + '<div class="row"><button id="dx-game">Export game file</button><button id="dx-csv">Export CSV</button></div>'
     + '<h4>Maintenance</h4><div class="row"><button id="dx-uk">Find British spellings (Claude)</button><button id="dx-freq">Recompute frequencies</button><button id="dx-clrw" class="danger">Delete all words…</button><button id="dx-clr" class="danger">Delete everything…</button></div>'
@@ -828,10 +828,10 @@ function dataDialog() {
     [['Close', () => { }]], d => {
       const on = (s, fn) => d.querySelector(s).onclick = fn;
       const pickFile = (accept, fn) => { const f = d.querySelector('#dx-file'); f.accept = accept; f.value = ''; f.onchange = () => f.files[0] && f.files[0].text().then(fn).catch(e => status('Error: ' + e.message, true)); f.click(); };
-      on('#dx-save', () => download(JSON.stringify(serialize()), `wordlist-project-${stamp()}.json`));
+      on('#dx-save', () => download(JSON.stringify(serialize()), `wordlist-library-${stamp()}.json`));
       on('#dx-open', () => pickFile('.json', async txt => {
         const p = deserialize(JSON.parse(txt));
-        if (!await confirmBox(`Replace the current project with this file (${p.themes.length} themes, ${Object.keys(p.words).length} words)?`)) return;
+        if (!await confirmBox(`Replace the current library with this file (${p.themes.length} themes, ${Object.keys(p.words).length} words)?`)) return;
         P = p; UI.sel = null; changed(); fillFreq(); render();
       }));
       on('#dx-wl', async () => {
@@ -840,7 +840,7 @@ function dataDialog() {
           const r = await fetch('data/wordlist.json?v=' + VERSION);
           if (!r.ok) throw Error(r.status === 404 ? 'not built yet' : r.status);
           const p = deserialize(await r.json());
-          if (!await confirmBox(`Replace the current project with the starter wordlist (${p.themes.length} themes, ${Object.keys(p.words).length} words)?`)) return;
+          if (!await confirmBox(`Replace the current library with the starter wordlist (${p.themes.length} themes, ${Object.keys(p.words).length} words)?`)) return;
           P = p; UI.sel = null; changed(); fillFreq(); render();
         } catch (e) { status('Could not load the starter wordlist: ' + e.message, true); }
       });
@@ -849,7 +849,7 @@ function dataDialog() {
       on('#dx-out', () => download(exportOutline(), `themes-${stamp()}.txt`, 'text/plain'));
       on('#dx-starter', async () => {
         try { const r = await fetch('data/themes.txt?v=' + VERSION); if (!r.ok) throw Error(r.status); status(`Added ${importOutline(await r.text())} themes.`); render(); }
-        catch (e) { status('Could not load the starter outline: ' + e.message, true); }
+        catch (e) { status('Could not load the starter theme tree: ' + e.message, true); }
       });
       on('#dx-imp', () => pickFile('.txt', txt => { status(`Added ${importOutline(txt)} themes.`); render(); }));
       on('#dx-uk', async () => {
@@ -1155,7 +1155,7 @@ function fillFreq() { if (FREQ) for (const w of Object.values(P.words)) if (w.z 
       const old = localStorage.getItem('wlb');
       if (old) { P = fromOldLocal(JSON.parse(old)); scheduleSave(); }
     }
-  } catch (e) { status('Could not load the saved project: ' + e.message, true); }
+  } catch (e) { status('Could not load the saved library: ' + e.message, true); }
   if (UI.sel && !theme(UI.sel)) UI.sel = null;
   render();
   loadFreq();
