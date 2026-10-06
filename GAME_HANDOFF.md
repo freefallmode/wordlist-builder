@@ -29,13 +29,13 @@ from the cross-theme check), 32,487 clashes. Game file: 75,439 enabled words (4.
 Rebuild: `python3 tools/merge_tree.py` (tree) then `python3 tools/build_wordlist.py` (library); the game files
 are exported from the app (Import / export → Export game file; Settings → Family-friendly game file).
 
-### Game file (v4)
+### Game file (v5)
 
 ```
-{ v: 4, generated, spelling: "US"|"UK", familyFriendly,
-  themeFields: [id, name, label, parent, group, kind, region, difficulty, adult, separate],
+{ v: 5, generated, spelling: "US"|"UK", familyFriendly, trademarks,
+  themeFields: [id, name, label, parent, group, kind, region, difficulty, adult, separate, trademark],
   themes: [...rows],               // parent is an index into themes, -1 for top level
-  wordFields: [text, balloonText, zipf10, themes, difficultyPerTheme, clashes, otherSpelling, formsPerTheme, anagramSet],
+  wordFields: [text, balloonText, zipf10, themes, difficultyPerTheme, clashes, otherSpelling, formsPerTheme, anagramSet, trademark],
   words: [...rows] }
 ```
 
@@ -48,6 +48,9 @@ are exported from the app (Import / export → Export game file; Settings → Fa
 - `clashes`: theme indices a player could wrongly think the word belongs to. **Never put the word in a level
   with any of these themes.**
 - `otherSpelling`: the other dialect's spelling when it differs (`color` / `colour`).
+- `trademark` (word and theme): a trademark or copyrighted name (brand, team, title, character); a theme's flag is
+  inherited by everything below it. Settings → "Include trademarked and copyrighted names" leaves them out of the
+  export when unticked (`trademarks: false` in the file).
 - `anagramSet`: for "anagrams of each other", the set number (words with the same number are one set of four); 0 otherwise.
 - `formsPerTheme`: `[[themeIndex, form, plainForm]]` where a theme writes the word differently (capitals: `Mercury`
   the planet, `mercury` the metal).
@@ -74,6 +77,10 @@ are exported from the app (Import / export → Export game file; Settings → Fa
 - **Heavily overlapping theme pairs** exist on purpose (airport / airport words, symptoms / common illnesses,
   sight words / ways of looking, rooms of the house, sibling army and navy themes). Clashes keep them apart; a
   theme-pair overlap score computed from shared words would let the generator skip such pairs quickly.
+- **Singular and plural are one word** where they mean the same thing (apple shows as "apples" in signs of autumn
+  through `formsPerTheme`); `data/gen/words/plurals.json` lists the merges and the clash pairs (scales, chips).
+  Pairs that are different words (jeans, team names) stay separate, so the checker must also reject a level showing
+  two words that differ only by a plural ending (apple/apples, mouse/mice).
 - **Words are keyed by lowercase, accent-folded text**, so homographs are one word with several themes (date: fruit and
   calendar; Soho: London district and space telescope). Correct for the "no word fits two themes" rule.
 - **Spelling-based themes** (double letters, hidden words, palindromes, no vowels, sounds like a letter …) are only

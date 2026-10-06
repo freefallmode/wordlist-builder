@@ -44,12 +44,12 @@ for g in GROUPS:
             if k == 'region':
                 if v.strip().lower() not in REGIONS: problems.append(f'{g}: bad region {t} on {name}')
                 else: regions[v.strip()] += 1
-            elif k not in KINDS and k not in ('adult', 'separate'): problems.append(f'{g}: bad tag [{t}] on {name}')
+            elif k not in KINDS and k not in ('adult', 'separate', 'trademark'): problems.append(f'{g}: bad tag [{t}] on {name}')
         if group: groups += 1
         else: playable += 1
         if ind == 2: mid = name; kids[mid] = 0
         elif ind == 4 and mid: kids[mid] += 1
-        order = lambda t: (0 if t in KINDS else 1 if t.startswith('region') else 2 if t == 'adult' else 3)
+        order = lambda t: (0 if t in KINDS else 1 if t.startswith('region') else 2 if t == 'adult' else 3 if t == 'separate' else 4)
         tagtxt = ''.join(f' [{t}]' for t in sorted(tags, key=order))
         out.append(' ' * ind + name + (':' if group else '') + tagtxt + (' -- ' + note if note else ''))
     thin = [k for k, c in kids.items() if c < 6]

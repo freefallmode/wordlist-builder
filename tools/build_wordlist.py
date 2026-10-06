@@ -1,6 +1,13 @@
 """Builds data/wordlist.json (the builder's project format, schema 2) from
 data/themes.txt and the generated batches in data/gen/words/*.json.
 
+Also reads, from data/gen/words/:
+- batch-NN.links.json: the cross-theme check (extra memberships and clashes).
+- plurals.json: {"merge": {plural: singular}, "clash": [[plural, singular]]}. A merged plural becomes a per-theme
+  form of the singular word (apples shows as "apples" in signs of autumn but is the word apple), except in
+  wordplay themes, where the exact letters matter. A clash pair gets each form's themes as clashes of the other.
+- trademarks.txt: one word per line, marked as a trademark or copyrighted name.
+
 Theme ids, frequency lookups and word filters follow app.js, so the file opens in the
 builder exactly as if the words had been added there.
 """
@@ -29,7 +36,7 @@ for raw in open(os.path.join(ROOT, 'data', 'themes.txt'), encoding='utf-8'):
     while tid in at: tid = f'{base}_{k}'; k += 1
     kind = next((t for t in tags if t in KINDS), '')
     region = next((t.split(':', 1)[1].strip() for t in tags if t.startswith('region:')), '')
-    themes.append([tid, name, '', parent, 1 if group else 0, kind, region, 0, note.strip(), {}, 1 if 'adult' in tags else 0, 1 if 'separate' in tags else 0])
+    themes.append([tid, name, '', parent, 1 if group else 0, kind, region, 0, note.strip(), {}, 1 if 'adult' in tags else 0, 1 if 'separate' in tags else 0, 1 if 'trademark' in tags else 0])
     at[tid] = len(themes) - 1
     stack.append((ind, len(themes) - 1))
 by_name = {t[1]: i for i, t in enumerate(themes)}
@@ -55,6 +62,16 @@ def reason(t):
     if len(c) < 3 or len(c) > 20: return 'length'
     return ''
 
+# ---- plurals and trademarks
+WGEN = os.path.join(ROOT, 'data', 'gen', 'words')
+WP = {i for i, t in enumerate(themes) if t[5] == 'wordplay'}
+PL = json.load(open(os.path.join(WGEN, 'plurals.json'), encoding='utf-8')) if os.path.exists(os.path.join(WGEN, 'plurals.json')) else {}
+MERGE = {slug(p): slug(s) for p, s in PL.get('merge', {}).items()}
+TM = set()
+if os.path.exists(os.path.join(WGEN, 'trademarks.txt')):
+    TM = {slug(l.strip()) for l in open(os.path.join(WGEN, 'trademarks.txt'), encoding='utf-8') if l.strip() and not l.startswith('#')}
+n_merged = 0
+
 # ---- words
 words = collections.OrderedDict()
 forms = collections.defaultdict(collections.Counter)
@@ -71,12 +88,14 @@ for path in sorted(glob.glob(os.path.join(ROOT, 'data', 'gen', 'words', 'batch-[
             text = re.sub(r'\s+', ' ', text.strip()).replace('’', "'"); uk = re.sub(r'\s+', ' ', (uk or '').strip()).replace('’', "'")
             k = slug(text)
             if not k: continue
-            forms[k][text] += 1
+            merged = k in MERGE and ti not in WP
+            if merged: k = MERGE[k]; n_merged += 1
+            else: forms[k][text] += 1
             w = words.setdefault(k, {'th': [], 'fam': {}, 'uk': '', 'ze': [], 'adult': 0, 'notes': [], 'tform': {}})
             w['tform'].setdefault(ti, text)
             if ti not in w['th']: w['th'].append(ti)
             w['fam'][ti] = min(w['fam'].get(ti, 5), int(fam)) if ti in w['fam'] else int(fam)
-            if uk and uk.lower() != text.lower() and not w['uk']: w['uk'] = uk
+            if uk and uk.lower() != text.lower() and not w['uk'] and not merged: w['uk'] = uk
             w['ze'].append(int(z10)); w['adult'] |= int(adult)
             if text.lower() in setno: w['notes'].append(f'anagram set {setno[text.lower()]}')
 
@@ -84,20 +103,30 @@ for path in sorted(glob.glob(os.path.join(ROOT, 'data', 'gen', 'words', 'batch-[
 n_also = n_clash = 0; bad_links = set()
 for path in sorted(glob.glob(os.path.join(ROOT, 'data', 'gen', 'words', 'batch-*.links.json'))):
     for text, v in json.load(open(path, encoding='utf-8')).items():
-        w = words.get(slug(text.replace('’', "'")))
-        if not w: continue
+        k = slug(text.replace('’', "'"))
+        wk = words.get(MERGE.get(k, k)); wp = words.get(k) if k in MERGE else None  # wp: the plural kept for wordplay
         for t, f in v.get('also', []):
             ti = by_name.get(t)
             if ti is None: bad_links.add(t); continue
-            if ti not in w['th']: w['th'].append(ti); w['fam'][ti] = int(f); n_also += 1
+            w = wp if wp and ti in WP else wk
+            if w and ti not in w['th']: w['th'].append(ti); w['fam'][ti] = int(f); n_also += 1
         for t in v.get('clash', []):
             ti = by_name.get(t)
             if ti is None: bad_links.add(t); continue
-            if ti not in w['th'] and ti not in w.setdefault('x', []): w['x'].append(ti); n_clash += 1
+            w = wp if wp and ti in WP else wk
+            if w and ti not in w['th'] and ti not in w.setdefault('x', []): w['x'].append(ti); n_clash += 1
+
+# plural and singular with different meanings: each form clashes with the other's (non-wordplay) themes
+for p, s_ in PL.get('clash', []):
+    a, b = words.get(slug(p)), words.get(slug(s_))
+    if not a or not b: continue
+    for u, v_ in ((a, b), (b, a)):
+        for ti in v_['th']:
+            if ti not in WP and ti not in u['th'] and ti not in u.setdefault('x', []): u['x'].append(ti)
 
 rows, n_est = [], 0
 for k, w in words.items():
-    c = forms[k]
+    c = forms[k] or collections.Counter(w['tform'].values())
     text = max(c, key=lambda f: (c[f], f == f.lower()))  # most common form; lowercase on ties (turkey vs Turkey)
     z = zipf(text); zu = zipf(w['uk']) if w['uk'] else None
     z = max(x for x in (z, zu) if x is not None) if (z is not None or zu is not None) else None
@@ -110,14 +139,14 @@ for k, w in words.items():
     note = '; '.join(dict.fromkeys([r] + w['notes'] if r else w['notes']))
     rows.append([text, w['th'], 0 if r else 1, round(z * 10) if z else 0, 0, 'L', note, w['uk'],
                  [t for t in w.get('x', []) if t not in w['th']], 1 if 'x' in w else 0, [], [[t, f] for t, f in w['fam'].items()], round(zest * 10) if zest else 0, w['adult'],
-                 [[t, f] for t, f in w['tform'].items() if f != text]])
+                 [[t, f] for t, f in w['tform'].items() if f != text], 1 if k in TM else 0])
 
 out = {
     'schema': 2, 'app': 'wordlist-builder', 'saved': 'generated by tools/build_wordlist.py',
-    'themeFields': ['id', 'name', 'label', 'parent', 'group', 'kind', 'region', 'difficulty', 'note', 'sourceTerms', 'adult', 'separate'],
+    'themeFields': ['id', 'name', 'label', 'parent', 'group', 'kind', 'region', 'difficulty', 'note', 'sourceTerms', 'adult', 'separate', 'trademark'],
     'themes': themes,
     'wordFields': ['text', 'themes', 'enabled', 'zipf10', 'difficulty', 'sources', 'note', 'uk', 'clashes', 'checked', 'suggestions',
-                   'familiarity', 'zipfEstimate10', 'adult', 'themeForms'],
+                   'familiarity', 'zipfEstimate10', 'adult', 'themeForms', 'trademark'],
     'words': rows,
 }
 json.dump(out, open(os.path.join(ROOT, 'data', 'wordlist.json'), 'w', encoding='utf-8'), ensure_ascii=False, separators=(',', ':'))
@@ -126,6 +155,7 @@ play = [i for i, t in enumerate(themes) if not t[4]]
 count = collections.Counter(t for r in rows for t in r[1])
 print(f'{len(themes)} themes ({len(play)} playable), {len(rows)} words, {sum(len(r[1]) for r in rows)} links, '
       f'{sum(1 for r in rows if not r[2])} disabled by filters, {n_est} with estimated frequency')
+print(f'plural entries merged into their singular: {n_merged}; trademarked words: {sum(1 for r in rows if r[15])}')
 print('playable themes with no words yet:', sum(1 for i in play if not count[i]))
 print('playable themes under 12 words:', sum(1 for i in play if 0 < count[i] < 12))
 if missing: print('UNKNOWN theme names in batches:', missing[:20])
