@@ -134,16 +134,18 @@ automatically and the level carries on. Tries should scale with level size inste
 for example `3 + themes / 2`. Hints and spare tries are what in-app purchases would sell.
 
 **Themes merge into their parent (from mid Act 1).** Finished themes combine into the parent theme; also frees space.
-- Required in levels that contain a family: the parent name is the level's final reveal, a second reward.
+- **Decided:** only in later levels, and only occasionally. A family needs at least 4 sub-themes of one parent in the
+  level. Within such a level, merging is how the parent name is revealed (a second reward).
 - Size: combined balloons are already 1.45×; a 2× parent would clutter. Keep the parent the same size with a ring or
   badge for its tier, or let it float away when complete.
-- Families need 2 to 4 children, not always four.
 - Dropping a finished theme onto an unrelated one is a wrong drop.
-- The "Combine themes" off setting gets unwieldy here: force combine mode in family levels or drop the setting.
+- **Decided:** drop the "Combine themes" setting (`GameModel.CombineCompleted`); finished themes always combine.
 - Data: parent = `parent` index; only non-separate children belong to a parent.
 
 **Half-word balloons (from Act 2).** E.g. PUMP– + –KIN.
-- Show the side: `PUMP–` and `–KIN`, on a balloon with a stitched seam on the joining side. Alternative: one half
+- **Decided: try envelope and basket first.** One half rides on a balloon envelope, the other on a basket standing on
+  the ground; joining them assembles the balloon. Check text size on phones; the fallback is `PUMP–` / `–KIN` on
+  balloons with a stitched seam on the joining side. (Earlier note: one half
   on the envelope, the other on the basket (charming, but small text on phones).
 - Joining makes an ordinary pale solo balloon, which is then sorted as usual. Halves join only with each other.
 - Difficulty inside the mechanic: halves that aren't words (MAN–GO, ZEB–RA); halves that are words (PUMP–KIN,
@@ -168,12 +170,17 @@ for example `3 + themes / 2`. Hints and spare tries are what in-app purchases wo
 9. Export additions: anagram set numbers; split data; anything else the generator needs.
 10. Hand review of difficulty and cross-check links, starting with the themes used in early levels.
 
+## Answers from Simon (latest)
+
+- Theme families (merging into the parent): later levels only, occasionally, needs at least 4 sub-themes.
+- "Combine themes" setting: drop it.
+- Half-word style: try envelope plus basket on the ground first.
+- Zipf numbers stay in the game file for now.
+- Localisation: much later.
+
 ## Open questions for Simon
 
-- Merge families: required in family levels (recommended) or optional?
-- Keep or drop the "Combine themes" off setting once families exist?
-- Half-word style: stitched seam (recommended) or envelope + basket?
-- Tries formula and the size of the spare-try / hint bank.
-- Zipf numbers in the game file: wordfreq data is CC BY-SA. The game only needs difficulty 1 to 5, so the numbers
-  could be dropped from the export to avoid any share-alike question.
-- Localisation: if it will happen, decide before levels are fixed.
+- **Tries per level.** Today every level allows 5 wrong drops (`GameModel.MaxTries`), whether it has 2 themes or 15.
+  The proposal is to let the allowance grow with the level size, for example `3 + themes / 2` rounded down
+  (2 themes: 4 tries, 6 themes: 6, 10 themes: 8, 16 themes: 11), and to use the tries dial to tighten it on hard
+  levels. Also: how many spare tries and hints the bank can hold.

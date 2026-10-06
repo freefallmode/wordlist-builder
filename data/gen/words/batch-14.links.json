@@ -12,6 +12,10 @@
 [
 "ancient sites of europe",
 1
+],
+[
+"double letters",
+2
 ]
 ],
 "clash": [
@@ -283,6 +287,10 @@
 [
 "famous buildings",
 4
+],
+[
+"double letters",
+2
 ]
 ],
 "clash": []
@@ -960,6 +968,10 @@
 [
 "famous museums",
 2
+],
+[
+"double letters",
+2
 ]
 ],
 "clash": []
@@ -1283,7 +1295,12 @@
 ]
 },
 "Vessel": {
-"also": [],
+"also": [
+[
+"double letters",
+2
+]
+],
 "clash": [
 "boat types",
 "containers"
@@ -1556,11 +1573,16 @@
 [
 "oceans and seas",
 2
+],
+[
+"double letters",
+2
 ]
 ],
 "clash": [
 "caribbean islands",
-"beach destinations"
+"beach destinations",
+"hidden body parts"
 ]
 },
 "Mediterranean": {
@@ -1571,6 +1593,10 @@
 ],
 [
 "diet types",
+2
+],
+[
+"double letters",
 2
 ]
 ],
@@ -1748,7 +1774,8 @@
 "also": [],
 "clash": [
 "indian states",
-"wool fabrics"
+"wool fabrics",
+"hidden trees"
 ]
 },
 "Punjab": {
@@ -1924,6 +1951,10 @@
 [
 "line types",
 2
+],
+[
+"double letters",
+2
 ]
 ],
 "clash": [
@@ -2038,7 +2069,12 @@
 ]
 },
 "legend": {
-"also": [],
+"also": [
+[
+"hidden body parts",
+2
+]
+],
 "clash": [
 "folklore",
 "legendary heroes"
@@ -2121,7 +2157,12 @@
 ]
 },
 "coordinates": {
-"also": [],
+"also": [
+[
+"double letters",
+2
+]
+],
 "clash": [
 "geometry",
 "math terms"
@@ -2217,6 +2258,10 @@
 [
 "camera parts",
 3
+],
+[
+"double letters",
+2
 ]
 ],
 "clash": [
@@ -2318,6 +2363,10 @@
 [
 "outdoor activities",
 3
+],
+[
+"double letters",
+2
 ]
 ],
 "clash": []
@@ -2634,6 +2683,10 @@
 [
 "asian countries",
 1
+],
+[
+"hidden body parts",
+2
 ]
 ],
 "clash": [
@@ -2787,6 +2840,10 @@
 [
 "arabic-speaking countries",
 2
+],
+[
+"double letters",
+2
 ]
 ],
 "clash": [
@@ -2849,6 +2906,18 @@
 [
 "island nations",
 1
+],
+[
+"double letters",
+2
+],
+[
+"hidden body parts",
+3
+],
+[
+"hidden trees",
+3
 ]
 ],
 "clash": []
@@ -3020,6 +3089,10 @@
 [
 "french-speaking countries",
 2
+],
+[
+"double letters",
+2
 ]
 ],
 "clash": []
@@ -3096,6 +3169,10 @@
 ],
 [
 "southern african countries",
+2
+],
+[
+"all five vowels",
 2
 ]
 ],
@@ -3765,6 +3842,10 @@
 [
 "european countries",
 1
+],
+[
+"double letters",
+2
 ]
 ],
 "clash": []
@@ -4033,7 +4114,9 @@
 1
 ]
 ],
-"clash": []
+"clash": [
+"hidden numbers"
+]
 },
 "Monaco": {
 "also": [
@@ -4114,6 +4197,10 @@
 [
 "famous islands",
 1
+],
+[
+"double letters",
+2
 ]
 ],
 "clash": [
@@ -4212,6 +4299,10 @@
 [
 "eastern european countries",
 1
+],
+[
+"double letters",
+2
 ]
 ],
 "clash": []
@@ -4384,6 +4475,10 @@
 [
 "landlocked countries",
 3
+],
+[
+"hidden body parts",
+2
 ]
 ],
 "clash": [
@@ -4672,6 +4767,10 @@
 [
 "landlocked countries",
 2
+],
+[
+"double letters",
+2
 ]
 ],
 "clash": []
@@ -4897,6 +4996,10 @@
 [
 "advertising words",
 3
+],
+[
+"double letters",
+2
 ]
 ],
 "clash": [
@@ -4908,6 +5011,10 @@
 [
 "baseball terms",
 3
+],
+[
+"double letters",
+2
 ]
 ],
 "clash": []
@@ -5116,6 +5223,10 @@
 [
 "fishing tackle",
 2
+],
+[
+"no vowels",
+2
 ]
 ],
 "clash": [
@@ -5160,6 +5271,10 @@
 [
 "sailing words",
 4
+],
+[
+"double letters",
+2
 ]
 ],
 "clash": []
@@ -5168,6 +5283,10 @@
 "also": [
 [
 "butterflies and moths",
+2
+],
+[
+"double letters",
 2
 ]
 ],
@@ -5203,6 +5322,10 @@
 [
 "heraldry",
 4
+],
+[
+"double letters",
+2
 ]
 ],
 "clash": []
@@ -5212,6 +5335,10 @@
 [
 "ship parts",
 4
+],
+[
+"double letters",
+2
 ]
 ],
 "clash": []
@@ -5234,6 +5361,10 @@
 [
 "roman army",
 4
+],
+[
+"double letters",
+2
 ]
 ],
 "clash": []
@@ -5404,7 +5535,8 @@
 ],
 "clash": [
 "languages of china",
-"chinese food"
+"chinese food",
+"hidden body parts"
 ]
 },
 "Japanese": {
@@ -5425,6 +5557,10 @@
 [
 "european languages",
 1
+],
+[
+"double letters",
+2
 ]
 ],
 "clash": []
@@ -5460,7 +5596,12 @@
 "clash": []
 },
 "Scottish": {
-"also": [],
+"also": [
+[
+"double letters",
+2
+]
+],
 "clash": [
 "celtic languages"
 ]
@@ -5500,12 +5641,21 @@
 [
 "ancient languages",
 2
+],
+[
+"double letters",
+2
 ]
 ],
 "clash": []
 },
 "Swiss": {
-"also": [],
+"also": [
+[
+"double letters",
+2
+]
+],
 "clash": [
 "cheeses",
 "cakes"
@@ -5649,6 +5799,10 @@
 [
 "european languages",
 2
+],
+[
+"double letters",
+2
 ]
 ],
 "clash": []
@@ -5667,7 +5821,9 @@
 2
 ]
 ],
-"clash": []
+"clash": [
+"hidden body parts"
+]
 },
 "Indonesian": {
 "also": [
@@ -5835,6 +5991,10 @@
 [
 "australian slang",
 1
+],
+[
+"double letters",
+2
 ]
 ],
 "clash": []
@@ -6039,6 +6199,14 @@
 [
 "boys' names",
 2
+],
+[
+"letters in alphabetical order",
+2
+],
+[
+"double letters",
+2
 ]
 ],
 "clash": [
@@ -6065,6 +6233,10 @@
 [
 "turkic languages",
 3
+],
+[
+"no vowels",
+2
 ]
 ],
 "clash": []
@@ -6143,6 +6315,10 @@
 [
 "pacific languages",
 4
+],
+[
+"double letters",
+2
 ]
 ],
 "clash": []
@@ -6192,7 +6368,9 @@
 2
 ]
 ],
-"clash": []
+"clash": [
+"hidden birds"
+]
 },
 "Corinthian": {
 "also": [
@@ -6355,6 +6533,10 @@
 [
 "foods named after places",
 1
+],
+[
+"hidden body parts",
+3
 ]
 ],
 "clash": [
@@ -6426,14 +6608,24 @@
 ]
 },
 "Viennese": {
-"also": [],
+"also": [
+[
+"double letters",
+2
+]
+],
 "clash": [
 "coffee drinks",
 "cookies"
 ]
 },
 "Lyonnais": {
-"also": [],
+"also": [
+[
+"double letters",
+2
+]
+],
 "clash": [
 "potato dishes"
 ]
@@ -6474,7 +6666,12 @@
 ]
 },
 "Brummie": {
-"also": [],
+"also": [
+[
+"double letters",
+2
+]
+],
 "clash": [
 "british slang"
 ]
@@ -6551,6 +6748,10 @@
 [
 "acronyms",
 3
+],
+[
+"double letters",
+2
 ]
 ],
 "clash": []
@@ -6598,7 +6799,12 @@
 "clash": []
 },
 "Abyssinia": {
-"also": [],
+"also": [
+[
+"double letters",
+2
+]
+],
 "clash": [
 "cat breeds"
 ]
@@ -6698,7 +6904,12 @@
 "clash": []
 },
 "Prussia": {
-"also": [],
+"also": [
+[
+"double letters",
+2
+]
+],
 "clash": [
 "empires",
 "german states"
@@ -6896,9 +7107,15 @@
 [
 "founding fathers",
 1
+],
+[
+"hidden body parts",
+3
 ]
 ],
-"clash": []
+"clash": [
+"hidden trees"
+]
 },
 "Victoria": {
 "also": [
@@ -6963,6 +7180,10 @@
 [
 "american cities",
 1
+],
+[
+"double letters",
+2
 ]
 ],
 "clash": []
@@ -6972,6 +7193,14 @@
 [
 "us states",
 1
+],
+[
+"double letters",
+2
+],
+[
+"hidden vehicles",
+3
 ]
 ],
 "clash": []
@@ -6997,7 +7226,8 @@
 ]
 ],
 "clash": [
-"us states"
+"us states",
+"hidden vehicles"
 ]
 },
 "St Petersburg": {
@@ -7044,6 +7274,10 @@
 [
 "famous generals",
 2
+],
+[
+"double letters",
+2
 ]
 ],
 "clash": [
@@ -7060,6 +7294,10 @@
 ],
 [
 "american cities",
+2
+],
+[
+"hidden vehicles",
 2
 ]
 ],
@@ -7247,6 +7485,10 @@
 [
 "canadian cities",
 1
+],
+[
+"hidden vehicles",
+2
 ]
 ],
 "clash": [
@@ -7278,6 +7520,10 @@
 [
 "american cities",
 1
+],
+[
+"double letters",
+2
 ]
 ],
 "clash": []
@@ -7287,6 +7533,10 @@
 [
 "american cities",
 1
+],
+[
+"double letters",
+2
 ]
 ],
 "clash": []
@@ -7347,6 +7597,10 @@
 [
 "girls' names",
 1
+],
+[
+"double letters",
+2
 ]
 ],
 "clash": []
@@ -7394,6 +7648,10 @@
 "also": [
 [
 "american cities",
+2
+],
+[
+"double letters",
 2
 ]
 ],
@@ -7476,6 +7734,10 @@
 [
 "australian states and regions",
 1
+],
+[
+"double letters",
+2
 ]
 ],
 "clash": []
@@ -7532,6 +7794,10 @@
 [
 "american cities",
 1
+],
+[
+"double letters",
+2
 ]
 ],
 "clash": []
@@ -7541,12 +7807,21 @@
 [
 "american cities",
 2
+],
+[
+"double letters",
+2
 ]
 ],
 "clash": []
 },
 "Lafayette": {
-"also": [],
+"also": [
+[
+"double letters",
+2
+]
+],
 "clash": [
 "american revolution"
 ]
@@ -7758,6 +8033,10 @@
 [
 "african cities",
 3
+],
+[
+"double letters",
+2
 ]
 ],
 "clash": []
@@ -7767,6 +8046,10 @@
 [
 "colonial america",
 3
+],
+[
+"double letters",
+2
 ]
 ],
 "clash": []
@@ -7778,7 +8061,9 @@
 3
 ]
 ],
-"clash": []
+"clash": [
+"hidden colors"
+]
 },
 "Antioch": {
 "also": [
@@ -7797,6 +8082,10 @@
 ],
 [
 "african countries",
+2
+],
+[
+"double letters",
 2
 ]
 ],
@@ -7868,6 +8157,10 @@
 "also": [
 [
 "european cities",
+2
+],
+[
+"double letters",
 2
 ]
 ],
@@ -7973,6 +8266,10 @@
 [
 "hard cheeses",
 1
+],
+[
+"double letters",
+2
 ]
 ],
 "clash": []
@@ -8037,7 +8334,8 @@
 ]
 ],
 "clash": [
-"cured meats"
+"cured meats",
+"hidden body parts"
 ]
 },
 "Bologna": {
@@ -8076,6 +8374,10 @@
 [
 "european cities",
 1
+],
+[
+"double letters",
+2
 ]
 ],
 "clash": [
@@ -8232,6 +8534,10 @@
 [
 "cocktails",
 1
+],
+[
+"double letters",
+2
 ]
 ],
 "clash": [
@@ -8246,6 +8552,10 @@
 ],
 [
 "american cities",
+2
+],
+[
+"double letters",
 2
 ]
 ],
@@ -8331,6 +8641,10 @@
 [
 "chili peppers",
 1
+],
+[
+"double letters",
+2
 ]
 ],
 "clash": []
@@ -8400,6 +8714,10 @@
 [
 "hard cheeses",
 2
+],
+[
+"double letters",
+2
 ]
 ],
 "clash": []
@@ -8437,6 +8755,10 @@
 [
 "english counties",
 1
+],
+[
+"double letters",
+2
 ]
 ],
 "clash": [
@@ -8444,13 +8766,27 @@
 ]
 },
 "Bakewell": {
-"also": [],
+"also": [
+[
+"double letters",
+2
+],
+[
+"hidden animals",
+3
+]
+],
 "clash": [
 "pies and tarts"
 ]
 },
 "Eccles": {
-"also": [],
+"also": [
+[
+"double letters",
+2
+]
+],
 "clash": [
 "cakes"
 ]
@@ -8471,6 +8807,10 @@
 "also": [
 [
 "british cities",
+2
+],
+[
+"double letters",
 2
 ]
 ],
@@ -8542,6 +8882,10 @@
 [
 "spanish cities",
 1
+],
+[
+"double letters",
+2
 ]
 ],
 "clash": [
@@ -8561,7 +8905,12 @@
 ]
 },
 "Jaffa": {
-"also": [],
+"also": [
+[
+"double letters",
+2
+]
+],
 "clash": [
 "citrus fruits",
 "cookies"
@@ -8580,6 +8929,10 @@
 "also": [
 [
 "european countries",
+2
+],
+[
+"double letters",
 2
 ]
 ],
@@ -8631,6 +8984,10 @@
 [
 "capital cities",
 1
+],
+[
+"double letters",
+2
 ]
 ],
 "clash": [
@@ -8676,6 +9033,14 @@
 [
 "indian cities",
 3
+],
+[
+"double letters",
+2
+],
+[
+"hidden animals",
+3
 ]
 ],
 "clash": []
@@ -8688,6 +9053,10 @@
 ],
 [
 "indian states",
+2
+],
+[
+"double letters",
 2
 ]
 ],
@@ -8769,6 +9138,10 @@
 [
 "wines",
 1
+],
+[
+"double letters",
+2
 ]
 ],
 "clash": []
@@ -8803,6 +9176,10 @@
 [
 "wine regions",
 3
+],
+[
+"all five vowels",
+2
 ]
 ],
 "clash": []
@@ -8885,7 +9262,12 @@
 ]
 },
 "Bayonne": {
-"also": [],
+"also": [
+[
+"double letters",
+2
+]
+],
 "clash": [
 "cured meats"
 ]
@@ -8951,7 +9333,12 @@
 ]
 },
 "Yunnan": {
-"also": [],
+"also": [
+[
+"double letters",
+2
+]
+],
 "clash": [
 "teas"
 ]
@@ -9008,6 +9395,10 @@
 [
 "wines",
 3
+],
+[
+"hidden birds",
+3
 ]
 ],
 "clash": []
@@ -9030,6 +9421,10 @@
 [
 "cheeses",
 3
+],
+[
+"double letters",
+2
 ]
 ],
 "clash": []
@@ -9200,6 +9595,10 @@
 [
 "cheeses",
 3
+],
+[
+"double letters",
+2
 ]
 ],
 "clash": []
@@ -9217,6 +9616,14 @@
 [
 "italian cheeses",
 3
+],
+[
+"double letters",
+2
+],
+[
+"hidden body parts",
+3
 ]
 ],
 "clash": []
@@ -9225,6 +9632,10 @@
 "also": [
 [
 "port cities",
+2
+],
+[
+"hidden birds",
 2
 ]
 ],
@@ -9408,7 +9819,9 @@
 2
 ]
 ],
-"clash": []
+"clash": [
+"hidden vehicles"
+]
 },
 "Sandwich": {
 "also": [
@@ -9538,6 +9951,10 @@
 [
 "port cities",
 3
+],
+[
+"double letters",
+2
 ]
 ],
 "clash": []
@@ -9564,6 +9981,10 @@
 [
 "war words",
 1
+],
+[
+"double letters",
+2
 ]
 ],
 "clash": []
@@ -9634,6 +10055,14 @@
 [
 "poetry forms",
 1
+],
+[
+"hidden fruits",
+3
+],
+[
+"hidden names",
+3
 ]
 ],
 "clash": []
@@ -9654,7 +10083,8 @@
 ]
 ],
 "clash": [
-"famous marathons"
+"famous marathons",
+"hidden animals"
 ]
 },
 "Spa": {
@@ -9708,6 +10138,10 @@
 [
 "business words",
 2
+],
+[
+"double letters",
+2
 ]
 ],
 "clash": []
@@ -9719,7 +10153,12 @@
 ]
 },
 "Settle": {
-"also": [],
+"also": [
+[
+"double letters",
+2
+]
+],
 "clash": [
 "seating"
 ]
@@ -9729,12 +10168,21 @@
 [
 "onion family",
 1
+],
+[
+"double letters",
+2
 ]
 ],
 "clash": []
 },
 "Street": {
-"also": [],
+"also": [
+[
+"double letters",
+2
+]
+],
 "clash": [
 "road types",
 "parts of a town"
@@ -9751,6 +10199,10 @@
 [
 "face",
 1
+],
+[
+"palindromes",
+2
 ]
 ],
 "clash": []
@@ -9779,6 +10231,10 @@
 [
 "fabrics",
 1
+],
+[
+"double letters",
+2
 ]
 ],
 "clash": []
@@ -9820,7 +10276,9 @@
 2
 ]
 ],
-"clash": []
+"clash": [
+"hidden animals"
+]
 },
 "Sandy": {
 "also": [
@@ -9981,7 +10439,12 @@
 "clash": []
 },
 "Rochelle": {
-"also": [],
+"also": [
+[
+"double letters",
+2
+]
+],
 "clash": [
 "girls' names"
 ]
@@ -10023,6 +10486,10 @@
 [
 "symbols",
 1
+],
+[
+"double letters",
+2
 ]
 ],
 "clash": [
@@ -10126,6 +10593,10 @@
 [
 "chinese zodiac",
 2
+],
+[
+"double letters",
+2
 ]
 ],
 "clash": []
@@ -10179,6 +10650,10 @@
 [
 "chinese zodiac",
 1
+],
+[
+"double letters",
+2
 ]
 ],
 "clash": []
@@ -10265,7 +10740,9 @@
 1
 ]
 ],
-"clash": []
+"clash": [
+"hidden body parts"
+]
 },
 "hay": {
 "also": [],
@@ -10326,6 +10803,10 @@
 [
 "dairy and eggs",
 1
+],
+[
+"double letters",
+2
 ]
 ],
 "clash": []
@@ -10420,6 +10901,10 @@
 [
 "stock market words",
 2
+],
+[
+"double letters",
+2
 ]
 ],
 "clash": [
@@ -10458,9 +10943,15 @@
 [
 "farm animals",
 1
+],
+[
+"double letters",
+2
 ]
 ],
-"clash": []
+"clash": [
+"hidden animals"
+]
 },
 "harvest": {
 "also": [
@@ -10543,6 +11034,14 @@
 ],
 [
 "farm buildings",
+2
+],
+[
+"letters in alphabetical order",
+2
+],
+[
+"double letters",
 2
 ]
 ],
@@ -10673,6 +11172,10 @@
 [
 "plant parts",
 1
+],
+[
+"double letters",
+2
 ]
 ],
 "clash": []
@@ -10713,7 +11216,12 @@
 ]
 },
 "windmill": {
-"also": [],
+"also": [
+[
+"double letters",
+2
+]
+],
 "clash": [
 "renewable energy",
 "building toys"
@@ -10777,6 +11285,10 @@
 [
 "working animals",
 2
+],
+[
+"double letters",
+2
 ]
 ],
 "clash": []
@@ -10792,6 +11304,14 @@
 [
 "garden tools",
 1
+],
+[
+"double letters",
+2
+],
+[
+"hidden body parts",
+3
 ]
 ],
 "clash": []
@@ -10801,6 +11321,10 @@
 [
 "garden features",
 1
+],
+[
+"double letters",
+2
 ]
 ],
 "clash": [
@@ -10846,6 +11370,10 @@
 [
 "fabrics",
 1
+],
+[
+"double letters",
+2
 ]
 ],
 "clash": [
@@ -10900,6 +11428,10 @@
 [
 "___berry",
 1
+],
+[
+"double letters",
+2
 ]
 ],
 "clash": []
@@ -10914,7 +11446,12 @@
 "clash": []
 },
 "sty": {
-"also": [],
+"also": [
+[
+"no vowels",
+2
+]
+],
 "clash": [
 "eye parts"
 ]
@@ -10928,6 +11465,10 @@
 [
 "horse racing terms",
 3
+],
+[
+"double letters",
+2
 ]
 ],
 "clash": []
@@ -10945,7 +11486,12 @@
 ]
 },
 "well": {
-"also": [],
+"also": [
+[
+"double letters",
+2
+]
+],
 "clash": [
 "words for good"
 ]
@@ -10959,6 +11505,10 @@
 [
 "dog breeds",
 1
+],
+[
+"double letters",
+2
 ]
 ],
 "clash": []
@@ -11006,7 +11556,12 @@
 ]
 },
 "shearing": {
-"also": [],
+"also": [
+[
+"hidden body parts",
+3
+]
+],
 "clash": [
 "sheep breeds"
 ]
@@ -11015,6 +11570,10 @@
 "also": [
 [
 "animal body parts",
+2
+],
+[
+"double letters",
 2
 ]
 ],
@@ -11029,6 +11588,10 @@
 [
 "roof parts",
 3
+],
+[
+"hidden vehicles",
+3
 ]
 ],
 "clash": []
@@ -11042,6 +11605,10 @@
 [
 "south american animals",
 1
+],
+[
+"double letters",
+2
 ]
 ],
 "clash": []
@@ -11070,6 +11637,10 @@
 [
 "animal homes",
 1
+],
+[
+"double letters",
+2
 ]
 ],
 "clash": [
@@ -11080,6 +11651,10 @@
 "also": [
 [
 "percussion instruments",
+2
+],
+[
+"double letters",
 2
 ]
 ],
@@ -11103,6 +11678,10 @@
 ],
 [
 "homophones",
+2
+],
+[
+"palindromes",
 2
 ]
 ],
@@ -11166,6 +11745,10 @@
 [
 "garden features",
 3
+],
+[
+"double letters",
+2
 ]
 ],
 "clash": []
@@ -11183,13 +11766,23 @@
 ]
 },
 "fallow": {
-"also": [],
+"also": [
+[
+"double letters",
+2
+]
+],
 "clash": [
 "deer"
 ]
 },
 "steer": {
-"also": [],
+"also": [
+[
+"double letters",
+2
+]
+],
 "clash": [
 "driving words"
 ]
@@ -11242,6 +11835,10 @@
 [
 "restaurant words",
 1
+],
+[
+"double letters",
+2
 ]
 ],
 "clash": []
@@ -11366,6 +11963,10 @@
 [
 "kitchen utensils",
 1
+],
+[
+"double letters",
+2
 ]
 ],
 "clash": []
@@ -11409,6 +12010,14 @@
 [
 "___board",
 2
+],
+[
+"letters in alphabetical order",
+2
+],
+[
+"double letters",
+2
 ]
 ],
 "clash": [
@@ -11448,6 +12057,10 @@
 [
 "restaurant words",
 1
+],
+[
+"double letters",
+2
 ]
 ],
 "clash": []
@@ -11461,6 +12074,10 @@
 [
 "desserts and sweets",
 1
+],
+[
+"double letters",
+2
 ]
 ],
 "clash": []
@@ -11491,6 +12108,10 @@
 [
 "containers",
 2
+],
+[
+"hidden birds",
+2
 ]
 ],
 "clash": [
@@ -11510,6 +12131,10 @@
 [
 "materials",
 1
+],
+[
+"double letters",
+2
 ]
 ],
 "clash": [
@@ -11558,12 +12183,21 @@
 [
 "hotel",
 2
+],
+[
+"double letters",
+2
 ]
 ],
 "clash": []
 },
 "host": {
-"also": [],
+"also": [
+[
+"letters in alphabetical order",
+2
+]
+],
 "clash": [
 "party games",
 "birthdays"
@@ -11607,6 +12241,10 @@
 [
 "french phrases in english",
 3
+],
+[
+"double letters",
+2
 ]
 ],
 "clash": []
@@ -11634,6 +12272,10 @@
 [
 "diner",
 1
+],
+[
+"double letters",
+2
 ]
 ],
 "clash": []
@@ -11668,6 +12310,10 @@
 [
 "nightclub words",
 2
+],
+[
+"hidden numbers",
+3
 ]
 ],
 "clash": []
@@ -11745,6 +12391,10 @@
 [
 "black___",
 2
+],
+[
+"double letters",
+2
 ]
 ],
 "clash": [
@@ -11755,6 +12405,10 @@
 "also": [
 [
 "hotel",
+2
+],
+[
+"double letters",
 2
 ]
 ],
@@ -11783,6 +12437,10 @@
 ],
 [
 "food jobs",
+2
+],
+[
+"double letters",
 2
 ]
 ],
@@ -11861,6 +12519,10 @@
 [
 "cooking methods",
 1
+],
+[
+"double letters",
+2
 ]
 ],
 "clash": [
@@ -12022,7 +12684,9 @@
 3
 ]
 ],
-"clash": []
+"clash": [
+"hidden animals"
+]
 },
 "cover charge": {
 "also": [
@@ -12082,6 +12746,10 @@
 [
 "kitchen utensils",
 2
+],
+[
+"double letters",
+2
 ]
 ],
 "clash": []
@@ -12115,7 +12783,12 @@
 "clash": []
 },
 "pass": {
-"also": [],
+"also": [
+[
+"double letters",
+2
+]
+],
 "clash": [
 "soccer terms",
 "american football terms",
@@ -12179,6 +12852,10 @@
 [
 "___book",
 1
+],
+[
+"double letters",
+2
 ]
 ],
 "clash": [
@@ -12186,7 +12863,12 @@
 ]
 },
 "kitchen": {
-"also": [],
+"also": [
+[
+"hidden birds",
+3
+]
+],
 "clash": [
 "kitchen brigade"
 ]
@@ -12204,7 +12886,12 @@
 ]
 },
 "trolley": {
-"also": [],
+"also": [
+[
+"double letters",
+2
+]
+],
 "clash": [
 "public transportation"
 ]
@@ -12322,6 +13009,10 @@
 [
 "shopping words",
 1
+],
+[
+"double letters",
+2
 ]
 ],
 "clash": [
@@ -12382,6 +13073,10 @@
 [
 "kitchen appliances",
 1
+],
+[
+"double letters",
+2
 ]
 ],
 "clash": [
@@ -12531,7 +13226,12 @@
 ]
 },
 "pharmacy": {
-"also": [],
+"also": [
+[
+"hidden body parts",
+3
+]
+],
 "clash": [
 "pharmacy"
 ]
@@ -12577,6 +13277,10 @@
 [
 "shopping words",
 1
+],
+[
+"double letters",
+2
 ]
 ],
 "clash": []
@@ -12625,6 +13329,10 @@
 ],
 [
 "___box",
+2
+],
+[
+"double letters",
 2
 ]
 ],
@@ -12747,6 +13455,10 @@
 [
 "mail words",
 1
+],
+[
+"hidden animals",
+3
 ]
 ],
 "clash": []
@@ -12768,6 +13480,10 @@
 ],
 [
 "___book",
+2
+],
+[
+"double letters",
 2
 ]
 ],
@@ -12929,6 +13645,10 @@
 [
 "mail words",
 2
+],
+[
+"hidden body parts",
+3
 ]
 ],
 "clash": [
@@ -12964,6 +13684,10 @@
 [
 "mail words",
 1
+],
+[
+"double letters",
+2
 ]
 ],
 "clash": []
@@ -13042,6 +13766,10 @@
 [
 "old ways to communicate",
 1
+],
+[
+"hidden body parts",
+3
 ]
 ],
 "clash": [
@@ -13067,13 +13795,23 @@
 "clash": []
 },
 "signature": {
-"also": [],
+"also": [
+[
+"hidden insects",
+3
+]
+],
 "clash": [
 "legal documents"
 ]
 },
 "book": {
-"also": [],
+"also": [
+[
+"double letters",
+2
+]
+],
 "clash": [
 "parts of a book"
 ]
@@ -13093,6 +13831,10 @@
 [
 "living room",
 2
+],
+[
+"double letters",
+2
 ]
 ],
 "clash": []
@@ -13111,6 +13853,10 @@
 [
 "internet words",
 2
+],
+[
+"double letters",
+2
 ]
 ],
 "clash": []
@@ -13120,6 +13866,10 @@
 [
 "storage furniture",
 1
+],
+[
+"double letters",
+2
 ]
 ],
 "clash": []
@@ -13230,7 +13980,12 @@
 ]
 },
 "bookworm": {
-"also": [],
+"also": [
+[
+"double letters",
+2
+]
+],
 "clash": [
 "insect life cycle",
 "words for expert"
@@ -13265,6 +14020,10 @@
 [
 "parts of a book",
 1
+],
+[
+"hidden trees",
+3
 ]
 ],
 "clash": []
@@ -13274,6 +14033,10 @@
 [
 "classroom items",
 1
+],
+[
+"double letters",
+2
 ]
 ],
 "clash": []
@@ -13341,7 +14104,9 @@
 1
 ]
 ],
-"clash": []
+"clash": [
+"hidden animals"
+]
 },
 "quiet": {
 "also": [
@@ -13384,7 +14149,12 @@
 "clash": []
 },
 "ladder": {
-"also": [],
+"also": [
+[
+"double letters",
+2
+]
+],
 "clash": [
 "things with legs"
 ]
@@ -13420,6 +14190,10 @@
 [
 "___cake",
 2
+],
+[
+"double letters",
+2
 ]
 ],
 "clash": [
@@ -13431,6 +14205,10 @@
 [
 "coffee drinks",
 1
+],
+[
+"double letters",
+2
 ]
 ],
 "clash": []
@@ -13440,6 +14218,10 @@
 [
 "coffee drinks",
 1
+],
+[
+"double letters",
+2
 ]
 ],
 "clash": []
@@ -13449,6 +14231,10 @@
 [
 "coffee drinks",
 1
+],
+[
+"double letters",
+2
 ]
 ],
 "clash": []
@@ -13498,14 +14284,24 @@
 [
 "breakfast foods",
 1
+],
+[
+"double letters",
+2
 ]
 ],
-"clash": []
+"clash": [
+"hidden insects"
+]
 },
 "muffin": {
 "also": [
 [
 "breakfast foods",
+2
+],
+[
+"double letters",
 2
 ]
 ],
@@ -13620,6 +14416,10 @@
 [
 "coffee drinks",
 1
+],
+[
+"double letters",
+2
 ]
 ],
 "clash": []
@@ -13638,6 +14438,10 @@
 [
 "british food",
 1
+],
+[
+"hidden numbers",
+3
 ]
 ],
 "clash": []
@@ -13681,6 +14485,10 @@
 ],
 [
 "kitchen utensils",
+2
+],
+[
+"double letters",
 2
 ]
 ],
@@ -13808,7 +14616,12 @@
 "clash": []
 },
 "smoothie": {
-"also": [],
+"also": [
+[
+"double letters",
+2
+]
+],
 "clash": [
 "juices"
 ]
@@ -13817,6 +14630,10 @@
 "also": [
 [
 "internet words",
+2
+],
+[
+"double letters",
 2
 ]
 ],
@@ -13941,6 +14758,10 @@
 [
 "coffee drinks",
 2
+],
+[
+"double letters",
+2
 ]
 ],
 "clash": []
@@ -13955,6 +14776,10 @@
 "also": [
 [
 "cookies",
+2
+],
+[
+"double letters",
 2
 ]
 ],
@@ -14024,6 +14849,10 @@
 [
 "desserts and sweets",
 1
+],
+[
+"double letters",
+2
 ]
 ],
 "clash": []
@@ -14033,6 +14862,10 @@
 [
 "sweeteners",
 1
+],
+[
+"double letters",
+2
 ]
 ],
 "clash": []
@@ -14042,6 +14875,10 @@
 [
 "spices",
 1
+],
+[
+"double letters",
+2
 ]
 ],
 "clash": []
@@ -14062,6 +14899,10 @@
 [
 "breakfast foods",
 1
+],
+[
+"double letters",
+2
 ]
 ],
 "clash": []
@@ -14115,6 +14956,10 @@
 [
 "coffee drinks",
 3
+],
+[
+"double letters",
+2
 ]
 ],
 "clash": []
@@ -14128,6 +14973,10 @@
 [
 "frozen desserts",
 3
+],
+[
+"double letters",
+2
 ]
 ],
 "clash": []
@@ -14151,7 +15000,12 @@
 "clash": []
 },
 "terrace": {
-"also": [],
+"also": [
+[
+"double letters",
+2
+]
+],
 "clash": [
 "house styles",
 "garden features"
@@ -14238,6 +15092,10 @@
 [
 "french food",
 1
+],
+[
+"double letters",
+2
 ]
 ],
 "clash": []
@@ -14294,6 +15152,10 @@
 [
 "breads",
 1
+],
+[
+"double letters",
+2
 ]
 ],
 "clash": [
@@ -14489,7 +15351,8 @@
 ]
 ],
 "clash": [
-"pizza styles"
+"pizza styles",
+"hidden colors"
 ]
 },
 "birthday cake": {
@@ -14546,6 +15409,10 @@
 [
 "desserts and sweets",
 1
+],
+[
+"hidden body parts",
+3
 ]
 ],
 "clash": []
@@ -14568,6 +15435,14 @@
 [
 "italian food",
 2
+],
+[
+"double letters",
+2
+],
+[
+"hidden animals",
+3
 ]
 ],
 "clash": []
@@ -14585,6 +15460,10 @@
 [
 "italian food",
 2
+],
+[
+"double letters",
+2
 ]
 ],
 "clash": []
@@ -14598,6 +15477,10 @@
 [
 "cookies",
 2
+],
+[
+"hidden vehicles",
+3
 ]
 ],
 "clash": []
@@ -14675,6 +15558,10 @@
 [
 "judaism words",
 3
+],
+[
+"double letters",
+2
 ]
 ],
 "clash": []
@@ -14898,6 +15785,10 @@
 [
 "breads",
 3
+],
+[
+"double letters",
+2
 ]
 ],
 "clash": []
@@ -14916,6 +15807,10 @@
 [
 "pastries",
 3
+],
+[
+"letters in alphabetical order",
+2
 ]
 ],
 "clash": []
@@ -14943,6 +15838,10 @@
 [
 "baking words",
 3
+],
+[
+"double letters",
+2
 ]
 ],
 "clash": []
@@ -15001,7 +15900,16 @@
 "clash": []
 },
 "peel": {
-"also": [],
+"also": [
+[
+"double letters",
+2
+],
+[
+"hidden animals",
+3
+]
+],
 "clash": [
 "fruits"
 ]
@@ -15011,6 +15919,10 @@
 [
 "service jobs",
 1
+],
+[
+"double letters",
+2
 ]
 ],
 "clash": []
@@ -15033,6 +15945,10 @@
 ],
 [
 "stationery",
+2
+],
+[
+"double letters",
 2
 ]
 ],
@@ -15092,6 +16008,10 @@
 [
 "toiletries for washing",
 1
+],
+[
+"double letters",
+2
 ]
 ],
 "clash": []
@@ -15118,6 +16038,10 @@
 [
 "hand___",
 3
+],
+[
+"double letters",
+2
 ]
 ],
 "clash": []
@@ -15234,7 +16158,16 @@
 "clash": []
 },
 "clippers": {
-"also": [],
+"also": [
+[
+"double letters",
+2
+],
+[
+"hidden body parts",
+3
+]
+],
 "clash": [
 "nail care"
 ]
@@ -15262,6 +16195,10 @@
 [
 "hairstyles",
 1
+],
+[
+"palindromes",
+2
 ]
 ],
 "clash": [
@@ -15314,6 +16251,10 @@
 ],
 [
 "hair care",
+2
+],
+[
+"double letters",
 2
 ]
 ],
@@ -15457,6 +16398,10 @@
 [
 "cleaning items",
 1
+],
+[
+"double letters",
+2
 ]
 ],
 "clash": [
@@ -15516,6 +16461,10 @@
 [
 "hairstyles",
 1
+],
+[
+"double letters",
+2
 ]
 ],
 "clash": [
@@ -15569,6 +16518,10 @@
 [
 "hairstyles",
 2
+],
+[
+"double letters",
+2
 ]
 ],
 "clash": []
@@ -15596,6 +16549,10 @@
 [
 "skincare products",
 2
+],
+[
+"hidden numbers",
+3
 ]
 ],
 "clash": []
@@ -15607,7 +16564,12 @@
 ]
 },
 "roots": {
-"also": [],
+"also": [
+[
+"double letters",
+2
+]
+],
 "clash": [
 "plant parts"
 ]
@@ -15626,7 +16588,12 @@
 ]
 },
 "stall": {
-"also": [],
+"also": [
+[
+"double letters",
+2
+]
+],
 "clash": [
 "farm buildings"
 ]
@@ -15640,6 +16607,10 @@
 [
 "shopping words",
 2
+],
+[
+"double letters",
+2
 ]
 ],
 "clash": []
@@ -15649,6 +16620,10 @@
 [
 "bazaar",
 1
+],
+[
+"double letters",
+2
 ]
 ],
 "clash": []
@@ -15684,7 +16659,12 @@
 ]
 },
 "crowd": {
-"also": [],
+"also": [
+[
+"hidden birds",
+3
+]
+],
 "clash": [
 "groups of people"
 ]
@@ -15702,7 +16682,12 @@
 ]
 },
 "crafts": {
-"also": [],
+"also": [
+[
+"hidden vehicles",
+3
+]
+],
 "clash": [
 "crafts"
 ]
@@ -15711,7 +16696,8 @@
 "also": [],
 "clash": [
 "jewelry",
-"precious materials"
+"precious materials",
+"hidden animals"
 ]
 },
 "cheese": {
@@ -15727,6 +16713,10 @@
 [
 "___board",
 3
+],
+[
+"double letters",
+2
 ]
 ],
 "clash": []
@@ -15748,6 +16738,10 @@
 [
 "street performers",
 1
+],
+[
+"hidden vehicles",
+3
 ]
 ],
 "clash": []
@@ -15820,6 +16814,10 @@
 [
 "spreads",
 1
+],
+[
+"hidden numbers",
+3
 ]
 ],
 "clash": [
@@ -15885,6 +16883,10 @@
 ],
 [
 "fairground food",
+2
+],
+[
+"double letters",
 2
 ]
 ],
@@ -15952,9 +16954,6109 @@
 ]
 },
 "cobblestones": {
-"also": [],
+"also": [
+[
+"double letters",
+2
+]
+],
 "clash": [
 "building stones"
 ]
+},
+"doctor": {
+"also": [
+[
+"medical jobs",
+1
+],
+[
+"doctor's office",
+1
+],
+[
+"hospital words",
+1
+]
+],
+"clash": []
+},
+"nurse": {
+"also": [
+[
+"medical jobs",
+1
+],
+[
+"hospital words",
+1
+],
+[
+"doctor's office",
+2
+]
+],
+"clash": []
+},
+"patient": {
+"also": [
+[
+"hospital words",
+1
+],
+[
+"doctor's office",
+1
+]
+],
+"clash": [
+"positive traits",
+"calm words"
+]
+},
+"surgeon": {
+"also": [
+[
+"medical jobs",
+1
+],
+[
+"operating room",
+1
+],
+[
+"hospital words",
+1
+]
+],
+"clash": []
+},
+"ward": {
+"also": [
+[
+"hospital words",
+1
+]
+],
+"clash": []
+},
+"bed": {
+"also": [
+[
+"furniture",
+1
+],
+[
+"bedroom",
+1
+],
+[
+"beds",
+1
+],
+[
+"sea___",
+2
+],
+[
+"water___",
+2
+],
+[
+"sun___",
+2
+]
+],
+"clash": []
+},
+"stretcher": {
+"also": [
+[
+"first aid",
+2
+],
+[
+"hospital words",
+2
+]
+],
+"clash": []
+},
+"wheelchair": {
+"also": [
+[
+"hospital words",
+1
+],
+[
+"double letters",
+2
+],
+[
+"hidden body parts",
+3
+]
+],
+"clash": [
+"things with wheels"
+]
+},
+"ambulance": {
+"also": [
+[
+"emergency vehicles",
+1
+],
+[
+"hospital words",
+1
+]
+],
+"clash": []
+},
+"emergency room": {
+"also": [
+[
+"hospital words",
+1
+]
+],
+"clash": []
+},
+"scalpel": {
+"also": [
+[
+"operating room",
+1
+],
+[
+"medical equipment",
+1
+]
+],
+"clash": [
+"things that cut"
+]
+},
+"stethoscope": {
+"also": [
+[
+"medical equipment",
+1
+],
+[
+"doctor's office",
+1
+]
+],
+"clash": []
+},
+"syringe": {
+"also": [
+[
+"medical equipment",
+1
+]
+],
+"clash": []
+},
+"bandage": {
+"also": [
+[
+"first aid",
+1
+],
+[
+"medical equipment",
+2
+]
+],
+"clash": []
+},
+"X-ray": {
+"also": [
+[
+"medical tests",
+1
+],
+[
+"hospital words",
+1
+]
+],
+"clash": []
+},
+"surgery": {
+"also": [
+[
+"hospital words",
+1
+],
+[
+"operating room",
+1
+]
+],
+"clash": [
+"medical specialties"
+]
+},
+"gurney": {
+"also": [
+[
+"hospital words",
+2
+]
+],
+"clash": []
+},
+"ER": {
+"also": [
+[
+"hospital words",
+2
+]
+],
+"clash": []
+},
+"ICU": {
+"also": [
+[
+"hospital words",
+2
+]
+],
+"clash": []
+},
+"intensive care": {
+"also": [
+[
+"hospital words",
+2
+]
+],
+"clash": []
+},
+"operating theater": {
+"also": [
+[
+"hospital words",
+2
+],
+[
+"operating room",
+2
+]
+],
+"clash": []
+},
+"operating room": {
+"also": [
+[
+"hospital words",
+1
+]
+],
+"clash": []
+},
+"thermometer": {
+"also": [
+[
+"medical equipment",
+1
+],
+[
+"weather instruments",
+1
+],
+[
+"doctor's office",
+2
+]
+],
+"clash": []
+},
+"needle": {
+"also": [
+[
+"sewing kit",
+1
+],
+[
+"medical equipment",
+2
+],
+[
+"tree parts",
+2
+],
+[
+"double letters",
+2
+]
+],
+"clash": [
+"things that sting"
+]
+},
+"drip": {
+"also": [
+[
+"medical equipment",
+2
+],
+[
+"hospital words",
+2
+]
+],
+"clash": [
+"rain words",
+"water sounds"
+]
+},
+"IV": {
+"also": [
+[
+"medical equipment",
+3
+]
+],
+"clash": [
+"words made of roman numerals"
+]
+},
+"cast": {
+"also": [
+[
+"theater words",
+1
+],
+[
+"first aid",
+2
+]
+],
+"clash": [
+"fishing words"
+]
+},
+"MRI": {
+"also": [
+[
+"medical tests",
+1
+]
+],
+"clash": []
+},
+"CT scan": {
+"also": [
+[
+"medical tests",
+1
+]
+],
+"clash": []
+},
+"ultrasound": {
+"also": [
+[
+"medical tests",
+1
+],
+[
+"pregnancy words",
+1
+]
+],
+"clash": []
+},
+"scan": {
+"also": [
+[
+"medical tests",
+2
+]
+],
+"clash": []
+},
+"blood test": {
+"also": [
+[
+"medical tests",
+1
+]
+],
+"clash": []
+},
+"prescription": {
+"also": [
+[
+"pharmacy",
+1
+],
+[
+"doctor's office",
+1
+]
+],
+"clash": []
+},
+"pill": {
+"also": [
+[
+"forms of medicine",
+1
+],
+[
+"double letters",
+2
+]
+],
+"clash": []
+},
+"paramedic": {
+"also": [
+[
+"medical jobs",
+1
+]
+],
+"clash": [
+"hidden animals"
+]
+},
+"midwife": {
+"also": [
+[
+"medical jobs",
+1
+],
+[
+"childbirth words",
+1
+],
+[
+"maternity ward",
+1
+]
+],
+"clash": []
+},
+"heart monitor": {
+"also": [
+[
+"medical equipment",
+2
+]
+],
+"clash": []
+},
+"defibrillator": {
+"also": [
+[
+"first aid",
+3
+],
+[
+"medical equipment",
+2
+],
+[
+"double letters",
+2
+]
+],
+"clash": []
+},
+"ventilator": {
+"also": [
+[
+"medical equipment",
+2
+]
+],
+"clash": []
+},
+"oxygen mask": {
+"also": [
+[
+"in-flight words",
+2
+],
+[
+"medical equipment",
+2
+]
+],
+"clash": []
+},
+"scrubs": {
+"also": [
+[
+"work clothes",
+1
+],
+[
+"operating room",
+2
+]
+],
+"clash": []
+},
+"hospital gown": {
+"also": [
+[
+"hospital words",
+2
+]
+],
+"clash": []
+},
+"visiting hours": {
+"also": [
+[
+"hospital words",
+2
+]
+],
+"clash": []
+},
+"waiting room": {
+"also": [
+[
+"doctor's office",
+1
+]
+],
+"clash": []
+},
+"maternity": {
+"also": [
+[
+"pregnancy words",
+2
+]
+],
+"clash": [
+"hidden birds"
+]
+},
+"discharge": {
+"also": [
+[
+"hospital words",
+2
+]
+],
+"clash": []
+},
+"outpatient": {
+"also": [
+[
+"hospital words",
+2
+],
+[
+"all five vowels",
+2
+]
+],
+"clash": []
+},
+"operation": {
+"also": [
+[
+"hospital words",
+1
+],
+[
+"operating room",
+1
+]
+],
+"clash": [
+"hidden animals"
+]
+},
+"crutches": {
+"also": [],
+"clash": [
+"injuries"
+]
+},
+"stitches": {
+"also": [
+[
+"first aid",
+2
+]
+],
+"clash": [
+"sewing words",
+"knitting words"
+]
+},
+"anesthesia": {
+"also": [
+[
+"operating room",
+1
+]
+],
+"clash": []
+},
+"blood pressure": {
+"also": [
+[
+"doctor's office",
+2
+],
+[
+"medical tests",
+2
+]
+],
+"clash": []
+},
+"pulse": {
+"also": [],
+"clash": [
+"beans and pulses"
+]
+},
+"porter": {
+"also": [
+[
+"hotel staff",
+2
+],
+[
+"beers",
+3
+]
+],
+"clash": []
+},
+"matron": {
+"also": [],
+"clash": [
+"old-fashioned names"
+]
+},
+"consultant": {
+"also": [],
+"clash": [
+"business words"
+]
+},
+"anesthetist": {
+"also": [
+[
+"medical jobs",
+2
+],
+[
+"operating room",
+2
+]
+],
+"clash": []
+},
+"anesthesiologist": {
+"also": [
+[
+"medical jobs",
+2
+]
+],
+"clash": []
+},
+"radiologist": {
+"also": [
+[
+"medical jobs",
+2
+]
+],
+"clash": []
+},
+"intern": {
+"also": [
+[
+"workplace words",
+2
+]
+],
+"clash": [
+"hidden birds"
+]
+},
+"resident": {
+"also": [],
+"clash": [
+"real estate words"
+]
+},
+"gloves": {
+"also": [],
+"clash": [
+"scarves and gloves"
+]
+},
+"mask": {
+"also": [],
+"clash": [
+"halloween",
+"party supplies"
+]
+},
+"reception": {
+"also": [],
+"clash": [
+"weddings",
+"hotel"
+]
+},
+"triage": {
+"also": [
+[
+"hospital words",
+2
+]
+],
+"clash": []
+},
+"pediatrics": {
+"also": [
+[
+"medical specialties",
+1
+]
+],
+"clash": []
+},
+"oncology": {
+"also": [
+[
+"medical specialties",
+2
+]
+],
+"clash": []
+},
+"cardiology": {
+"also": [
+[
+"medical specialties",
+2
+]
+],
+"clash": []
+},
+"appointment": {
+"also": [
+[
+"doctor's office",
+1
+],
+[
+"double letters",
+2
+]
+],
+"clash": []
+},
+"sling": {
+"also": [
+[
+"first aid",
+2
+]
+],
+"clash": [
+"historic weapons"
+]
+},
+"splint": {
+"also": [
+[
+"first aid",
+2
+]
+],
+"clash": []
+},
+"sutures": {
+"also": [
+[
+"operating room",
+3
+]
+],
+"clash": []
+},
+"plaster cast": {
+"also": [
+[
+"first aid",
+2
+]
+],
+"clash": []
+},
+"morphine": {
+"also": [
+[
+"medicines",
+3
+]
+],
+"clash": [
+"illegal drugs"
+]
+},
+"gauze": {
+"also": [
+[
+"first aid",
+2
+]
+],
+"clash": []
+},
+"recovery room": {
+"also": [
+[
+"operating room",
+2
+]
+],
+"clash": []
+},
+"helipad": {
+"also": [],
+"clash": [
+"airport words",
+"hidden body parts"
+]
+},
+"morgue": {
+"also": [],
+"clash": [
+"tombs and burials"
+]
+},
+"cannula": {
+"also": [
+[
+"medical equipment",
+3
+],
+[
+"double letters",
+2
+]
+],
+"clash": []
+},
+"nebulizer": {
+"also": [
+[
+"medical equipment",
+3
+]
+],
+"clash": []
+},
+"chaplain": {
+"also": [
+[
+"religious leaders",
+2
+]
+],
+"clash": []
+},
+"cafeteria": {
+"also": [],
+"clash": [
+"school types"
+]
+},
+"A&E": {
+"also": [
+[
+"hospital words",
+2
+]
+],
+"clash": []
+},
+"maternity ward": {
+"also": [
+[
+"hospital words",
+2
+]
+],
+"clash": []
+},
+"CPR": {
+"also": [
+[
+"first aid",
+1
+]
+],
+"clash": []
+},
+"temperature": {
+"also": [],
+"clash": [
+"weather",
+"hidden animals"
+]
+},
+"diagnosis": {
+"also": [
+[
+"doctor's office",
+2
+]
+],
+"clash": []
+},
+"medicine": {
+"also": [],
+"clash": [
+"medicines"
+]
+},
+"saline": {
+"also": [],
+"clash": [
+"salty foods"
+]
+},
+"firefighter": {
+"also": [
+[
+"hidden fruits",
+3
+]
+],
+"clash": [
+"outdoor jobs"
+]
+},
+"fireman": {
+"also": [],
+"clash": [
+"___man"
+]
+},
+"fire engine": {
+"also": [
+[
+"emergency vehicles",
+1
+]
+],
+"clash": []
+},
+"fire truck": {
+"also": [
+[
+"emergency vehicles",
+1
+],
+[
+"truck types",
+2
+]
+],
+"clash": []
+},
+"hose": {
+"also": [
+[
+"garden tools",
+1
+]
+],
+"clash": [
+"underwear"
+]
+},
+"helmet": {
+"also": [
+[
+"sports equipment",
+2
+],
+[
+"armor",
+2
+],
+[
+"hidden trees",
+3
+]
+],
+"clash": [
+"hats"
+]
+},
+"siren": {
+"also": [],
+"clash": [
+"mythical creatures",
+"sea monsters"
+]
+},
+"fire extinguisher": {
+"also": [
+[
+"emergency supplies",
+2
+]
+],
+"clash": []
+},
+"fire station": {
+"also": [
+[
+"public buildings",
+1
+]
+],
+"clash": []
+},
+"axe": {
+"also": [
+[
+"historic weapons",
+2
+],
+[
+"medieval weapons",
+2
+]
+],
+"clash": [
+"hand tools"
+]
+},
+"boots": {
+"also": [
+[
+"double letters",
+2
+]
+],
+"clash": [
+"boots",
+"snow___",
+"rain___"
+]
+},
+"extinguisher": {
+"also": [
+[
+"emergency supplies",
+2
+]
+],
+"clash": []
+},
+"hydrant": {
+"also": [
+[
+"street furniture",
+1
+]
+],
+"clash": [
+"hidden insects"
+]
+},
+"fire hydrant": {
+"also": [
+[
+"street furniture",
+1
+]
+],
+"clash": []
+},
+"alarm": {
+"also": [
+[
+"fire___",
+2
+],
+[
+"hidden body parts",
+3
+]
+],
+"clash": [
+"clocks and calendars"
+]
+},
+"bell": {
+"also": [
+[
+"hand___",
+2
+],
+[
+"letters in alphabetical order",
+2
+],
+[
+"double letters",
+2
+]
+],
+"clash": [
+"percussion instruments",
+"church parts",
+"christmas"
+]
+},
+"Dalmatian": {
+"also": [
+[
+"dog breeds",
+1
+],
+[
+"spotted animals",
+1
+],
+[
+"black and white animals",
+2
+]
+],
+"clash": []
+},
+"captain": {
+"also": [
+[
+"military ranks",
+1
+],
+[
+"ship crew",
+1
+],
+[
+"navy words",
+2
+]
+],
+"clash": []
+},
+"shift": {
+"also": [
+[
+"keyboard keys",
+1
+],
+[
+"workplace words",
+1
+]
+],
+"clash": []
+},
+"bunk": {
+"also": [
+[
+"beds",
+1
+]
+],
+"clash": []
+},
+"crew": {
+"also": [],
+"clash": [
+"ship crew"
+]
+},
+"pump": {
+"also": [],
+"clash": [
+"shoes",
+"gas station"
+]
+},
+"smoke": {
+"also": [
+[
+"fire words",
+1
+]
+],
+"clash": []
+},
+"fire drill": {
+"also": [],
+"clash": [
+"school"
+]
+},
+"crowbar": {
+"also": [
+[
+"hand tools",
+2
+]
+],
+"clash": []
+},
+"fire blanket": {
+"also": [
+[
+"emergency supplies",
+3
+]
+],
+"clash": []
+},
+"rope": {
+"also": [
+[
+"cords and strings",
+1
+],
+[
+"climbing gear",
+1
+]
+],
+"clash": []
+},
+"blaze": {
+"also": [
+[
+"fire words",
+1
+]
+],
+"clash": []
+},
+"flame": {
+"also": [
+[
+"fire words",
+1
+]
+],
+"clash": []
+},
+"smoke detector": {
+"also": [
+[
+"smart home",
+2
+]
+],
+"clash": []
+},
+"first aid": {
+"also": [],
+"clash": [
+"first aid"
+]
+},
+"pager": {
+"also": [
+[
+"retro tech",
+2
+]
+],
+"clash": []
+},
+"garage": {
+"also": [],
+"clash": [
+"garage"
+]
+},
+"rescue": {
+"also": [],
+"clash": [
+"emergency vehicles"
+]
+},
+"911": {
+"also": [],
+"clash": [
+"sounds like a number"
+]
+},
+"engine bay": {
+"also": [],
+"clash": [
+"car parts"
+]
+},
+"flashing lights": {
+"also": [],
+"clash": [
+"emergency vehicles"
+]
+},
+"jacket": {
+"also": [
+[
+"coats and jackets",
+1
+]
+],
+"clash": [
+"hidden names"
+]
+},
+"uniform": {
+"also": [],
+"clash": [
+"school"
+]
+},
+"radio": {
+"also": [
+[
+"home electronics",
+1
+]
+],
+"clash": [
+"radio words"
+]
+},
+"dispatcher": {
+"also": [],
+"clash": [
+"trains"
+]
+},
+"locker": {
+"also": [],
+"clash": [
+"gym equipment"
+]
+},
+"detective": {
+"also": [
+[
+"detective words",
+1
+]
+],
+"clash": []
+},
+"cell": {
+"also": [
+[
+"prison words",
+1
+],
+[
+"letters in alphabetical order",
+2
+],
+[
+"double letters",
+2
+]
+],
+"clash": [
+"cell parts",
+"biology words"
+]
+},
+"jail": {
+"also": [
+[
+"prison words",
+1
+],
+[
+"___bird",
+2
+]
+],
+"clash": []
+},
+"handcuffs": {
+"also": [
+[
+"police words",
+1
+],
+[
+"double letters",
+2
+]
+],
+"clash": []
+},
+"badge": {
+"also": [
+[
+"police words",
+1
+]
+],
+"clash": []
+},
+"police car": {
+"also": [
+[
+"emergency vehicles",
+1
+],
+[
+"police words",
+1
+]
+],
+"clash": []
+},
+"fingerprints": {
+"also": [
+[
+"detective words",
+1
+],
+[
+"police words",
+2
+]
+],
+"clash": []
+},
+"mugshot": {
+"also": [
+[
+"police words",
+2
+]
+],
+"clash": []
+},
+"suspect": {
+"also": [
+[
+"detective words",
+1
+],
+[
+"police words",
+1
+]
+],
+"clash": []
+},
+"arrest": {
+"also": [
+[
+"police words",
+1
+],
+[
+"double letters",
+2
+]
+],
+"clash": []
+},
+"cop": {
+"also": [
+[
+"police words",
+1
+]
+],
+"clash": []
+},
+"police": {
+"also": [
+[
+"police words",
+1
+],
+[
+"___man",
+2
+]
+],
+"clash": []
+},
+"constable": {
+"also": [
+[
+"police words",
+2
+]
+],
+"clash": []
+},
+"sergeant": {
+"also": [
+[
+"military ranks",
+2
+],
+[
+"police words",
+2
+]
+],
+"clash": []
+},
+"inspector": {
+"also": [
+[
+"police words",
+2
+]
+],
+"clash": []
+},
+"holding cell": {
+"also": [
+[
+"prison words",
+2
+],
+[
+"police words",
+2
+]
+],
+"clash": []
+},
+"patrol car": {
+"also": [
+[
+"emergency vehicles",
+2
+],
+[
+"police words",
+2
+]
+],
+"clash": []
+},
+"squad car": {
+"also": [
+[
+"emergency vehicles",
+2
+],
+[
+"police words",
+2
+]
+],
+"clash": []
+},
+"baton": {
+"also": [
+[
+"orchestra words",
+2
+],
+[
+"police words",
+2
+],
+[
+"hidden animals",
+3
+]
+],
+"clash": [
+"track events"
+]
+},
+"taser": {
+"also": [
+[
+"police words",
+2
+]
+],
+"clash": []
+},
+"lineup": {
+"also": [
+[
+"police words",
+2
+]
+],
+"clash": []
+},
+"interrogation": {
+"also": [
+[
+"police words",
+2
+],
+[
+"detective words",
+2
+],
+[
+"double letters",
+2
+]
+],
+"clash": []
+},
+"witness": {
+"also": [
+[
+"courtroom words",
+1
+],
+[
+"detective words",
+2
+],
+[
+"___box",
+3
+],
+[
+"double letters",
+2
+]
+],
+"clash": []
+},
+"statement": {
+"also": [
+[
+"police words",
+2
+]
+],
+"clash": []
+},
+"bail": {
+"also": [
+[
+"courtroom words",
+2
+],
+[
+"police words",
+2
+]
+],
+"clash": []
+},
+"warrant": {
+"also": [
+[
+"police words",
+2
+],
+[
+"double letters",
+2
+]
+],
+"clash": [
+"hidden insects"
+]
+},
+"evidence": {
+"also": [
+[
+"courtroom words",
+1
+],
+[
+"detective words",
+1
+]
+],
+"clash": []
+},
+"wanted poster": {
+"also": [
+[
+"wild west",
+2
+]
+],
+"clash": []
+},
+"custody": {
+"also": [
+[
+"police words",
+2
+]
+],
+"clash": []
+},
+"prisoner": {
+"also": [
+[
+"prison words",
+1
+],
+[
+"hidden numbers",
+3
+]
+],
+"clash": []
+},
+"criminal": {
+"also": [
+[
+"police words",
+1
+]
+],
+"clash": []
+},
+"officer": {
+"also": [
+[
+"police words",
+1
+],
+[
+"double letters",
+2
+]
+],
+"clash": [
+"military ranks"
+]
+},
+"precinct": {
+"also": [
+[
+"police words",
+2
+]
+],
+"clash": []
+},
+"crime": {
+"also": [
+[
+"police words",
+1
+]
+],
+"clash": []
+},
+"mug shot": {
+"also": [
+[
+"police words",
+2
+]
+],
+"clash": []
+},
+"fingerprint": {
+"also": [
+[
+"detective words",
+1
+]
+],
+"clash": []
+},
+"handcuff": {
+"also": [
+[
+"police words",
+1
+],
+[
+"double letters",
+2
+]
+],
+"clash": []
+},
+"truncheon": {
+"also": [
+[
+"police words",
+2
+]
+],
+"clash": []
+},
+"nightstick": {
+"also": [
+[
+"police words",
+2
+]
+],
+"clash": []
+},
+"informant": {
+"also": [
+[
+"detective words",
+2
+],
+[
+"spy words",
+2
+]
+],
+"clash": []
+},
+"lawyer": {
+"also": [
+[
+"courtroom words",
+1
+]
+],
+"clash": []
+},
+"solicitor": {
+"also": [
+[
+"courtroom words",
+2
+]
+],
+"clash": []
+},
+"holster": {
+"also": [
+[
+"cowboy words",
+3
+]
+],
+"clash": []
+},
+"pepper spray": {
+"also": [
+[
+"police words",
+2
+]
+],
+"clash": []
+},
+"police dog": {
+"also": [
+[
+"working animals",
+2
+],
+[
+"police words",
+2
+]
+],
+"clash": []
+},
+"sniffer dog": {
+"also": [
+[
+"working animals",
+2
+],
+[
+"police words",
+2
+]
+],
+"clash": []
+},
+"riot shield": {
+"also": [
+[
+"police words",
+2
+]
+],
+"clash": [
+"protest words"
+]
+},
+"bars": {
+"also": [
+[
+"prison words",
+2
+]
+],
+"clash": [
+"gymnastics apparatus"
+]
+},
+"lockup": {
+"also": [
+[
+"prison words",
+2
+]
+],
+"clash": []
+},
+"detainee": {
+"also": [
+[
+"prison words",
+2
+],
+[
+"double letters",
+2
+]
+],
+"clash": []
+},
+"DNA": {
+"also": [
+[
+"genetics words",
+1
+],
+[
+"detective words",
+2
+]
+],
+"clash": []
+},
+"forensics": {
+"also": [
+[
+"detective words",
+2
+]
+],
+"clash": []
+},
+"CCTV": {
+"also": [
+[
+"letters in alphabetical order",
+2
+],
+[
+"double letters",
+2
+]
+],
+"clash": [
+"spy words"
+]
+},
+"confession": {
+"also": [
+[
+"double letters",
+2
+]
+],
+"clash": [
+"religion words"
+]
+},
+"alibi": {
+"also": [
+[
+"detective words",
+1
+],
+[
+"legal latin",
+3
+]
+],
+"clash": []
+},
+"criminal record": {
+"also": [
+[
+"police words",
+2
+]
+],
+"clash": []
+},
+"caution": {
+"also": [
+[
+"police words",
+2
+]
+],
+"clash": [
+"road signs"
+]
+},
+"Miranda rights": {
+"also": [
+[
+"police words",
+2
+]
+],
+"clash": []
+},
+"rap sheet": {
+"also": [
+[
+"police words",
+3
+]
+],
+"clash": []
+},
+"interview": {
+"also": [
+[
+"workplace words",
+2
+]
+],
+"clash": []
+},
+"station": {
+"also": [],
+"clash": [
+"trains"
+]
+},
+"case file": {
+"also": [
+[
+"detective words",
+2
+]
+],
+"clash": []
+},
+"report": {
+"also": [],
+"clash": [
+"newspaper words"
+]
+},
+"keyboard": {
+"also": [
+[
+"computer parts",
+1
+],
+[
+"keyboard instruments",
+1
+],
+[
+"home office",
+1
+]
+],
+"clash": []
+},
+"mouse": {
+"also": [
+[
+"computer parts",
+1
+],
+[
+"rodents",
+1
+],
+[
+"small pets",
+1
+],
+[
+"household pests",
+1
+]
+],
+"clash": []
+},
+"monitor": {
+"also": [
+[
+"computer parts",
+1
+],
+[
+"lizards",
+2
+]
+],
+"clash": []
+},
+"printer": {
+"also": [
+[
+"computer parts",
+2
+],
+[
+"home office",
+1
+]
+],
+"clash": []
+},
+"phone": {
+"also": [
+[
+"head___",
+2
+],
+[
+"___book",
+2
+],
+[
+"___box",
+2
+],
+[
+"hidden numbers",
+3
+]
+],
+"clash": []
+},
+"stapler": {
+"also": [
+[
+"stationery",
+1
+],
+[
+"home office",
+2
+]
+],
+"clash": []
+},
+"staples": {
+"also": [
+[
+"stationery",
+1
+]
+],
+"clash": [
+"in the pantry"
+]
+},
+"paper clip": {
+"also": [
+[
+"stationery",
+1
+]
+],
+"clash": []
+},
+"pen": {
+"also": [
+[
+"stationery",
+1
+],
+[
+"animal homes",
+3
+]
+],
+"clash": [
+"female animals"
+]
+},
+"pencil": {
+"also": [
+[
+"stationery",
+1
+],
+[
+"art materials",
+1
+]
+],
+"clash": []
+},
+"notepad": {
+"also": [
+[
+"stationery",
+1
+]
+],
+"clash": []
+},
+"filing cabinet": {
+"also": [
+[
+"storage furniture",
+2
+],
+[
+"home office",
+2
+]
+],
+"clash": []
+},
+"folder": {
+"also": [
+[
+"stationery",
+1
+]
+],
+"clash": [
+"software words"
+]
+},
+"file": {
+"also": [
+[
+"hand tools",
+2
+]
+],
+"clash": [
+"nail care",
+"computer actions"
+]
+},
+"whiteboard": {
+"also": [
+[
+"classroom items",
+1
+]
+],
+"clash": []
+},
+"boss": {
+"also": [
+[
+"words for leader",
+1
+],
+[
+"workplace words",
+1
+],
+[
+"letters in alphabetical order",
+2
+],
+[
+"double letters",
+2
+]
+],
+"clash": []
+},
+"manager": {
+"also": [
+[
+"workplace words",
+1
+]
+],
+"clash": []
+},
+"colleague": {
+"also": [
+[
+"workplace words",
+1
+],
+[
+"double letters",
+2
+]
+],
+"clash": []
+},
+"email": {
+"also": [
+[
+"internet words",
+1
+]
+],
+"clash": []
+},
+"meeting": {
+"also": [
+[
+"workplace words",
+1
+],
+[
+"double letters",
+2
+]
+],
+"clash": []
+},
+"scanner": {
+"also": [
+[
+"double letters",
+2
+]
+],
+"clash": [
+"computer parts"
+]
+},
+"fax machine": {
+"also": [
+[
+"retro tech",
+2
+]
+],
+"clash": []
+},
+"sticky note": {
+"also": [
+[
+"stationery",
+1
+]
+],
+"clash": []
+},
+"binder": {
+"also": [
+[
+"stationery",
+1
+]
+],
+"clash": []
+},
+"hole punch": {
+"also": [
+[
+"stationery",
+1
+]
+],
+"clash": []
+},
+"calendar": {
+"also": [
+[
+"clocks and calendars",
+1
+]
+],
+"clash": []
+},
+"marker": {
+"also": [
+[
+"stationery",
+1
+]
+],
+"clash": []
+},
+"water cooler": {
+"also": [
+[
+"workplace words",
+2
+]
+],
+"clash": []
+},
+"coworker": {
+"also": [
+[
+"workplace words",
+1
+],
+[
+"hidden animals",
+3
+]
+],
+"clash": []
+},
+"secretary": {
+"also": [
+[
+"office jobs",
+1
+]
+],
+"clash": []
+},
+"assistant": {
+"also": [
+[
+"office jobs",
+2
+],
+[
+"double letters",
+2
+]
+],
+"clash": []
+},
+"spreadsheet": {
+"also": [
+[
+"software words",
+1
+],
+[
+"double letters",
+2
+]
+],
+"clash": []
+},
+"memo": {
+"also": [
+[
+"workplace words",
+2
+]
+],
+"clash": []
+},
+"deadline": {
+"also": [
+[
+"workplace words",
+2
+]
+],
+"clash": []
+},
+"projector": {
+"also": [
+[
+"classroom items",
+1
+]
+],
+"clash": []
+},
+"desk lamp": {
+"also": [
+[
+"lights and lamps",
+1
+],
+[
+"home office",
+2
+]
+],
+"clash": []
+},
+"swivel chair": {
+"also": [
+[
+"seating",
+2
+]
+],
+"clash": []
+},
+"inbox": {
+"also": [
+[
+"internet words",
+2
+]
+],
+"clash": []
+},
+"shredder": {
+"also": [
+[
+"home office",
+3
+],
+[
+"double letters",
+2
+],
+[
+"hidden colors",
+3
+]
+],
+"clash": []
+},
+"elevator": {
+"also": [],
+"clash": [
+"cable cars and lifts"
+]
+},
+"lift": {
+"also": [
+[
+"cable cars and lifts",
+2
+]
+],
+"clash": [
+"plane parts"
+]
+},
+"calculator": {
+"also": [
+[
+"math tools",
+1
+]
+],
+"clash": []
+},
+"highlighter": {
+"also": [
+[
+"stationery",
+1
+]
+],
+"clash": []
+},
+"office chair": {
+"also": [
+[
+"seating",
+1
+],
+[
+"home office",
+1
+]
+],
+"clash": []
+},
+"paper": {
+"also": [],
+"clash": [
+"things made of paper"
+]
+},
+"video call": {
+"also": [
+[
+"home office",
+2
+]
+],
+"clash": []
+},
+"ring binder": {
+"also": [
+[
+"stationery",
+1
+]
+],
+"clash": []
+},
+"in-tray": {
+"also": [
+[
+"stationery",
+3
+]
+],
+"clash": []
+},
+"lanyard": {
+"also": [],
+"clash": [
+"cords and strings"
+]
+},
+"timesheet": {
+"also": [
+[
+"workplace words",
+3
+],
+[
+"double letters",
+2
+]
+],
+"clash": []
+},
+"payroll": {
+"also": [
+[
+"workplace words",
+2
+],
+[
+"double letters",
+2
+]
+],
+"clash": []
+},
+"tape dispenser": {
+"also": [
+[
+"stationery",
+2
+]
+],
+"clash": []
+},
+"ruler": {
+"also": [
+[
+"stationery",
+1
+],
+[
+"measuring tools",
+1
+]
+],
+"clash": [
+"words for leader",
+"monarchs"
+]
+},
+"headset": {
+"also": [],
+"clash": [
+"audio gear"
+]
+},
+"webcam": {
+"also": [
+[
+"home office",
+2
+]
+],
+"clash": []
+},
+"diary": {
+"also": [],
+"clash": [
+"book genres"
+]
+},
+"planner": {
+"also": [
+[
+"stationery",
+2
+],
+[
+"double letters",
+2
+]
+],
+"clash": []
+},
+"pot plant": {
+"also": [
+[
+"houseplants",
+2
+]
+],
+"clash": []
+},
+"bulletin board": {
+"also": [
+[
+"classroom items",
+2
+]
+],
+"clash": []
+},
+"notice board": {
+"also": [
+[
+"classroom items",
+2
+]
+],
+"clash": []
+},
+"corkboard": {
+"also": [
+[
+"classroom items",
+2
+]
+],
+"clash": []
+},
+"thumbtack": {
+"also": [
+[
+"stationery",
+2
+]
+],
+"clash": []
+},
+"drawing pin": {
+"also": [
+[
+"stationery",
+2
+]
+],
+"clash": []
+},
+"rubber band": {
+"also": [
+[
+"stationery",
+2
+],
+[
+"things made of rubber",
+1
+],
+[
+"stretchy things",
+1
+]
+],
+"clash": []
+},
+"eraser": {
+"also": [
+[
+"stationery",
+1
+],
+[
+"things made of rubber",
+2
+]
+],
+"clash": []
+},
+"correction fluid": {
+"also": [
+[
+"stationery",
+2
+]
+],
+"clash": []
+},
+"password": {
+"also": [
+[
+"cybersecurity words",
+1
+],
+[
+"double letters",
+2
+]
+],
+"clash": []
+},
+"login": {
+"also": [
+[
+"cybersecurity words",
+2
+]
+],
+"clash": []
+},
+"wastebasket": {
+"also": [
+[
+"bins and recycling",
+2
+]
+],
+"clash": []
+},
+"wastepaper basket": {
+"also": [
+[
+"bins and recycling",
+2
+]
+],
+"clash": []
+},
+"Post-it": {
+"also": [
+[
+"stationery",
+2
+]
+],
+"clash": []
+},
+"Post-it note": {
+"also": [
+[
+"stationery",
+2
+]
+],
+"clash": []
+},
+"ink cartridge": {
+"also": [],
+"clash": [
+"stationery"
+]
+},
+"copier": {
+"also": [
+[
+"home office",
+3
+]
+],
+"clash": []
+},
+"open plan": {
+"also": [],
+"clash": [
+"real estate words"
+]
+},
+"assembly line": {
+"also": [
+[
+"industrial revolution",
+2
+]
+],
+"clash": []
+},
+"production line": {
+"also": [
+[
+"industrial revolution",
+3
+]
+],
+"clash": []
+},
+"conveyor belt": {
+"also": [],
+"clash": [
+"things that roll"
+]
+},
+"machine": {
+"also": [
+[
+"hidden body parts",
+3
+]
+],
+"clash": [
+"simple machines"
+]
+},
+"worker": {
+"also": [],
+"clash": [
+"workplace words"
+]
+},
+"forklift": {
+"also": [
+[
+"construction vehicles",
+2
+]
+],
+"clash": []
+},
+"foreman": {
+"also": [
+[
+"workplace words",
+3
+]
+],
+"clash": []
+},
+"supervisor": {
+"also": [
+[
+"workplace words",
+2
+]
+],
+"clash": []
+},
+"overtime": {
+"also": [
+[
+"workplace words",
+1
+]
+],
+"clash": [
+"soccer terms",
+"basketball terms"
+]
+},
+"hard hat": {
+"also": [
+[
+"work clothes",
+2
+],
+[
+"hats",
+2
+]
+],
+"clash": []
+},
+"safety goggles": {
+"also": [
+[
+"science lab",
+2
+]
+],
+"clash": [
+"eyewear"
+]
+},
+"overalls": {
+"also": [
+[
+"work clothes",
+1
+],
+[
+"double letters",
+2
+]
+],
+"clash": [
+"pants and shorts"
+]
+},
+"warehouse": {
+"also": [
+[
+"industrial buildings",
+1
+]
+],
+"clash": []
+},
+"robot": {
+"also": [
+[
+"robots",
+1
+]
+],
+"clash": [
+"toys"
+]
+},
+"robotic arm": {
+"also": [
+[
+"robots",
+2
+]
+],
+"clash": []
+},
+"furnace": {
+"also": [
+[
+"heating and cooling",
+2
+]
+],
+"clash": []
+},
+"chimney": {
+"also": [
+[
+"roof parts",
+1
+],
+[
+"fireplace words",
+1
+]
+],
+"clash": []
+},
+"smokestack": {
+"also": [
+[
+"industrial revolution",
+2
+]
+],
+"clash": []
+},
+"steam": {
+"also": [],
+"clash": [
+"water cycle words",
+"cooking methods"
+]
+},
+"whistle": {
+"also": [
+[
+"sports officials",
+2
+]
+],
+"clash": [
+"things that pop"
+]
+},
+"welder": {
+"also": [
+[
+"trades",
+2
+]
+],
+"clash": []
+},
+"crane": {
+"also": [
+[
+"wading birds",
+1
+],
+[
+"waterbirds",
+1
+],
+[
+"construction vehicles",
+1
+],
+[
+"___fly",
+2
+]
+],
+"clash": []
+},
+"wages": {
+"also": [
+[
+"money words",
+1
+],
+[
+"workplace words",
+1
+]
+],
+"clash": []
+},
+"gears": {
+"also": [
+[
+"bicycle parts",
+2
+],
+[
+"hidden body parts",
+3
+]
+],
+"clash": []
+},
+"cog": {
+"also": [],
+"clash": [
+"simple machines"
+]
+},
+"motor": {
+"also": [
+[
+"engines",
+2
+]
+],
+"clash": []
+},
+"night shift": {
+"also": [
+[
+"workplace words",
+2
+]
+],
+"clash": []
+},
+"lathe": {
+"also": [
+[
+"woodworking words",
+2
+]
+],
+"clash": []
+},
+"drill press": {
+"also": [
+[
+"power tools",
+2
+]
+],
+"clash": []
+},
+"press": {
+"also": [
+[
+"double letters",
+2
+]
+],
+"clash": [
+"newspaper words",
+"journalism words"
+]
+},
+"kiln": {
+"also": [
+[
+"pottery words",
+1
+]
+],
+"clash": []
+},
+"boiler": {
+"also": [
+[
+"heating and cooling",
+2
+]
+],
+"clash": []
+},
+"workbench": {
+"also": [
+[
+"garage",
+2
+],
+[
+"woodworking words",
+2
+]
+],
+"clash": []
+},
+"toolbox": {
+"also": [
+[
+"garage",
+2
+],
+[
+"double letters",
+2
+]
+],
+"clash": []
+},
+"wrench": {
+"also": [
+[
+"hand tools",
+1
+],
+[
+"hidden birds",
+3
+]
+],
+"clash": []
+},
+"spanner": {
+"also": [
+[
+"hand tools",
+1
+],
+[
+"double letters",
+2
+]
+],
+"clash": []
+},
+"hammer": {
+"also": [
+[
+"hand tools",
+1
+],
+[
+"field events",
+2
+],
+[
+"double letters",
+2
+]
+],
+"clash": [
+"percussion instruments"
+]
+},
+"sparks": {
+"also": [],
+"clash": [
+"fire words"
+]
+},
+"mold": {
+"also": [],
+"clash": [
+"household pests"
+]
+},
+"cardboard": {
+"also": [],
+"clash": [
+"things made of paper"
+]
+},
+"union": {
+"also": [],
+"clash": [
+"political ideologies"
+]
+},
+"strike": {
+"also": [
+[
+"bowling terms",
+1
+],
+[
+"baseball terms",
+1
+],
+[
+"protest words",
+1
+]
+],
+"clash": [
+"workplace words"
+]
+},
+"canteen": {
+"also": [
+[
+"camping gear",
+2
+],
+[
+"double letters",
+2
+]
+],
+"clash": [
+"school"
+]
+},
+"piston": {
+"also": [
+[
+"engines",
+2
+],
+[
+"car parts",
+3
+]
+],
+"clash": []
+},
+"engine": {
+"also": [
+[
+"car parts",
+1
+],
+[
+"engines",
+1
+],
+[
+"fire___",
+2
+]
+],
+"clash": []
+},
+"generator": {
+"also": [
+[
+"power grid words",
+2
+]
+],
+"clash": [
+"hidden animals"
+]
+},
+"hopper": {
+"also": [
+[
+"double letters",
+2
+]
+],
+"clash": [
+"garden bugs"
+]
+},
+"tank": {
+"also": [
+[
+"military vehicles",
+1
+],
+[
+"water___",
+2
+]
+],
+"clash": [
+"pet supplies"
+]
+},
+"pipe": {
+"also": [
+[
+"plumbing words",
+1
+],
+[
+"___fish",
+3
+],
+[
+"water___",
+3
+]
+],
+"clash": [
+"smoking words"
+]
+},
+"valve": {
+"also": [
+[
+"plumbing words",
+2
+],
+[
+"engines",
+3
+]
+],
+"clash": []
+},
+"gauge": {
+"also": [
+[
+"rain___",
+2
+]
+],
+"clash": [
+"measuring instruments"
+]
+},
+"lever": {
+"also": [
+[
+"simple machines",
+1
+]
+],
+"clash": []
+},
+"control panel": {
+"also": [],
+"clash": [
+"dashboard items"
+]
+},
+"laborer": {
+"also": [
+[
+"trades",
+2
+]
+],
+"clash": []
+},
+"machinist": {
+"also": [
+[
+"trades",
+3
+]
+],
+"clash": []
+},
+"operator": {
+"also": [],
+"clash": [
+"phone words",
+"hidden animals"
+]
+},
+"mill": {
+"also": [
+[
+"industrial buildings",
+2
+],
+[
+"water___",
+2
+],
+[
+"words made of roman numerals",
+2
+],
+[
+"double letters",
+2
+]
+],
+"clash": []
+},
+"foundry": {
+"also": [
+[
+"industrial buildings",
+3
+]
+],
+"clash": []
+},
+"bolt": {
+"also": [
+[
+"fixings",
+1
+]
+],
+"clash": [
+"storms",
+"windows and doors"
+]
+},
+"rivet": {
+"also": [
+[
+"fixings",
+2
+]
+],
+"clash": []
+},
+"sawdust": {
+"also": [
+[
+"woodworking words",
+2
+]
+],
+"clash": []
+},
+"grease": {
+"also": [],
+"clash": [
+"slippery things"
+]
+},
+"oil": {
+"also": [
+[
+"fossil fuels",
+1
+],
+[
+"fuels",
+1
+]
+],
+"clash": [
+"oils and vinegars",
+"art materials"
+]
+},
+"smog": {
+"also": [
+[
+"pollution words",
+1
+]
+],
+"clash": []
+},
+"pollution": {
+"also": [
+[
+"double letters",
+2
+]
+],
+"clash": [
+"pollution words"
+]
+},
+"die": {
+"also": [],
+"clash": [
+"dice games"
+]
+},
+"ear defenders": {
+"also": [],
+"clash": [
+"hearing words"
+]
+},
+"3D printer": {
+"also": [],
+"clash": [
+"computer parts"
+]
+},
+"earplugs": {
+"also": [],
+"clash": [
+"sleep words"
+]
+},
+"crane operator": {
+"also": [],
+"clash": [
+"construction vehicles"
+]
+},
+"bulldozer": {
+"also": [
+[
+"construction vehicles",
+1
+],
+[
+"double letters",
+2
+]
+],
+"clash": [
+"hidden animals"
+]
+},
+"excavator": {
+"also": [
+[
+"construction vehicles",
+1
+]
+],
+"clash": []
+},
+"digger": {
+"also": [
+[
+"construction vehicles",
+1
+],
+[
+"double letters",
+2
+]
+],
+"clash": []
+},
+"dump truck": {
+"also": [
+[
+"construction vehicles",
+1
+],
+[
+"truck types",
+1
+]
+],
+"clash": []
+},
+"cement mixer": {
+"also": [
+[
+"construction vehicles",
+1
+]
+],
+"clash": []
+},
+"concrete": {
+"also": [
+[
+"building materials",
+1
+],
+[
+"man-made materials",
+1
+]
+],
+"clash": []
+},
+"cement": {
+"also": [
+[
+"building materials",
+1
+]
+],
+"clash": []
+},
+"brick": {
+"also": [
+[
+"building materials",
+1
+]
+],
+"clash": []
+},
+"scaffolding": {
+"also": [
+[
+"double letters",
+2
+]
+],
+"clash": [
+"building materials"
+]
+},
+"nail": {
+"also": [
+[
+"fixings",
+1
+]
+],
+"clash": [
+"hands and feet"
+]
+},
+"drill": {
+"also": [
+[
+"power tools",
+1
+],
+[
+"fire___",
+2
+],
+[
+"hand___",
+3
+],
+[
+"double letters",
+2
+]
+],
+"clash": []
+},
+"jackhammer": {
+"also": [
+[
+"power tools",
+2
+],
+[
+"double letters",
+2
+]
+],
+"clash": []
+},
+"shovel": {
+"also": [
+[
+"garden tools",
+1
+]
+],
+"clash": []
+},
+"builder": {
+"also": [
+[
+"trades",
+1
+]
+],
+"clash": []
+},
+"bricks": {
+"also": [
+[
+"building materials",
+1
+]
+],
+"clash": [
+"building toys"
+]
+},
+"bricklayer": {
+"also": [
+[
+"trades",
+2
+]
+],
+"clash": []
+},
+"mortar": {
+"also": [
+[
+"building materials",
+1
+],
+[
+"siege weapons",
+3
+]
+],
+"clash": [
+"kitchen utensils",
+"___board"
+]
+},
+"trowel": {
+"also": [
+[
+"garden tools",
+1
+]
+],
+"clash": []
+},
+"screw": {
+"also": [
+[
+"fixings",
+1
+],
+[
+"___ball",
+3
+]
+],
+"clash": []
+},
+"saw": {
+"also": [
+[
+"hand tools",
+1
+],
+[
+"saws",
+1
+],
+[
+"___fly",
+3
+],
+[
+"hand___",
+2
+]
+],
+"clash": [
+"irregular past tenses"
+]
+},
+"tape measure": {
+"also": [
+[
+"measuring tools",
+1
+]
+],
+"clash": []
+},
+"spade": {
+"also": [
+[
+"garden tools",
+1
+]
+],
+"clash": [
+"card game words"
+]
+},
+"pickaxe": {
+"also": [
+[
+"mining words",
+1
+]
+],
+"clash": []
+},
+"sledgehammer": {
+"also": [
+[
+"hand tools",
+2
+],
+[
+"double letters",
+2
+]
+],
+"clash": []
+},
+"girder": {
+"also": [],
+"clash": [
+"building materials"
+]
+},
+"beam": {
+"also": [
+[
+"sun___",
+2
+]
+],
+"clash": [
+"gymnastics apparatus"
+]
+},
+"plank": {
+"also": [
+[
+"exercises",
+1
+]
+],
+"clash": [
+"pirate punishments"
+]
+},
+"timber": {
+"also": [
+[
+"building materials",
+1
+],
+[
+"types of wood",
+2
+]
+],
+"clash": []
+},
+"lumber": {
+"also": [
+[
+"building materials",
+1
+]
+],
+"clash": []
+},
+"plywood": {
+"also": [
+[
+"building materials",
+1
+],
+[
+"types of wood",
+3
+],
+[
+"double letters",
+2
+]
+],
+"clash": []
+},
+"foundation": {
+"also": [],
+"clash": [
+"makeup",
+"parts of a house"
+]
+},
+"gravel": {
+"also": [],
+"clash": [
+"rock types"
+]
+},
+"sand": {
+"also": [
+[
+"beach",
+1
+],
+[
+"___box",
+2
+],
+[
+"desert features",
+2
+],
+[
+"soil words",
+2
+],
+[
+"___man",
+3
+],
+[
+"___fly",
+3
+]
+],
+"clash": [
+"sedimentary rocks"
+]
+},
+"steamroller": {
+"also": [
+[
+"construction vehicles",
+1
+],
+[
+"double letters",
+2
+]
+],
+"clash": []
+},
+"architect": {
+"also": [
+[
+"arts jobs",
+2
+]
+],
+"clash": [
+"architects"
+]
+},
+"engineer": {
+"also": [
+[
+"double letters",
+2
+]
+],
+"clash": [
+"engineering fields"
+]
+},
+"blueprint": {
+"also": [],
+"clash": [
+"drawing techniques"
+]
+},
+"traffic cone": {
+"also": [
+[
+"street furniture",
+2
+]
+],
+"clash": []
+},
+"goggles": {
+"also": [
+[
+"eyewear",
+1
+],
+[
+"swimming words",
+2
+],
+[
+"double letters",
+2
+]
+],
+"clash": []
+},
+"tower crane": {
+"also": [
+[
+"construction vehicles",
+2
+]
+],
+"clash": []
+},
+"carpenter": {
+"also": [
+[
+"trades",
+1
+],
+[
+"woodworking words",
+2
+],
+[
+"hidden animals",
+3
+]
+],
+"clash": []
+},
+"wrecking ball": {
+"also": [],
+"clash": [
+"construction vehicles"
+]
+},
+"power drill": {
+"also": [
+[
+"power tools",
+1
+]
+],
+"clash": []
+},
+"nail gun": {
+"also": [
+[
+"power tools",
+2
+]
+],
+"clash": []
+},
+"pneumatic drill": {
+"also": [
+[
+"power tools",
+2
+]
+],
+"clash": []
+},
+"circular saw": {
+"also": [
+[
+"power tools",
+1
+],
+[
+"saws",
+1
+]
+],
+"clash": []
+},
+"spirit level": {
+"also": [
+[
+"measuring tools",
+2
+]
+],
+"clash": []
+},
+"plumb line": {
+"also": [
+[
+"measuring tools",
+3
+]
+],
+"clash": []
+},
+"rebar": {
+"also": [
+[
+"building materials",
+3
+]
+],
+"clash": []
+},
+"joist": {
+"also": [
+[
+"roof parts",
+3
+],
+[
+"parts of a house",
+3
+]
+],
+"clash": []
+},
+"rafter": {
+"also": [
+[
+"roof parts",
+2
+],
+[
+"hidden vehicles",
+3
+]
+],
+"clash": []
+},
+"drywall": {
+"also": [
+[
+"building materials",
+2
+],
+[
+"double letters",
+2
+]
+],
+"clash": []
+},
+"plasterboard": {
+"also": [
+[
+"building materials",
+2
+]
+],
+"clash": []
+},
+"insulation": {
+"also": [
+[
+"building materials",
+2
+]
+],
+"clash": [
+"heat science"
+]
+},
+"asphalt": {
+"also": [],
+"clash": [
+"road types",
+"hidden animals"
+]
+},
+"tarmac": {
+"also": [
+[
+"hidden body parts",
+3
+]
+],
+"clash": [
+"airport words",
+"road types"
+]
+},
+"road roller": {
+"also": [
+[
+"construction vehicles",
+2
+]
+],
+"clash": []
+},
+"cherry picker": {
+"also": [
+[
+"construction vehicles",
+3
+]
+],
+"clash": []
+},
+"backhoe": {
+"also": [
+[
+"construction vehicles",
+2
+]
+],
+"clash": []
+},
+"skip": {
+"also": [],
+"clash": [
+"bins and recycling",
+"ways to jump"
+]
+},
+"dumpster": {
+"also": [
+[
+"bins and recycling",
+2
+]
+],
+"clash": []
+},
+"porta-potty": {
+"also": [],
+"clash": [
+"campsite"
+]
+},
+"safety net": {
+"also": [],
+"clash": [
+"circus"
+]
+},
+"harness": {
+"also": [
+[
+"climbing gear",
+1
+],
+[
+"double letters",
+2
+]
+],
+"clash": [
+"horse tack"
+]
+},
+"breeze block": {
+"also": [
+[
+"building materials",
+2
+]
+],
+"clash": []
+},
+"cinder block": {
+"also": [
+[
+"building materials",
+2
+]
+],
+"clash": []
+},
+"pile driver": {
+"also": [
+[
+"construction vehicles",
+3
+]
+],
+"clash": []
+},
+"pulley": {
+"also": [
+[
+"simple machines",
+1
+],
+[
+"double letters",
+2
+]
+],
+"clash": []
+},
+"winch": {
+"also": [],
+"clash": [
+"simple machines"
+]
+},
+"dust mask": {
+"also": [],
+"clash": [
+"emergency supplies"
+]
+},
+"electrician": {
+"also": [
+[
+"trades",
+1
+]
+],
+"clash": []
+},
+"plumber": {
+"also": [
+[
+"trades",
+1
+],
+[
+"hidden fruits",
+3
+]
+],
+"clash": []
+},
+"plasterer": {
+"also": [
+[
+"trades",
+2
+]
+],
+"clash": []
+},
+"roofer": {
+"also": [
+[
+"trades",
+2
+],
+[
+"double letters",
+2
+]
+],
+"clash": []
+},
+"joiner": {
+"also": [
+[
+"trades",
+3
+]
+],
+"clash": []
+},
+"steel": {
+"also": [
+[
+"metals",
+1
+],
+[
+"alloys",
+1
+],
+[
+"man-made materials",
+2
+],
+[
+"double letters",
+2
+],
+[
+"hidden animals",
+3
+]
+],
+"clash": [
+"things that rust"
+]
+},
+"level": {
+"also": [
+[
+"measuring tools",
+1
+],
+[
+"water___",
+3
+],
+[
+"sea___",
+2
+],
+[
+"palindromes",
+2
+]
+],
+"clash": [
+"gaming words"
+]
+},
+"mallet": {
+"also": [
+[
+"hand tools",
+1
+],
+[
+"double letters",
+2
+]
+],
+"clash": [
+"percussion instruments"
+]
+},
+"chisel": {
+"also": [
+[
+"hand tools",
+1
+],
+[
+"woodworking words",
+2
+]
+],
+"clash": [
+"sculpture words"
+]
+},
+"excavation": {
+"also": [
+[
+"archaeology words",
+2
+],
+[
+"dig site",
+2
+]
+],
+"clash": []
+},
+"grader": {
+"also": [
+[
+"construction vehicles",
+3
+]
+],
+"clash": []
+},
+"compactor": {
+"also": [
+[
+"construction vehicles",
+3
+]
+],
+"clash": []
+},
+"JCB": {
+"also": [
+[
+"construction vehicles",
+2
+]
+],
+"clash": []
+},
+"Portaloo": {
+"also": [
+[
+"double letters",
+2
+]
+],
+"clash": [
+"campsite"
+]
+},
+"mixer truck": {
+"also": [
+[
+"construction vehicles",
+2
+],
+[
+"truck types",
+2
+]
+],
+"clash": []
+},
+"pit": {
+"also": [],
+"clash": [
+"fire___",
+"mining words"
+]
+},
+"cone": {
+"also": [
+[
+"3d shapes",
+1
+],
+[
+"hidden numbers",
+3
+]
+],
+"clash": [
+"snow___",
+"tree parts"
+]
+},
+"Cinecittà": {
+"also": [
+[
+"double letters",
+2
+]
+],
+"clash": []
+},
+"Testaccio": {
+"also": [
+[
+"double letters",
+2
+]
+],
+"clash": []
+},
+"Pannotia": {
+"also": [
+[
+"double letters",
+2
+]
+],
+"clash": []
+},
+"Vaalbara": {
+"also": [
+[
+"double letters",
+2
+]
+],
+"clash": []
+},
+"Laurussia": {
+"also": [
+[
+"double letters",
+2
+]
+],
+"clash": []
+},
+"Antilles": {
+"also": [
+[
+"double letters",
+2
+]
+],
+"clash": []
+},
+"Occident": {
+"also": [
+[
+"double letters",
+2
+]
+],
+"clash": []
+},
+"terrain": {
+"also": [
+[
+"double letters",
+2
+]
+],
+"clash": []
+},
+"gazetteer": {
+"also": [
+[
+"double letters",
+2
+]
+],
+"clash": []
+},
+"Mollweide": {
+"also": [
+[
+"double letters",
+2
+]
+],
+"clash": []
+},
+"flagstaff": {
+"also": [
+[
+"double letters",
+2
+]
+],
+"clash": []
+},
+"vexillology": {
+"also": [
+[
+"double letters",
+2
+]
+],
+"clash": []
+},
+"vexillologist": {
+"also": [
+[
+"double letters",
+2
+]
+],
+"clash": []
+},
+"oriflamme": {
+"also": [
+[
+"double letters",
+2
+]
+],
+"clash": []
+},
+"Moroccan": {
+"also": [
+[
+"double letters",
+2
+]
+],
+"clash": []
+},
+"Cameroonian": {
+"also": [
+[
+"double letters",
+2
+]
+],
+"clash": []
+},
+"Ecuadorian": {
+"also": [
+[
+"all five vowels",
+2
+]
+],
+"clash": []
+},
+"Andorran": {
+"also": [
+[
+"double letters",
+2
+]
+],
+"clash": []
+},
+"Sammarinese": {
+"also": [
+[
+"double letters",
+2
+]
+],
+"clash": []
+},
+"Seychellois": {
+"also": [
+[
+"double letters",
+2
+]
+],
+"clash": []
+},
+"Nauruan": {
+"also": [
+[
+"palindromes",
+2
+]
+],
+"clash": []
+},
+"Vancouverite": {
+"also": [
+[
+"all five vowels",
+2
+]
+],
+"clash": []
+},
+"Seattleite": {
+"also": [
+[
+"double letters",
+2
+]
+],
+"clash": []
+},
+"Pittsburgher": {
+"also": [
+[
+"double letters",
+2
+]
+],
+"clash": []
+},
+"Dallasite": {
+"also": [
+[
+"double letters",
+2
+]
+],
+"clash": []
+},
+"Nashvillian": {
+"also": [
+[
+"double letters",
+2
+]
+],
+"clash": []
+},
+"Cincinnatian": {
+"also": [
+[
+"double letters",
+2
+]
+],
+"clash": []
+},
+"Minneapolitan": {
+"also": [
+[
+"double letters",
+2
+]
+],
+"clash": []
+},
+"Milwaukeean": {
+"also": [
+[
+"double letters",
+2
+]
+],
+"clash": []
+},
+"Delhiite": {
+"also": [
+[
+"double letters",
+2
+]
+],
+"clash": []
+},
+"Karachiite": {
+"also": [
+[
+"double letters",
+2
+]
+],
+"clash": []
+},
+"Wellingtonian": {
+"also": [
+[
+"double letters",
+2
+]
+],
+"clash": []
+},
+"Marseillais": {
+"also": [
+[
+"double letters",
+2
+]
+],
+"clash": []
+},
+"Amsterdammer": {
+"also": [
+[
+"double letters",
+2
+]
+],
+"clash": []
+},
+"Rotterdammer": {
+"also": [
+[
+"double letters",
+2
+],
+[
+"hidden animals",
+3
+]
+],
+"clash": []
+},
+"Odessan": {
+"also": [
+[
+"double letters",
+2
+]
+],
+"clash": []
+},
+"Byelorussia": {
+"also": [
+[
+"all five vowels",
+2
+],
+[
+"double letters",
+2
+]
+],
+"clash": []
+},
+"Calcutta": {
+"also": [
+[
+"double letters",
+2
+]
+],
+"clash": []
+},
+"Rangoon": {
+"also": [
+[
+"double letters",
+2
+]
+],
+"clash": []
+},
+"Leopoldville": {
+"also": [
+[
+"double letters",
+2
+]
+],
+"clash": []
+},
+"Dacca": {
+"also": [
+[
+"double letters",
+2
+]
+],
+"clash": []
+},
+"Poona": {
+"also": [
+[
+"double letters",
+2
+]
+],
+"clash": []
+},
+"Pressburg": {
+"also": [
+[
+"double letters",
+2
+]
+],
+"clash": []
+},
+"Amoy": {
+"also": [
+[
+"letters in alphabetical order",
+2
+]
+],
+"clash": []
+},
+"Stanleyville": {
+"also": [
+[
+"double letters",
+2
+]
+],
+"clash": []
+},
+"Elisabethville": {
+"also": [
+[
+"double letters",
+2
+]
+],
+"clash": []
+},
+"Charlottetown": {
+"also": [
+[
+"double letters",
+2
+]
+],
+"clash": []
+},
+"Annapolis": {
+"also": [
+[
+"double letters",
+2
+]
+],
+"clash": []
+},
+"Tolyatti": {
+"also": [
+[
+"double letters",
+2
+]
+],
+"clash": []
+},
+"Wells": {
+"also": [
+[
+"double letters",
+2
+]
+],
+"clash": []
+},
+"Territories": {
+"also": [
+[
+"double letters",
+2
+]
+],
+"clash": []
+},
+"feed": {
+"also": [
+[
+"double letters",
+2
+]
+],
+"clash": []
+},
+"fodder": {
+"also": [
+[
+"double letters",
+2
+]
+],
+"clash": []
+},
+"irrigation": {
+"also": [
+[
+"double letters",
+2
+]
+],
+"clash": []
+},
+"furrow": {
+"also": [
+[
+"double letters",
+2
+]
+],
+"clash": []
+},
+"slurry": {
+"also": [
+[
+"double letters",
+2
+]
+],
+"clash": []
+},
+"hostess": {
+"also": [
+[
+"double letters",
+2
+]
+],
+"clash": []
+},
+"cloakroom": {
+"also": [
+[
+"double letters",
+2
+],
+[
+"hidden trees",
+3
+]
+],
+"clash": []
+},
+"platter": {
+"also": [
+[
+"double letters",
+2
+]
+],
+"clash": []
+},
+"toothpick": {
+"also": [
+[
+"double letters",
+2
+]
+],
+"clash": []
+},
+"eggs": {
+"also": [
+[
+"letters in alphabetical order",
+2
+],
+[
+"double letters",
+2
+]
+],
+"clash": []
+},
+"pallet": {
+"also": [
+[
+"double letters",
+2
+]
+],
+"clash": []
+},
+"stockroom": {
+"also": [
+[
+"double letters",
+2
+]
+],
+"clash": []
+},
+"backroom": {
+"also": [
+[
+"double letters",
+2
+]
+],
+"clash": []
+},
+"express": {
+"also": [
+[
+"double letters",
+2
+]
+],
+"clash": []
+},
+"postmistress": {
+"also": [
+[
+"double letters",
+2
+]
+],
+"clash": []
+},
+"borrow": {
+"also": [
+[
+"double letters",
+2
+]
+],
+"clash": []
+},
+"ebook": {
+"also": [
+[
+"double letters",
+2
+]
+],
+"clash": []
+},
+"audiobook": {
+"also": [
+[
+"double letters",
+2
+]
+],
+"clash": []
+},
+"bookend": {
+"also": [
+[
+"double letters",
+2
+]
+],
+"clash": []
+},
+"carrel": {
+"also": [
+[
+"double letters",
+2
+]
+],
+"clash": []
+},
+"lid": {
+"also": [
+[
+"words made of roman numerals",
+2
+]
+],
+"clash": []
+},
+"sleeve": {
+"also": [
+[
+"double letters",
+2
+]
+],
+"clash": []
+},
+"stirrer": {
+"also": [
+[
+"double letters",
+2
+]
+],
+"clash": []
+},
+"banneton": {
+"also": [
+[
+"double letters",
+2
+]
+],
+"clash": []
+},
+"rollers": {
+"also": [
+[
+"double letters",
+2
+]
+],
+"clash": []
+},
+"stallholder": {
+"also": [
+[
+"double letters",
+2
+]
+],
+"clash": []
+},
+"barrow": {
+"also": [
+[
+"double letters",
+2
+]
+],
+"clash": []
+},
+"peddler": {
+"also": [
+[
+"double letters",
+2
+]
+],
+"clash": []
+},
+"knickknack": {
+"also": [
+[
+"double letters",
+2
+]
+],
+"clash": []
+},
+"admission": {
+"also": [
+[
+"double letters",
+2
+]
+],
+"clash": []
+},
+"nozzle": {
+"also": [
+[
+"double letters",
+2
+]
+],
+"clash": []
+},
+"callout": {
+"also": [
+[
+"double letters",
+2
+]
+],
+"clash": []
+},
+"boardroom": {
+"also": [
+[
+"double letters",
+2
+]
+],
+"clash": []
+},
+"kitchenette": {
+"also": [
+[
+"double letters",
+2
+]
+],
+"clash": []
+},
+"shipping": {
+"also": [
+[
+"double letters",
+2
+]
+],
+"clash": [
+"hidden body parts"
+]
+},
+"scaffold": {
+"also": [
+[
+"double letters",
+2
+]
+],
+"clash": []
+},
+"rubble": {
+"also": [
+[
+"double letters",
+2
+]
+],
+"clash": []
+},
+"footing": {
+"also": [
+[
+"double letters",
+2
+]
+],
+"clash": []
+},
+"barrier": {
+"also": [
+[
+"double letters",
+2
+]
+],
+"clash": []
+},
+"scaffolder": {
+"also": [
+[
+"double letters",
+2
+]
+],
+"clash": []
+},
+"aggregate": {
+"also": [
+[
+"double letters",
+2
+]
+],
+"clash": []
+},
+"bearing": {
+"also": [
+[
+"hidden animals",
+2
+]
+],
+"clash": [
+"hidden body parts"
+]
+},
+"toponym": {
+"also": [
+[
+"hidden animals",
+3
+]
+],
+"clash": []
+},
+"Liverpudlian": {
+"also": [
+[
+"hidden body parts",
+3
+]
+],
+"clash": []
+},
+"Motswana": {
+"also": [
+[
+"hidden birds",
+3
+]
+],
+"clash": []
+},
+"Beninese": {
+"also": [
+[
+"hidden numbers",
+3
+]
+],
+"clash": []
+},
+"graticule": {
+"also": [],
+"clash": [
+"hidden animals"
+]
+},
+"Mercator": {
+"also": [],
+"clash": [
+"hidden animals"
+]
+},
+"cartogram": {
+"also": [],
+"clash": [
+"hidden animals"
+]
+},
+"Montenegrin": {
+"also": [],
+"clash": [
+"hidden numbers"
+]
+},
+"Batavia": {
+"also": [],
+"clash": [
+"hidden animals"
+]
+},
+"gratuity": {
+"also": [],
+"clash": [
+"hidden animals"
+]
+},
+"barcode": {
+"also": [],
+"clash": [
+"hidden animals"
+]
+},
+"crate": {
+"also": [
+[
+"hidden animals",
+3
+]
+],
+"clash": []
+},
+"catalog": {
+"also": [
+[
+"hidden animals",
+3
+]
+],
+"clash": []
+},
+"membership": {
+"also": [
+[
+"hidden body parts",
+3
+],
+[
+"hidden vehicles",
+3
+]
+],
+"clash": []
+},
+"research": {
+"also": [],
+"clash": [
+"hidden body parts"
+]
+},
+"keratin": {
+"also": [],
+"clash": [
+"hidden animals"
+]
+},
+"bric-a-brac": {
+"also": [
+[
+"hidden vehicles",
+3
+]
+],
+"clash": []
+},
+"tarpaulin": {
+"also": [
+[
+"hidden names",
+3
+]
+],
+"clash": []
+},
+"hawker": {
+"also": [
+[
+"hidden birds",
+3
+]
+],
+"clash": []
+},
+"bustle": {
+"also": [
+[
+"hidden vehicles",
+3
+]
+],
+"clash": []
+},
+"clipboard": {
+"also": [],
+"clash": [
+"hidden body parts"
+]
+},
+"catheter": {
+"also": [],
+"clash": [
+"hidden animals"
+]
+},
+"symbol": {
+"also": [],
+"clash": [
+"symbols"
+]
+},
+"landmark": {
+"also": [],
+"clash": [
+"landmarks"
+]
+},
+"compass rose": {
+"also": [],
+"clash": [
+"navigation tools"
+]
+},
+"Caledonia": {
+"also": [],
+"clash": [
+"scottish words"
+]
+},
+"Albion": {
+"also": [],
+"clash": [
+"british slang"
+]
+},
+"South Wales": {
+"also": [],
+"clash": [
+"australian states and regions"
+]
+},
+"Zealand": {
+"also": [],
+"clash": [
+"european countries"
+]
+},
+"Normal": {
+"also": [],
+"clash": [
+"words for strange"
+]
+},
+"hoist": {
+"also": [],
+"clash": [
+"simple machines"
+]
+},
+"livestock": {
+"also": [
+[
+"farm animals",
+2
+]
+],
+"clash": []
+},
+"haystack": {
+"also": [],
+"clash": [
+"signs of autumn"
+]
+},
+"churn": {
+"also": [],
+"clash": [
+"milk products"
+]
+},
+"heifer": {
+"also": [
+[
+"female animals",
+3
+],
+[
+"baby animals",
+3
+]
+],
+"clash": []
+},
+"apron": {
+"also": [
+[
+"work clothes",
+1
+],
+[
+"kitchen",
+2
+]
+],
+"clash": []
+},
+"order": {
+"also": [],
+"clash": [
+"restaurant words"
+]
+},
+"produce": {
+"also": [],
+"clash": [
+"vegetables"
+]
+},
+"deli": {
+"also": [],
+"clash": [
+"sandwiches"
+]
+},
+"snacks": {
+"also": [],
+"clash": [
+"snacks"
+]
+},
+"flowers": {
+"also": [],
+"clash": [
+"flowers"
+]
+},
+"queue": {
+"also": [
+[
+"british english words",
+2
+]
+],
+"clash": []
+},
+"sack": {
+"also": [],
+"clash": [
+"bags"
+]
+},
+"novel": {
+"also": [
+[
+"book genres",
+2
+]
+],
+"clash": [
+"words for strange"
+]
+},
+"tome": {
+"also": [],
+"clash": [
+"book genres"
+]
+},
+"hold": {
+"also": [],
+"clash": [
+"wrestling terms"
+]
+},
+"pastry": {
+"also": [],
+"clash": [
+"pastries"
+]
+},
+"crumb": {
+"also": [],
+"clash": [
+"breads"
+]
+},
+"cob": {
+"also": [
+[
+"male animals",
+3
+],
+[
+"breads",
+3
+]
+],
+"clash": [
+"grains"
+]
+},
+"trim": {
+"also": [],
+"clash": [
+"sewing words"
+]
+},
+"hairnet": {
+"also": [],
+"clash": [
+"hair accessories"
+]
+},
+"peroxide": {
+"also": [
+[
+"household chemicals",
+3
+]
+],
+"clash": []
+},
+"street food": {
+"also": [],
+"clash": [
+"street food"
+]
+},
+"pitch": {
+"also": [
+[
+"sports venues",
+2
+],
+[
+"soccer terms",
+2
+],
+[
+"music terms",
+2
+]
+],
+"clash": [
+"baseball terms",
+"camping gear"
+]
+},
+"chief": {
+"also": [
+[
+"words for leader",
+1
+]
+],
+"clash": []
+},
+"emergency": {
+"also": [],
+"clash": [
+"emergency supplies"
+]
+},
+"oxygen tank": {
+"also": [
+[
+"scuba words",
+2
+]
+],
+"clash": []
+},
+"hand sanitizer": {
+"also": [
+[
+"toiletries",
+2
+]
+],
+"clash": []
+},
+"paperwork": {
+"also": [
+[
+"workplace words",
+2
+]
+],
+"clash": []
+},
+"drawer": {
+"also": [
+[
+"storage furniture",
+1
+]
+],
+"clash": []
+},
+"workshop": {
+"also": [
+[
+"garage",
+2
+]
+],
+"clash": []
+},
+"welding": {
+"also": [],
+"clash": [
+"trades"
+]
+},
+"gantry": {
+"also": [],
+"clash": [
+"construction vehicles"
+]
+},
+"hi-vis": {
+"also": [
+[
+"work clothes",
+1
+]
+],
+"clash": []
+},
+"hi-vis jacket": {
+"also": [
+[
+"work clothes",
+1
+]
+],
+"clash": []
+},
+"safety vest": {
+"also": [
+[
+"work clothes",
+1
+]
+],
+"clash": []
+},
+"work boots": {
+"also": [
+[
+"work clothes",
+1
+],
+[
+"boots",
+1
+]
+],
+"clash": []
+},
+"boiler suit": {
+"also": [
+[
+"work clothes",
+1
+]
+],
+"clash": []
+},
+"blue-collar": {
+"also": [
+[
+"workplace words",
+2
+]
+],
+"clash": []
+},
+"trench": {
+"also": [],
+"clash": [
+"war words",
+"world war i battles"
+]
+},
+"demolition": {
+"also": [],
+"clash": [
+"war words"
+]
+},
+"pile": {
+"also": [],
+"clash": [
+"rugs and carpets"
+]
+},
+"lunch break": {
+"also": [
+[
+"workplace words",
+2
+]
+],
+"clash": []
+},
+"coffee break": {
+"also": [
+[
+"workplace words",
+2
+]
+],
+"clash": []
+},
+"policeman": {
+"also": [
+[
+"police words",
+1
+],
+[
+"___man",
+2
+]
+],
+"clash": []
+},
+"police officer": {
+"also": [
+[
+"police words",
+1
+]
+],
+"clash": []
+},
+"policewoman": {
+"also": [
+[
+"police words",
+1
+]
+],
+"clash": []
 }
 }
