@@ -3,7 +3,7 @@
 // The project lives in IndexedDB (autosaved) and in project files. Both use
 // the compact format from serialize(): words point at themes by index.
 
-const VERSION = '5';  // must match data-v and the ?v= links in index.html
+const VERSION = '6';  // must match data-v and the ?v= links in index.html
 const $ = s => document.querySelector(s);
 const esc = s => String(s ?? '').replace(/[&<>"']/g, c => ({ '&': '&amp;', '<': '&lt;', '>': '&gt;', '"': '&quot;', "'": '&#39;' }[c]));
 const slug = t => t.normalize('NFKD').replace(/[̀-ͯ]/g, '').replace(/[^\p{L}\p{N}]+/gu, '_').replace(/^_|_$/g, '').toLowerCase();
@@ -699,7 +699,7 @@ function dataDialog() {
       on('#dx-csv', () => download(exportCsv(), `wordlist-${stamp()}.csv`, 'text/csv'));
       on('#dx-out', () => download(exportOutline(), `themes-${stamp()}.txt`, 'text/plain'));
       on('#dx-starter', async () => {
-        try { const r = await fetch('themes-starter.txt'); if (!r.ok) throw Error(r.status); status(`Added ${importOutline(await r.text())} themes.`); render(); }
+        try { const r = await fetch('themes-starter.txt?v=' + VERSION); if (!r.ok) throw Error(r.status); status(`Added ${importOutline(await r.text())} themes.`); render(); }
         catch (e) { status('Could not load the starter outline: ' + e.message, true); }
       });
       on('#dx-imp', () => pickFile('.txt', txt => { status(`Added ${importOutline(txt)} themes.`); render(); }));
