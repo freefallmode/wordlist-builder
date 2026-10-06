@@ -3,7 +3,7 @@
 // The project lives in IndexedDB (autosaved) and in project files. Both use
 // the compact format from serialize(): words point at themes by index.
 
-const VERSION = '22';  // must match data-v and the ?v= links in index.html
+const VERSION = '23';  // must match data-v and the ?v= links in index.html
 const $ = s => document.querySelector(s);
 const esc = s => String(s ?? '').replace(/[&<>"']/g, c => ({ '&': '&amp;', '<': '&lt;', '>': '&gt;', '"': '&quot;', "'": '&#39;' }[c]));
 const slug = t => t.normalize('NFKD').replace(/[̀-ͯ]/g, '').replace(/[^\p{L}\p{N}]+/gu, '_').replace(/^_|_$/g, '').toLowerCase();
@@ -465,7 +465,7 @@ function renderTree() {
       + `<span class="ac"><button data-add="${id}" title="Add sub-theme">+</button><button data-ren="${id}" title="Rename">✎</button><button data-del="${id}" title="Delete">✕</button></span></div>`
       + (kids.length && op ? kids.map(k => row(k, d + 1)).join('') : '');
   };
-  $('#tree').innerHTML = kidsOf(null).map(id => row(id, 0)).join('') || '<p class="muted">No themes yet. Add one, or use Import / export to load the starter wordlist or the starter theme tree.</p>';
+  $('#tree').innerHTML = kidsOf(null).map(id => row(id, 0)).join('') || '<p class="muted">No themes yet. Add one, or use Import / export to load the starter library or the starter theme tree.</p>';
   $('#lock').textContent = UI.unlock ? '🔓' : '🔒';
   $('#lock').title = UI.unlock ? 'Drop a theme on another to nest it, near a row edge to reorder, or on ＋ to make it top level.' : 'Dragging themes is off. Click to turn it on.';
 }
@@ -818,7 +818,7 @@ function settingsDialog() {
 function dataDialog() {
   dialog('Import / export', '<h4>Library: theme tree and words (.json)</h4><p class="muted">Everything in the app. It is autosaved in this browser; export it to a file to back it up or move it to another browser. Importing or loading one <b>replaces</b> the current library.</p>'
     + '<div class="row"><button id="dx-save" class="p">Export library</button><button id="dx-open">Import library…</button></div>'
-    + '<div class="row"><button id="dx-wl">Load starter wordlist</button><span class="muted">the ready-made tree and words that come with the app</span></div>'
+    + '<div class="row"><button id="dx-wl">Load starter library</button></div>'
     + '<h4>Theme tree only, no words (.txt)</h4><p class="muted">The tree as an indented text list you can edit in any text editor. Importing <b>adds</b> its themes to the current tree.</p>'
     + '<div class="row"><button id="dx-starter">Load starter theme tree</button><button id="dx-imp">Import theme tree…</button><button id="dx-out">Export theme tree</button></div>'
     + '<h4>For the game and spreadsheets (export only)</h4><p class="muted">The game file holds enabled words only, compact, family-friendly if set in Settings.</p>'
@@ -836,13 +836,13 @@ function dataDialog() {
       }));
       on('#dx-wl', async () => {
         try {
-          status('Loading the starter wordlist…');
+          status('Loading the starter library…');
           const r = await fetch('data/wordlist.json?v=' + VERSION);
           if (!r.ok) throw Error(r.status === 404 ? 'not built yet' : r.status);
           const p = deserialize(await r.json());
-          if (!await confirmBox(`Replace the current library with the starter wordlist (${p.themes.length} themes, ${Object.keys(p.words).length} words)?`)) return;
+          if (!await confirmBox(`Replace the current library with the starter library (${p.themes.length} themes, ${Object.keys(p.words).length} words)?`)) return;
           P = p; UI.sel = null; changed(); fillFreq(); render();
-        } catch (e) { status('Could not load the starter wordlist: ' + e.message, true); }
+        } catch (e) { status('Could not load the starter library: ' + e.message, true); }
       });
       on('#dx-game', () => download(exportGame(), `wordlist-game-${stamp()}.json`));
       on('#dx-csv', () => download(exportCsv(), `wordlist-${stamp()}.csv`, 'text/csv'));
