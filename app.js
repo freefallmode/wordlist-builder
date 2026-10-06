@@ -3,7 +3,7 @@
 // The project lives in IndexedDB (autosaved) and in project files. Both use
 // the compact format from serialize(): words point at themes by index.
 
-const VERSION = '11';  // must match data-v and the ?v= links in index.html
+const VERSION = '12';  // must match data-v and the ?v= links in index.html
 const $ = s => document.querySelector(s);
 const esc = s => String(s ?? '').replace(/[&<>"']/g, c => ({ '&': '&amp;', '<': '&lt;', '>': '&gt;', '"': '&quot;', "'": '&#39;' }[c]));
 const slug = t => t.normalize('NFKD').replace(/[̀-ͯ]/g, '').replace(/[^\p{L}\p{N}]+/gu, '_').replace(/^_|_$/g, '').toLowerCase();
@@ -29,7 +29,7 @@ const SRC_NAME = Object.fromEntries(Object.entries(SRC).map(([k, v]) => [v, k]))
 // ---------- state ----------
 
 // Project: themes in display order, words keyed by slug of their text.
-// theme: {id, name, label, parent, group, kind, region, d, note, wd, cn, dm}
+// theme: {id, name, label, parent, group, kind, region, d, note, adult}
 // word:  {t (American spelling, capitals kept for proper nouns), uk (British spelling when different),
 //         th: [themeId], on, z (Zipf, null = rarer than the list, undefined = not looked up), d (null = auto), src: [code], note,
 //         x: [themeId] clashes (a player could think it fits; never in a level with these), ck: checked by the theme check,
@@ -245,7 +245,7 @@ function serialize() {
     schema: 2, app: 'wordlist-builder', saved: new Date().toISOString(),
     themeFields: FIELDS_T,
     themes: P.themes.map(t => [t.id, t.name, t.label || '', t.parent ? at[t.parent] : -1, t.group ? 1 : 0, t.kind || '', t.region || '', t.d || 0, t.note || '',
-      { wd: t.wd || undefined, cn: t.cn || undefined, dm: t.dm || undefined }, t.adult ? 1 : 0]),
+      {}, t.adult ? 1 : 0]),
     wordFields: FIELDS_W,
     words: Object.values(P.words).map(w => [w.t, w.th.map(t => at[t]).filter(i => i !== undefined), w.on ? 1 : 0,
       w.z == null ? (w.z === null ? 0 : -1) : Math.round(w.z * 10), w.d || 0, w.src.join(''), w.note || '', w.uk || '',
@@ -770,17 +770,12 @@ function settingsDialog() {
 }
 
 function dataDialog() {
-  const t = UI.sel && theme(UI.sel);
   dialog('Import / export', '<h4>Project: theme tree and words (.json)</h4><p class="muted">Everything in the app. It is autosaved in this browser; save a file to back it up or move it to another browser. Opening one <b>replaces</b> the current project.</p>'
     + '<div class="row"><button id="dx-save" class="p">Save project</button><button id="dx-open">Open project…</button><button id="dx-wl">Open starter wordlist</button></div>'
     + '<h4>Theme tree only, no words (.txt)</h4><p class="muted">The tree as an indented text list you can edit in any text editor. Importing <b>adds</b> its themes to the current tree.</p>'
     + '<div class="row"><button id="dx-starter">Add starter theme tree</button><button id="dx-imp">Import theme tree…</button><button id="dx-out">Export theme tree</button></div>'
     + '<h4>For the game and spreadsheets (export only)</h4><p class="muted">The game file holds enabled words only, compact, family-friendly if set in Settings.</p>'
     + '<div class="row"><button id="dx-game">Export game file</button><button id="dx-csv">Export CSV</button></div>'
-    + (t ? `<h4>Other word sources for "${esc(t.name)}"</h4>`
-      + `<div class="row"><b style="width:90px">Wikidata</b><input id="dx-wd" value="${esc(t.wd || '')}" placeholder="class name or QID (blank: theme name)" style="flex:1"><button data-pull="wd">Pull</button></div><div id="dx-wdc"></div>`
-      + `<div class="row"><b style="width:90px">ConceptNet</b><input id="dx-cn" value="${esc(t.cn || '')}" placeholder="IsA term (blank: theme name)" style="flex:1"><button data-pull="cn">Pull</button></div>`
-      + `<div class="row"><b style="width:90px">Datamuse</b><select id="dx-dmm"><option value="rel_gen">kinds of</option><option value="rel_trg">associated with</option><option value="ml">means like</option></select><input id="dx-dm" value="${esc(t.dm || '')}" placeholder="term (blank: theme name)" style="flex:1"><button data-pull="dm">Pull</button></div>` : '')
     + '<h4>Maintenance</h4><div class="row"><button id="dx-uk">Find British spellings (Claude)</button><button id="dx-freq">Recompute frequencies</button><button id="dx-clrw" class="danger">Delete all words…</button><button id="dx-clr" class="danger">Delete everything…</button></div>'
     + '<input type="file" id="dx-file" hidden>',
     [['Close', () => { }]], d => {
@@ -829,50 +824,8 @@ function dataDialog() {
       on('#dx-freq', () => { for (const w of Object.values(P.words)) w.z = wordZipf(w); changed(); render(); status(FREQ ? 'Frequencies updated.' : 'The frequency list is not loaded.', !FREQ); });
       on('#dx-clrw', async () => { if (await confirmBox('Delete every word in every theme? Themes are kept.')) { P.words = {}; changed(); render(); } });
       on('#dx-clr', async () => { if (await confirmBox('Delete all themes and all words?')) { P = { themes: [], words: {} }; UI.sel = null; changed(); render(); } });
-      d.querySelectorAll('[data-pull]').forEach(b => b.onclick = async () => {
-        const k = b.dataset.pull;
-        t[k] = val(d, '#dx-' + k).trim(); changed();
-        status('Working…');
-        try { const n = await PULL[k](t, d); if (n !== null) status(`Added ${n} new words.`); }
-        catch (e) { status('Error: ' + e.message, true); }
-        render();
-      });
     });
 }
-
-const PULL = {
-  async wd(t, d) {
-    const q = t.wd || t.name;
-    const id = /^Q\d+$/i.test(q) ? q.toUpperCase() : null;
-    if (!id) {
-      const r = await (await fetch('https://www.wikidata.org/w/api.php?action=wbsearchentities&format=json&language=en&limit=7&origin=*&search=' + encodeURIComponent(q))).json();
-      if (!r.search || !r.search.length) throw Error('No Wikidata match for ' + q);
-      const box = d.querySelector('#dx-wdc');
-      box.innerHTML = '<p>Pick the right match:</p>' + r.search.map(x => `<div><button data-qid="${x.id}">${esc(x.label)} (${x.id})</button> <small class="muted">${esc(x.description || '')}</small></div>`).join('');
-      box.querySelectorAll('[data-qid]').forEach(b => b.onclick = () => { d.querySelector('#dx-wd').value = b.dataset.qid; box.innerHTML = ''; d.querySelector('[data-pull="wd"]').click(); });
-      status(`Choose which "${q}" you mean.`);
-      return null;
-    }
-    const sp = `SELECT ?l (MAX(?s) AS ?m) WHERE{{?i wdt:P31/wdt:P279* wd:${id}}UNION{?i wdt:P279+ wd:${id}}?i wikibase:sitelinks ?s.?i rdfs:label ?l.FILTER(lang(?l)="en")}GROUP BY ?l ORDER BY DESC(?m) LIMIT 300`;
-    const r = await fetch('https://query.wikidata.org/sparql?format=json&query=' + encodeURIComponent(sp));
-    if (!r.ok) throw Error('Wikidata ' + r.status + ' (the class may be too broad)');
-    return addWords((await r.json()).results.bindings.map(b => b.l.value), 'wikidata', t.id);
-  },
-  async cn(t) {
-    const term = (t.cn || t.name).toLowerCase().trim().replace(/\s+/g, '_');
-    const r = await fetch('https://api.conceptnet.io/query?end=/c/en/' + encodeURIComponent(term) + '&rel=/r/IsA&limit=500');
-    if (!r.ok) throw Error('ConceptNet ' + r.status);
-    return addWords((await r.json()).edges.filter(e => e.start.language === 'en').map(e => e.start.label), 'conceptnet', t.id);
-  },
-  async dm(t, d) {
-    const term = (t.dm || t.name).toLowerCase().trim();
-    const r = await fetch('https://api.datamuse.com/words?max=1000&md=p&' + val(d, '#dx-dmm') + '=' + encodeURIComponent(term));
-    if (!r.ok) throw Error('Datamuse ' + r.status);
-    const j = await r.json();
-    if (!j.length) throw Error(`No results for "${term}" (try the singular)`);
-    return addWords(j.filter(x => !x.tags || x.tags.includes('n')).map(x => x.word), 'datamuse', t.id);
-  },
-};
 
 // ---------- theme check ----------
 // Claude is shown every playable theme and asked which other themes each word fits.

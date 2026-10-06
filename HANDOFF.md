@@ -16,7 +16,7 @@ GitHub Pages lets browsers cache files for about 10 minutes. Bump the version in
 
 - Left pane: search (words and themes), theme tree with on/total word counts, Import / export…, Settings….
 - Right pane: the selected theme's words, including sub-themes (toggle). Sort by word, length, frequency, difficulty or number of themes. Click a word to see and edit its linked themes. Buttons: Generate words…, Generate sub-themes…, Add words…, Theme settings….
-- Import / export holds everything else: project files, exports, the starter outline, the older Wikidata / ConceptNet / Datamuse pulls, maintenance.
+- Import / export holds everything else: project files, the theme tree file, the game and CSV exports, and maintenance.
 
 ## Claude
 
@@ -53,7 +53,7 @@ P = {
 
 ## File formats
 
-Project file and IndexedDB autosave (`schema: 2`), compact: theme rows are arrays described by `themeFields`; word rows by `wordFields`; words refer to themes by **index** in the themes array. Zipf is stored times ten (0 = rarer than the list, -1 = unknown). Sources are one letter each (L llm, M manual, W wikidata, C conceptnet, D datamuse). Opening a schema 1 file (the first version) converts it; the first version's localStorage data (`wlb`) is migrated on first load.
+Project file and IndexedDB autosave (`schema: 2`), compact: theme rows are arrays described by `themeFields`; word rows by `wordFields`; words refer to themes by **index** in the themes array. Zipf is stored times ten (0 = rarer than the list, -1 = unknown). Sources are one letter each (L llm, M manual; W, C, D are Wikidata, ConceptNet and Datamuse from older versions). Opening a schema 1 file (the first version) converts it; the first version's localStorage data (`wlb`) is migrated on first load.
 
 Game file (Import / export → Game file): minified, enabled words only, `v: 1`, `spelling: "US" | "UK"`. `themes: [id, name, label, parentIndex (-1 = top), group, kind, region, difficulty]`, `v: 2`, `familyFriendly`. `themes: [id, name, label, parentIndex (-1 = top), group, kind, region, difficulty, adult]`, `words: [text, zipf10, [themeIndex…], [difficulty per theme…], [clashThemeIndex…], otherSpelling?]` where `text` is in the chosen spelling.
 
