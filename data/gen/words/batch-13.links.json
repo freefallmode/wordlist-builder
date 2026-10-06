@@ -243,7 +243,9 @@
 3
 ]
 ],
-"clash": []
+"clash": [
+"landmarks"
+]
 },
 "Kafue": {
 "also": [
@@ -656,6 +658,10 @@
 },
 "Clyde": {
 "also": [
+[
+"arcade words",
+4
+],
 [
 "names that are places",
 3
@@ -1138,6 +1144,10 @@
 [
 "national parks",
 1
+],
+[
+"landmarks",
+1
 ]
 ],
 "clash": []
@@ -1464,6 +1474,10 @@
 [
 "famous canals",
 2
+],
+[
+"homophones",
+3
 ]
 ],
 "clash": [
@@ -1679,9 +1693,15 @@
 [
 "us national parks",
 2
+],
+[
+"landmarks",
+3
 ]
 ],
-"clash": []
+"clash": [
+"volcano words"
+]
 },
 "Lake Placid": {
 "also": [
@@ -1723,7 +1743,9 @@
 2
 ]
 ],
-"clash": []
+"clash": [
+"election words"
+]
 },
 "Albert": {
 "also": [
@@ -1928,7 +1950,10 @@
 3
 ]
 ],
-"clash": []
+"clash": [
+"classic novels",
+"homophones"
+]
 },
 "Louise": {
 "also": [
@@ -1954,7 +1979,9 @@
 4
 ]
 ],
-"clash": []
+"clash": [
+"chemical compounds"
+]
 },
 "Niagara Falls": {
 "also": [
@@ -1995,6 +2022,10 @@
 "also": [
 [
 "african national parks",
+4
+],
+[
+"landmarks",
 4
 ]
 ],
@@ -2079,7 +2110,11 @@
 ],
 [
 "turkish landmarks",
-2
+1
+],
+[
+"landmarks",
+1
 ]
 ],
 "clash": []
@@ -2142,7 +2177,11 @@
 3
 ]
 ],
-"clash": []
+"clash": [
+"british cities",
+"fish to eat",
+"flatfish"
+]
 },
 "Magellan": {
 "also": [
@@ -2520,7 +2559,9 @@
 2
 ]
 ],
-"clash": []
+"clash": [
+"polar travel"
+]
 },
 "Southern Ocean": {
 "also": [
@@ -2779,9 +2820,19 @@
 [
 "cold things",
 3
+],
+[
+"famous mountains",
+1
+],
+[
+"himalayan peaks",
+1
 ]
 ],
-"clash": []
+"clash": [
+"mountains"
+]
 },
 "Mount Fuji": {
 "also": [
@@ -2791,6 +2842,10 @@
 ],
 [
 "famous volcanoes",
+1
+],
+[
+"famous mountains",
 1
 ]
 ],
@@ -2823,7 +2878,9 @@
 2
 ]
 ],
-"clash": []
+"clash": [
+"italian cities"
+]
 },
 "Acropolis": {
 "also": [
@@ -2836,7 +2893,9 @@
 1
 ]
 ],
-"clash": []
+"clash": [
+"famous temples"
+]
 },
 "Easter Island": {
 "also": [
@@ -2851,9 +2910,15 @@
 [
 "ancient sites",
 1
+],
+[
+"famous islands",
+1
 ]
 ],
-"clash": []
+"clash": [
+"famous statues"
+]
 },
 "Uluru": {
 "also": [
@@ -2891,7 +2956,9 @@
 3
 ]
 ],
-"clash": []
+"clash": [
+"famous towers"
+]
 },
 "Gateway Arch": {
 "also": [
@@ -2906,6 +2973,10 @@
 "also": [
 [
 "pilgrimage sites",
+2
+],
+[
+"judaism words",
 2
 ]
 ],
@@ -2928,6 +2999,10 @@
 [
 "tall things",
 3
+],
+[
+"famous mountains",
+1
 ]
 ],
 "clash": []
@@ -2949,6 +3024,10 @@
 [
 "tall things",
 3
+],
+[
+"famous mountains",
+1
 ]
 ],
 "clash": []
@@ -3034,7 +3113,9 @@
 2
 ]
 ],
-"clash": []
+"clash": [
+"legendary places"
+]
 },
 "White Cliffs": {
 "also": [
@@ -3063,9 +3144,15 @@
 [
 "ancient sites",
 2
+],
+[
+"maya and aztec sites",
+2
 ]
 ],
-"clash": []
+"clash": [
+"aztecs and maya"
+]
 },
 "Persepolis": {
 "also": [
@@ -3285,15 +3372,25 @@
 [
 "ancient sites",
 3
+],
+[
+"us landmarks",
+3
 ]
 ],
-"clash": []
+"clash": [
+"us national parks"
+]
 },
 "Cahokia": {
 "also": [
 [
 "ancient sites",
 3
+],
+[
+"us landmarks",
+4
 ]
 ],
 "clash": []
@@ -3380,6 +3477,10 @@
 [
 "ancient sites of asia",
 3
+],
+[
+"ancient cities",
+3
 ]
 ],
 "clash": []
@@ -3389,6 +3490,14 @@
 [
 "asian cities",
 4
+],
+[
+"ancient sites of asia",
+3
+],
+[
+"ancient cities",
+3
 ]
 ],
 "clash": []
@@ -3439,7 +3548,9 @@
 1
 ]
 ],
-"clash": []
+"clash": [
+"reef life"
+]
 },
 "Cliffs of Moher": {
 "also": [
@@ -3506,6 +3617,10 @@
 [
 "tall things",
 1
+],
+[
+"famous towers",
+1
 ]
 ],
 "clash": []
@@ -3515,6 +3630,10 @@
 [
 "opera words",
 2
+],
+[
+"australian landmarks",
+1
 ]
 ],
 "clash": []
@@ -3528,6 +3647,10 @@
 [
 "us government",
 1
+],
+[
+"homophones",
+3
 ]
 ],
 "clash": []
@@ -3539,7 +3662,10 @@
 2
 ]
 ],
-"clash": []
+"clash": [
+"famous castles",
+"famous palaces"
+]
 },
 "Chrysler Building": {
 "also": [
@@ -3549,6 +3675,10 @@
 ],
 [
 "towers and skyscrapers",
+2
+],
+[
+"famous towers",
 2
 ]
 ],
@@ -3585,6 +3715,10 @@
 [
 "tall things",
 3
+],
+[
+"famous towers",
+2
 ]
 ],
 "clash": []
@@ -3614,6 +3748,10 @@
 [
 "sour foods",
 3
+],
+[
+"famous towers",
+2
 ]
 ],
 "clash": []
@@ -3623,6 +3761,10 @@
 [
 "new york landmarks",
 2
+],
+[
+"us landmarks",
+3
 ]
 ],
 "clash": []
@@ -3632,6 +3774,10 @@
 [
 "new york landmarks",
 2
+],
+[
+"us landmarks",
+3
 ]
 ],
 "clash": []
@@ -3645,6 +3791,10 @@
 [
 "theater",
 3
+],
+[
+"us landmarks",
+4
 ]
 ],
 "clash": []
@@ -3656,7 +3806,9 @@
 3
 ]
 ],
-"clash": []
+"clash": [
+"famous operas"
+]
 },
 "Bolshoi": {
 "also": [
@@ -3665,7 +3817,10 @@
 3
 ]
 ],
-"clash": []
+"clash": [
+"ballet terms",
+"famous ballets"
+]
 },
 "Globe Theatre": {
 "also": [
@@ -3708,14 +3863,28 @@
 [
 "pilgrimage sites",
 2
+],
+[
+"islam words",
+1
 ]
 ],
-"clash": []
+"clash": [
+"famous mosques"
+]
 },
 "Seagram Building": {
 "also": [
 [
 "new york landmarks",
+4
+],
+[
+"famous towers",
+4
+],
+[
+"us landmarks",
 4
 ]
 ],
@@ -3726,6 +3895,14 @@
 [
 "new york landmarks",
 3
+],
+[
+"famous towers",
+4
+],
+[
+"us landmarks",
+4
 ]
 ],
 "clash": []
@@ -3735,6 +3912,10 @@
 [
 "famous hotels",
 2
+],
+[
+"famous towers",
+3
 ]
 ],
 "clash": []
@@ -3746,7 +3927,9 @@
 2
 ]
 ],
-"clash": []
+"clash": [
+"famous towers"
+]
 },
 "Walkie-Talkie": {
 "also": [
@@ -3773,18 +3956,30 @@
 [
 "handheld gadgets",
 2
+],
+[
+"famous towers",
+3
 ]
 ],
-"clash": []
+"clash": [
+"phone words"
+]
 },
 "Dome of the Rock": {
 "also": [
 [
 "pilgrimage sites",
 2
+],
+[
+"islam words",
+3
 ]
 ],
-"clash": []
+"clash": [
+"famous mosques"
+]
 },
 "Brooklyn Bridge": {
 "also": [
@@ -3809,6 +4004,14 @@
 [
 "explorers",
 4
+],
+[
+"new york landmarks",
+3
+],
+[
+"us landmarks",
+3
 ]
 ],
 "clash": []
@@ -3817,6 +4020,10 @@
 "also": [
 [
 "new york landmarks",
+3
+],
+[
+"us landmarks",
 3
 ]
 ],
@@ -3827,6 +4034,10 @@
 [
 "new york landmarks",
 3
+],
+[
+"us landmarks",
+3
 ]
 ],
 "clash": []
@@ -3836,6 +4047,10 @@
 [
 "new york landmarks",
 4
+],
+[
+"us landmarks",
+3
 ]
 ],
 "clash": []
@@ -3864,7 +4079,9 @@
 1
 ]
 ],
-"clash": []
+"clash": [
+"famous buildings"
+]
 },
 "Leaning Tower of Pisa": {
 "also": [
@@ -3915,7 +4132,9 @@
 3
 ]
 ],
-"clash": []
+"clash": [
+"famous buildings"
+]
 },
 "Space Needle": {
 "also": [
@@ -3928,7 +4147,9 @@
 3
 ]
 ],
-"clash": []
+"clash": [
+"famous buildings"
+]
 },
 "Burj Khalifa": {
 "also": [
@@ -3939,6 +4160,10 @@
 [
 "tall things",
 2
+],
+[
+"famous buildings",
+1
 ]
 ],
 "clash": []
@@ -3950,7 +4175,9 @@
 3
 ]
 ],
-"clash": []
+"clash": [
+"famous buildings"
+]
 },
 "Petronas Towers": {
 "also": [
@@ -3961,6 +4188,10 @@
 [
 "tall things",
 3
+],
+[
+"famous buildings",
+2
 ]
 ],
 "clash": []
@@ -3974,6 +4205,10 @@
 [
 "tall things",
 3
+],
+[
+"famous buildings",
+2
 ]
 ],
 "clash": []
@@ -3987,6 +4222,10 @@
 [
 "tall things",
 4
+],
+[
+"famous buildings",
+3
 ]
 ],
 "clash": []
@@ -3996,6 +4235,10 @@
 [
 "new york landmarks",
 2
+],
+[
+"famous buildings",
+3
 ]
 ],
 "clash": []
@@ -4007,7 +4250,9 @@
 3
 ]
 ],
-"clash": []
+"clash": [
+"fairground rides"
+]
 },
 "Taipei 101": {
 "also": [
@@ -4017,6 +4262,10 @@
 ],
 [
 "tall things",
+2
+],
+[
+"famous buildings",
 2
 ]
 ],
@@ -4043,6 +4292,10 @@
 [
 "green things",
 3
+],
+[
+"landmarks",
+1
 ]
 ],
 "clash": []
@@ -4079,7 +4332,9 @@
 2
 ]
 ],
-"clash": []
+"clash": [
+"landmarks"
+]
 },
 "Sphinx": {
 "also": [
@@ -4102,6 +4357,10 @@
 [
 "mythical creatures",
 2
+],
+[
+"landmarks",
+1
 ]
 ],
 "clash": []
@@ -4110,6 +4369,10 @@
 "also": [
 [
 "famous mountains",
+1
+],
+[
+"landmarks",
 1
 ]
 ],
@@ -4120,9 +4383,15 @@
 [
 "pacific art words",
 3
+],
+[
+"landmarks",
+2
 ]
 ],
-"clash": []
+"clash": [
+"south american landmarks"
+]
 },
 "Terracotta Army": {
 "also": [
@@ -4141,6 +4410,10 @@
 [
 "famous discoveries",
 2
+],
+[
+"landmarks",
+1
 ]
 ],
 "clash": []
@@ -4168,15 +4441,25 @@
 [
 "new york landmarks",
 3
+],
+[
+"us landmarks",
+3
 ]
 ],
-"clash": []
+"clash": [
+"stock market words"
+]
 },
 "Fearless Girl": {
 "also": [
 [
 "new york landmarks",
 3
+],
+[
+"us landmarks",
+4
 ]
 ],
 "clash": []
@@ -4186,9 +4469,15 @@
 [
 "wild west",
 2
+],
+[
+"us landmarks",
+3
 ]
 ],
-"clash": []
+"clash": [
+"famous leaders"
+]
 },
 "The Kiss": {
 "also": [
@@ -4204,6 +4493,10 @@
 [
 "tall things",
 4
+],
+[
+"landmarks",
+3
 ]
 ],
 "clash": []
@@ -4245,7 +4538,9 @@
 2
 ]
 ],
-"clash": []
+"clash": [
+"paris landmarks"
+]
 },
 "Alhambra": {
 "also": [
@@ -4258,7 +4553,9 @@
 3
 ]
 ],
-"clash": []
+"clash": [
+"famous castles"
+]
 },
 "Schönbrunn": {
 "also": [
@@ -4323,6 +4620,10 @@
 [
 "ottoman empire",
 4
+],
+[
+"turkish landmarks",
+2
 ]
 ],
 "clash": []
@@ -4366,14 +4667,25 @@
 [
 "royal houses",
 1
+],
+[
+"canadian cities",
+3
 ]
 ],
-"clash": []
+"clash": [
+"famous palaces",
+"landmarks"
+]
 },
 "Neuschwanstein": {
 "also": [
 [
 "castles",
+2
+],
+[
+"landmarks",
 2
 ]
 ],
@@ -4394,7 +4706,10 @@
 2
 ]
 ],
-"clash": []
+"clash": [
+"capital cities",
+"landmarks"
+]
 },
 "Bran": {
 "also": [
@@ -4403,7 +4718,11 @@
 3
 ]
 ],
-"clash": []
+"clash": [
+"breakfast cereals",
+"grains",
+"landmarks"
+]
 },
 "Himeji": {
 "also": [
@@ -4413,6 +4732,10 @@
 ],
 [
 "castles",
+3
+],
+[
+"landmarks",
 3
 ]
 ],
@@ -4427,6 +4750,14 @@
 [
 "castles",
 3
+],
+[
+"famous towers",
+2
+],
+[
+"landmarks",
+1
 ]
 ],
 "clash": []
@@ -4442,7 +4773,9 @@
 3
 ]
 ],
-"clash": []
+"clash": [
+"british cities"
+]
 },
 "Balmoral": {
 "also": [
@@ -4467,7 +4800,9 @@
 3
 ]
 ],
-"clash": []
+"clash": [
+"famous palaces"
+]
 },
 "Stirling": {
 "also": [
@@ -4580,9 +4915,15 @@
 [
 "castles",
 3
+],
+[
+"landmarks",
+2
 ]
 ],
-"clash": []
+"clash": [
+"famous palaces"
+]
 },
 "Malbork": {
 "also": [
@@ -4637,6 +4978,10 @@
 [
 "castles",
 3
+],
+[
+"famous palaces",
+3
 ]
 ],
 "clash": []
@@ -4667,6 +5012,10 @@
 "also": [
 [
 "castles",
+3
+],
+[
+"words meaning nonsense",
 3
 ]
 ],
@@ -4708,6 +5057,10 @@
 [
 "feudal japan",
 4
+],
+[
+"landmarks",
+3
 ]
 ],
 "clash": []
@@ -4728,7 +5081,9 @@
 4
 ]
 ],
-"clash": []
+"clash": [
+"shakespeare plays"
+]
 },
 "Arundel": {
 "also": [
@@ -4781,7 +5136,9 @@
 4
 ]
 ],
-"clash": []
+"clash": [
+"shakespeare characters"
+]
 },
 "Kenilworth": {
 "also": [
@@ -4823,6 +5180,10 @@
 [
 "famous battles",
 4
+],
+[
+"landmarks",
+3
 ]
 ],
 "clash": []
@@ -4834,7 +5195,9 @@
 3
 ]
 ],
-"clash": []
+"clash": [
+"british cities"
+]
 },
 "Cardiff Castle": {
 "also": [
@@ -4843,12 +5206,18 @@
 3
 ]
 ],
-"clash": []
+"clash": [
+"british cities"
+]
 },
 "Great Pyramid": {
 "also": [
 [
 "ancient egypt",
+2
+],
+[
+"tombs and burials",
 2
 ]
 ],
@@ -4880,9 +5249,15 @@
 [
 "tall things",
 3
+],
+[
+"famous statues",
+2
 ]
 ],
-"clash": []
+"clash": [
+"words for big"
+]
 },
 "Mausoleum": {
 "also": [
@@ -4903,12 +5278,23 @@
 3
 ]
 ],
-"clash": []
+"clash": [
+"famous buildings",
+"turkish landmarks"
+]
 },
 "Temple of Artemis": {
 "also": [
 [
 "ancient sites of turkey",
+3
+],
+[
+"famous temples",
+2
+],
+[
+"turkish landmarks",
 3
 ]
 ],
@@ -4956,6 +5342,10 @@
 [
 "ancient sites of the middle east",
 1
+],
+[
+"girls' names",
+3
 ]
 ],
 "clash": []
@@ -4983,7 +5373,9 @@
 1
 ]
 ],
-"clash": []
+"clash": [
+"famous stadiums"
+]
 },
 "Chichen Itza": {
 "also": [
@@ -4996,7 +5388,9 @@
 1
 ]
 ],
-"clash": []
+"clash": [
+"famous temples"
+]
 },
 "Machu Picchu": {
 "also": [
@@ -5042,13 +5436,21 @@
 3
 ]
 ],
-"clash": []
+"clash": [
+"famous mosques",
+"famous palaces",
+"famous temples"
+]
 },
 "Christ the Redeemer": {
 "also": [
 [
 "tall things",
 3
+],
+[
+"famous statues",
+1
 ]
 ],
 "clash": []
@@ -5071,6 +5473,10 @@
 [
 "new york landmarks",
 3
+],
+[
+"us landmarks",
+3
 ]
 ],
 "clash": []
@@ -5082,7 +5488,9 @@
 2
 ]
 ],
-"clash": []
+"clash": [
+"aircraft types"
+]
 },
 "Piazza Navona": {
 "also": [
@@ -5098,6 +5506,10 @@
 [
 "new york landmarks",
 2
+],
+[
+"us landmarks",
+3
 ]
 ],
 "clash": []
@@ -5107,6 +5519,10 @@
 [
 "new york landmarks",
 3
+],
+[
+"us landmarks",
+4
 ]
 ],
 "clash": []
@@ -5118,7 +5534,9 @@
 2
 ]
 ],
-"clash": []
+"clash": [
+"famous churches"
+]
 },
 "Broadway": {
 "also": [
@@ -5142,6 +5560,10 @@
 [
 "new york landmarks",
 2
+],
+[
+"us landmarks",
+3
 ]
 ],
 "clash": []
@@ -5198,6 +5620,10 @@
 ],
 [
 "cords and strings",
+3
+],
+[
+"london landmarks",
 3
 ]
 ],
@@ -5278,13 +5704,19 @@
 3
 ]
 ],
-"clash": []
+"clash": [
+"famous palaces"
+]
 },
 "Guggenheim": {
 "also": [
 [
 "new york landmarks",
 2
+],
+[
+"us landmarks",
+3
 ]
 ],
 "clash": []
@@ -5294,6 +5726,10 @@
 [
 "new york landmarks",
 2
+],
+[
+"us landmarks",
+3
 ]
 ],
 "clash": []
@@ -5312,9 +5748,16 @@
 [
 "new york landmarks",
 4
+],
+[
+"us landmarks",
+4
 ]
 ],
-"clash": []
+"clash": [
+"girls' names",
+"pop stars"
+]
 },
 "Frick": {
 "also": [
@@ -5325,6 +5768,10 @@
 [
 "polite swears",
 2
+],
+[
+"us landmarks",
+4
 ]
 ],
 "clash": []
@@ -5347,6 +5794,10 @@
 [
 "ancient rome",
 4
+],
+[
+"rome landmarks",
+2
 ]
 ],
 "clash": []
@@ -5356,6 +5807,10 @@
 [
 "new york landmarks",
 3
+],
+[
+"us landmarks",
+4
 ]
 ],
 "clash": []
@@ -5371,7 +5826,9 @@
 1
 ]
 ],
-"clash": []
+"clash": [
+"famous buildings"
+]
 },
 "Parthenon": {
 "also": [
@@ -5384,7 +5841,9 @@
 1
 ]
 ],
-"clash": []
+"clash": [
+"famous buildings"
+]
 },
 "Borobudur": {
 "also": [
@@ -5498,6 +5957,10 @@
 [
 "pilgrimage sites",
 4
+],
+[
+"indian landmarks",
+3
 ]
 ],
 "clash": []
@@ -5614,7 +6077,9 @@
 3
 ]
 ],
-"clash": []
+"clash": [
+"famous castles"
+]
 },
 "Templo Mayor": {
 "also": [
@@ -5652,7 +6117,9 @@
 2
 ]
 ],
-"clash": []
+"clash": [
+"paris landmarks"
+]
 },
 "Tirupati": {
 "also": [
@@ -5684,6 +6151,10 @@
 [
 "blue things",
 4
+],
+[
+"turkish landmarks",
+1
 ]
 ],
 "clash": []
@@ -5697,15 +6168,26 @@
 [
 "byzantine empire",
 2
+],
+[
+"turkish landmarks",
+1
 ]
 ],
-"clash": []
+"clash": [
+"famous churches",
+"famous museums"
+]
 },
 "Selimiye": {
 "also": [
 [
 "turkish resorts",
 5
+],
+[
+"turkish landmarks",
+3
 ]
 ],
 "clash": []
@@ -5715,9 +6197,15 @@
 [
 "rome landmarks",
 2
+],
+[
+"pilgrimage sites",
+3
 ]
 ],
-"clash": []
+"clash": [
+"famous saints"
+]
 },
 "Sistine Chapel": {
 "also": [
@@ -5730,7 +6218,9 @@
 1
 ]
 ],
-"clash": []
+"clash": [
+"famous paintings"
+]
 },
 "Notre-Dame": {
 "also": [
@@ -5739,7 +6229,9 @@
 2
 ]
 ],
-"clash": []
+"clash": [
+"canadian landmarks"
+]
 },
 "Westminster Abbey": {
 "also": [
@@ -5886,6 +6378,10 @@
 [
 "new york landmarks",
 3
+],
+[
+"us landmarks",
+4
 ]
 ],
 "clash": []
@@ -5895,9 +6391,15 @@
 [
 "monastery",
 3
+],
+[
+"famous islands",
+2
 ]
 ],
-"clash": []
+"clash": [
+"famous castles"
+]
 },
 "Cappadocia": {
 "also": [
@@ -5912,6 +6414,10 @@
 [
 "ancient sites of turkey",
 2
+],
+[
+"landmarks",
+1
 ]
 ],
 "clash": []
@@ -5936,6 +6442,10 @@
 ],
 [
 "ancient sites of turkey",
+2
+],
+[
+"landmarks",
 2
 ]
 ],
@@ -5970,6 +6480,10 @@
 [
 "famous discoveries",
 3
+],
+[
+"landmarks",
+2
 ]
 ],
 "clash": []
@@ -5979,6 +6493,14 @@
 [
 "ancient sites of turkey",
 3
+],
+[
+"landmarks",
+3
+],
+[
+"famous mountains",
+4
 ]
 ],
 "clash": []
@@ -5988,6 +6510,14 @@
 [
 "cappadocia",
 2
+],
+[
+"landmarks",
+3
+],
+[
+"national parks",
+4
 ]
 ],
 "clash": []
@@ -5996,6 +6526,10 @@
 "also": [
 [
 "ancient sites of turkey",
+3
+],
+[
+"landmarks",
 3
 ]
 ],
@@ -6018,6 +6552,10 @@
 [
 "world war i battles",
 1
+],
+[
+"landmarks",
+3
 ]
 ],
 "clash": []
@@ -6026,6 +6564,14 @@
 "also": [
 [
 "turkish resorts",
+3
+],
+[
+"landmarks",
+3
+],
+[
+"famous beaches",
 3
 ]
 ],
@@ -6036,6 +6582,10 @@
 [
 "ancient sites of turkey",
 4
+],
+[
+"landmarks",
+4
 ]
 ],
 "clash": []
@@ -6045,6 +6595,10 @@
 [
 "ancient sites of turkey",
 4
+],
+[
+"landmarks",
+4
 ]
 ],
 "clash": []
@@ -6053,6 +6607,10 @@
 "also": [
 [
 "ancient sites of turkey",
+4
+],
+[
+"landmarks",
 4
 ]
 ],
@@ -6067,9 +6625,15 @@
 [
 "ancient sites of turkey",
 4
+],
+[
+"landmarks",
+4
 ]
 ],
-"clash": []
+"clash": [
+"legendary places"
+]
 },
 "Lycian Way": {
 "also": [
@@ -6082,7 +6646,9 @@
 4
 ]
 ],
-"clash": []
+"clash": [
+"landmarks"
+]
 },
 "Çatalhöyük": {
 "also": [
@@ -6097,6 +6663,10 @@
 [
 "stone age",
 4
+],
+[
+"landmarks",
+4
 ]
 ],
 "clash": []
@@ -6110,6 +6680,10 @@
 [
 "ancient sites of turkey",
 3
+],
+[
+"landmarks",
+4
 ]
 ],
 "clash": []
@@ -6123,6 +6697,10 @@
 [
 "ancient sites of turkey",
 4
+],
+[
+"landmarks",
+4
 ]
 ],
 "clash": []
@@ -6132,6 +6710,10 @@
 [
 "ancient sites of turkey",
 3
+],
+[
+"landmarks",
+4
 ]
 ],
 "clash": []
@@ -6145,6 +6727,10 @@
 [
 "ancient sites of turkey",
 3
+],
+[
+"landmarks",
+4
 ]
 ],
 "clash": []
@@ -6154,6 +6740,10 @@
 [
 "ancient sites of turkey",
 4
+],
+[
+"landmarks",
+5
 ]
 ],
 "clash": []
@@ -6162,6 +6752,14 @@
 "also": [
 [
 "ancient sites of turkey",
+4
+],
+[
+"landmarks",
+5
+],
+[
+"famous temples",
 4
 ]
 ],
@@ -6172,6 +6770,10 @@
 [
 "ancient sites of turkey",
 4
+],
+[
+"landmarks",
+5
 ]
 ],
 "clash": []
@@ -6185,6 +6787,10 @@
 [
 "ancient sites of turkey",
 3
+],
+[
+"landmarks",
+4
 ]
 ],
 "clash": []
@@ -6194,6 +6800,10 @@
 [
 "cappadocia",
 4
+],
+[
+"landmarks",
+5
 ]
 ],
 "clash": []
@@ -6203,9 +6813,15 @@
 [
 "cappadocia",
 3
+],
+[
+"landmarks",
+4
 ]
 ],
-"clash": []
+"clash": [
+"famous castles"
+]
 },
 "Zeugma": {
 "also": [
@@ -6220,6 +6836,10 @@
 [
 "figures of speech",
 5
+],
+[
+"landmarks",
+4
 ]
 ],
 "clash": []
@@ -6229,6 +6849,10 @@
 [
 "ancient sites of turkey",
 4
+],
+[
+"landmarks",
+5
 ]
 ],
 "clash": []
@@ -6238,6 +6862,10 @@
 [
 "ancient sites of turkey",
 4
+],
+[
+"landmarks",
+5
 ]
 ],
 "clash": []
@@ -6247,6 +6875,10 @@
 [
 "ancient sites of turkey",
 4
+],
+[
+"landmarks",
+5
 ]
 ],
 "clash": []
@@ -6256,6 +6888,10 @@
 [
 "ancient sites of turkey",
 4
+],
+[
+"landmarks",
+5
 ]
 ],
 "clash": []
@@ -6269,6 +6905,14 @@
 [
 "ancient sites of turkey",
 4
+],
+[
+"landmarks",
+5
+],
+[
+"famous beaches",
+3
 ]
 ],
 "clash": []
@@ -6282,6 +6926,10 @@
 [
 "ancient sites of turkey",
 3
+],
+[
+"landmarks",
+4
 ]
 ],
 "clash": []
@@ -6291,6 +6939,10 @@
 [
 "cappadocia",
 3
+],
+[
+"landmarks",
+4
 ]
 ],
 "clash": []
@@ -6304,6 +6956,10 @@
 [
 "trojan war",
 4
+],
+[
+"landmarks",
+5
 ]
 ],
 "clash": []
@@ -6320,6 +6976,10 @@
 ],
 [
 "ancient sites of africa",
+1
+],
+[
+"landmarks",
 1
 ]
 ],
@@ -6338,9 +6998,15 @@
 [
 "ancient sites of africa",
 2
+],
+[
+"landmarks",
+2
 ]
 ],
-"clash": []
+"clash": [
+"famous hotels"
+]
 },
 "Valley of the Kings": {
 "also": [
@@ -6355,6 +7021,10 @@
 [
 "tombs and burials",
 2
+],
+[
+"landmarks",
+2
 ]
 ],
 "clash": []
@@ -6367,6 +7037,10 @@
 ],
 [
 "pilgrimage sites",
+2
+],
+[
+"landmarks",
 2
 ]
 ],
@@ -6381,6 +7055,10 @@
 [
 "ancient sites of africa",
 3
+],
+[
+"landmarks",
+3
 ]
 ],
 "clash": []
@@ -6389,6 +7067,10 @@
 "also": [
 [
 "ancient egypt",
+3
+],
+[
+"landmarks",
 3
 ]
 ],
@@ -6405,13 +7087,19 @@
 3
 ]
 ],
-"clash": []
+"clash": [
+"landmarks"
+]
 },
 "White Desert": {
 "also": [
 [
 "famous deserts",
 4
+],
+[
+"landmarks",
+3
 ]
 ],
 "clash": []
@@ -6429,6 +7117,10 @@
 [
 "ancient sites of africa",
 3
+],
+[
+"landmarks",
+4
 ]
 ],
 "clash": []
@@ -6438,6 +7130,10 @@
 [
 "ancient sites of africa",
 4
+],
+[
+"landmarks",
+4
 ]
 ],
 "clash": []
@@ -6446,6 +7142,10 @@
 "also": [
 [
 "ancient sites of africa",
+4
+],
+[
+"landmarks",
 4
 ]
 ],
@@ -6468,6 +7168,10 @@
 [
 "bronze age",
 4
+],
+[
+"landmarks",
+4
 ]
 ],
 "clash": []
@@ -6481,6 +7185,10 @@
 [
 "ancient sites of africa",
 3
+],
+[
+"landmarks",
+4
 ]
 ],
 "clash": []
@@ -6490,6 +7198,10 @@
 [
 "famous waters",
 3
+],
+[
+"landmarks",
+4
 ]
 ],
 "clash": []
@@ -6498,6 +7210,10 @@
 "also": [
 [
 "african national parks",
+4
+],
+[
+"landmarks",
 4
 ]
 ],
@@ -6510,7 +7226,9 @@
 5
 ]
 ],
-"clash": []
+"clash": [
+"landmarks"
+]
 },
 "Elephantine": {
 "also": [
@@ -6525,9 +7243,15 @@
 [
 "words for big",
 3
+],
+[
+"landmarks",
+4
 ]
 ],
-"clash": []
+"clash": [
+"famous islands"
+]
 },
 "Timbuktu": {
 "also": [
@@ -6540,7 +7264,9 @@
 3
 ]
 ],
-"clash": []
+"clash": [
+"landmarks"
+]
 },
 "Serengeti": {
 "also": [
@@ -6561,7 +7287,9 @@
 1
 ]
 ],
-"clash": []
+"clash": [
+"landmarks"
+]
 },
 "Robben Island": {
 "also": [
@@ -6572,6 +7300,10 @@
 [
 "prison words",
 3
+],
+[
+"landmarks",
+2
 ]
 ],
 "clash": []
@@ -6585,24 +7317,48 @@
 [
 "african national parks",
 1
+],
+[
+"national parks",
+2
 ]
 ],
-"clash": []
+"clash": [
+"landmarks"
+]
 },
 "Masai Mara": {
 "also": [
 [
 "savanna",
 2
+],
+[
+"african national parks",
+2
+],
+[
+"national parks",
+2
 ]
 ],
-"clash": []
+"clash": [
+"landmarks"
+]
 },
 "Ngorongoro": {
 "also": [
 [
 "famous natural features",
 3
+],
+[
+"landmarks",
+3
+],
+[
+"african national parks",
+2
 ]
 ],
 "clash": []
@@ -6612,9 +7368,19 @@
 [
 "famous waters",
 3
+],
+[
+"landmarks",
+3
+],
+[
+"wetlands",
+2
 ]
 ],
-"clash": []
+"clash": [
+"african rivers"
+]
 },
 "Mount Kenya": {
 "also": [
@@ -6625,6 +7391,14 @@
 [
 "african national parks",
 3
+],
+[
+"landmarks",
+3
+],
+[
+"famous mountains",
+2
 ]
 ],
 "clash": []
@@ -6634,6 +7408,14 @@
 [
 "places named after people",
 2
+],
+[
+"landmarks",
+2
+],
+[
+"famous lakes",
+1
 ]
 ],
 "clash": []
@@ -6645,7 +7427,10 @@
 5
 ]
 ],
-"clash": []
+"clash": [
+"famous mosques",
+"landmarks"
+]
 },
 "Volubilis": {
 "also": [
@@ -6655,6 +7440,10 @@
 ],
 [
 "ancient sites of africa",
+4
+],
+[
+"landmarks",
 4
 ]
 ],
@@ -6669,6 +7458,10 @@
 [
 "african national parks",
 4
+],
+[
+"landmarks",
+3
 ]
 ],
 "clash": []
@@ -6680,7 +7473,9 @@
 3
 ]
 ],
-"clash": []
+"clash": [
+"landmarks"
+]
 },
 "Drakensberg": {
 "also": [
@@ -6689,7 +7484,9 @@
 3
 ]
 ],
-"clash": []
+"clash": [
+"landmarks"
+]
 },
 "Aksum": {
 "also": [
@@ -6700,6 +7497,10 @@
 [
 "ancient sites of africa",
 3
+],
+[
+"landmarks",
+4
 ]
 ],
 "clash": []
@@ -6709,15 +7510,25 @@
 [
 "mountain ranges",
 5
+],
+[
+"african national parks",
+3
 ]
 ],
-"clash": []
+"clash": [
+"landmarks"
+]
 },
 "Bwindi": {
 "also": [
 [
 "african national parks",
 3
+],
+[
+"landmarks",
+4
 ]
 ],
 "clash": []
@@ -6726,6 +7537,10 @@
 "also": [
 [
 "famous volcanoes",
+4
+],
+[
+"landmarks",
 4
 ]
 ],
@@ -6736,6 +7551,10 @@
 [
 "famous deserts",
 4
+],
+[
+"landmarks",
+4
 ]
 ],
 "clash": []
@@ -6745,6 +7564,10 @@
 [
 "famous volcanoes",
 4
+],
+[
+"landmarks",
+5
 ]
 ],
 "clash": []
@@ -6753,6 +7576,10 @@
 "also": [
 [
 "famous volcanoes",
+4
+],
+[
+"landmarks",
 4
 ]
 ],
@@ -6763,9 +7590,15 @@
 [
 "famous beaches",
 4
+],
+[
+"landmarks",
+4
 ]
 ],
-"clash": []
+"clash": [
+"penguins"
+]
 },
 "Namib": {
 "also": [
@@ -6778,7 +7611,9 @@
 2
 ]
 ],
-"clash": []
+"clash": [
+"landmarks"
+]
 },
 "Toubkal": {
 "also": [
@@ -6789,6 +7624,10 @@
 [
 "african national parks",
 4
+],
+[
+"landmarks",
+4
 ]
 ],
 "clash": []
@@ -6797,6 +7636,10 @@
 "also": [
 [
 "spice trade",
+2
+],
+[
+"landmarks",
 2
 ]
 ],
@@ -6807,6 +7650,14 @@
 [
 "african national parks",
 4
+],
+[
+"landmarks",
+3
+],
+[
+"famous lakes",
+2
 ]
 ],
 "clash": []
@@ -6818,7 +7669,9 @@
 4
 ]
 ],
-"clash": []
+"clash": [
+"landmarks"
+]
 },
 "Sahara": {
 "also": [
@@ -6839,7 +7692,9 @@
 2
 ]
 ],
-"clash": []
+"clash": [
+"landmarks"
+]
 },
 "Gondar": {
 "also": [
@@ -6848,7 +7703,9 @@
 4
 ]
 ],
-"clash": []
+"clash": [
+"landmarks"
+]
 },
 "Sanchi": {
 "also": [
@@ -6859,15 +7716,29 @@
 [
 "ancient sites of asia",
 3
+],
+[
+"landmarks",
+4
 ]
 ],
-"clash": []
+"clash": [
+"famous temples"
+]
 },
 "Elephanta": {
 "also": [
 [
 "named winds",
 5
+],
+[
+"landmarks",
+4
+],
+[
+"ancient sites of asia",
+4
 ]
 ],
 "clash": []
@@ -6877,6 +7748,14 @@
 [
 "famous paintings",
 5
+],
+[
+"landmarks",
+3
+],
+[
+"famous castles",
+4
 ]
 ],
 "clash": []
@@ -6890,9 +7769,15 @@
 [
 "ancient sites of asia",
 3
+],
+[
+"landmarks",
+4
 ]
 ],
-"clash": []
+"clash": [
+"university words"
+]
 },
 "Rock Garden": {
 "also": [
@@ -6903,6 +7788,10 @@
 [
 "asian temple features",
 3
+],
+[
+"landmarks",
+4
 ]
 ],
 "clash": []
@@ -6912,6 +7801,14 @@
 [
 "pilgrimage sites",
 3
+],
+[
+"landmarks",
+2
+],
+[
+"famous palaces",
+2
 ]
 ],
 "clash": []
@@ -6921,6 +7818,10 @@
 [
 "famous mountains",
 4
+],
+[
+"landmarks",
+3
 ]
 ],
 "clash": []
@@ -6934,6 +7835,10 @@
 [
 "national parks",
 3
+],
+[
+"landmarks",
+3
 ]
 ],
 "clash": []
@@ -6943,6 +7848,10 @@
 [
 "national parks",
 4
+],
+[
+"landmarks",
+4
 ]
 ],
 "clash": []
@@ -6951,6 +7860,10 @@
 "also": [
 [
 "famous gardens",
+4
+],
+[
+"landmarks",
 4
 ]
 ],
@@ -6965,6 +7878,10 @@
 [
 "ancient sites of asia",
 3
+],
+[
+"landmarks",
+4
 ]
 ],
 "clash": []
@@ -6974,6 +7891,10 @@
 [
 "ancient sites of asia",
 4
+],
+[
+"landmarks",
+4
 ]
 ],
 "clash": []
@@ -6982,6 +7903,10 @@
 "also": [
 [
 "famous mountains",
+4
+],
+[
+"landmarks",
 4
 ]
 ],
@@ -6996,6 +7921,10 @@
 [
 "pilgrimage sites",
 5
+],
+[
+"landmarks",
+4
 ]
 ],
 "clash": []
@@ -7004,6 +7933,10 @@
 "also": [
 [
 "chinese martial arts",
+4
+],
+[
+"landmarks",
 4
 ]
 ],
@@ -7016,7 +7949,9 @@
 5
 ]
 ],
-"clash": []
+"clash": [
+"landmarks"
+]
 },
 "Lijiang": {
 "also": [
@@ -7025,7 +7960,9 @@
 4
 ]
 ],
-"clash": []
+"clash": [
+"landmarks"
+]
 },
 "Tulou": {
 "also": [
@@ -7036,6 +7973,10 @@
 [
 "east asian buildings",
 5
+],
+[
+"landmarks",
+4
 ]
 ],
 "clash": []
@@ -7049,6 +7990,10 @@
 [
 "asian drinks",
 5
+],
+[
+"landmarks",
+4
 ]
 ],
 "clash": []
@@ -7058,15 +8003,29 @@
 [
 "famous stadiums",
 2
+],
+[
+"landmarks",
+3
+],
+[
+"animal homes",
+2
 ]
 ],
-"clash": []
+"clash": [
+"chinese food"
+]
 },
 "Mount Hua": {
 "also": [
 [
 "famous mountains",
 5
+],
+[
+"landmarks",
+4
 ]
 ],
 "clash": []
@@ -7075,6 +8034,10 @@
 "also": [
 [
 "asian transport",
+4
+],
+[
+"landmarks",
 4
 ]
 ],
@@ -7091,13 +8054,19 @@
 4
 ]
 ],
-"clash": []
+"clash": [
+"landmarks"
+]
 },
 "Arashiyama": {
 "also": [
 [
 "famous forests",
 4
+],
+[
+"landmarks",
+3
 ]
 ],
 "clash": []
@@ -7106,6 +8075,10 @@
 "also": [
 [
 "famous gardens",
+4
+],
+[
+"landmarks",
 4
 ]
 ],
@@ -7118,7 +8091,9 @@
 3
 ]
 ],
-"clash": []
+"clash": [
+"landmarks"
+]
 },
 "Harajuku": {
 "also": [
@@ -7127,12 +8102,18 @@
 4
 ]
 ],
-"clash": []
+"clash": [
+"landmarks"
+]
 },
 "Sakurajima": {
 "also": [
 [
 "famous volcanoes",
+4
+],
+[
+"landmarks",
 4
 ]
 ],
@@ -7149,12 +8130,22 @@
 4
 ]
 ],
-"clash": []
+"clash": [
+"landmarks"
+]
 },
 "Yakushima": {
 "also": [
 [
 "famous forests",
+4
+],
+[
+"landmarks",
+4
+],
+[
+"famous islands",
 4
 ]
 ],
@@ -7165,9 +8156,15 @@
 [
 "forest types",
 3
+],
+[
+"landmarks",
+3
 ]
 ],
-"clash": []
+"clash": [
+"famous forests"
+]
 },
 "Opera House": {
 "also": [
@@ -7182,6 +8179,14 @@
 [
 "opera words",
 2
+],
+[
+"landmarks",
+1
+],
+[
+"famous buildings",
+1
 ]
 ],
 "clash": []
@@ -7191,6 +8196,10 @@
 [
 "famous natural features",
 3
+],
+[
+"landmarks",
+2
 ]
 ],
 "clash": []
@@ -7208,6 +8217,10 @@
 [
 "aboriginal dreaming",
 4
+],
+[
+"landmarks",
+3
 ]
 ],
 "clash": []
@@ -7225,9 +8238,15 @@
 [
 "aboriginal culture",
 3
+],
+[
+"landmarks",
+2
 ]
 ],
-"clash": []
+"clash": [
+"bush tucker"
+]
 },
 "Blue Mountains": {
 "also": [
@@ -7244,7 +8263,9 @@
 3
 ]
 ],
-"clash": []
+"clash": [
+"landmarks"
+]
 },
 "Daintree": {
 "also": [
@@ -7267,6 +8288,10 @@
 [
 "national parks",
 3
+],
+[
+"landmarks",
+3
 ]
 ],
 "clash": []
@@ -7280,15 +8305,29 @@
 [
 "beach destinations",
 3
+],
+[
+"landmarks",
+3
 ]
 ],
-"clash": []
+"clash": [
+"famous islands"
+]
 },
 "Whitehaven Beach": {
 "also": [
 [
 "beach destinations",
 4
+],
+[
+"landmarks",
+3
+],
+[
+"famous beaches",
+2
 ]
 ],
 "clash": []
@@ -7300,13 +8339,19 @@
 3
 ]
 ],
-"clash": []
+"clash": [
+"landmarks"
+]
 },
 "Wave Rock": {
 "also": [
 [
 "famous natural features",
 3
+],
+[
+"landmarks",
+4
 ]
 ],
 "clash": []
@@ -7316,9 +8361,15 @@
 [
 "us national parks",
 4
+],
+[
+"landmarks",
+4
 ]
 ],
-"clash": []
+"clash": [
+"mountain features"
+]
 },
 "Kings Canyon": {
 "also": [
@@ -7329,6 +8380,10 @@
 [
 "us national parks",
 3
+],
+[
+"landmarks",
+4
 ]
 ],
 "clash": []
@@ -7338,9 +8393,15 @@
 [
 "old city names",
 4
+],
+[
+"landmarks",
+3
 ]
 ],
-"clash": []
+"clash": [
+"prison words"
+]
 },
 "Cradle Mountain": {
 "also": [
@@ -7351,6 +8412,10 @@
 [
 "national parks",
 3
+],
+[
+"landmarks",
+3
 ]
 ],
 "clash": []
@@ -7359,6 +8424,14 @@
 "also": [
 [
 "famous beaches",
+3
+],
+[
+"landmarks",
+4
+],
+[
+"gulfs and bays",
 3
 ]
 ],
@@ -7369,6 +8442,10 @@
 [
 "famous theme parks",
 4
+],
+[
+"landmarks",
+4
 ]
 ],
 "clash": []
@@ -7378,6 +8455,10 @@
 [
 "national parks",
 5
+],
+[
+"landmarks",
+4
 ]
 ],
 "clash": []
@@ -7386,6 +8467,10 @@
 "also": [
 [
 "national parks",
+4
+],
+[
+"landmarks",
 4
 ]
 ],
@@ -7406,12 +8491,22 @@
 4
 ]
 ],
-"clash": []
+"clash": [
+"landmarks"
+]
 },
 "Lord Howe": {
 "also": [
 [
 "pacific islands",
+4
+],
+[
+"landmarks",
+4
+],
+[
+"famous islands",
 4
 ]
 ],
@@ -7428,12 +8523,18 @@
 3
 ]
 ],
-"clash": []
+"clash": [
+"landmarks"
+]
 },
 "Bells Beach": {
 "also": [
 [
 "famous beaches",
+4
+],
+[
+"landmarks",
 4
 ]
 ],
@@ -7444,6 +8545,14 @@
 [
 "famous race tracks",
 3
+],
+[
+"landmarks",
+4
+],
+[
+"famous islands",
+3
 ]
 ],
 "clash": []
@@ -7453,15 +8562,29 @@
 [
 "australian states and regions",
 3
+],
+[
+"landmarks",
+3
+],
+[
+"famous islands",
+3
 ]
 ],
-"clash": []
+"clash": [
+"australian animals"
+]
 },
 "War Memorial": {
 "also": [
 [
 "anzac day",
 2
+],
+[
+"landmarks",
+3
 ]
 ],
 "clash": []
@@ -7471,6 +8594,14 @@
 [
 "outback",
 3
+],
+[
+"landmarks",
+3
+],
+[
+"famous lakes",
+2
 ]
 ],
 "clash": []
@@ -7480,9 +8611,15 @@
 [
 "famous waters",
 3
+],
+[
+"landmarks",
+1
 ]
 ],
-"clash": []
+"clash": [
+"gulfs and bays"
+]
 },
 "Mount Cook": {
 "also": [
@@ -7493,6 +8630,10 @@
 [
 "places named after people",
 4
+],
+[
+"landmarks",
+2
 ]
 ],
 "clash": []
@@ -7505,6 +8646,10 @@
 ],
 [
 "national parks",
+3
+],
+[
+"landmarks",
 3
 ]
 ],
@@ -7521,13 +8666,19 @@
 2
 ]
 ],
-"clash": []
+"clash": [
+"landmarks"
+]
 },
 "Fox Glacier": {
 "also": [
 [
 "famous natural features",
 4
+],
+[
+"landmarks",
+3
 ]
 ],
 "clash": []
@@ -7545,6 +8696,10 @@
 [
 "famous voyages",
 3
+],
+[
+"landmarks",
+3
 ]
 ],
 "clash": []
@@ -7554,6 +8709,10 @@
 [
 "famous waters",
 4
+],
+[
+"landmarks",
+3
 ]
 ],
 "clash": []
@@ -7563,6 +8722,10 @@
 [
 "famous volcanoes",
 4
+],
+[
+"landmarks",
+3
 ]
 ],
 "clash": []
@@ -7572,6 +8735,10 @@
 [
 "famous volcanoes",
 5
+],
+[
+"landmarks",
+4
 ]
 ],
 "clash": []
@@ -7581,9 +8748,15 @@
 [
 "famous beaches",
 4
+],
+[
+"landmarks",
+3
 ]
 ],
-"clash": []
+"clash": [
+"famous churches"
+]
 },
 "Kaikoura": {
 "also": [
@@ -7592,7 +8765,9 @@
 4
 ]
 ],
-"clash": []
+"clash": [
+"landmarks"
+]
 },
 "Coromandel": {
 "also": [
@@ -7605,7 +8780,9 @@
 4
 ]
 ],
-"clash": []
+"clash": [
+"landmarks"
+]
 },
 "Champagne Pool": {
 "also": [
@@ -7616,9 +8793,15 @@
 [
 "famous waters",
 5
+],
+[
+"landmarks",
+4
 ]
 ],
-"clash": []
+"clash": [
+"wines"
+]
 },
 "Kepler Track": {
 "also": [
@@ -7627,7 +8810,9 @@
 4
 ]
 ],
-"clash": []
+"clash": [
+"landmarks"
+]
 },
 "Fiordland": {
 "also": [
@@ -7636,12 +8821,22 @@
 3
 ]
 ],
-"clash": []
+"clash": [
+"landmarks"
+]
 },
 "White Island": {
 "also": [
 [
 "famous volcanoes",
+4
+],
+[
+"landmarks",
+4
+],
+[
+"famous islands",
 4
 ]
 ],
@@ -7654,7 +8849,9 @@
 4
 ]
 ],
-"clash": []
+"clash": [
+"landmarks"
+]
 },
 "Copacabana": {
 "also": [
@@ -7664,6 +8861,10 @@
 ],
 [
 "beach destinations",
+2
+],
+[
+"landmarks",
 2
 ]
 ],
@@ -7678,9 +8879,19 @@
 [
 "evolution words",
 2
+],
+[
+"landmarks",
+1
+],
+[
+"famous islands",
+1
 ]
 ],
-"clash": []
+"clash": [
+"galapagos animals"
+]
 },
 "Lake Titicaca": {
 "also": [
@@ -7695,6 +8906,14 @@
 [
 "inca empire",
 2
+],
+[
+"landmarks",
+2
+],
+[
+"famous lakes",
+1
 ]
 ],
 "clash": []
@@ -7714,7 +8933,9 @@
 2
 ]
 ],
-"clash": []
+"clash": [
+"landmarks"
+]
 },
 "Torres del Paine": {
 "also": [
@@ -7725,6 +8946,10 @@
 [
 "national parks",
 3
+],
+[
+"landmarks",
+3
 ]
 ],
 "clash": []
@@ -7733,6 +8958,10 @@
 "also": [
 [
 "famous natural features",
+3
+],
+[
+"landmarks",
 3
 ]
 ],
@@ -7747,6 +8976,10 @@
 [
 "famous natural features",
 3
+],
+[
+"landmarks",
+3
 ]
 ],
 "clash": []
@@ -7755,6 +8988,10 @@
 "also": [
 [
 "andes",
+3
+],
+[
+"landmarks",
 3
 ]
 ],
@@ -7765,6 +9002,10 @@
 [
 "andean sites",
 4
+],
+[
+"landmarks",
+4
 ]
 ],
 "clash": []
@@ -7774,6 +9015,10 @@
 [
 "andean sites",
 3
+],
+[
+"landmarks",
+4
 ]
 ],
 "clash": []
@@ -7782,6 +9027,10 @@
 "also": [
 [
 "national parks",
+4
+],
+[
+"landmarks",
 4
 ]
 ],
@@ -7792,6 +9041,10 @@
 [
 "famous mountains",
 4
+],
+[
+"landmarks",
+3
 ]
 ],
 "clash": []
@@ -7801,6 +9054,10 @@
 [
 "famous mountains",
 4
+],
+[
+"landmarks",
+3
 ]
 ],
 "clash": []
@@ -7812,13 +9069,19 @@
 3
 ]
 ],
-"clash": []
+"clash": [
+"landmarks"
+]
 },
 "Maracanã": {
 "also": [
 [
 "famous stadiums",
 2
+],
+[
+"landmarks",
+3
 ]
 ],
 "clash": []
@@ -7828,6 +9091,14 @@
 [
 "national parks",
 5
+],
+[
+"landmarks",
+4
+],
+[
+"famous deserts",
+4
 ]
 ],
 "clash": []
@@ -7843,13 +9114,19 @@
 3
 ]
 ],
-"clash": []
+"clash": [
+"landmarks"
+]
 },
 "Chapada Diamantina": {
 "also": [
 [
 "national parks",
 5
+],
+[
+"landmarks",
+4
 ]
 ],
 "clash": []
@@ -7867,6 +9144,10 @@
 [
 "national parks",
 4
+],
+[
+"landmarks",
+3
 ]
 ],
 "clash": []
@@ -7884,6 +9165,10 @@
 [
 "empires",
 5
+],
+[
+"landmarks",
+4
 ]
 ],
 "clash": []
@@ -7895,13 +9180,19 @@
 4
 ]
 ],
-"clash": []
+"clash": [
+"landmarks"
+]
 },
 "Colca Canyon": {
 "also": [
 [
 "famous natural features",
 4
+],
+[
+"landmarks",
+3
 ]
 ],
 "clash": []
@@ -7915,6 +9206,10 @@
 [
 "beach destinations",
 3
+],
+[
+"landmarks",
+2
 ]
 ],
 "clash": []
@@ -7930,7 +9225,9 @@
 3
 ]
 ],
-"clash": []
+"clash": [
+"landmarks"
+]
 },
 "Sacsayhuamán": {
 "also": [
@@ -7945,6 +9242,10 @@
 [
 "inca engineering",
 3
+],
+[
+"landmarks",
+4
 ]
 ],
 "clash": []
@@ -7962,6 +9263,10 @@
 [
 "famous mountains",
 2
+],
+[
+"landmarks",
+3
 ]
 ],
 "clash": []
@@ -7995,6 +9300,10 @@
 [
 "maya and aztec sites",
 2
+],
+[
+"landmarks",
+2
 ]
 ],
 "clash": []
@@ -8004,6 +9313,14 @@
 [
 "ancient sites",
 4
+],
+[
+"landmarks",
+3
+],
+[
+"maya and aztec sites",
+3
 ]
 ],
 "clash": []
@@ -8017,6 +9334,10 @@
 [
 "maya and aztec sites",
 3
+],
+[
+"landmarks",
+4
 ]
 ],
 "clash": []
@@ -8026,6 +9347,10 @@
 [
 "famous natural features",
 4
+],
+[
+"landmarks",
+3
 ]
 ],
 "clash": []
@@ -8038,6 +9363,10 @@
 ],
 [
 "ancient sites",
+4
+],
+[
+"landmarks",
 4
 ]
 ],
@@ -8052,6 +9381,10 @@
 [
 "maya and aztec sites",
 4
+],
+[
+"landmarks",
+4
 ]
 ],
 "clash": []
@@ -8061,6 +9394,10 @@
 [
 "maya and aztec sites",
 3
+],
+[
+"landmarks",
+4
 ]
 ],
 "clash": []
@@ -8070,6 +9407,14 @@
 [
 "ancient sites",
 4
+],
+[
+"landmarks",
+4
+],
+[
+"maya and aztec sites",
+4
 ]
 ],
 "clash": []
@@ -8078,6 +9423,14 @@
 "also": [
 [
 "ancient sites",
+4
+],
+[
+"landmarks",
+4
+],
+[
+"maya and aztec sites",
 4
 ]
 ],
@@ -8092,6 +9445,10 @@
 [
 "maya and aztec sites",
 4
+],
+[
+"landmarks",
+5
 ]
 ],
 "clash": []
@@ -8105,6 +9462,10 @@
 [
 "maya and aztec sites",
 4
+],
+[
+"landmarks",
+5
 ]
 ],
 "clash": []
@@ -8118,6 +9479,14 @@
 [
 "famous volcanoes",
 3
+],
+[
+"landmarks",
+3
+],
+[
+"famous mountains",
+3
 ]
 ],
 "clash": []
@@ -8126,6 +9495,10 @@
 "also": [
 [
 "famous volcanoes",
+4
+],
+[
+"landmarks",
 4
 ]
 ],
@@ -8136,6 +9509,14 @@
 [
 "ancient sites",
 3
+],
+[
+"landmarks",
+3
+],
+[
+"maya and aztec sites",
+2
 ]
 ],
 "clash": []
@@ -8152,6 +9533,14 @@
 ],
 [
 "maya and aztec sites",
+2
+],
+[
+"landmarks",
+3
+],
+[
+"ancient cities",
 2
 ]
 ],
@@ -8176,16 +9565,24 @@
 3
 ]
 ],
-"clash": []
+"clash": [
+"landmarks"
+]
 },
 "Central Park": {
 "also": [
 [
 "new york landmarks",
 1
+],
+[
+"landmarks",
+1
 ]
 ],
-"clash": []
+"clash": [
+"famous gardens"
+]
 },
 "Alcatraz": {
 "also": [
@@ -8196,6 +9593,10 @@
 [
 "prison words",
 2
+],
+[
+"landmarks",
+1
 ]
 ],
 "clash": []
@@ -8209,6 +9610,10 @@
 [
 "us national parks",
 1
+],
+[
+"landmarks",
+1
 ]
 ],
 "clash": []
@@ -8221,6 +9626,10 @@
 ],
 [
 "american revolution",
+2
+],
+[
+"landmarks",
 2
 ]
 ],
@@ -8243,6 +9652,10 @@
 [
 "hot things",
 3
+],
+[
+"landmarks",
+2
 ]
 ],
 "clash": []
@@ -8260,6 +9673,10 @@
 [
 "us national parks",
 1
+],
+[
+"landmarks",
+2
 ]
 ],
 "clash": []
@@ -8269,9 +9686,15 @@
 [
 "world war ii battles",
 1
+],
+[
+"landmarks",
+2
 ]
 ],
-"clash": []
+"clash": [
+"gulfs and bays"
+]
 },
 "Coney Island": {
 "also": [
@@ -8290,6 +9713,10 @@
 [
 "theme park words",
 3
+],
+[
+"landmarks",
+2
 ]
 ],
 "clash": []
@@ -8302,6 +9729,10 @@
 ],
 [
 "new york landmarks",
+2
+],
+[
+"landmarks",
 2
 ]
 ],
@@ -8316,6 +9747,10 @@
 [
 "theme park words",
 1
+],
+[
+"landmarks",
+2
 ]
 ],
 "clash": []
@@ -8329,6 +9764,10 @@
 [
 "famous hiking trails",
 3
+],
+[
+"landmarks",
+3
 ]
 ],
 "clash": []
@@ -8337,6 +9776,10 @@
 "also": [
 [
 "famous natural features",
+3
+],
+[
+"landmarks",
 3
 ]
 ],
@@ -8347,9 +9790,16 @@
 [
 "us national parks",
 2
+],
+[
+"landmarks",
+3
 ]
 ],
-"clash": []
+"clash": [
+"architectural features",
+"bridge types"
+]
 },
 "Grand Teton": {
 "also": [
@@ -8360,6 +9810,10 @@
 [
 "us national parks",
 2
+],
+[
+"landmarks",
+3
 ]
 ],
 "clash": []
@@ -8369,9 +9823,15 @@
 [
 "famous natural features",
 3
+],
+[
+"landmarks",
+3
 ]
 ],
-"clash": []
+"clash": [
+"famous towers"
+]
 },
 "Mount St Helens": {
 "also": [
@@ -8386,6 +9846,10 @@
 [
 "places named after people",
 4
+],
+[
+"landmarks",
+3
 ]
 ],
 "clash": []
@@ -8395,6 +9859,10 @@
 [
 "famous stadiums",
 1
+],
+[
+"landmarks",
+3
 ]
 ],
 "clash": []
@@ -8404,6 +9872,10 @@
 [
 "famous stadiums",
 2
+],
+[
+"landmarks",
+3
 ]
 ],
 "clash": []
@@ -8417,6 +9889,10 @@
 [
 "launch pad",
 2
+],
+[
+"landmarks",
+3
 ]
 ],
 "clash": []
@@ -8425,6 +9901,10 @@
 "also": [
 [
 "famous volcanoes",
+3
+],
+[
+"landmarks",
 3
 ]
 ],
@@ -8439,6 +9919,10 @@
 [
 "us national parks",
 3
+],
+[
+"landmarks",
+3
 ]
 ],
 "clash": []
@@ -8452,6 +9936,10 @@
 [
 "us national parks",
 3
+],
+[
+"landmarks",
+3
 ]
 ],
 "clash": []
@@ -8461,6 +9949,10 @@
 [
 "famous natural features",
 3
+],
+[
+"landmarks",
+3
 ]
 ],
 "clash": []
@@ -8469,6 +9961,10 @@
 "also": [
 [
 "famous natural features",
+3
+],
+[
+"landmarks",
 3
 ]
 ],
@@ -8483,6 +9979,10 @@
 [
 "us national parks",
 2
+],
+[
+"landmarks",
+3
 ]
 ],
 "clash": []
@@ -8496,9 +9996,15 @@
 [
 "judaism words",
 3
+],
+[
+"landmarks",
+3
 ]
 ],
-"clash": []
+"clash": [
+"holy cities"
+]
 },
 "Mount Rainier": {
 "also": [
@@ -8513,6 +10019,10 @@
 [
 "us national parks",
 2
+],
+[
+"landmarks",
+3
 ]
 ],
 "clash": []
@@ -8530,6 +10040,10 @@
 [
 "us national parks",
 2
+],
+[
+"landmarks",
+3
 ]
 ],
 "clash": []
@@ -8551,6 +10065,10 @@
 [
 "colonial america",
 1
+],
+[
+"landmarks",
+3
 ]
 ],
 "clash": []
@@ -8559,6 +10077,10 @@
 "also": [
 [
 "famous mountains",
+4
+],
+[
+"landmarks",
 4
 ]
 ],
@@ -8573,6 +10095,10 @@
 [
 "wild west",
 2
+],
+[
+"landmarks",
+4
 ]
 ],
 "clash": []
@@ -8582,6 +10108,10 @@
 [
 "civil war battles",
 1
+],
+[
+"landmarks",
+3
 ]
 ],
 "clash": []
@@ -8591,6 +10121,10 @@
 [
 "famous mountains",
 3
+],
+[
+"landmarks",
+4
 ]
 ],
 "clash": []
@@ -8600,6 +10134,14 @@
 [
 "famous volcanoes",
 3
+],
+[
+"landmarks",
+4
+],
+[
+"famous mountains",
+3
 ]
 ],
 "clash": []
@@ -8608,6 +10150,14 @@
 "also": [
 [
 "famous volcanoes",
+3
+],
+[
+"landmarks",
+4
+],
+[
+"us national parks",
 3
 ]
 ],
@@ -8622,6 +10172,10 @@
 [
 "beach destinations",
 2
+],
+[
+"landmarks",
+2
 ]
 ],
 "clash": []
@@ -8631,6 +10185,18 @@
 [
 "new york landmarks",
 2
+],
+[
+"landmarks",
+3
+],
+[
+"famous towers",
+2
+],
+[
+"famous buildings",
+3
 ]
 ],
 "clash": []
@@ -8639,6 +10205,10 @@
 "also": [
 [
 "theater",
+3
+],
+[
+"landmarks",
 3
 ]
 ],
@@ -8659,7 +10229,9 @@
 3
 ]
 ],
-"clash": []
+"clash": [
+"landmarks"
+]
 },
 "Lake Louise": {
 "also": [
@@ -8670,6 +10242,14 @@
 [
 "famous ski resorts",
 3
+],
+[
+"landmarks",
+2
+],
+[
+"famous lakes",
+2
 ]
 ],
 "clash": []
@@ -8705,16 +10285,24 @@
 4
 ]
 ],
-"clash": []
+"clash": [
+"landmarks"
+]
 },
 "Château Frontenac": {
 "also": [
 [
 "famous hotels",
 4
+],
+[
+"landmarks",
+2
 ]
 ],
-"clash": []
+"clash": [
+"famous castles"
+]
 },
 "Whistler": {
 "also": [
@@ -8727,7 +10315,9 @@
 3
 ]
 ],
-"clash": []
+"clash": [
+"landmarks"
+]
 },
 "Cabot Trail": {
 "also": [
@@ -8736,12 +10326,18 @@
 4
 ]
 ],
-"clash": []
+"clash": [
+"landmarks"
+]
 },
 "Gros Morne": {
 "also": [
 [
 "national parks",
+4
+],
+[
+"landmarks",
 4
 ]
 ],
@@ -8756,6 +10352,10 @@
 [
 "native north american languages",
 3
+],
+[
+"landmarks",
+3
 ]
 ],
 "clash": []
@@ -8764,6 +10364,10 @@
 "also": [
 [
 "national parks",
+4
+],
+[
+"landmarks",
 4
 ]
 ],
@@ -8774,6 +10378,10 @@
 [
 "national parks",
 4
+],
+[
+"landmarks",
+4
 ]
 ],
 "clash": []
@@ -8783,6 +10391,10 @@
 [
 "national parks",
 5
+],
+[
+"landmarks",
+4
 ]
 ],
 "clash": []
@@ -8791,6 +10403,10 @@
 "also": [
 [
 "civil war battles",
+4
+],
+[
+"landmarks",
 4
 ]
 ],
@@ -8805,6 +10421,14 @@
 [
 "bazaar",
 2
+],
+[
+"landmarks",
+1
+],
+[
+"turkish landmarks",
+1
 ]
 ],
 "clash": []
@@ -8814,15 +10438,33 @@
 [
 "byzantine empire",
 3
+],
+[
+"landmarks",
+2
+],
+[
+"turkish landmarks",
+2
 ]
 ],
-"clash": []
+"clash": [
+"famous churches"
+]
 },
 "Spice Bazaar": {
 "also": [
 [
 "bazaar",
 3
+],
+[
+"landmarks",
+2
+],
+[
+"turkish landmarks",
+2
 ]
 ],
 "clash": []
@@ -8840,6 +10482,14 @@
 [
 "byzantine empire",
 3
+],
+[
+"landmarks",
+3
+],
+[
+"turkish landmarks",
+3
 ]
 ],
 "clash": []
@@ -8848,6 +10498,14 @@
 "also": [
 [
 "byzantine empire",
+4
+],
+[
+"landmarks",
+4
+],
+[
+"turkish landmarks",
 4
 ]
 ],
@@ -8858,15 +10516,37 @@
 [
 "byzantine empire",
 3
+],
+[
+"landmarks",
+3
+],
+[
+"turkish landmarks",
+3
 ]
 ],
-"clash": []
+"clash": [
+"gulfs and bays"
+]
 },
 "Hagia Irene": {
 "also": [
 [
 "byzantine empire",
 4
+],
+[
+"landmarks",
+4
+],
+[
+"turkish landmarks",
+4
+],
+[
+"famous churches",
+3
 ]
 ],
 "clash": []
@@ -8875,6 +10555,14 @@
 "also": [
 [
 "famous hotels",
+4
+],
+[
+"landmarks",
+4
+],
+[
+"turkish landmarks",
 4
 ]
 ],
@@ -8887,13 +10575,19 @@
 3
 ]
 ],
-"clash": []
+"clash": [
+"landmarks"
+]
 },
 "Wembley": {
 "also": [
 [
 "famous stadiums",
 1
+],
+[
+"landmarks",
+2
 ]
 ],
 "clash": []
@@ -8905,7 +10599,10 @@
 3
 ]
 ],
-"clash": []
+"clash": [
+"clocks and calendars",
+"landmarks"
+]
 },
 "Cutty Sark": {
 "also": [
@@ -8916,9 +10613,15 @@
 [
 "age of sail",
 2
+],
+[
+"landmarks",
+2
 ]
 ],
-"clash": []
+"clash": [
+"spirits"
+]
 },
 "Cenotaph": {
 "also": [
@@ -8929,6 +10632,10 @@
 [
 "tombs and burials",
 3
+],
+[
+"landmarks",
+3
 ]
 ],
 "clash": []
@@ -8938,6 +10645,10 @@
 [
 "victorian era",
 4
+],
+[
+"landmarks",
+3
 ]
 ],
 "clash": []
@@ -8949,7 +10660,9 @@
 4
 ]
 ],
-"clash": []
+"clash": [
+"landmarks"
+]
 },
 "Barbican": {
 "also": [
@@ -8960,6 +10673,10 @@
 [
 "castle parts",
 3
+],
+[
+"landmarks",
+3
 ]
 ],
 "clash": []
@@ -8969,6 +10686,10 @@
 [
 "british politics",
 2
+],
+[
+"landmarks",
+1
 ]
 ],
 "clash": []
@@ -8982,6 +10703,10 @@
 [
 "european rail",
 3
+],
+[
+"landmarks",
+2
 ]
 ],
 "clash": []
@@ -8990,6 +10715,10 @@
 "also": [
 [
 "banking words",
+2
+],
+[
+"landmarks",
 2
 ]
 ],
@@ -9004,6 +10733,10 @@
 [
 "famous stadiums",
 2
+],
+[
+"landmarks",
+3
 ]
 ],
 "clash": []
@@ -9017,6 +10750,10 @@
 [
 "french revolution",
 3
+],
+[
+"landmarks",
+2
 ]
 ],
 "clash": []
@@ -9030,6 +10767,14 @@
 [
 "tourist attractions",
 3
+],
+[
+"landmarks",
+2
+],
+[
+"tombs and burials",
+2
 ]
 ],
 "clash": []
@@ -9041,7 +10786,9 @@
 4
 ]
 ],
-"clash": []
+"clash": [
+"landmarks"
+]
 },
 "Marais": {
 "also": [
@@ -9050,7 +10797,9 @@
 4
 ]
 ],
-"clash": []
+"clash": [
+"landmarks"
+]
 },
 "Bastille": {
 "also": [
@@ -9061,15 +10810,25 @@
 [
 "french revolution",
 1
+],
+[
+"landmarks",
+2
 ]
 ],
-"clash": []
+"clash": [
+"famous castles"
+]
 },
 "Champ de Mars": {
 "also": [
 [
 "french revolution",
 4
+],
+[
+"landmarks",
+3
 ]
 ],
 "clash": []
@@ -9079,9 +10838,16 @@
 [
 "french revolution",
 4
+],
+[
+"landmarks",
+3
 ]
 ],
-"clash": []
+"clash": [
+"famous palaces",
+"prison words"
+]
 },
 "Madeleine": {
 "also": [
@@ -9096,6 +10862,18 @@
 [
 "foods named after people",
 3
+],
+[
+"landmarks",
+3
+],
+[
+"famous churches",
+3
+],
+[
+"girls' names",
+3
 ]
 ],
 "clash": []
@@ -9108,6 +10886,10 @@
 ],
 [
 "sports venues",
+4
+],
+[
+"landmarks",
 4
 ]
 ],
@@ -9565,7 +11347,8 @@
 "Garda": {
 "also": [],
 "clash": [
-"european holiday regions"
+"european holiday regions",
+"police words"
 ]
 },
 "Atitlán": {
@@ -9601,7 +11384,12 @@
 ]
 },
 "Horseshoe Falls": {
-"also": [],
+"also": [
+[
+"landmarks",
+3
+]
+],
 "clash": [
 "us landmarks"
 ]
@@ -9935,7 +11723,12 @@
 ]
 },
 "Shark Bay": {
-"also": [],
+"also": [
+[
+"landmarks",
+4
+]
+],
 "clash": [
 "sharks"
 ]
@@ -10043,6 +11836,5432 @@
 "also": [],
 "clash": [
 "seaweeds"
+]
+},
+"Lincoln Memorial": {
+"also": [],
+"clash": [
+"famous statues"
+]
+},
+"Brandenburg Gate": {
+"also": [],
+"clash": [
+"famous buildings"
+]
+},
+"Hampi": {
+"also": [
+[
+"ancient sites of asia",
+3
+]
+],
+"clash": []
+},
+"Three Gorges Dam": {
+"also": [
+[
+"chinese landmarks",
+2
+]
+],
+"clash": []
+},
+"Atomium": {
+"also": [],
+"clash": [
+"famous buildings"
+]
+},
+"Transamerica Pyramid": {
+"also": [
+[
+"famous towers",
+3
+],
+[
+"us landmarks",
+3
+]
+],
+"clash": []
+},
+"Turning Torso": {
+"also": [
+[
+"famous towers",
+4
+]
+],
+"clash": []
+},
+"Flatiron": {
+"also": [
+[
+"new york landmarks",
+2
+]
+],
+"clash": [
+"famous towers"
+]
+},
+"Independence Hall": {
+"also": [
+[
+"american revolution",
+3
+]
+],
+"clash": []
+},
+"Fallingwater": {
+"also": [
+[
+"us landmarks",
+3
+]
+],
+"clash": []
+},
+"Water Cube": {
+"also": [
+[
+"chinese landmarks",
+4
+]
+],
+"clash": []
+},
+"Raffles Hotel": {
+"also": [
+[
+"famous hotels",
+2
+]
+],
+"clash": []
+},
+"Louvre Pyramid": {
+"also": [
+[
+"paris landmarks",
+2
+]
+],
+"clash": [
+"famous museums"
+]
+},
+"Lloyd's Building": {
+"also": [
+[
+"london landmarks",
+4
+]
+],
+"clash": []
+},
+"Guggenheim Bilbao": {
+"also": [
+[
+"famous museums",
+2
+]
+],
+"clash": []
+},
+"Westminster Hall": {
+"also": [
+[
+"london landmarks",
+3
+]
+],
+"clash": [
+"british politics"
+]
+},
+"Palace of Westminster": {
+"also": [
+[
+"famous palaces",
+2
+],
+[
+"british politics",
+2
+]
+],
+"clash": []
+},
+"Reichstag": {
+"also": [],
+"clash": [
+"government words"
+]
+},
+"Tower Bridge": {
+"also": [],
+"clash": [
+"famous towers"
+]
+},
+"Golden Gate": {
+"also": [],
+"clash": [
+"american cities"
+]
+},
+"Bay Bridge": {
+"also": [
+[
+"us landmarks",
+3
+]
+],
+"clash": []
+},
+"Galata Bridge": {
+"also": [
+[
+"turkish landmarks",
+2
+]
+],
+"clash": []
+},
+"Bosphorus Bridge": {
+"also": [
+[
+"turkish landmarks",
+2
+]
+],
+"clash": []
+},
+"Akashi Kaikyo": {
+"also": [
+[
+"japanese landmarks",
+4
+]
+],
+"clash": []
+},
+"Mackinac Bridge": {
+"also": [
+[
+"us landmarks",
+4
+]
+],
+"clash": []
+},
+"Sunshine Skyway": {
+"also": [
+[
+"us landmarks",
+4
+]
+],
+"clash": []
+},
+"Tsing Ma": {
+"also": [
+[
+"chinese landmarks",
+4
+]
+],
+"clash": []
+},
+"Royal Gorge": {
+"also": [
+[
+"us landmarks",
+4
+]
+],
+"clash": []
+},
+"Kintai Bridge": {
+"also": [
+[
+"japanese landmarks",
+4
+]
+],
+"clash": []
+},
+"Nihonbashi": {
+"also": [
+[
+"japanese landmarks",
+4
+]
+],
+"clash": []
+},
+"Bixby Bridge": {
+"also": [
+[
+"us landmarks",
+4
+]
+],
+"clash": []
+},
+"Hell Gate": {
+"also": [],
+"clash": [
+"afterlife words",
+"new york landmarks"
+]
+},
+"Øresund Bridge": {
+"also": [],
+"clash": [
+"straits and canals"
+]
+},
+"Menai Bridge": {
+"also": [],
+"clash": [
+"straits and canals"
+]
+},
+"Severn Bridge": {
+"also": [],
+"clash": [
+"european rivers"
+]
+},
+"Humber Bridge": {
+"also": [],
+"clash": [
+"european rivers"
+]
+},
+"Tyne Bridge": {
+"also": [],
+"clash": [
+"european rivers"
+]
+},
+"Rialto": {
+"also": [],
+"clash": [
+"theater words"
+]
+},
+"Twin Towers": {
+"also": [
+[
+"us landmarks",
+1
+],
+[
+"new york landmarks",
+1
+],
+[
+"famous buildings",
+1
+]
+],
+"clash": []
+},
+"Jin Mao": {
+"also": [
+[
+"chinese landmarks",
+3
+],
+[
+"famous buildings",
+4
+]
+],
+"clash": []
+},
+"Tokyo Skytree": {
+"also": [
+[
+"japanese landmarks",
+2
+]
+],
+"clash": []
+},
+"BT Tower": {
+"also": [
+[
+"london landmarks",
+3
+]
+],
+"clash": []
+},
+"Galata Tower": {
+"also": [
+[
+"turkish landmarks",
+2
+]
+],
+"clash": []
+},
+"Qutub Minar": {
+"also": [],
+"clash": [
+"famous mosques"
+]
+},
+"Macau Tower": {
+"also": [
+[
+"chinese landmarks",
+4
+]
+],
+"clash": []
+},
+"Sutro Tower": {
+"also": [
+[
+"us landmarks",
+5
+]
+],
+"clash": []
+},
+"Stratosphere": {
+"also": [
+[
+"us landmarks",
+4
+]
+],
+"clash": []
+},
+"Reunion Tower": {
+"also": [
+[
+"us landmarks",
+4
+]
+],
+"clash": []
+},
+"Giralda": {
+"also": [],
+"clash": [
+"famous churches"
+]
+},
+"Tour Montparnasse": {
+"also": [
+[
+"paris landmarks",
+2
+],
+[
+"famous buildings",
+3
+]
+],
+"clash": []
+},
+"Coit Tower": {
+"also": [
+[
+"us landmarks",
+4
+]
+],
+"clash": []
+},
+"Hassan Tower": {
+"also": [
+[
+"african landmarks",
+4
+]
+],
+"clash": [
+"famous mosques"
+]
+},
+"Venus de Milo": {
+"also": [],
+"clash": [
+"paris landmarks",
+"roman gods"
+]
+},
+"The Thinker": {
+"also": [],
+"clash": [
+"paris landmarks"
+]
+},
+"Manneken Pis": {
+"also": [
+[
+"landmarks",
+3
+]
+],
+"clash": []
+},
+"Discobolus": {
+"also": [],
+"clash": [
+"ancient olympics"
+]
+},
+"Cloud Gate": {
+"also": [
+[
+"landmarks",
+3
+]
+],
+"clash": []
+},
+"Kelpies": {
+"also": [],
+"clash": [
+"celtic folklore",
+"shapeshifters"
+]
+},
+"Hachiko": {
+"also": [
+[
+"japanese landmarks",
+2
+]
+],
+"clash": []
+},
+"Leshan Buddha": {
+"also": [
+[
+"landmarks",
+3
+]
+],
+"clash": []
+},
+"Big Buddha": {
+"also": [
+[
+"landmarks",
+3
+]
+],
+"clash": []
+},
+"Apollo Belvedere": {
+"also": [],
+"clash": [
+"greek gods"
+]
+},
+"Capitoline Wolf": {
+"also": [
+[
+"rome landmarks",
+3
+]
+],
+"clash": [
+"ancient rome"
+]
+},
+"Angel of the North": {
+"also": [
+[
+"landmarks",
+2
+]
+],
+"clash": []
+},
+"Motherland Calls": {
+"also": [
+[
+"landmarks",
+3
+]
+],
+"clash": []
+},
+"Nelson's Column": {
+"also": [
+[
+"landmarks",
+2
+]
+],
+"clash": [
+"famous towers"
+]
+},
+"Tian Tan Buddha": {
+"also": [
+[
+"chinese landmarks",
+3
+],
+[
+"landmarks",
+3
+]
+],
+"clash": []
+},
+"Daibutsu": {
+"also": [
+[
+"landmarks",
+4
+]
+],
+"clash": []
+},
+"Colossi of Memnon": {
+"also": [
+[
+"landmarks",
+3
+]
+],
+"clash": []
+},
+"Winged Victory": {
+"also": [],
+"clash": [
+"greek gods"
+]
+},
+"Topkapi": {
+"also": [
+[
+"turkish landmarks",
+1
+]
+],
+"clash": [
+"famous museums"
+]
+},
+"Winter Palace": {
+"also": [],
+"clash": [
+"famous museums"
+]
+},
+"Potala": {
+"also": [
+[
+"chinese landmarks",
+2
+]
+],
+"clash": [
+"famous temples"
+]
+},
+"Pitti Palace": {
+"also": [],
+"clash": [
+"famous museums"
+]
+},
+"Linderhof": {
+"also": [],
+"clash": [
+"famous castles"
+]
+},
+"Élysée Palace": {
+"also": [
+[
+"paris landmarks",
+2
+]
+],
+"clash": []
+},
+"Umaid Bhawan": {
+"also": [
+[
+"indian landmarks",
+4
+]
+],
+"clash": [
+"famous hotels"
+]
+},
+"Grand Palace": {
+"also": [],
+"clash": [
+"paris landmarks"
+]
+},
+"Pena Palace": {
+"also": [],
+"clash": [
+"famous castles"
+]
+},
+"Escorial": {
+"also": [],
+"clash": [
+"monastery"
+]
+},
+"Iolani Palace": {
+"also": [
+[
+"us landmarks",
+4
+]
+],
+"clash": []
+},
+"Matsumoto Castle": {
+"also": [
+[
+"landmarks",
+4
+]
+],
+"clash": []
+},
+"Nijo Castle": {
+"also": [
+[
+"landmarks",
+4
+]
+],
+"clash": []
+},
+"Hearst Castle": {
+"also": [
+[
+"landmarks",
+3
+]
+],
+"clash": []
+},
+"Wawel": {
+"also": [],
+"clash": [
+"famous palaces"
+]
+},
+"Pharos": {
+"also": [],
+"clash": [
+"egyptian landmarks",
+"famous towers"
+]
+},
+"Statue of Zeus": {
+"also": [
+[
+"famous statues",
+2
+]
+],
+"clash": [
+"greek gods"
+]
+},
+"Trafalgar Square": {
+"also": [],
+"clash": [
+"napoleonic battles"
+]
+},
+"Taksim": {
+"also": [
+[
+"turkish landmarks",
+2
+]
+],
+"clash": []
+},
+"Wenceslas Square": {
+"also": [],
+"clash": [
+"christmas carols"
+]
+},
+"Tahrir Square": {
+"also": [
+[
+"egyptian landmarks",
+3
+]
+],
+"clash": []
+},
+"Piccadilly Circus": {
+"also": [],
+"clash": [
+"circus",
+"famous streets"
+]
+},
+"Leicester Square": {
+"also": [],
+"clash": [
+"british cities"
+]
+},
+"Jackson Square": {
+"also": [
+[
+"us landmarks",
+4
+]
+],
+"clash": []
+},
+"Dundas Square": {
+"also": [
+[
+"canadian landmarks",
+4
+]
+],
+"clash": []
+},
+"Copley Square": {
+"also": [
+[
+"us landmarks",
+4
+]
+],
+"clash": []
+},
+"Rittenhouse Square": {
+"also": [
+[
+"us landmarks",
+4
+]
+],
+"clash": []
+},
+"Harvard Square": {
+"also": [
+[
+"us landmarks",
+4
+]
+],
+"clash": []
+},
+"Pioneer Square": {
+"also": [
+[
+"us landmarks",
+4
+]
+],
+"clash": []
+},
+"Red Square": {
+"also": [],
+"clash": [
+"red things"
+]
+},
+"Istiklal": {
+"also": [
+[
+"turkish landmarks",
+2
+]
+],
+"clash": []
+},
+"Bourbon Street": {
+"also": [],
+"clash": [
+"royal houses",
+"spirits"
+]
+},
+"Hollywood Boulevard": {
+"also": [
+[
+"us landmarks",
+3
+]
+],
+"clash": []
+},
+"Sunset Boulevard": {
+"also": [
+[
+"us landmarks",
+3
+]
+],
+"clash": []
+},
+"Rodeo Drive": {
+"also": [
+[
+"us landmarks",
+3
+]
+],
+"clash": [
+"rodeo words"
+]
+},
+"Beale Street": {
+"also": [
+[
+"us landmarks",
+4
+]
+],
+"clash": []
+},
+"Haight-Ashbury": {
+"also": [
+[
+"us landmarks",
+4
+]
+],
+"clash": []
+},
+"Pennsylvania Avenue": {
+"also": [
+[
+"us landmarks",
+3
+]
+],
+"clash": [
+"us government",
+"us states"
+]
+},
+"Park Avenue": {
+"also": [
+[
+"new york landmarks",
+3
+],
+[
+"us landmarks",
+3
+]
+],
+"clash": []
+},
+"Madison Avenue": {
+"also": [
+[
+"new york landmarks",
+3
+],
+[
+"us landmarks",
+3
+]
+],
+"clash": [
+"advertising words"
+]
+},
+"Bleecker Street": {
+"also": [
+[
+"new york landmarks",
+4
+]
+],
+"clash": []
+},
+"Regent Street": {
+"also": [
+[
+"london landmarks",
+2
+]
+],
+"clash": []
+},
+"Bond Street": {
+"also": [
+[
+"london landmarks",
+2
+]
+],
+"clash": []
+},
+"Fleet Street": {
+"also": [
+[
+"london landmarks",
+2
+]
+],
+"clash": [
+"journalism words",
+"newspaper words"
+]
+},
+"Pall Mall": {
+"also": [
+[
+"london landmarks",
+3
+]
+],
+"clash": []
+},
+"Piccadilly": {
+"also": [
+[
+"london landmarks",
+2
+]
+],
+"clash": []
+},
+"Savile Row": {
+"also": [
+[
+"london landmarks",
+3
+]
+],
+"clash": []
+},
+"Shaftesbury Avenue": {
+"also": [
+[
+"london landmarks",
+3
+]
+],
+"clash": []
+},
+"Via Veneto": {
+"also": [
+[
+"rome landmarks",
+4
+]
+],
+"clash": []
+},
+"Nathan Road": {
+"also": [
+[
+"chinese landmarks",
+4
+]
+],
+"clash": []
+},
+"Chandni Chowk": {
+"also": [
+[
+"indian landmarks",
+3
+]
+],
+"clash": []
+},
+"Michigan Avenue": {
+"also": [
+[
+"us landmarks",
+4
+]
+],
+"clash": [
+"us states"
+]
+},
+"Magnificent Mile": {
+"also": [
+[
+"us landmarks",
+3
+]
+],
+"clash": []
+},
+"Ocean Drive": {
+"also": [
+[
+"us landmarks",
+3
+]
+],
+"clash": []
+},
+"Duval Street": {
+"also": [
+[
+"us landmarks",
+4
+]
+],
+"clash": []
+},
+"Canal Street": {
+"also": [
+[
+"us landmarks",
+4
+]
+],
+"clash": [
+"new york landmarks"
+]
+},
+"Mulholland Drive": {
+"also": [
+[
+"us landmarks",
+4
+]
+],
+"clash": []
+},
+"Avenue Montaigne": {
+"also": [
+[
+"paris landmarks",
+4
+]
+],
+"clash": []
+},
+"La Croisette": {
+"also": [],
+"clash": [
+"film festivals"
+]
+},
+"Yonge Street": {
+"also": [
+[
+"canadian landmarks",
+4
+]
+],
+"clash": []
+},
+"Takeshita Street": {
+"also": [
+[
+"japanese landmarks",
+4
+]
+],
+"clash": []
+},
+"Avenida Atlântica": {
+"also": [
+[
+"south american landmarks",
+4
+]
+],
+"clash": []
+},
+"42nd Street": {
+"also": [
+[
+"new york landmarks",
+3
+],
+[
+"us landmarks",
+4
+]
+],
+"clash": [
+"musicals words"
+]
+},
+"Abbey Road": {
+"also": [],
+"clash": [
+"famous bands"
+]
+},
+"Penny Lane": {
+"also": [],
+"clash": [
+"famous bands"
+]
+},
+"Metropolitan Museum": {
+"also": [
+[
+"new york landmarks",
+1
+],
+[
+"us landmarks",
+2
+]
+],
+"clash": []
+},
+"Tate Britain": {
+"also": [
+[
+"london landmarks",
+2
+]
+],
+"clash": []
+},
+"Pompidou": {
+"also": [],
+"clash": [
+"famous leaders"
+]
+},
+"Getty": {
+"also": [
+[
+"us landmarks",
+3
+]
+],
+"clash": []
+},
+"Field Museum": {
+"also": [
+[
+"us landmarks",
+4
+]
+],
+"clash": []
+},
+"Hirshhorn": {
+"also": [
+[
+"us landmarks",
+4
+]
+],
+"clash": []
+},
+"Pushkin Museum": {
+"also": [],
+"clash": [
+"russian writers"
+]
+},
+"Borghese": {
+"also": [
+[
+"rome landmarks",
+2
+]
+],
+"clash": []
+},
+"Ghibli Museum": {
+"also": [
+[
+"japanese landmarks",
+3
+]
+],
+"clash": [
+"anime and manga words"
+]
+},
+"Natural History Museum": {
+"also": [],
+"clash": [
+"new york landmarks"
+]
+},
+"Neue Galerie": {
+"also": [
+[
+"new york landmarks",
+4
+]
+],
+"clash": []
+},
+"Grand Egyptian Museum": {
+"also": [
+[
+"egyptian landmarks",
+2
+]
+],
+"clash": []
+},
+"Art Institute": {
+"also": [
+[
+"us landmarks",
+4
+]
+],
+"clash": []
+},
+"Musée Picasso": {
+"also": [
+[
+"paris landmarks",
+3
+]
+],
+"clash": []
+},
+"Van Gogh Museum": {
+"also": [],
+"clash": [
+"dutch painters"
+]
+},
+"Luxor Temple": {
+"also": [
+[
+"egyptian landmarks",
+2
+],
+[
+"ancient egypt",
+2
+]
+],
+"clash": []
+},
+"Mahabodhi": {
+"also": [
+[
+"pilgrimage sites",
+3
+]
+],
+"clash": []
+},
+"Erechtheion": {
+"also": [
+[
+"ancient greece",
+4
+],
+[
+"ancient sites of europe",
+4
+]
+],
+"clash": []
+},
+"Lingyin": {
+"also": [
+[
+"chinese landmarks",
+4
+]
+],
+"clash": []
+},
+"Al-Aqsa": {
+"also": [
+[
+"pilgrimage sites",
+3
+]
+],
+"clash": [
+"islam words"
+]
+},
+"Grand Mosque": {
+"also": [
+[
+"pilgrimage sites",
+3
+]
+],
+"clash": []
+},
+"Süleymaniye": {
+"also": [
+[
+"turkish landmarks",
+2
+]
+],
+"clash": []
+},
+"Mezquita": {
+"also": [
+[
+"famous churches",
+3
+]
+],
+"clash": []
+},
+"Djenné Mosque": {
+"also": [
+[
+"african landmarks",
+2
+]
+],
+"clash": []
+},
+"Ortaköy": {
+"also": [
+[
+"turkish landmarks",
+3
+]
+],
+"clash": []
+},
+"Rüstem Pasha": {
+"also": [
+[
+"turkish landmarks",
+4
+]
+],
+"clash": [
+"ottoman titles"
+]
+},
+"Fatih Mosque": {
+"also": [
+[
+"turkish landmarks",
+4
+]
+],
+"clash": []
+},
+"Qarawiyyin": {
+"also": [
+[
+"african landmarks",
+4
+]
+],
+"clash": [
+"university words"
+]
+},
+"Kocatepe": {
+"also": [
+[
+"turkish landmarks",
+3
+]
+],
+"clash": []
+},
+"Masjid Nabawi": {
+"also": [
+[
+"pilgrimage sites",
+3
+]
+],
+"clash": []
+},
+"Eyüp Sultan": {
+"also": [
+[
+"istanbul landmarks",
+3
+],
+[
+"turkish landmarks",
+3
+]
+],
+"clash": [
+"ottoman sultans"
+]
+},
+"Al-Azhar": {
+"also": [],
+"clash": [
+"university words"
+]
+},
+"Canterbury Cathedral": {
+"also": [
+[
+"pilgrimage sites",
+2
+]
+],
+"clash": []
+},
+"St Basil's": {
+"also": [],
+"clash": [
+"famous saints",
+"herbs"
+]
+},
+"Westminster Cathedral": {
+"also": [
+[
+"london landmarks",
+3
+]
+],
+"clash": []
+},
+"Compostela": {
+"also": [
+[
+"pilgrimage sites",
+2
+]
+],
+"clash": []
+},
+"Guadalupe Basilica": {
+"also": [
+[
+"pilgrimage sites",
+3
+]
+],
+"clash": []
+},
+"St Patrick's": {
+"also": [
+[
+"new york landmarks",
+2
+]
+],
+"clash": [
+"famous saints",
+"st. patrick's day"
+]
+},
+"Las Lajas": {
+"also": [
+[
+"south american landmarks",
+4
+]
+],
+"clash": []
+},
+"Sedlec Ossuary": {
+"also": [],
+"clash": [
+"tombs and burials"
+]
+},
+"Temple Church": {
+"also": [
+[
+"london landmarks",
+4
+]
+],
+"clash": [
+"famous temples"
+]
+},
+"Melrose Abbey": {
+"also": [],
+"clash": [
+"monastery"
+]
+},
+"Whitby Abbey": {
+"also": [],
+"clash": [
+"monastery"
+]
+},
+"Iona Abbey": {
+"also": [],
+"clash": [
+"famous islands",
+"monastery"
+]
+},
+"Melk Abbey": {
+"also": [],
+"clash": [
+"monastery"
+]
+},
+"St Sophia": {
+"also": [],
+"clash": [
+"famous mosques",
+"famous saints"
+]
+},
+"Grace Cathedral": {
+"also": [
+[
+"us landmarks",
+4
+]
+],
+"clash": []
+},
+"Chora": {
+"also": [
+[
+"turkish landmarks",
+3
+]
+],
+"clash": [
+"famous museums"
+]
+},
+"Church of the Nativity": {
+"also": [
+[
+"pilgrimage sites",
+2
+]
+],
+"clash": [
+"christmas"
+]
+},
+"Mount Ararat": {
+"also": [
+[
+"landmarks",
+2
+],
+[
+"famous mountains",
+2
+],
+[
+"famous volcanoes",
+3
+]
+],
+"clash": [
+"biblical names"
+]
+},
+"Sumela": {
+"also": [
+[
+"landmarks",
+3
+]
+],
+"clash": [
+"monastery"
+]
+},
+"Anıtkabir": {
+"also": [
+[
+"landmarks",
+3
+]
+],
+"clash": [
+"tombs and burials"
+]
+},
+"Mevlana": {
+"also": [
+[
+"landmarks",
+3
+],
+[
+"persian poets",
+3
+]
+],
+"clash": []
+},
+"Lake Van": {
+"also": [
+[
+"landmarks",
+3
+],
+[
+"famous lakes",
+2
+]
+],
+"clash": []
+},
+"Kekova": {
+"also": [
+[
+"landmarks",
+4
+],
+[
+"ancient sites of turkey",
+4
+]
+],
+"clash": []
+},
+"Butterfly Valley": {
+"also": [
+[
+"landmarks",
+4
+]
+],
+"clash": []
+},
+"Ishak Pasha": {
+"also": [
+[
+"landmarks",
+4
+],
+[
+"famous palaces",
+4
+]
+],
+"clash": [
+"ottoman titles"
+]
+},
+"Akdamar": {
+"also": [
+[
+"landmarks",
+5
+],
+[
+"famous churches",
+4
+]
+],
+"clash": []
+},
+"Safranbolu": {
+"also": [
+[
+"turkish cities",
+4
+]
+],
+"clash": [
+"landmarks"
+]
+},
+"Bodrum Castle": {
+"also": [
+[
+"landmarks",
+3
+],
+[
+"famous castles",
+3
+]
+],
+"clash": [
+"turkish resorts"
+]
+},
+"Ihlara": {
+"also": [
+[
+"landmarks",
+4
+],
+[
+"cappadocia",
+4
+]
+],
+"clash": []
+},
+"Harran": {
+"also": [
+[
+"landmarks",
+4
+],
+[
+"ancient cities",
+3
+],
+[
+"ancient sites of turkey",
+3
+]
+],
+"clash": []
+},
+"Uzungöl": {
+"also": [
+[
+"landmarks",
+4
+],
+[
+"famous lakes",
+4
+]
+],
+"clash": []
+},
+"Rumkale": {
+"also": [
+[
+"landmarks",
+5
+]
+],
+"clash": [
+"famous castles"
+]
+},
+"Alanya Castle": {
+"also": [
+[
+"landmarks",
+4
+],
+[
+"famous castles",
+3
+]
+],
+"clash": [
+"turkish resorts"
+]
+},
+"Kızıl Kule": {
+"also": [
+[
+"landmarks",
+5
+],
+[
+"famous towers",
+4
+]
+],
+"clash": []
+},
+"Saklıkent": {
+"also": [
+[
+"landmarks",
+4
+]
+],
+"clash": [
+"national parks"
+]
+},
+"Mount Erciyes": {
+"also": [
+[
+"landmarks",
+4
+],
+[
+"famous mountains",
+4
+],
+[
+"famous volcanoes",
+4
+]
+],
+"clash": [
+"famous ski resorts"
+]
+},
+"Letoon": {
+"also": [
+[
+"landmarks",
+5
+],
+[
+"ancient sites of turkey",
+4
+]
+],
+"clash": []
+},
+"Lake Salda": {
+"also": [
+[
+"landmarks",
+5
+],
+[
+"famous lakes",
+4
+]
+],
+"clash": []
+},
+"Phaselis": {
+"also": [
+[
+"landmarks",
+5
+],
+[
+"ancient sites of turkey",
+4
+]
+],
+"clash": []
+},
+"Balıklıgöl": {
+"also": [
+[
+"landmarks",
+5
+]
+],
+"clash": [
+"famous lakes"
+]
+},
+"Halfeti": {
+"also": [],
+"clash": [
+"landmarks"
+]
+},
+"Suez Canal": {
+"also": [
+[
+"landmarks",
+1
+],
+[
+"straits and canals",
+1
+],
+[
+"famous canals",
+1
+]
+],
+"clash": []
+},
+"Aswan Dam": {
+"also": [
+[
+"landmarks",
+2
+]
+],
+"clash": []
+},
+"Lake Nasser": {
+"also": [
+[
+"landmarks",
+3
+],
+[
+"famous lakes",
+2
+]
+],
+"clash": []
+},
+"Bent Pyramid": {
+"also": [
+[
+"landmarks",
+4
+],
+[
+"ancient egypt",
+3
+]
+],
+"clash": []
+},
+"Red Pyramid": {
+"also": [
+[
+"landmarks",
+4
+],
+[
+"ancient egypt",
+3
+]
+],
+"clash": []
+},
+"Cairo Tower": {
+"also": [
+[
+"landmarks",
+3
+],
+[
+"famous towers",
+3
+]
+],
+"clash": []
+},
+"Qaitbay": {
+"also": [
+[
+"landmarks",
+4
+],
+[
+"famous castles",
+4
+]
+],
+"clash": []
+},
+"Saladin Citadel": {
+"also": [
+[
+"landmarks",
+4
+],
+[
+"famous castles",
+4
+]
+],
+"clash": [
+"crusades"
+]
+},
+"Fayoum": {
+"also": [
+[
+"african cities",
+4
+]
+],
+"clash": [
+"landmarks",
+"oasis"
+]
+},
+"Hanging Church": {
+"also": [
+[
+"landmarks",
+4
+],
+[
+"famous churches",
+3
+]
+],
+"clash": []
+},
+"Black Desert": {
+"also": [
+[
+"landmarks",
+5
+],
+[
+"famous deserts",
+4
+]
+],
+"clash": []
+},
+"Aït Benhaddou": {
+"also": [
+[
+"landmarks",
+4
+]
+],
+"clash": []
+},
+"Sossusvlei": {
+"also": [
+[
+"landmarks",
+4
+]
+],
+"clash": [
+"famous deserts"
+]
+},
+"Cape Point": {
+"also": [
+[
+"landmarks",
+3
+]
+],
+"clash": []
+},
+"Tsingy": {
+"also": [
+[
+"landmarks",
+4
+],
+[
+"national parks",
+4
+]
+],
+"clash": []
+},
+"Gorée Island": {
+"also": [
+[
+"landmarks",
+4
+],
+[
+"famous islands",
+4
+]
+],
+"clash": []
+},
+"Elmina": {
+"also": [
+[
+"landmarks",
+4
+],
+[
+"famous castles",
+4
+]
+],
+"clash": []
+},
+"Rwenzori": {
+"also": [
+[
+"mountain ranges",
+3
+]
+],
+"clash": [
+"landmarks"
+]
+},
+"Stone Town": {
+"also": [],
+"clash": [
+"african cities",
+"landmarks"
+]
+},
+"Lake Retba": {
+"also": [
+[
+"landmarks",
+5
+],
+[
+"famous lakes",
+4
+]
+],
+"clash": []
+},
+"Garden Route": {
+"also": [
+[
+"famous routes",
+3
+]
+],
+"clash": [
+"landmarks"
+]
+},
+"Lake Natron": {
+"also": [
+[
+"landmarks",
+4
+],
+[
+"famous lakes",
+3
+]
+],
+"clash": []
+},
+"Avenue of Baobabs": {
+"also": [
+[
+"landmarks",
+3
+]
+],
+"clash": [
+"famous streets"
+]
+},
+"Mount Mulanje": {
+"also": [
+[
+"landmarks",
+5
+],
+[
+"famous mountains",
+4
+]
+],
+"clash": []
+},
+"Lake Turkana": {
+"also": [
+[
+"landmarks",
+4
+],
+[
+"famous lakes",
+3
+]
+],
+"clash": []
+},
+"Lake Tanganyika": {
+"also": [
+[
+"landmarks",
+3
+],
+[
+"famous lakes",
+2
+]
+],
+"clash": []
+},
+"Lake Assal": {
+"also": [
+[
+"landmarks",
+5
+],
+[
+"famous lakes",
+4
+]
+],
+"clash": []
+},
+"Red Fort": {
+"also": [
+[
+"landmarks",
+2
+]
+],
+"clash": [
+"famous castles",
+"famous palaces",
+"red things"
+]
+},
+"Amber Fort": {
+"also": [
+[
+"landmarks",
+3
+]
+],
+"clash": [
+"famous castles",
+"famous palaces"
+]
+},
+"Charminar": {
+"also": [
+[
+"landmarks",
+3
+]
+],
+"clash": [
+"famous mosques",
+"famous towers"
+]
+},
+"Victoria Memorial": {
+"also": [
+[
+"landmarks",
+3
+]
+],
+"clash": [
+"famous museums"
+]
+},
+"Fatehpur Sikri": {
+"also": [
+[
+"landmarks",
+3
+]
+],
+"clash": [
+"ancient cities"
+]
+},
+"Jantar Mantar": {
+"also": [
+[
+"landmarks",
+3
+]
+],
+"clash": [
+"observatory"
+]
+},
+"Mehrangarh": {
+"also": [
+[
+"landmarks",
+4
+],
+[
+"famous castles",
+4
+]
+],
+"clash": []
+},
+"Jaisalmer Fort": {
+"also": [
+[
+"landmarks",
+4
+],
+[
+"famous castles",
+4
+]
+],
+"clash": []
+},
+"Lake Palace": {
+"also": [
+[
+"landmarks",
+3
+],
+[
+"famous palaces",
+3
+],
+[
+"famous hotels",
+4
+]
+],
+"clash": []
+},
+"Dal Lake": {
+"also": [
+[
+"landmarks",
+3
+]
+],
+"clash": []
+},
+"Gol Gumbaz": {
+"also": [
+[
+"landmarks",
+4
+]
+],
+"clash": [
+"tombs and burials"
+]
+},
+"Rashtrapati Bhavan": {
+"also": [
+[
+"landmarks",
+3
+]
+],
+"clash": [
+"famous palaces"
+]
+},
+"Shore Temple": {
+"also": [
+[
+"landmarks",
+4
+],
+[
+"famous temples",
+3
+]
+],
+"clash": []
+},
+"Chittorgarh": {
+"also": [
+[
+"landmarks",
+4
+],
+[
+"famous castles",
+4
+]
+],
+"clash": []
+},
+"Kumbhalgarh": {
+"also": [
+[
+"landmarks",
+4
+],
+[
+"famous castles",
+4
+]
+],
+"clash": []
+},
+"Gwalior Fort": {
+"also": [
+[
+"landmarks",
+4
+],
+[
+"famous castles",
+4
+]
+],
+"clash": []
+},
+"Agra Fort": {
+"also": [
+[
+"landmarks",
+3
+],
+[
+"famous castles",
+3
+]
+],
+"clash": []
+},
+"Sun Temple": {
+"also": [
+[
+"landmarks",
+3
+],
+[
+"famous temples",
+3
+]
+],
+"clash": []
+},
+"Ranakpur": {
+"also": [
+[
+"landmarks",
+4
+],
+[
+"famous temples",
+4
+]
+],
+"clash": []
+},
+"Dilwara": {
+"also": [
+[
+"landmarks",
+4
+],
+[
+"famous temples",
+4
+]
+],
+"clash": []
+},
+"Humayun's Tomb": {
+"also": [
+[
+"landmarks",
+3
+],
+[
+"tombs and burials",
+3
+]
+],
+"clash": []
+},
+"Vivekananda Rock": {
+"also": [
+[
+"landmarks",
+4
+]
+],
+"clash": []
+},
+"Bandra-Worli": {
+"also": [
+[
+"landmarks",
+4
+],
+[
+"famous bridges",
+4
+]
+],
+"clash": []
+},
+"Hussain Sagar": {
+"also": [
+[
+"landmarks",
+4
+],
+[
+"famous lakes",
+5
+]
+],
+"clash": []
+},
+"Laxman Jhula": {
+"also": [
+[
+"landmarks",
+4
+],
+[
+"famous bridges",
+4
+]
+],
+"clash": []
+},
+"Pangong Lake": {
+"also": [
+[
+"landmarks",
+4
+],
+[
+"famous lakes",
+4
+]
+],
+"clash": []
+},
+"Chand Baori": {
+"also": [
+[
+"landmarks",
+4
+]
+],
+"clash": []
+},
+"Three Gorges": {
+"also": [
+[
+"landmarks",
+2
+]
+],
+"clash": [
+"asian rivers"
+]
+},
+"Bund": {
+"also": [
+[
+"landmarks",
+3
+]
+],
+"clash": []
+},
+"Li River": {
+"also": [
+[
+"landmarks",
+3
+],
+[
+"asian rivers",
+3
+]
+],
+"clash": []
+},
+"West Lake": {
+"also": [
+[
+"landmarks",
+3
+]
+],
+"clash": []
+},
+"Victoria Peak": {
+"also": [
+[
+"landmarks",
+3
+],
+[
+"famous mountains",
+3
+]
+],
+"clash": []
+},
+"Ming Tombs": {
+"also": [
+[
+"landmarks",
+3
+],
+[
+"tombs and burials",
+3
+]
+],
+"clash": [
+"chinese dynasties"
+]
+},
+"Longmen": {
+"also": [
+[
+"landmarks",
+4
+],
+[
+"ancient sites of asia",
+4
+]
+],
+"clash": []
+},
+"Jade Dragon": {
+"also": [
+[
+"landmarks",
+4
+],
+[
+"famous mountains",
+4
+]
+],
+"clash": [
+"chinese mythology",
+"dragons"
+]
+},
+"Yangshuo": {
+"also": [],
+"clash": [
+"landmarks"
+]
+},
+"Stone Forest": {
+"also": [
+[
+"landmarks",
+4
+]
+],
+"clash": [
+"famous forests"
+]
+},
+"Huangguoshu": {
+"also": [
+[
+"landmarks",
+4
+]
+],
+"clash": []
+},
+"Mutianyu": {
+"also": [
+[
+"landmarks",
+4
+]
+],
+"clash": []
+},
+"Badaling": {
+"also": [
+[
+"landmarks",
+4
+]
+],
+"clash": []
+},
+"Jinshanling": {
+"also": [
+[
+"landmarks",
+5
+]
+],
+"clash": []
+},
+"Beihai": {
+"also": [
+[
+"landmarks",
+4
+],
+[
+"chinese cities",
+5
+]
+],
+"clash": []
+},
+"Marco Polo Bridge": {
+"also": [
+[
+"landmarks",
+4
+],
+[
+"famous bridges",
+3
+]
+],
+"clash": [
+"great travelers"
+]
+},
+"Wuyi": {
+"also": [
+[
+"landmarks",
+4
+]
+],
+"clash": [
+"teas"
+]
+},
+"Zhouzhuang": {
+"also": [],
+"clash": [
+"landmarks"
+]
+},
+"Kunming Lake": {
+"also": [
+[
+"landmarks",
+5
+],
+[
+"famous lakes",
+4
+]
+],
+"clash": []
+},
+"Jinmao": {
+"also": [
+[
+"landmarks",
+4
+],
+[
+"famous towers",
+3
+]
+],
+"clash": []
+},
+"Repulse Bay": {
+"also": [
+[
+"landmarks",
+4
+],
+[
+"gulfs and bays",
+4
+]
+],
+"clash": []
+},
+"Skytree": {
+"also": [
+[
+"landmarks",
+3
+],
+[
+"famous towers",
+2
+]
+],
+"clash": []
+},
+"Miyajima": {
+"also": [
+[
+"landmarks",
+3
+],
+[
+"famous islands",
+3
+]
+],
+"clash": [
+"famous temples"
+]
+},
+"Peace Memorial": {
+"also": [
+[
+"landmarks",
+3
+]
+],
+"clash": [
+"world war ii terms"
+]
+},
+"Toshogu": {
+"also": [
+[
+"landmarks",
+4
+],
+[
+"famous temples",
+4
+]
+],
+"clash": []
+},
+"Izumo Taisha": {
+"also": [
+[
+"landmarks",
+4
+],
+[
+"famous temples",
+4
+]
+],
+"clash": []
+},
+"Shirakawa-go": {
+"also": [
+[
+"landmarks",
+4
+]
+],
+"clash": []
+},
+"Dotonbori": {
+"also": [],
+"clash": [
+"landmarks"
+]
+},
+"Tsukiji": {
+"also": [
+[
+"landmarks",
+3
+]
+],
+"clash": []
+},
+"Kegon Falls": {
+"also": [
+[
+"landmarks",
+4
+]
+],
+"clash": []
+},
+"Mount Aso": {
+"also": [
+[
+"landmarks",
+4
+],
+[
+"famous volcanoes",
+3
+],
+[
+"famous mountains",
+3
+]
+],
+"clash": []
+},
+"Shuri Castle": {
+"also": [
+[
+"landmarks",
+4
+],
+[
+"famous castles",
+4
+]
+],
+"clash": []
+},
+"Gion": {
+"also": [],
+"clash": [
+"famous streets",
+"landmarks"
+]
+},
+"Jigokudani": {
+"also": [
+[
+"landmarks",
+4
+]
+],
+"clash": [
+"japanese animals"
+]
+},
+"Hakone": {
+"also": [],
+"clash": [
+"landmarks"
+]
+},
+"Koyasan": {
+"also": [
+[
+"landmarks",
+4
+],
+[
+"pilgrimage sites",
+4
+]
+],
+"clash": []
+},
+"Tottori Dunes": {
+"also": [
+[
+"landmarks",
+4
+]
+],
+"clash": [
+"famous deserts"
+]
+},
+"Nara Park": {
+"also": [
+[
+"landmarks",
+3
+]
+],
+"clash": []
+},
+"Kabukiza": {
+"also": [
+[
+"landmarks",
+4
+]
+],
+"clash": [
+"asian theater forms"
+]
+},
+"Lake Ashi": {
+"also": [
+[
+"landmarks",
+4
+],
+[
+"famous lakes",
+4
+]
+],
+"clash": []
+},
+"Mount Takao": {
+"also": [
+[
+"landmarks",
+4
+],
+[
+"famous mountains",
+4
+]
+],
+"clash": []
+},
+"Bondi Beach": {
+"also": [
+[
+"landmarks",
+1
+],
+[
+"famous beaches",
+1
+],
+[
+"beach destinations",
+2
+]
+],
+"clash": []
+},
+"Fraser Island": {
+"also": [
+[
+"landmarks",
+3
+],
+[
+"famous islands",
+2
+]
+],
+"clash": []
+},
+"Bungle Bungles": {
+"also": [
+[
+"landmarks",
+4
+]
+],
+"clash": [
+"mountain ranges"
+]
+},
+"Ningaloo": {
+"also": [
+[
+"landmarks",
+4
+]
+],
+"clash": [
+"famous natural features"
+]
+},
+"Three Sisters": {
+"also": [
+[
+"landmarks",
+3
+]
+],
+"clash": [
+"famous mountains"
+]
+},
+"Sydney Tower": {
+"also": [
+[
+"landmarks",
+3
+],
+[
+"famous towers",
+2
+]
+],
+"clash": []
+},
+"Lake Hillier": {
+"also": [
+[
+"landmarks",
+4
+],
+[
+"famous lakes",
+3
+]
+],
+"clash": []
+},
+"Wilpena Pound": {
+"also": [
+[
+"landmarks",
+4
+]
+],
+"clash": []
+},
+"Rottnest": {
+"also": [
+[
+"landmarks",
+4
+],
+[
+"famous islands",
+3
+]
+],
+"clash": []
+},
+"Big Banana": {
+"also": [
+[
+"landmarks",
+4
+]
+],
+"clash": []
+},
+"Devils Marbles": {
+"also": [
+[
+"landmarks",
+4
+],
+[
+"famous natural features",
+3
+]
+],
+"clash": []
+},
+"Parliament House": {
+"also": [
+[
+"landmarks",
+3
+]
+],
+"clash": [
+"parts of parliament"
+]
+},
+"Hosier Lane": {
+"also": [
+[
+"landmarks",
+4
+]
+],
+"clash": [
+"famous streets"
+]
+},
+"Fitzroy Gardens": {
+"also": [
+[
+"landmarks",
+5
+],
+[
+"famous gardens",
+4
+]
+],
+"clash": []
+},
+"Mount Kosciuszko": {
+"also": [
+[
+"landmarks",
+3
+],
+[
+"famous mountains",
+2
+]
+],
+"clash": []
+},
+"Horizontal Falls": {
+"also": [
+[
+"landmarks",
+4
+],
+[
+"famous waterfalls",
+4
+]
+],
+"clash": []
+},
+"Waitomo": {
+"also": [
+[
+"landmarks",
+3
+]
+],
+"clash": []
+},
+"Bay of Islands": {
+"also": [
+[
+"landmarks",
+2
+]
+],
+"clash": []
+},
+"Franz Josef": {
+"also": [
+[
+"landmarks",
+3
+]
+],
+"clash": [
+"emperors"
+]
+},
+"Lake Tekapo": {
+"also": [
+[
+"landmarks",
+3
+],
+[
+"famous lakes",
+3
+]
+],
+"clash": []
+},
+"Cape Reinga": {
+"also": [
+[
+"landmarks",
+3
+]
+],
+"clash": []
+},
+"Punakaiki": {
+"also": [
+[
+"landmarks",
+4
+]
+],
+"clash": []
+},
+"Pancake Rocks": {
+"also": [
+[
+"landmarks",
+3
+]
+],
+"clash": [
+"breakfast foods"
+]
+},
+"Moeraki Boulders": {
+"also": [
+[
+"landmarks",
+3
+]
+],
+"clash": []
+},
+"Mount Taranaki": {
+"also": [
+[
+"landmarks",
+3
+],
+[
+"famous volcanoes",
+3
+],
+[
+"famous mountains",
+3
+]
+],
+"clash": []
+},
+"Lake Taupo": {
+"also": [
+[
+"landmarks",
+3
+],
+[
+"famous lakes",
+2
+]
+],
+"clash": []
+},
+"Huka Falls": {
+"also": [
+[
+"landmarks",
+4
+],
+[
+"famous waterfalls",
+3
+]
+],
+"clash": []
+},
+"Lake Wanaka": {
+"also": [
+[
+"landmarks",
+3
+],
+[
+"famous lakes",
+3
+]
+],
+"clash": []
+},
+"Mount Eden": {
+"also": [
+[
+"landmarks",
+4
+],
+[
+"famous volcanoes",
+4
+]
+],
+"clash": []
+},
+"Rangitoto": {
+"also": [
+[
+"landmarks",
+4
+],
+[
+"famous volcanoes",
+4
+],
+[
+"famous islands",
+4
+]
+],
+"clash": []
+},
+"Waiheke": {
+"also": [
+[
+"famous islands",
+4
+]
+],
+"clash": [
+"landmarks"
+]
+},
+"Tasman Glacier": {
+"also": [
+[
+"landmarks",
+4
+]
+],
+"clash": []
+},
+"Routeburn": {
+"also": [
+[
+"famous hiking trails",
+3
+]
+],
+"clash": [
+"landmarks"
+]
+},
+"Larnach Castle": {
+"also": [
+[
+"landmarks",
+4
+],
+[
+"famous castles",
+4
+]
+],
+"clash": []
+},
+"Baldwin Street": {
+"also": [
+[
+"landmarks",
+4
+],
+[
+"famous streets",
+3
+]
+],
+"clash": []
+},
+"Tane Mahuta": {
+"also": [
+[
+"landmarks",
+4
+]
+],
+"clash": [
+"maori mythology"
+]
+},
+"Lake Matheson": {
+"also": [
+[
+"landmarks",
+4
+],
+[
+"famous lakes",
+4
+]
+],
+"clash": []
+},
+"Mount Maunganui": {
+"also": [
+[
+"landmarks",
+4
+],
+[
+"famous mountains",
+4
+]
+],
+"clash": []
+},
+"Te Puia": {
+"also": [
+[
+"landmarks",
+4
+]
+],
+"clash": [
+"geothermal words"
+]
+},
+"Lake Rotorua": {
+"also": [
+[
+"landmarks",
+4
+],
+[
+"famous lakes",
+4
+]
+],
+"clash": []
+},
+"Karekare": {
+"also": [],
+"clash": [
+"landmarks"
+]
+},
+"Wanaka Tree": {
+"also": [
+[
+"landmarks",
+4
+]
+],
+"clash": []
+},
+"Mount John": {
+"also": [
+[
+"landmarks",
+5
+]
+],
+"clash": []
+},
+"Wharariki": {
+"also": [
+[
+"landmarks",
+5
+],
+[
+"famous beaches",
+4
+]
+],
+"clash": []
+},
+"Nugget Point": {
+"also": [
+[
+"landmarks",
+4
+]
+],
+"clash": []
+},
+"Hobbiton": {
+"also": [],
+"clash": [
+"fantasy",
+"landmarks",
+"legendary places"
+]
+},
+"Rainbow Mountain": {
+"also": [
+[
+"landmarks",
+3
+],
+[
+"famous mountains",
+3
+]
+],
+"clash": []
+},
+"Huayna Picchu": {
+"also": [
+[
+"landmarks",
+4
+],
+[
+"andean sites",
+3
+],
+[
+"famous mountains",
+4
+]
+],
+"clash": []
+},
+"Ciudad Perdida": {
+"also": [
+[
+"landmarks",
+4
+]
+],
+"clash": [
+"ancient sites"
+]
+},
+"Salt Cathedral": {
+"also": [
+[
+"landmarks",
+4
+],
+[
+"famous churches",
+3
+]
+],
+"clash": []
+},
+"Cocora Valley": {
+"also": [
+[
+"landmarks",
+4
+]
+],
+"clash": []
+},
+"Caño Cristales": {
+"also": [
+[
+"landmarks",
+4
+],
+[
+"south american rivers",
+4
+]
+],
+"clash": []
+},
+"La Boca": {
+"also": [],
+"clash": [
+"landmarks",
+"south american soccer clubs"
+]
+},
+"Caminito": {
+"also": [
+[
+"landmarks",
+4
+]
+],
+"clash": []
+},
+"Recoleta": {
+"also": [],
+"clash": [
+"landmarks",
+"tombs and burials"
+]
+},
+"Obelisco": {
+"also": [
+[
+"landmarks",
+4
+]
+],
+"clash": [
+"famous towers"
+]
+},
+"Casa Rosada": {
+"also": [
+[
+"landmarks",
+3
+],
+[
+"famous palaces",
+3
+]
+],
+"clash": []
+},
+"Selarón Steps": {
+"also": [
+[
+"landmarks",
+4
+]
+],
+"clash": []
+},
+"Pelourinho": {
+"also": [
+[
+"landmarks",
+4
+]
+],
+"clash": []
+},
+"Quilotoa": {
+"also": [
+[
+"landmarks",
+4
+],
+[
+"famous lakes",
+4
+],
+[
+"famous volcanoes",
+4
+]
+],
+"clash": []
+},
+"Cerro Rico": {
+"also": [
+[
+"landmarks",
+4
+],
+[
+"famous mountains",
+4
+]
+],
+"clash": [
+"mining words"
+]
+},
+"Ballestas": {
+"also": [
+[
+"landmarks",
+4
+],
+[
+"famous islands",
+4
+]
+],
+"clash": []
+},
+"Huacachina": {
+"also": [
+[
+"landmarks",
+4
+],
+[
+"oasis",
+3
+]
+],
+"clash": []
+},
+"Kaieteur Falls": {
+"also": [
+[
+"landmarks",
+4
+]
+],
+"clash": []
+},
+"Chiloé": {
+"also": [
+[
+"landmarks",
+4
+],
+[
+"famous islands",
+3
+]
+],
+"clash": []
+},
+"Amazon Rainforest": {
+"also": [
+[
+"famous forests",
+1
+],
+[
+"rainforest",
+1
+]
+],
+"clash": [
+"landmarks"
+]
+},
+"Brasília Cathedral": {
+"also": [
+[
+"landmarks",
+4
+],
+[
+"famous churches",
+3
+]
+],
+"clash": []
+},
+"Marble Caves": {
+"also": [
+[
+"landmarks",
+4
+]
+],
+"clash": []
+},
+"Teatro Colón": {
+"also": [
+[
+"landmarks",
+4
+]
+],
+"clash": []
+},
+"Casa Azul": {
+"also": [
+[
+"landmarks",
+3
+],
+[
+"famous museums",
+3
+]
+],
+"clash": [
+"latin american artists"
+]
+},
+"Bellas Artes": {
+"also": [
+[
+"landmarks",
+3
+]
+],
+"clash": [
+"famous museums"
+]
+},
+"Angel of Independence": {
+"also": [
+[
+"landmarks",
+3
+],
+[
+"famous statues",
+3
+]
+],
+"clash": []
+},
+"Xochimilco": {
+"also": [
+[
+"landmarks",
+3
+]
+],
+"clash": []
+},
+"El Arco": {
+"also": [
+[
+"landmarks",
+4
+]
+],
+"clash": []
+},
+"Sumidero Canyon": {
+"also": [
+[
+"landmarks",
+4
+]
+],
+"clash": []
+},
+"Ek Balam": {
+"also": [
+[
+"landmarks",
+4
+]
+],
+"clash": []
+},
+"Soumaya": {
+"also": [
+[
+"landmarks",
+4
+],
+[
+"famous museums",
+4
+]
+],
+"clash": []
+},
+"Agua Azul": {
+"also": [
+[
+"landmarks",
+4
+]
+],
+"clash": []
+},
+"Basaseachic": {
+"also": [
+[
+"landmarks",
+5
+],
+[
+"famous waterfalls",
+4
+]
+],
+"clash": []
+},
+"Las Pozas": {
+"also": [
+[
+"landmarks",
+4
+]
+],
+"clash": [
+"famous gardens"
+]
+},
+"French Quarter": {
+"also": [],
+"clash": [
+"landmarks"
+]
+},
+"Arlington Cemetery": {
+"also": [
+[
+"landmarks",
+3
+]
+],
+"clash": [
+"tombs and burials"
+]
+},
+"Navy Pier": {
+"also": [
+[
+"landmarks",
+3
+]
+],
+"clash": []
+},
+"Pike Place": {
+"also": [
+[
+"landmarks",
+3
+]
+],
+"clash": [
+"street market"
+]
+},
+"Hollywood Bowl": {
+"also": [
+[
+"landmarks",
+3
+]
+],
+"clash": [
+"famous stadiums"
+]
+},
+"Griffith Observatory": {
+"also": [
+[
+"landmarks",
+3
+]
+],
+"clash": []
+},
+"Chimney Rock": {
+"also": [
+[
+"landmarks",
+4
+]
+],
+"clash": []
+},
+"Walk of Fame": {
+"also": [
+[
+"landmarks",
+2
+]
+],
+"clash": [
+"famous streets"
+]
+},
+"Kennedy Space Center": {
+"also": [
+[
+"landmarks",
+3
+]
+],
+"clash": [
+"launch pad"
+]
+},
+"Fisherman's Wharf": {
+"also": [
+[
+"landmarks",
+3
+]
+],
+"clash": []
+},
+"Smoky Mountains": {
+"also": [
+[
+"mountain ranges",
+2
+],
+[
+"us national parks",
+2
+]
+],
+"clash": [
+"landmarks"
+]
+},
+"Lake Tahoe": {
+"also": [
+[
+"landmarks",
+2
+],
+[
+"famous lakes",
+2
+]
+],
+"clash": []
+},
+"Glacier Point": {
+"also": [
+[
+"landmarks",
+4
+]
+],
+"clash": []
+},
+"Pier 39": {
+"also": [
+[
+"landmarks",
+3
+]
+],
+"clash": []
+},
+"Area 51": {
+"also": [
+[
+"landmarks",
+2
+]
+],
+"clash": [
+"cryptids"
+]
+},
+"Moraine Lake": {
+"also": [
+[
+"landmarks",
+3
+]
+],
+"clash": [
+"ice features"
+]
+},
+"Parliament Hill": {
+"also": [
+[
+"landmarks",
+2
+]
+],
+"clash": []
+},
+"Old Quebec": {
+"also": [],
+"clash": [
+"landmarks"
+]
+},
+"Bay of Fundy": {
+"also": [
+[
+"landmarks",
+2
+]
+],
+"clash": []
+},
+"Peggy's Cove": {
+"also": [
+[
+"landmarks",
+3
+]
+],
+"clash": []
+},
+"Stanley Park": {
+"also": [
+[
+"landmarks",
+2
+]
+],
+"clash": []
+},
+"Butchart Gardens": {
+"also": [
+[
+"landmarks",
+3
+],
+[
+"famous gardens",
+2
+]
+],
+"clash": []
+},
+"Hopewell Rocks": {
+"also": [
+[
+"landmarks",
+4
+]
+],
+"clash": []
+},
+"Rideau Canal": {
+"also": [
+[
+"landmarks",
+3
+],
+[
+"straits and canals",
+2
+],
+[
+"famous canals",
+2
+]
+],
+"clash": []
+},
+"Thousand Islands": {
+"also": [
+[
+"landmarks",
+3
+]
+],
+"clash": [
+"salad dressings"
+]
+},
+"Signal Hill": {
+"also": [
+[
+"landmarks",
+4
+]
+],
+"clash": []
+},
+"Percé Rock": {
+"also": [
+[
+"landmarks",
+4
+]
+],
+"clash": []
+},
+"Montmorency Falls": {
+"also": [
+[
+"landmarks",
+4
+]
+],
+"clash": []
+},
+"Mount Royal": {
+"also": [
+[
+"landmarks",
+3
+],
+[
+"famous mountains",
+4
+]
+],
+"clash": []
+},
+"Casa Loma": {
+"also": [
+[
+"landmarks",
+3
+],
+[
+"famous castles",
+3
+]
+],
+"clash": []
+},
+"Granville Island": {
+"also": [
+[
+"landmarks",
+3
+]
+],
+"clash": []
+},
+"Gastown": {
+"also": [],
+"clash": [
+"landmarks"
+]
+},
+"Athabasca Glacier": {
+"also": [
+[
+"landmarks",
+4
+]
+],
+"clash": []
+},
+"Icefields Parkway": {
+"also": [
+[
+"famous routes",
+3
+]
+],
+"clash": [
+"landmarks"
+]
+},
+"Peyto Lake": {
+"also": [
+[
+"landmarks",
+4
+],
+[
+"famous lakes",
+3
+]
+],
+"clash": []
+},
+"Emerald Lake": {
+"also": [
+[
+"landmarks",
+4
+],
+[
+"famous lakes",
+3
+]
+],
+"clash": []
+},
+"Calgary Tower": {
+"also": [
+[
+"landmarks",
+4
+],
+[
+"famous towers",
+3
+]
+],
+"clash": []
+},
+"Drumheller": {
+"also": [
+[
+"landmarks",
+4
+]
+],
+"clash": []
+},
+"Haida Gwaii": {
+"also": [
+[
+"landmarks",
+4
+],
+[
+"famous islands",
+4
+]
+],
+"clash": []
+},
+"Notre-Dame Basilica": {
+"also": [
+[
+"landmarks",
+3
+],
+[
+"famous churches",
+2
+]
+],
+"clash": [
+"paris landmarks"
+]
+},
+"Halifax Citadel": {
+"also": [
+[
+"landmarks",
+4
+]
+],
+"clash": [
+"famous castles"
+]
+},
+"Olympic Stadium": {
+"also": [
+[
+"landmarks",
+4
+],
+[
+"famous stadiums",
+3
+]
+],
+"clash": []
+},
+"West Edmonton Mall": {
+"also": [
+[
+"landmarks",
+3
+]
+],
+"clash": []
+},
+"Dinosaur Park": {
+"also": [
+[
+"landmarks",
+4
+]
+],
+"clash": [
+"national parks"
+]
+},
+"Spirit Island": {
+"also": [
+[
+"landmarks",
+5
+]
+],
+"clash": []
+},
+"Lake Agnes": {
+"also": [
+[
+"landmarks",
+5
+],
+[
+"famous lakes",
+4
+]
+],
+"clash": []
+},
+"Rocky Mountains": {
+"also": [
+[
+"mountain ranges",
+1
+]
+],
+"clash": [
+"landmarks"
+]
+},
+"Maiden's Tower": {
+"also": [
+[
+"landmarks",
+4
+],
+[
+"turkish landmarks",
+4
+],
+[
+"famous towers",
+3
+]
+],
+"clash": []
+},
+"Rumeli Hisarı": {
+"also": [
+[
+"landmarks",
+4
+],
+[
+"turkish landmarks",
+4
+],
+[
+"famous castles",
+3
+]
+],
+"clash": []
+},
+"Büyükada": {
+"also": [
+[
+"famous islands",
+4
+]
+],
+"clash": [
+"landmarks",
+"turkish landmarks"
+]
+},
+"Eminönü": {
+"also": [],
+"clash": [
+"landmarks",
+"turkish landmarks"
+]
+},
+"Sultanahmet": {
+"also": [],
+"clash": [
+"famous mosques",
+"landmarks",
+"ottoman sultans",
+"turkish landmarks"
+]
+},
+"Beylerbeyi": {
+"also": [
+[
+"landmarks",
+4
+],
+[
+"turkish landmarks",
+4
+],
+[
+"famous palaces",
+3
+]
+],
+"clash": [
+"ottoman titles"
+]
+},
+"Pierre Loti": {
+"also": [
+[
+"landmarks",
+4
+],
+[
+"turkish landmarks",
+4
+]
+],
+"clash": [
+"authors"
+]
+},
+"Çamlıca": {
+"also": [
+[
+"landmarks",
+4
+],
+[
+"turkish landmarks",
+4
+]
+],
+"clash": [
+"famous mosques"
+]
+},
+"Kadıköy": {
+"also": [],
+"clash": [
+"landmarks",
+"turkish landmarks"
+]
+},
+"Balat": {
+"also": [],
+"clash": [
+"landmarks",
+"turkish landmarks"
+]
+},
+"Fener": {
+"also": [],
+"clash": [
+"landmarks",
+"turkish football clubs",
+"turkish landmarks"
+]
+},
+"Çırağan": {
+"also": [
+[
+"landmarks",
+4
+],
+[
+"turkish landmarks",
+4
+],
+[
+"famous palaces",
+3
+]
+],
+"clash": [
+"famous hotels"
+]
+},
+"Yıldız": {
+"also": [
+[
+"landmarks",
+4
+],
+[
+"turkish landmarks",
+4
+],
+[
+"famous palaces",
+4
+]
+],
+"clash": [
+"turkish names"
+]
+},
+"Pera Museum": {
+"also": [
+[
+"landmarks",
+4
+],
+[
+"turkish landmarks",
+4
+],
+[
+"famous museums",
+4
+]
+],
+"clash": []
+},
+"Istanbul Modern": {
+"also": [
+[
+"landmarks",
+4
+],
+[
+"turkish landmarks",
+4
+],
+[
+"famous museums",
+4
+]
+],
+"clash": []
+},
+"Valens Aqueduct": {
+"also": [
+[
+"landmarks",
+4
+],
+[
+"turkish landmarks",
+4
+]
+],
+"clash": [
+"ancient rome"
+]
+},
+"Yeni Cami": {
+"also": [
+[
+"landmarks",
+4
+],
+[
+"turkish landmarks",
+4
+],
+[
+"famous mosques",
+3
+]
+],
+"clash": []
+},
+"Eyüp": {
+"also": [],
+"clash": [
+"landmarks",
+"turkish landmarks"
+]
+},
+"Bebek": {
+"also": [],
+"clash": [
+"landmarks",
+"turkish everyday words",
+"turkish landmarks"
+]
+},
+"Serpent Column": {
+"also": [
+[
+"landmarks",
+4
+],
+[
+"turkish landmarks",
+4
+]
+],
+"clash": []
+},
+"Princes' Islands": {
+"also": [
+[
+"famous islands",
+3
+]
+],
+"clash": [
+"landmarks",
+"turkish landmarks"
+]
+},
+"Anadolu Hisarı": {
+"also": [
+[
+"landmarks",
+5
+],
+[
+"turkish landmarks",
+5
+],
+[
+"famous castles",
+4
+]
+],
+"clash": []
+},
+"Arnavutköy": {
+"also": [],
+"clash": [
+"landmarks",
+"turkish landmarks"
+]
+},
+"Kuleli": {
+"also": [
+[
+"landmarks",
+5
+],
+[
+"turkish landmarks",
+5
+]
+],
+"clash": []
+},
+"Archaeology Museum": {
+"also": [
+[
+"landmarks",
+3
+],
+[
+"turkish landmarks",
+3
+],
+[
+"famous museums",
+4
+]
+],
+"clash": []
+},
+"Cihangir": {
+"also": [],
+"clash": [
+"landmarks",
+"turkish landmarks"
+]
+},
+"Nişantaşı": {
+"also": [],
+"clash": [
+"landmarks",
+"turkish landmarks"
+]
+},
+"London Eye": {
+"also": [
+[
+"landmarks",
+1
+]
+],
+"clash": [
+"fairground rides"
+]
+},
+"Hyde Park": {
+"also": [
+[
+"landmarks",
+1
+]
+],
+"clash": [
+"famous gardens"
+]
+},
+"Camden Market": {
+"also": [
+[
+"landmarks",
+2
+]
+],
+"clash": [
+"street market"
+]
+},
+"Harrods": {
+"also": [
+[
+"landmarks",
+2
+]
+],
+"clash": []
+},
+"Kew Gardens": {
+"also": [
+[
+"landmarks",
+2
+],
+[
+"famous gardens",
+1
+]
+],
+"clash": []
+},
+"Borough Market": {
+"also": [
+[
+"landmarks",
+2
+]
+],
+"clash": []
+},
+"Somerset House": {
+"also": [
+[
+"landmarks",
+3
+]
+],
+"clash": [
+"english counties"
+]
+},
+"Canary Wharf": {
+"also": [
+[
+"landmarks",
+2
+]
+],
+"clash": []
+},
+"Horse Guards": {
+"also": [
+[
+"landmarks",
+3
+]
+],
+"clash": [
+"military units"
+]
+},
+"Sky Garden": {
+"also": [
+[
+"landmarks",
+3
+]
+],
+"clash": []
+},
+"Battersea": {
+"also": [
+[
+"landmarks",
+3
+]
+],
+"clash": []
+},
+"Primrose Hill": {
+"also": [
+[
+"landmarks",
+3
+]
+],
+"clash": []
+},
+"Notting Hill": {
+"also": [],
+"clash": [
+"landmarks"
+]
+},
+"Brick Lane": {
+"also": [],
+"clash": [
+"landmarks"
+]
+},
+"Old Bailey": {
+"also": [
+[
+"landmarks",
+3
+],
+[
+"courtroom words",
+3
+]
+],
+"clash": []
+},
+"South Bank": {
+"also": [],
+"clash": [
+"landmarks"
+]
+},
+"HMS Belfast": {
+"also": [
+[
+"landmarks",
+3
+],
+[
+"famous ships",
+2
+]
+],
+"clash": [
+"warships"
+]
+},
+"Green Park": {
+"also": [
+[
+"landmarks",
+3
+]
+],
+"clash": []
+},
+"Regent's Park": {
+"also": [
+[
+"landmarks",
+2
+]
+],
+"clash": [
+"famous gardens"
+]
+},
+"Churchill War Rooms": {
+"also": [
+[
+"landmarks",
+3
+]
+],
+"clash": [
+"world war ii terms"
+]
+},
+"Highgate Cemetery": {
+"also": [
+[
+"landmarks",
+3
+]
+],
+"clash": [
+"tombs and burials"
+]
+},
+"Seven Dials": {
+"also": [],
+"clash": [
+"landmarks"
+]
+},
+"Leadenhall Market": {
+"also": [
+[
+"landmarks",
+3
+]
+],
+"clash": []
+},
+"Fortnum & Mason": {
+"also": [
+[
+"landmarks",
+3
+]
+],
+"clash": []
+},
+"Royal Exchange": {
+"also": [
+[
+"landmarks",
+3
+]
+],
+"clash": [
+"stock market words"
+]
+},
+"Tower Hill": {
+"also": [],
+"clash": [
+"landmarks"
+]
+},
+"Admiralty Arch": {
+"also": [
+[
+"landmarks",
+3
+]
+],
+"clash": []
+},
+"St James's Park": {
+"also": [
+[
+"landmarks",
+2
+]
+],
+"clash": []
+},
+"Montmartre": {
+"also": [],
+"clash": [
+"landmarks"
+]
+},
+"Moulin Rouge": {
+"also": [
+[
+"landmarks",
+1
+]
+],
+"clash": [
+"nightclub words"
+]
+},
+"Seine": {
+"also": [
+[
+"landmarks",
+2
+]
+],
+"clash": []
+},
+"Panthéon": {
+"also": [
+[
+"landmarks",
+2
+]
+],
+"clash": [
+"famous temples",
+"rome landmarks"
+]
+},
+"Invalides": {
+"also": [
+[
+"landmarks",
+2
+]
+],
+"clash": [
+"famous museums",
+"tombs and burials"
+]
+},
+"Luxembourg Gardens": {
+"also": [
+[
+"landmarks",
+2
+],
+[
+"famous gardens",
+2
+]
+],
+"clash": [
+"european countries"
+]
+},
+"Père Lachaise": {
+"also": [
+[
+"landmarks",
+3
+]
+],
+"clash": [
+"tombs and burials"
+]
+},
+"Latin Quarter": {
+"also": [],
+"clash": [
+"landmarks"
+]
+},
+"Place des Vosges": {
+"also": [
+[
+"landmarks",
+3
+],
+[
+"famous squares",
+3
+]
+],
+"clash": []
+},
+"La Défense": {
+"also": [],
+"clash": [
+"landmarks"
+]
+},
+"Grande Arche": {
+"also": [
+[
+"landmarks",
+4
+]
+],
+"clash": []
+},
+"Trocadéro": {
+"also": [
+[
+"landmarks",
+3
+]
+],
+"clash": [
+"famous squares"
+]
+},
+"Saint-Germain": {
+"also": [],
+"clash": [
+"european soccer clubs",
+"landmarks"
+]
+},
+"Les Halles": {
+"also": [],
+"clash": [
+"landmarks"
+]
+},
+"Buttes-Chaumont": {
+"also": [
+[
+"landmarks",
+4
+]
+],
+"clash": []
+},
+"Parc Monceau": {
+"also": [
+[
+"landmarks",
+4
+]
+],
+"clash": []
+},
+"Galeries Lafayette": {
+"also": [
+[
+"landmarks",
+3
+]
+],
+"clash": []
+},
+"Hôtel de Ville": {
+"also": [
+[
+"landmarks",
+3
+]
+],
+"clash": [
+"famous hotels"
+]
+},
+"Saint-Sulpice": {
+"also": [
+[
+"landmarks",
+4
+],
+[
+"famous churches",
+3
+]
+],
+"clash": []
+},
+"Pigalle": {
+"also": [],
+"clash": [
+"landmarks"
+]
+},
+"Sorbonne": {
+"also": [
+[
+"landmarks",
+3
+]
+],
+"clash": [
+"university words"
+]
+},
+"Palais Royal": {
+"also": [
+[
+"landmarks",
+3
+],
+[
+"famous palaces",
+3
+]
+],
+"clash": []
+},
+"Grand Palais": {
+"also": [
+[
+"landmarks",
+3
+]
+],
+"clash": [
+"famous museums",
+"famous palaces"
+]
+},
+"Petit Palais": {
+"also": [
+[
+"landmarks",
+4
+],
+[
+"famous museums",
+3
+]
+],
+"clash": [
+"famous palaces"
+]
+},
+"Opéra Bastille": {
+"also": [
+[
+"landmarks",
+4
+]
+],
+"clash": [
+"opera words"
+]
+},
+"Pont des Arts": {
+"also": [
+[
+"landmarks",
+3
+],
+[
+"famous bridges",
+3
+]
+],
+"clash": []
+},
+"Bois de Boulogne": {
+"also": [
+[
+"landmarks",
+3
+]
+],
+"clash": [
+"famous forests"
+]
+},
+"Île de la Cité": {
+"also": [
+[
+"landmarks",
+3
+]
+],
+"clash": [
+"famous islands"
+]
+},
+"Jardin des Plantes": {
+"also": [
+[
+"landmarks",
+3
+],
+[
+"famous gardens",
+3
+]
+],
+"clash": []
+},
+"Saint-Denis": {
+"also": [],
+"clash": [
+"famous saints",
+"landmarks"
+]
+},
+"Nanjing Road": {
+"also": [],
+"clash": [
+"chinese cities"
+]
+},
+"Hunyadi": {
+"also": [],
+"clash": [
+"famous leaders"
+]
+},
+"St Paul's": {
+"also": [],
+"clash": [
+"famous saints"
+]
+},
+"St Vitus": {
+"also": [],
+"clash": [
+"famous saints"
+]
+},
+"St Isaac's": {
+"also": [],
+"clash": [
+"famous saints"
 ]
 }
 }

@@ -1670,6 +1670,10 @@
 [
 "island nations",
 3
+],
+[
+"pacific islands",
+3
 ]
 ],
 "clash": [
@@ -2611,5 +2615,13346 @@
 ]
 ],
 "clash": []
+},
+"USA": {
+"also": [
+[
+"north american countries",
+1
+],
+[
+"acronyms",
+2
+]
+],
+"clash": []
+},
+"China": {
+"also": [
+[
+"asian countries",
+1
+]
+],
+"clash": [
+"table setting",
+"cockney rhyming slang"
+]
+},
+"Brazil": {
+"also": [
+[
+"south american countries",
+1
+]
+],
+"clash": [
+"nuts"
+]
+},
+"Turkey": {
+"also": [
+[
+"asian countries",
+2
+],
+[
+"middle eastern countries",
+2
+]
+],
+"clash": [
+"european countries",
+"poultry",
+"farm animals",
+"thanksgiving",
+"christmas",
+"game birds",
+"bowling terms"
+]
+},
+"Vietnam": {
+"also": [
+[
+"asian countries",
+1
+]
+],
+"clash": []
+},
+"Chile": {
+"also": [
+[
+"south american countries",
+1
+],
+[
+"spanish-speaking countries",
+1
+]
+],
+"clash": [
+"chili peppers",
+"spicy foods"
+]
+},
+"New Zealand": {
+"also": [
+[
+"oceanian countries",
+1
+],
+[
+"island nations",
+1
+]
+],
+"clash": []
+},
+"Israel": {
+"also": [
+[
+"asian countries",
+2
+],
+[
+"middle eastern countries",
+1
+]
+],
+"clash": [
+"biblical names"
+]
+},
+"Cuba": {
+"also": [
+[
+"north american countries",
+2
+],
+[
+"island nations",
+1
+],
+[
+"caribbean islands",
+1
+],
+[
+"spanish-speaking countries",
+1
+]
+],
+"clash": []
+},
+"North Korea": {
+"also": [
+[
+"asian countries",
+1
+]
+],
+"clash": []
+},
+"Pakistan": {
+"also": [
+[
+"asian countries",
+1
+]
+],
+"clash": []
+},
+"Algeria": {
+"also": [
+[
+"african countries",
+1
+],
+[
+"arabic-speaking countries",
+2
+]
+],
+"clash": []
+},
+"Morocco": {
+"also": [
+[
+"african countries",
+1
+],
+[
+"arabic-speaking countries",
+2
+]
+],
+"clash": [
+"things made of leather"
+]
+},
+"Ghana": {
+"also": [
+[
+"african countries",
+1
+],
+[
+"west african countries",
+1
+]
+],
+"clash": []
+},
+"Singapore": {
+"also": [
+[
+"asian countries",
+1
+],
+[
+"island nations",
+2
+],
+[
+"tiny countries",
+2
+],
+[
+"asian cities",
+2
+]
+],
+"clash": [
+"asian capitals",
+"capital cities",
+"port cities"
+]
+},
+"Malaysia": {
+"also": [
+[
+"asian countries",
+1
+]
+],
+"clash": []
+},
+"Philippines": {
+"also": [
+[
+"asian countries",
+1
+],
+[
+"island nations",
+1
+]
+],
+"clash": []
+},
+"Venezuela": {
+"also": [
+[
+"south american countries",
+1
+],
+[
+"spanish-speaking countries",
+1
+]
+],
+"clash": []
+},
+"Panama": {
+"also": [
+[
+"north american countries",
+2
+],
+[
+"spanish-speaking countries",
+2
+]
+],
+"clash": [
+"hats",
+"famous canals",
+"capital cities"
+]
+},
+"Syria": {
+"also": [
+[
+"asian countries",
+1
+],
+[
+"middle eastern countries",
+1
+],
+[
+"arabic-speaking countries",
+1
+]
+],
+"clash": []
+},
+"Jordan": {
+"also": [
+[
+"asian countries",
+2
+],
+[
+"middle eastern countries",
+1
+],
+[
+"arabic-speaking countries",
+1
+],
+[
+"unisex names",
+1
+]
+],
+"clash": [
+"boys' names",
+"basketball legends",
+"asian rivers"
+]
+},
+"Myanmar": {
+"also": [
+[
+"asian countries",
+1
+]
+],
+"clash": []
+},
+"Somalia": {
+"also": [
+[
+"african countries",
+1
+],
+[
+"east african countries",
+1
+]
+],
+"clash": []
+},
+"Ethiopia": {
+"also": [
+[
+"african countries",
+1
+],
+[
+"east african countries",
+1
+],
+[
+"landlocked countries",
+2
+]
+],
+"clash": []
+},
+"Zimbabwe": {
+"also": [
+[
+"african countries",
+1
+],
+[
+"southern african countries",
+1
+],
+[
+"landlocked countries",
+2
+]
+],
+"clash": []
+},
+"Tunisia": {
+"also": [
+[
+"african countries",
+1
+],
+[
+"arabic-speaking countries",
+2
+]
+],
+"clash": []
+},
+"Senegal": {
+"also": [
+[
+"african countries",
+1
+],
+[
+"west african countries",
+1
+],
+[
+"french-speaking countries",
+2
+]
+],
+"clash": []
+},
+"Cameroon": {
+"also": [
+[
+"african countries",
+1
+],
+[
+"french-speaking countries",
+2
+]
+],
+"clash": []
+},
+"Liberia": {
+"also": [
+[
+"african countries",
+2
+],
+[
+"west african countries",
+2
+]
+],
+"clash": []
+},
+"Togo": {
+"also": [
+[
+"african countries",
+2
+],
+[
+"west african countries",
+2
+],
+[
+"french-speaking countries",
+3
+]
+],
+"clash": []
+},
+"Burkina Faso": {
+"also": [
+[
+"african countries",
+2
+],
+[
+"west african countries",
+2
+],
+[
+"landlocked countries",
+2
+],
+[
+"french-speaking countries",
+3
+]
+],
+"clash": []
+},
+"Angola": {
+"also": [
+[
+"african countries",
+2
+],
+[
+"southern african countries",
+2
+]
+],
+"clash": []
+},
+"Mozambique": {
+"also": [
+[
+"african countries",
+2
+],
+[
+"southern african countries",
+2
+]
+],
+"clash": [
+"east african countries"
+]
+},
+"Djibouti": {
+"also": [
+[
+"african countries",
+2
+],
+[
+"east african countries",
+2
+],
+[
+"french-speaking countries",
+3
+],
+[
+"arabic-speaking countries",
+3
+]
+],
+"clash": []
+},
+"Honduras": {
+"also": [
+[
+"north american countries",
+2
+],
+[
+"spanish-speaking countries",
+2
+]
+],
+"clash": [
+"tricolor flags"
+]
+},
+"Suriname": {
+"also": [
+[
+"south american countries",
+2
+]
+],
+"clash": []
+},
+"Uzbekistan": {
+"also": [
+[
+"asian countries",
+2
+],
+[
+"landlocked countries",
+2
+]
+],
+"clash": []
+},
+"Tajikistan": {
+"also": [
+[
+"asian countries",
+2
+],
+[
+"landlocked countries",
+3
+],
+[
+"tricolor flags",
+3
+]
+],
+"clash": []
+},
+"Turkmenistan": {
+"also": [
+[
+"asian countries",
+2
+]
+],
+"clash": []
+},
+"Azerbaijan": {
+"also": [
+[
+"asian countries",
+2
+],
+[
+"tricolor flags",
+2
+]
+],
+"clash": [
+"european countries"
+]
+},
+"Libya": {
+"also": [
+[
+"african countries",
+1
+],
+[
+"arabic-speaking countries",
+2
+],
+[
+"tricolor flags",
+3
+]
+],
+"clash": []
+},
+"Mauritania": {
+"also": [
+[
+"african countries",
+2
+],
+[
+"west african countries",
+3
+],
+[
+"arabic-speaking countries",
+3
+]
+],
+"clash": []
+},
+"Kosovo": {
+"also": [
+[
+"european countries",
+2
+],
+[
+"eastern european countries",
+3
+],
+[
+"landlocked countries",
+3
+]
+],
+"clash": []
+},
+"Bosnia": {
+"also": [
+[
+"european countries",
+2
+],
+[
+"eastern european countries",
+3
+]
+],
+"clash": []
+},
+"Papua New Guinea": {
+"also": [
+[
+"oceanian countries",
+2
+],
+[
+"island nations",
+2
+]
+],
+"clash": []
+},
+"Solomon Islands": {
+"also": [
+[
+"oceanian countries",
+2
+],
+[
+"island nations",
+2
+],
+[
+"pacific islands",
+3
+]
+],
+"clash": []
+},
+"Samoa": {
+"also": [
+[
+"oceanian countries",
+2
+],
+[
+"island nations",
+2
+],
+[
+"pacific islands",
+2
+]
+],
+"clash": []
+},
+"Tuvalu": {
+"also": [
+[
+"oceanian countries",
+3
+],
+[
+"island nations",
+3
+],
+[
+"tiny countries",
+2
+],
+[
+"pacific islands",
+3
+]
+],
+"clash": []
+},
+"Nauru": {
+"also": [
+[
+"oceanian countries",
+3
+],
+[
+"island nations",
+3
+],
+[
+"tiny countries",
+2
+]
+],
+"clash": []
+},
+"Marshall Islands": {
+"also": [
+[
+"oceanian countries",
+3
+],
+[
+"island nations",
+3
+]
+],
+"clash": []
+},
+"Cape Verde": {
+"also": [
+[
+"african countries",
+3
+],
+[
+"island nations",
+2
+]
+],
+"clash": []
+},
+"South Sudan": {
+"also": [
+[
+"african countries",
+2
+],
+[
+"east african countries",
+2
+],
+[
+"landlocked countries",
+2
+]
+],
+"clash": []
+},
+"Burundi": {
+"also": [
+[
+"african countries",
+2
+],
+[
+"east african countries",
+2
+],
+[
+"landlocked countries",
+2
+],
+[
+"french-speaking countries",
+3
+]
+],
+"clash": []
+},
+"Grenada": {
+"also": [
+[
+"north american countries",
+3
+],
+[
+"island nations",
+2
+],
+[
+"caribbean islands",
+2
+]
+],
+"clash": [
+"spanish cities"
+]
+},
+"East Timor": {
+"also": [
+[
+"asian countries",
+2
+],
+[
+"island nations",
+3
+]
+],
+"clash": []
+},
+"São Tomé": {
+"also": [
+[
+"african countries",
+3
+],
+[
+"island nations",
+3
+]
+],
+"clash": []
+},
+"Guinea-Bissau": {
+"also": [
+[
+"african countries",
+2
+],
+[
+"west african countries",
+2
+]
+],
+"clash": []
+},
+"Comoros": {
+"also": [
+[
+"african countries",
+3
+],
+[
+"island nations",
+2
+],
+[
+"arabic-speaking countries",
+4
+],
+[
+"french-speaking countries",
+4
+]
+],
+"clash": []
+},
+"Dominica": {
+"also": [
+[
+"north american countries",
+3
+],
+[
+"island nations",
+2
+],
+[
+"caribbean islands",
+2
+]
+],
+"clash": [
+"spanish-speaking countries"
+]
+},
+"St Kitts": {
+"also": [
+[
+"caribbean islands",
+2
+],
+[
+"island nations",
+2
+],
+[
+"north american countries",
+3
+]
+],
+"clash": []
+},
+"Central African Republic": {
+"also": [
+[
+"african countries",
+2
+],
+[
+"landlocked countries",
+2
+],
+[
+"french-speaking countries",
+3
+]
+],
+"clash": []
+},
+"São Tomé and Príncipe": {
+"also": [
+[
+"african countries",
+3
+],
+[
+"island nations",
+2
+]
+],
+"clash": []
+},
+"St Kitts and Nevis": {
+"also": [
+[
+"island nations",
+2
+],
+[
+"north american countries",
+3
+],
+[
+"tiny countries",
+3
+],
+[
+"caribbean islands",
+2
+]
+],
+"clash": []
+},
+"Bosnia and Herzegovina": {
+"also": [
+[
+"european countries",
+2
+],
+[
+"eastern european countries",
+3
+]
+],
+"clash": []
+},
+"DR Congo": {
+"also": [
+[
+"african countries",
+2
+],
+[
+"french-speaking countries",
+2
+]
+],
+"clash": [
+"african rivers"
+]
+},
+"Democratic Republic of the Congo": {
+"also": [
+[
+"african countries",
+2
+],
+[
+"french-speaking countries",
+2
+]
+],
+"clash": [
+"african rivers"
+]
+},
+"Maldives": {
+"also": [
+[
+"asian countries",
+2
+],
+[
+"island nations",
+1
+],
+[
+"tiny countries",
+2
+],
+[
+"beach destinations",
+2
+]
+],
+"clash": []
+},
+"Brunei": {
+"also": [
+[
+"asian countries",
+2
+],
+[
+"tiny countries",
+3
+]
+],
+"clash": []
+},
+"Nepal": {
+"also": [
+[
+"asian countries",
+1
+],
+[
+"landlocked countries",
+2
+]
+],
+"clash": []
+},
+"UK": {
+"also": [
+[
+"european countries",
+1
+],
+[
+"western european countries",
+1
+],
+[
+"island nations",
+2
+],
+[
+"acronyms",
+2
+]
+],
+"clash": []
+},
+"Switzerland": {
+"also": [
+[
+"european countries",
+1
+],
+[
+"western european countries",
+2
+],
+[
+"landlocked countries",
+1
+]
+],
+"clash": []
+},
+"Denmark": {
+"also": [
+[
+"european countries",
+1
+]
+],
+"clash": []
+},
+"Norway": {
+"also": [
+[
+"european countries",
+1
+]
+],
+"clash": []
+},
+"Sweden": {
+"also": [
+[
+"european countries",
+1
+]
+],
+"clash": []
+},
+"Finland": {
+"also": [
+[
+"european countries",
+1
+]
+],
+"clash": []
+},
+"Iceland": {
+"also": [
+[
+"european countries",
+1
+],
+[
+"island nations",
+1
+]
+],
+"clash": [
+"supermarket"
+]
+},
+"Greece": {
+"also": [
+[
+"european countries",
+1
+]
+],
+"clash": []
+},
+"England": {
+"also": [
+[
+"european countries",
+1
+]
+],
+"clash": []
+},
+"Scotland": {
+"also": [
+[
+"european countries",
+2
+]
+],
+"clash": []
+},
+"Georgia": {
+"also": [
+[
+"us states",
+1
+],
+[
+"asian countries",
+2
+],
+[
+"girls' names",
+2
+],
+[
+"names that are places",
+2
+]
+],
+"clash": [
+"european countries"
+]
+},
+"Jamaica": {
+"also": [
+[
+"north american countries",
+2
+],
+[
+"island nations",
+1
+],
+[
+"caribbean islands",
+1
+]
+],
+"clash": []
+},
+"Dominican Republic": {
+"also": [
+[
+"north american countries",
+2
+],
+[
+"caribbean islands",
+2
+],
+[
+"spanish-speaking countries",
+2
+]
+],
+"clash": [
+"island nations"
+]
+},
+"Fiji": {
+"also": [
+[
+"oceanian countries",
+2
+],
+[
+"island nations",
+1
+],
+[
+"pacific islands",
+2
+]
+],
+"clash": []
+},
+"Malta": {
+"also": [
+[
+"european countries",
+1
+],
+[
+"island nations",
+1
+],
+[
+"tiny countries",
+2
+]
+],
+"clash": []
+},
+"Northern Ireland": {
+"also": [],
+"clash": [
+"european countries"
+]
+},
+"Tonga": {
+"also": [
+[
+"oceanian countries",
+2
+],
+[
+"island nations",
+2
+],
+[
+"pacific islands",
+2
+]
+],
+"clash": []
+},
+"Slovakia": {
+"also": [
+[
+"european countries",
+1
+],
+[
+"eastern european countries",
+2
+],
+[
+"landlocked countries",
+2
+]
+],
+"clash": []
+},
+"Serbia": {
+"also": [
+[
+"european countries",
+1
+],
+[
+"eastern european countries",
+2
+],
+[
+"landlocked countries",
+2
+]
+],
+"clash": []
+},
+"Faroe Islands": {
+"also": [],
+"clash": [
+"island nations",
+"european countries"
+]
+},
+"Åland": {
+"also": [],
+"clash": [
+"island nations"
+]
+},
+"Japan": {
+"also": [
+[
+"asian countries",
+1
+],
+[
+"island nations",
+1
+]
+],
+"clash": []
+},
+"Canada": {
+"also": [
+[
+"north american countries",
+1
+]
+],
+"clash": [
+"tricolor flags"
+]
+},
+"Poland": {
+"also": [
+[
+"european countries",
+1
+],
+[
+"eastern european countries",
+1
+]
+],
+"clash": []
+},
+"Austria": {
+"also": [
+[
+"european countries",
+1
+],
+[
+"landlocked countries",
+2
+],
+[
+"western european countries",
+2
+]
+],
+"clash": [
+"tricolor flags",
+"eastern european countries"
+]
+},
+"Peru": {
+"also": [
+[
+"south american countries",
+1
+],
+[
+"spanish-speaking countries",
+1
+]
+],
+"clash": [
+"tricolor flags"
+]
+},
+"Indonesia": {
+"also": [
+[
+"asian countries",
+1
+],
+[
+"island nations",
+1
+]
+],
+"clash": []
+},
+"Monaco": {
+"also": [
+[
+"european countries",
+1
+],
+[
+"tiny countries",
+1
+]
+],
+"clash": [
+"famous race tracks"
+]
+},
+"Bahrain": {
+"also": [
+[
+"asian countries",
+2
+],
+[
+"middle eastern countries",
+2
+],
+[
+"island nations",
+2
+],
+[
+"arabic-speaking countries",
+2
+],
+[
+"tiny countries",
+3
+]
+],
+"clash": []
+},
+"Qatar": {
+"also": [
+[
+"asian countries",
+2
+],
+[
+"middle eastern countries",
+2
+],
+[
+"arabic-speaking countries",
+2
+]
+],
+"clash": [
+"middle eastern airlines"
+]
+},
+"Latvia": {
+"also": [
+[
+"european countries",
+1
+],
+[
+"eastern european countries",
+2
+]
+],
+"clash": [
+"tricolor flags"
+]
+},
+"Greenland": {
+"also": [
+[
+"famous islands",
+1
+]
+],
+"clash": [
+"island nations",
+"north american countries",
+"european countries"
+]
+},
+"Hong Kong": {
+"also": [
+[
+"asian cities",
+1
+],
+[
+"chinese cities",
+2
+]
+],
+"clash": [
+"asian countries",
+"island nations",
+"flags with stars"
+]
+},
+"France": {
+"also": [
+[
+"european countries",
+1
+],
+[
+"western european countries",
+1
+],
+[
+"french-speaking countries",
+1
+]
+],
+"clash": []
+},
+"Italy": {
+"also": [
+[
+"european countries",
+1
+],
+[
+"western european countries",
+1
+]
+],
+"clash": []
+},
+"Ireland": {
+"also": [
+[
+"european countries",
+1
+],
+[
+"western european countries",
+1
+],
+[
+"island nations",
+2
+]
+],
+"clash": []
+},
+"Germany": {
+"also": [
+[
+"european countries",
+1
+],
+[
+"western european countries",
+1
+]
+],
+"clash": []
+},
+"Russia": {
+"also": [
+[
+"european countries",
+1
+],
+[
+"asian countries",
+2
+],
+[
+"eastern european countries",
+1
+]
+],
+"clash": []
+},
+"Mexico": {
+"also": [
+[
+"north american countries",
+1
+],
+[
+"spanish-speaking countries",
+1
+]
+],
+"clash": []
+},
+"Belgium": {
+"also": [
+[
+"european countries",
+1
+],
+[
+"western european countries",
+1
+],
+[
+"french-speaking countries",
+2
+]
+],
+"clash": []
+},
+"India": {
+"also": [
+[
+"asian countries",
+1
+]
+],
+"clash": []
+},
+"Netherlands": {
+"also": [
+[
+"european countries",
+1
+],
+[
+"western european countries",
+1
+]
+],
+"clash": []
+},
+"Romania": {
+"also": [
+[
+"european countries",
+1
+],
+[
+"eastern european countries",
+1
+]
+],
+"clash": []
+},
+"Hungary": {
+"also": [
+[
+"european countries",
+1
+],
+[
+"eastern european countries",
+1
+],
+[
+"landlocked countries",
+2
+]
+],
+"clash": []
+},
+"Bulgaria": {
+"also": [
+[
+"european countries",
+1
+],
+[
+"eastern european countries",
+1
+]
+],
+"clash": []
+},
+"Colombia": {
+"also": [
+[
+"south american countries",
+1
+],
+[
+"spanish-speaking countries",
+1
+]
+],
+"clash": []
+},
+"Lithuania": {
+"also": [
+[
+"european countries",
+1
+],
+[
+"eastern european countries",
+2
+]
+],
+"clash": []
+},
+"Estonia": {
+"also": [
+[
+"european countries",
+1
+],
+[
+"eastern european countries",
+2
+]
+],
+"clash": []
+},
+"Luxembourg": {
+"also": [
+[
+"european countries",
+1
+],
+[
+"tiny countries",
+1
+],
+[
+"landlocked countries",
+2
+],
+[
+"western european countries",
+2
+],
+[
+"french-speaking countries",
+3
+]
+],
+"clash": []
+},
+"Armenia": {
+"also": [
+[
+"asian countries",
+2
+],
+[
+"landlocked countries",
+3
+]
+],
+"clash": [
+"european countries"
+]
+},
+"Yemen": {
+"also": [
+[
+"asian countries",
+2
+],
+[
+"middle eastern countries",
+1
+],
+[
+"arabic-speaking countries",
+1
+]
+],
+"clash": []
+},
+"Chad": {
+"also": [
+[
+"african countries",
+2
+],
+[
+"landlocked countries",
+2
+],
+[
+"french-speaking countries",
+3
+],
+[
+"boys' names",
+2
+]
+],
+"clash": []
+},
+"Mali": {
+"also": [
+[
+"african countries",
+1
+],
+[
+"west african countries",
+2
+],
+[
+"landlocked countries",
+2
+],
+[
+"french-speaking countries",
+3
+]
+],
+"clash": []
+},
+"Guinea": {
+"also": [
+[
+"african countries",
+2
+],
+[
+"west african countries",
+2
+],
+[
+"french-speaking countries",
+3
+],
+[
+"historic coins",
+2
+]
+],
+"clash": [
+"coins",
+"small pets"
+]
+},
+"Ivory Coast": {
+"also": [
+[
+"african countries",
+2
+],
+[
+"west african countries",
+2
+],
+[
+"french-speaking countries",
+3
+]
+],
+"clash": []
+},
+"Sierra Leone": {
+"also": [
+[
+"african countries",
+2
+],
+[
+"west african countries",
+2
+]
+],
+"clash": []
+},
+"Bolivia": {
+"also": [
+[
+"south american countries",
+1
+],
+[
+"landlocked countries",
+2
+],
+[
+"spanish-speaking countries",
+1
+]
+],
+"clash": []
+},
+"Iran": {
+"also": [
+[
+"asian countries",
+1
+],
+[
+"middle eastern countries",
+1
+]
+],
+"clash": []
+},
+"Egypt": {
+"also": [
+[
+"african countries",
+1
+],
+[
+"middle eastern countries",
+2
+],
+[
+"arabic-speaking countries",
+1
+]
+],
+"clash": []
+},
+"Iraq": {
+"also": [
+[
+"asian countries",
+1
+],
+[
+"middle eastern countries",
+1
+],
+[
+"arabic-speaking countries",
+1
+]
+],
+"clash": []
+},
+"Slovenia": {
+"also": [
+[
+"european countries",
+1
+],
+[
+"eastern european countries",
+2
+]
+],
+"clash": [
+"flags with stars"
+]
+},
+"Croatia": {
+"also": [
+[
+"european countries",
+1
+],
+[
+"eastern european countries",
+2
+]
+],
+"clash": []
+},
+"Ecuador": {
+"also": [
+[
+"south american countries",
+1
+],
+[
+"spanish-speaking countries",
+1
+]
+],
+"clash": []
+},
+"Gabon": {
+"also": [
+[
+"african countries",
+2
+],
+[
+"french-speaking countries",
+3
+]
+],
+"clash": []
+},
+"Niger": {
+"also": [
+[
+"african countries",
+2
+],
+[
+"west african countries",
+2
+],
+[
+"landlocked countries",
+2
+],
+[
+"french-speaking countries",
+3
+]
+],
+"clash": [
+"african rivers"
+]
+},
+"Gambia": {
+"also": [
+[
+"african countries",
+2
+],
+[
+"west african countries",
+2
+]
+],
+"clash": [
+"african rivers"
+]
+},
+"Andorra": {
+"also": [
+[
+"european countries",
+2
+],
+[
+"tiny countries",
+1
+],
+[
+"landlocked countries",
+2
+]
+],
+"clash": []
+},
+"Moldova": {
+"also": [
+[
+"european countries",
+2
+],
+[
+"eastern european countries",
+2
+],
+[
+"landlocked countries",
+3
+]
+],
+"clash": []
+},
+"Paraguay": {
+"also": [
+[
+"south american countries",
+1
+],
+[
+"landlocked countries",
+2
+],
+[
+"spanish-speaking countries",
+1
+]
+],
+"clash": [
+"flags with stars"
+]
+},
+"Côte d'Ivoire": {
+"also": [
+[
+"african countries",
+2
+],
+[
+"west african countries",
+2
+],
+[
+"french-speaking countries",
+2
+]
+],
+"clash": []
+},
+"Nigeria": {
+"also": [
+[
+"african countries",
+1
+],
+[
+"west african countries",
+1
+]
+],
+"clash": [
+"tricolor flags"
+]
+},
+"Albania": {
+"also": [
+[
+"european countries",
+1
+],
+[
+"eastern european countries",
+2
+]
+],
+"clash": []
+},
+"Mongolia": {
+"also": [
+[
+"asian countries",
+1
+],
+[
+"landlocked countries",
+2
+]
+],
+"clash": []
+},
+"Cambodia": {
+"also": [
+[
+"asian countries",
+1
+]
+],
+"clash": []
+},
+"Saudi Arabia": {
+"also": [
+[
+"asian countries",
+1
+],
+[
+"middle eastern countries",
+1
+],
+[
+"arabic-speaking countries",
+1
+]
+],
+"clash": [
+"flags with crescents"
+]
+},
+"Tanzania": {
+"also": [
+[
+"african countries",
+1
+],
+[
+"east african countries",
+1
+]
+],
+"clash": []
+},
+"Zambia": {
+"also": [
+[
+"african countries",
+1
+],
+[
+"southern african countries",
+2
+],
+[
+"landlocked countries",
+2
+]
+],
+"clash": []
+},
+"Namibia": {
+"also": [
+[
+"african countries",
+1
+],
+[
+"southern african countries",
+2
+]
+],
+"clash": []
+},
+"St Lucia": {
+"also": [
+[
+"north american countries",
+3
+],
+[
+"island nations",
+2
+],
+[
+"caribbean islands",
+2
+]
+],
+"clash": []
+},
+"North Macedonia": {
+"also": [
+[
+"european countries",
+2
+],
+[
+"eastern european countries",
+2
+],
+[
+"landlocked countries",
+3
+]
+],
+"clash": []
+},
+"Czechia": {
+"also": [
+[
+"european countries",
+2
+],
+[
+"eastern european countries",
+2
+],
+[
+"landlocked countries",
+2
+]
+],
+"clash": []
+},
+"banner": {
+"also": [
+[
+"advertising words",
+3
+]
+],
+"clash": [
+"party supplies"
+]
+},
+"pennant": {
+"also": [
+[
+"baseball terms",
+3
+]
+],
+"clash": []
+},
+"stripe": {
+"also": [
+[
+"patterns",
+2
+],
+[
+"line types",
+2
+]
+],
+"clash": [
+"military ranks"
+]
+},
+"emblem": {
+"also": [],
+"clash": [
+"symbols",
+"heraldry"
+]
+},
+"white flag": {
+"also": [
+[
+"peace words",
+2
+],
+[
+"war words",
+2
+]
+],
+"clash": []
+},
+"ensign": {
+"also": [
+[
+"military ranks",
+3
+],
+[
+"navy words",
+3
+]
+],
+"clash": []
+},
+"standard": {
+"also": [],
+"clash": [
+"heraldry"
+]
+},
+"colors": {
+"also": [],
+"clash": [
+"color terms"
+]
+},
+"bunting": {
+"also": [
+[
+"songbirds",
+3
+],
+[
+"party supplies",
+2
+]
+],
+"clash": [
+"finches"
+]
+},
+"streamer": {
+"also": [
+[
+"party supplies",
+1
+]
+],
+"clash": []
+},
+"unfurl": {
+"also": [],
+"clash": [
+"sailing words"
+]
+},
+"Jolly Roger": {
+"also": [
+[
+"pirate words",
+1
+]
+],
+"clash": [
+"pirate ships"
+]
+},
+"checkered flag": {
+"also": [
+[
+"motor racing",
+1
+]
+],
+"clash": [
+"patterns"
+]
+},
+"canton": {
+"also": [],
+"clash": [
+"old city names"
+]
+},
+"halyard": {
+"also": [
+[
+"sailing words",
+3
+],
+[
+"ship parts",
+3
+]
+],
+"clash": []
+},
+"jack": {
+"also": [
+[
+"card game words",
+1
+],
+[
+"boys' names",
+1
+],
+[
+"short forms of names",
+2
+]
+],
+"clash": [
+"hand tools",
+"car parts",
+"game pieces"
+]
+},
+"saltire": {
+"also": [
+[
+"heraldry",
+3
+]
+],
+"clash": []
+},
+"signal flag": {
+"also": [
+[
+"codes and signals",
+2
+]
+],
+"clash": []
+},
+"semaphore": {
+"also": [
+[
+"codes and signals",
+1
+],
+[
+"old ways to communicate",
+2
+]
+],
+"clash": []
+},
+"fly": {
+"also": [
+[
+"insects and bugs",
+1
+],
+[
+"household pests",
+1
+],
+[
+"clothing parts",
+2
+],
+[
+"motion verbs",
+1
+],
+[
+"fishing tackle",
+2
+]
+],
+"clash": [
+"___fly",
+"things with wings",
+"biting bugs",
+"garden bugs"
+]
+},
+"field": {
+"also": [
+[
+"flat landscapes",
+2
+],
+[
+"cricket terms",
+2
+]
+],
+"clash": [
+"field events",
+"sports venues",
+"science fields"
+]
+},
+"finial": {
+"also": [
+[
+"architectural features",
+3
+],
+[
+"roof parts",
+3
+]
+],
+"clash": []
+},
+"burgee": {
+"also": [
+[
+"sailing words",
+4
+]
+],
+"clash": []
+},
+"swallowtail": {
+"also": [
+[
+"butterflies and moths",
+2
+]
+],
+"clash": []
+},
+"charge": {
+"also": [
+[
+"electricity words",
+1
+],
+[
+"heraldry",
+4
+],
+[
+"army words",
+2
+],
+[
+"money words",
+2
+]
+],
+"clash": [
+"banking words",
+"courtroom words",
+"crimes"
+]
+},
+"pennon": {
+"also": [
+[
+"heraldry",
+4
+]
+],
+"clash": []
+},
+"jackstaff": {
+"also": [
+[
+"ship parts",
+4
+]
+],
+"clash": []
+},
+"masthead": {
+"also": [
+[
+"newspaper words",
+3
+],
+[
+"ship parts",
+3
+]
+],
+"clash": []
+},
+"vexillum": {
+"also": [
+[
+"roman army",
+4
+]
+],
+"clash": []
+},
+"pendant": {
+"also": [
+[
+"jewelry",
+1
+]
+],
+"clash": [
+"lights and lamps"
+]
+},
+"truck": {
+"also": [],
+"clash": [
+"truck types",
+"delivery vehicles",
+"construction vehicles"
+]
+},
+"Stars and Stripes": {
+"also": [
+[
+"national symbols",
+2
+]
+],
+"clash": []
+},
+"Union Jack": {
+"also": [
+[
+"national symbols",
+2
+]
+],
+"clash": []
+},
+"Union Flag": {
+"also": [
+[
+"national symbols",
+3
+]
+],
+"clash": []
+},
+"Old Glory": {
+"also": [
+[
+"national symbols",
+3
+]
+],
+"clash": []
+},
+"St George's Cross": {
+"also": [],
+"clash": [
+"heraldry",
+"crusades"
+]
+},
+"red ensign": {
+"also": [
+[
+"navy words",
+4
+]
+],
+"clash": []
+},
+"white ensign": {
+"also": [
+[
+"navy words",
+3
+]
+],
+"clash": []
+},
+"pirate flag": {
+"also": [
+[
+"pirate words",
+1
+]
+],
+"clash": []
+},
+"French": {
+"also": [
+[
+"romance languages",
+1
+],
+[
+"european languages",
+1
+],
+[
+"school subjects",
+2
+]
+],
+"clash": [
+"french food"
+]
+},
+"German": {
+"also": [
+[
+"germanic languages",
+1
+],
+[
+"european languages",
+1
+],
+[
+"school subjects",
+2
+]
+],
+"clash": [
+"herding dogs"
+]
+},
+"Italian": {
+"also": [
+[
+"romance languages",
+1
+],
+[
+"european languages",
+1
+]
+],
+"clash": []
+},
+"Spanish": {
+"also": [
+[
+"romance languages",
+1
+],
+[
+"european languages",
+1
+],
+[
+"school subjects",
+2
+]
+],
+"clash": []
+},
+"Chinese": {
+"also": [
+[
+"asian languages",
+1
+]
+],
+"clash": [
+"languages of china",
+"chinese food"
+]
+},
+"Japanese": {
+"also": [
+[
+"asian languages",
+1
+]
+],
+"clash": []
+},
+"Russian": {
+"also": [
+[
+"slavic languages",
+1
+],
+[
+"european languages",
+1
+]
+],
+"clash": []
+},
+"English": {
+"also": [
+[
+"germanic languages",
+1
+],
+[
+"european languages",
+1
+],
+[
+"school subjects",
+1
+]
+],
+"clash": []
+},
+"Irish": {
+"also": [
+[
+"celtic languages",
+2
+],
+[
+"european languages",
+2
+]
+],
+"clash": []
+},
+"Scottish": {
+"also": [],
+"clash": [
+"celtic languages"
+]
+},
+"Welsh": {
+"also": [
+[
+"celtic languages",
+1
+],
+[
+"european languages",
+2
+]
+],
+"clash": []
+},
+"Dutch": {
+"also": [
+[
+"germanic languages",
+1
+],
+[
+"european languages",
+1
+]
+],
+"clash": []
+},
+"Greek": {
+"also": [
+[
+"european languages",
+1
+],
+[
+"ancient languages",
+2
+]
+],
+"clash": []
+},
+"Swiss": {
+"also": [],
+"clash": [
+"cheeses",
+"cakes"
+]
+},
+"Thai": {
+"also": [
+[
+"asian languages",
+2
+]
+],
+"clash": [
+"massage types",
+"thai food"
+]
+},
+"Brazilian": {
+"also": [],
+"clash": [
+"hair care"
+]
+},
+"Swedish": {
+"also": [
+[
+"germanic languages",
+2
+],
+[
+"european languages",
+2
+]
+],
+"clash": [
+"massage types"
+]
+},
+"Polish": {
+"also": [
+[
+"slavic languages",
+2
+],
+[
+"european languages",
+2
+],
+[
+"cleaning verbs",
+1
+]
+],
+"clash": [
+"cleaning products",
+"nail care",
+"shoes"
+]
+},
+"Portuguese": {
+"also": [
+[
+"romance languages",
+1
+],
+[
+"european languages",
+1
+]
+],
+"clash": []
+},
+"Turkish": {
+"also": [
+[
+"turkic languages",
+1
+]
+],
+"clash": [
+"turkish bath",
+"middle eastern languages"
+]
+},
+"Korean": {
+"also": [
+[
+"asian languages",
+1
+]
+],
+"clash": []
+},
+"Vietnamese": {
+"also": [
+[
+"asian languages",
+2
+]
+],
+"clash": []
+},
+"Egyptian": {
+"also": [],
+"clash": [
+"ancient egypt"
+]
+},
+"Norwegian": {
+"also": [
+[
+"germanic languages",
+2
+],
+[
+"european languages",
+2
+]
+],
+"clash": []
+},
+"Danish": {
+"also": [
+[
+"germanic languages",
+2
+],
+[
+"european languages",
+2
+],
+[
+"pastries",
+1
+]
+],
+"clash": []
+},
+"Finnish": {
+"also": [
+[
+"european languages",
+2
+]
+],
+"clash": []
+},
+"Afghan": {
+"also": [],
+"clash": [
+"hounds",
+"bedding"
+]
+},
+"Filipino": {
+"also": [
+[
+"asian languages",
+2
+]
+],
+"clash": []
+},
+"Indonesian": {
+"also": [
+[
+"asian languages",
+2
+]
+],
+"clash": []
+},
+"Malaysian": {
+"also": [],
+"clash": [
+"asian languages"
+]
+},
+"Mongolian": {
+"also": [
+[
+"asian languages",
+3
+]
+],
+"clash": []
+},
+"Hungarian": {
+"also": [
+[
+"european languages",
+2
+]
+],
+"clash": []
+},
+"Czech": {
+"also": [
+[
+"slavic languages",
+2
+],
+[
+"european languages",
+2
+]
+],
+"clash": []
+},
+"Romanian": {
+"also": [
+[
+"romance languages",
+2
+],
+[
+"european languages",
+2
+]
+],
+"clash": []
+},
+"Bulgarian": {
+"also": [
+[
+"slavic languages",
+3
+],
+[
+"european languages",
+3
+]
+],
+"clash": []
+},
+"Serbian": {
+"also": [
+[
+"slavic languages",
+3
+],
+[
+"european languages",
+3
+]
+],
+"clash": []
+},
+"Croatian": {
+"also": [
+[
+"slavic languages",
+3
+],
+[
+"european languages",
+3
+]
+],
+"clash": []
+},
+"Albanian": {
+"also": [
+[
+"european languages",
+3
+]
+],
+"clash": []
+},
+"Ukrainian": {
+"also": [
+[
+"slavic languages",
+2
+],
+[
+"european languages",
+2
+]
+],
+"clash": []
+},
+"Icelandic": {
+"also": [
+[
+"germanic languages",
+3
+],
+[
+"european languages",
+3
+]
+],
+"clash": [
+"pony breeds"
+]
+},
+"Armenian": {
+"also": [],
+"clash": [
+"european languages"
+]
+},
+"Kiwi": {
+"also": [
+[
+"flightless birds",
+1
+],
+[
+"new zealand animals",
+1
+],
+[
+"fruits",
+1
+]
+],
+"clash": [
+"tropical fruits",
+"australian birds"
+]
+},
+"Aussie": {
+"also": [
+[
+"australian slang",
+1
+]
+],
+"clash": []
+},
+"Scot": {
+"also": [],
+"clash": [
+"surnames that are jobs"
+]
+},
+"Pole": {
+"also": [],
+"clash": [
+"map words",
+"fire station"
+]
+},
+"Arab": {
+"also": [
+[
+"horse breeds",
+2
+]
+],
+"clash": []
+},
+"Nepali": {
+"also": [
+[
+"asian languages",
+2
+]
+],
+"clash": [
+"languages of india"
+]
+},
+"Nepalese": {
+"also": [],
+"clash": [
+"asian languages"
+]
+},
+"Slovak": {
+"also": [
+[
+"slavic languages",
+3
+],
+[
+"european languages",
+3
+]
+],
+"clash": []
+},
+"Slovenian": {
+"also": [
+[
+"slavic languages",
+3
+],
+[
+"european languages",
+3
+]
+],
+"clash": []
+},
+"Belarusian": {
+"also": [
+[
+"slavic languages",
+3
+],
+[
+"european languages",
+3
+]
+],
+"clash": []
+},
+"Lithuanian": {
+"also": [
+[
+"european languages",
+3
+]
+],
+"clash": []
+},
+"Latvian": {
+"also": [
+[
+"european languages",
+3
+]
+],
+"clash": []
+},
+"Estonian": {
+"also": [
+[
+"european languages",
+3
+]
+],
+"clash": []
+},
+"Maltese": {
+"also": [
+[
+"toy dogs",
+2
+],
+[
+"european languages",
+3
+]
+],
+"clash": []
+},
+"Somali": {
+"also": [
+[
+"african languages",
+2
+]
+],
+"clash": [
+"cat breeds"
+]
+},
+"Kazakh": {
+"also": [
+[
+"turkic languages",
+2
+]
+],
+"clash": []
+},
+"Georgian": {
+"also": [
+[
+"architecture styles",
+2
+],
+[
+"house styles",
+2
+]
+],
+"clash": []
+},
+"Azerbaijani": {
+"also": [
+[
+"turkic languages",
+3
+]
+],
+"clash": []
+},
+"Burmese": {
+"also": [
+[
+"cat breeds",
+2
+],
+[
+"asian languages",
+3
+]
+],
+"clash": []
+},
+"Macedonian": {
+"also": [
+[
+"slavic languages",
+3
+],
+[
+"european languages",
+3
+]
+],
+"clash": [
+"ancient greece"
+]
+},
+"Dane": {
+"also": [],
+"clash": [
+"working dogs",
+"dog breeds"
+]
+},
+"Finn": {
+"also": [
+[
+"boys' names",
+2
+]
+],
+"clash": [
+"irish names"
+]
+},
+"Swede": {
+"also": [],
+"clash": [
+"root vegetables"
+]
+},
+"Malagasy": {
+"also": [
+[
+"african languages",
+3
+]
+],
+"clash": []
+},
+"Kyrgyz": {
+"also": [
+[
+"turkic languages",
+3
+]
+],
+"clash": []
+},
+"Tajik": {
+"also": [
+[
+"asian languages",
+4
+]
+],
+"clash": []
+},
+"Turkmen": {
+"also": [
+[
+"turkic languages",
+3
+]
+],
+"clash": []
+},
+"Azeri": {
+"also": [
+[
+"turkic languages",
+3
+]
+],
+"clash": []
+},
+"Lao": {
+"also": [
+[
+"asian languages",
+3
+]
+],
+"clash": []
+},
+"Swazi": {
+"also": [],
+"clash": [
+"african languages"
+]
+},
+"Samoan": {
+"also": [
+[
+"pacific languages",
+3
+]
+],
+"clash": []
+},
+"Tongan": {
+"also": [
+[
+"pacific languages",
+3
+]
+],
+"clash": []
+},
+"Fijian": {
+"also": [
+[
+"pacific languages",
+3
+]
+],
+"clash": []
+},
+"Marshallese": {
+"also": [
+[
+"pacific languages",
+4
+]
+],
+"clash": []
+},
+"Dominican": {
+"also": [],
+"clash": [
+"religious leaders"
+]
+},
+"Roman": {
+"also": [
+[
+"ancient rome",
+1
+]
+],
+"clash": [
+"fonts",
+"roman life"
+]
+},
+"Spartan": {
+"also": [
+[
+"ancient greece",
+2
+]
+],
+"clash": []
+},
+"Trojan": {
+"also": [
+[
+"trojan war",
+2
+]
+],
+"clash": [
+"cybersecurity words"
+]
+},
+"Athenian": {
+"also": [
+[
+"ancient greece",
+2
+]
+],
+"clash": []
+},
+"Corinthian": {
+"also": [
+[
+"column styles",
+2
+]
+],
+"clash": []
+},
+"Babylonian": {
+"also": [
+[
+"mesopotamia",
+2
+]
+],
+"clash": []
+},
+"Byzantine": {
+"also": [
+[
+"byzantine empire",
+2
+],
+[
+"architecture styles",
+3
+]
+],
+"clash": []
+},
+"Carthaginian": {
+"also": [],
+"clash": [
+"ancient civilizations"
+]
+},
+"Theban": {
+"also": [],
+"clash": [
+"ancient egypt",
+"ancient greece"
+]
+},
+"Alexandrian": {
+"also": [],
+"clash": [
+"ancient egypt"
+]
+},
+"Hamburger": {
+"also": [
+[
+"fast food",
+1
+],
+[
+"foods named after places",
+1
+]
+],
+"clash": [
+"sandwiches",
+"diner",
+"barbecue foods"
+]
+},
+"Frankfurter": {
+"also": [
+[
+"sausages",
+1
+],
+[
+"foods named after places",
+1
+]
+],
+"clash": []
+},
+"Berliner": {
+"also": [
+[
+"pastries",
+3
+],
+[
+"foods named after places",
+3
+]
+],
+"clash": []
+},
+"Pekingese": {
+"also": [
+[
+"toy dogs",
+2
+],
+[
+"dog breeds",
+2
+]
+],
+"clash": []
+},
+"Neapolitan": {
+"also": [
+[
+"ice cream flavors",
+2
+],
+[
+"pizza styles",
+2
+],
+[
+"foods named after places",
+2
+]
+],
+"clash": []
+},
+"Bolognese": {
+"also": [
+[
+"pasta dishes",
+1
+],
+[
+"sauces and condiments",
+2
+],
+[
+"italian food",
+1
+],
+[
+"foods named after places",
+1
+]
+],
+"clash": []
+},
+"Parmesan": {
+"also": [
+[
+"cheeses",
+1
+],
+[
+"italian cheeses",
+1
+],
+[
+"hard cheeses",
+1
+],
+[
+"foods named after places",
+1
+]
+],
+"clash": [
+"pizza toppings"
+]
+},
+"Tangerine": {
+"also": [
+[
+"citrus fruits",
+1
+],
+[
+"shades of orange",
+2
+],
+[
+"foods named after places",
+2
+]
+],
+"clash": []
+},
+"Habanero": {
+"also": [
+[
+"chili peppers",
+1
+],
+[
+"spicy foods",
+2
+],
+[
+"foods named after places",
+3
+]
+],
+"clash": []
+},
+"Genoese": {
+"also": [],
+"clash": [
+"cakes"
+]
+},
+"Milanese": {
+"also": [],
+"clash": [
+"italian food"
+]
+},
+"Venetian": {
+"also": [],
+"clash": [
+"window coverings"
+]
+},
+"Florentine": {
+"also": [
+[
+"foods named after places",
+3
+]
+],
+"clash": [
+"cookies",
+"egg dishes"
+]
+},
+"Viennese": {
+"also": [],
+"clash": [
+"coffee drinks",
+"cookies"
+]
+},
+"Lyonnais": {
+"also": [],
+"clash": [
+"potato dishes"
+]
+},
+"Bordelais": {
+"also": [],
+"clash": [
+"french sauces"
+]
+},
+"Carioca": {
+"also": [],
+"clash": [
+"latin dances",
+"brazilian carnival words"
+]
+},
+"Muscovite": {
+"also": [
+[
+"minerals",
+3
+]
+],
+"clash": []
+},
+"Cockney": {
+"also": [],
+"clash": [
+"cockney rhyming slang",
+"british slang"
+]
+},
+"Scouser": {
+"also": [],
+"clash": [
+"british slang"
+]
+},
+"Brummie": {
+"also": [],
+"clash": [
+"british slang"
+]
+},
+"Geordie": {
+"also": [],
+"clash": [
+"british slang"
+]
+},
+"Veronese": {
+"also": [
+[
+"renaissance painters",
+3
+]
+],
+"clash": []
+},
+"Bernese": {
+"also": [],
+"clash": [
+"working dogs",
+"dog breeds"
+]
+},
+"Shanghainese": {
+"also": [
+[
+"languages of china",
+4
+]
+],
+"clash": []
+},
+"New Yorker": {
+"also": [],
+"clash": [
+"newspaper words"
+]
+},
+"Persia": {
+"also": [
+[
+"ancient persia",
+1
+],
+[
+"empires",
+2
+]
+],
+"clash": [
+"cat breeds"
+]
+},
+"Soviet Union": {
+"also": [
+[
+"cold war",
+1
+]
+],
+"clash": [
+"empires"
+]
+},
+"USSR": {
+"also": [
+[
+"cold war",
+1
+],
+[
+"acronyms",
+3
+]
+],
+"clash": []
+},
+"East Germany": {
+"also": [
+[
+"cold war",
+2
+]
+],
+"clash": []
+},
+"West Germany": {
+"also": [
+[
+"cold war",
+2
+]
+],
+"clash": []
+},
+"Siam": {
+"also": [],
+"clash": [
+"cat breeds"
+]
+},
+"Ceylon": {
+"also": [
+[
+"teas",
+2
+]
+],
+"clash": []
+},
+"Zaire": {
+"also": [
+[
+"african currencies",
+4
+]
+],
+"clash": []
+},
+"Abyssinia": {
+"also": [],
+"clash": [
+"cat breeds"
+]
+},
+"Formosa": {
+"also": [],
+"clash": [
+"famous islands"
+]
+},
+"Gold Coast": {
+"also": [
+[
+"australian cities",
+2
+],
+[
+"beach destinations",
+3
+]
+],
+"clash": []
+},
+"Mesopotamia": {
+"also": [
+[
+"ancient civilizations",
+2
+]
+],
+"clash": []
+},
+"Cathay": {
+"also": [],
+"clash": [
+"asian airlines"
+]
+},
+"Gaul": {
+"also": [],
+"clash": [
+"ancient rome",
+"celts"
+]
+},
+"Macedonia": {
+"also": [
+[
+"ancient greece",
+2
+]
+],
+"clash": [
+"european countries"
+]
+},
+"Tanganyika": {
+"also": [],
+"clash": [
+"famous lakes"
+]
+},
+"Muscovy": {
+"also": [
+[
+"ducks",
+3
+]
+],
+"clash": []
+},
+"Hispania": {
+"also": [
+[
+"ancient rome",
+3
+]
+],
+"clash": []
+},
+"Lusitania": {
+"also": [
+[
+"famous ships",
+2
+]
+],
+"clash": []
+},
+"Dacia": {
+"also": [
+[
+"car brands",
+3
+]
+],
+"clash": []
+},
+"Prussia": {
+"also": [],
+"clash": [
+"empires",
+"german states"
+]
+},
+"Ottoman Empire": {
+"also": [
+[
+"ottoman empire",
+1
+],
+[
+"empires",
+1
+]
+],
+"clash": []
+},
+"Austria-Hungary": {
+"also": [
+[
+"empires",
+2
+]
+],
+"clash": [
+"world war i battles"
+]
+},
+"Constantinople": {
+"also": [
+[
+"byzantine empire",
+2
+]
+],
+"clash": [
+"ottoman empire",
+"istanbul landmarks"
+]
+},
+"Byzantium": {
+"also": [
+[
+"byzantine empire",
+2
+],
+[
+"ancient cities",
+2
+]
+],
+"clash": []
+},
+"Madras": {
+"also": [
+[
+"cotton fabrics",
+3
+]
+],
+"clash": [
+"indian food"
+]
+},
+"Stalingrad": {
+"also": [
+[
+"world war ii battles",
+1
+]
+],
+"clash": []
+},
+"Edo": {
+"also": [
+[
+"feudal japan",
+2
+]
+],
+"clash": []
+},
+"Tenochtitlan": {
+"also": [
+[
+"aztecs and maya",
+2
+],
+[
+"ancient cities",
+2
+]
+],
+"clash": []
+},
+"Londinium": {
+"also": [
+[
+"ancient rome",
+3
+]
+],
+"clash": [
+"ancient cities"
+]
+},
+"Salisbury": {
+"also": [
+[
+"british cities",
+2
+]
+],
+"clash": []
+},
+"Gorky": {
+"also": [
+[
+"russian writers",
+3
+]
+],
+"clash": []
+},
+"Yerba Buena": {
+"also": [],
+"clash": [
+"herbs"
+]
+},
+"Benares": {
+"also": [
+[
+"holy cities",
+3
+]
+],
+"clash": []
+},
+"Tsingtao": {
+"also": [
+[
+"beers",
+3
+]
+],
+"clash": []
+},
+"Angora": {
+"also": [
+[
+"wool fabrics",
+2
+]
+],
+"clash": [
+"small pets"
+]
+},
+"Bathurst": {
+"also": [],
+"clash": [
+"australian cities",
+"famous race tracks"
+]
+},
+"Heian-kyo": {
+"also": [
+[
+"feudal japan",
+4
+]
+],
+"clash": []
+},
+"Washington": {
+"also": [
+[
+"us states",
+1
+],
+[
+"us presidents",
+1
+],
+[
+"american cities",
+1
+],
+[
+"capital cities",
+1
+],
+[
+"founding fathers",
+1
+]
+],
+"clash": []
+},
+"Victoria": {
+"also": [
+[
+"australian states and regions",
+1
+],
+[
+"girls' names",
+1
+],
+[
+"famous queens",
+1
+],
+[
+"english monarchs",
+1
+],
+[
+"canadian cities",
+2
+]
+],
+"clash": [
+"london landmarks",
+"victorian era"
+]
+},
+"Darwin": {
+"also": [
+[
+"australian cities",
+1
+],
+[
+"scientists",
+1
+],
+[
+"famous naturalists",
+1
+]
+],
+"clash": [
+"evolution words"
+]
+},
+"Houston": {
+"also": [
+[
+"american cities",
+1
+]
+],
+"clash": [
+"space missions"
+]
+},
+"Seattle": {
+"also": [
+[
+"american cities",
+1
+]
+],
+"clash": []
+},
+"Pennsylvania": {
+"also": [
+[
+"us states",
+1
+]
+],
+"clash": []
+},
+"Virginia": {
+"also": [
+[
+"us states",
+1
+],
+[
+"girls' names",
+2
+]
+],
+"clash": []
+},
+"Carolina": {
+"also": [
+[
+"girls' names",
+2
+]
+],
+"clash": [
+"us states"
+]
+},
+"St Petersburg": {
+"also": [
+[
+"european cities",
+1
+]
+],
+"clash": [
+"american cities"
+]
+},
+"Alexandria": {
+"also": [
+[
+"ancient cities",
+1
+],
+[
+"african cities",
+2
+],
+[
+"port cities",
+2
+]
+],
+"clash": [
+"ancient wonders",
+"ancient egypt"
+]
+},
+"Wellington": {
+"also": [
+[
+"new zealand cities",
+1
+],
+[
+"oceanian cities",
+1
+],
+[
+"famous generals",
+2
+]
+],
+"clash": [
+"boots",
+"napoleonic battles",
+"british food"
+]
+},
+"Columbus": {
+"also": [
+[
+"explorers",
+1
+],
+[
+"american cities",
+2
+]
+],
+"clash": [
+"famous voyages"
+]
+},
+"Lincoln": {
+"also": [
+[
+"us presidents",
+1
+],
+[
+"british cities",
+2
+],
+[
+"american cities",
+3
+],
+[
+"american car brands",
+3
+]
+],
+"clash": []
+},
+"Everest": {
+"also": [
+[
+"himalayan peaks",
+1
+],
+[
+"famous mountains",
+1
+]
+],
+"clash": []
+},
+"Lake Victoria": {
+"also": [
+[
+"famous lakes",
+1
+]
+],
+"clash": []
+},
+"Victoria Falls": {
+"also": [
+[
+"famous waterfalls",
+1
+],
+[
+"african landmarks",
+2
+]
+],
+"clash": []
+},
+"America": {
+"also": [],
+"clash": [
+"north american countries",
+"continents and supercontinents"
+]
+},
+"Tasmania": {
+"also": [
+[
+"australian states and regions",
+1
+],
+[
+"famous islands",
+2
+]
+],
+"clash": []
+},
+"Maryland": {
+"also": [
+[
+"us states",
+1
+]
+],
+"clash": []
+},
+"Louisiana": {
+"also": [
+[
+"us states",
+1
+]
+],
+"clash": []
+},
+"Delaware": {
+"also": [
+[
+"us states",
+1
+]
+],
+"clash": []
+},
+"Adelaide": {
+"also": [
+[
+"australian cities",
+1
+],
+[
+"girls' names",
+3
+]
+],
+"clash": []
+},
+"Brisbane": {
+"also": [
+[
+"australian cities",
+1
+]
+],
+"clash": []
+},
+"Melbourne": {
+"also": [
+[
+"australian cities",
+1
+]
+],
+"clash": []
+},
+"Hobart": {
+"also": [
+[
+"australian cities",
+2
+]
+],
+"clash": []
+},
+"Sydney": {
+"also": [
+[
+"australian cities",
+1
+],
+[
+"unisex names",
+2
+]
+],
+"clash": []
+},
+"Nelson": {
+"also": [
+[
+"new zealand cities",
+3
+],
+[
+"boys' names",
+2
+],
+[
+"wrestling terms",
+3
+]
+],
+"clash": [
+"navy words"
+]
+},
+"Vancouver": {
+"also": [
+[
+"canadian cities",
+1
+]
+],
+"clash": [
+"explorers"
+]
+},
+"Cleveland": {
+"also": [
+[
+"american cities",
+1
+]
+],
+"clash": [
+"us presidents"
+]
+},
+"Denver": {
+"also": [
+[
+"american cities",
+1
+]
+],
+"clash": []
+},
+"Dallas": {
+"also": [
+[
+"american cities",
+1
+]
+],
+"clash": []
+},
+"Pittsburgh": {
+"also": [
+[
+"american cities",
+1
+]
+],
+"clash": []
+},
+"Jackson": {
+"also": [
+[
+"american cities",
+2
+],
+[
+"boys' names",
+2
+],
+[
+"us presidents",
+2
+]
+],
+"clash": []
+},
+"Madison": {
+"also": [
+[
+"american cities",
+2
+],
+[
+"us presidents",
+2
+],
+[
+"girls' names",
+2
+]
+],
+"clash": []
+},
+"Raleigh": {
+"also": [
+[
+"american cities",
+2
+],
+[
+"explorers",
+3
+]
+],
+"clash": []
+},
+"Charlotte": {
+"also": [
+[
+"american cities",
+2
+],
+[
+"girls' names",
+1
+]
+],
+"clash": []
+},
+"Charleston": {
+"also": [
+[
+"american cities",
+2
+],
+[
+"dances",
+2
+],
+[
+"roaring twenties",
+2
+]
+],
+"clash": []
+},
+"Baltimore": {
+"also": [
+[
+"american cities",
+1
+]
+],
+"clash": []
+},
+"Austin": {
+"also": [
+[
+"american cities",
+1
+],
+[
+"boys' names",
+2
+]
+],
+"clash": []
+},
+"Louisville": {
+"also": [
+[
+"american cities",
+2
+]
+],
+"clash": []
+},
+"Cook Islands": {
+"also": [
+[
+"pacific islands",
+2
+]
+],
+"clash": [
+"island nations",
+"explorers"
+]
+},
+"McKinley": {
+"also": [
+[
+"us presidents",
+2
+]
+],
+"clash": [
+"famous mountains"
+]
+},
+"Hudson Bay": {
+"also": [
+[
+"gulfs and bays",
+2
+]
+],
+"clash": []
+},
+"Hudson River": {
+"also": [
+[
+"north american rivers",
+2
+],
+[
+"famous rivers",
+2
+]
+],
+"clash": []
+},
+"Bering Strait": {
+"also": [
+[
+"straits and canals",
+2
+]
+],
+"clash": []
+},
+"Bering Sea": {
+"also": [
+[
+"oceans and seas",
+2
+]
+],
+"clash": []
+},
+"Tasman Sea": {
+"also": [
+[
+"oceans and seas",
+2
+]
+],
+"clash": []
+},
+"Queensland": {
+"also": [
+[
+"australian states and regions",
+1
+]
+],
+"clash": []
+},
+"Alberta": {
+"also": [
+[
+"canadian provinces",
+1
+]
+],
+"clash": []
+},
+"Mount Vernon": {
+"also": [
+[
+"us landmarks",
+3
+]
+],
+"clash": []
+},
+"Jamestown": {
+"also": [
+[
+"colonial america",
+2
+]
+],
+"clash": []
+},
+"Ho Chi Minh City": {
+"also": [
+[
+"asian cities",
+1
+]
+],
+"clash": [
+"famous leaders"
+]
+},
+"Prince Edward Island": {
+"also": [
+[
+"canadian provinces",
+2
+]
+],
+"clash": []
+},
+"Nashville": {
+"also": [
+[
+"american cities",
+1
+]
+],
+"clash": []
+},
+"Jacksonville": {
+"also": [
+[
+"american cities",
+2
+]
+],
+"clash": []
+},
+"Lafayette": {
+"also": [],
+"clash": [
+"american revolution"
+]
+},
+"Mauritius": {
+"also": [
+[
+"island nations",
+2
+],
+[
+"african countries",
+2
+]
+],
+"clash": [
+"beach destinations"
+]
+},
+"Baffin Island": {
+"also": [
+[
+"famous islands",
+3
+]
+],
+"clash": []
+},
+"Barents Sea": {
+"also": [
+[
+"oceans and seas",
+3
+]
+],
+"clash": []
+},
+"Cook Strait": {
+"also": [
+[
+"straits and canals",
+3
+]
+],
+"clash": []
+},
+"Bass Strait": {
+"also": [
+[
+"straits and canals",
+3
+]
+],
+"clash": []
+},
+"Drake Passage": {
+"also": [
+[
+"straits and canals",
+3
+]
+],
+"clash": [
+"famous pirates",
+"explorers"
+]
+},
+"Ross Sea": {
+"also": [
+[
+"oceans and seas",
+3
+],
+[
+"antarctic places",
+3
+]
+],
+"clash": []
+},
+"Strait of Magellan": {
+"also": [
+[
+"straits and canals",
+2
+]
+],
+"clash": [
+"explorers"
+]
+},
+"Pikes Peak": {
+"also": [
+[
+"famous mountains",
+3
+]
+],
+"clash": []
+},
+"Mount Rainier": {
+"also": [
+[
+"famous mountains",
+3
+],
+[
+"famous volcanoes",
+3
+]
+],
+"clash": []
+},
+"Mount Cook": {
+"also": [
+[
+"famous mountains",
+3
+]
+],
+"clash": []
+},
+"Auckland": {
+"also": [
+[
+"new zealand cities",
+1
+],
+[
+"oceanian cities",
+1
+]
+],
+"clash": []
+},
+"Hamilton": {
+"also": [
+[
+"new zealand cities",
+3
+],
+[
+"canadian cities",
+3
+]
+],
+"clash": [
+"founding fathers",
+"formula one drivers"
+]
+},
+"Pretoria": {
+"also": [
+[
+"african capitals",
+2
+],
+[
+"african cities",
+2
+],
+[
+"capital cities",
+2
+]
+],
+"clash": []
+},
+"Durban": {
+"also": [
+[
+"african cities",
+2
+]
+],
+"clash": []
+},
+"Port Elizabeth": {
+"also": [
+[
+"african cities",
+3
+]
+],
+"clash": []
+},
+"Kimberley": {
+"also": [],
+"clash": [
+"girls' names",
+"mining words"
+]
+},
+"Livingstone": {
+"also": [
+[
+"explorers",
+2
+]
+],
+"clash": []
+},
+"Brazzaville": {
+"also": [
+[
+"african capitals",
+3
+],
+[
+"african cities",
+3
+]
+],
+"clash": []
+},
+"Williamsburg": {
+"also": [
+[
+"colonial america",
+3
+]
+],
+"clash": []
+},
+"Fredericksburg": {
+"also": [
+[
+"civil war battles",
+3
+]
+],
+"clash": []
+},
+"Antioch": {
+"also": [
+[
+"ancient cities",
+3
+]
+],
+"clash": []
+},
+"Seychelles": {
+"also": [
+[
+"island nations",
+2
+],
+[
+"african countries",
+2
+]
+],
+"clash": [
+"beach destinations"
+]
+},
+"Weddell Sea": {
+"also": [
+[
+"oceans and seas",
+4
+],
+[
+"antarctic places",
+3
+]
+],
+"clash": []
+},
+"Lake Albert": {
+"also": [
+[
+"famous lakes",
+3
+]
+],
+"clash": []
+},
+"Lake Edward": {
+"also": [
+[
+"famous lakes",
+3
+]
+],
+"clash": []
+},
+"Kosciuszko": {
+"also": [
+[
+"famous mountains",
+3
+]
+],
+"clash": []
+},
+"Napier": {
+"also": [
+[
+"new zealand cities",
+3
+]
+],
+"clash": [
+"famous mathematicians"
+]
+},
+"Caesarea": {
+"also": [
+[
+"ancient cities",
+4
+]
+],
+"clash": []
+},
+"Thessaloniki": {
+"also": [
+[
+"european cities",
+2
+]
+],
+"clash": []
+},
+"Sucre": {
+"also": [
+[
+"south american cities",
+3
+],
+[
+"capital cities",
+3
+]
+],
+"clash": []
+},
+"Fremantle": {
+"also": [
+[
+"australian cities",
+3
+]
+],
+"clash": []
+},
+"Martha's Vineyard": {
+"also": [
+[
+"famous islands",
+3
+]
+],
+"clash": []
+},
+"San Francisco": {
+"also": [
+[
+"american cities",
+1
+]
+],
+"clash": []
+},
+"St Louis": {
+"also": [
+[
+"american cities",
+1
+]
+],
+"clash": []
+},
+"São Paulo": {
+"also": [
+[
+"south american cities",
+1
+]
+],
+"clash": []
+},
+"Mount St Helens": {
+"also": [
+[
+"famous volcanoes",
+2
+],
+[
+"famous mountains",
+2
+]
+],
+"clash": []
+},
+"Lake Louise": {
+"also": [
+[
+"famous lakes",
+3
+]
+],
+"clash": []
+},
+"Jefferson City": {
+"also": [
+[
+"american cities",
+3
+]
+],
+"clash": [
+"us presidents"
+]
+},
+"Cheddar": {
+"also": [
+[
+"cheeses",
+1
+],
+[
+"hard cheeses",
+1
+]
+],
+"clash": []
+},
+"Hamburg": {
+"also": [
+[
+"german cities",
+1
+],
+[
+"european cities",
+1
+],
+[
+"port cities",
+2
+]
+],
+"clash": [
+"fast food"
+]
+},
+"Champagne": {
+"also": [
+[
+"wines",
+1
+],
+[
+"wine regions",
+1
+],
+[
+"french regions",
+2
+]
+],
+"clash": [
+"new year",
+"weddings"
+]
+},
+"Dijon": {
+"also": [
+[
+"french cities",
+2
+],
+[
+"sauces and condiments",
+1
+]
+],
+"clash": []
+},
+"Parma": {
+"also": [
+[
+"italian cities",
+2
+]
+],
+"clash": [
+"cured meats"
+]
+},
+"Bologna": {
+"also": [
+[
+"italian cities",
+1
+]
+],
+"clash": [
+"cured meats",
+"sausages"
+]
+},
+"Frankfurt": {
+"also": [
+[
+"german cities",
+1
+]
+],
+"clash": [
+"sausages"
+]
+},
+"Brussels": {
+"also": [
+[
+"european capitals",
+1
+],
+[
+"capital cities",
+1
+],
+[
+"european cities",
+1
+]
+],
+"clash": [
+"cabbage family"
+]
+},
+"Cognac": {
+"also": [
+[
+"spirits",
+2
+]
+],
+"clash": [
+"french cities"
+]
+},
+"Bordeaux": {
+"also": [
+[
+"wines",
+1
+],
+[
+"red wines",
+1
+],
+[
+"wine regions",
+1
+],
+[
+"french cities",
+1
+]
+],
+"clash": [
+"shades of red"
+]
+},
+"Burgundy": {
+"also": [
+[
+"wines",
+1
+],
+[
+"red wines",
+1
+],
+[
+"shades of red",
+1
+],
+[
+"wine regions",
+1
+],
+[
+"french regions",
+2
+]
+],
+"clash": [
+"shades of purple"
+]
+},
+"Stilton": {
+"also": [
+[
+"blue cheeses",
+1
+],
+[
+"cheeses",
+1
+]
+],
+"clash": []
+},
+"Gouda": {
+"also": [
+[
+"cheeses",
+1
+]
+],
+"clash": []
+},
+"Edam": {
+"also": [
+[
+"cheeses",
+1
+]
+],
+"clash": []
+},
+"Brie": {
+"also": [
+[
+"cheeses",
+1
+],
+[
+"soft cheeses",
+1
+],
+[
+"french cheeses",
+1
+]
+],
+"clash": []
+},
+"Camembert": {
+"also": [
+[
+"soft cheeses",
+1
+],
+[
+"french cheeses",
+1
+],
+[
+"cheeses",
+1
+]
+],
+"clash": []
+},
+"Yorkshire": {
+"also": [
+[
+"english counties",
+1
+]
+],
+"clash": [
+"puddings",
+"terriers"
+]
+},
+"Peking": {
+"also": [],
+"clash": [
+"chinese food",
+"poultry"
+]
+},
+"Manhattan": {
+"also": [
+[
+"cocktails",
+1
+]
+],
+"clash": [
+"new york landmarks"
+]
+},
+"Buffalo": {
+"also": [
+[
+"wild cattle",
+1
+],
+[
+"american cities",
+2
+]
+],
+"clash": [
+"north american animals",
+"barbecue foods"
+]
+},
+"Alaska": {
+"also": [
+[
+"us states",
+1
+]
+],
+"clash": [
+"desserts and sweets"
+]
+},
+"Black Forest": {
+"also": [
+[
+"cakes",
+1
+],
+[
+"famous forests",
+2
+]
+],
+"clash": []
+},
+"Madeira": {
+"also": [
+[
+"wines",
+3
+],
+[
+"famous islands",
+3
+],
+[
+"european holiday regions",
+3
+]
+],
+"clash": [
+"cakes"
+]
+},
+"Marsala": {
+"also": [
+[
+"wines",
+3
+]
+],
+"clash": []
+},
+"Tabasco": {
+"also": [
+[
+"sauces and condiments",
+1
+],
+[
+"mexican states",
+3
+]
+],
+"clash": [
+"chili peppers",
+"spicy foods"
+]
+},
+"Cayenne": {
+"also": [
+[
+"spices",
+1
+],
+[
+"chili peppers",
+1
+]
+],
+"clash": []
+},
+"Worcestershire": {
+"also": [
+[
+"english counties",
+3
+],
+[
+"sauces and condiments",
+1
+]
+],
+"clash": []
+},
+"Wensleydale": {
+"also": [
+[
+"cheeses",
+2
+]
+],
+"clash": []
+},
+"Roquefort": {
+"also": [
+[
+"blue cheeses",
+2
+],
+[
+"french cheeses",
+2
+],
+[
+"cheeses",
+2
+]
+],
+"clash": []
+},
+"Gorgonzola": {
+"also": [
+[
+"blue cheeses",
+1
+],
+[
+"italian cheeses",
+1
+],
+[
+"cheeses",
+1
+]
+],
+"clash": []
+},
+"Emmental": {
+"also": [
+[
+"cheeses",
+2
+],
+[
+"hard cheeses",
+2
+]
+],
+"clash": []
+},
+"Gruyère": {
+"also": [
+[
+"cheeses",
+2
+],
+[
+"hard cheeses",
+2
+]
+],
+"clash": []
+},
+"Lancashire": {
+"also": [
+[
+"english counties",
+2
+],
+[
+"cheeses",
+3
+]
+],
+"clash": [
+"stews"
+]
+},
+"Cornwall": {
+"also": [
+[
+"english counties",
+1
+]
+],
+"clash": [
+"savory pies"
+]
+},
+"Bakewell": {
+"also": [],
+"clash": [
+"pies and tarts"
+]
+},
+"Eccles": {
+"also": [],
+"clash": [
+"cakes"
+]
+},
+"Chelsea": {
+"also": [
+[
+"girls' names",
+3
+]
+],
+"clash": [
+"london landmarks",
+"european soccer clubs"
+]
+},
+"Dundee": {
+"also": [
+[
+"british cities",
+2
+]
+],
+"clash": [
+"cakes"
+]
+},
+"Szechuan": {
+"also": [],
+"clash": [
+"spices",
+"chinese food"
+]
+},
+"Canton": {
+"also": [],
+"clash": [
+"chinese food"
+]
+},
+"Philadelphia": {
+"also": [
+[
+"american cities",
+1
+]
+],
+"clash": [
+"cheeses"
+]
+},
+"Boston": {
+"also": [
+[
+"american cities",
+1
+]
+],
+"clash": []
+},
+"Chicago": {
+"also": [
+[
+"american cities",
+1
+]
+],
+"clash": [
+"pizza styles"
+]
+},
+"Kiev": {
+"also": [
+[
+"european capitals",
+1
+],
+[
+"capital cities",
+1
+]
+],
+"clash": [
+"poultry"
+]
+},
+"Seville": {
+"also": [
+[
+"spanish cities",
+1
+]
+],
+"clash": [
+"citrus fruits"
+]
+},
+"Valencia": {
+"also": [
+[
+"spanish cities",
+1
+]
+],
+"clash": [
+"citrus fruits",
+"rice dishes"
+]
+},
+"Jaffa": {
+"also": [],
+"clash": [
+"citrus fruits",
+"cookies"
+]
+},
+"Satsuma": {
+"also": [
+[
+"citrus fruits",
+1
+]
+],
+"clash": []
+},
+"Holland": {
+"also": [
+[
+"european countries",
+2
+]
+],
+"clash": []
+},
+"Naples": {
+"also": [
+[
+"italian cities",
+1
+]
+],
+"clash": [
+"pizza styles"
+]
+},
+"Genoa": {
+"also": [
+[
+"italian cities",
+2
+]
+],
+"clash": []
+},
+"Berlin": {
+"also": [
+[
+"european capitals",
+1
+],
+[
+"german cities",
+1
+],
+[
+"capital cities",
+1
+]
+],
+"clash": []
+},
+"Vienna": {
+"also": [
+[
+"european capitals",
+1
+],
+[
+"capital cities",
+1
+]
+],
+"clash": [
+"sausages"
+]
+},
+"Java": {
+"also": [
+[
+"indonesian islands",
+1
+],
+[
+"programming languages",
+1
+]
+],
+"clash": [
+"coffee words"
+]
+},
+"Mocha": {
+"also": [
+[
+"coffee drinks",
+1
+],
+[
+"shades of brown",
+2
+]
+],
+"clash": [
+"chocolates"
+]
+},
+"Darjeeling": {
+"also": [
+[
+"teas",
+1
+],
+[
+"indian cities",
+3
+]
+],
+"clash": []
+},
+"Assam": {
+"also": [
+[
+"teas",
+1
+],
+[
+"indian states",
+2
+]
+],
+"clash": []
+},
+"Bourbon": {
+"also": [
+[
+"spirits",
+1
+],
+[
+"royal houses",
+3
+]
+],
+"clash": [
+"cookies",
+"french kings"
+]
+},
+"Tequila": {
+"also": [
+[
+"spirits",
+1
+],
+[
+"national spirits",
+1
+]
+],
+"clash": []
+},
+"Rioja": {
+"also": [
+[
+"red wines",
+2
+],
+[
+"wines",
+2
+],
+[
+"wine regions",
+2
+],
+[
+"spanish regions",
+3
+]
+],
+"clash": []
+},
+"Chianti": {
+"also": [
+[
+"red wines",
+2
+],
+[
+"wines",
+2
+],
+[
+"wine regions",
+2
+]
+],
+"clash": []
+},
+"Prosecco": {
+"also": [
+[
+"white wines",
+2
+],
+[
+"wines",
+1
+]
+],
+"clash": []
+},
+"Chablis": {
+"also": [
+[
+"white wines",
+2
+],
+[
+"wines",
+2
+],
+[
+"wine regions",
+3
+]
+],
+"clash": []
+},
+"Beaujolais": {
+"also": [
+[
+"red wines",
+2
+],
+[
+"wines",
+2
+],
+[
+"wine regions",
+3
+]
+],
+"clash": []
+},
+"Cheshire": {
+"also": [
+[
+"english counties",
+2
+],
+[
+"cheeses",
+3
+]
+],
+"clash": [
+"fairy tale characters"
+]
+},
+"Monterey": {
+"also": [],
+"clash": [
+"cheeses"
+]
+},
+"Bath": {
+"also": [
+[
+"british cities",
+2
+],
+[
+"bath time",
+1
+],
+[
+"bathroom",
+1
+]
+],
+"clash": []
+},
+"Melton Mowbray": {
+"also": [],
+"clash": [
+"savory pies"
+]
+},
+"Arbroath": {
+"also": [],
+"clash": [
+"fish to eat"
+]
+},
+"Banbury": {
+"also": [],
+"clash": [
+"cakes"
+]
+},
+"Kendal": {
+"also": [],
+"clash": [
+"candy"
+]
+},
+"Tangier": {
+"also": [
+[
+"african cities",
+2
+],
+[
+"port cities",
+3
+]
+],
+"clash": [
+"citrus fruits"
+]
+},
+"Bayonne": {
+"also": [],
+"clash": [
+"cured meats"
+]
+},
+"Damascus": {
+"also": [
+[
+"middle eastern cities",
+1
+],
+[
+"ancient cities",
+2
+],
+[
+"capital cities",
+2
+]
+],
+"clash": []
+},
+"Lyon": {
+"also": [
+[
+"french cities",
+1
+]
+],
+"clash": []
+},
+"Florence": {
+"also": [
+[
+"italian cities",
+1
+],
+[
+"girls' names",
+2
+]
+],
+"clash": []
+},
+"Milan": {
+"also": [
+[
+"italian cities",
+1
+]
+],
+"clash": []
+},
+"Linz": {
+"also": [],
+"clash": [
+"cakes"
+]
+},
+"Kona": {
+"also": [],
+"clash": [
+"coffee words"
+]
+},
+"Yunnan": {
+"also": [],
+"clash": [
+"teas"
+]
+},
+"Armagnac": {
+"also": [
+[
+"spirits",
+3
+]
+],
+"clash": []
+},
+"Calvados": {
+"also": [
+[
+"spirits",
+3
+]
+],
+"clash": []
+},
+"Pilsen": {
+"also": [],
+"clash": [
+"beers"
+]
+},
+"Asti": {
+"also": [],
+"clash": [
+"wines"
+]
+},
+"Barolo": {
+"also": [
+[
+"red wines",
+3
+],
+[
+"wines",
+3
+]
+],
+"clash": []
+},
+"Sauternes": {
+"also": [
+[
+"white wines",
+3
+],
+[
+"wines",
+3
+]
+],
+"clash": []
+},
+"Médoc": {
+"also": [
+[
+"red wines",
+3
+],
+[
+"wine regions",
+3
+]
+],
+"clash": []
+},
+"Caerphilly": {
+"also": [
+[
+"cheeses",
+3
+]
+],
+"clash": []
+},
+"Gloucester": {
+"also": [
+[
+"cheeses",
+3
+],
+[
+"british cities",
+2
+]
+],
+"clash": []
+},
+"Leicester": {
+"also": [
+[
+"british cities",
+2
+]
+],
+"clash": [
+"cheeses"
+]
+},
+"Limburg": {
+"also": [],
+"clash": [
+"cheeses"
+]
+},
+"Asiago": {
+"also": [
+[
+"italian cheeses",
+3
+],
+[
+"cheeses",
+3
+]
+],
+"clash": []
+},
+"La Mancha": {
+"also": [],
+"clash": [
+"cheeses",
+"spanish regions"
+]
+},
+"Jarlsberg": {
+"also": [
+[
+"cheeses",
+3
+]
+],
+"clash": []
+},
+"Colby": {
+"also": [
+[
+"cheeses",
+3
+]
+],
+"clash": []
+},
+"Pontefract": {
+"also": [],
+"clash": [
+"candy"
+]
+},
+"Westphalia": {
+"also": [],
+"clash": [
+"german states",
+"cured meats"
+]
+},
+"Smithfield": {
+"also": [],
+"clash": [
+"cured meats"
+]
+},
+"Kalamata": {
+"also": [],
+"clash": [
+"pickles and preserves"
+]
+},
+"Vidalia": {
+"also": [],
+"clash": [
+"onion family"
+]
+},
+"Bermuda": {
+"also": [
+[
+"famous islands",
+2
+]
+],
+"clash": [
+"pants and shorts"
+]
+},
+"Lima": {
+"also": [
+[
+"capital cities",
+1
+],
+[
+"south american cities",
+1
+]
+],
+"clash": [
+"beans and pulses"
+]
+},
+"Mahón": {
+"also": [],
+"clash": [
+"sauces and condiments"
+]
+},
+"Béarn": {
+"also": [],
+"clash": [
+"french sauces"
+]
+},
+"Tokaj": {
+"also": [],
+"clash": [
+"wines"
+]
+},
+"Munster": {
+"also": [
+[
+"cheeses",
+3
+]
+],
+"clash": []
+},
+"Neufchâtel": {
+"also": [
+[
+"cheeses",
+3
+]
+],
+"clash": []
+},
+"Appenzell": {
+"also": [
+[
+"cheeses",
+3
+]
+],
+"clash": []
+},
+"Taleggio": {
+"also": [
+[
+"cheeses",
+3
+],
+[
+"soft cheeses",
+3
+],
+[
+"italian cheeses",
+3
+]
+],
+"clash": []
+},
+"Dover": {
+"also": [
+[
+"port cities",
+2
+]
+],
+"clash": [
+"flatfish"
+]
+},
+"Cumberland": {
+"also": [],
+"clash": [
+"sausages"
+]
+},
+"Kobe": {
+"also": [
+[
+"japanese cities",
+2
+]
+],
+"clash": [
+"cuts of meat",
+"basketball legends"
+]
+},
+"Châteauneuf-du-Pape": {
+"also": [
+[
+"red wines",
+3
+],
+[
+"wines",
+3
+]
+],
+"clash": []
+},
+"Pont-l'Évêque": {
+"also": [
+[
+"cheeses",
+4
+]
+],
+"clash": []
+},
+"Nice": {
+"also": [
+[
+"french cities",
+1
+]
+],
+"clash": [
+"words for good",
+"words for pretty"
+]
+},
+"Reading": {
+"also": [
+[
+"british cities",
+2
+]
+],
+"clash": [
+"school subjects"
+]
+},
+"Split": {
+"also": [
+[
+"bowling terms",
+2
+],
+[
+"gymnastics moves",
+2
+]
+],
+"clash": [
+"desserts and sweets"
+]
+},
+"Cork": {
+"also": [
+[
+"european cities",
+2
+]
+],
+"clash": [
+"wine words",
+"things that float",
+"natural materials"
+]
+},
+"Mobile": {
+"also": [
+[
+"american cities",
+2
+]
+],
+"clash": [
+"phone words",
+"handheld gadgets"
+]
+},
+"Jersey": {
+"also": [
+[
+"famous islands",
+2
+]
+],
+"clash": [
+"tops",
+"cattle breeds",
+"knitwear",
+"sports clothing"
+]
+},
+"Phoenix": {
+"also": [
+[
+"american cities",
+1
+],
+[
+"mythical creatures",
+1
+],
+[
+"winged beasts",
+1
+],
+[
+"constellations",
+3
+]
+],
+"clash": []
+},
+"Orange": {
+"also": [
+[
+"citrus fruits",
+1
+],
+[
+"shades of orange",
+1
+]
+],
+"clash": [
+"fruits"
+]
+},
+"Cologne": {
+"also": [
+[
+"german cities",
+1
+]
+],
+"clash": [
+"toiletries",
+"perfume notes"
+]
+},
+"Cardigan": {
+"also": [
+[
+"knitwear",
+1
+],
+[
+"tops",
+2
+]
+],
+"clash": []
+},
+"Sandwich": {
+"also": [
+[
+"lunchbox",
+1
+],
+[
+"picnic basket",
+1
+]
+],
+"clash": [
+"sandwiches",
+"fast food",
+"words named after people"
+]
+},
+"Boring": {
+"also": [],
+"clash": [
+"words for bad"
+]
+},
+"Paradise": {
+"also": [],
+"clash": [
+"afterlife words"
+]
+},
+"Hope": {
+"also": [
+[
+"names that are virtues",
+1
+]
+],
+"clash": []
+},
+"Eureka": {
+"also": [],
+"clash": [
+"famous discoveries"
+]
+},
+"Concord": {
+"also": [],
+"clash": [
+"american revolution"
+]
+},
+"Boulder": {
+"also": [],
+"clash": [
+"mountain features",
+"climbing words"
+]
+},
+"Aurora": {
+"also": [
+[
+"sky phenomena",
+1
+],
+[
+"girls' names",
+2
+]
+],
+"clash": [
+"roman gods"
+]
+},
+"Golden": {
+"also": [],
+"clash": [
+"metallic colors"
+]
+},
+"Mesa": {
+"also": [
+[
+"desert features",
+2
+]
+],
+"clash": []
+},
+"Pueblo": {
+"also": [
+[
+"traditional dwellings",
+2
+]
+],
+"clash": []
+},
+"Liberty": {
+"also": [],
+"clash": [
+"names that are virtues"
+]
+},
+"Independence": {
+"also": [],
+"clash": [
+"historic documents"
+]
+},
+"Enterprise": {
+"also": [],
+"clash": [
+"famous ships",
+"business words"
+]
+},
+"Hull": {
+"also": [
+[
+"ship parts",
+1
+],
+[
+"british cities",
+2
+],
+[
+"port cities",
+3
+]
+],
+"clash": []
+},
+"Bury": {
+"also": [],
+"clash": [
+"tombs and burials"
+]
+},
+"Deal": {
+"also": [
+[
+"card game words",
+2
+]
+],
+"clash": [
+"business words"
+]
+},
+"Battle": {
+"also": [
+[
+"war words",
+1
+]
+],
+"clash": []
+},
+"March": {
+"also": [
+[
+"months",
+1
+],
+[
+"army words",
+2
+],
+[
+"names that are months",
+3
+]
+],
+"clash": []
+},
+"Sale": {
+"also": [
+[
+"shopping words",
+1
+]
+],
+"clash": []
+},
+"Rugby": {
+"also": [
+[
+"team ball sports",
+1
+]
+],
+"clash": []
+},
+"Derby": {
+"also": [
+[
+"famous horse races",
+1
+],
+[
+"hats",
+2
+]
+],
+"clash": [
+"shoes"
+]
+},
+"Bikini": {
+"also": [
+[
+"swimwear",
+1
+]
+],
+"clash": [
+"famous islands"
+]
+},
+"Limerick": {
+"also": [
+[
+"poetry forms",
+1
+]
+],
+"clash": []
+},
+"Marathon": {
+"also": [
+[
+"track events",
+1
+],
+[
+"running words",
+1
+],
+[
+"ancient battles",
+2
+]
+],
+"clash": [
+"famous marathons"
+]
+},
+"Spa": {
+"also": [
+[
+"famous race tracks",
+3
+]
+],
+"clash": [
+"spa"
+]
+},
+"Shanghai": {
+"also": [
+[
+"chinese cities",
+1
+],
+[
+"asian cities",
+1
+]
+],
+"clash": []
+},
+"Magenta": {
+"also": [
+[
+"shades of pink",
+1
+],
+[
+"shades of purple",
+2
+]
+],
+"clash": []
+},
+"Mayo": {
+"also": [
+[
+"sauces and condiments",
+1
+]
+],
+"clash": []
+},
+"Commerce": {
+"also": [
+[
+"business words",
+2
+]
+],
+"clash": []
+},
+"Ware": {
+"also": [],
+"clash": [
+"pottery words"
+]
+},
+"Settle": {
+"also": [],
+"clash": [
+"seating"
+]
+},
+"Leek": {
+"also": [
+[
+"onion family",
+1
+]
+],
+"clash": []
+},
+"Street": {
+"also": [],
+"clash": [
+"road types",
+"parts of a town"
+]
+},
+"Mold": {
+"also": [],
+"clash": [
+"factory"
+]
+},
+"Eye": {
+"also": [
+[
+"face",
+1
+]
+],
+"clash": []
+},
+"Barking": {
+"also": [],
+"clash": [
+"animal sounds"
+]
+},
+"Ham": {
+"also": [
+[
+"cured meats",
+1
+]
+],
+"clash": []
+},
+"Wool": {
+"also": [
+[
+"natural materials",
+1
+],
+[
+"fabrics",
+1
+]
+],
+"clash": []
+},
+"Badminton": {
+"also": [
+[
+"racket sports",
+1
+]
+],
+"clash": []
+},
+"Guernsey": {
+"also": [
+[
+"cattle breeds",
+2
+],
+[
+"knitwear",
+3
+],
+[
+"famous islands",
+2
+]
+],
+"clash": []
+},
+"Jasper": {
+"also": [
+[
+"gemstones",
+2
+],
+[
+"boys' names",
+2
+]
+],
+"clash": []
+},
+"Sandy": {
+"also": [
+[
+"unisex names",
+2
+]
+],
+"clash": [
+"beach"
+]
+},
+"Delft": {
+"also": [],
+"clash": [
+"pottery words"
+]
+},
+"York": {
+"also": [
+[
+"british cities",
+1
+]
+],
+"clash": []
+},
+"Delhi": {
+"also": [
+[
+"indian cities",
+1
+],
+[
+"asian cities",
+1
+]
+],
+"clash": []
+},
+"Orleans": {
+"also": [
+[
+"french cities",
+2
+]
+],
+"clash": []
+},
+"Hampshire": {
+"also": [
+[
+"english counties",
+1
+]
+],
+"clash": []
+},
+"Brunswick": {
+"also": [],
+"clash": [
+"german cities"
+]
+},
+"Amsterdam": {
+"also": [
+[
+"european capitals",
+1
+],
+[
+"capital cities",
+1
+],
+[
+"european cities",
+1
+]
+],
+"clash": []
+},
+"Forest": {
+"also": [],
+"clash": [
+"forests"
+]
+},
+"Spain": {
+"also": [
+[
+"european countries",
+1
+],
+[
+"spanish-speaking countries",
+1
+],
+[
+"western european countries",
+1
+]
+],
+"clash": []
+},
+"Hebrides": {
+"also": [
+[
+"famous islands",
+2
+]
+],
+"clash": []
+},
+"Britain": {
+"also": [],
+"clash": [
+"european countries",
+"island nations"
+]
+},
+"Bedford": {
+"also": [
+[
+"british cities",
+3
+]
+],
+"clash": []
+},
+"Plymouth": {
+"also": [
+[
+"british cities",
+2
+],
+[
+"port cities",
+2
+]
+],
+"clash": []
+},
+"London": {
+"also": [
+[
+"european capitals",
+1
+],
+[
+"capital cities",
+1
+],
+[
+"british cities",
+1
+]
+],
+"clash": []
+},
+"Rochelle": {
+"also": [],
+"clash": [
+"girls' names"
+]
+},
+"Granada": {
+"also": [
+[
+"spanish cities",
+2
+]
+],
+"clash": []
+},
+"Westminster": {
+"also": [],
+"clash": [
+"london landmarks"
+]
+},
+"Brighton": {
+"also": [
+[
+"british cities",
+2
+]
+],
+"clash": [
+"beach destinations"
+]
+},
+"Romney": {
+"also": [],
+"clash": [
+"sheep breeds"
+]
+},
+"Cross": {
+"also": [
+[
+"symbols",
+1
+]
+],
+"clash": [
+"2d shapes",
+"angry words"
+]
+},
+"Bern": {
+"also": [
+[
+"european capitals",
+2
+],
+[
+"capital cities",
+2
+]
+],
+"clash": []
+},
+"Ulm": {
+"also": [],
+"clash": [
+"german cities"
+]
+},
+"Milton": {
+"also": [
+[
+"poets",
+3
+]
+],
+"clash": []
+},
+"Castle": {
+"also": [],
+"clash": [
+"castles",
+"chess terms"
+]
+},
+"tractor": {
+"also": [
+[
+"farm vehicles",
+1
+]
+],
+"clash": []
+},
+"barn": {
+"also": [
+[
+"farm buildings",
+1
+]
+],
+"clash": [
+"animal homes"
+]
+},
+"cow": {
+"also": [
+[
+"farm animals",
+1
+],
+[
+"female animals",
+1
+]
+],
+"clash": [
+"sea___"
+]
+},
+"pig": {
+"also": [
+[
+"farm animals",
+1
+],
+[
+"chinese zodiac",
+1
+]
+],
+"clash": []
+},
+"sheep": {
+"also": [
+[
+"farm animals",
+1
+],
+[
+"irregular plurals",
+2
+],
+[
+"chinese zodiac",
+2
+]
+],
+"clash": []
+},
+"chicken": {
+"also": [
+[
+"farm animals",
+1
+],
+[
+"poultry",
+1
+]
+],
+"clash": [
+"scared words",
+"chicken breeds"
+]
+},
+"hen": {
+"also": [
+[
+"farm animals",
+1
+],
+[
+"female animals",
+1
+],
+[
+"poultry",
+2
+]
+],
+"clash": [
+"___house",
+"chicken breeds"
+]
+},
+"rooster": {
+"also": [
+[
+"farm animals",
+1
+],
+[
+"male animals",
+1
+],
+[
+"chinese zodiac",
+1
+]
+],
+"clash": []
+},
+"horse": {
+"also": [
+[
+"farm animals",
+1
+],
+[
+"working animals",
+1
+],
+[
+"chinese zodiac",
+1
+],
+[
+"horse family",
+1
+],
+[
+"gymnastics apparatus",
+2
+],
+[
+"sea___",
+1
+],
+[
+"___fly",
+2
+]
+],
+"clash": [
+"chess terms",
+"___man",
+"___box"
+]
+},
+"goat": {
+"also": [
+[
+"farm animals",
+1
+],
+[
+"chinese zodiac",
+1
+]
+],
+"clash": [
+"wild goats and sheep"
+]
+},
+"duck": {
+"also": [
+[
+"farm animals",
+1
+],
+[
+"poultry",
+1
+],
+[
+"cricket terms",
+2
+],
+[
+"body actions",
+2
+]
+],
+"clash": [
+"ducks"
+]
+},
+"farmer": {
+"also": [
+[
+"outdoor jobs",
+1
+]
+],
+"clash": []
+},
+"hay": {
+"also": [],
+"clash": [
+"grasses and reeds"
+]
+},
+"pitchfork": {
+"also": [
+[
+"garden tools",
+2
+]
+],
+"clash": []
+},
+"scarecrow": {
+"also": [],
+"clash": [
+"halloween",
+"garden features",
+"hidden birds"
+]
+},
+"corn": {
+"also": [
+[
+"grains",
+1
+],
+[
+"vegetables",
+2
+],
+[
+"andean crops",
+3
+]
+],
+"clash": [
+"foot___"
+]
+},
+"egg": {
+"also": [
+[
+"breakfast foods",
+1
+],
+[
+"easter",
+1
+],
+[
+"baking ingredients",
+1
+],
+[
+"dairy and eggs",
+1
+]
+],
+"clash": []
+},
+"milk": {
+"also": [
+[
+"drinks",
+1
+],
+[
+"milk products",
+1
+],
+[
+"baking ingredients",
+1
+],
+[
+"dairy and eggs",
+1
+]
+],
+"clash": [
+"___man"
+]
+},
+"calf": {
+"also": [
+[
+"baby animals",
+1
+],
+[
+"arms and legs",
+1
+],
+[
+"muscles",
+2
+]
+],
+"clash": []
+},
+"lamb": {
+"also": [
+[
+"baby animals",
+1
+],
+[
+"meat and seafood",
+1
+],
+[
+"easter",
+2
+]
+],
+"clash": [
+"cuts of meat"
+]
+},
+"piglet": {
+"also": [
+[
+"baby animals",
+1
+]
+],
+"clash": []
+},
+"chick": {
+"also": [
+[
+"baby animals",
+1
+],
+[
+"easter",
+2
+]
+],
+"clash": []
+},
+"bull": {
+"also": [
+[
+"male animals",
+1
+],
+[
+"stock market words",
+2
+]
+],
+"clash": [
+"bullfighting words",
+"zodiac signs"
+]
+},
+"donkey": {
+"also": [
+[
+"farm animals",
+1
+],
+[
+"working animals",
+1
+],
+[
+"horse family",
+1
+]
+],
+"clash": []
+},
+"farmhouse": {
+"also": [
+[
+"houses and homes",
+2
+]
+],
+"clash": []
+},
+"cattle": {
+"also": [
+[
+"farm animals",
+1
+]
+],
+"clash": []
+},
+"harvest": {
+"also": [
+[
+"signs of autumn",
+2
+]
+],
+"clash": [
+"thanksgiving"
+]
+},
+"silo": {
+"also": [
+[
+"farm buildings",
+1
+],
+[
+"industrial buildings",
+2
+]
+],
+"clash": []
+},
+"plow": {
+"also": [],
+"clash": [
+"farm vehicles",
+"snow___",
+"garden tools"
+]
+},
+"harvester": {
+"also": [
+[
+"farm vehicles",
+1
+]
+],
+"clash": []
+},
+"trough": {
+"also": [],
+"clash": [
+"forecast words"
+]
+},
+"stable": {
+"also": [
+[
+"farm buildings",
+1
+],
+[
+"animal homes",
+2
+]
+],
+"clash": []
+},
+"pigsty": {
+"also": [
+[
+"farm buildings",
+2
+],
+[
+"animal homes",
+1
+]
+],
+"clash": []
+},
+"coop": {
+"also": [
+[
+"animal homes",
+2
+],
+[
+"farm buildings",
+2
+]
+],
+"clash": []
+},
+"henhouse": {
+"also": [
+[
+"farm buildings",
+2
+],
+[
+"animal homes",
+2
+]
+],
+"clash": []
+},
+"meadow": {
+"also": [],
+"clash": [
+"flat landscapes",
+"grasses and reeds"
+]
+},
+"crop": {
+"also": [
+[
+"horse tack",
+2
+],
+[
+"bird body parts",
+3
+],
+[
+"photography words",
+2
+],
+[
+"hairstyles",
+2
+]
+],
+"clash": [
+"tops",
+"hairstyles"
+]
+},
+"wheat": {
+"also": [
+[
+"grains",
+1
+]
+],
+"clash": [
+"flours"
+]
+},
+"barley": {
+"also": [
+[
+"grains",
+1
+]
+],
+"clash": []
+},
+"oats": {
+"also": [
+[
+"grains",
+1
+],
+[
+"breakfast cereals",
+2
+]
+],
+"clash": []
+},
+"dairy": {
+"also": [
+[
+"food groups",
+1
+]
+],
+"clash": []
+},
+"straw": {
+"also": [
+[
+"natural materials",
+2
+],
+[
+"shades of yellow",
+3
+],
+[
+"___berry",
+1
+]
+],
+"clash": [
+"grasses and reeds",
+"___man",
+"drinks"
+]
+},
+"manure": {
+"also": [],
+"clash": [
+"things that smell bad",
+"smelly things"
+]
+},
+"fertilizer": {
+"also": [],
+"clash": [
+"gardening verbs"
+]
+},
+"seed": {
+"also": [
+[
+"plant parts",
+1
+]
+],
+"clash": []
+},
+"orchard": {
+"also": [],
+"clash": [
+"fruit trees"
+]
+},
+"fence": {
+"also": [
+[
+"garden features",
+1
+]
+],
+"clash": [
+"fencing terms",
+"equestrian events",
+"crimes"
+]
+},
+"gate": {
+"also": [
+[
+"garden features",
+2
+],
+[
+"airport words",
+1
+]
+],
+"clash": [
+"windows and doors",
+"parts of a door"
+]
+},
+"windmill": {
+"also": [],
+"clash": [
+"renewable energy",
+"building toys"
+]
+},
+"foal": {
+"also": [
+[
+"baby animals",
+1
+]
+],
+"clash": []
+},
+"ox": {
+"also": [
+[
+"farm animals",
+2
+],
+[
+"working animals",
+1
+],
+[
+"chinese zodiac",
+1
+],
+[
+"irregular plurals",
+2
+]
+],
+"clash": [
+"wild cattle"
+]
+},
+"mule": {
+"also": [
+[
+"horse family",
+1
+],
+[
+"working animals",
+1
+],
+[
+"shoes",
+2
+]
+],
+"clash": []
+},
+"sheepdog": {
+"also": [
+[
+"herding dogs",
+1
+],
+[
+"working animals",
+2
+]
+],
+"clash": []
+},
+"grain": {
+"also": [],
+"clash": [
+"types of wood"
+]
+},
+"wheelbarrow": {
+"also": [
+[
+"garden tools",
+1
+]
+],
+"clash": []
+},
+"greenhouse": {
+"also": [
+[
+"garden features",
+1
+]
+],
+"clash": [
+"climate words"
+]
+},
+"herd": {
+"also": [
+[
+"collective nouns",
+2
+]
+],
+"clash": []
+},
+"flock": {
+"also": [
+[
+"collective nouns",
+1
+]
+],
+"clash": []
+},
+"shepherd": {
+"also": [
+[
+"outdoor jobs",
+2
+]
+],
+"clash": [
+"christmas",
+"herding dogs"
+]
+},
+"wool": {
+"also": [
+[
+"natural materials",
+1
+],
+[
+"fabrics",
+1
+]
+],
+"clash": [
+"animal coverings",
+"wool fabrics"
+]
+},
+"turkey": {
+"also": [
+[
+"poultry",
+1
+],
+[
+"farm animals",
+1
+],
+[
+"thanksgiving",
+1
+],
+[
+"christmas",
+2
+],
+[
+"bowling terms",
+2
+]
+],
+"clash": [
+"game birds",
+"asian countries",
+"flags with crescents",
+"red and white flags"
+]
+},
+"goose": {
+"also": [
+[
+"farm animals",
+1
+],
+[
+"poultry",
+1
+],
+[
+"geese and swans",
+1
+],
+[
+"___berry",
+1
+]
+],
+"clash": []
+},
+"combine": {
+"also": [
+[
+"farm vehicles",
+1
+]
+],
+"clash": []
+},
+"sty": {
+"also": [],
+"clash": [
+"eye parts"
+]
+},
+"paddock": {
+"also": [
+[
+"motor racing",
+3
+],
+[
+"horse racing terms",
+3
+]
+],
+"clash": []
+},
+"trailer": {
+"also": [
+[
+"film words",
+2
+]
+],
+"clash": [
+"rvs and campers",
+"truck types"
+]
+},
+"well": {
+"also": [],
+"clash": [
+"words for good"
+]
+},
+"collie": {
+"also": [
+[
+"herding dogs",
+1
+],
+[
+"dog breeds",
+1
+]
+],
+"clash": []
+},
+"sickle": {
+"also": [],
+"clash": [
+"garden tools",
+"symbols"
+]
+},
+"scythe": {
+"also": [],
+"clash": [
+"garden tools"
+]
+},
+"hoe": {
+"also": [
+[
+"garden tools",
+1
+],
+[
+"back___",
+2
+]
+],
+"clash": []
+},
+"rake": {
+"also": [
+[
+"garden tools",
+1
+]
+],
+"clash": []
+},
+"sprinkler": {
+"also": [],
+"clash": [
+"garden tools",
+"garden features"
+]
+},
+"shearing": {
+"also": [],
+"clash": [
+"sheep breeds"
+]
+},
+"udder": {
+"also": [
+[
+"animal body parts",
+2
+]
+],
+"clash": []
+},
+"weathervane": {
+"also": [
+[
+"weather instruments",
+2
+],
+[
+"roof parts",
+3
+]
+],
+"clash": []
+},
+"llama": {
+"also": [
+[
+"andean animals",
+1
+],
+[
+"south american animals",
+1
+]
+],
+"clash": []
+},
+"alpaca": {
+"also": [
+[
+"andean animals",
+1
+],
+[
+"south american animals",
+1
+]
+],
+"clash": [
+"wool fabrics"
+]
+},
+"beehive": {
+"also": [
+[
+"hairstyles",
+2
+],
+[
+"animal homes",
+1
+]
+],
+"clash": [
+"bees and wasps"
+]
+},
+"cowbell": {
+"also": [
+[
+"percussion instruments",
+2
+]
+],
+"clash": []
+},
+"dung": {
+"also": [],
+"clash": [
+"smelly things"
+]
+},
+"ewe": {
+"also": [
+[
+"female animals",
+1
+],
+[
+"sounds like a letter",
+2
+],
+[
+"homophones",
+2
+]
+],
+"clash": []
+},
+"ram": {
+"also": [
+[
+"male animals",
+1
+]
+],
+"clash": [
+"computer parts",
+"zodiac signs"
+]
+},
+"sow": {
+"also": [
+[
+"female animals",
+1
+],
+[
+"gardening verbs",
+2
+],
+[
+"homographs",
+3
+]
+],
+"clash": []
+},
+"boar": {
+"also": [
+[
+"male animals",
+1
+],
+[
+"game meats",
+2
+]
+],
+"clash": [
+"european animals"
+]
+},
+"cockerel": {
+"also": [
+[
+"male animals",
+2
+]
+],
+"clash": []
+},
+"polytunnel": {
+"also": [
+[
+"garden features",
+3
+]
+],
+"clash": []
+},
+"ploughman": {
+"also": [],
+"clash": [
+"british food"
+]
+},
+"crop duster": {
+"also": [],
+"clash": [
+"aircraft types"
+]
+},
+"fallow": {
+"also": [],
+"clash": [
+"deer"
+]
+},
+"steer": {
+"also": [],
+"clash": [
+"driving words"
+]
+},
+"combine harvester": {
+"also": [
+[
+"farm vehicles",
+1
+]
+],
+"clash": []
+},
+"chicken coop": {
+"also": [
+[
+"animal homes",
+2
+],
+[
+"farm buildings",
+2
+]
+],
+"clash": []
+},
+"waiter": {
+"also": [
+[
+"service jobs",
+1
+],
+[
+"restaurant words",
+1
+],
+[
+"head___",
+3
+]
+],
+"clash": []
+},
+"waitress": {
+"also": [
+[
+"service jobs",
+1
+],
+[
+"restaurant words",
+1
+]
+],
+"clash": []
+},
+"menu": {
+"also": [
+[
+"restaurant words",
+1
+],
+[
+"diner",
+1
+]
+],
+"clash": [
+"software words"
+]
+},
+"chef": {
+"also": [
+[
+"restaurant words",
+1
+],
+[
+"kitchen brigade",
+1
+],
+[
+"food jobs",
+1
+]
+],
+"clash": []
+},
+"table": {
+"also": [
+[
+"restaurant words",
+1
+],
+[
+"furniture",
+1
+],
+[
+"dining room",
+1
+]
+],
+"clash": [
+"tables and desks",
+"math terms"
+]
+},
+"napkin": {
+"also": [
+[
+"table setting",
+1
+],
+[
+"dining room",
+2
+],
+[
+"paper goods",
+1
+],
+[
+"picnic basket",
+2
+]
+],
+"clash": []
+},
+"fork": {
+"also": [
+[
+"table setting",
+1
+],
+[
+"kitchen utensils",
+1
+],
+[
+"bicycle parts",
+2
+]
+],
+"clash": [
+"giving directions"
+]
+},
+"knife": {
+"also": [
+[
+"table setting",
+1
+],
+[
+"kitchen utensils",
+1
+],
+[
+"things that cut",
+1
+]
+],
+"clash": [
+"historic weapons"
+]
+},
+"spoon": {
+"also": [
+[
+"table setting",
+1
+],
+[
+"kitchen utensils",
+1
+]
+],
+"clash": []
+},
+"plate": {
+"also": [
+[
+"table setting",
+1
+],
+[
+"baseball terms",
+2
+]
+],
+"clash": [
+"armor",
+"earthquake words",
+"layers of the earth",
+"foot___"
+]
+},
+"bill": {
+"also": [
+[
+"restaurant words",
+1
+],
+[
+"money words",
+2
+],
+[
+"bird body parts",
+1
+],
+[
+"us government",
+3
+],
+[
+"___board",
+2
+]
+],
+"clash": [
+"boys' names"
+]
+},
+"tip": {
+"also": [
+[
+"restaurant words",
+1
+]
+],
+"clash": [
+"money words"
+]
+},
+"reservation": {
+"also": [
+[
+"restaurant words",
+1
+],
+[
+"hotel",
+2
+]
+],
+"clash": []
+},
+"appetizer": {
+"also": [
+[
+"courses of a meal",
+1
+],
+[
+"restaurant words",
+1
+]
+],
+"clash": []
+},
+"dessert": {
+"also": [
+[
+"courses of a meal",
+1
+],
+[
+"desserts and sweets",
+1
+]
+],
+"clash": []
+},
+"tablecloth": {
+"also": [
+[
+"table setting",
+2
+],
+[
+"dining room",
+2
+]
+],
+"clash": []
+},
+"bowl": {
+"also": [
+[
+"table setting",
+1
+],
+[
+"cricket terms",
+2
+],
+[
+"containers",
+2
+]
+],
+"clash": [
+"bowling terms"
+]
+},
+"glass": {
+"also": [
+[
+"table setting",
+1
+],
+[
+"see-through materials",
+1
+],
+[
+"materials",
+1
+]
+],
+"clash": [
+"things made of glass",
+"sea___"
+]
+},
+"wine list": {
+"also": [
+[
+"restaurant words",
+1
+]
+],
+"clash": []
+},
+"check": {
+"also": [
+[
+"restaurant words",
+1
+],
+[
+"chess terms",
+1
+],
+[
+"banking words",
+2
+],
+[
+"rain___",
+2
+]
+],
+"clash": [
+"patterns"
+]
+},
+"booking": {
+"also": [
+[
+"restaurant words",
+1
+],
+[
+"hotel",
+2
+]
+],
+"clash": []
+},
+"host": {
+"also": [],
+"clash": [
+"party games",
+"birthdays"
+]
+},
+"dishwasher": {
+"also": [
+[
+"kitchen appliances",
+1
+],
+[
+"washing up",
+1
+],
+[
+"kitchen brigade",
+3
+]
+],
+"clash": []
+},
+"starter": {
+"also": [
+[
+"courses of a meal",
+1
+]
+],
+"clash": [
+"car parts",
+"fire___"
+]
+},
+"entrée": {
+"also": [
+[
+"courses of a meal",
+1
+],
+[
+"french phrases in english",
+3
+]
+],
+"clash": []
+},
+"main course": {
+"also": [
+[
+"courses of a meal",
+1
+]
+],
+"clash": []
+},
+"wine": {
+"also": [
+[
+"drinks",
+1
+]
+],
+"clash": []
+},
+"booth": {
+"also": [
+[
+"diner",
+1
+]
+],
+"clash": []
+},
+"bar": {
+"also": [
+[
+"nightclub words",
+1
+],
+[
+"music terms",
+2
+],
+[
+"___man",
+3
+]
+],
+"clash": [
+"gymnastics apparatus",
+"courtroom words",
+"chocolates"
+]
+},
+"bartender": {
+"also": [
+[
+"service jobs",
+1
+],
+[
+"nightclub words",
+2
+]
+],
+"clash": []
+},
+"cocktail": {
+"also": [
+[
+"nightclub words",
+2
+]
+],
+"clash": [
+"cocktails"
+]
+},
+"course": {
+"also": [
+[
+"university words",
+2
+]
+],
+"clash": [
+"golf terms"
+]
+},
+"takeout": {
+"also": [],
+"clash": [
+"fast food"
+]
+},
+"salt": {
+"also": [
+[
+"chemical compounds",
+2
+],
+[
+"table setting",
+2
+],
+[
+"in the pantry",
+1
+],
+[
+"sea___",
+2
+]
+],
+"clash": [
+"dietary minerals",
+"salty foods"
+]
+},
+"pepper": {
+"also": [
+[
+"spices",
+1
+],
+[
+"vegetables",
+2
+],
+[
+"in the pantry",
+1
+],
+[
+"table setting",
+2
+],
+[
+"black___",
+2
+]
+],
+"clash": [
+"chili peppers"
+]
+},
+"buffet": {
+"also": [
+[
+"hotel",
+2
+]
+],
+"clash": [
+"meals of the day"
+]
+},
+"cutlery": {
+"also": [
+[
+"table setting",
+1
+],
+[
+"kitchen",
+2
+]
+],
+"clash": []
+},
+"sommelier": {
+"also": [
+[
+"wine words",
+2
+],
+[
+"food jobs",
+2
+]
+],
+"clash": []
+},
+"sous chef": {
+"also": [
+[
+"kitchen brigade",
+1
+],
+[
+"food jobs",
+2
+]
+],
+"clash": []
+},
+"busboy": {
+"also": [
+[
+"service jobs",
+2
+]
+],
+"clash": []
+},
+"candle": {
+"also": [
+[
+"candle words",
+1
+],
+[
+"___light",
+2
+]
+],
+"clash": [
+"birthdays",
+"christmas",
+"things that glow"
+]
+},
+"doggy bag": {
+"also": [
+[
+"restaurant words",
+2
+]
+],
+"clash": []
+},
+"high chair": {
+"also": [
+[
+"baby gear",
+1
+]
+],
+"clash": []
+},
+"ketchup": {
+"also": [
+[
+"sauces and condiments",
+1
+]
+],
+"clash": [
+"fast food"
+]
+},
+"grill": {
+"also": [
+[
+"cooking methods",
+1
+]
+],
+"clash": [
+"barbecue foods",
+"cookware"
+]
+},
+"stove": {
+"also": [
+[
+"kitchen appliances",
+1
+],
+[
+"kitchen",
+1
+]
+],
+"clash": []
+},
+"carafe": {
+"also": [
+[
+"containers",
+3
+],
+[
+"table setting",
+3
+]
+],
+"clash": []
+},
+"corkscrew": {
+"also": [
+[
+"kitchen utensils",
+2
+],
+[
+"wine words",
+2
+]
+],
+"clash": [
+"curves and spirals"
+]
+},
+"silverware": {
+"also": [
+[
+"table setting",
+1
+]
+],
+"clash": []
+},
+"steak knife": {
+"also": [
+[
+"table setting",
+2
+]
+],
+"clash": []
+},
+"wine glass": {
+"also": [
+[
+"table setting",
+1
+],
+[
+"things made of glass",
+1
+]
+],
+"clash": []
+},
+"pitcher": {
+"also": [
+[
+"baseball terms",
+1
+]
+],
+"clash": [
+"containers"
+]
+},
+"maître d'": {
+"also": [
+[
+"restaurant words",
+2
+],
+[
+"french phrases in english",
+3
+]
+],
+"clash": []
+},
+"diner": {
+"also": [],
+"clash": [
+"diner"
+]
+},
+"head chef": {
+"also": [
+[
+"kitchen brigade",
+1
+]
+],
+"clash": []
+},
+"salt shaker": {
+"also": [
+[
+"table setting",
+2
+]
+],
+"clash": []
+},
+"line cook": {
+"also": [
+[
+"kitchen brigade",
+2
+]
+],
+"clash": []
+},
+"decanter": {
+"also": [
+[
+"wine words",
+3
+]
+],
+"clash": []
+},
+"place setting": {
+"also": [
+[
+"table setting",
+1
+]
+],
+"clash": []
+},
+"ramekin": {
+"also": [
+[
+"cookware",
+3
+]
+],
+"clash": []
+},
+"cover charge": {
+"also": [
+[
+"nightclub words",
+3
+]
+],
+"clash": []
+},
+"kitchen porter": {
+"also": [
+[
+"kitchen brigade",
+3
+]
+],
+"clash": []
+},
+"finger bowl": {
+"also": [
+[
+"table setting",
+3
+]
+],
+"clash": []
+},
+"amuse-bouche": {
+"also": [
+[
+"courses of a meal",
+3
+],
+[
+"french phrases in english",
+3
+]
+],
+"clash": []
+},
+"corkage": {
+"also": [
+[
+"wine words",
+4
+]
+],
+"clash": []
+},
+"peppermill": {
+"also": [
+[
+"table setting",
+2
+],
+[
+"kitchen utensils",
+2
+]
+],
+"clash": []
+},
+"prix fixe": {
+"also": [
+[
+"french phrases in english",
+3
+],
+[
+"restaurant words",
+3
+]
+],
+"clash": []
+},
+"toque": {
+"also": [],
+"clash": [
+"hats"
+]
+},
+"expo": {
+"also": [
+[
+"kitchen brigade",
+4
+]
+],
+"clash": []
+},
+"pass": {
+"also": [],
+"clash": [
+"soccer terms",
+"american football terms",
+"ticket words"
+]
+},
+"à la carte": {
+"also": [
+[
+"french phrases in english",
+2
+],
+[
+"restaurant words",
+2
+]
+],
+"clash": []
+},
+"hors d'oeuvre": {
+"also": [
+[
+"courses of a meal",
+2
+],
+[
+"french phrases in english",
+2
+]
+],
+"clash": []
+},
+"table d'hôte": {
+"also": [
+[
+"french phrases in english",
+4
+]
+],
+"clash": []
+},
+"tasting menu": {
+"also": [
+[
+"restaurant words",
+2
+]
+],
+"clash": []
+},
+"cook": {
+"also": [
+[
+"kitchen brigade",
+2
+],
+[
+"food jobs",
+1
+],
+[
+"___book",
+1
+]
+],
+"clash": [
+"cooking methods"
+]
+},
+"kitchen": {
+"also": [],
+"clash": [
+"kitchen brigade"
+]
+},
+"cart": {
+"also": [
+[
+"shopping words",
+2
+]
+],
+"clash": [
+"horse-drawn vehicles",
+"hand___"
+]
+},
+"trolley": {
+"also": [],
+"clash": [
+"public transportation"
+]
+},
+"basket": {
+"also": [
+[
+"shopping words",
+2
+],
+[
+"___ball",
+1
+]
+],
+"clash": [
+"picnic basket",
+"basketball terms"
+]
+},
+"checkout": {
+"also": [
+[
+"shopping words",
+1
+]
+],
+"clash": []
+},
+"cashier": {
+"also": [
+[
+"service jobs",
+1
+],
+[
+"shopping words",
+2
+]
+],
+"clash": []
+},
+"aisle": {
+"also": [
+[
+"weddings",
+2
+],
+[
+"church parts",
+2
+]
+],
+"clash": [
+"in-flight words"
+]
+},
+"shelf": {
+"also": [],
+"clash": [
+"storage furniture",
+"ice features"
+]
+},
+"receipt": {
+"also": [
+[
+"shopping words",
+1
+],
+[
+"in a wallet",
+1
+]
+],
+"clash": []
+},
+"fruit": {
+"also": [
+[
+"food groups",
+1
+],
+[
+"___fly",
+2
+],
+[
+"___cake",
+2
+]
+],
+"clash": []
+},
+"vegetables": {
+"also": [
+[
+"food groups",
+1
+]
+],
+"clash": []
+},
+"groceries": {
+"also": [
+[
+"shopping words",
+1
+]
+],
+"clash": []
+},
+"till": {
+"also": [
+[
+"shopping words",
+1
+]
+],
+"clash": [
+"gardening verbs"
+]
+},
+"cash register": {
+"also": [
+[
+"shopping words",
+1
+]
+],
+"clash": []
+},
+"coupon": {
+"also": [
+[
+"shopping words",
+1
+]
+],
+"clash": []
+},
+"loyalty card": {
+"also": [
+[
+"in a wallet",
+2
+]
+],
+"clash": []
+},
+"plastic bag": {
+"also": [],
+"clash": [
+"pollution words",
+"bins and recycling"
+]
+},
+"butcher": {
+"also": [
+[
+"food jobs",
+1
+],
+[
+"trades",
+2
+]
+],
+"clash": [
+"butcher shop"
+]
+},
+"freezer": {
+"also": [
+[
+"kitchen appliances",
+1
+]
+],
+"clash": [
+"cold things"
+]
+},
+"cereal": {
+"also": [
+[
+"breakfast foods",
+1
+]
+],
+"clash": [
+"grains"
+]
+},
+"discount": {
+"also": [
+[
+"shopping words",
+1
+]
+],
+"clash": []
+},
+"parking lot": {
+"also": [
+[
+"parking words",
+1
+]
+],
+"clash": []
+},
+"car park": {
+"also": [
+[
+"parking words",
+1
+]
+],
+"clash": []
+},
+"sale": {
+"also": [
+[
+"shopping words",
+1
+]
+],
+"clash": []
+},
+"cash": {
+"also": [
+[
+"money words",
+1
+],
+[
+"in a wallet",
+1
+]
+],
+"clash": [
+"___box"
+]
+},
+"voucher": {
+"also": [
+[
+"shopping words",
+2
+]
+],
+"clash": []
+},
+"fishmonger": {
+"also": [
+[
+"food jobs",
+2
+]
+],
+"clash": []
+},
+"fridge": {
+"also": [
+[
+"kitchen appliances",
+1
+],
+[
+"cold things",
+1
+],
+[
+"kitchen",
+1
+]
+],
+"clash": []
+},
+"canned goods": {
+"also": [
+[
+"in the pantry",
+1
+],
+[
+"emergency supplies",
+2
+]
+],
+"clash": []
+},
+"special offer": {
+"also": [
+[
+"shopping words",
+2
+],
+[
+"advertising words",
+2
+]
+],
+"clash": []
+},
+"detergent": {
+"also": [
+[
+"cleaning products",
+1
+],
+[
+"laundry words",
+1
+]
+],
+"clash": []
+},
+"toiletries": {
+"also": [],
+"clash": [
+"toiletries"
+]
+},
+"pharmacy": {
+"also": [],
+"clash": [
+"pharmacy"
+]
+},
+"free sample": {
+"also": [
+[
+"advertising words",
+3
+]
+],
+"clash": []
+},
+"change": {
+"also": [
+[
+"money words",
+1
+]
+],
+"clash": []
+},
+"pick and mix": {
+"also": [
+[
+"candy",
+3
+]
+],
+"clash": []
+},
+"shopping list": {
+"also": [
+[
+"shopping words",
+1
+]
+],
+"clash": []
+},
+"shopper": {
+"also": [
+[
+"shopping words",
+1
+]
+],
+"clash": []
+},
+"price tag": {
+"also": [
+[
+"shopping words",
+1
+]
+],
+"clash": []
+},
+"customer service": {
+"also": [
+[
+"shopping words",
+2
+]
+],
+"clash": []
+},
+"best before": {
+"also": [],
+"clash": [
+"in the pantry"
+]
+},
+"stamp": {
+"also": [
+[
+"mail words",
+1
+]
+],
+"clash": [
+"collecting hobbies",
+"body actions"
+]
+},
+"letter": {
+"also": [
+[
+"mail words",
+1
+],
+[
+"___box",
+2
+]
+],
+"clash": [
+"alphabets and writing"
+]
+},
+"parcel": {
+"also": [
+[
+"mail words",
+1
+]
+],
+"clash": []
+},
+"package": {
+"also": [
+[
+"mail words",
+1
+]
+],
+"clash": []
+},
+"envelope": {
+"also": [
+[
+"mail words",
+1
+],
+[
+"paper goods",
+1
+],
+[
+"stationery",
+1
+]
+],
+"clash": []
+},
+"postcard": {
+"also": [
+[
+"mail words",
+1
+],
+[
+"souvenirs",
+2
+]
+],
+"clash": []
+},
+"mailbox": {
+"also": [
+[
+"mail words",
+1
+],
+[
+"street furniture",
+2
+]
+],
+"clash": []
+},
+"mail": {
+"also": [
+[
+"mail words",
+1
+],
+[
+"___box",
+1
+],
+[
+"___man",
+2
+],
+[
+"black___",
+1
+]
+],
+"clash": [
+"armor"
+]
+},
+"mailman": {
+"also": [
+[
+"mail words",
+1
+],
+[
+"service jobs",
+2
+]
+],
+"clash": []
+},
+"postman": {
+"also": [
+[
+"mail words",
+1
+],
+[
+"service jobs",
+2
+]
+],
+"clash": []
+},
+"postage": {
+"also": [
+[
+"mail words",
+1
+]
+],
+"clash": []
+},
+"zip code": {
+"also": [
+[
+"mail words",
+1
+]
+],
+"clash": []
+},
+"address": {
+"also": [
+[
+"mail words",
+1
+],
+[
+"___book",
+2
+]
+],
+"clash": [
+"internet words"
+]
+},
+"postbox": {
+"also": [
+[
+"street furniture",
+2
+],
+[
+"mail words",
+1
+]
+],
+"clash": []
+},
+"post": {
+"also": [
+[
+"mail words",
+1
+],
+[
+"social media words",
+1
+],
+[
+"___man",
+2
+],
+[
+"___box",
+2
+]
+],
+"clash": []
+},
+"mail carrier": {
+"also": [
+[
+"mail words",
+2
+]
+],
+"clash": []
+},
+"postal worker": {
+"also": [
+[
+"mail words",
+2
+]
+],
+"clash": []
+},
+"counter": {
+"also": [
+[
+"game pieces",
+2
+]
+],
+"clash": []
+},
+"clerk": {
+"also": [
+[
+"office jobs",
+2
+]
+],
+"clash": []
+},
+"postmark": {
+"also": [
+[
+"mail words",
+2
+]
+],
+"clash": []
+},
+"PO Box": {
+"also": [
+[
+"mail words",
+2
+]
+],
+"clash": []
+},
+"postcode": {
+"also": [
+[
+"mail words",
+1
+]
+],
+"clash": []
+},
+"return address": {
+"also": [
+[
+"mail words",
+2
+]
+],
+"clash": []
+},
+"airmail": {
+"also": [
+[
+"mail words",
+2
+]
+],
+"clash": []
+},
+"air mail": {
+"also": [
+[
+"mail words",
+2
+]
+],
+"clash": []
+},
+"first class": {
+"also": [],
+"clash": [
+"ticket words",
+"in-flight words"
+]
+},
+"tracking number": {
+"also": [
+[
+"mail words",
+2
+]
+],
+"clash": []
+},
+"mailbag": {
+"also": [
+[
+"mail words",
+2
+]
+],
+"clash": []
+},
+"delivery": {
+"also": [
+[
+"mail words",
+2
+]
+],
+"clash": [
+"childbirth words"
+]
+},
+"courier": {
+"also": [
+[
+"fonts",
+3
+]
+],
+"clash": [
+"service jobs"
+]
+},
+"bubble wrap": {
+"also": [
+[
+"things that pop",
+1
+]
+],
+"clash": []
+},
+"letterbox": {
+"also": [
+[
+"parts of a door",
+2
+],
+[
+"mail words",
+1
+]
+],
+"clash": []
+},
+"registered mail": {
+"also": [
+[
+"mail words",
+3
+]
+],
+"clash": []
+},
+"recorded delivery": {
+"also": [
+[
+"mail words",
+3
+]
+],
+"clash": []
+},
+"certified mail": {
+"also": [
+[
+"mail words",
+3
+]
+],
+"clash": []
+},
+"customs form": {
+"also": [],
+"clash": [
+"airport words"
+]
+},
+"van": {
+"also": [],
+"clash": [
+"delivery vehicles"
+]
+},
+"packing tape": {
+"also": [
+[
+"adhesives",
+2
+]
+],
+"clash": []
+},
+"string": {
+"also": [
+[
+"cords and strings",
+1
+],
+[
+"junk drawer",
+2
+]
+],
+"clash": [
+"string instruments"
+]
+},
+"pigeonhole": {
+"also": [],
+"clash": [
+"hidden birds"
+]
+},
+"telegram": {
+"also": [
+[
+"old ways to communicate",
+1
+]
+],
+"clash": [
+"social media platforms"
+]
+},
+"mail truck": {
+"also": [
+[
+"delivery vehicles",
+1
+]
+],
+"clash": []
+},
+"passport form": {
+"also": [
+[
+"travel documents",
+3
+]
+],
+"clash": []
+},
+"signature": {
+"also": [],
+"clash": [
+"legal documents"
+]
+},
+"book": {
+"also": [],
+"clash": [
+"parts of a book"
+]
+},
+"librarian": {
+"also": [],
+"clash": [
+"arts jobs"
+]
+},
+"bookshelf": {
+"also": [
+[
+"storage furniture",
+1
+],
+[
+"living room",
+2
+]
+],
+"clash": []
+},
+"library card": {
+"also": [
+[
+"in a wallet",
+2
+]
+],
+"clash": []
+},
+"bookmark": {
+"also": [
+[
+"internet words",
+2
+]
+],
+"clash": []
+},
+"bookcase": {
+"also": [
+[
+"storage furniture",
+1
+]
+],
+"clash": []
+},
+"loan": {
+"also": [
+[
+"banking words",
+1
+]
+],
+"clash": []
+},
+"due date": {
+"also": [
+[
+"pregnancy words",
+2
+]
+],
+"clash": []
+},
+"fine": {
+"also": [],
+"clash": [
+"words for good",
+"punishments"
+]
+},
+"encyclopedia": {
+"also": [],
+"clash": [
+"book genres"
+]
+},
+"dictionary": {
+"also": [],
+"clash": [
+"book genres"
+]
+},
+"magazine": {
+"also": [],
+"clash": [
+"modern weapons",
+"newspaper words"
+]
+},
+"fiction": {
+"also": [
+[
+"book genres",
+1
+]
+],
+"clash": []
+},
+"nonfiction": {
+"also": [
+[
+"book genres",
+1
+]
+],
+"clash": []
+},
+"biography": {
+"also": [
+[
+"book genres",
+1
+]
+],
+"clash": []
+},
+"paperback": {
+"also": [
+[
+"publishing words",
+1
+]
+],
+"clash": []
+},
+"hardback": {
+"also": [
+[
+"publishing words",
+1
+]
+],
+"clash": []
+},
+"hardcover": {
+"also": [
+[
+"publishing words",
+1
+]
+],
+"clash": []
+},
+"volume": {
+"also": [],
+"clash": [
+"hearing words",
+"sound qualities"
+]
+},
+"bookworm": {
+"also": [],
+"clash": [
+"insect life cycle",
+"words for expert"
+]
+},
+"study": {
+"also": [
+[
+"home office",
+2
+]
+],
+"clash": [
+"school subjects"
+]
+},
+"microfilm": {
+"also": [
+[
+"retro tech",
+3
+]
+],
+"clash": []
+},
+"spine": {
+"also": [
+[
+"bones",
+1
+],
+[
+"parts of a book",
+1
+]
+],
+"clash": []
+},
+"textbook": {
+"also": [
+[
+"classroom items",
+1
+]
+],
+"clash": []
+},
+"reading lamp": {
+"also": [
+[
+"lights and lamps",
+2
+]
+],
+"clash": []
+},
+"ISBN": {
+"also": [
+[
+"publishing words",
+2
+]
+],
+"clash": []
+},
+"Kindle": {
+"also": [
+[
+"handheld gadgets",
+2
+]
+],
+"clash": [
+"fire words"
+]
+},
+"e-reader": {
+"also": [
+[
+"handheld gadgets",
+2
+]
+],
+"clash": []
+},
+"manuscript": {
+"also": [],
+"clash": [
+"publishing words"
+]
+},
+"archive": {
+"also": [],
+"clash": [
+"computer actions"
+]
+},
+"journal": {
+"also": [],
+"clash": [
+"newspaper words"
+]
+},
+"newspaper": {
+"also": [
+[
+"newspaper words",
+1
+]
+],
+"clash": []
+},
+"quiet": {
+"also": [
+[
+"quiet things",
+2
+]
+],
+"clash": [
+"calm words"
+]
+},
+"silence": {
+"also": [],
+"clash": [
+"quiet things"
+]
+},
+"reader": {
+"also": [],
+"clash": [
+"publishing words"
+]
+},
+"desk": {
+"also": [
+[
+"tables and desks",
+1
+],
+[
+"home office",
+1
+],
+[
+"furniture",
+1
+]
+],
+"clash": []
+},
+"ladder": {
+"also": [],
+"clash": [
+"things with legs"
+]
+},
+"computer": {
+"also": [
+[
+"home office",
+1
+]
+],
+"clash": []
+},
+"photocopier": {
+"also": [
+[
+"home office",
+3
+]
+],
+"clash": []
+},
+"coffee": {
+"also": [
+[
+"hot drinks",
+1
+],
+[
+"black___",
+2
+],
+[
+"___cake",
+2
+]
+],
+"clash": [
+"___house"
+]
+},
+"espresso": {
+"also": [
+[
+"coffee drinks",
+1
+]
+],
+"clash": []
+},
+"latte": {
+"also": [
+[
+"coffee drinks",
+1
+]
+],
+"clash": []
+},
+"cappuccino": {
+"also": [
+[
+"coffee drinks",
+1
+]
+],
+"clash": []
+},
+"tea": {
+"also": [
+[
+"hot drinks",
+1
+],
+[
+"meals of the day",
+2
+],
+[
+"black___",
+2
+],
+[
+"___cake",
+2
+]
+],
+"clash": [
+"teas"
+]
+},
+"hot chocolate": {
+"also": [
+[
+"hot drinks",
+1
+]
+],
+"clash": []
+},
+"croissant": {
+"also": [
+[
+"french pastries",
+1
+],
+[
+"pastries",
+1
+],
+[
+"breakfast foods",
+1
+]
+],
+"clash": []
+},
+"muffin": {
+"also": [
+[
+"breakfast foods",
+2
+]
+],
+"clash": [
+"cakes",
+"breads"
+]
+},
+"cake": {
+"also": [
+[
+"desserts and sweets",
+1
+]
+],
+"clash": []
+},
+"sandwich": {
+"also": [
+[
+"lunchbox",
+1
+],
+[
+"picnic basket",
+1
+]
+],
+"clash": [
+"sandwiches"
+]
+},
+"barista": {
+"also": [
+[
+"coffee words",
+1
+],
+[
+"food jobs",
+2
+]
+],
+"clash": []
+},
+"cup": {
+"also": [
+[
+"table setting",
+2
+],
+[
+"trophies and prizes",
+2
+],
+[
+"___board",
+1
+],
+[
+"___cake",
+1
+]
+],
+"clash": [
+"containers"
+]
+},
+"mug": {
+"also": [],
+"clash": [
+"crimes"
+]
+},
+"sugar": {
+"also": [
+[
+"sweeteners",
+1
+],
+[
+"baking ingredients",
+1
+]
+],
+"clash": []
+},
+"americano": {
+"also": [
+[
+"coffee drinks",
+1
+]
+],
+"clash": []
+},
+"mocha": {
+"also": [
+[
+"coffee drinks",
+1
+],
+[
+"shades of brown",
+2
+]
+],
+"clash": []
+},
+"macchiato": {
+"also": [
+[
+"coffee drinks",
+1
+]
+],
+"clash": []
+},
+"flat white": {
+"also": [
+[
+"coffee drinks",
+1
+]
+],
+"clash": []
+},
+"scone": {
+"also": [
+[
+"british food",
+1
+]
+],
+"clash": []
+},
+"panini": {
+"also": [
+[
+"sandwiches",
+1
+]
+],
+"clash": []
+},
+"bagel": {
+"also": [
+[
+"breads",
+1
+],
+[
+"breakfast foods",
+2
+]
+],
+"clash": []
+},
+"saucer": {
+"also": [
+[
+"table setting",
+1
+]
+],
+"clash": []
+},
+"teaspoon": {
+"also": [
+[
+"volume units",
+2
+],
+[
+"kitchen utensils",
+2
+]
+],
+"clash": []
+},
+"cream": {
+"also": [
+[
+"milk products",
+1
+],
+[
+"toppings",
+1
+],
+[
+"dairy and eggs",
+1
+],
+[
+"sun___",
+2
+]
+],
+"clash": []
+},
+"froth": {
+"also": [],
+"clash": [
+"coffee words"
+]
+},
+"foam": {
+"also": [],
+"clash": [
+"coffee words"
+]
+},
+"syrup": {
+"also": [
+[
+"toppings",
+2
+],
+[
+"sweeteners",
+2
+]
+],
+"clash": []
+},
+"decaf": {
+"also": [
+[
+"coffee words",
+1
+]
+],
+"clash": []
+},
+"coffee machine": {
+"also": [
+[
+"kitchen appliances",
+1
+]
+],
+"clash": []
+},
+"espresso machine": {
+"also": [
+[
+"kitchen appliances",
+2
+]
+],
+"clash": []
+},
+"coffee beans": {
+"also": [
+[
+"coffee words",
+1
+]
+],
+"clash": []
+},
+"teapot": {
+"also": [],
+"clash": [
+"containers"
+]
+},
+"wifi": {
+"also": [
+[
+"internet words",
+1
+],
+[
+"networking",
+2
+]
+],
+"clash": []
+},
+"laptop": {
+"also": [
+[
+"home office",
+1
+]
+],
+"clash": [
+"computer parts"
+]
+},
+"iced coffee": {
+"also": [
+[
+"coffee drinks",
+1
+]
+],
+"clash": []
+},
+"smoothie": {
+"also": [],
+"clash": [
+"juices"
+]
+},
+"cookie": {
+"also": [
+[
+"internet words",
+2
+]
+],
+"clash": []
+},
+"cinnamon roll": {
+"also": [
+[
+"pastries",
+1
+]
+],
+"clash": []
+},
+"toast": {
+"also": [
+[
+"breakfast foods",
+1
+]
+],
+"clash": []
+},
+"breakfast": {
+"also": [
+[
+"meals of the day",
+1
+]
+],
+"clash": []
+},
+"brunch": {
+"also": [
+[
+"meals of the day",
+1
+]
+],
+"clash": []
+},
+"oat milk": {
+"also": [
+[
+"types of milk",
+1
+]
+],
+"clash": []
+},
+"chai": {
+"also": [
+[
+"teas",
+1
+]
+],
+"clash": []
+},
+"chai latte": {
+"also": [
+[
+"teas",
+2
+]
+],
+"clash": []
+},
+"toastie": {
+"also": [
+[
+"sandwiches",
+2
+]
+],
+"clash": []
+},
+"grinder": {
+"also": [
+[
+"coffee words",
+2
+]
+],
+"clash": []
+},
+"filter": {
+"also": [
+[
+"coffee words",
+2
+]
+],
+"clash": [
+"social media words"
+]
+},
+"French press": {
+"also": [
+[
+"coffee words",
+2
+]
+],
+"clash": []
+},
+"sofa": {
+"also": [
+[
+"seating",
+1
+],
+[
+"living room",
+1
+]
+],
+"clash": []
+},
+"frappé": {
+"also": [
+[
+"coffee drinks",
+2
+]
+],
+"clash": []
+},
+"flapjack": {
+"also": [],
+"clash": [
+"breakfast foods"
+]
+},
+"biscotti": {
+"also": [
+[
+"cookies",
+2
+]
+],
+"clash": []
+},
+"soy milk": {
+"also": [
+[
+"types of milk",
+1
+]
+],
+"clash": []
+},
+"almond milk": {
+"also": [
+[
+"types of milk",
+1
+]
+],
+"clash": []
+},
+"matcha": {
+"also": [
+[
+"teas",
+2
+]
+],
+"clash": []
+},
+"herbal tea": {
+"also": [
+[
+"teas",
+1
+]
+],
+"clash": []
+},
+"crumpet": {
+"also": [
+[
+"british food",
+1
+],
+[
+"breakfast foods",
+2
+]
+],
+"clash": []
+},
+"teacake": {
+"also": [],
+"clash": [
+"cakes"
+]
+},
+"cheesecake": {
+"also": [
+[
+"cakes",
+1
+],
+[
+"desserts and sweets",
+1
+]
+],
+"clash": []
+},
+"sweetener": {
+"also": [
+[
+"sweeteners",
+1
+]
+],
+"clash": []
+},
+"cinnamon": {
+"also": [
+[
+"spices",
+1
+]
+],
+"clash": []
+},
+"doughnut": {
+"also": [
+[
+"desserts and sweets",
+1
+]
+],
+"clash": [
+"fast food"
+]
+},
+"waffle": {
+"also": [
+[
+"breakfast foods",
+1
+]
+],
+"clash": []
+},
+"pancake": {
+"also": [
+[
+"breakfast foods",
+1
+]
+],
+"clash": []
+},
+"milkshake": {
+"also": [
+[
+"diner",
+1
+],
+[
+"fast food",
+2
+]
+],
+"clash": []
+},
+"pain au chocolat": {
+"also": [
+[
+"french pastries",
+1
+],
+[
+"pastries",
+1
+]
+],
+"clash": []
+},
+"cortado": {
+"also": [
+[
+"coffee drinks",
+2
+]
+],
+"clash": []
+},
+"ristretto": {
+"also": [
+[
+"coffee drinks",
+3
+]
+],
+"clash": []
+},
+"affogato": {
+"also": [
+[
+"coffee drinks",
+3
+],
+[
+"frozen desserts",
+3
+]
+],
+"clash": []
+},
+"café au lait": {
+"also": [
+[
+"coffee drinks",
+2
+]
+],
+"clash": []
+},
+"latte art": {
+"also": [
+[
+"coffee words",
+2
+]
+],
+"clash": []
+},
+"terrace": {
+"also": [],
+"clash": [
+"house styles",
+"garden features"
+]
+},
+"bread": {
+"also": [
+[
+"food groups",
+2
+]
+],
+"clash": []
+},
+"loaf": {
+"also": [],
+"clash": [
+"breads"
+]
+},
+"baker": {
+"also": [
+[
+"food jobs",
+1
+],
+[
+"surnames that are jobs",
+2
+]
+],
+"clash": []
+},
+"oven": {
+"also": [
+[
+"kitchen appliances",
+1
+],
+[
+"kitchen",
+1
+]
+],
+"clash": [
+"___bird"
+]
+},
+"flour": {
+"also": [
+[
+"baking ingredients",
+1
+]
+],
+"clash": []
+},
+"dough": {
+"also": [
+[
+"money slang",
+2
+]
+],
+"clash": []
+},
+"bun": {
+"also": [
+[
+"hairstyles",
+1
+]
+],
+"clash": [
+"breads"
+]
+},
+"baguette": {
+"also": [
+[
+"breads",
+1
+],
+[
+"french food",
+1
+]
+],
+"clash": []
+},
+"cupcake": {
+"also": [
+[
+"cakes",
+1
+],
+[
+"party supplies",
+3
+]
+],
+"clash": []
+},
+"donut": {
+"also": [
+[
+"desserts and sweets",
+1
+]
+],
+"clash": []
+},
+"pie": {
+"also": [
+[
+"pies and tarts",
+1
+]
+],
+"clash": [
+"savory pies",
+"math terms"
+]
+},
+"yeast": {
+"also": [
+[
+"baking ingredients",
+1
+],
+[
+"microbes",
+2
+]
+],
+"clash": []
+},
+"roll": {
+"also": [
+[
+"breads",
+1
+]
+],
+"clash": [
+"things that roll"
+]
+},
+"tart": {
+"also": [
+[
+"pies and tarts",
+1
+]
+],
+"clash": []
+},
+"biscuit": {
+"also": [
+[
+"cookies",
+1
+]
+],
+"clash": []
+},
+"pretzel": {
+"also": [
+[
+"snacks",
+1
+],
+[
+"breads",
+2
+]
+],
+"clash": []
+},
+"brioche": {
+"also": [
+[
+"breads",
+1
+],
+[
+"french pastries",
+2
+]
+],
+"clash": []
+},
+"sourdough": {
+"also": [
+[
+"breads",
+1
+]
+],
+"clash": [
+"fermented foods"
+]
+},
+"rye": {
+"also": [
+[
+"grains",
+1
+],
+[
+"breads",
+2
+],
+[
+"flours",
+2
+]
+],
+"clash": []
+},
+"whole wheat": {
+"also": [
+[
+"flours",
+2
+]
+],
+"clash": [
+"breads"
+]
+},
+"éclair": {
+"also": [
+[
+"french pastries",
+1
+],
+[
+"pastries",
+1
+]
+],
+"clash": []
+},
+"meringue": {
+"also": [
+[
+"desserts and sweets",
+1
+]
+],
+"clash": []
+},
+"rolling pin": {
+"also": [
+[
+"kitchen utensils",
+1
+]
+],
+"clash": []
+},
+"mixing bowl": {
+"also": [
+[
+"kitchen utensils",
+1
+]
+],
+"clash": []
+},
+"whisk": {
+"also": [
+[
+"kitchen utensils",
+1
+]
+],
+"clash": []
+},
+"baking tray": {
+"also": [
+[
+"cookware",
+1
+]
+],
+"clash": []
+},
+"kneading": {
+"also": [
+[
+"baking words",
+1
+]
+],
+"clash": []
+},
+"icing": {
+"also": [
+[
+"baking words",
+1
+],
+[
+"toppings",
+2
+]
+],
+"clash": []
+},
+"frosting": {
+"also": [
+[
+"toppings",
+2
+]
+],
+"clash": []
+},
+"sprinkles": {
+"also": [
+[
+"toppings",
+1
+]
+],
+"clash": []
+},
+"crust": {
+"also": [
+[
+"layers of the earth",
+1
+]
+],
+"clash": [
+"pizza styles"
+]
+},
+"birthday cake": {
+"also": [
+[
+"birthdays",
+1
+],
+[
+"cakes",
+1
+]
+],
+"clash": []
+},
+"wedding cake": {
+"also": [
+[
+"weddings",
+1
+],
+[
+"cakes",
+1
+]
+],
+"clash": []
+},
+"sponge": {
+"also": [
+[
+"cakes",
+1
+],
+[
+"cleaning items",
+1
+],
+[
+"reef life",
+2
+],
+[
+"___cake",
+2
+]
+],
+"clash": [
+"washing up"
+]
+},
+"brownie": {
+"also": [
+[
+"desserts and sweets",
+1
+]
+],
+"clash": []
+},
+"wholemeal": {
+"also": [
+[
+"flours",
+2
+]
+],
+"clash": []
+},
+"ciabatta": {
+"also": [
+[
+"breads",
+1
+],
+[
+"italian food",
+2
+]
+],
+"clash": []
+},
+"focaccia": {
+"also": [
+[
+"breads",
+1
+],
+[
+"flatbreads",
+2
+],
+[
+"italian food",
+2
+]
+],
+"clash": []
+},
+"macaron": {
+"also": [
+[
+"french pastries",
+2
+],
+[
+"cookies",
+2
+]
+],
+"clash": []
+},
+"baking sheet": {
+"also": [
+[
+"cookware",
+2
+]
+],
+"clash": []
+},
+"cake tin": {
+"also": [
+[
+"cookware",
+2
+]
+],
+"clash": []
+},
+"cake pan": {
+"also": [
+[
+"cookware",
+2
+]
+],
+"clash": []
+},
+"tongs": {
+"also": [
+[
+"kitchen utensils",
+1
+]
+],
+"clash": []
+},
+"gâteau": {
+"also": [
+[
+"cakes",
+2
+]
+],
+"clash": []
+},
+"strudel": {
+"also": [
+[
+"pastries",
+2
+],
+[
+"german food",
+2
+]
+],
+"clash": []
+},
+"turnover": {
+"also": [],
+"clash": [
+"business words"
+]
+},
+"challah": {
+"also": [
+[
+"breads",
+2
+],
+[
+"judaism words",
+3
+]
+],
+"clash": []
+},
+"pita": {
+"also": [
+[
+"flatbreads",
+1
+],
+[
+"breads",
+1
+]
+],
+"clash": []
+},
+"soda bread": {
+"also": [
+[
+"breads",
+2
+]
+],
+"clash": []
+},
+"sticky bun": {
+"also": [
+[
+"pastries",
+2
+]
+],
+"clash": []
+},
+"shortbread": {
+"also": [
+[
+"cookies",
+1
+]
+],
+"clash": []
+},
+"stand mixer": {
+"also": [
+[
+"kitchen appliances",
+2
+]
+],
+"clash": []
+},
+"timer": {
+"also": [],
+"clash": [
+"clocks and calendars"
+]
+},
+"cooling rack": {
+"also": [
+[
+"baking words",
+2
+]
+],
+"clash": []
+},
+"piping bag": {
+"also": [
+[
+"baking words",
+2
+]
+],
+"clash": []
+},
+"spatula": {
+"also": [
+[
+"kitchen utensils",
+1
+]
+],
+"clash": []
+},
+"loaf tin": {
+"also": [
+[
+"cookware",
+3
+]
+],
+"clash": []
+},
+"bread knife": {
+"also": [
+[
+"kitchen utensils",
+2
+]
+],
+"clash": []
+},
+"sesame seeds": {
+"also": [],
+"clash": [
+"spices"
+]
+},
+"poppy seeds": {
+"also": [],
+"clash": [
+"spices"
+]
+},
+"glaze": {
+"also": [
+[
+"pottery words",
+2
+]
+],
+"clash": []
+},
+"custard": {
+"also": [
+[
+"puddings",
+1
+]
+],
+"clash": []
+},
+"jam": {
+"also": [
+[
+"spreads",
+1
+],
+[
+"pickles and preserves",
+1
+]
+],
+"clash": [
+"traffic words"
+]
+},
+"puff pastry": {
+"also": [
+[
+"pastries",
+2
+]
+],
+"clash": []
+},
+"fruitcake": {
+"also": [
+[
+"cakes",
+1
+]
+],
+"clash": [
+"christmas"
+]
+},
+"cream puff": {
+"also": [
+[
+"pastries",
+2
+]
+],
+"clash": []
+},
+"Bakewell tart": {
+"also": [
+[
+"pies and tarts",
+2
+],
+[
+"british food",
+2
+]
+],
+"clash": []
+},
+"bread bin": {
+"also": [
+[
+"kitchen",
+2
+]
+],
+"clash": []
+},
+"oven glove": {
+"also": [
+[
+"kitchen",
+2
+]
+],
+"clash": []
+},
+"oven mitt": {
+"also": [
+[
+"kitchen",
+2
+]
+],
+"clash": []
+},
+"bloomer": {
+"also": [
+[
+"breads",
+3
+]
+],
+"clash": []
+},
+"bap": {
+"also": [
+[
+"breads",
+3
+]
+],
+"clash": []
+},
+"choux": {
+"also": [
+[
+"pastries",
+3
+]
+],
+"clash": []
+},
+"babka": {
+"also": [
+[
+"cakes",
+3
+]
+],
+"clash": []
+},
+"cream horn": {
+"also": [
+[
+"pastries",
+3
+]
+],
+"clash": []
+},
+"proofing": {
+"also": [
+[
+"baking words",
+3
+]
+],
+"clash": []
+},
+"mille-feuille": {
+"also": [
+[
+"french pastries",
+2
+]
+],
+"clash": []
+},
+"hot cross bun": {
+"also": [
+[
+"easter",
+1
+]
+],
+"clash": []
+},
+"Chelsea bun": {
+"also": [
+[
+"pastries",
+3
+]
+],
+"clash": []
+},
+"Eccles cake": {
+"also": [
+[
+"pastries",
+3
+],
+[
+"cakes",
+3
+]
+],
+"clash": []
+},
+"Victoria sponge": {
+"also": [
+[
+"cakes",
+2
+],
+[
+"british food",
+2
+]
+],
+"clash": []
+},
+"peel": {
+"also": [],
+"clash": [
+"fruits"
+]
+},
+"hairdresser": {
+"also": [
+[
+"service jobs",
+1
+]
+],
+"clash": []
+},
+"stylist": {
+"also": [],
+"clash": [
+"fashion styles"
+]
+},
+"scissors": {
+"also": [
+[
+"sewing kit",
+1
+],
+[
+"things that cut",
+1
+],
+[
+"stationery",
+2
+]
+],
+"clash": []
+},
+"comb": {
+"also": [
+[
+"hair care",
+1
+]
+],
+"clash": [
+"bird body parts"
+]
+},
+"brush": {
+"also": [
+[
+"hair care",
+1
+],
+[
+"art materials",
+1
+],
+[
+"brooms and brushes",
+1
+]
+],
+"clash": []
+},
+"hairdryer": {
+"also": [
+[
+"small appliances",
+1
+],
+[
+"hair care",
+1
+],
+[
+"things you plug in",
+1
+]
+],
+"clash": []
+},
+"shampoo": {
+"also": [
+[
+"hair care",
+1
+],
+[
+"toiletries for washing",
+1
+]
+],
+"clash": []
+},
+"conditioner": {
+"also": [
+[
+"hair care",
+1
+]
+],
+"clash": []
+},
+"mirror": {
+"also": [
+[
+"bathroom",
+1
+],
+[
+"things that reflect",
+1
+],
+[
+"hand___",
+3
+]
+],
+"clash": []
+},
+"chair": {
+"also": [
+[
+"seating",
+1
+],
+[
+"___man",
+2
+]
+],
+"clash": []
+},
+"haircut": {
+"also": [],
+"clash": [
+"hairstyles"
+]
+},
+"barber": {
+"also": [],
+"clash": [
+"service jobs"
+]
+},
+"cape": {
+"also": [
+[
+"coastal features",
+1
+]
+],
+"clash": [
+"coats and jackets"
+]
+},
+"fringe": {
+"also": [
+[
+"hairstyles",
+2
+]
+],
+"clash": []
+},
+"bangs": {
+"also": [
+[
+"hairstyles",
+2
+]
+],
+"clash": []
+},
+"perm": {
+"also": [
+[
+"hairstyles",
+2
+]
+],
+"clash": []
+},
+"bleach": {
+"also": [
+[
+"cleaning products",
+1
+],
+[
+"household chemicals",
+1
+]
+],
+"clash": []
+},
+"dye": {
+"also": [],
+"clash": [
+"fabric prints"
+]
+},
+"color": {
+"also": [
+[
+"water___",
+1
+]
+],
+"clash": [
+"color terms"
+]
+},
+"hair spray": {
+"also": [
+[
+"hair care",
+1
+]
+],
+"clash": []
+},
+"gel": {
+"also": [
+[
+"hair care",
+2
+]
+],
+"clash": []
+},
+"clippers": {
+"also": [],
+"clash": [
+"nail care"
+]
+},
+"curling iron": {
+"also": [
+[
+"hair care",
+2
+]
+],
+"clash": []
+},
+"hair dye": {
+"also": [
+[
+"hair care",
+2
+]
+],
+"clash": []
+},
+"bob": {
+"also": [
+[
+"hairstyles",
+1
+]
+],
+"clash": [
+"boys' names"
+]
+},
+"towel": {
+"also": [
+[
+"bath time",
+1
+],
+[
+"bathroom",
+1
+],
+[
+"hand___",
+2
+]
+],
+"clash": []
+},
+"basin": {
+"also": [
+[
+"river features",
+3
+],
+[
+"hand___",
+3
+]
+],
+"clash": [
+"bathroom fixtures"
+]
+},
+"gown": {
+"also": [],
+"clash": [
+"dresses and skirts"
+]
+},
+"mousse": {
+"also": [
+[
+"desserts and sweets",
+2
+],
+[
+"hair care",
+2
+]
+],
+"clash": []
+},
+"wax": {
+"also": [],
+"clash": [
+"candle words"
+]
+},
+"razor": {
+"also": [
+[
+"toiletries",
+2
+]
+],
+"clash": [
+"things that cut"
+]
+},
+"straighteners": {
+"also": [
+[
+"hair care",
+2
+]
+],
+"clash": []
+},
+"flat iron": {
+"also": [
+[
+"hair care",
+2
+]
+],
+"clash": []
+},
+"curling tongs": {
+"also": [
+[
+"hair care",
+2
+]
+],
+"clash": []
+},
+"pixie cut": {
+"also": [
+[
+"hairstyles",
+2
+]
+],
+"clash": []
+},
+"updo": {
+"also": [
+[
+"hairstyles",
+2
+]
+],
+"clash": []
+},
+"receptionist": {
+"also": [
+[
+"office jobs",
+1
+]
+],
+"clash": []
+},
+"bobby pin": {
+"also": [
+[
+"hair accessories",
+1
+]
+],
+"clash": []
+},
+"hair tie": {
+"also": [
+[
+"hair accessories",
+1
+]
+],
+"clash": []
+},
+"braid": {
+"also": [
+[
+"hairstyles",
+1
+]
+],
+"clash": []
+},
+"plait": {
+"also": [
+[
+"hairstyles",
+1
+]
+],
+"clash": []
+},
+"cornrows": {
+"also": [
+[
+"hairstyles",
+2
+]
+],
+"clash": []
+},
+"weave": {
+"also": [],
+"clash": [
+"knitting words",
+"fabrics and sewing"
+]
+},
+"extensions": {
+"also": [],
+"clash": [
+"hairstyles"
+]
+},
+"broom": {
+"also": [
+[
+"brooms and brushes",
+1
+],
+[
+"cleaning items",
+1
+]
+],
+"clash": [
+"witchcraft"
+]
+},
+"serum": {
+"also": [
+[
+"skincare products",
+2
+]
+],
+"clash": []
+},
+"tint": {
+"also": [],
+"clash": [
+"color terms"
+]
+},
+"shave": {
+"also": [],
+"clash": [
+"body actions"
+]
+},
+"fade": {
+"also": [
+[
+"hairstyles",
+2
+]
+],
+"clash": []
+},
+"buzz cut": {
+"also": [
+[
+"hairstyles",
+1
+]
+],
+"clash": []
+},
+"crew cut": {
+"also": [
+[
+"hairstyles",
+1
+]
+],
+"clash": []
+},
+"mullet": {
+"also": [
+[
+"hairstyles",
+1
+]
+],
+"clash": [
+"fish"
+]
+},
+"dreadlocks": {
+"also": [
+[
+"hairstyles",
+1
+]
+],
+"clash": []
+},
+"balayage": {
+"also": [
+[
+"hair care",
+3
+]
+],
+"clash": []
+},
+"ombré": {
+"also": [],
+"clash": [
+"color terms"
+]
+},
+"pomade": {
+"also": [
+[
+"hair care",
+3
+]
+],
+"clash": []
+},
+"undercut": {
+"also": [
+[
+"hairstyles",
+2
+]
+],
+"clash": []
+},
+"quiff": {
+"also": [
+[
+"hairstyles",
+2
+]
+],
+"clash": []
+},
+"short back and sides": {
+"also": [
+[
+"hairstyles",
+2
+]
+],
+"clash": []
+},
+"French braid": {
+"also": [
+[
+"hairstyles",
+1
+]
+],
+"clash": []
+},
+"toner": {
+"also": [
+[
+"skincare products",
+2
+]
+],
+"clash": []
+},
+"highlights": {
+"also": [],
+"clash": [
+"light words"
+]
+},
+"roots": {
+"also": [],
+"clash": [
+"plant parts"
+]
+},
+"layers": {
+"also": [],
+"clash": [
+"hairstyles",
+"cakes"
+]
+},
+"blowout": {
+"also": [],
+"clash": [
+"hairstyles"
+]
+},
+"stall": {
+"also": [],
+"clash": [
+"farm buildings"
+]
+},
+"haggle": {
+"also": [
+[
+"bazaar",
+1
+],
+[
+"shopping words",
+2
+]
+],
+"clash": []
+},
+"haggling": {
+"also": [
+[
+"bazaar",
+1
+]
+],
+"clash": []
+},
+"bargain": {
+"also": [
+[
+"shopping words",
+1
+],
+[
+"bazaar",
+2
+]
+],
+"clash": []
+},
+"awning": {
+"also": [],
+"clash": [
+"windows and doors"
+]
+},
+"bag": {
+"also": [
+[
+"hand___",
+1
+]
+],
+"clash": [
+"bags"
+]
+},
+"crowd": {
+"also": [],
+"clash": [
+"groups of people"
+]
+},
+"flea market": {
+"also": [],
+"clash": [
+"shopping words"
+]
+},
+"antiques": {
+"also": [],
+"clash": [
+"collecting hobbies"
+]
+},
+"crafts": {
+"also": [],
+"clash": [
+"crafts"
+]
+},
+"jewelry": {
+"also": [],
+"clash": [
+"jewelry",
+"precious materials"
+]
+},
+"cheese": {
+"also": [
+[
+"dairy and eggs",
+1
+],
+[
+"___cake",
+1
+],
+[
+"___board",
+3
+]
+],
+"clash": []
+},
+"spices": {
+"also": [],
+"clash": [
+"spices"
+]
+},
+"souvenir": {
+"also": [],
+"clash": [
+"souvenirs"
+]
+},
+"busker": {
+"also": [
+[
+"street performers",
+1
+]
+],
+"clash": []
+},
+"pickpocket": {
+"also": [],
+"clash": [
+"crimes",
+"troublemakers"
+]
+},
+"stand": {
+"also": [
+[
+"hand___",
+2
+]
+],
+"clash": []
+},
+"gazebo": {
+"also": [
+[
+"garden features",
+2
+]
+],
+"clash": []
+},
+"barter": {
+"also": [
+[
+"bazaar",
+2
+]
+],
+"clash": []
+},
+"vintage": {
+"also": [
+[
+"fashion styles",
+2
+],
+[
+"wine words",
+2
+]
+],
+"clash": []
+},
+"food truck": {
+"also": [],
+"clash": [
+"street food"
+]
+},
+"canopy": {
+"also": [],
+"clash": [
+"rainforest"
+]
+},
+"honey": {
+"also": [
+[
+"sweeteners",
+1
+],
+[
+"spreads",
+1
+]
+],
+"clash": [
+"terms of endearment"
+]
+},
+"olives": {
+"also": [],
+"clash": [
+"pickles and preserves"
+]
+},
+"rug": {
+"also": [
+[
+"rugs and carpets",
+1
+]
+],
+"clash": []
+},
+"kebab": {
+"also": [
+[
+"street food",
+1
+],
+[
+"fast food",
+1
+],
+[
+"turkish food",
+1
+]
+],
+"clash": []
+},
+"crêpe": {
+"also": [
+[
+"french food",
+1
+],
+[
+"street food",
+2
+]
+],
+"clash": [
+"breakfast foods"
+]
+},
+"churros": {
+"also": [
+[
+"street food",
+2
+],
+[
+"spanish food",
+1
+],
+[
+"fairground food",
+2
+]
+],
+"clash": []
+},
+"hot dog": {
+"also": [
+[
+"fast food",
+1
+],
+[
+"street food",
+1
+]
+],
+"clash": [
+"sausages"
+]
+},
+"parasol": {
+"also": [],
+"clash": [
+"beach gear"
+]
+},
+"sunshade": {
+"also": [],
+"clash": [
+"beach gear"
+]
+},
+"money belt": {
+"also": [
+[
+"travel accessories",
+2
+]
+],
+"clash": []
+},
+"car boot sale": {
+"also": [
+[
+"british english words",
+3
+]
+],
+"clash": []
+},
+"square": {
+"also": [
+[
+"2d shapes",
+1
+],
+[
+"math operations",
+2
+]
+],
+"clash": [
+"famous squares",
+"parts of a town"
+]
+},
+"cobblestones": {
+"also": [],
+"clash": [
+"building stones"
+]
 }
 }

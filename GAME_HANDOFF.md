@@ -67,7 +67,7 @@ are exported from the app (Import / export → Export game file; Settings → Fa
   partly listed; hundreds of words qualify by spelling alone. The checker should test these by rule on every word
   on screen, not trust the lists.
 - **Names longer than two words** are disabled by the filter (they do not fit a balloon); single words up to 20 letters.
-- **"anagrams of each other"** is stored as sets of four (word note "set N"); a level must use one whole set.
+- **"anagrams of each other"** is stored as sets of four (word note "anagram set N"); a level must use one whole set.
   The set number is in the library (`wordlist.json` word notes) but not yet in the game file. Add it to the export.
 - **Cross-check links come from a model** and were not reviewed by a person. Spot-check before relying on them;
   some are cautious (Goldfish clashes with pets).
