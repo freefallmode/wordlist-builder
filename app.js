@@ -36,6 +36,9 @@ const SET = loadLocal('wlb-settings', { model: MODELS[0][0], spelling: 'US', key
 if (SET.flt.maxMulti === undefined) SET.flt = { ...FLT, ...SET.flt, multi: false }; // older settings blocked all multi-word entries
 let sessionKey = SET.remember ? SET.key : '';
 let limit = 500;
+const PICK = new Set();   // ids of words ticked in the list
+let lastPick = null;      // for shift-click ranges
+let undoSnap = null;      // {data, label} saved before deletes
 
 function loadLocal(k, def) {
   try { const j = localStorage.getItem(k); if (j) return Object.assign(def, JSON.parse(j)); } catch (e) { }
@@ -354,7 +357,7 @@ const GAME = 'Word Safari is a word-sorting puzzle. Each balloon carries one wor
 
 // ---------- rendering ----------
 
-function status(m, err) { const s = document.querySelector('dialog[open] .st') || $('#meta'); s.textContent = m; s.classList.toggle('err', !!err); }
+function status(m, err) { const s = document.querySelector('dialog[open] .st') || $('#msg'); s.textContent = m; s.classList.toggle('err', !!err); }
 
 function renderTree() {
   const c = getCounts();
@@ -389,7 +392,7 @@ function renderMain() {
   const t = UI.sel && theme(UI.sel);
   $('#crumbs').innerHTML = t ? '<a data-sel-crumb="">All words</a>' + (ix().anc[t.id] || []).slice(1).reverse().map(a => ` › <a data-sel-crumb="${a}">${esc(theme(a).name)}</a>`).join('') : '';
   $('#ttl').textContent = t ? t.name : 'All words';
-  if (!$('#meta').classList.contains('err')) $('#meta').textContent = t
+  $('#meta').textContent = t
     ? [KINDS[t.kind || ''], t.group ? 'group' : '', 'difficulty ' + themeDiff(t.id) + (t.d ? '' : ' (from depth)'), t.region, t.label ? 'shown as "' + t.label + '"' : ''].filter(Boolean).join(' · ')
     : 'Select a theme on the left, or use the buttons below.';
   $('#genWords').disabled = $('#addWords').disabled = $('#themeSet').disabled = !t;
@@ -400,16 +403,29 @@ function renderMain() {
   for (const h of document.querySelectorAll('th[data-sort]')) h.className = h.dataset.sort === UI.sort ? 's' + UI.dir : '';
 
   const ws = shownWords();
+  shownIds = ws.map(w => slug(w.t));
+  const shown = new Set(shownIds);
+  for (const id of [...PICK]) if (!shown.has(id)) PICK.delete(id);
   $('#cnt').textContent = ws.length + ' words, ' + ws.filter(w => w.on).length + ' enabled';
+  const n = PICK.size;
+  $('#selinfo').textContent = n ? `${n} selected` : 'Tick words to select them (shift-click for a range).';
+  for (const b of ['#selEna', '#selDis', '#selDel']) $(b).disabled = !n;
+  $('#selUnlink').disabled = !n || !t;
+  $('#selNone').hidden = !n;
+  $('#undo').hidden = !undoSnap;
+  if (undoSnap) $('#undo').textContent = 'Undo ' + undoSnap.label;
+  $('#selall').checked = n > 0 && n === ws.length;
+  $('#selall').indeterminate = n > 0 && n < ws.length;
   $('#rows').innerHTML = ws.slice(0, limit).map(w => {
-    const id = slug(w.t), z = w.z;
+    const id = slug(w.t), z = w.z, picked = PICK.has(id);
     const zc = z == null ? 'z2' : z >= 4.5 ? 'z5' : z < 2.5 ? 'z2' : '';
-    return `<tr class="${w.on ? '' : 'off'}"><td><input type="checkbox" data-on="${id}"${w.on ? ' checked' : ''}></td>`
+    return `<tr class="${w.on ? '' : 'off'}${picked ? ' sel' : ''}"><td><input type="checkbox" data-pick="${id}"${picked ? ' checked' : ''}></td>`
+      + `<td><input type="checkbox" data-on="${id}"${w.on ? ' checked' : ''} title="Enabled"></td>`
       + `<td class="w" data-word="${id}"${w.uk ? ` title="${esc(SET.spelling === 'UK' ? 'US: ' + w.t : 'UK: ' + w.uk)}"` : ''}>${esc(form(w))}${w.uk ? ' <small class="muted">*</small>' : ''}</td><td class="num">${core(form(w)).length}</td>`
       + `<td class="num ${zc}">${z === undefined ? '…' : z === null ? '<1.5' : z.toFixed(1)}</td>`
       + `<td><select data-d="${id}"><option value="">auto ${autoDiff(z)}</option>${[1, 2, 3, 4, 5].map(n => `<option${n === w.d ? ' selected' : ''}>${n}</option>`).join('')}</select></td>`
       + `<td>${w.th.map(t => theme(t) ? `<button class="b" data-goto="${t}" title="${esc(pathOf(t))}">${esc(theme(t).name)}</button>` : '').join('')}</td>`
-      + `<td class="muted">${esc(w.note)}</td></tr>`;
+      + `<td class="muted">${esc(w.note)}</td><td><button class="x" data-rm="${id}" title="Delete this word">✕</button></td></tr>`;
   }).join('');
   $('#more').innerHTML = ws.length > limit ? `<div class="row"><span class="muted">Showing ${limit} of ${ws.length}.</span><button id="showMore">Show more</button></div>` : '';
 }
@@ -456,18 +472,19 @@ const options = (pairs, cur) => pairs.map(([v, l]) => `<option value="${esc(v)}"
 
 function ask(title, def = '') {
   return new Promise(res => {
-    let done = false;
-    const d = dialog(title, `<input id="askv" style="width:100%" value="${esc(def)}">`, [['Cancel', () => { }], ['OK', d => { done = true; res(val(d, '#askv').trim()); }, 'p']]);
+    let answer = null;
+    const d = dialog(title, `<input id="askv" style="width:100%" value="${esc(def)}">`, [['Cancel', () => { }], ['OK', d => { answer = val(d, '#askv').trim(); }, 'p']]);
     const i = d.querySelector('#askv'); i.focus(); i.select();
     i.onkeydown = e => { if (e.key === 'Enter') d.querySelector('[data-b="1"]').click(); };
-    d.addEventListener('close', () => { if (!done) res(null); }, { once: true });
+    // Answer only once the box has closed, so callers can report into the page.
+    d.addEventListener('close', () => setTimeout(() => res(answer)), { once: true });
   });
 }
 function confirmBox(msg) {
   return new Promise(res => {
-    let done = false;
-    const d = dialog('Confirm', `<p>${esc(msg)}</p>`, [['Cancel', () => { }], ['OK', () => { done = true; res(true); }, 'p']]);
-    d.addEventListener('close', () => { if (!done) res(false); }, { once: true });
+    let ok = false;
+    const d = dialog('Confirm', `<p>${esc(msg)}</p>`, [['Cancel', () => { }], ['OK', () => { ok = true; }, 'p']]);
+    d.addEventListener('close', () => setTimeout(() => res(ok)), { once: true });
   });
 }
 
@@ -585,6 +602,7 @@ function themeDialog() {
 function wordDialog(id) {  // id changes if the American spelling is edited
   const w = P.words[id];
   if (!w) return;
+  let keep = () => { };  // reads the dialog's fields back into the word; set when the dialog opens
   const draw = () => dialog('Word: ' + form(w), `<p>${w.z == null ? 'Rarer than the frequency list' : 'Zipf frequency ' + w.z.toFixed(1)} · ${core(form(w)).length} letters · difficulty ${wordDiff(w)}${w.d ? '' : ' (auto)'} · from ${w.src.map(s => SRC_NAME[s]).join(', ') || '?'}</p>`
     + `<div class="row"><label class="f" style="flex:1"><span>American spelling</span><input id="wd-us" value="${esc(w.t)}"></label>`
     + `<label class="f" style="flex:1"><span>British spelling (if different)</span><input id="wd-uk" value="${esc(w.uk)}"></label></div>`
@@ -594,8 +612,8 @@ function wordDialog(id) {  // id changes if the American spelling is edited
     + `<div class="row"><input id="wd-add" list="wd-themes" placeholder="Link to another theme…" style="flex:1"><button id="wd-addb">Link</button></div>`
     + `<datalist id="wd-themes">${P.themes.filter(t => !w.th.includes(t.id)).map(t => `<option value="${esc(pathOf(t.id))}">`).join('')}</datalist>`
     + `<h4>Danger</h4><button class="danger" id="wd-del">Delete word</button>`,
-    [['Close', d => { if (keep(d) === false) return false; changed(); }, 'p']], d => {
-      const keep = () => {
+    [['Close', () => { if (keep() === false) return false; changed(); }, 'p']], d => {
+      keep = () => {
         w.on = chk(d, '#wd-on'); w.note = val(d, '#wd-note').trim();
         const us = clean(val(d, '#wd-us')), uk = clean(val(d, '#wd-uk'));
         w.uk = uk && uk.toLowerCase() !== (us || w.t).toLowerCase() ? uk : '';
@@ -750,16 +768,49 @@ const PULL = {
 
 // ---------- events ----------
 
+let shownIds = [];
+function snapshot(label) { undoSnap = { data: serialize(), label }; }
+function deleteWords(ids) { snapshot('delete'); for (const id of ids) { delete P.words[id]; PICK.delete(id); } changed(); }
+// Unlinks words from the selected theme (and its sub-themes when they are shown). Returns how many were deleted for having no theme left.
+function unlinkWords(ids) {
+  snapshot('remove');
+  const drop = UI.sub ? desc(UI.sel) : new Set([UI.sel]);
+  let gone = 0;
+  for (const id of ids) {
+    const w = P.words[id];
+    if (!w) continue;
+    w.th = w.th.filter(t => !drop.has(t));
+    if (!w.th.length) { delete P.words[id]; gone++; }
+    PICK.delete(id);
+  }
+  changed();
+  return gone;
+}
+
 function select(id) {
+  if ((id || null) !== UI.sel) PICK.clear();
   UI.sel = id || null;
   if (id) reveal(id);
   limit = 500;
   $('#q').value = '';
-  $('#meta').classList.remove('err');
+  if (!$('#msg').classList.contains('err')) $('#msg').textContent = '';
   render();
 }
 
 document.addEventListener('click', async e => {
+  const pk = e.target.closest('input[data-pick]');
+  if (pk) {
+    const id = pk.dataset.pick, on = pk.checked;
+    let ids = [id];
+    if (e.shiftKey && lastPick && shownIds.includes(lastPick)) {
+      const a = shownIds.indexOf(lastPick), b = shownIds.indexOf(id);
+      ids = shownIds.slice(Math.min(a, b), Math.max(a, b) + 1);
+    }
+    for (const i of ids) on ? PICK.add(i) : PICK.delete(i);
+    lastPick = id;
+    renderMain();
+    return;
+  }
   const el = e.target.closest('[data-tog],[data-add],[data-ren],[data-del],[data-sel],[data-goto],[data-word],[data-sel-crumb],th[data-sort],button');
   if (!el || el.closest('dialog')) return;
   const ds = el.dataset;
@@ -771,6 +822,7 @@ document.addEventListener('click', async e => {
   else if (ds.goto) select(ds.goto);
   else if (ds.selCrumb !== undefined) select(ds.selCrumb);
   else if (ds.word) wordDialog(ds.word);
+  else if (ds.rm) { const w = P.words[ds.rm]; deleteWords([ds.rm]); render(); status(`Deleted "${form(w)}".`); }
   else if (ds.sort) { UI.dir = UI.sort === ds.sort ? -UI.dir : (ds.sort === 'z' ? -1 : 1); UI.sort = ds.sort; render(); }
   else switch (el.id) {
     case 'expall': P.themes.forEach(t => UI.exp[t.id] = true); render(); break;
@@ -785,7 +837,20 @@ document.addEventListener('click', async e => {
     case 'spell': SET.spelling = SET.spelling === 'UK' ? 'US' : 'UK'; render(); break;
     case 'dataBtn': dataDialog(); break;
     case 'showMore': limit += 1000; renderMain(); break;
-    case 'ena': case 'dis': shownWords().forEach(w => w.on = el.id === 'ena'); changed(); render(); break;
+    case 'selEna': case 'selDis': for (const id of PICK) P.words[id].on = el.id === 'selEna'; changed(); render(); break;
+    case 'selNone': PICK.clear(); renderMain(); break;
+    case 'selDel': {
+      const n = PICK.size;
+      if (await confirmBox(`Delete ${n} word${n === 1 ? '' : 's'} from every theme they are in?`)) { deleteWords([...PICK]); render(); status(`Deleted ${n} word${n === 1 ? '' : 's'}.`); }
+      break;
+    }
+    case 'selUnlink': {
+      const n = PICK.size, gone = unlinkWords([...PICK]);
+      render();
+      status(`Removed ${n} word${n === 1 ? '' : 's'} from "${theme(UI.sel).name}"${UI.sub ? ' and its sub-themes' : ''}${gone ? `; ${gone} had no other theme and were deleted` : ''}.`);
+      break;
+    }
+    case 'undo': if (undoSnap) { P = deserialize(undoSnap.data); undoSnap = null; PICK.clear(); changed(); fillFreq(); render(); status('Undone.'); } break;
   }
 });
 document.addEventListener('change', e => {
@@ -794,6 +859,7 @@ document.addEventListener('change', e => {
   if (t.dataset.on) { const w = P.words[t.dataset.on]; w.on = t.checked; if (t.checked && w.note && filterReason(w.t) === w.note) w.note = ''; changed(); render(); }
   else if (t.dataset.d !== undefined) { P.words[t.dataset.d].d = t.value ? +t.value : null; changed(); render(); }
   else if (t.id === 'sub') { UI.sub = t.checked; render(); }
+  else if (t.id === 'selall') { if (t.checked) shownIds.forEach(i => PICK.add(i)); else PICK.clear(); renderMain(); }
   else if (t.id === 'show') { UI.show = t.value; render(); }
 });
 $('#q').addEventListener('input', () => { limit = 500; renderMain(); });

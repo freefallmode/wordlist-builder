@@ -33,6 +33,7 @@
     </div>
     <h2 id="ttl"></h2>
     <div id="meta" class="muted"></div>
+    <div id="msg"></div>
     <div class="row">
       <button class="p" id="genWords">Generate words…</button>
       <button class="p" id="genSubs">Generate sub-themes…</button>
@@ -48,20 +49,29 @@
       </select>
       <label><input type="checkbox" id="sub" checked> include sub-themes</label>
       <span id="cnt" class="muted"></span>
+    </div>
+    <div class="row selbar">
+      <span id="selinfo" class="muted"></span>
+      <button id="selEna">Enable</button>
+      <button id="selDis">Disable</button>
+      <button id="selUnlink" title="Unlink the selected words from this theme. Words left with no theme are deleted.">Remove from this theme</button>
+      <button id="selDel" class="danger" title="Delete the selected words from every theme">Delete</button>
+      <button id="selNone" class="link">Clear selection</button>
       <span class="grow"></span>
-      <button id="ena">Enable shown</button>
-      <button id="dis">Disable shown</button>
+      <button id="undo" hidden></button>
     </div>
     <div class="tw">
       <table>
         <thead><tr>
-          <th></th>
+          <th><input type="checkbox" id="selall" title="Select every word in this list"></th>
+          <th title="Enabled words can be used in levels">On</th>
           <th data-sort="t">Word</th>
           <th data-sort="len" title="Letters, ignoring spaces and hyphens">Len</th>
           <th data-sort="z" title="Zipf frequency: 7 = 'the', 5 = common, 3 = uncommon, under 2 = rare">Freq</th>
           <th data-sort="d" title="1 easy to 5 hard. 'auto' comes from frequency">Diff</th>
           <th data-sort="th">Themes</th>
           <th>Note</th>
+          <th></th>
         </tr></thead>
         <tbody id="rows"></tbody>
       </table>
