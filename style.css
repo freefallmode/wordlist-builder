@@ -68,6 +68,10 @@ td.w:hover{text-decoration:underline}
 td.num{text-align:right;font-variant-numeric:tabular-nums}
 .b{display:inline-block;font-size:11px;border:1px solid var(--bd);border-radius:9px;padding:0 6px;margin:1px 3px 1px 0;color:var(--mut)}
 button.b{cursor:pointer;background:transparent}
+.b.clash{color:#b86e00;border-color:#b86e00}
+.b.sug{border-style:dashed;color:var(--ac);border-color:var(--ac)}
+#overlap a{color:var(--ac);cursor:pointer}
+table.rv td,table.rv th{padding:2px 6px}
 .z5{color:var(--ac)}.z2{color:var(--err)}
 
 /* dialogs */

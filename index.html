@@ -1,11 +1,11 @@
 <!doctype html>
-<html lang="en" data-v="6">
+<html lang="en" data-v="7">
 <head>
 <meta charset="utf-8">
 <meta name="viewport" content="width=device-width,initial-scale=1">
 <title>Wordlist Builder</title>
 <!-- Bump v here and VERSION in app.js on every change, so browsers fetch the new files. -->
-<link rel="stylesheet" href="style.css?v=6">
+<link rel="stylesheet" href="style.css?v=7">
 </head>
 <body>
 <div id="app">
@@ -34,12 +34,15 @@
     </div>
     <h2 id="ttl"></h2>
     <div id="meta" class="muted"></div>
+    <div id="overlap" class="muted"></div>
     <div id="msg"></div>
     <div class="row">
       <button class="p" id="genWords">Generate words…</button>
       <button class="p" id="genSubs">Generate sub-themes…</button>
       <button id="addWords">Add words…</button>
       <button id="themeSet">Theme settings…</button>
+      <button id="checkBtn" title="Ask Claude which other themes each word fits">Check themes…</button>
+      <button id="reviewBtn" hidden></button>
     </div>
     <div class="row">
       <input id="q" type="search" placeholder="Filter this list" autocomplete="off">
@@ -47,6 +50,9 @@
         <option value="all">All words</option>
         <option value="on">Enabled</option>
         <option value="off">Disabled</option>
+        <option value="sug">With suggestions to review</option>
+        <option value="clash">With clashes</option>
+        <option value="unchecked">Not yet checked</option>
       </select>
       <label><input type="checkbox" id="sub" checked> include sub-themes</label>
       <span id="cnt" class="muted"></span>
@@ -81,6 +87,6 @@
   </main>
 </div>
 <dialog id="dlg"></dialog>
-<script src="app.js?v=6"></script>
+<script src="app.js?v=7"></script>
 </body>
 </html>

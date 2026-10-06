@@ -3,7 +3,7 @@
 // The project lives in IndexedDB (autosaved) and in project files. Both use
 // the compact format from serialize(): words point at themes by index.
 
-const VERSION = '6';  // must match data-v and the ?v= links in index.html
+const VERSION = '7';  // must match data-v and the ?v= links in index.html
 const $ = s => document.querySelector(s);
 const esc = s => String(s ?? '').replace(/[&<>"']/g, c => ({ '&': '&amp;', '<': '&lt;', '>': '&gt;', '"': '&quot;', "'": '&#39;' }[c]));
 const slug = t => t.normalize('NFKD').replace(/[̀-ͯ]/g, '').replace(/[^\p{L}\p{N}]+/gu, '_').replace(/^_|_$/g, '').toLowerCase();
@@ -29,7 +29,9 @@ const SRC_NAME = Object.fromEntries(Object.entries(SRC).map(([k, v]) => [v, k]))
 // Project: themes in display order, words keyed by slug of their text.
 // theme: {id, name, label, parent, group, kind, region, d, note, wd, cn, dm}
 // word:  {t (American spelling, capitals kept for proper nouns), uk (British spelling when different),
-//         th: [themeId], on, z (Zipf, null = rarer than the list, undefined = not looked up), d (null = auto), src: [code], note}
+//         th: [themeId], on, z (Zipf, null = rarer than the list, undefined = not looked up), d (null = auto), src: [code], note,
+//         x: [themeId] clashes (a player could think it fits; never in a level with these), ck: checked by the theme check,
+//         sg: {themeId: 'c' | 'a'} suggestions from the check awaiting review (clear fit / arguable)}
 let P = { themes: [], words: {} };
 const UI = loadLocal('wlb-ui', { sel: null, exp: {}, sort: 't', dir: 1, sub: true, show: 'all', unlock: false });
 const FLT = { len: true, min: 3, max: 12, maxMulti: 20, letters: true, multi: false, block: false, list: '' };
@@ -184,6 +186,8 @@ function addWords(list, src, themeId) {
 function removeThemeFromWords(ids) {
   for (const [k, w] of Object.entries(P.words)) {
     w.th = w.th.filter(t => !ids.has(t));
+    if (w.x) w.x = w.x.filter(t => !ids.has(t));
+    if (w.sg) for (const t of Object.keys(w.sg)) if (ids.has(t)) delete w.sg[t];
     if (!w.th.length) delete P.words[k];
   }
 }
@@ -214,7 +218,7 @@ function reveal(id) { for (const a of (ix().anc[id] || []).slice(1)) UI.exp[a] =
 // ---------- saving ----------
 
 const FIELDS_T = ['id', 'name', 'label', 'parent', 'group', 'kind', 'region', 'difficulty', 'note'];
-const FIELDS_W = ['text', 'themes', 'enabled', 'zipf10', 'difficulty', 'sources', 'note', 'uk'];
+const FIELDS_W = ['text', 'themes', 'enabled', 'zipf10', 'difficulty', 'sources', 'note', 'uk', 'clashes', 'checked', 'suggestions'];
 // Compact project format. Themes keep their stable ids; words refer to themes by index.
 function serialize() {
   const at = Object.fromEntries(P.themes.map((t, i) => [t.id, i]));
@@ -225,7 +229,9 @@ function serialize() {
       { wd: t.wd || undefined, cn: t.cn || undefined, dm: t.dm || undefined }]),
     wordFields: FIELDS_W,
     words: Object.values(P.words).map(w => [w.t, w.th.map(t => at[t]).filter(i => i !== undefined), w.on ? 1 : 0,
-      w.z == null ? (w.z === null ? 0 : -1) : Math.round(w.z * 10), w.d || 0, w.src.join(''), w.note || '', w.uk || '']),
+      w.z == null ? (w.z === null ? 0 : -1) : Math.round(w.z * 10), w.d || 0, w.src.join(''), w.note || '', w.uk || '',
+      (w.x || []).map(t => at[t]).filter(i => i !== undefined), w.ck ? 1 : 0,
+      Object.entries(w.sg || {}).filter(([t]) => at[t] !== undefined).map(([t, k]) => [at[t], k === 'c' ? 1 : 2])]),
   };
 }
 function deserialize(j) {
@@ -233,7 +239,8 @@ function deserialize(j) {
     const themes = j.themes.map(a => ({ id: a[0], name: a[1], label: a[2], parent: null, group: !!a[4], kind: a[5], region: a[6], d: a[7] || null, note: a[8], ...(a[9] || {}) }));
     j.themes.forEach((a, i) => { if (a[3] >= 0) themes[i].parent = themes[a[3]].id; });
     const words = {};
-    for (const a of j.words) words[slug(a[0])] = { t: a[0], th: a[1].map(i => themes[i].id), on: !!a[2], z: a[3] === -1 ? undefined : a[3] === 0 ? null : a[3] / 10, d: a[4] || null, src: a[5].split(''), note: a[6], uk: a[7] || '' };
+    for (const a of j.words) words[slug(a[0])] = { t: a[0], th: a[1].map(i => themes[i].id), on: !!a[2], z: a[3] === -1 ? undefined : a[3] === 0 ? null : a[3] / 10, d: a[4] || null, src: a[5].split(''), note: a[6], uk: a[7] || '',
+      x: (a[8] || []).map(i => themes[i].id), ck: !!a[9], sg: Object.fromEntries((a[10] || []).map(([i, k]) => [themes[i].id, k === 1 ? 'c' : 'a'])) };
     return { themes, words };
   }
   if (j.schema === 1 || j.words) { // first version of the builder
@@ -293,9 +300,9 @@ function exportGame() {
     themeFields: ['id', 'name', 'label', 'parent', 'group', 'kind', 'region', 'difficulty'],
     themes: P.themes.map(t => [t.id, t.name, t.label || '', t.parent ? at[t.parent] : -1, t.group ? 1 : 0, t.kind || '', t.region || '', themeDiff(t.id)]),
     spelling: SET.spelling,
-    wordFields: ['text', 'zipf10', 'difficulty', 'themes', 'otherSpelling'],
+    wordFields: ['text', 'zipf10', 'difficulty', 'themes', 'clashes', 'otherSpelling'],
     words: Object.values(P.words).filter(w => w.on).sort((a, b) => form(a).localeCompare(form(b)))
-      .map(w => { const o = SET.spelling === 'UK' ? w.t : w.uk; const r = [form(w), w.z == null ? 0 : Math.round(w.z * 10), wordDiff(w), w.th.map(t => at[t])]; if (o && o !== form(w)) r.push(o); return r; }),
+      .map(w => { const o = SET.spelling === 'UK' ? w.t : w.uk; const r = [form(w), w.z == null ? 0 : Math.round(w.z * 10), wordDiff(w), w.th.map(t => at[t]), (w.x || []).map(t => at[t])]; if (o && o !== form(w)) r.push(o); return r; }),
   });
 }
 function exportCsv() {
@@ -333,15 +340,24 @@ function importOutline(txt) {
 
 // ---------- Claude ----------
 
-async function claude(prompt, schema, maxTokens = 8000) {
+// Prices per million tokens, for the running cost shown during long jobs (cache writes are 1.25x input).
+const PRICE = { 'claude-opus-5-5': [4, 20, 0.2], 'claude-sonnet-5-5': [2, 10, 0.2], 'claude-haiku-4-5': [1, 5, 0.1] };
+function cost(model, u) {
+  const p = PRICE[model] || PRICE['claude-opus-5-5'];
+  return ((u.input_tokens || 0) * p[0] + (u.cache_creation_input_tokens || 0) * p[0] * 1.25 + (u.cache_read_input_tokens || 0) * p[2] + (u.output_tokens || 0) * p[1]) / 1e6;
+}
+let lastCost = 0;
+// opts.system: a long, unchanging instruction block; it is cached so repeated calls pay little for it.
+async function claude(prompt, schema, maxTokens = 8000, opts = {}) {
   const key = sessionKey;
   if (!key) throw Error('Add your Anthropic API key in Settings first.');
   const model = SET.model;
   const body = { model, max_tokens: maxTokens, messages: [{ role: 'user', content: prompt }],
     output_config: { format: { type: 'json_schema', schema } } };
+  if (opts.system) body.system = [{ type: 'text', text: opts.system, cache_control: { type: 'ephemeral' } }];
   const headers = { 'content-type': 'application/json', 'x-api-key': key, 'anthropic-version': '2023-06-01', 'anthropic-dangerous-direct-browser-access': 'true' };
   if (model !== 'claude-haiku-4-5') {
-    body.output_config.effort = 'medium';
+    body.output_config.effort = opts.effort || 'medium';
     // If a safety classifier declines, the API retries on a suitable model instead of failing.
     body.fallbacks = 'default';
     headers['anthropic-beta'] = 'server-side-fallback-2026-07-01';
@@ -351,6 +367,7 @@ async function claude(prompt, schema, maxTokens = 8000) {
   if (!r.ok) throw Error((j.error && j.error.message) || 'HTTP ' + r.status);
   if (j.stop_reason === 'refusal') throw Error('Claude declined this request.');
   if (j.stop_reason === 'max_tokens') throw Error('The reply was cut off. Ask for fewer items.');
+  lastCost = j.usage ? cost(j.model || model, j.usage) : 0;
   return JSON.parse(j.content.filter(c => c.type === 'text').map(c => c.text).join(''));
 }
 const spelling = () => SET.spelling === 'UK' ? 'British spelling' : 'American spelling';
@@ -384,7 +401,9 @@ function shownWords() {
   }
   const q = $('#q').value.trim().toLowerCase();
   if (q) list = list.filter(w => matches(w, q));
-  if (UI.show !== 'all') list = list.filter(w => w.on === (UI.show === 'on'));
+  const hasSg = w => !!w.sg && Object.keys(w.sg).length > 0;
+  const keep = { all: null, on: w => w.on, off: w => !w.on, sug: hasSg, clash: w => !!(w.x && w.x.length), unchecked: w => !w.ck }[UI.show];
+  if (keep) list = list.filter(keep);
   const key = { t: w => form(w).toLowerCase(), len: w => core(form(w)).length, z: w => w.z ?? 0, d: wordDiff, th: w => w.th.length }[UI.sort] || (w => w.t);
   return list.sort((a, b) => { const x = key(a), y = key(b); return (x < y ? -1 : x > y ? 1 : form(a).localeCompare(form(b))) * UI.dir; });
 }
@@ -397,6 +416,11 @@ function renderMain() {
     ? [KINDS[t.kind || ''], t.group ? 'group' : '', 'difficulty ' + themeDiff(t.id) + (t.d ? '' : ' (from depth)'), t.region, t.label ? 'shown as "' + t.label + '"' : ''].filter(Boolean).join(' · ')
     : 'Select a theme on the left, or use the buttons below.';
   $('#genWords').disabled = $('#addWords').disabled = $('#themeSet').disabled = !t;
+  $('#overlap').innerHTML = t ? overlapHtml(t.id) : '';
+  const pend = reviewRows(null).length;
+  $('#reviewBtn').hidden = !pend;
+  $('#reviewBtn').textContent = `Review suggestions (${pend})`;
+  $('#checkBtn').disabled = !!CHECK;
   $('#genSubs').textContent = t ? 'Generate sub-themes…' : 'Generate top-level themes…';
   $('#spell').textContent = 'Spelling: ' + SET.spelling;
   $('#sub').checked = UI.sub;
@@ -425,7 +449,9 @@ function renderMain() {
       + `<td class="w" data-word="${id}"${w.uk ? ` title="${esc(SET.spelling === 'UK' ? 'US: ' + w.t : 'UK: ' + w.uk)}"` : ''}>${esc(form(w))}${w.uk ? ' <small class="muted">*</small>' : ''}</td><td class="num">${core(form(w)).length}</td>`
       + `<td class="num ${zc}">${z === undefined ? '…' : z === null ? '<1.5' : z.toFixed(1)}</td>`
       + `<td><select data-d="${id}"><option value="">auto ${autoDiff(z)}</option>${[1, 2, 3, 4, 5].map(n => `<option${n === w.d ? ' selected' : ''}>${n}</option>`).join('')}</select></td>`
-      + `<td>${w.th.map(t => theme(t) ? `<button class="b" data-goto="${t}" title="${esc(pathOf(t))}">${esc(theme(t).name)}</button>` : '').join('')}</td>`
+      + `<td>${w.th.map(t => theme(t) ? `<button class="b" data-goto="${t}" title="${esc(pathOf(t))}">${esc(theme(t).name)}</button>` : '').join('')}`
+      + (w.x || []).map(t => theme(t) ? `<button class="b clash" data-goto="${t}" title="Clashes with ${esc(pathOf(t))}: never in the same level">⚠ ${esc(theme(t).name)}</button>` : '').join('')
+      + (w.sg && Object.keys(w.sg).length ? `<button class="b sug" data-review="${id}" title="Suggestions from the theme check">${Object.keys(w.sg).length} to review</button>` : '') + '</td>'
       + `<td class="muted">${esc(w.note)}</td><td><button class="x" data-rm="${id}" title="Delete this word">✕</button></td></tr>`;
   }).join('');
   $('#more').innerHTML = ws.length > limit ? `<div class="row"><span class="muted">Showing ${limit} of ${ws.length}.</span><button id="showMore">Show more</button></div>` : '';
@@ -611,6 +637,10 @@ function wordDialog(id) {  // id changes if the American spelling is edited
     + field('Note', `<input id="wd-note" value="${esc(w.note)}">`)
     + '<h4>Linked themes</h4>' + (w.th.map(t => `<div class="row"><button class="link" data-wgo="${t}">${esc(pathOf(t))}</button><button class="b" data-unlink="${t}" title="Unlink">✕</button></div>`).join('') || '<p class="muted">None</p>')
     + `<div class="row"><input id="wd-add" list="wd-themes" placeholder="Link to another theme…" style="flex:1"><button id="wd-addb">Link</button></div>`
+    + '<h4>Clashes</h4><p class="muted">Themes a player might think this word belongs to. It is never put in a level with them.</p>'
+    + ((w.x || []).map(t => theme(t) ? `<div class="row"><button class="link" data-wgo="${t}">⚠ ${esc(pathOf(t))}</button><button class="b" data-unclash="${t}" title="Remove clash">✕</button></div>` : '').join('') || '<p class="muted">None</p>')
+    + `<div class="row"><input id="wd-clash" list="wd-themes" placeholder="Add a clash with…" style="flex:1"><button id="wd-clashb">Add</button></div>`
+    + (w.sg && Object.keys(w.sg).length ? `<p>${Object.keys(w.sg).length} suggestion(s) from the theme check: ${esc(Object.entries(w.sg).map(([t, k]) => (theme(t) ? theme(t).name : '?') + (k === 'c' ? ' (clear)' : ' (arguable)')).join(', '))} <button id="wd-rev">Review</button></p>` : '')
     + `<datalist id="wd-themes">${P.themes.filter(t => !w.th.includes(t.id)).map(t => `<option value="${esc(pathOf(t.id))}">`).join('')}</datalist>`
     + `<h4>Danger</h4><button class="danger" id="wd-del">Delete word</button>`,
     [['Close', () => { if (keep() === false) return false; changed(); }, 'p']], d => {
@@ -636,6 +666,14 @@ function wordDialog(id) {  // id changes if the American spelling is edited
         if (!t) return status('Pick a theme from the list.', true);
         if (keep() === false) return; w.th.push(t.id); changed(); render(); draw();
       };
+      d.querySelectorAll('[data-unclash]').forEach(b => b.onclick = () => { if (keep() === false) return; w.x = w.x.filter(t => t !== b.dataset.unclash); changed(); render(); draw(); });
+      d.querySelector('#wd-clashb').onclick = () => {
+        const p = val(d, '#wd-clash').trim(), t = P.themes.find(x => pathOf(x.id) === p);
+        if (!t) return status('Pick a theme from the list.', true);
+        if (keep() === false) return;
+        w.x ||= []; if (!w.x.includes(t.id)) w.x.push(t.id); changed(); render(); draw();
+      };
+      if (d.querySelector('#wd-rev')) d.querySelector('#wd-rev').onclick = () => { if (keep() === false) return; changed(); reviewDialog([w]); };
       d.querySelector('#wd-del').onclick = () => { delete P.words[id]; changed(); d.close(); render(); };
     });
   draw();
@@ -767,6 +805,137 @@ const PULL = {
   },
 };
 
+// ---------- theme check ----------
+// Claude is shown every playable theme and asked which other themes each word fits.
+// Results are stored as suggestions (w.sg) and only become links or clashes after review.
+
+const playable = () => P.themes.filter(t => !t.group);
+// A word's themes and their parents: fitting these is expected, not news.
+function related(w) { const s = new Set(); for (const t of w.th) for (const a of ix().anc[t] || []) s.add(a); return s; }
+
+function checkSystem(list) {
+  return `${GAME}
+
+Your job: for each word, find the other themes in the list below that the word also fits, besides the themes it is already in and their parent themes.
+- "clear": the word is a fair member of that theme; players would accept it there.
+- "arguable": not a strict member, but a player could reasonably think it belongs (another meaning of the word, a loose association, a common belief). These are what make a level unfair.
+Consider every meaning of a word: python is a snake and a programming language; mercury is a planet, an element and a god. Wordplay themes count too: foot fits "___ball".
+Leave out themes that are only loosely related. Only list words that fit at least one more theme, and refer to themes by their number.
+
+Themes:
+${list.map((t, i) => `${i}. ${t.name} (${pathOf(t.id).split(' > ').slice(0, -1).join(' > ')})${t.kind ? ' [' + KINDS[t.kind] + ']' : ''}${t.note ? ' - ' + t.note : ''}`).join('\n')}`;
+}
+
+let CHECK = null;  // {stop, done, total, found, cost} while a check runs
+function checkProgress() {
+  const c = CHECK;
+  $('#msg').classList.remove('err');
+  $('#msg').innerHTML = c ? `Checking themes: ${c.done} of ${c.total} words, ${c.found} suggestions, about $${c.cost.toFixed(2)} so far. ${c.stop ? 'Stopping after this batch…' : '<button id="stopCheck">Stop</button>'}` : '';
+}
+async function runCheck(words, effort) {
+  const list = playable(), system = checkSystem(list), BATCH = 100;
+  const schema = { type: 'object', additionalProperties: false, required: ['results'], properties: { results: { type: 'array', items: {
+    type: 'object', additionalProperties: false, required: ['word', 'fits'], properties: { word: { type: 'string' }, fits: { type: 'array', items: {
+      type: 'object', additionalProperties: false, required: ['theme', 'how'], properties: { theme: { type: 'integer' }, how: { type: 'string', enum: ['clear', 'arguable'] } } } } } } } } };
+  CHECK = { stop: false, done: 0, total: words.length, found: 0, cost: 0 };
+  let err = null;
+  try {
+    for (let i = 0; i < words.length && !CHECK.stop; i += BATCH) {
+      checkProgress();
+      const chunk = words.slice(i, i + BATCH);
+      const r = await claude('Words, each followed by the themes it is already in:\n' + chunk.map(w => `${w.t} - ${w.th.map(t => theme(t) ? theme(t).name : '').join('; ')}`).join('\n'),
+        schema, 16000, { system, effort });
+      CHECK.cost += lastCost;
+      const byText = new Map(chunk.map(w => [w.t.toLowerCase(), w]));
+      for (const res of r.results) {
+        const w = byText.get(String(res.word).toLowerCase());
+        if (!w) continue;
+        const rel = related(w);
+        for (const f of res.fits) {
+          const t = list[f.theme];
+          if (!t || rel.has(t.id) || (w.x || []).includes(t.id)) continue;
+          (w.sg ||= {})[t.id] = f.how === 'clear' ? 'c' : 'a';
+          CHECK.found++;
+        }
+      }
+      for (const w of chunk) w.ck = true;
+      CHECK.done += chunk.length;
+      changed(); render();
+    }
+  } catch (e) { err = e; }
+  const c = CHECK;
+  CHECK = null;
+  render();
+  checkProgress();
+  status(`${err ? 'Check stopped by an error: ' + err.message + '. ' : c.stop ? 'Check stopped. ' : 'Check finished. '}Checked ${c.done} of ${c.total} words, ${c.found} suggestions to review, about $${c.cost.toFixed(2)}.`, !!err);
+}
+
+function checkDialog() {
+  if (CHECK) return;
+  const t = UI.sel && theme(UI.sel), all = Object.values(P.words);
+  const inT = t ? all.filter(w => w.th.some(x => desc(t.id).has(x))) : [];
+  const opts = [];
+  if (t) opts.push(['themeNew', `In "${t.name}" and its sub-themes, not yet checked (${inT.filter(w => !w.ck).length})`], ['theme', `In "${t.name}" and its sub-themes, all (${inT.length})`]);
+  opts.push(['new', `Every word not yet checked (${all.filter(w => !w.ck).length})`], ['all', `Every word, again (${all.length})`]);
+  dialog('Check words against other themes', `<p>Claude looks at each word's other meanings and lists the other themes it fits: <b>clear</b> fits (the word could be used there) and <b>arguable</b> ones (a player might think it belongs). Nothing changes until you review the suggestions.</p>`
+    + field('Words to check', `<select id="ck-s">${options(opts, opts[0][0])}</select>`)
+    + field('Effort', `<select id="ck-e">${options([['low', 'Low: cheaper and faster'], ['medium', 'Medium: more thorough']], 'medium')}</select>`)
+    + `<p class="muted">Batches of 100 words, each sent with the list of all ${playable().length} playable themes (cached, so repeats are cheap). Model: ${esc(SET.model)}. The running cost is shown under the theme name, and you can stop at any time.</p>`,
+    [['Close', () => { }], ['Start', d => {
+      const k = val(d, '#ck-s');
+      const words = k === 'theme' ? inT : k === 'themeNew' ? inT.filter(w => !w.ck) : k === 'new' ? all.filter(w => !w.ck) : all;
+      if (!words.length) { status('No words to check.'); return false; }
+      if (!sessionKey) { status('Add your Anthropic API key in Settings first.', true); return false; }
+      runCheck(words, val(d, '#ck-e'));
+    }, 'p']]);
+}
+
+// Suggestions waiting for review, for the given words (default: the words in the current theme, or all).
+function reviewRows(words) {
+  if (!words) words = UI.sel ? Object.values(P.words).filter(w => w.th.some(x => desc(UI.sel).has(x))) : Object.values(P.words);
+  const rows = [];
+  for (const w of words) if (w && w.sg) for (const [t, k] of Object.entries(w.sg)) if (theme(t)) rows.push({ w, t, k });
+  return rows.sort((a, b) => form(a.w).localeCompare(form(b.w)) || a.k.localeCompare(b.k));
+}
+function applySuggestion(w, t, v) {
+  if (v === 'c') { if (!w.th.includes(t)) w.th.push(t); if (w.x) w.x = w.x.filter(x => x !== t); }
+  if (v === 'a' && !w.th.includes(t)) { w.x ||= []; if (!w.x.includes(t)) w.x.push(t); }
+  delete w.sg[t];
+  if (!Object.keys(w.sg).length) delete w.sg;
+}
+function reviewDialog(words) {
+  const rows = reviewRows(words), page = rows.slice(0, 300);
+  const body = !page.length ? '<p>No suggestions waiting here.</p>'
+    : `<p class="muted"><b>Link</b>: the word joins that theme and can be used for it. <b>Clash</b>: the word is kept out of any level with that theme. <b>Ignore</b>: drop the suggestion.</p>`
+    + `<div class="row"><span>Set all to:</span><button data-all="c">Link</button><button data-all="a">Clash</button><button data-all="i">Ignore</button><button data-all="s">As suggested</button></div>`
+    + `<table class="rv"><tr><th>Word</th><th>Other theme</th><th>Link</th><th>Clash</th><th>Ignore</th></tr>`
+    + page.map((r, i) => `<tr><td>${esc(form(r.w))}<br><small class="muted">${esc(r.w.th.map(t => theme(t) ? theme(t).name : '').join(', '))}</small></td>`
+      + `<td title="${esc(pathOf(r.t))}">${esc(theme(r.t).name)} <small class="muted">${r.k === 'c' ? 'clear' : 'arguable'}</small></td>`
+      + ['c', 'a', 'i'].map(v => `<td><input type="radio" name="rv${i}" value="${v}" data-k="${r.k}"${r.k === v ? ' checked' : ''}></td>`).join('') + '</tr>').join('')
+    + '</table>' + (rows.length > page.length ? `<p class="muted">Showing ${page.length} of ${rows.length}. Apply to see the rest.</p>` : '');
+  dialog(`Review suggestions (${rows.length})`, body, [['Close', () => { }], ...(page.length ? [['Apply', d => {
+    page.forEach((r, i) => applySuggestion(r.w, r.t, d.querySelector(`input[name="rv${i}"]:checked`).value));
+    changed(); render();
+    if (reviewRows(words).length) { reviewDialog(words); return false; }
+    setTimeout(() => status(`Applied ${page.length} suggestion${page.length === 1 ? '' : 's'}.`));
+  }, 'p']] : [])], d => {
+    d.querySelectorAll('[data-all]').forEach(b => b.onclick = () => {
+      d.querySelectorAll('table.rv input[type=radio]').forEach(r => { r.checked = r.value === (b.dataset.all === 's' ? r.dataset.k : b.dataset.all); });
+    });
+  });
+}
+
+// Other themes sharing words with this one (links or clashes), most first.
+function overlapHtml(id) {
+  const D = desc(id), skip = new Set([...D, ...(ix().anc[id] || [])]), n = {};
+  for (const w of Object.values(P.words)) {
+    if (!w.th.some(t => D.has(t))) continue;
+    for (const t of new Set([...w.th, ...(w.x || [])])) if (!skip.has(t)) n[t] = (n[t] || 0) + 1;
+  }
+  const top = Object.entries(n).sort((a, b) => b[1] - a[1]).slice(0, 6);
+  return top.length ? 'Shares words with: ' + top.map(([t, c]) => `<a data-goto="${t}" title="${esc(pathOf(t))}">${esc(theme(t).name)}</a> (${c})`).join(' · ') : '';
+}
+
 // ---------- events ----------
 
 let shownIds = [];
@@ -812,7 +981,7 @@ document.addEventListener('click', async e => {
     renderMain();
     return;
   }
-  const el = e.target.closest('[data-tog],[data-add],[data-ren],[data-del],[data-sel],[data-goto],[data-word],[data-sel-crumb],th[data-sort],button');
+  const el = e.target.closest('[data-tog],[data-add],[data-ren],[data-del],[data-sel],[data-goto],[data-word],[data-review],[data-sel-crumb],th[data-sort],button');
   if (!el || el.closest('dialog')) return;
   const ds = el.dataset;
   if (ds.tog) { UI.exp[ds.tog] = !UI.exp[ds.tog]; render(); }
@@ -823,6 +992,7 @@ document.addEventListener('click', async e => {
   else if (ds.goto) select(ds.goto);
   else if (ds.selCrumb !== undefined) select(ds.selCrumb);
   else if (ds.word) wordDialog(ds.word);
+  else if (ds.review) reviewDialog([P.words[ds.review]]);
   else if (ds.rm) { const w = P.words[ds.rm]; deleteWords([ds.rm]); render(); status(`Deleted "${form(w)}".`); }
   else if (ds.sort) { UI.dir = UI.sort === ds.sort ? -UI.dir : (ds.sort === 'z' ? -1 : 1); UI.sort = ds.sort; render(); }
   else switch (el.id) {
@@ -831,6 +1001,9 @@ document.addEventListener('click', async e => {
     case 'lock': UI.unlock = !UI.unlock; render(); break;
     case 'addroot': { const n = await ask('New top-level theme'); if (n) select(makeTheme(n, null)); break; }
     case 'genWords': genWordsDialog(); break;
+    case 'checkBtn': checkDialog(); break;
+    case 'reviewBtn': reviewDialog(); break;
+    case 'stopCheck': if (CHECK) { CHECK.stop = true; checkProgress(); } break;
     case 'genSubs': genSubsDialog(); break;
     case 'addWords': addWordsDialog(); break;
     case 'themeSet': themeDialog(); break;

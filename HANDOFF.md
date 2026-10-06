@@ -28,6 +28,10 @@ Called straight from the browser (`anthropic-dangerous-direct-browser-access`). 
 - Difficulty 1 to 5 is "auto" from Zipf (`autoDiff` in `app.js`: 4.8, 4.0, 3.3, 2.6 cut points) unless set by hand. Frequency is not familiarity (kiwi is rarer in text than it is unfamiliar, and homographs like mercury or apple are inflated), so hand overrides matter.
 - Theme difficulty defaults to depth in the tree (groups not counted), or is set by hand.
 
+## Theme check
+
+"Check themes…" sends words in batches of 100 to Claude with the numbered list of every playable (non-group) theme as a cached system prompt, and asks which other themes each word fits: "clear" (a fair member) or "arguable" (a player could think so). Fits to the word's own themes and their parents are dropped. Results are stored as suggestions; "Review suggestions" turns each into a link (word joins the theme), a clash, or nothing. The cost so far is computed from the usage the API returns (prices in `PRICE` in `app.js`). The theme header lists the themes sharing the most words (links or clashes) with the selected one: the confusable pairs.
+
 ## Data model (in memory)
 
 ```js
@@ -42,13 +46,14 @@ P = {
 - `group`: a container for browsing, never a playable theme.
 - `label`: the name shown in the game when it differs from `name`.
 - Word `t` is the American spelling (capitals kept for proper nouns such as Paris or Plato); `uk` is the British spelling when it differs. The key is a lowercase slug of `t`. The Spelling setting (toolbar toggle) picks which form is shown and written to the game file; search and duplicate checks use both. Import / export → "Find British spellings" asks Claude to fill in `uk` for older words.
+- Word `x`: clashes, themes a player might think the word belongs to; the level generator must never put the word in a level with them. `ck`: the word has been through the theme check. `sg`: suggestions from the check awaiting review, `{themeId: 'c' (clear fit) | 'a' (arguable)}`.
 - Word `z`: Zipf (the higher of the two spellings), `null` if rarer than the list, `undefined` if not looked up yet. `d`: null means auto.
 
 ## File formats
 
 Project file and IndexedDB autosave (`schema: 2`), compact: theme rows are arrays described by `themeFields`; word rows by `wordFields`; words refer to themes by **index** in the themes array. Zipf is stored times ten (0 = rarer than the list, -1 = unknown). Sources are one letter each (L llm, M manual, W wikidata, C conceptnet, D datamuse). Opening a schema 1 file (the first version) converts it; the first version's localStorage data (`wlb`) is migrated on first load.
 
-Game file (Import / export → Game file): minified, enabled words only, `v: 1`, `spelling: "US" | "UK"`. `themes: [id, name, label, parentIndex (-1 = top), group, kind, region, difficulty]`, `words: [text, zipf10, difficulty, [themeIndex…], otherSpelling?]` where `text` is in the chosen spelling.
+Game file (Import / export → Game file): minified, enabled words only, `v: 1`, `spelling: "US" | "UK"`. `themes: [id, name, label, parentIndex (-1 = top), group, kind, region, difficulty]`, `words: [text, zipf10, difficulty, [themeIndex…], [clashThemeIndex…], otherSpelling?]` where `text` is in the chosen spelling.
 
 Theme outline (`themes-starter.txt`, Load starter outline, Export outline): two spaces per level, groups end in `:`, and a kind may follow the name in brackets, e.g. `beach [place]`.
 
@@ -58,8 +63,8 @@ Single words 3 to 12 letters; two-word names (shown on two lines in the game) up
 
 ## Known gaps and next steps
 
-- A word's theme links only come from where it was generated or added. The game rule "no word fits two themes in a level" needs every theme a word truly fits, so a cross-check pass (Claude asked which nearby themes each word also fits) is the next big piece.
-- No links between themes beyond parent/child (siblings and easily confused themes are what make levels hard).
+- The theme check only knows themes that exist when it runs; after adding themes, re-check (or check "every word, again").
+- Confusable theme pairs are shown but not stored; the level generator can compute them from links and clashes.
 - No plural merging, and only US/UK spelling pairs (not other variants such as donut/doughnut in the same dialect).
 - No profanity list by default.
 - Multi-language: theme ids are stable, words are not yet keyed by concept.
