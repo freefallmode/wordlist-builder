@@ -1,0 +1,230 @@
+<!doctype html>
+<html lang="en"><head><meta charset="utf-8"><meta name="viewport" content="width=device-width,initial-scale=1">
+<title>Wordlist Builder</title>
+<style>
+:root{--bg:#fafaf7;--fg:#222;--mut:#777;--bd:#d8d8d0;--ac:#2f6f4f;--card:#fff}
+@media(prefers-color-scheme:dark){:root{--bg:#191a19;--fg:#e8e8e2;--mut:#999;--bd:#3a3b38;--ac:#5fb488;--card:#222321}}
+*{box-sizing:border-box}body{margin:0;font:14px system-ui,sans-serif;background:var(--bg);color:var(--fg)}
+#app{display:grid;grid-template-columns:260px 1fr;min-height:100vh}
+@media(max-width:800px){#app{grid-template-columns:1fr}}
+aside{border-right:1px solid var(--bd);padding:10px}main{padding:14px;min-width:0}
+h3{margin:12px 0 6px;font-size:13px;text-transform:uppercase;letter-spacing:.05em;color:var(--mut)}
+.card{background:var(--card);border:1px solid var(--bd);border-radius:8px;padding:10px;margin-bottom:12px}
+.th{display:flex;justify-content:space-between;align-items:center;padding:4px 6px;border-radius:6px;cursor:pointer}
+.th.on{background:var(--ac);color:#fff}.th small{opacity:.7}.th .ac{display:none}.th:hover .ac,.th.on .ac{display:inline}
+button,input,select,textarea{font:inherit;color:inherit;background:var(--card);border:1px solid var(--bd);border-radius:6px;padding:4px 8px}
+button{cursor:pointer}button.p{background:var(--ac);color:#fff;border-color:var(--ac)}
+.dz{outline:2px dashed var(--ac)}.dzt{box-shadow:0 -2px 0 var(--ac)}.dzb{box-shadow:0 2px 0 var(--ac)}.th[draggable=true]{cursor:grab}.tg{display:inline-block;width:14px;font-style:normal;cursor:pointer;opacity:.7}.th button{padding:0 5px;background:transparent;border:0;color:inherit}
+.row{display:flex;flex-wrap:wrap;gap:8px;align-items:center;margin:6px 0}
+input[type=number]{width:60px}textarea{width:100%}
+table{width:100%;border-collapse:collapse}td,th{padding:3px 6px;border-bottom:1px solid var(--bd);text-align:left}
+tr.off td{opacity:.5}.b{font-size:11px;border:1px solid var(--bd);border-radius:9px;padding:0 6px;margin-right:3px;color:var(--mut)}
+#st{color:var(--mut);min-height:1.3em}#st.err{color:#c0392b}.tw{overflow-x:auto}
+</style></head><body>
+<div id="app">
+<aside><h3 id="thh" style="cursor:pointer" title="Click to deselect theme">Themes</h3><div class="row"><button id="expall">Expand all</button><button id="colall">Collapse all</button><button id="lockbtn"></button></div><div id="tree"></div><div class="row"><button id="addroot">+ Root theme</button></div>
+<h3>Project</h3><div class="row"><button id="clrall">Clear ALL words</button><button id="clrthemes">Clear themes</button></div>
+<div class="row"><button data-ext="json">Export themes</button><button data-ext="txt">Export outline</button></div><div class="row"><label class="b" style="cursor:pointer">Import themes<input id="impth" type="file" accept=".json,.txt" hidden></label></div><div class="row"><label class="b" style="cursor:pointer">Import project<input id="imp" type="file" accept=".json" hidden></label></div></aside>
+<main>
+<h2 id="ttl" style="margin-top:0">Select a theme</h2>
+<div class="row"><label>Theme difficulty <select id="thd"></select></label><label title="Containers for navigation; not counted in difficulty levels"><input type="checkbox" id="thg"> group</label><input id="nsub" type="number" value="8" min="1" max="30"><button class="p" id="gensub">Generate sub-themes</button><small style="color:var(--mut)">uses the LLM key/model below</small></div>
+<div class="card" id="seeds">
+ <div class="row"><b>Wikidata</b><input id="wd" placeholder="class name or QID (blank = theme name)" size="30"><button class="p" data-run="wd">Pull</button></div>
+ <div class="row"><b>ConceptNet</b><input id="cn" placeholder="IsA term (blank = theme name)" size="30"><button class="p" data-run="cn">Pull</button></div>
+ <div class="row"><b>Datamuse</b><select id="dmm"><option value="rel_gen">kinds of</option><option value="rel_trg">associated with</option><option value="ml">means like</option></select><input id="dm" placeholder="'kind of' term, e.g. dessert (blank = theme name)" size="30"><button class="p" data-run="dm">Pull</button></div>
+ <div class="row"><b>LLM</b><input id="key" type="password" placeholder="Anthropic API key (not saved)" size="26"><input id="model" value="claude-sonnet-5-5" size="16"><input id="cnt" type="number" value="60"><button class="p" data-run="llm">Generate</button></div>
+ <div class="row"><b>Manual</b><textarea id="man" rows="2" placeholder="paste words, one per line or comma-separated"></textarea><button data-run="man">Add</button></div>
+ <div id="st"></div><div id="wdc"></div>
+</div>
+<details class="card" open><summary><b>Filters</b> (each optional; failing words are kept but added as disabled)</summary>
+ <div class="row"><label><input type="checkbox" id="fl" checked> Length</label> <input type="number" id="mn" value="3"> to <input type="number" id="mx" value="12">
+ <label><input type="checkbox" id="fc" checked> Letters only</label><label><input type="checkbox" id="fm" checked> Block multi-word</label><label><input type="checkbox" id="fp"> Blocklist</label></div>
+ <textarea id="bl" rows="1" placeholder="blocklist words, comma/space separated"></textarea>
+ <div class="row"><button id="reapply">Re-apply filters to shown words</button><small style="color:var(--mut)">overrides manual toggles</small></div>
+</details>
+<div class="card">
+ <div class="row"><input id="q" placeholder="search words"><label><input type="checkbox" id="sub" checked> include sub-themes</label>
+ <button id="ena">Enable shown</button><button id="dis">Disable shown</button><button id="clrth">Clear theme words</button><span id="cntinfo" style="color:var(--mut)"></span></div>
+ <div class="tw"><table><thead><tr><th>On</th><th>Word</th><th>Source</th><th>Diff</th><th>Themes</th><th>Note</th><th></th></tr></thead><tbody id="rows"></tbody></table></div>
+</div>
+<div class="card"><b>Export</b> <div class="row"><label><input type="checkbox" id="eo"> enabled words only</label>
+ <button class="p" data-ex="json">Download JSON</button><button data-ex="csv">Download CSV</button></div></div>
+</main></div>
+<script>
+const $=s=>document.querySelector(s);
+const esc=s=>String(s).replace(/[&<>"]/g,c=>({'&':'&amp;','<':'&lt;','>':'&gt;','"':'&quot;'}[c]));
+const ask=(msg,def)=>new Promise(res=>{const o=document.createElement('div');o.style.cssText='position:fixed;inset:0;background:#0006;display:flex;align-items:center;justify-content:center;z-index:9';
+ const isP=def!==undefined;o.innerHTML='<div class="card" style="min-width:260px;margin:0"><div style="margin-bottom:8px">'+esc(msg)+'</div>'+(isP?'<input id="dlgi" style="width:100%;margin-bottom:8px">':'')+'<div class="row" style="justify-content:flex-end"><button id="dlgc">Cancel</button><button class="p" id="dlgo">OK</button></div></div>';
+ document.body.appendChild(o);const i=o.querySelector('#dlgi');if(i){i.value=def;i.focus();i.select()}
+ const done=v=>{o.remove();res(v)};o.querySelector('#dlgo').onclick=()=>done(isP?i.value:true);o.querySelector('#dlgc').onclick=()=>done(isP?null:false);
+ if(i)i.onkeydown=e=>{if(e.key==='Enter')done(i.value);if(e.key==='Escape')done(null)}});
+let S={themes:{},words:{},sel:null,f:{},exp:{},unlock:false};
+let had=false;
+try{const j=localStorage.getItem('wlb');if(j){had=true;S=Object.assign(S,JSON.parse(j))}}catch(e){}
+S.unlock=false;const save=()=>{try{localStorage.setItem('wlb',JSON.stringify(S))}catch(e){}};
+const slug=t=>t.normalize('NFKD').replace(/[\u0300-\u036f]/g,'').replace(/[^\p{L}\p{N}]+/gu,'_').replace(/^_|_$/g,'');
+const est=t=>{const n=t.replace(/[ -]/g,'').length;return n<=4?1:n<=6?2:n<=8?3:n<=10?4:5};
+const cur=()=>S.themes[S.sel];
+const lvl=id=>{let n=0;for(let t=S.themes[id],k=0;t&&k<50;t=S.themes[t.parent],k++)if(!t.g)n++;return Math.max(1,n)};
+const eff=id=>{const t=S.themes[id];return t&&t.d?t.d:Math.min(5,lvl(id))};
+const tOut=t=>({id:t.id,name:t.name,parent:t.parent,level:lvl(t.id),difficulty:eff(t.id),group:!!t.g});
+function mk(name,parent){let b=slug(name).toLowerCase()||'theme',id=b,i=2;while(S.themes[id])id=b+'_'+i++;S.themes[id]={id,name,parent:parent||null,wd:'',cn:'',d:null};return id}
+if(!had&&!Object.keys(S.themes).length)[['food'],['desserts','food'],['fastfood','food'],['nature'],['forest','nature'],['water','nature'],['colors'],['flowers'],['countries']].forEach(([n,p])=>mk(n,p));
+const desc=id=>{const s=new Set([id]);let c=1;while(c){c=0;for(const t of Object.values(S.themes))if(t.parent&&s.has(t.parent)&&!s.has(t.id)){s.add(t.id);c=1}}return s};
+const inT=(w,s)=>w.tags.some(x=>s.has(x));
+const FL=['fl','mn','mx','fc','fm','fp','bl'];
+const F=()=>({len:$('#fl').checked,min:+$('#mn').value,max:+$('#mx').value,ch:$('#fc').checked,mw:$('#fm').checked,pf:$('#fp').checked,bl:new Set($('#bl').value.toLowerCase().split(/[\s,]+/).filter(Boolean))});
+function reason(t,f){const core=t.replace(/[ -]/g,'');
+ if(f.len&&(core.length<f.min||core.length>f.max))return'length';
+ if(f.ch&&!/^\p{L}+$/u.test(core))return'characters';
+ if(f.mw&&/[ -]/.test(t))return'multi-word';
+ if(f.pf&&t.split(/[ -]/).some(w=>f.bl.has(w)))return'blocklist';return''}
+function add(list,src,tag){let n=0;const f=F();
+ for(const raw of list){const t=String(raw).trim().toLowerCase().replace(/\s+/g,' ');if(!t||t.length>60)continue;
+  const id=slug(t);if(!id)continue;let w=S.words[id];
+  if(!w){const r=reason(t,f);w=S.words[id]={id,t,tags:[],on:!r,d:est(t),src:[],note:r};n++}
+  if(!w.tags.includes(tag))w.tags.push(tag);if(!w.src.includes(src))w.src.push(src)}
+ return n}
+const status=(m,e)=>{$('#st').textContent=m;$('#st').className=e?'err':''};
+const pathName=id=>{const p=[];for(let t=S.themes[id];t;t=S.themes[t.parent])p.unshift(t.name);return p.join(' > ')};
+const pull={
+ async wd(){const th=cur();const q=th.wd||th.name;let id=/^Q\d+$/i.test(q)?q.toUpperCase():null;
+  if(!id){const r=await(await fetch('https://www.wikidata.org/w/api.php?action=wbsearchentities&format=json&language=en&limit=7&origin=*&search='+encodeURIComponent(q))).json();
+   if(!r.search||!r.search.length)throw Error('No Wikidata match for '+q);
+   $('#wdc').innerHTML='<b>Pick the right match:</b>'+r.search.map(x=>`<div><button data-qid="${x.id}">${esc(x.label)} (${x.id})</button> <small>${esc(x.description||'no description')}</small></div>`).join('');
+   status('Choose which "'+q+'" you mean.');return null}
+  const sp=`SELECT ?l (MAX(?s) AS ?m) WHERE{{?i wdt:P31/wdt:P279* wd:${id}}UNION{?i wdt:P279+ wd:${id}}?i wikibase:sitelinks ?s.?i rdfs:label ?l.FILTER(lang(?l)="en")}GROUP BY ?l ORDER BY DESC(?m) LIMIT 300`;
+  const r=await fetch('https://query.wikidata.org/sparql?format=json&query='+encodeURIComponent(sp));
+  if(!r.ok)throw Error('Wikidata '+r.status+' (class may be too broad)');
+  return add((await r.json()).results.bindings.map(b=>b.l.value),'wikidata',th.id)},
+ async cn(){const th=cur();const term=(th.cn||th.name).toLowerCase().trim().replace(/\s+/g,'_');
+  const r=await fetch('https://api.conceptnet.io/query?end=/c/en/'+encodeURIComponent(term)+'&rel=/r/IsA&limit=500');
+  if(!r.ok)throw Error('ConceptNet '+r.status);
+  return add((await r.json()).edges.filter(e=>e.start.language==='en').map(e=>e.start.label),'conceptnet',th.id)},
+async dm(){const th=cur();const term=(th.dm||th.name).toLowerCase().trim();
+  const r=await fetch('https://api.datamuse.com/words?max=1000&md=p&'+$('#dmm').value+'='+encodeURIComponent(term));
+  if(!r.ok)throw Error('Datamuse '+r.status);
+  const j=await r.json();if(!j.length)throw Error('No results for "'+term+'" (try the singular form)');
+  return add(j.filter(x=>!x.tags||x.tags.includes('n')).map(x=>x.word),'datamuse',th.id)},
+ async llm(){const th=cur(),key=$('#key').value.trim();if(!key)throw Error('Paste an API key first');
+  const r=await fetch('https://api.anthropic.com/v1/messages',{method:'POST',headers:{'content-type':'application/json','x-api-key':key,'anthropic-version':'2023-06-01','anthropic-dangerous-direct-browser-access':'true'},
+   body:JSON.stringify({model:$('#model').value,max_tokens:2000,messages:[{role:'user',content:`List ${$('#cnt').value} common English words or short phrases for the word-game theme "${pathName(th.id)}". Lowercase, singular, no duplicates, only clear members of the theme. Reply with only a JSON array of strings.`}]})});
+  const j=await r.json();if(!r.ok)throw Error((j.error&&j.error.message)||r.status);
+  const m=j.content.map(c=>c.text||'').join('').match(/\[[\s\S]*\]/);if(!m)throw Error('No JSON in reply');
+  return add(JSON.parse(m[0]),'llm',th.id)},
+ async man(){const n=add($('#man').value.split(/[\n,]+/),'manual',cur().id);$('#man').value='';return n}};
+async function run(k){if(!S.sel)return;status('Working…');
+ try{$('#wdc').innerHTML='';const n=await pull[k]();if(n!==null)status('Added '+n+' new words.')}catch(e){status('Error: '+e.message,1)}save();render()}
+function count(id){const s=desc(id);let a=0,b=0;for(const w of Object.values(S.words))if(inT(w,s)){b++;if(w.on)a++}return a+'/'+b}
+function tree(p,d){return Object.values(S.themes).filter(t=>t.parent===p).map(t=>{const kids=Object.values(S.themes).some(x=>x.parent===t.id),op=S.exp[t.id];
+ return `<div class="th${t.id===S.sel?' on':''}"${S.unlock?' draggable="true"':''} style="padding-left:${d*14+6}px" data-sel="${t.id}"><span><i class="tg"${kids?` data-tog="${t.id}"`:''}>${kids?(op?'▾':'▸'):''}</i>${t.g?'<b>'+esc(t.name)+'</b>':esc(t.name)} <small>${count(t.id)}</small></span><span class="ac">${kids?`<button data-xall="${t.id}" title="Expand all below">⊞</button><button data-call="${t.id}" title="Collapse all below">⊟</button>`:''}<button data-add="${t.id}">+</button><button data-ren="${t.id}">✎</button><button data-del="${t.id}">✕</button></span></div>`+(kids&&op?tree(t.id,d+1):'')}).join('')}
+const shown=()=>{if(!S.sel)return[];const s=$('#sub').checked?desc(S.sel):new Set([S.sel]),q=$('#q').value.toLowerCase();
+ return Object.values(S.words).filter(w=>inT(w,s)&&(!q||w.t.includes(q))).sort((a,b)=>a.t.localeCompare(b.t))};
+let lastSel;
+function render(){if(lastSel!==S.sel){$('#wdc').innerHTML='';lastSel=S.sel}$('#tree').innerHTML=tree(null,0);const th=cur();
+ $('#ttl').textContent=th?pathName(th.id):'Select a theme';
+ if(th){$('#wd').value=th.wd||'';$('#cn').value=th.cn||'';$('#dm').value=th.dm||'';
+  $('#thd').innerHTML='<option value="">default ('+Math.min(5,lvl(th.id))+')</option>'+[1,2,3,4,5].map(n=>`<option${th.d===n?' selected':''}>${n}</option>`).join('')}
+ $('#lockbtn').textContent=S.unlock?'🔓':'🔒';$('#lockbtn').title=S.unlock?'Unlocked: drop on a theme to nest it, near a row edge to reorder, or on the Themes heading for top level. Click to lock.':'Locked. Click to unlock dragging.';
+ $('#thg').checked=!!(th&&th.g);$('#thg').disabled=!th;
+ if(!th)$('#wd').value=$('#cn').value=$('#dm').value='';
+ $('#thd').disabled=!th;$('#gensub').textContent=th?'Generate sub-themes':'Generate root themes';
+ const ws=shown();$('#cntinfo').textContent=ws.length+' words, '+ws.filter(w=>w.on).length+' enabled';
+ $('#rows').innerHTML=ws.slice(0,400).map(w=>`<tr class="${w.on?'':'off'}"><td><input type="checkbox" data-on="${w.id}" ${w.on?'checked':''}></td><td>${esc(w.t)}</td><td>${w.src.map(s=>'<span class="b">'+s+'</span>').join('')}</td>
+ <td><select data-d="${w.id}">${[1,2,3,4,5].map(n=>`<option${n===w.d?' selected':''}>${n}</option>`).join('')}</select></td>
+ <td>${w.tags.map(t=>'<span class="b">'+esc(S.themes[t]?S.themes[t].name:t)+'</span>').join('')}</td><td>${esc(w.note)}</td><td><button data-rm="${w.id}">✕</button></td></tr>`).join('')+(ws.length>400?'<tr><td colspan="7">Showing first 400, use search to narrow.</td></tr>':'')}
+function dl(txt,name){const a=document.createElement('a');a.href=URL.createObjectURL(new Blob([txt]));a.download=name;a.click()}
+async function genSub(){const key=$('#key').value.trim();if(!key)return status('Paste an API key in the LLM row first',1);
+ const n=Math.max(1,Math.min(30,+$('#nsub').value||8)),p=S.sel||null;status('Generating…');
+ try{const kids=Object.values(S.themes).filter(t=>t.parent===p).map(t=>t.name);
+  const ctx=p?'sub-themes of the word-game theme "'+pathName(p)+'"':'top-level themes for a word puzzle game covering a wide range of topics';
+  const r=await fetch('https://api.anthropic.com/v1/messages',{method:'POST',headers:{'content-type':'application/json','x-api-key':key,'anthropic-version':'2023-06-01','anthropic-dangerous-direct-browser-access':'true'},
+   body:JSON.stringify({model:$('#model').value,max_tokens:1000,messages:[{role:'user',content:`Suggest ${n} distinct ${ctx}. Each must be a clear category that could hold at least 20 common English words. Short lowercase names (1-3 words), no overlap with each other${kids.length?' or with these existing ones: '+kids.join(', '):''}. Reply with only a JSON array of strings.`}]})});
+  const j=await r.json();if(!r.ok)throw Error((j.error&&j.error.message)||r.status);
+  const m=j.content.map(c=>c.text||'').join('').match(/\[[\s\S]*\]/);if(!m)throw Error('No JSON in reply');
+  let c=0;for(const x of JSON.parse(m[0])){const name=String(x).trim().toLowerCase();if(!name||kids.some(k=>k.toLowerCase()===name))continue;mk(name,p);kids.push(name);c++}if(p)S.exp[p]=true;
+  status('Added '+c+' theme'+(c===1?'':'s')+'.')}catch(e){status('Error: '+e.message,1)}save();render()}
+function expThemes(k){const ts=Object.values(S.themes);
+ if(k==='json')return dl(JSON.stringify({schema:1,type:'themes',themes:ts.map(t=>({...tOut(t),wd:t.wd||'',cn:t.cn||'',dm:t.dm||''}))},null,1),'themes.json');
+ const out=(p,d)=>ts.filter(t=>t.parent===p).map(t=>'  '.repeat(d)+t.name+(t.g?':':'')+'\n'+out(t.id,d+1)).join('');dl(out(null,0),'themes.txt')}
+function importThemes(txt){let n=0,moved=0;
+ if(/^\s*[\[{]/.test(txt)){const j=JSON.parse(txt),list=Array.isArray(j)?j:j.themes;if(!Array.isArray(list))throw Error('no themes array in file');
+  const added=new Set();
+  list.forEach(x=>{if(!x||!x.id||!x.name||S.themes[x.id])return;S.themes[x.id]={id:String(x.id),name:String(x.name),parent:null,wd:x.wd||'',cn:x.cn||'',dm:x.dm||'',d:x.difficulty&&x.difficulty!==x.level?+x.difficulty:null,g:!!x.group};added.add(x.id);n++});
+  const byId=Object.fromEntries(list.filter(x=>x&&x.id).map(x=>[x.id,x]));
+  list.forEach(x=>{if(!added.has(x.id)||!x.parent||!S.themes[x.parent])return;
+   for(let p=x.parent,g=0;p;p=(byId[p]||{}).parent,g++)if(p===x.id||g>50)return;
+   S.themes[x.id].parent=x.parent})}
+ else{const st=[];for(const line of txt.split(/\r?\n/)){if(!line.trim())continue;
+  const ind=line.match(/^\s*/)[0].replace(/\t/g,'  ').length;let name=line.trim();const grp=name.endsWith(':');if(grp)name=name.slice(0,-1).trim();
+  while(st.length&&st[st.length-1].ind>=ind)st.pop();
+  const parent=st.length?st[st.length-1].id:null,lc=name.toLowerCase(),all=Object.values(S.themes);
+  let ex=all.find(t=>t.parent===parent&&t.name.toLowerCase()===lc);
+  if(!ex&&parent&&!grp){const r=all.find(t=>!t.parent&&t.name.toLowerCase()===lc);
+   if(r){let ok=true;for(let p=parent,k=0;p&&k<50;p=(S.themes[p]||{}).parent,k++)if(p===r.id)ok=false;if(ok){r.parent=parent;ex=r;moved++}}}
+  let id=ex?ex.id:null;if(!id){id=mk(name,parent);if(grp)S.themes[id].g=true;n++}else if(grp)ex.g=true;st.push({ind,id})}}
+ return {n,moved}}
+function exp(k){const ws=Object.values(S.words).filter(w=>!$('#eo').checked||w.on);
+ if(k==='json')return dl(JSON.stringify({schema:1,generated:new Date().toISOString(),themes:Object.values(S.themes).map(tOut),
+  words:ws.map(w=>({id:w.id,text:w.t,tags:w.tags,enabled:w.on,difficulty:w.d,sources:w.src}))},null,1),'wordlists.json');
+ dl('id,text,tags,enabled,difficulty,sources\n'+ws.map(w=>[w.id,w.t,w.tags.join('|'),w.on?1:0,w.d,w.src.join('|')].map(v=>'"'+String(v).replace(/"/g,'""')+'"').join(',')).join('\n'),'wordlists.csv')}
+document.addEventListener('click',async e=>{const t=e.target,g=a=>t.dataset[a];
+ if(g('qid')){cur().wd=g('qid');$('#wd').value=g('qid');save();return run('wd')}
+ else if(g('add')){const n=await ask('Sub-theme name','');if(n){S.sel=mk(n,g('add'));S.exp[g('add')]=true}}
+ else if(g('ren')){const n=await ask('New name',S.themes[g('ren')].name);if(n)S.themes[g('ren')].name=n}
+ else if(g('del')){if(await ask('Delete theme and its sub-themes? Words left with no theme are removed.')){const s=desc(g('del'));s.forEach(i=>delete S.themes[i]);
+  for(const w of Object.values(S.words)){w.tags=w.tags.filter(x=>!s.has(x));if(!w.tags.length)delete S.words[w.id]}if(s.has(S.sel))S.sel=null}}
+ else if(g('xall'))desc(g('xall')).forEach(i=>S.exp[i]=true);
+ else if(g('call'))desc(g('call')).forEach(i=>delete S.exp[i]);
+ else if(g('tog'))S.exp[g('tog')]=!S.exp[g('tog')];
+ else if(t.id==='lockbtn')S.unlock=!S.unlock;
+ else if(t.id==='expall')Object.keys(S.themes).forEach(i=>S.exp[i]=true);
+ else if(t.id==='colall')S.exp={};
+ else if(t.id==='thh')S.sel=null;
+ else if(g('sel'))S.sel=S.sel===g('sel')?null:g('sel');
+ else if(t.closest('[data-sel]')&&!t.closest('.ac')){const id=t.closest('[data-sel]').dataset.sel;S.sel=S.sel===id?null:id}
+ else if(g('rm'))delete S.words[g('rm')];
+ else if(g('run'))return run(g('run'));
+ else if(g('ex'))return exp(g('ex'));
+ else if(g('ext'))return expThemes(g('ext'));
+ else if(t.id==='addroot'){const n=await ask('Theme name','');if(n)S.sel=mk(n,null)}
+ else if(t.id==='ena'||t.id==='dis')shown().forEach(w=>w.on=t.id==='ena');
+ else if(t.id==='gensub')return genSub();
+ else if(t.id==='clrth'){if(!S.sel||!await ask('Remove all words from this theme and its sub-themes? (Words also in other themes are kept there.)'))return;const s=desc(S.sel);
+  for(const w of Object.values(S.words)){w.tags=w.tags.filter(x=>!s.has(x));if(!w.tags.length)delete S.words[w.id]}}
+ else if(t.id==='clrthemes'){if(!await ask('Delete ALL themes and ALL words? This empties the whole project.'))return;S.themes={};S.words={};S.sel=null;S.exp={}}
+ else if(t.id==='clrall'){if(!await ask('Delete ALL words in ALL themes? Themes are kept.'))return;S.words={}}
+ else if(t.id==='reapply'){if(!await ask('Reset enabled state of shown words from the filters?'))return;const f=F();shown().forEach(w=>{const r=reason(w.t,f);w.on=!r;w.note=r})}
+ else return;save();render()});
+document.addEventListener('change',e=>{const t=e.target;
+ if(t.dataset.on){S.words[t.dataset.on].on=t.checked;S.words[t.dataset.on].note=''}
+ else if(t.dataset.d)S.words[t.dataset.d].d=+t.value;
+ else if(t.id==='thg'&&cur())cur().g=t.checked;
+ else if(t.id==='thd'&&cur())cur().d=t.value?+t.value:null;
+ else if(t.id==='wd'&&cur())cur().wd=t.value.trim();else if(t.id==='cn'&&cur())cur().cn=t.value.trim();else if(t.id==='dm'&&cur())cur().dm=t.value.trim();
+ else if(FL.includes(t.id)){S.f={};FL.forEach(i=>S.f[i]=$('#'+i).type==='checkbox'?$('#'+i).checked:$('#'+i).value)}
+ else if(t.id==='impth'){const f=t.files[0];if(!f)return;const r=new FileReader();
+  r.onload=()=>{try{const {n,moved}=importThemes(r.result);status('Imported '+n+' new theme'+(n===1?'':'s')+(moved?', moved '+moved+' existing into new parents':'')+'.')}catch(err){status('Theme import failed: '+err.message,1)}save();render()};r.readAsText(f);t.value='';return}
+ else if(t.id==='imp'){const r=new FileReader();r.onload=async()=>{try{const j=JSON.parse(r.result);if(!await ask('Replace current project?'))return;S.themes={};S.words={};
+  j.themes.forEach(x=>S.themes[x.id]={id:x.id,name:x.name,parent:x.parent,wd:'',cn:'',d:x.difficulty&&x.difficulty!==x.level?x.difficulty:null,g:!!x.group});
+  j.words.forEach(x=>S.words[x.id]={id:x.id,t:x.text,tags:x.tags,on:x.enabled,d:x.difficulty,src:x.sources||[],note:''});S.sel=null;save();render()}catch(err){status('Import failed: '+err.message,1)}};r.readAsText(t.files[0]);return}
+ save();render()});
+let drag=null;
+const zone=e=>e.target.closest&&e.target.closest('[data-sel],#thh');
+const where=(e,r)=>{if(r.id==='thh')return'in';const b=r.getBoundingClientRect(),y=(e.clientY-b.top)/b.height;return y<.28?'before':y>.72?'after':'in'};
+const np=(tid,w)=>w==='in'?(tid||null):(S.themes[tid].parent||null);
+const canDrop=(id,tid,w)=>id&&id!==tid&&!desc(id).has(np(tid,w));
+function moveTheme(id,tid,w){const d=S.themes[id],p=np(tid,w);d.parent=p;const list=Object.values(S.themes).filter(t=>t.id!==id);
+ if(w==='in')list.push(d);else{const i=list.findIndex(t=>t.id===tid);list.splice(w==='before'?i:i+1,0,d)}
+ S.themes=Object.fromEntries(list.map(t=>[t.id,t]));if(p)S.exp[p]=true}
+document.addEventListener('dragstart',e=>{const r=e.target.closest&&e.target.closest('[data-sel]');if(!r||!S.unlock)return;drag=r.dataset.sel;e.dataTransfer.setData('text/plain',drag);e.dataTransfer.effectAllowed='move'});
+document.addEventListener('dragover',e=>{const r=zone(e);if(!drag||!r)return;const w=where(e,r);r.classList.remove('dz','dzt','dzb');
+ if(canDrop(drag,r.dataset.sel||null,w)){e.preventDefault();r.classList.add(w==='in'?'dz':w==='before'?'dzt':'dzb')}});
+document.addEventListener('dragleave',e=>{const r=zone(e);if(r)r.classList.remove('dz','dzt','dzb')});
+document.addEventListener('drop',e=>{const r=zone(e);if(!drag||!r)return;e.preventDefault();const tid=r.dataset.sel||null,w=where(e,r);
+ if(canDrop(drag,tid,w)){moveTheme(drag,tid,w);save()}drag=null;render()});
+document.addEventListener('dragend',()=>{drag=null;render()});
+$('#q').addEventListener('input',render);
+FL.forEach(i=>{if(S.f[i]!==undefined){const el=$('#'+i);el.type==='checkbox'?el.checked=S.f[i]:el.value=S.f[i]}});
+render();
+</script></body></html>

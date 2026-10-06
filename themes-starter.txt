@@ -1,0 +1,285 @@
+Food & Drink:
+  food
+    desserts
+      cakes
+      ice cream flavors
+    fastfood
+    fruits
+      citrus fruits
+      berries
+      tropical fruits
+    vegetables
+      root vegetables
+      leafy greens
+    meats
+    seafood
+    dairy
+    cheeses
+    breads and pastries
+    pasta and noodles
+    herbs and spices
+    nuts and seeds
+    sweets and candy
+    breakfast foods
+    sauces and condiments
+    cuisines
+  drinks
+    hot drinks
+    soft drinks
+    cocktails
+    wines
+    juices
+Nature & Animals:
+  nature
+    forest
+      trees
+      forest plants
+    water
+      rivers
+      lakes
+      seas and oceans
+      water sports
+    weather
+    landforms
+    rocks and minerals
+    natural disasters
+    deserts
+  animals
+    mammals
+    birds
+    reptiles
+    amphibians
+    fish
+    insects
+    sea creatures
+    farm animals
+    pets
+    dog breeds
+    cat breeds
+    dinosaurs
+    baby animals
+    animal homes
+    animal sounds
+  flowers
+  garden
+    garden tools
+    garden plants
+    herbs
+Places & Travel:
+  countries
+    european countries
+    asian countries
+    african countries
+    north american countries
+    south american countries
+    island nations
+  geography
+    capital cities
+    world cities
+    us states
+    mountains
+    islands
+    famous landmarks
+    continents and regions
+  travel
+    hotel
+    camping
+    beach
+    tourist attractions
+    luggage
+    farm
+    restaurant
+    supermarket
+    hospital
+    zoo
+  transport
+    cars
+    car brands
+    aircraft
+    boats and ships
+    trains
+    bicycles
+    road words
+    airport words
+Body & People:
+  body and health
+    body parts
+    bones
+    organs
+    senses
+    emotions
+    illnesses
+    medical terms
+    dental terms
+  people
+    family
+    relationships
+    personality traits
+    greetings
+    ages and stages
+Everyday Life:
+  home
+    rooms
+    furniture
+    kitchen items
+    appliances
+    bathroom items
+    bedroom items
+    tools
+    cleaning items
+    building materials
+  clothing
+    clothes
+    shoes
+    hats
+    jewelry
+    fabrics
+    accessories
+  holidays
+    christmas
+    halloween
+    easter
+    new year
+    thanksgiving
+    weddings
+    birthdays
+    festivals
+  time
+    months
+    days and seasons
+    time units
+    zodiac signs
+    chinese zodiac
+    clocks and calendars
+Society & Work:
+  society
+    government
+    law and crime
+    money and finance
+    currencies
+    shops and stores
+    public places
+    religion terms
+    military ranks
+  jobs
+    medical jobs
+    trades
+    science jobs
+    service jobs
+    arts jobs
+    office items
+    tech jobs
+  school
+    school subjects
+    stationery
+    classroom items
+    university terms
+Sports & Games:
+  sports
+    ball sports
+    olympic sports
+    winter sports
+    martial arts
+    sports equipment
+    athletics
+    golf terms
+    football terms
+  games and hobbies
+    board games
+    card games
+    video game genres
+    chess terms
+    crafts
+    toys
+    playground
+    puzzles
+Arts & Entertainment:
+  music
+    instruments
+    music genres
+    music terms
+    dances
+    composers
+    singing
+  arts
+    painting
+    painters
+    art movements
+    theatre
+    poetry terms
+    photography
+    architecture styles
+  entertainment
+    movie genres
+    tv genres
+    circus
+    magic
+    comedy
+  literature
+    book genres
+    authors
+    fairy tale characters
+    shakespeare
+History & Myth:
+  history
+    ancient civilizations
+    medieval
+    explorers
+    castles
+    pirates
+    wars and battles
+    famous leaders
+    archaeology
+  mythology and fantasy
+    greek gods
+    roman gods
+    norse gods
+    egyptian gods
+    mythical creatures
+    fantasy races
+    legendary heroes
+    magic items
+Science & Tech:
+  science
+    chemical elements
+    lab equipment
+    physics terms
+    biology terms
+    chemistry terms
+    scientists
+    inventions
+    units of measurement
+  space
+    planets
+    moons
+    constellations
+    space missions
+    astronomy terms
+    space vehicles
+  math
+    shapes
+    math terms
+    fractions and numbers
+    geometry
+  technology
+    computer parts
+    programming languages
+    internet terms
+    gadgets
+    robots
+    software terms
+    networking
+Words & Concepts:
+  descriptive words
+    size words
+    texture words
+    taste words
+    sounds
+    motion verbs
+    kitchen verbs
+    opposites
+    weather words
+  colors
+    shades of red
+    shades of blue
+    shades of green
