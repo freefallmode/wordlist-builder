@@ -1,0 +1,22 @@
+{
+ "separate": [
+  "nhl teams",
+  "boxing terms",
+  "wrestling terms",
+  "sumo words",
+  "fencing terms",
+  "karate words",
+  "judo words",
+  "famous marathons",
+  "triathlon words",
+  "olympic sports",
+  "scoring words",
+  "sports verbs",
+  "tournament words",
+  "famous stadiums",
+  "olympic host cities",
+  "trophies and prizes"
+ ],
+ "removed": [],
+ "notes": "No trademarked fiction found. Digit forms: track events use the results-sheet form (100m, 110m hurdles, 4x100m relay); 10,000m left out because commas are not allowed. Curling rings changed to 12-foot/8-foot/4-foot (Curling Canada form). Sweet Sixteen replaced by Sweet 16 (NCAA/AP form). St. Louis and St. Moritz take the US period with no uk entry (UK drops it). bull's-eye follows Merriam-Webster with uk 'bullseye'. Japanese terms kept without macrons (judo, aikido, ozeki) and Comaneci/Kovacs left plain, as English references write them. Separate: karate, judo, boxing, wrestling and fencing terms sit under 'combat sports', whose own members are sport names, so 'jab' or 'dojo' would not read as a combat sport; sumo words would not read as wrestling terms; marathons, stadiums, host cities and trophies are named places/things; olympic sports and triathlon words do not read as athletics/gymnastics; scoring words and sports verbs are not gear or places; tournament words (seed, bye, bracket) are not events. Existing overlaps left alone: Stanley Cup/FA Cup/Davis Cup in trophies vs Stanley Cup Final/FA Cup Final/Ryder Cup in famous sporting events; America's Cup added to trophies only. The 'famous races' sub-theme of sporting events is not in this batch, so Indy 500, Daytona 500 and 24 Hours of Le Mans were not added anywhere here."
+}

@@ -1,0 +1,17 @@
+{
+ "separate": [
+  "famous car models",
+  "famous race tracks",
+  "gas station",
+  "on a bus",
+  "cable cars and lifts",
+  "airlines",
+  "famous airports",
+  "aircraft makers",
+  "famous ships"
+ ],
+ "removed": [
+  "Black Pearl (famous ships)"
+ ],
+ "notes": "Kept Enterprise (USS Enterprise, real carrier), Nautilus (Verne, public domain; also real subs), Pequod, Hispaniola, Flying Dutchman, Argo, hoverboard (generic/real product). Kept Deux Chevaux and Cinquecento beside 2CV and Fiat 500 (both common names; Cinquecento is also a separate 1990s model). Kept Formula One as the usual form, added F1. 'four-by-four' replaced by '4x4'. barque had uk='bark', which was backwards; uk cleared. Separate reasoning: model/track/airline/airport/maker/ship names do not read as the generic parent; gas station and on a bus contain place items (coffee, hot dog, seat, pole) that are nonsense under cars/public transportation; cable cars and lifts includes elevator, escalator, dumbwaiter, stairlift that are not public transportation. Borderline not marked separate: motor racing under cars (podium, rookie, penalty are weak as car words), commuting words (podcast, earbuds) under public transportation."
+}

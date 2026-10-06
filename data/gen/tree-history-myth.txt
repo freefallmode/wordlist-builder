@@ -1,30 +1,30 @@
   ancient civilizations
-    ancient egypt [region:Africa]
+    ancient egypt [region:Africa] [separate]
       pharaohs [region:Africa]
       egyptian afterlife [region:Africa] -- mummies, canopic jars, Book of the Dead, ka, ba, scarab, Duat
-    ancient greece [region:Europe]
+    ancient greece [region:Europe] [separate]
       greek philosophers
-      ancient olympics -- events, places and words of the ancient Games: stadion, pankration, laurel, Olympia
-    ancient rome [region:Europe]
+      ancient olympics [separate] -- events, places and words of the ancient Games: stadion, pankration, laurel, Olympia
+    ancient rome [region:Europe] [separate]
       roman life -- forum, toga, bathhouse, aqueduct, villa, senate, gladiator, chariot
       roman army [adult]
-    aztecs and maya [region:North America]
-    inca empire [region:South America]
-    ancient china [region:Asia]
-    ancient india [region:Asia]
-    mesopotamia [region:Middle East]
-    ancient persia [region:Middle East]
-    feudal japan [region:Asia]
-    vikings [region:Europe]
-    byzantine empire [region:Middle East]
-    ottoman empire [region:Middle East]
+    aztecs and maya [region:North America] [separate]
+    inca empire [region:South America] [separate]
+    ancient china [region:Asia] [separate]
+    ancient india [region:Asia] [separate]
+    mesopotamia [region:Middle East] [separate]
+    ancient persia [region:Middle East] [separate]
+    feudal japan [region:Asia] [separate]
+    vikings [region:Europe] [separate]
+    byzantine empire [region:Middle East] [separate]
+    ottoman empire [region:Middle East] [separate]
       ottoman sultans [region:Middle East]
-    celts [region:Europe]
+    celts [region:Europe] [separate]
   medieval times
     knights
-      orders of knighthood -- Templars, Hospitallers, Teutonic, Garter, Golden Fleece
-      knightly virtues [property] -- chivalry, honor, valor, loyalty, courtesy, piety
-    castles
+      orders of knighthood [separate] -- Templars, Hospitallers, Teutonic, Garter, Golden Fleece
+      knightly virtues [property] [separate] -- chivalry, honor, valor, loyalty, courtesy, piety
+    castles [separate]
       castle parts -- keep, moat, drawbridge, portcullis, battlements, turret
     medieval jobs
     feudal ranks
@@ -47,26 +47,26 @@
     polar exploration
       antarctic explorers [region:Antarctica]
       arctic explorers
-      expedition ships [region:Antarctica] -- polar expedition vessels: Endurance, Fram, Terra Nova, Discovery, Erebus
+      expedition ships [region:Antarctica] [separate] -- polar expedition vessels: Endurance, Fram, Terra Nova, Discovery, Erebus
       polar expedition gear [region:Antarctica]
-    astronauts
-    famous voyages
-    discoveries
-    silk road [region:Asia]
-    spice trade [region:Asia]
-    polynesian voyaging [region:Oceania]
-    age of sail
+    astronauts [separate]
+    famous voyages [separate]
+    discoveries [separate]
+    silk road [region:Asia] [separate]
+    spice trade [region:Asia] [separate]
+    polynesian voyaging [region:Oceania] [separate]
+    age of sail [separate]
   pirates
     pirate words
     famous pirates
     treasure
-    pirate ships
+    pirate ships [separate]
     pirate weapons
-    pirate places
-    pirate crew
+    pirate places [separate]
+    pirate crew [separate]
     pirate punishments [adult] -- walk the plank, keelhaul, maroon, flogging, cat o' nine tails
   wars and battles [adult]
-    famous battles [adult]
+    famous battles [adult] [separate]
       ancient battles [adult]
       medieval battles [adult]
       napoleonic battles [adult]
@@ -78,9 +78,9 @@
     siege weapons [adult]
     soldiers of history [adult]
     famous generals [adult]
-    cold war [adult]
+    cold war [adult] [separate]
     world war ii terms [adult]
-    peace words
+    peace words [separate]
   famous people
     famous leaders
       african historical leaders [region:Africa]
@@ -93,15 +93,15 @@
     emperors
       roman emperors [region:Europe]
       chinese emperors [region:Asia]
-    us presidents [region:North America]
-    inventors
+    us presidents [region:North America] [separate]
+    inventors [separate]
     reformers
       civil rights figures [region:North America]
       suffragists
     famous women in history
   archaeology
     archaeology words
-    dig site [place]
+    dig site [place] [separate]
     ancient sites
       ancient sites of turkey [region:Middle East]
       ancient sites of the middle east [region:Middle East]
@@ -110,7 +110,7 @@
       ancient sites of asia [region:Asia]
       maya and aztec sites [region:North America]
       andean sites [region:South America]
-    fossils
+    fossils [separate]
     artifacts
     tombs and burials
     ancient writing
@@ -119,11 +119,11 @@
   mythology
     greek gods [region:Europe]
       titans
-      greek monsters
-      trojan war [region:Middle East]
+      greek monsters [separate]
+      trojan war [region:Middle East] [separate]
     roman gods [region:Europe]
     norse gods [region:Europe]
-      norse mythology [region:Europe] -- places and things, not gods: Valhalla, Asgard, Yggdrasil, Ragnarok, Mjolnir
+      norse mythology [region:Europe] [separate] -- places and things, not gods: Valhalla, Asgard, Yggdrasil, Ragnarok, Mjolnir
     egyptian gods [region:Africa]
     hindu gods [region:Asia]
     mesopotamian gods [region:Middle East]
@@ -141,19 +141,19 @@
       cryptids
       undead -- vampire, zombie, mummy, ghoul, lich, revenant, draugr
     greek heroes
-      labors of hercules -- the twelve labors: Nemean lion, Hydra, Augean stables, Cerberus
+      labors of hercules [separate] -- the twelve labors: Nemean lion, Hydra, Augean stables, Cerberus
     legendary places -- Atlantis, El Dorado, Avalon, Shangri-La, Camelot, Elysium
   fantasy
     fantasy races
     magic items
     wizard words
     witchcraft
-    alchemy
+    alchemy [separate]
     dragons
     fairy folk
-    legendary heroes
-      arthurian legend [region:Europe]
-      robin hood legend [region:Europe]
+    legendary heroes [separate]
+      arthurian legend [region:Europe] [separate]
+      robin hood legend [region:Europe] [separate]
   folklore
     japanese folklore [region:Asia]
       yokai [region:Asia]
@@ -163,24 +163,24 @@
     native american folklore [region:North America]
     latin american folklore [region:South America]
     turkish folklore [region:Middle East] -- Nasreddin Hodja, Keloglan, Dede Korkut, Karagoz, Sahmeran, Tepegoz
-    arabian nights [region:Middle East]
+    arabian nights [region:Middle East] [separate]
     aboriginal dreaming [region:Oceania]
     american tall tales [region:North America]
     ghosts and spirits
-    superstitions
+    superstitions [separate]
   historical periods
     ages of history
-    revolutions
-      french revolution [region:Europe]
-      american revolution [region:North America]
+    revolutions [separate]
+      french revolution [region:Europe] [separate]
+      american revolution [region:North America] [separate]
     dynasties
       chinese dynasties [region:Asia]
       royal houses -- Tudor, Stuart, Habsburg, Bourbon, Romanov, Plantagenet, Windsor
-    empires
-    industrial revolution
-    renaissance
-    victorian era [region:Europe]
-    wild west [region:North America]
-    colonial america [region:North America]
-    roaring twenties
-    historic documents -- Magna Carta, Domesday Book, Emancipation Proclamation, Code of Hammurabi
+    empires [separate]
+    industrial revolution [separate]
+    renaissance [separate]
+    victorian era [region:Europe] [separate]
+    wild west [region:North America] [separate]
+    colonial america [region:North America] [separate]
+    roaring twenties [separate]
+    historic documents [separate] -- Magna Carta, Domesday Book, Emancipation Proclamation, Code of Hammurabi

@@ -1,0 +1,13 @@
+{
+ "separate": [
+  "guitar types",
+  "instrument parts",
+  "classical forms",
+  "jazz words",
+  "arabic music words",
+  "song types",
+  "hip hop words"
+ ],
+ "removed": [],
+ "notes": "No fiction in this batch, so nothing was removed. Accents were restored where English Wikipedia or the dictionaries use them: Turkish (bağlama, kudüm, cümbüş, kös, çifte, çöğür), Vietnamese (đàn bầu, đàn tranh, cải lương, ca trù), Japanese macrons (shō, ryūteki, kokyū, ōtsuzumi, taishōgoto, kayōkyoku, min'yō) and Māori macrons (pūtōrino, kōauau, pūkāea, pūtātara, pōrotiti, pūrerehua). Anglicised forms stay plain where they are the usual English spelling: kemenche, agogo, juju, odaiko, khoomei, czardas in dance music (csárdás in European folk music), flugelhorn and bandoneon. twelve-string became 12-string and two-step became 2-step in electronic music styles. two-step stays spelled out in dance music, because there it is the country dance. Separate themes: guitar types (models like Stratocaster, Jaguar, Explorer and SG, and body shapes like dreadnought and jumbo, do not read as string instruments), instrument parts (they are parts, not instruments), classical forms (forms like fugue and sonata are not styles), jazz words (slang like cat, dig and chops), arabic music words (maqams and instruments), song types (lullaby, jingle, cover and title track are not styles), and hip hop words (slang). dance music is kept non-separate, because waltz and tango also name music styles. one-man band also appears under street performers in batch-36. That is a different theme branch, so there is no conflict."
+}

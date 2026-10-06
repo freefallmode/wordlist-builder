@@ -1,0 +1,14 @@
+{
+ "separate": [
+  "social media platforms"
+ ],
+ "removed": [
+  "Top Gun (air force words)",
+  "Mad Men (advertising words)",
+  "Trekkie (fans and followers)",
+  "Potterhead (fans and followers)",
+  "Whovian (fans and followers)",
+  "Brony (fans and followers)"
+ ],
+ "notes": "Only religion, military, school and media and communication are playable parents here (society and kinds of people are not themes), so only their children were judged. social media platforms marked separate: named brands such as X, Vine, Threads, Discord, Clubhouse don't read as media words on their own. Removed Top Gun (film title, also a Navy school, not air force) and Mad Men (TV show). Removed fandom names derived from fiction franchises (Trekkie, Potterhead, Whovian, Brony); fan names for real musicians (Swiftie, Belieber, Deadhead, Juggalo) kept. Maori culture now uses macrons (Māori, whānau, hāngī, pōwhiri, Pākehā, kaumātua, hapū, wāhine, kōwhaiwhai, pūtōrino, Papatūānuku, Māui, tā moko) as NZ English references do; revert if you want Merriam-Webster forms. bachelor/master in university degrees changed to bachelor's/master's (the degree names). radio: ten-four -> 10-4, top forty -> Top 40. Hindu terms left without Sanskrit diacritics (English references don't use them)."
+}

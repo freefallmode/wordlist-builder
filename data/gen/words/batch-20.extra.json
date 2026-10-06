@@ -1,0 +1,16 @@
+{
+ "separate": [
+  "dental words",
+  "smoking words",
+  "illegal drugs",
+  "yoga poses",
+  "yoga words",
+  "stretches",
+  "dream words",
+  "bedtime routine"
+ ],
+ "removed": [
+  "grapple plant (african remedies)"
+ ],
+ "notes": "grapple plant was a workaround for devil's claw (restored); not a common name, so dropped. No trademarked fiction found; 'superman' (exercises) kept as the generic exercise name. 'fag' (smoking words) now adult=1 because it is a slur in US English. Māori macrons applied to rongoā and kūmarahou; manuka/kanuka kept plain (dictionary main form). medical specialties flag about >12-letter names removed (no longer relevant)."
+}

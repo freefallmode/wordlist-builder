@@ -114,20 +114,6 @@
     0
    ],
    [
-    "death knight",
-    "",
-    4,
-    18,
-    0
-   ],
-   [
-    "barrow-wight",
-    "",
-    4,
-    12,
-    0
-   ],
-   [
     "dhampir",
     "",
     4,
@@ -181,6 +167,20 @@
     "",
     2,
     28,
+    0
+   ],
+   [
+    "Dracula",
+    "",
+    2,
+    40,
+    0
+   ],
+   [
+    "Frankenstein's monster",
+    "",
+    3,
+    25,
     0
    ]
   ]
@@ -771,7 +771,7 @@
     0
    ],
    [
-    "Tir na nOg",
+    "Tír na nÓg",
     "",
     3,
     16,
@@ -862,7 +862,7 @@
     0
    ],
    [
-    "Aztlan",
+    "Aztlán",
     "",
     4,
     17,
@@ -946,13 +946,6 @@
     0
    ],
    [
-    "Brigadoon",
-    "",
-    4,
-    17,
-    0
-   ],
-   [
     "Annwn",
     "",
     5,
@@ -970,41 +963,6 @@
  },
  "fantasy": {
   "words": [
-   [
-    "Middle-earth",
-    "",
-    1,
-    28,
-    0
-   ],
-   [
-    "Narnia",
-    "",
-    1,
-    30,
-    0
-   ],
-   [
-    "Hogwarts",
-    "",
-    1,
-    33,
-    0
-   ],
-   [
-    "Westeros",
-    "",
-    2,
-    27,
-    0
-   ],
-   [
-    "Mordor",
-    "",
-    2,
-    27,
-    0
-   ],
    [
     "Neverland",
     "",
@@ -1024,160 +982,6 @@
     "",
     1,
     38,
-    0
-   ],
-   [
-    "Shire",
-    "",
-    2,
-    33,
-    0
-   ],
-   [
-    "Rivendell",
-    "",
-    3,
-    22,
-    0
-   ],
-   [
-    "Gondor",
-    "",
-    3,
-    24,
-    0
-   ],
-   [
-    "Rohan",
-    "",
-    3,
-    28,
-    0
-   ],
-   [
-    "Earthsea",
-    "",
-    4,
-    17,
-    0
-   ],
-   [
-    "Discworld",
-    "",
-    3,
-    23,
-    0
-   ],
-   [
-    "Ankh-Morpork",
-    "",
-    4,
-    15,
-    0
-   ],
-   [
-    "Prydain",
-    "",
-    4,
-    13,
-    0
-   ],
-   [
-    "Fantastica",
-    "",
-    4,
-    12,
-    0
-   ],
-   [
-    "Fillory",
-    "",
-    5,
-    11,
-    0
-   ],
-   [
-    "Lothlorien",
-    "",
-    4,
-    16,
-    0
-   ],
-   [
-    "Isengard",
-    "",
-    3,
-    20,
-    0
-   ],
-   [
-    "Moria",
-    "",
-    3,
-    24,
-    0
-   ],
-   [
-    "Tamriel",
-    "",
-    4,
-    16,
-    0
-   ],
-   [
-    "Hyrule",
-    "",
-    3,
-    20,
-    0
-   ],
-   [
-    "Azeroth",
-    "",
-    3,
-    19,
-    0
-   ],
-   [
-    "Essos",
-    "",
-    4,
-    15,
-    0
-   ],
-   [
-    "Krynn",
-    "",
-    5,
-    12,
-    0
-   ],
-   [
-    "Faerun",
-    "",
-    4,
-    13,
-    0
-   ],
-   [
-    "Pern",
-    "",
-    4,
-    19,
-    0
-   ],
-   [
-    "Mirkwood",
-    "",
-    3,
-    19,
-    0
-   ],
-   [
-    "Erebor",
-    "",
-    4,
-    16,
     0
    ],
    [
@@ -1263,6 +1067,153 @@
     3,
     26,
     0
+   ],
+   [
+    "fairyland",
+    "",
+    2,
+    28,
+    0
+   ],
+   [
+    "enchanted forest",
+    "",
+    2,
+    20,
+    0
+   ],
+   [
+    "realm",
+    "",
+    2,
+    38,
+    0
+   ],
+   [
+    "kingdom",
+    "",
+    2,
+    45,
+    0
+   ],
+   [
+    "knight",
+    "",
+    2,
+    42,
+    0
+   ],
+   [
+    "damsel in distress",
+    "",
+    3,
+    18,
+    0
+   ],
+   [
+    "portal",
+    "",
+    3,
+    38,
+    0
+   ],
+   [
+    "magic sword",
+    "",
+    3,
+    15,
+    0
+   ],
+   [
+    "sword fight",
+    "",
+    3,
+    15,
+    0
+   ],
+   [
+    "dark fantasy",
+    "",
+    3,
+    15,
+    0
+   ],
+   [
+    "urban fantasy",
+    "",
+    4,
+    15,
+    0
+   ],
+   [
+    "grimdark",
+    "",
+    5,
+    10,
+    0
+   ],
+   [
+    "sidekick",
+    "",
+    4,
+    30,
+    0
+   ],
+   [
+    "Lilliput",
+    "",
+    3,
+    22,
+    0
+   ],
+   [
+    "Lewis Carroll",
+    "",
+    3,
+    30,
+    0
+   ],
+   [
+    "C.S. Lewis",
+    "",
+    2,
+    28,
+    0
+   ],
+   [
+    "J.R.R. Tolkien",
+    "",
+    2,
+    25,
+    0
+   ],
+   [
+    "J.K. Rowling",
+    "",
+    2,
+    32,
+    0
+   ],
+   [
+    "George R.R. Martin",
+    "",
+    3,
+    25,
+    0
+   ],
+   [
+    "Neil Gaiman",
+    "",
+    3,
+    28,
+    0
+   ],
+   [
+    "L. Frank Baum",
+    "",
+    4,
+    18,
+    0
    ]
   ]
  },
@@ -1291,13 +1242,6 @@
    ],
    [
     "goblin",
-    "",
-    1,
-    33,
-    0
-   ],
-   [
-    "hobbit",
     "",
     1,
     33,
@@ -1395,20 +1339,6 @@
     0
    ],
    [
-    "drow",
-    "",
-    4,
-    19,
-    0
-   ],
-   [
-    "gnoll",
-    "",
-    4,
-    14,
-    0
-   ],
-   [
     "bugbear",
     "",
     4,
@@ -1430,125 +1360,6 @@
     0
    ],
    [
-    "uruk-hai",
-    "",
-    3,
-    16,
-    0
-   ],
-   [
-    "ent",
-    "",
-    3,
-    20,
-    0
-   ],
-   [
-    "treant",
-    "",
-    4,
-    14,
-    0
-   ],
-   [
-    "dragonborn",
-    "",
-    3,
-    19,
-    0
-   ],
-   [
-    "tiefling",
-    "",
-    4,
-    15,
-    0
-   ],
-   [
-    "aasimar",
-    "",
-    5,
-    12,
-    0
-   ],
-   [
-    "genasi",
-    "",
-    5,
-    11,
-    0
-   ],
-   [
-    "goliath",
-    "",
-    4,
-    33,
-    0
-   ],
-   [
-    "firbolg",
-    "",
-    4,
-    13,
-    0
-   ],
-   [
-    "tabaxi",
-    "",
-    5,
-    11,
-    0
-   ],
-   [
-    "kenku",
-    "",
-    5,
-    11,
-    0
-   ],
-   [
-    "aarakocra",
-    "",
-    5,
-    11,
-    0
-   ],
-   [
-    "tortle",
-    "",
-    5,
-    11,
-    0
-   ],
-   [
-    "yuan-ti",
-    "",
-    5,
-    12,
-    0
-   ],
-   [
-    "githyanki",
-    "",
-    5,
-    12,
-    0
-   ],
-   [
-    "githzerai",
-    "",
-    5,
-    10,
-    0
-   ],
-   [
-    "warforged",
-    "",
-    5,
-    12,
-    0
-   ],
-   [
     "duergar",
     "",
     5,
@@ -1556,101 +1367,66 @@
     0
    ],
    [
-    "svirfneblin",
+    "minotaur",
     "",
-    5,
-    10,
+    2,
+    28,
     0
    ],
    [
-    "Noldor",
+    "satyr",
     "",
-    5,
-    14,
+    3,
+    25,
     0
    ],
    [
-    "Sindar",
+    "faun",
     "",
-    5,
-    13,
+    3,
+    25,
     0
    ],
    [
-    "Dunedain",
+    "mermaid",
     "",
-    4,
-    14,
+    2,
+    33,
     0
    ],
    [
-    "night elf",
+    "cyclops",
     "",
-    4,
-    19,
+    3,
+    28,
     0
    ],
    [
-    "tauren",
+    "harpy",
     "",
-    4,
-    15,
+    3,
+    22,
     0
    ],
    [
-    "draenei",
-    "",
-    5,
-    13,
-    0
-   ],
-   [
-    "worgen",
-    "",
-    5,
-    13,
-    0
-   ],
-   [
-    "Khajiit",
+    "lizardman",
     "",
     4,
     15,
     0
    ],
    [
-    "Argonian",
+    "frost giant",
     "",
-    4,
-    14,
+    3,
+    15,
     0
    ],
    [
-    "Dunmer",
+    "werewolf",
     "",
-    5,
-    12,
-    0
-   ],
-   [
-    "Altmer",
-    "",
-    5,
-    11,
-    0
-   ],
-   [
-    "Bosmer",
-    "",
-    5,
-    11,
-    0
-   ],
-   [
-    "Orsimer",
-    "",
-    5,
-    10,
+    2,
+    32,
     0
    ]
   ]
@@ -1721,20 +1497,6 @@
     0
    ],
    [
-    "ruby slippers",
-    "",
-    2,
-    23,
-    0
-   ],
-   [
-    "One Ring",
-    "",
-    2,
-    25,
-    0
-   ],
-   [
     "golden fleece",
     "",
     2,
@@ -1791,143 +1553,10 @@
     0
    ],
    [
-    "Elder Wand",
-    "",
-    2,
-    21,
-    0
-   ],
-   [
-    "Sorting Hat",
-    "",
-    2,
-    21,
-    0
-   ],
-   [
-    "Time-Turner",
-    "",
-    3,
-    17,
-    0
-   ],
-   [
-    "Pensieve",
-    "",
-    3,
-    17,
-    0
-   ],
-   [
-    "Horcrux",
-    "",
-    2,
-    19,
-    0
-   ],
-   [
-    "Golden Snitch",
-    "",
-    2,
-    19,
-    0
-   ],
-   [
-    "Resurrection Stone",
-    "",
-    3,
-    17,
-    0
-   ],
-   [
-    "Deluminator",
-    "",
-    4,
-    12,
-    0
-   ],
-   [
-    "Remembrall",
-    "",
-    4,
-    12,
-    0
-   ],
-   [
-    "Portkey",
-    "",
-    3,
-    16,
-    0
-   ],
-   [
-    "Palantir",
-    "",
-    3,
-    19,
-    0
-   ],
-   [
-    "Arkenstone",
-    "",
-    3,
-    15,
-    0
-   ],
-   [
-    "Silmaril",
-    "",
-    4,
-    15,
-    0
-   ],
-   [
-    "Phial of Galadriel",
-    "",
-    4,
-    11,
-    0
-   ],
-   [
-    "Sting",
-    "",
-    3,
-    40,
-    0
-   ],
-   [
-    "Anduril",
-    "",
-    4,
-    16,
-    0
-   ],
-   [
-    "bag of holding",
-    "",
-    3,
-    17,
-    0
-   ],
-   [
     "vorpal sword",
     "",
     4,
     15,
-    0
-   ],
-   [
-    "Hand of Vecna",
-    "",
-    5,
-    11,
-    0
-   ],
-   [
-    "deck of many things",
-    "",
-    5,
-    11,
     0
    ],
    [
@@ -2036,27 +1665,6 @@
     0
    ],
    [
-    "Infinity Gauntlet",
-    "",
-    3,
-    20,
-    0
-   ],
-   [
-    "Lasso of Truth",
-    "",
-    4,
-    14,
-    0
-   ],
-   [
-    "Mirror of Erised",
-    "",
-    4,
-    13,
-    0
-   ],
-   [
     "Holy Grail",
     "",
     1,
@@ -2075,6 +1683,55 @@
     "",
     5,
     11,
+    0
+   ],
+   [
+    "Pandora's box",
+    "",
+    2,
+    30,
+    0
+   ],
+   [
+    "Aladdin's lamp",
+    "",
+    2,
+    20,
+    0
+   ],
+   [
+    "magic wand",
+    "",
+    1,
+    25,
+    0
+   ],
+   [
+    "magic ring",
+    "",
+    2,
+    18,
+    0
+   ],
+   [
+    "golden goose",
+    "",
+    3,
+    22,
+    0
+   ],
+   [
+    "cloak of invisibility",
+    "",
+    3,
+    15,
+    0
+   ],
+   [
+    "magic harp",
+    "",
+    4,
+    10,
     0
    ]
   ]
@@ -2299,13 +1956,6 @@
     0
    ],
    [
-    "shazam",
-    "",
-    2,
-    23,
-    0
-   ],
-   [
     "sim sala bim",
     "",
     3,
@@ -2313,73 +1963,10 @@
     0
    ],
    [
-    "expelliarmus",
-    "",
-    2,
-    16,
-    0
-   ],
-   [
-    "wingardium leviosa",
-    "",
-    2,
-    15,
-    0
-   ],
-   [
-    "alohomora",
-    "",
-    3,
-    14,
-    0
-   ],
-   [
-    "lumos",
-    "",
-    3,
-    20,
-    0
-   ],
-   [
-    "accio",
-    "",
-    3,
-    17,
-    0
-   ],
-   [
-    "expecto patronum",
-    "",
-    3,
-    15,
-    0
-   ],
-   [
-    "avada kedavra",
-    "",
-    2,
-    16,
-    0
-   ],
-   [
-    "obliviate",
-    "",
-    3,
-    16,
-    0
-   ],
-   [
     "fireball",
     "",
     2,
     32,
-    0
-   ],
-   [
-    "magic missile",
-    "",
-    4,
-    19,
     0
    ],
    [
@@ -2450,6 +2037,34 @@
     "",
     3,
     26,
+    0
+   ],
+   [
+    "grimoire",
+    "",
+    3,
+    22,
+    0
+   ],
+   [
+    "sorcerer's apprentice",
+    "",
+    3,
+    20,
+    0
+   ],
+   [
+    "magic word",
+    "",
+    2,
+    25,
+    0
+   ],
+   [
+    "wizard",
+    "",
+    1,
+    40,
     0
    ]
   ]
@@ -2833,13 +2448,27 @@
     3,
     26,
     0
+   ],
+   [
+    "witch's brew",
+    "",
+    2,
+    15,
+    0
+   ],
+   [
+    "witches' sabbath",
+    "",
+    4,
+    12,
+    0
    ]
   ]
  },
  "alchemy": {
   "words": [
    [
-    "philosophers stone",
+    "philosopher's stone",
     "",
     1,
     25,
@@ -3242,41 +2871,6 @@
  "dragons": {
   "words": [
    [
-    "Smaug",
-    "",
-    1,
-    25,
-    0
-   ],
-   [
-    "Puff",
-    "",
-    2,
-    36,
-    0
-   ],
-   [
-    "Toothless",
-    "",
-    2,
-    30,
-    0
-   ],
-   [
-    "Drogon",
-    "",
-    2,
-    22,
-    0
-   ],
-   [
-    "Falkor",
-    "",
-    3,
-    16,
-    0
-   ],
-   [
     "Fafnir",
     "",
     3,
@@ -3288,27 +2882,6 @@
     "",
     3,
     22,
-    0
-   ],
-   [
-    "Mushu",
-    "",
-    2,
-    20,
-    0
-   ],
-   [
-    "Spyro",
-    "",
-    2,
-    22,
-    0
-   ],
-   [
-    "Bahamut",
-    "",
-    4,
-    19,
     0
    ],
    [
@@ -3326,112 +2899,7 @@
     0
    ],
    [
-    "Rhaegal",
-    "",
-    3,
-    18,
-    0
-   ],
-   [
-    "Viserion",
-    "",
-    3,
-    18,
-    0
-   ],
-   [
-    "Saphira",
-    "",
-    3,
-    17,
-    0
-   ],
-   [
-    "Glaurung",
-    "",
-    4,
-    14,
-    0
-   ],
-   [
-    "Ancalagon",
-    "",
-    5,
-    12,
-    0
-   ],
-   [
-    "Norbert",
-    "",
-    3,
-    30,
-    0
-   ],
-   [
-    "Hungarian Horntail",
-    "",
-    3,
-    14,
-    0
-   ],
-   [
-    "Haku",
-    "",
-    3,
-    23,
-    0
-   ],
-   [
-    "Shenron",
-    "",
-    4,
-    15,
-    0
-   ],
-   [
-    "Vermithrax",
-    "",
-    5,
-    12,
-    0
-   ],
-   [
-    "Alduin",
-    "",
-    4,
-    15,
-    0
-   ],
-   [
-    "Paarthurnax",
-    "",
-    4,
-    12,
-    0
-   ],
-   [
-    "Kilgharrah",
-    "",
-    5,
-    11,
-    0
-   ],
-   [
-    "Deathwing",
-    "",
-    4,
-    16,
-    0
-   ],
-   [
-    "Ghidorah",
-    "",
-    4,
-    15,
-    0
-   ],
-   [
-    "Ryujin",
+    "Ryūjin",
     "",
     4,
     15,
@@ -3463,13 +2931,6 @@
     "",
     4,
     13,
-    0
-   ],
-   [
-    "Temeraire",
-    "",
-    4,
-    16,
     0
    ],
    [
@@ -3540,6 +3001,76 @@
     "",
     4,
     13,
+    0
+   ],
+   [
+    "Jörmungandr",
+    "",
+    3,
+    20,
+    0
+   ],
+   [
+    "Shenlong",
+    "",
+    4,
+    12,
+    0
+   ],
+   [
+    "Leviathan",
+    "",
+    3,
+    30,
+    0
+   ],
+   [
+    "Typhon",
+    "",
+    4,
+    22,
+    0
+   ],
+   [
+    "Vritra",
+    "",
+    4,
+    15,
+    0
+   ],
+   [
+    "Apep",
+    "",
+    4,
+    15,
+    0
+   ],
+   [
+    "Zmey Gorynych",
+    "",
+    4,
+    10,
+    0
+   ],
+   [
+    "Tarasque",
+    "",
+    5,
+    10,
+    0
+   ],
+   [
+    "Welsh dragon",
+    "",
+    3,
+    15,
+    0
+   ],
+   [
+    "Python",
+    "",
+    3,
+    30,
     0
    ]
   ]
@@ -3687,7 +3218,7 @@
     0
    ],
    [
-    "will-o-the-wisp",
+    "will-o'-the-wisp",
     "",
     3,
     20,
@@ -3825,6 +3356,20 @@
     5,
     17,
     0
+   ],
+   [
+    "brownie",
+    "",
+    3,
+    30,
+    0
+   ],
+   [
+    "leprechaun",
+    "",
+    2,
+    28,
+    0
    ]
   ]
  },
@@ -3950,14 +3495,14 @@
     0
    ],
    [
-    "Vainamoinen",
+    "Väinämöinen",
     "",
     4,
     12,
     0
    ],
    [
-    "Lemminkainen",
+    "Lemminkäinen",
     "",
     4,
     12,
@@ -4034,7 +3579,7 @@
     0
    ],
    [
-    "Bodvar Bjarki",
+    "Bödvar Bjarki",
     "",
     5,
     10,
@@ -4076,14 +3621,14 @@
     0
    ],
    [
-    "Marko Kraljevic",
+    "Marko Kraljević",
     "",
     5,
     11,
     0
    ],
    [
-    "Janosik",
+    "Jánošík",
     "",
     5,
     12,
@@ -4118,7 +3663,7 @@
     0
    ],
    [
-    "Cuchulainn",
+    "Cú Chulainn",
     "",
     3,
     19,
@@ -4486,7 +4031,7 @@
     0
    ],
    [
-    "Chretien de Troyes",
+    "Chrétien de Troyes",
     "",
     4,
     17,
@@ -4559,6 +4104,13 @@
     "Mabinogion",
     "",
     4,
+    18,
+    0
+   ],
+   [
+    "Le Morte d'Arthur",
+    "",
+    3,
     18,
     0
    ]
@@ -5131,7 +4683,7 @@
     0
    ],
    [
-    "Gryla",
+    "Grýla",
     "",
     5,
     12,
@@ -5143,34 +4695,69 @@
     3,
     18,
     0
+   ],
+   [
+    "jack-o'-lantern",
+    "",
+    3,
+    25,
+    0
+   ],
+   [
+    "Aesop's fables",
+    "",
+    2,
+    22,
+    0
+   ],
+   [
+    "Brothers Grimm",
+    "",
+    2,
+    25,
+    0
+   ],
+   [
+    "Goldilocks",
+    "",
+    1,
+    30,
+    0
+   ],
+   [
+    "Little Red Riding Hood",
+    "",
+    1,
+    25,
+    0
    ]
   ]
  },
  "japanese folklore": {
   "words": [
    [
-    "Momotaro",
+    "Momotarō",
     "",
     3,
     17,
     0
    ],
    [
-    "Urashima Taro",
+    "Urashima Tarō",
     "",
     4,
     15,
     0
    ],
    [
-    "Kintaro",
+    "Kintarō",
     "",
     4,
     16,
     0
    ],
    [
-    "Issun-boshi",
+    "Issun-bōshi",
     "",
     5,
     12,
@@ -5247,7 +4834,7 @@
     0
    ],
    [
-    "Ryugu-jo",
+    "Ryūgū-jō",
     "",
     5,
     11,
@@ -5296,7 +4883,7 @@
     0
    ],
    [
-    "Jurojin",
+    "Jurōjin",
     "",
     5,
     11,
@@ -5359,14 +4946,14 @@
     0
    ],
    [
-    "Hachiko",
+    "Hachikō",
     "",
     3,
     19,
     0
    ],
    [
-    "Shuten-doji",
+    "Shuten-dōji",
     "",
     5,
     12,
@@ -5394,7 +4981,7 @@
     0
    ],
    [
-    "teru teru bozu",
+    "teru teru bōzu",
     "",
     4,
     13,
@@ -5503,7 +5090,7 @@
     0
    ],
    [
-    "jorogumo",
+    "jorōgumo",
     "",
     4,
     14,
@@ -5545,21 +5132,21 @@
     0
    ],
    [
-    "umibozu",
+    "umibōzu",
     "",
     4,
     12,
     0
    ],
    [
-    "nopperabo",
+    "noppera-bō",
     "",
     4,
     12,
     0
    ],
    [
-    "hitotsume-kozo",
+    "hitotsume-kozō",
     "",
     5,
     10,
@@ -5580,14 +5167,14 @@
     0
    ],
    [
-    "yurei",
+    "yūrei",
     "",
     3,
     17,
     0
    ],
    [
-    "onryo",
+    "onryō",
     "",
     4,
     14,
@@ -5636,7 +5223,7 @@
     0
    ],
    [
-    "chochin-obake",
+    "chōchin-obake",
     "",
     4,
     11,
@@ -5671,7 +5258,7 @@
     0
    ],
    [
-    "raiju",
+    "raijū",
     "",
     4,
     14,
@@ -5699,7 +5286,7 @@
     0
    ],
    [
-    "wanyudo",
+    "wanyūdō",
     "",
     5,
     11,
@@ -5727,7 +5314,7 @@
     0
    ],
    [
-    "funayurei",
+    "funayūrei",
     "",
     5,
     10,
@@ -5811,14 +5398,14 @@
     0
    ],
    [
-    "hyosube",
+    "hyōsube",
     "",
     5,
     10,
     0
    ],
    [
-    "noderabo",
+    "noderabō",
     "",
     5,
     10,
@@ -5857,7 +5444,7 @@
     0
    ],
    [
-    "puca",
+    "púca",
     "",
     4,
     14,
@@ -5878,7 +5465,7 @@
     0
    ],
    [
-    "Cu Chulainn",
+    "Cú Chulainn",
     "",
     3,
     17,
@@ -5899,21 +5486,21 @@
     0
    ],
    [
-    "Oisin",
+    "Oisín",
     "",
     3,
     19,
     0
    ],
    [
-    "Tir na nOg",
+    "Tír na nÓg",
     "",
     3,
     16,
     0
    ],
    [
-    "Tuatha De Danann",
+    "Tuatha Dé Danann",
     "",
     3,
     18,
@@ -5927,7 +5514,7 @@
     0
    ],
    [
-    "Morrigan",
+    "Morrígan",
     "",
     3,
     21,
@@ -5983,7 +5570,7 @@
     0
    ],
    [
-    "Manannan mac Lir",
+    "Manannán mac Lir",
     "",
     4,
     14,
@@ -6172,7 +5759,7 @@
     0
    ],
    [
-    "Cwn Annwn",
+    "Cŵn Annwn",
     "",
     5,
     11,
@@ -6235,7 +5822,7 @@
     0
    ],
    [
-    "Giants Causeway",
+    "Giant's Causeway",
     "",
     2,
     20,
@@ -7175,7 +6762,7 @@
     0
    ],
    [
-    "Boitata",
+    "Boitatá",
     "",
     5,
     11,
@@ -7196,7 +6783,7 @@
     0
    ],
    [
-    "El Sombreron",
+    "El Sombrerón",
     "",
     4,
     11,
@@ -7266,7 +6853,7 @@
     0
    ],
    [
-    "El Silbon",
+    "El Silbón",
     "",
     5,
     11,
@@ -7280,7 +6867,7 @@
     0
    ],
    [
-    "lobison",
+    "lobisón",
     "",
     5,
     11,
@@ -7301,7 +6888,7 @@
     0
    ],
    [
-    "El Tio",
+    "El Tío",
     "",
     5,
     16,
@@ -7392,7 +6979,7 @@
     0
    ],
    [
-    "El Cipitio",
+    "El Cipitío",
     "",
     5,
     10,
@@ -7413,7 +7000,7 @@
     0
    ],
    [
-    "Mula sem Cabeca",
+    "Mula sem Cabeça",
     "",
     5,
     11,
@@ -7452,7 +7039,7 @@
     0
    ],
    [
-    "Keloglan",
+    "Keloğlan",
     "",
     4,
     11,
@@ -7466,7 +7053,7 @@
     0
    ],
    [
-    "Karagoz",
+    "Karagöz",
     "",
     3,
     14,
@@ -7480,21 +7067,21 @@
     0
    ],
    [
-    "Sahmeran",
+    "Şahmeran",
     "",
     4,
     11,
     0
    ],
    [
-    "Tepegoz",
+    "Tepegöz",
     "",
     4,
     10,
     0
    ],
    [
-    "Koroglu",
+    "Köroğlu",
     "",
     4,
     13,
@@ -7508,14 +7095,14 @@
     0
    ],
    [
-    "Zumrud-u Anka",
+    "Zümrüdüanka",
     "",
     5,
     10,
     0
    ],
    [
-    "Albasti",
+    "Albastı",
     "",
     5,
     11,
@@ -7571,14 +7158,14 @@
     0
    ],
    [
-    "Ulgen",
+    "Ülgen",
     "",
     5,
     11,
     0
    ],
    [
-    "Huma bird",
+    "Hüma bird",
     "",
     5,
     11,
@@ -7606,21 +7193,21 @@
     0
    ],
    [
-    "Ferhat and Sirin",
+    "Ferhat and Şirin",
     "",
     5,
     11,
     0
    ],
    [
-    "Kerem and Asli",
+    "Kerem and Aslı",
     "",
     5,
     10,
     0
    ],
    [
-    "Tahir and Zuhre",
+    "Tahir and Zühre",
     "",
     5,
     10,
@@ -7634,7 +7221,7 @@
     0
    ],
    [
-    "Bamsi Beyrek",
+    "Bamsı Beyrek",
     "",
     5,
     10,
@@ -7655,7 +7242,7 @@
     0
    ]
   ],
-  "flag": "about 30 members; most are specialist (familiarity 4-5); names written without Turkish diacritics (Keloglan, Karagoz, Sahmeran)"
+  "flag": "about 30 members; most are specialist (familiarity 4-5); names use their Turkish letters (Keloğlan, Karagöz, Şahmeran)"
  },
  "arabian nights": {
   "words": [
@@ -8589,7 +8176,7 @@
     0
    ],
    [
-    "seance",
+    "séance",
     "",
     2,
     25,
@@ -8638,7 +8225,7 @@
     0
    ],
    [
-    "doppelganger",
+    "doppelgänger",
     "",
     3,
     24,
@@ -8691,13 +8278,6 @@
     "",
     4,
     19,
-    0
-   ],
-   [
-    "ghostbuster",
-    "",
-    3,
-    21,
     0
    ],
    [
@@ -8757,13 +8337,6 @@
     0
    ],
    [
-    "Casper",
-    "",
-    2,
-    30,
-    0
-   ],
-   [
     "spiritualism",
     "",
     3,
@@ -8806,14 +8379,14 @@
     0
    ],
    [
-    "yurei",
+    "yūrei",
     "",
     4,
     17,
     0
    ],
    [
-    "onryo",
+    "onryō",
     "",
     5,
     14,
@@ -8894,7 +8467,7 @@
     0
    ],
    [
-    "Friday the thirteenth",
+    "Friday the 13th",
     "",
     1,
     23,
@@ -8922,7 +8495,7 @@
     0
    ],
    [
-    "rabbits foot",
+    "rabbit's foot",
     "",
     2,
     20,
@@ -9069,7 +8642,7 @@
     0
    ],
    [
-    "beginners luck",
+    "beginner's luck",
     "",
     2,
     22,
@@ -9083,7 +8656,7 @@
     0
    ],
    [
-    "seven years bad luck",
+    "seven years' bad luck",
     "",
     2,
     15,
@@ -9104,8 +8677,8 @@
     0
    ],
    [
+    "St. Christopher",
     "St Christopher",
-    "",
     3,
     23,
     0
@@ -9158,6 +8731,20 @@
     4,
     19,
     0
+   ],
+   [
+    "old wives' tale",
+    "",
+    2,
+    25,
+    0
+   ],
+   [
+    "unlucky 13",
+    "",
+    2,
+    15,
+    0
    ]
   ]
  },
@@ -9185,7 +8772,7 @@
     0
    ],
    [
-    "Belle Epoque",
+    "Belle Époque",
     "",
     3,
     20,
@@ -9437,14 +9024,14 @@
     0
    ],
    [
-    "Postwar era",
+    "postwar era",
     "",
     3,
     18,
     0
    ],
    [
-    "Atomic era",
+    "atomic era",
     "",
     4,
     14,
@@ -9472,14 +9059,14 @@
     0
    ],
    [
-    "Showa era",
+    "Shōwa era",
     "",
     4,
     15,
     0
    ],
    [
-    "Taisho era",
+    "Taishō era",
     "",
     5,
     13,
@@ -9490,6 +9077,13 @@
     "",
     5,
     13,
+    0
+   ],
+   [
+    "fin de siècle",
+    "",
+    4,
+    20,
     0
    ]
   ]
@@ -9637,7 +9231,7 @@
     0
    ],
    [
-    "Early Modern",
+    "early modern",
     "",
     3,
     26,
@@ -9693,7 +9287,7 @@
     0
    ],
    [
-    "Digital Age",
+    "digital age",
     "",
     2,
     25,
@@ -9721,7 +9315,7 @@
     0
    ],
    [
-    "Ancient History",
+    "ancient history",
     "",
     2,
     29,
@@ -9928,7 +9522,7 @@
     0
    ],
    [
-    "Digital",
+    "digital",
     "",
     3,
     47,
@@ -9963,7 +9557,7 @@
     0
    ],
    [
-    "Sexual",
+    "sexual",
     "",
     3,
     46,
@@ -10199,7 +9793,7 @@
     0
    ],
    [
-    "Sieyes",
+    "Sieyès",
     "",
     4,
     16,
@@ -10213,7 +9807,7 @@
     0
    ],
    [
-    "Hebert",
+    "Hébert",
     "",
     5,
     20,
@@ -10276,7 +9870,7 @@
     0
    ],
    [
-    "Vendee",
+    "Vendée",
     "",
     4,
     18,
@@ -10318,7 +9912,7 @@
     0
    ],
    [
-    "Fouche",
+    "Fouché",
     "",
     4,
     17,
@@ -10409,14 +10003,14 @@
     0
    ],
    [
-    "emigres",
+    "émigrés",
     "",
     4,
     20,
     0
    ],
    [
-    "levee en masse",
+    "levée en masse",
     "",
     4,
     14,
@@ -10437,7 +10031,7 @@
     0
    ],
    [
-    "Ancien Regime",
+    "Ancien Régime",
     "",
     3,
     22,
@@ -10451,14 +10045,14 @@
     0
    ],
    [
-    "Hebertists",
+    "Hébertists",
     "",
     5,
     11,
     0
    ],
    [
-    "Vendemiaire",
+    "Vendémiaire",
     "",
     5,
     12,
@@ -11027,6 +10621,20 @@
     3,
     20,
     0
+   ],
+   [
+    "1776",
+    "",
+    2,
+    30,
+    0
+   ],
+   [
+    "Spirit of '76",
+    "",
+    3,
+    15,
+    0
    ]
   ]
  },
@@ -11145,7 +10753,7 @@
     0
    ],
    [
-    "Nguyen",
+    "Nguyễn",
     "",
     4,
     26,
@@ -11742,7 +11350,7 @@
     0
    ],
    [
-    "Glucksburg",
+    "Glücksburg",
     "",
     4,
     14,
@@ -11770,7 +11378,7 @@
     0
    ],
    [
-    "Trastamara",
+    "Trastámara",
     "",
     5,
     14,
@@ -11889,14 +11497,14 @@
     0
    ],
    [
-    "Premyslid",
+    "Přemyslid",
     "",
     5,
     12,
     0
    ],
    [
-    "Arpad",
+    "Árpád",
     "",
     5,
     16,
@@ -11910,7 +11518,7 @@
     0
    ],
    [
-    "Orleans",
+    "Orléans",
     "",
     3,
     30,
@@ -12001,7 +11609,7 @@
     0
    ],
    [
-    "Wurttemberg",
+    "Württemberg",
     "",
     4,
     20,
@@ -12647,7 +12255,7 @@
     0
    ],
    [
-    "Stephenson Rocket",
+    "Stephenson's Rocket",
     "",
     3,
     14,
@@ -13162,7 +12770,7 @@
     0
    ],
    [
-    "Durer",
+    "Dürer",
     "",
     3,
     21,
@@ -13239,7 +12847,7 @@
     0
    ],
    [
-    "Lorenzo de Medici",
+    "Lorenzo de' Medici",
     "",
     3,
     18,
@@ -13295,7 +12903,7 @@
     0
    ],
    [
-    "Pieta",
+    "Pietà",
     "",
     2,
     21,
@@ -13614,7 +13222,7 @@
     0
    ],
    [
-    "Charlotte Bronte",
+    "Charlotte Brontë",
     "",
     2,
     22,
@@ -13768,8 +13376,8 @@
     0
    ],
    [
+    "Mrs. Beeton",
     "Mrs Beeton",
-    "",
     3,
     17,
     0
@@ -14090,7 +13698,7 @@
     0
    ],
    [
-    "Brontes",
+    "Brontës",
     "",
     3,
     20,
@@ -14213,7 +13821,7 @@
     0
    ],
    [
-    "OK Corral",
+    "O.K. Corral",
     "",
     2,
     20,
@@ -14729,6 +14337,13 @@
     4,
     18,
     0
+   ],
+   [
+    "Colt .45",
+    "",
+    2,
+    20,
+    0
    ]
   ]
  },
@@ -14966,7 +14581,7 @@
     0
    ],
    [
-    "Poor Richard",
+    "Poor Richard's Almanack",
     "",
     3,
     19,
@@ -15148,7 +14763,7 @@
     0
    ],
    [
-    "Saint Augustine",
+    "St. Augustine",
     "",
     3,
     22,
@@ -15222,6 +14837,13 @@
     "",
     2,
     28,
+    0
+   ],
+   [
+    "King Philip's War",
+    "",
+    3,
+    15,
     0
    ]
   ]
@@ -15299,7 +14921,7 @@
     0
    ],
    [
-    "Scott Fitzgerald",
+    "F. Scott Fitzgerald",
     "",
     2,
     24,
@@ -15439,7 +15061,7 @@
     0
    ],
    [
-    "Spirit of St Louis",
+    "Spirit of St. Louis",
     "",
     3,
     17,
@@ -15537,7 +15159,7 @@
     0
    ],
    [
-    "Nineteenth Amendment",
+    "19th Amendment",
     "",
     3,
     18,
@@ -15551,15 +15173,15 @@
     0
    ],
    [
-    "bees knees",
+    "bee's knees",
     "",
     2,
     17,
     0
    ],
    [
-    "cats pajamas",
-    "",
+    "cat's pajamas",
+    "cat's pyjamas",
     3,
     14,
     0
@@ -15800,6 +15422,13 @@
     "",
     3,
     20,
+    0
+   ],
+   [
+    "18th Amendment",
+    "",
+    3,
+    22,
     0
    ]
   ]

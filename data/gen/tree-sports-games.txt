@@ -1,46 +1,46 @@
   ball sports
     team ball sports
-    sports balls [property] -- types of ball named for their sport or object: football, golf ball, shuttlecock, puck
-    soccer terms
+    sports balls [property] [separate] -- types of ball named for their sport or object: football, golf ball, shuttlecock, puck
+    soccer terms [separate]
       soccer positions
-      european soccer clubs [region:Europe]
-    basketball terms
-      nba teams [region:North America]
-    american football terms [region:North America]
-      nfl teams [region:North America]
-    baseball terms [region:North America]
-      mlb teams [region:North America]
-    cricket terms
+      european soccer clubs [region:Europe] [separate]
+    basketball terms [separate]
+      nba teams [region:North America] [separate]
+    american football terms [region:North America] [separate]
+      nfl teams [region:North America] [separate]
+    baseball terms [region:North America] [separate]
+      mlb teams [region:North America] [separate]
+    cricket terms [separate]
       cricket fielding positions
-    rugby terms
-    volleyball terms
+    rugby terms [separate]
+    volleyball terms [separate]
   racket and target sports
     racket sports
-    tennis terms
+    tennis terms [separate]
       tennis shots
-    golf terms
+    golf terms [separate]
       golf shots
-    table tennis terms
-    cue sports terms -- snooker, pool and billiards words
-    archery terms
-    darts terms
-    bowling terms
+    table tennis terms [separate]
+    cue sports terms [separate] -- snooker, pool and billiards words
+    archery terms [separate]
+    darts terms [separate]
+    bowling terms [separate]
   water sports
-    swimming strokes
-    swimming words
-    diving terms -- springboard and platform diving, not scuba
-    scuba words
-    surfing words
-    rowing words
+    swimming strokes [separate]
+    swimming words [separate]
+    diving terms [separate] -- springboard and platform diving, not scuba
+    scuba words [separate]
+    surfing words [separate]
+    rowing words [separate]
     sailing sports
     board and paddle sports
   winter sports
     snow sports
-    skiing words
-    skating words
+    skiing words [separate]
+    skating words [separate]
       figure skating moves
     ice hockey terms
-      nhl teams [region:North America]
+      nhl teams [region:North America] [separate]
     snowboard tricks
     curling words
     winter olympic events
@@ -48,13 +48,13 @@
     martial arts
       japanese martial arts [region:Asia]
       chinese martial arts [region:Asia]
-    boxing terms
+    boxing terms [separate]
       boxing weight classes
-    wrestling terms
-      sumo words [region:Asia]
-    fencing terms
-    karate words
-    judo words
+    wrestling terms [separate]
+      sumo words [region:Asia] [separate]
+    fencing terms [separate]
+    karate words [separate]
+    judo words [separate]
   athletics and gymnastics
     track events
     field events
@@ -62,22 +62,22 @@
       gymnastics apparatus
       gymnastics moves
     running words
-      famous marathons
-    triathlon words
-    olympic sports
+      famous marathons [separate]
+    triathlon words [separate]
+    olympic sports [separate]
   sports gear and places
     sports equipment
     sports venues
     sports officials
     sports clothing
-    scoring words
-    sports verbs -- actions players do: kick, dribble, serve, tackle, volley
+    scoring words [separate]
+    sports verbs [separate] -- actions players do: kick, dribble, serve, tackle, volley
   sporting events
     famous sporting events
-    tournament words
-    famous stadiums
-    olympic host cities
-    trophies and prizes
+    tournament words [separate]
+    famous stadiums [separate]
+    olympic host cities [separate]
+    trophies and prizes [separate]
     famous races -- Tour de France, Kentucky Derby, Boston Marathon, Indy 500, Grand National, Monaco Grand Prix, Daytona 500
   famous athletes
     famous soccer players
@@ -87,57 +87,57 @@
     olympic legends
     formula one drivers
   horse and animal sports
-    horse riding words
-    horse racing terms
-    famous horse races
+    horse riding words [separate]
+    horse racing terms [separate]
+    famous horse races [separate]
     equestrian events
-    rodeo words [region:North America]
-    bullfighting words [adult] [region:Europe]
+    rodeo words [region:North America] [separate]
+    bullfighting words [adult] [region:Europe] [separate]
   adventure and outdoor sports
     extreme sports
     air sports
-    climbing words
-    mountaineering words
-    fishing words
+    climbing words [separate]
+    mountaineering words [separate]
+    fishing words [separate]
       fishing tackle
-    hunting words [adult]
+    hunting words [adult] [separate]
   games of chance [adult]
     casino games [adult]
-    casino words [adult]
-    poker terms [adult]
-    blackjack terms [adult]
-    betting words [adult]
-    lottery words
+    casino words [adult] [separate]
+    poker terms [adult] [separate]
+    blackjack terms [adult] [separate]
+    betting words [adult] [separate]
+    lottery words [separate]
   table games
     board games
       asian board games [region:Asia]
     card games
-    chess terms
+    chess terms [separate]
       chess openings
     dice games
-    card game words
+    card game words [separate]
     classic games
-    game pieces [property] -- things you move or play with on a table: pawn, token, die, tile, marble
-    word games
-    mahjong words [region:Asia]
+    game pieces [property] [separate] -- things you move or play with on a table: pawn, token, die, tile, marble
+    word games [separate]
+    mahjong words [region:Asia] [separate]
   video games
     video game genres
     gaming words
     gaming hardware
-    arcade words
-    game controls
-    esports words
-    power-ups and pickups -- items collected in video games: coin, extra life, health pack, shield
+    arcade words [separate]
+    game controls [separate]
+    esports words [separate]
+    power-ups and pickups [separate] -- items collected in video games: coin, extra life, health pack, shield
   hobbies and crafts
     crafts
-    collecting hobbies
-    model making
+    collecting hobbies [separate]
+    model making [separate]
     puzzles
       logic puzzles
-    magic tricks
+    magic tricks [separate]
     paper crafts
-    pottery words
-    woodworking words
+    pottery words [separate]
+    woodworking words [separate]
   toys and play
     toys
     playground

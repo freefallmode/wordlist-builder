@@ -1,0 +1,13 @@
+{
+ "separate": [
+  "loud things",
+  "quiet things",
+  "sound qualities"
+ ],
+ "removed": [
+  "Godzilla (huge things)",
+  "King Kong (huge things)",
+  "Death Star (huge things)"
+ ],
+ "notes": "Only 'sounds' and 'onomatopoeia' are playable parents in this batch (textures, tastes, synonyms etc. are categories). Separate: loud things and quiet things are objects (jet engine, library, mouse), not sounds; sound qualities are adjectives (shrill, muffled). Onomatopoeia, water/machine/voice sounds and eating/impact sounds all read as sounds, so not separate. Removed Godzilla, King Kong, Death Star from huge things as film franchises; kept the Peruvian sweet 'King Kong' (a real food), Thumbelina, Tom Thumb, Lilliputian, Brobdingnagian (public domain) and Stretch Armstrong (real toy). Turkish sweets now use Turkish letters (künefe, sütlaç, kadayıf, tavuk göğsü...); revert if dotless ı reads badly. 'nduja given its leading apostrophe as in batch-00. Kept Dr Pepper without a period (brand form). Familiarity follows the batch's existing convention, 1 = best known."
+}

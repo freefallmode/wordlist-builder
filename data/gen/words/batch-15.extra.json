@@ -1,0 +1,34 @@
+{
+ "separate": [
+  "vet clinic",
+  "dentist's office",
+  "zoo",
+  "beach",
+  "airport",
+  "museum",
+  "art gallery",
+  "aquarium",
+  "movie theater",
+  "swimming pool",
+  "ski resort",
+  "street names",
+  "parts of a town",
+  "kinds of settlements",
+  "national animals",
+  "national flowers",
+  "national dishes",
+  "national sports",
+  "national instruments",
+  "national costumes"
+ ],
+ "removed": [
+  "guesthouse (buildings)",
+  "barracks (buildings)",
+  "outbuilding (buildings)",
+  "shed (buildings)",
+  "greenhouse (buildings)",
+  "pavilion (buildings)",
+  "commuter (streets and roads)"
+ ],
+ "notes": "No fiction found in this batch. Removed entries are parent/sub-theme duplicates (the parent keeps only members not in its sub-themes). The 11 places themes (vet clinic ... ski resort) are SEPARATE: their words are things found at the place, not workplaces/places to visit. Not separate but borderline: towers and skyscrapers (mixes tower types with famous named towers such as Big Ben, Eiffel Tower) and shops (some entries read as trades: butcher, florist, tailor). Added UK shop forms butcher's, chemist's, newsagent's alongside the plain forms. Kept plain forms where English dictionaries do: pho, ao dai, smorgasbord, bandoneon, kowhai, autobahn."
+}

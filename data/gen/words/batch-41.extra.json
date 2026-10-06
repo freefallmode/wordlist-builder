@@ -1,0 +1,14 @@
+{
+ "separate": [
+  "moons",
+  "constellations",
+  "southern sky",
+  "space missions",
+  "stars",
+  "star types",
+  "space telescopes",
+  "galaxies and nebulae"
+ ],
+ "removed": [],
+ "notes": "No modern-fiction members found (moon names from Shakespeare/Pope are public domain; 'Lucy' is the fossil). Not separate: lab glassware (beaker, flask read as lab equipment), viruses (viruses are microbes), planets, astronomy terms, space rocks, spaceflight words, moon phases (read as space). Separate: moons/constellations/southern sky/stars/space missions/space telescopes/galaxies and nebulae are named things whose names (Puck, Crater, Mimosa, Castor, Spirit, Swift, Sombrero) do not read as 'space'; star types are kinds, not named stars. Kept COVID alongside COVID-19, and Chandrayaan alongside Chandrayaan-3. 'Oumuamua left without its leading okina; Hi'iaka uses an apostrophe for the okina. Added CO2 to both gases and chemical compounds (carbon dioxide already sits in both). 'Gemini' (the program) added to space missions; it clashes with the constellation Gemini if both themes share a level."
+}

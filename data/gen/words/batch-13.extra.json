@@ -1,0 +1,10 @@
+{
+ "separate": [
+  "famous castles",
+  "famous statues"
+ ],
+ "removed": [
+  "Hobbiton (new zealand landmarks)"
+ ],
+ "notes": "Castles are mostly bare place names (Windsor, Bran, Dover, Warwick, Corfe, Glamis) and statues are mostly artwork titles (David, The Kiss, Perseus, Pieta, Discobolus), so neither reads as 'landmarks' on its own balloon. Accents follow English Wikipedia: Spanish/Portuguese/French/Nordic/Czech/Turkish diacritics added (e.g. Rhône, Paraná, Zürich, Øresund, Champs-Élysées, Sacré-Cœur, Göreme, Çatalhöyük, Kızılırmak, Kadıköy). Kept plain where English usage is plain: Teotihuacan, Tenochtitlan, Yaxchilan, Iguazu, Topkapi, Istiklal, Taksim, Bosporus. Japanese and Maori macrons (Todai-ji, Hachiko, Taupo, Kaikoura) left off deliberately as transliteration marks English usually drops; add them if you want consistency with Wikipedia. Official no-apostrophe names kept: Devils Tower, Devils Marbles, Kings Canyon, Lions Gate, Harrods, Madame Tussauds. Renamed for clarity: Empire State -> Empire State Building, Leaning Tower -> Leaning Tower of Pisa, Orsay -> Musée d'Orsay, Tussauds -> Madame Tussauds, Kiz Kulesi -> Maiden's Tower, Pont Alexandre -> Pont Alexandre III, Pantheon -> Panthéon (Paris theme only). Ghibli Museum, Disneyland, Graceland kept as real places/brands. No digit workarounds existed in this batch; digit names added instead (Taipei 101, 42nd Street, Route 66, Pier 39, Area 51)."
+}

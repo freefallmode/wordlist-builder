@@ -1,0 +1,24 @@
+{
+ "separate": [
+  "ancient egypt",
+  "ancient greece",
+  "ancient rome",
+  "aztecs and maya",
+  "inca empire",
+  "ancient china",
+  "ancient india",
+  "mesopotamia",
+  "ancient persia",
+  "feudal japan",
+  "vikings",
+  "byzantine empire",
+  "ottoman empire",
+  "celts",
+  "ancient olympics",
+  "castles",
+  "orders of knighthood",
+  "knightly virtues"
+ ],
+ "removed": [],
+ "notes": "No trademarked fiction found (Ivanhoe, Don Quixote, Green Knight, Robin Hood, King Arthur are public domain; Scorpion King is the real early pharaoh; Lagertha and Ragnar are saga figures). The 14 civilization sub-themes are marked separate because the parent's own members are peoples (Phoenicians, Minoans) while theirs are things and names of one culture (pyramid, toga, samurai), and several (feudal japan, ottoman empire, vikings) are not ancient. Japanese macrons and Sanskrit diacritics left off, as Wikipedia/Britannica mostly omit them for these names. Accents follow Wikipedia where Britannica and Wikipedia differ (Chichen Itza, Tenochtitlan, Teotihuacan kept plain). Few digit candidates exist in this history batch; pharaoh and sultan regnal numbers are Roman numerals."
+}

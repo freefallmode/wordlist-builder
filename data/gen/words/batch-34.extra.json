@@ -1,0 +1,15 @@
+{
+ "separate": [
+  "music festivals",
+  "concert words",
+  "famous bands",
+  "famous ballets",
+  "dance studio words"
+ ],
+ "removed": [
+  "orange justice (dance moves)",
+  "roger rabbit (dance moves)",
+  "smurf (dance moves)"
+ ],
+ "notes": "Removed as fiction: orange justice (Fortnite emote), roger rabbit and smurf (dance moves named after franchise characters; borderline, as both are long-standing real hip hop moves). Kept 'The Red Shoes' (ballet) and 'Thriller'/'Gangnam Style' (real songs). 'thirty-second note'/'sixty-fourth note' kept alongside new 32nd/64th note since both are common. Kept 'Tupac' (common name; 2Pac not added), 'Pink' (P!nk has '!'), 'NSYNC', 'Celine Dion' (usual English form). Earth Wind & Fire written without its commas. modern artists and latin american artists include sculptors/installation artists under 'painters' (Henry Moore, Brancusi, Calder, Christo, Doris Salcedo) - not marked separate but worth a look. musicians has no soul/R&B greats (Aretha Franklin, Marvin Gaye, Ray Charles, James Brown) in this batch; they may sit in another theme."
+}

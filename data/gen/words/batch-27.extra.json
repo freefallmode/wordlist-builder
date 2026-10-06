@@ -1,0 +1,28 @@
+{
+ "separate": [
+  "fashion designers",
+  "clothing parts",
+  "necklines",
+  "christmas",
+  "halloween",
+  "easter",
+  "new year",
+  "thanksgiving",
+  "weddings",
+  "wedding anniversaries",
+  "birthdays",
+  "valentine's day",
+  "diwali",
+  "lunar new year",
+  "holi",
+  "mid-autumn festival",
+  "ramadan and eid"
+ ],
+ "removed": [
+  "Grinch (christmas)",
+  "Rudolph (christmas)",
+  "Frosty (christmas)",
+  "Jack Skellington (halloween)"
+ ],
+ "notes": "Removed as trademarked fiction: Grinch (Dr. Seuss), Rudolph and Frosty (1939/1950 copyrighted characters), Jack Skellington (Disney). Kept public-domain Christmas Eve reindeer (Dasher...Blitzen, 1823 poem), Scrooge/Tiny Tim, Dracula, Frankenstein, headless horseman, and the generic garment terms Peter Pan collar and Mary Jane. Holiday sub-themes (christmas, halloween, easter, new year, thanksgiving, weddings, birthdays, valentine's day) marked separate because the parent's own members are names of holidays/events and words like reindeer, turkey, bride do not read as holidays; drop them from the list if you treat holiday things as members of the parent. The five festival sub-themes are separate for the same reason (diya, mooncake are not festival names). Clothing parts and necklines are separate from fabrics and sewing (hood, fly, train, boat, crew would be nonsense there); fashion designers separate from clothes. Christmas jumper now 'Christmas sweater' with uk 'Christmas jumper'. Vietnamese names given diacritics (bánh chưng, Tết Trung Thu) following Wikipedia; Tet itself left plain as in Merriam-Webster. Bleigiessen -> Bleigießen. Aida, Alice band and Kirby grip capitalised as in Oxford. Festival of Lights (diwali) also names Hanukkah, which is in another batch; avoid putting both in one level. Christmas carol titles keep their missing commas/exclamation marks (Hark the Herald..., O Come All Ye Faithful) since the checker allows no other punctuation."
+}

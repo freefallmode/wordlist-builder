@@ -1,0 +1,17 @@
+{
+ "separate": [
+  "hanukkah",
+  "day of the dead",
+  "anzac day",
+  "midsummer",
+  "oktoberfest",
+  "st. patrick's day",
+  "zodiac signs",
+  "chinese zodiac",
+  "candle words"
+ ],
+ "removed": [
+  "Coco (day of the dead)"
+ ],
+ "notes": "Removed Coco (Pixar film) from day of the dead. Festival themes are separate from 'festivals of the world' (their words are festival things, not festivals). Zodiac signs and chinese zodiac are separate from 'time'; candle words (flame, soot, drip) separate from 'household objects'. Kept German loanwords in oktoberfest lowercased where English dictionaries lowercase them (lebkuchen, weisswurst, kaiserschmarrn); kept plain Iznik, jardiniere, crepe paper per dictionary main forms. Some intended variant pairs remain (puja room/pooja room, dhurrie/durrie, peacoat/pea coat) as in the first pass."
+}

@@ -1128,7 +1128,7 @@
     0
    ],
    [
-    "gila trout",
+    "Gila trout",
     "",
     5,
     11,
@@ -2120,7 +2120,7 @@
     0
    ],
    [
-    "Galapagos shark",
+    "Galápagos shark",
     "",
     4,
     12,
@@ -2166,6 +2166,34 @@
     "pyjama shark",
     5,
     11,
+    0
+   ],
+   [
+    "Port Jackson shark",
+    "",
+    4,
+    13,
+    0
+   ],
+   [
+    "shortfin mako",
+    "",
+    3,
+    14,
+    0
+   ],
+   [
+    "great hammerhead",
+    "",
+    3,
+    15,
+    0
+   ],
+   [
+    "Caribbean reef shark",
+    "",
+    4,
+    12,
     0
    ]
   ]
@@ -2313,7 +2341,7 @@
     0
    ],
    [
-    "moorish idol",
+    "Moorish idol",
     "",
     3,
     13,
@@ -2544,7 +2572,7 @@
     0
    ],
    [
-    "endler",
+    "Endler's livebearer",
     "",
     4,
     12,
@@ -2681,6 +2709,34 @@
     "",
     4,
     10,
+    0
+   ],
+   [
+    "cardinal tetra",
+    "",
+    3,
+    14,
+    0
+   ],
+   [
+    "yellow tang",
+    "",
+    3,
+    14,
+    0
+   ],
+   [
+    "black ghost knifefish",
+    "",
+    4,
+    11,
+    0
+   ],
+   [
+    "harlequin rasbora",
+    "",
+    4,
+    11,
     0
    ]
   ]
@@ -3596,10 +3652,10 @@
     0
    ],
    [
-    "Christmas tree worm",
+    "Kemp's ridley",
     "",
-    3,
-    12,
+    4,
+    13,
     0
    ]
   ]
@@ -4032,6 +4088,20 @@
     3,
     12,
     0
+   ],
+   [
+    "Sally Lightfoot crab",
+    "",
+    4,
+    12,
+    0
+   ],
+   [
+    "Christmas Island red crab",
+    "",
+    4,
+    12,
+    0
    ]
   ]
  },
@@ -4374,7 +4444,7 @@
     0
    ],
    [
-    "venus clam",
+    "Venus clam",
     "",
     4,
     11,
@@ -4413,6 +4483,20 @@
     "",
     5,
     12,
+    0
+   ],
+   [
+    "giant African snail",
+    "",
+    3,
+    14,
+    0
+   ],
+   [
+    "queen conch",
+    "",
+    3,
+    14,
     0
    ]
   ]
@@ -4947,6 +5031,48 @@
     3,
     12,
     0
+   ],
+   [
+    "Risso's dolphin",
+    "",
+    4,
+    14,
+    0
+   ],
+   [
+    "Bryde's whale",
+    "",
+    4,
+    13,
+    0
+   ],
+   [
+    "Hector's dolphin",
+    "",
+    4,
+    13,
+    0
+   ],
+   [
+    "Cuvier's beaked whale",
+    "",
+    4,
+    12,
+    0
+   ],
+   [
+    "Commerson's dolphin",
+    "",
+    4,
+    12,
+    0
+   ],
+   [
+    "Dall's porpoise",
+    "",
+    4,
+    12,
+    0
    ]
   ]
  },
@@ -5100,7 +5226,7 @@
     0
    ],
    [
-    "Steller sea lion",
+    "Steller's sea lion",
     "",
     3,
     12,
@@ -5139,6 +5265,48 @@
     "",
     4,
     11,
+    0
+   ],
+   [
+    "New Zealand sea lion",
+    "",
+    4,
+    13,
+    0
+   ],
+   [
+    "Australian sea lion",
+    "",
+    4,
+    13,
+    0
+   ],
+   [
+    "Galápagos sea lion",
+    "",
+    4,
+    13,
+    0
+   ],
+   [
+    "Antarctic fur seal",
+    "",
+    4,
+    13,
+    0
+   ],
+   [
+    "northern elephant seal",
+    "",
+    4,
+    13,
+    0
+   ],
+   [
+    "Hooker's sea lion",
+    "",
+    5,
+    10,
     0
    ]
   ]
@@ -5354,6 +5522,13 @@
     3,
     12,
     0
+   ],
+   [
+    "Christmas tree worm",
+    "",
+    3,
+    12,
+    0
    ]
   ]
  },
@@ -5528,7 +5703,7 @@
     0
    ],
    [
-    "venus girdle",
+    "Venus's girdle",
     "",
     5,
     11,
@@ -5539,6 +5714,27 @@
     "",
     2,
     15,
+    0
+   ],
+   [
+    "lion's mane jellyfish",
+    "",
+    2,
+    17,
+    0
+   ],
+   [
+    "fried egg jellyfish",
+    "",
+    3,
+    13,
+    0
+   ],
+   [
+    "upside-down jellyfish",
+    "",
+    4,
+    12,
     0
    ]
   ]
@@ -5788,6 +5984,20 @@
     "",
     5,
     10,
+    0
+   ],
+   [
+    "Neptune's necklace",
+    "",
+    4,
+    11,
+    0
+   ],
+   [
+    "dead man's fingers",
+    "",
+    4,
+    13,
     0
    ]
   ]
@@ -6115,6 +6325,13 @@
     5,
     10,
     0
+   ],
+   [
+    "mermaid's purse",
+    "",
+    3,
+    14,
+    0
    ]
   ]
  },
@@ -6370,6 +6587,13 @@
     "",
     4,
     11,
+    0
+   ],
+   [
+    "lion's mane jellyfish",
+    "",
+    2,
+    17,
     0
    ]
   ]
@@ -6717,6 +6941,27 @@
     "",
     4,
     11,
+    0
+   ],
+   [
+    "giant water bug",
+    "",
+    3,
+    14,
+    0
+   ],
+   [
+    "spotted lanternfly",
+    "",
+    3,
+    14,
+    0
+   ],
+   [
+    "giant weta",
+    "",
+    4,
+    12,
     0
    ]
   ]
@@ -7121,6 +7366,13 @@
     3,
     12,
     0
+   ],
+   [
+    "devil's coach horse",
+    "",
+    4,
+    13,
+    0
    ]
   ]
  },
@@ -7330,7 +7582,7 @@
     0
    ],
    [
-    "io moth",
+    "Io moth",
     "",
     4,
     11,
@@ -7628,6 +7880,55 @@
     "",
     4,
     11,
+    0
+   ],
+   [
+    "death's-head hawkmoth",
+    "",
+    3,
+    15,
+    0
+   ],
+   [
+    "Queen Alexandra's birdwing",
+    "",
+    3,
+    13,
+    0
+   ],
+   [
+    "Rajah Brooke's birdwing",
+    "",
+    4,
+    12,
+    0
+   ],
+   [
+    "Duke of Burgundy",
+    "",
+    5,
+    12,
+    0
+   ],
+   [
+    "large white",
+    "",
+    3,
+    14,
+    0
+   ],
+   [
+    "small white",
+    "",
+    3,
+    14,
+    0
+   ],
+   [
+    "silver-washed fritillary",
+    "",
+    4,
+    12,
     0
    ]
   ]
@@ -7976,6 +8277,27 @@
     4,
     10,
     0
+   ],
+   [
+    "Asian giant hornet",
+    "",
+    2,
+    16,
+    0
+   ],
+   [
+    "red-tailed bumblebee",
+    "",
+    4,
+    12,
+    0
+   ],
+   [
+    "tree bumblebee",
+    "",
+    4,
+    12,
+    0
    ]
   ]
  },
@@ -8108,7 +8430,7 @@
     0
    ],
    [
-    "goliath birdeater",
+    "Goliath birdeater",
     "",
     3,
     13,
@@ -8255,7 +8577,7 @@
     0
    ],
    [
-    "Chilean rose",
+    "Chilean rose tarantula",
     "",
     4,
     11,
@@ -8294,6 +8616,34 @@
     "",
     4,
     11,
+    0
+   ],
+   [
+    "Brazilian wandering spider",
+    "",
+    3,
+    14,
+    0
+   ],
+   [
+    "Darwin's bark spider",
+    "",
+    5,
+    11,
+    0
+   ],
+   [
+    "St Andrew's cross spider",
+    "",
+    4,
+    12,
+    0
+   ],
+   [
+    "Mexican red-knee tarantula",
+    "",
+    3,
+    12,
     0
    ]
   ]
@@ -9090,6 +9440,13 @@
     "",
     3,
     13,
+    0
+   ],
+   [
+    "Asian tiger mosquito",
+    "",
+    3,
+    14,
     0
    ]
   ]
@@ -9983,6 +10340,27 @@
     4,
     11,
     0
+   ],
+   [
+    "budgerigar",
+    "",
+    2,
+    22,
+    0
+   ],
+   [
+    "Hermann's tortoise",
+    "",
+    4,
+    12,
+    0
+   ],
+   [
+    "crested gecko",
+    "",
+    3,
+    13,
+    0
    ]
   ]
  },
@@ -10154,6 +10532,34 @@
     "",
     5,
     11,
+    0
+   ],
+   [
+    "Campbell's dwarf hamster",
+    "",
+    4,
+    11,
+    0
+   ],
+   [
+    "teddy bear hamster",
+    "",
+    3,
+    13,
+    0
+   ],
+   [
+    "Holland lop",
+    "",
+    3,
+    13,
+    0
+   ],
+   [
+    "Netherland dwarf",
+    "",
+    4,
+    12,
     0
    ]
   ]
@@ -10816,7 +11222,7 @@
     0
    ],
    [
-    "Lowchen",
+    "Löwchen",
     "",
     5,
     11,
@@ -10848,6 +11254,13 @@
     "",
     4,
     12,
+    0
+   ],
+   [
+    "Coton de Tuléar",
+    "",
+    3,
+    13,
     0
    ]
   ]
@@ -11079,7 +11492,7 @@
     0
    ],
    [
-    "Cesky terrier",
+    "Český terrier",
     "",
     5,
     10,
@@ -11146,6 +11559,13 @@
     "",
     4,
     11,
+    0
+   ],
+   [
+    "West Highland white terrier",
+    "",
+    2,
+    16,
     0
    ]
   ]
@@ -11405,10 +11825,17 @@
     0
    ],
    [
-    "Hamiltonstovare",
+    "Hamiltonstövare",
     "",
     5,
     10,
+    0
+   ],
+   [
+    "Petit Basset Griffon Vendéen",
+    "",
+    4,
+    11,
     0
    ]
   ]
@@ -11458,7 +11885,7 @@
     0
    ],
    [
-    "Papillon",
+    "papillon",
     "",
     2,
     14,
@@ -11824,6 +12251,20 @@
     5,
     10,
     0
+   ],
+   [
+    "Pembroke Welsh corgi",
+    "",
+    3,
+    14,
+    0
+   ],
+   [
+    "Cardigan Welsh corgi",
+    "",
+    4,
+    13,
+    0
    ]
   ]
  },
@@ -11963,7 +12404,7 @@
     0
    ],
    [
-    "Komondor",
+    "komondor",
     "",
     3,
     12,
@@ -12005,7 +12446,7 @@
     0
    ],
    [
-    "Kuvasz",
+    "kuvasz",
     "",
     4,
     11,
@@ -12108,6 +12549,13 @@
     3,
     12,
     0
+   ],
+   [
+    "Greater Swiss mountain dog",
+    "",
+    4,
+    12,
+    0
    ]
   ]
  },
@@ -12170,7 +12618,7 @@
     0
    ],
    [
-    "Vizsla",
+    "vizsla",
     "",
     2,
     14,
@@ -12398,6 +12846,27 @@
     "",
     5,
     10,
+    0
+   ],
+   [
+    "Bracco Italiano",
+    "",
+    4,
+    12,
+    0
+   ],
+   [
+    "Nova Scotia duck tolling retriever",
+    "",
+    4,
+    11,
+    0
+   ],
+   [
+    "English springer spaniel",
+    "",
+    2,
+    16,
     0
    ]
   ]

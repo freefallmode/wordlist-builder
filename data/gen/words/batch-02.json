@@ -156,7 +156,7 @@
 0
 ],
 [
-"doner",
+"döner",
 "",
 2,
 22,
@@ -331,7 +331,7 @@
 0
 ],
 [
-"choripan",
+"choripán",
 "",
 3,
 16,
@@ -527,14 +527,14 @@
 0
 ],
 [
-"acaraje",
+"acarajé",
 "",
 4,
 14,
 0
 ],
 [
-"saltena",
+"salteña",
 "",
 4,
 13,
@@ -548,14 +548,14 @@
 0
 ],
 [
-"kokorec",
+"kokoreç",
 "",
 4,
 13,
 0
 ],
 [
-"balik ekmek",
+"balık ekmek",
 "",
 4,
 12,
@@ -569,7 +569,7 @@
 0
 ],
 [
-"suppli",
+"supplì",
 "",
 4,
 15,
@@ -583,14 +583,14 @@
 0
 ],
 [
-"langos",
+"lángos",
 "",
 4,
 14,
 0
 ],
 [
-"trdelnik",
+"trdelník",
 "",
 4,
 13,
@@ -944,7 +944,7 @@
 0
 ],
 [
-"rosti",
+"rösti",
 "",
 3,
 17,
@@ -1091,7 +1091,7 @@
 0
 ],
 [
-"pommes anna",
+"pommes Anna",
 "",
 4,
 13,
@@ -1224,7 +1224,7 @@
 0
 ],
 [
-"pommes souffle",
+"pommes soufflées",
 "",
 5,
 12,
@@ -1245,7 +1245,7 @@
 0
 ],
 [
-"bramboraky",
+"bramboráky",
 "",
 5,
 11,
@@ -1277,6 +1277,27 @@
 "",
 5,
 11,
+0
+],
+[
+"bubble and squeak",
+"",
+2,
+15,
+0
+],
+[
+"gratin dauphinois",
+"",
+3,
+14,
+0
+],
+[
+"potatoes au gratin",
+"",
+2,
+15,
 0
 ]
 ]
@@ -1375,14 +1396,14 @@
 0
 ],
 [
-"tourtiere",
+"tourtière",
 "",
 3,
 15,
 0
 ],
 [
-"borek",
+"börek",
 "",
 3,
 16,
@@ -1588,6 +1609,41 @@
 "huntsman pie",
 "",
 5,
+11,
+0
+],
+[
+"shepherd's pie",
+"",
+1,
+19,
+0
+],
+[
+"steak and kidney pie",
+"",
+2,
+15,
+0
+],
+[
+"chicken pot pie",
+"",
+1,
+17,
+0
+],
+[
+"pâté en croûte",
+"",
+4,
+12,
+0
+],
+[
+"Melton Mowbray pie",
+"",
+4,
 11,
 0
 ]
@@ -2076,7 +2132,7 @@
 0
 ],
 [
-"jalapeno",
+"jalapeño",
 "",
 2,
 23,
@@ -2384,7 +2440,7 @@
 0
 ],
 [
-"nduja",
+"'nduja",
 "",
 4,
 15,
@@ -2539,14 +2595,14 @@
 0
 ],
 [
-"rosti",
+"rösti",
 "",
 3,
 17,
 0
 ],
 [
-"Liege waffle",
+"Liège waffle",
 "",
 3,
 13,
@@ -2644,7 +2700,7 @@
 0
 ],
 [
-"smorrebrod",
+"smørrebrød",
 "",
 4,
 13,
@@ -2665,14 +2721,14 @@
 0
 ],
 [
-"aebleskiver",
+"æbleskiver",
 "",
 4,
 13,
 0
 ],
 [
-"surstromming",
+"surströmming",
 "",
 4,
 13,
@@ -2812,7 +2868,7 @@
 0
 ],
 [
-"hakarl",
+"hákarl",
 "",
 4,
 12,
@@ -2854,21 +2910,21 @@
 0
 ],
 [
-"alplermagronen",
+"älplermagronen",
 "",
 5,
 10,
 0
 ],
 [
-"Basler Lackerli",
+"Basler Läckerli",
 "",
 5,
 10,
 0
 ],
 [
-"Germknodel",
+"Germknödel",
 "",
 5,
 11,
@@ -2882,14 +2938,14 @@
 0
 ],
 [
-"Marillenknodel",
+"Marillenknödel",
 "",
 5,
 10,
 0
 ],
 [
-"Esterhazy torte",
+"Esterházy torte",
 "",
 5,
 11,
@@ -2931,7 +2987,7 @@
 0
 ],
 [
-"prinsesstarta",
+"prinsesstårta",
 "",
 5,
 11,
@@ -2959,14 +3015,14 @@
 0
 ],
 [
-"pinnekjott",
+"pinnekjøtt",
 "",
 5,
 10,
 0
 ],
 [
-"farikal",
+"fårikål",
 "",
 5,
 10,
@@ -2980,7 +3036,7 @@
 0
 ],
 [
-"flaeskesteg",
+"flæskesteg",
 "",
 5,
 10,
@@ -3008,7 +3064,7 @@
 0
 ],
 [
-"mammi",
+"mämmi",
 "",
 5,
 11,
@@ -3047,6 +3103,20 @@
 "",
 5,
 10,
+0
+],
+[
+"Wiener schnitzel",
+"",
+2,
+17,
+0
+],
+[
+"Belgian waffle",
+"",
+2,
+17,
 0
 ]
 ]
@@ -3523,7 +3593,7 @@
 0
 ],
 [
-"ragu",
+"ragù",
 "",
 3,
 20,
@@ -3565,7 +3635,7 @@
 0
 ],
 [
-"nduja",
+"'nduja",
 "",
 4,
 15,
@@ -3663,7 +3733,7 @@
 0
 ],
 [
-"suppli",
+"supplì",
 "",
 4,
 15,
@@ -3712,7 +3782,7 @@
 0
 ],
 [
-"baccala",
+"baccalà",
 "",
 4,
 15,
@@ -3829,6 +3899,41 @@
 5,
 13,
 0
+],
+[
+"cacio e pepe",
+"",
+3,
+15,
+0
+],
+[
+"pasta e fagioli",
+"",
+3,
+15,
+0
+],
+[
+"aglio e olio",
+"",
+3,
+14,
+0
+],
+[
+"spaghetti alle vongole",
+"",
+3,
+13,
+0
+],
+[
+"eggplant parmesan",
+"",
+2,
+16,
+0
 ]
 ]
 },
@@ -3863,14 +3968,14 @@
 0
 ],
 [
-"souffle",
+"soufflé",
 "",
 2,
 23,
 0
 ],
 [
-"creme brulee",
+"crème brûlée",
 "",
 2,
 20,
@@ -3912,7 +4017,7 @@
 0
 ],
 [
-"eclair",
+"éclair",
 "",
 2,
 21,
@@ -3933,7 +4038,7 @@
 0
 ],
 [
-"pate",
+"pâté",
 "",
 2,
 28,
@@ -4003,21 +4108,21 @@
 0
 ],
 [
-"tarte tatin",
+"tarte Tatin",
 "",
 3,
 17,
 0
 ],
 [
-"crepe suzette",
+"crepe Suzette",
 "",
 3,
 16,
 0
 ],
 [
-"creme caramel",
+"crème caramel",
 "",
 3,
 18,
@@ -4045,7 +4150,7 @@
 0
 ],
 [
-"salade nicoise",
+"salade niçoise",
 "",
 3,
 15,
@@ -4066,14 +4171,14 @@
 0
 ],
 [
-"bearnaise",
+"béarnaise",
 "",
 3,
 19,
 0
 ],
 [
-"bechamel",
+"béchamel",
 "",
 3,
 20,
@@ -4129,7 +4234,7 @@
 0
 ],
 [
-"consomme",
+"consommé",
 "",
 3,
 19,
@@ -4171,7 +4276,7 @@
 0
 ],
 [
-"crudites",
+"crudités",
 "",
 3,
 17,
@@ -4185,7 +4290,7 @@
 0
 ],
 [
-"canele",
+"canelé",
 "",
 4,
 15,
@@ -4199,7 +4304,7 @@
 0
 ],
 [
-"paris-brest",
+"Paris-Brest",
 "",
 4,
 14,
@@ -4220,21 +4325,21 @@
 0
 ],
 [
-"gougere",
+"gougère",
 "",
 4,
 14,
 0
 ],
 [
-"ile flottante",
+"île flottante",
 "",
 4,
 13,
 0
 ],
 [
-"tarte flambee",
+"tarte flambée",
 "",
 4,
 14,
@@ -4283,7 +4388,7 @@
 0
 ],
 [
-"pissaladiere",
+"pissaladière",
 "",
 4,
 13,
@@ -4318,14 +4423,14 @@
 0
 ],
 [
-"sole meuniere",
+"sole meunière",
 "",
 4,
 14,
 0
 ],
 [
-"moules marinieres",
+"moules marinières",
 "",
 4,
 14,
@@ -4339,7 +4444,7 @@
 0
 ],
 [
-"veloute",
+"velouté",
 "",
 4,
 16,
@@ -4371,6 +4476,41 @@
 "",
 5,
 12,
+0
+],
+[
+"duck à l'orange",
+"",
+2,
+15,
+0
+],
+[
+"crème fraîche",
+"",
+2,
+19,
+0
+],
+[
+"French onion soup",
+"",
+1,
+17,
+0
+],
+[
+"steak tartare",
+"",
+2,
+17,
+0
+],
+[
+"pommes frites",
+"",
+3,
+15,
 0
 ]
 ]
@@ -4448,7 +4588,7 @@
 0
 ],
 [
-"jamon",
+"jamón",
 "",
 3,
 19,
@@ -4469,7 +4609,7 @@
 0
 ],
 [
-"albondigas",
+"albóndigas",
 "",
 3,
 16,
@@ -4483,7 +4623,7 @@
 0
 ],
 [
-"turron",
+"turrón",
 "",
 3,
 15,
@@ -4497,7 +4637,7 @@
 0
 ],
 [
-"padron pepper",
+"Padrón pepper",
 "",
 3,
 14,
@@ -4532,7 +4672,7 @@
 0
 ],
 [
-"jamon iberico",
+"jamón ibérico",
 "",
 3,
 15,
@@ -4651,14 +4791,14 @@
 0
 ],
 [
-"polvoron",
+"polvorón",
 "",
 4,
 14,
 0
 ],
 [
-"fideua",
+"fideuà",
 "",
 4,
 13,
@@ -4707,7 +4847,7 @@
 0
 ],
 [
-"bunuelos",
+"buñuelos",
 "",
 4,
 15,
@@ -4763,7 +4903,7 @@
 0
 ],
 [
-"calcots",
+"calçots",
 "",
 5,
 12,
@@ -4826,7 +4966,7 @@
 0
 ],
 [
-"lacon",
+"lacón",
 "",
 5,
 12,
@@ -4844,6 +4984,27 @@
 "",
 5,
 10,
+0
+],
+[
+"pan con tomate",
+"",
+3,
+13,
+0
+],
+[
+"huevos rotos",
+"",
+4,
+12,
+0
+],
+[
+"pulpo a la gallega",
+"",
+4,
+11,
 0
 ]
 ]
@@ -5423,6 +5584,69 @@
 5,
 11,
 0
+],
+[
+"shepherd's pie",
+"",
+1,
+19,
+0
+],
+[
+"ploughman's lunch",
+"",
+2,
+15,
+0
+],
+[
+"steak and kidney pie",
+"",
+2,
+15,
+0
+],
+[
+"sticky toffee pudding",
+"",
+2,
+16,
+0
+],
+[
+"bread and butter pudding",
+"",
+2,
+15,
+0
+],
+[
+"pigs in blankets",
+"",
+3,
+15,
+0
+],
+[
+"devils on horseback",
+"",
+4,
+13,
+0
+],
+[
+"pie and mash",
+"",
+3,
+14,
+0
+],
+[
+"jam roly-poly",
+"",
+3,
+13,
+0
 ]
 ]
 },
@@ -5916,7 +6140,7 @@
 0
 ],
 [
-"spaetzle",
+"spätzle",
 "",
 3,
 16,
@@ -5986,7 +6210,7 @@
 0
 ],
 [
-"pfeffernusse",
+"pfeffernüsse",
 "",
 3,
 14,
@@ -6007,7 +6231,7 @@
 0
 ],
 [
-"leberkase",
+"leberkäse",
 "",
 4,
 13,
@@ -6098,7 +6322,7 @@
 0
 ],
 [
-"Thuringer",
+"Thüringer",
 "",
 4,
 14,
@@ -6119,14 +6343,14 @@
 0
 ],
 [
-"kasespatzle",
+"käsespätzle",
 "",
 4,
 13,
 0
 ],
 [
-"knodel",
+"knödel",
 "",
 4,
 14,
@@ -6210,7 +6434,7 @@
 0
 ],
 [
-"Konigsberger Klopse",
+"Königsberger Klopse",
 "",
 5,
 11,
@@ -6319,7 +6543,7 @@
 0
 ],
 [
-"paczki",
+"pączki",
 "",
 3,
 15,
@@ -6347,7 +6571,7 @@
 0
 ],
 [
-"cevapi",
+"ćevapi",
 "",
 3,
 15,
@@ -6368,7 +6592,7 @@
 0
 ],
 [
-"golabki",
+"gołąbki",
 "",
 4,
 13,
@@ -6382,7 +6606,7 @@
 0
 ],
 [
-"zurek",
+"żurek",
 "",
 4,
 13,
@@ -6396,7 +6620,7 @@
 0
 ],
 [
-"langos",
+"lángos",
 "",
 4,
 14,
@@ -6410,14 +6634,14 @@
 0
 ],
 [
-"trdelnik",
+"trdelník",
 "",
 4,
 13,
 0
 ],
 [
-"halusky",
+"halušky",
 "",
 4,
 13,
@@ -6431,7 +6655,7 @@
 0
 ],
 [
-"mamaliga",
+"mămăligă",
 "",
 4,
 13,
@@ -6543,7 +6767,7 @@
 0
 ],
 [
-"lecso",
+"lecsó",
 "",
 4,
 13,
@@ -6557,7 +6781,7 @@
 0
 ],
 [
-"ciorba",
+"ciorbă",
 "",
 4,
 13,
@@ -6620,14 +6844,14 @@
 0
 ],
 [
-"kapusniak",
+"kapuśniak",
 "",
 5,
 11,
 0
 ],
 [
-"nalesniki",
+"naleśniki",
 "",
 5,
 12,
@@ -6655,7 +6879,7 @@
 0
 ],
 [
-"rosol",
+"rosół",
 "",
 5,
 12,
@@ -6683,42 +6907,42 @@
 0
 ],
 [
-"halaszle",
+"halászlé",
 "",
 5,
 11,
 0
 ],
 [
-"porkolt",
+"pörkölt",
 "",
 5,
 12,
 0
 ],
 [
-"kurtoskalacs",
+"kürtőskalács",
 "",
 5,
 11,
 0
 ],
 [
-"svickova",
+"svíčková",
 "",
 5,
 12,
 0
 ],
 [
-"knedliky",
+"knedlíky",
 "",
 5,
 11,
 0
 ],
 [
-"bramboraky",
+"bramboráky",
 "",
 5,
 11,
@@ -6739,21 +6963,21 @@
 0
 ],
 [
-"papanasi",
+"papanași",
 "",
 5,
 11,
 0
 ],
 [
-"zacusca",
+"zacuscă",
 "",
 5,
 11,
 0
 ],
 [
-"placinta",
+"plăcintă",
 "",
 5,
 12,
@@ -6767,7 +6991,7 @@
 0
 ],
 [
-"saltibarsciai",
+"šaltibarščiai",
 "",
 5,
 10,
@@ -6820,7 +7044,7 @@
 0
 ],
 [
-"kofte",
+"köfte",
 "",
 2,
 17,
@@ -6848,14 +7072,14 @@
 0
 ],
 [
-"kunefe",
+"künefe",
 "",
 3,
 14,
 0
 ],
 [
-"imam bayildi",
+"imam bayıldı",
 "",
 3,
 13,
@@ -6876,7 +7100,7 @@
 0
 ],
 [
-"cig kofte",
+"çiğ köfte",
 "",
 4,
 12,
@@ -6890,14 +7114,14 @@
 0
 ],
 [
-"karniyarik",
+"karnıyarık",
 "",
 4,
 12,
 0
 ],
 [
-"kokorec",
+"kokoreç",
 "",
 4,
 13,
@@ -6911,7 +7135,7 @@
 0
 ],
 [
-"balik ekmek",
+"balık ekmek",
 "",
 4,
 12,
@@ -6932,14 +7156,14 @@
 0
 ],
 [
-"sutlac",
+"sütlaç",
 "",
 4,
 12,
 0
 ],
 [
-"asure",
+"aşure",
 "",
 4,
 12,
@@ -6967,21 +7191,21 @@
 0
 ],
 [
-"mercimek corbasi",
+"mercimek çorbası",
 "",
 4,
 12,
 0
 ],
 [
-"hunkar begendi",
+"hünkar beğendi",
 "",
 4,
 12,
 0
 ],
 [
-"kisir",
+"kısır",
 "",
 4,
 12,
@@ -6995,7 +7219,7 @@
 0
 ],
 [
-"cacik",
+"cacık",
 "",
 4,
 13,
@@ -7009,7 +7233,7 @@
 0
 ],
 [
-"icli kofte",
+"içli köfte",
 "",
 4,
 12,
@@ -7030,7 +7254,7 @@
 0
 ],
 [
-"kadayif",
+"kadayıf",
 "",
 4,
 13,
@@ -7044,7 +7268,7 @@
 0
 ],
 [
-"mucver",
+"mücver",
 "",
 4,
 12,
@@ -7065,7 +7289,7 @@
 0
 ],
 [
-"tavuk gogsu",
+"tavuk göğsü",
 "",
 5,
 11,
@@ -7079,21 +7303,21 @@
 0
 ],
 [
-"pismaniye",
+"pişmaniye",
 "",
 5,
 11,
 0
 ],
 [
-"sekerpare",
+"şekerpare",
 "",
 5,
 11,
 0
 ],
 [
-"gullac",
+"güllaç",
 "",
 5,
 11,
@@ -7107,7 +7331,7 @@
 0
 ],
 [
-"keskek",
+"keşkek",
 "",
 5,
 11,
@@ -7121,7 +7345,7 @@
 0
 ],
 [
-"iskembe",
+"işkembe",
 "",
 5,
 12,
@@ -7135,28 +7359,28 @@
 0
 ],
 [
-"kelle paca",
+"kelle paça",
 "",
 5,
 10,
 0
 ],
 [
-"aci ezme",
+"acı ezme",
 "",
 5,
 11,
 0
 ],
 [
-"zeytinyagli",
+"zeytinyağlı",
 "",
 5,
 10,
 0
 ],
 [
-"patlican salatasi",
+"patlıcan salatası",
 "",
 5,
 10,
@@ -7174,14 +7398,14 @@
 0
 ],
 [
-"gozleme",
+"gözleme",
 "",
 2,
 15,
 0
 ],
 [
-"borek",
+"börek",
 "",
 2,
 16,
@@ -7223,35 +7447,35 @@
 0
 ],
 [
-"cay",
+"çay",
 "",
 3,
 20,
 0
 ],
 [
-"pogaca",
+"poğaça",
 "",
 4,
 12,
 0
 ],
 [
-"acma",
+"açma",
 "",
 4,
 12,
 0
 ],
 [
-"pastirma",
+"pastırma",
 "",
 4,
 14,
 0
 ],
 [
-"kasar",
+"kaşar",
 "",
 4,
 13,
@@ -7279,14 +7503,14 @@
 0
 ],
 [
-"cilbir",
+"çılbır",
 "",
 4,
 13,
 0
 ],
 [
-"sigara boregi",
+"sigara böreği",
 "",
 4,
 11,
@@ -7342,14 +7566,14 @@
 0
 ],
 [
-"recel",
+"reçel",
 "",
 5,
 12,
 0
 ],
 [
-"pisi",
+"pişi",
 "",
 5,
 12,
@@ -7377,7 +7601,7 @@
 0
 ],
 [
-"cokelek",
+"çökelek",
 "",
 5,
 10,
@@ -7388,7 +7612,7 @@
 "kebab types": {
 "words": [
 [
-"doner",
+"döner",
 "",
 1,
 22,
@@ -7430,7 +7654,7 @@
 0
 ],
 [
-"cag",
+"cağ",
 "",
 4,
 15,
@@ -7444,21 +7668,21 @@
 0
 ],
 [
-"ali nazik",
+"Ali Nazik",
 "",
 4,
 11,
 0
 ],
 [
-"patlican",
+"patlıcan",
 "",
 4,
 13,
 0
 ],
 [
-"tandir",
+"tandır",
 "",
 4,
 14,
@@ -7472,14 +7696,14 @@
 0
 ],
 [
-"ciger",
+"ciğer",
 "",
 4,
 12,
 0
 ],
 [
-"yogurtlu",
+"yoğurtlu",
 "",
 4,
 11,
@@ -7507,7 +7731,7 @@
 0
 ],
 [
-"kagit",
+"kağıt",
 "",
 5,
 11,
@@ -7535,14 +7759,14 @@
 0
 ],
 [
-"fistikli",
+"fıstıklı",
 "",
 5,
 10,
 0
 ],
 [
-"cokertme",
+"çökertme",
 "",
 5,
 10,
@@ -7567,7 +7791,7 @@
 0
 ],
 [
-"cay",
+"çay",
 "",
 2,
 20,
@@ -7609,14 +7833,14 @@
 0
 ],
 [
-"salgam",
+"şalgam",
 "",
 4,
 12,
 0
 ],
 [
-"elma cayi",
+"elma çayı",
 "",
 4,
 11,
@@ -7651,35 +7875,35 @@
 0
 ],
 [
-"sira",
+"şıra",
 "",
 5,
 13,
 0
 ],
 [
-"ada cayi",
+"ada çayı",
 "",
 5,
 11,
 0
 ],
 [
-"ihlamur",
+"ıhlamur",
 "",
 5,
 11,
 0
 ],
 [
-"kusburnu",
+"kuşburnu",
 "",
 5,
 10,
 0
 ],
 [
-"menengic",
+"menengiç",
 "",
 5,
 10,
@@ -7700,7 +7924,7 @@
 0
 ],
 [
-"tursu suyu",
+"turşu suyu",
 "",
 5,
 10,
@@ -7714,7 +7938,7 @@
 0
 ],
 [
-"visne suyu",
+"vişne suyu",
 "",
 5,
 10,
@@ -7781,7 +8005,7 @@
 0
 ],
 [
-"zaatar",
+"za'atar",
 "",
 3,
 16,
@@ -7844,7 +8068,7 @@
 0
 ],
 [
-"maamoul",
+"ma'amoul",
 "",
 4,
 13,
@@ -7907,7 +8131,7 @@
 0
 ],
 [
-"kaak",
+"ka'ak",
 "",
 4,
 13,
@@ -8191,7 +8415,7 @@
 0
 ],
 [
-"cacik",
+"cacık",
 "",
 4,
 13,
@@ -11791,7 +12015,7 @@
 0
 ],
 [
-"General Tso",
+"General Tso's chicken",
 "",
 2,
 16,
@@ -15830,7 +16054,7 @@
 0
 ],
 [
-"tequeno",
+"tequeño",
 "",
 3,
 13,
@@ -15844,7 +16068,7 @@
 0
 ],
 [
-"pabellon",
+"pabellón",
 "",
 4,
 13,
@@ -15858,7 +16082,7 @@
 0
 ],
 [
-"patacon",
+"patacón",
 "",
 4,
 13,
@@ -15928,14 +16152,14 @@
 0
 ],
 [
-"bolon",
+"bolón",
 "",
 4,
 12,
 0
 ],
 [
-"saltena",
+"salteña",
 "",
 4,
 13,
@@ -16005,7 +16229,7 @@
 0
 ],
 [
-"charquican",
+"charquicán",
 "",
 5,
 11,
@@ -16033,7 +16257,7 @@
 0
 ],
 [
-"cunape",
+"cuñapé",
 "",
 5,
 11,
@@ -16054,14 +16278,14 @@
 0
 ],
 [
-"mbeju",
+"mbejú",
 "",
 5,
 11,
 0
 ],
 [
-"chipa guasu",
+"chipa guasú",
 "",
 5,
 11,
@@ -16082,7 +16306,7 @@
 0
 ],
 [
-"chaja",
+"chajá",
 "",
 5,
 11,
@@ -16163,7 +16387,7 @@
 0
 ],
 [
-"aji de gallina",
+"ají de gallina",
 "",
 3,
 13,
@@ -16205,7 +16429,7 @@
 0
 ],
 [
-"huancaina",
+"huancaína",
 "",
 4,
 12,
@@ -16254,7 +16478,7 @@
 0
 ],
 [
-"suspiro limeno",
+"suspiro limeño",
 "",
 4,
 12,
@@ -16380,7 +16604,7 @@
 0
 ],
 [
-"pepian",
+"pepián",
 "",
 5,
 11,
@@ -16412,7 +16636,7 @@
 0
 ],
 [
-"acai",
+"açaí",
 "",
 1,
 20,
@@ -16426,7 +16650,7 @@
 0
 ],
 [
-"pao de queijo",
+"pão de queijo",
 "",
 2,
 14,
@@ -16475,7 +16699,7 @@
 0
 ],
 [
-"acaraje",
+"acarajé",
 "",
 3,
 14,
@@ -16489,7 +16713,7 @@
 0
 ],
 [
-"vatapa",
+"vatapá",
 "",
 4,
 12,
@@ -16566,7 +16790,7 @@
 0
 ],
 [
-"requeijao",
+"requeijão",
 "",
 4,
 12,
@@ -16580,7 +16804,7 @@
 0
 ],
 [
-"linguica",
+"linguiça",
 "",
 4,
 14,
@@ -16594,7 +16818,7 @@
 0
 ],
 [
-"baiao de dois",
+"baião de dois",
 "",
 4,
 12,
@@ -16615,7 +16839,7 @@
 0
 ],
 [
-"tacaca",
+"tacacá",
 "",
 5,
 11,
@@ -16629,7 +16853,7 @@
 0
 ],
 [
-"manicoba",
+"maniçoba",
 "",
 5,
 11,
@@ -16671,7 +16895,7 @@
 0
 ],
 [
-"mungunza",
+"mungunzá",
 "",
 5,
 10,
@@ -16724,7 +16948,7 @@
 0
 ],
 [
-"choripan",
+"choripán",
 "",
 2,
 16,
@@ -16808,7 +17032,7 @@
 0
 ],
 [
-"faina",
+"fainá",
 "",
 4,
 12,
@@ -16836,14 +17060,14 @@
 0
 ],
 [
-"vacio",
+"vacío",
 "",
 4,
 13,
 0
 ],
 [
-"entrana",
+"entraña",
 "",
 4,
 12,
@@ -16906,7 +17130,7 @@
 0
 ],
 [
-"vitel tone",
+"vitel toné",
 "",
 4,
 12,
@@ -16934,7 +17158,7 @@
 0
 ],
 [
-"garrapinada",
+"garrapiñada",
 "",
 5,
 11,
@@ -16966,7 +17190,7 @@
 0
 ],
 [
-"guarana",
+"guaraná",
 "",
 2,
 16,
@@ -16987,14 +17211,14 @@
 0
 ],
 [
-"terere",
+"tereré",
 "",
 3,
 13,
 0
 ],
 [
-"Guarana Antarctica",
+"Guaraná Antarctica",
 "",
 3,
 12,
@@ -17064,7 +17288,7 @@
 0
 ],
 [
-"champus",
+"champús",
 "",
 5,
 11,
@@ -17548,6 +17772,48 @@
 "",
 5,
 11,
+0
+],
+[
+"s'mores",
+"",
+1,
+19,
+0
+],
+[
+"mac and cheese",
+"",
+1,
+22,
+0
+],
+[
+"corn on the cob",
+"",
+2,
+19,
+0
+],
+[
+"BLT",
+"",
+2,
+18,
+0
+],
+[
+"banana split",
+"",
+2,
+17,
+0
+],
+[
+"PB&J",
+"",
+2,
+15,
 0
 ]
 ]

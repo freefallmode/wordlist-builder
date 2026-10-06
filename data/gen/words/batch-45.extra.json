@@ -1,0 +1,22 @@
+{
+ "separate": [],
+ "removed": [
+  "skibidi (gen z slang)",
+  "Barney Rubble (cockney rhyming slang)",
+  "Scooby Doo (cockney rhyming slang)",
+  "puddy tat (baby talk)",
+  "frak (polite swears)",
+  "smeg (polite swears)",
+  "shazbot (polite swears)",
+  "nonsense words (words meaning nonsense)",
+  "spinach (words meaning nonsense)",
+  "bibbidi-bobbidi-boo (silly-sounding words)",
+  "spider (___man)",
+  "bat (___man)",
+  "ant (___man)",
+  "aqua (___man)",
+  "fleet (star___)",
+  "lord (star___)"
+ ],
+ "notes": "No theme in this batch sits under a playable theme: foreign words, slang and sayings, words before and words after are all group headings (colon) in themes.txt, so 'separate' is empty. Fiction removed: skibidi (Skibidi Toilet), Barney Rubble and Scooby Doo (cockney), puddy tat (Tweety), frak/smeg/shazbot (TV swears), bibbidi-bobbidi-boo (Disney), spider/bat/ant/aqua from ___man (superheroes; kept super and iron as dictionary words), fleet and lord from star___ (Starfleet, Star-Lord). Also removed 'nonsense words' and 'spinach' from words meaning nonsense as weak fits. Kept: hakuna matata, simba, rafiki (real Swahili), Sweeney Todd (penny dreadful), Mutt and Jeff and Dumb Dora (1907/1924 comic strips, public domain), jughead (insult predates Archie), Wendy house, jabberwocky/frabjous (Carroll), cowabunga, Jiminy Cricket as exclamation. Accents: Turkish words now use Turkish letters (çay, döner, hoş geldiniz...) except raki, matching batch-02; Maori words use macrons (whānau, Pākehā, kākāpō, kākā...); Hawaiian words that English writes plain stay plain (luau, ukulele, muumuu, lanai, ohana, pupu, nene) but less-anglicised ones use Hawaiian spelling with kahakō and the 'okina U+02BB ('āina, 'ono, kama'āina, ali'i, humuhumunukunukuāpua'a) - check the plain-letter derivation drops U+02BB. mahi mahi became mahimahi. Spanish numbers and French phrases got their accents. Latin got abbreviations with periods (e.g., i.e., etc., Q.E.D., R.I.P., P.S.); drop them if abbreviations feel wrong for a phrases theme. Text speak got digit forms (gr8, l8r, b4, 2day, 2nite, m8, w8, h8, 4eva, cu l8r); gen z got 6-7 (the 2025 meme). snow___ got White (Snow White) and star___ got bucks (Starbucks); ___book got Face, Mac, Chrome (brands)."
+}

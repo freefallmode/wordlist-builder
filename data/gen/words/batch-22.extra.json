@@ -1,0 +1,20 @@
+{
+ "separate": [
+  "terms of endearment",
+  "greetings",
+  "ways to say goodbye",
+  "ages and stages",
+  "life events",
+  "honorifics",
+  "personality traits",
+  "workplace words",
+  "cowboy words",
+  "gaucho words",
+  "ottoman titles",
+  "royal things"
+ ],
+ "removed": [
+  "kemosabe (words for friend)"
+ ],
+ "notes": "Honorifics now use the US forms with periods (Mr., Mrs., Ms., Dr., Mx.) with the British period-less forms in uk; added St., Prof., Rev. 'Election Day' capitalized (US holiday-style proper name). 'Trooping the Colour' is a proper name so kept British spelling with empty uk. Kept 'nine-to-five' alongside new '9-to-5' since both are common. Kept 'Martín Fierro' (1872 poem, public domain) and 'twitterpated' (dictionary word, not a character). Removed 'kemosabe' (The Lone Ranger). Ottoman titles marked separate: vizier, janissary, mufti etc. are not royal titles. 'mate' appears in both words for friend and gaucho words (different senses)."
+}

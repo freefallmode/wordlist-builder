@@ -1,0 +1,17 @@
+{
+ "separate": [
+  "teas",
+  "coffee words",
+  "juices",
+  "wine words",
+  "in the pantry",
+  "lunchbox",
+  "picnic basket"
+ ],
+ "removed": [
+  "vesper (cocktails)",
+  "Eskimo Pie (foods on a stick)",
+  "Drumstick (foods on a stick)"
+ ],
+ "notes": "Separate: juices are bare fruit/vegetable names (orange, carrot); teas include bare names that do not read as drinks (Assam, Yunnan, gunpowder, nettle, fennel); coffee words and wine words are equipment/terms, not drinks; pantry, lunchbox and picnic items are foods and objects, not cooking terms. Not separate: beers (a few style words like mild, bitter, sour read oddly alone, but most are clearly beers), red/white wines, liqueurs, national spirits, the other drinks and cooking sub-themes; eating out and food properties are not playable themes, so their children were not judged. Removed: vesper (cocktail invented in the Bond novels); Eskimo Pie (brand retired in 2021, now Edy's Pie); Drumstick (a cone, not on a stick). Kept godfather (cocktail named after the film, but a generic word) and second breakfast (Tolkien popularised it but it is a general phrase). Brands kept with their official forms: Baileys, Dr Pepper, St-Germain, Jose Cuervo (no accent officially), MoonPie, 7UP. Vocabulary pairs put in uk the same way the batch already did cornstarch/cornflour: self-rising/self-raising, whole wheat/wholemeal, stuffed zucchini/stuffed courgette. Added '86' (restaurant slang for out of stock) to restaurant words; drop it if a bare number on a balloon is unwanted. Most accents were already present in the first pass; only acai -> açaí and langos -> lángos needed fixing. Adult flag left 0 in adult-tagged drink themes (including Sex on the Beach), following rule 7."
+}

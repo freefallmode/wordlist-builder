@@ -1,0 +1,31 @@
+{
+ "separate": [
+  "living room",
+  "kitchen",
+  "bathroom",
+  "bedroom",
+  "garage",
+  "attic",
+  "laundry room",
+  "dining room",
+  "home office",
+  "junk drawer",
+  "in a wallet",
+  "in a handbag",
+  "medicine cabinet",
+  "wardrobe",
+  "under the sink",
+  "lights and lamps",
+  "soft furnishings",
+  "home electronics",
+  "bathroom fixtures",
+  "electrical fittings",
+  "fireplace words",
+  "fixings",
+  "painting and decorating",
+  "plumbing words",
+  "saws"
+ ],
+ "removed": [],
+ "notes": "No fiction found (PlayStation, Xbox, Nintendo, Kindle etc. are real brands, kept). 'cheval mirror' dropped from furniture because it is also in its sub-theme antique furniture (parent-lists-only-non-sub-theme rule), not counted as a removal. Separate: the nine rooms and six 'where things are kept' themes list contents (sofa, receipt), not rooms or storage places, so they are separate IF 'rooms' / 'where things are kept' are themselves playable; if they are only grouping nodes, ignore those 15. lights and lamps (light bulb, floodlight, fairy lights are not furniture), soft furnishings (napkin, tablecloth, cushion are not furniture), home electronics (laptop, PlayStation, walkie-talkie do not read as appliances), bathroom fixtures and electrical fittings (fixtures/fittings, not appliances), fireplace words (poker, kindling, soot are not heating devices), fixings (nails, screws are not tools), painting and decorating (wallpaper, primer, gloss are materials), plumbing words (pipe, leak, sewer), saws (many are power saws: chainsaw, table saw, band saw, so they do not read as hand tools). Not separate: seating, tables and desks, beds, storage furniture, antique furniture, window coverings, rugs and carpets, kitchen/cleaning/small appliances, heating and cooling, hand tools, power tools, measuring tools. Kept 'three-pin plug'/'two-pin plug' spelled out (the usual form). Antique accents follow common reference spellings (étagère, bergère, secrétaire, récamier, torchère, jardinière); lights and lamps keeps US 'torchiere' unaccented. demilune changed to the usual hyphenated demi-lune, chest on chest to chest-on-chest."
+}

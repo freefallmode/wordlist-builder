@@ -9,7 +9,7 @@
     shades of pink
     shades of gray
     metallic colors -- gold, silver, bronze, copper, pewter, gunmetal
-    color terms -- hue, tint, shade, tone, pigment, palette, saturation, primary
+    color terms [separate] -- hue, tint, shade, tone, pigment, palette, saturation, primary
     colors in other languages:
       colors in spanish [region:South America] -- rojo, azul, verde, amarillo, blanco
       colors in french [region:Europe] -- rouge, bleu, vert, jaune, blanc
@@ -18,7 +18,7 @@
     2d shapes
     3d shapes
     patterns
-    line types
+    line types [separate]
     symbols
     curves and spirals
     shaped things:
@@ -32,7 +32,7 @@
     hard materials
     soft materials
     see-through materials
-    things that rust [property] -- nail, anchor, bike chain, iron gate, old car, tin can
+    things that rust [property] [separate] -- nail, anchor, bike chain, iron gate, old car, tin can
     made of…:
       things made of wood [property] -- pencil, chopsticks, violin, canoe, barrel
       things made of glass [property] -- window, mirror, bottle, lightbulb, marble
@@ -93,12 +93,12 @@
     onomatopoeia
       eating sounds -- crunch, munch, slurp, gulp, chomp, burp, nom
       impact sounds -- bang, crash, thud, thump, clang, splat, wham
-    loud things [property] -- thunder, jet engine, fireworks, siren, jackhammer, drum
-    quiet things [property] -- whisper, snowfall, mouse, library, feather, tiptoe
+    loud things [property] [separate] -- thunder, jet engine, fireworks, siren, jackhammer, drum
+    quiet things [property] [separate] -- whisper, snowfall, mouse, library, feather, tiptoe
     water sounds
     machine sounds
     voice sounds
-    sound qualities -- shrill, booming, muffled, hoarse, husky, raspy, tinny, mellow
+    sound qualities [separate] -- shrill, booming, muffled, hoarse, husky, raspy, tinny, mellow
   smells:
     things that smell good [property] -- fresh bread, roses, coffee, vanilla, cut grass
     things that smell bad [property] -- skunk, garbage, rotten egg, wet dog, old socks

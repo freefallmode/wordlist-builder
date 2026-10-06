@@ -23,7 +23,7 @@
 0
 ],
 [
-"Bronte",
+"Brontë",
 "",
 2,
 30,
@@ -121,7 +121,7 @@
 0
 ],
 [
-"le Carre",
+"le Carré",
 "",
 3,
 25,
@@ -721,6 +721,13 @@
 4,
 24,
 0
+],
+[
+"O'Brian",
+"",
+4,
+22,
+0
 ]
 ]
 },
@@ -748,7 +755,7 @@
 0
 ],
 [
-"pinata",
+"piñata",
 "",
 1,
 26,
@@ -990,14 +997,14 @@
 "",
 3,
 22,
-0
+1
 ],
 [
 "drinking games",
 "",
 3,
 22,
-0
+1
 ],
 [
 "live band",
@@ -1207,6 +1214,20 @@
 "",
 4,
 15,
+0
+],
+[
+"Grandmother's Footsteps",
+"",
+4,
+15,
+0
+],
+[
+"hokey pokey",
+"hokey cokey",
+2,
+21,
 0
 ]
 ]
@@ -1613,7 +1634,7 @@
 0
 ],
 [
-"Jagerbomb",
+"Jägerbomb",
 "",
 4,
 18,
@@ -1855,7 +1876,7 @@
 0
 ],
 [
-"trio eletrico",
+"trio elétrico",
 "",
 4,
 14,
@@ -1967,7 +1988,7 @@
 0
 ],
 [
-"cuica",
+"cuíca",
 "",
 4,
 14,
@@ -1995,7 +2016,7 @@
 0
 ],
 [
-"agogo",
+"agogô",
 "",
 4,
 17,
@@ -2058,7 +2079,7 @@
 0
 ],
 [
-"Ile Aiye",
+"Ilê Aiyê",
 "",
 5,
 13,
@@ -2072,7 +2093,7 @@
 0
 ],
 [
-"abada",
+"abadá",
 "",
 5,
 14,
@@ -2086,7 +2107,7 @@
 0
 ],
 [
-"foliao",
+"folião",
 "",
 5,
 12,
@@ -2107,7 +2128,7 @@
 0
 ],
 [
-"Sapucai",
+"Sapucaí",
 "",
 4,
 14,
@@ -2128,14 +2149,14 @@
 0
 ],
 [
-"comissao de frente",
+"comissão de frente",
 "",
 5,
 12,
 0
 ],
 [
-"carro alegorico",
+"carro alegórico",
 "",
 5,
 12,
@@ -2829,7 +2850,7 @@
 0
 ],
 [
-"Mudejar",
+"Mudéjar",
 "",
 5,
 15,
@@ -2983,7 +3004,7 @@
 0
 ],
 [
-"Chateauesque",
+"Châteauesque",
 "",
 5,
 14,
@@ -3148,7 +3169,7 @@
 0
 ],
 [
-"Gaudi",
+"Gaudí",
 "",
 2,
 25,
@@ -3183,7 +3204,7 @@
 0
 ],
 [
-"IM Pei",
+"I. M. Pei",
 "",
 3,
 21,
@@ -3442,7 +3463,7 @@
 0
 ],
 [
-"Herzog and de Meuron",
+"Herzog & de Meuron",
 "",
 4,
 17,
@@ -3533,7 +3554,7 @@
 0
 ],
 [
-"Jorn Utzon",
+"Jørn Utzon",
 "",
 3,
 20,
@@ -3666,7 +3687,7 @@
 0
 ],
 [
-"Cesar Pelli",
+"César Pelli",
 "",
 4,
 18,
@@ -3757,7 +3778,7 @@
 0
 ],
 [
-"Francis Kere",
+"Francis Kéré",
 "",
 4,
 18,
@@ -3771,7 +3792,7 @@
 0
 ],
 [
-"Erno Goldfinger",
+"Ernő Goldfinger",
 "",
 4,
 18,
@@ -4721,7 +4742,7 @@
 0
 ],
 [
-"bonsho",
+"bonshō",
 "",
 5,
 12,
@@ -4742,14 +4763,14 @@
 0
 ],
 [
-"sando",
+"sandō",
 "",
 5,
 14,
 0
 ],
 [
-"chozuya",
+"chōzuya",
 "",
 5,
 12,
@@ -4896,7 +4917,7 @@
 0
 ],
 [
-"kondo",
+"kondō",
 "",
 5,
 15,
@@ -4931,7 +4952,7 @@
 0
 ],
 [
-"Nio guardians",
+"Niō guardians",
 "",
 5,
 12,
@@ -7188,7 +7209,7 @@
 0
 ],
 [
-"O Henry",
+"O. Henry",
 "",
 3,
 25,
@@ -7430,6 +7451,27 @@
 "",
 5,
 26,
+0
+],
+[
+"Flannery O'Connor",
+"",
+3,
+23,
+0
+],
+[
+"John O'Hara",
+"",
+4,
+20,
+0
+],
+[
+"Tim O'Brien",
+"",
+4,
+21,
 0
 ]
 ]
@@ -7896,14 +7938,14 @@
 0
 ],
 [
-"Nazim Hikmet",
+"Nâzım Hikmet",
 "",
 3,
 21,
 0
 ],
 [
-"Yasar Kemal",
+"Yaşar Kemal",
 "",
 3,
 20,
@@ -7924,14 +7966,14 @@
 0
 ],
 [
-"Tanpinar",
+"Tanpınar",
 "",
 4,
 16,
 0
 ],
 [
-"Oguz Atay",
+"Oğuz Atay",
 "",
 4,
 17,
@@ -7959,7 +8001,7 @@
 0
 ],
 [
-"Resat Nuri",
+"Reşat Nuri",
 "",
 4,
 17,
@@ -7987,7 +8029,7 @@
 0
 ],
 [
-"Adalet Agaoglu",
+"Adalet Ağaoğlu",
 "",
 5,
 16,
@@ -8008,14 +8050,14 @@
 0
 ],
 [
-"Zulfu Livaneli",
+"Zülfü Livaneli",
 "",
 4,
 17,
 0
 ],
 [
-"Ahmet Umit",
+"Ahmet Ümit",
 "",
 4,
 17,
@@ -8029,21 +8071,21 @@
 0
 ],
 [
-"Necip Fazil",
+"Necip Fazıl",
 "",
 4,
 17,
 0
 ],
 [
-"Cemal Sureya",
+"Cemal Süreya",
 "",
 4,
 16,
 0
 ],
 [
-"Attila Ilhan",
+"Attila İlhan",
 "",
 4,
 17,
@@ -8064,7 +8106,7 @@
 0
 ],
 [
-"Tezer Ozlu",
+"Tezer Özlü",
 "",
 5,
 16,
@@ -8085,7 +8127,7 @@
 0
 ],
 [
-"Namik Kemal",
+"Namık Kemal",
 "",
 4,
 17,
@@ -8099,7 +8141,7 @@
 0
 ],
 [
-"Omer Seyfettin",
+"Ömer Seyfettin",
 "",
 4,
 16,
@@ -8113,7 +8155,7 @@
 0
 ],
 [
-"Can Yucel",
+"Can Yücel",
 "",
 4,
 17,
@@ -8141,21 +8183,21 @@
 0
 ],
 [
-"Burhan Sonmez",
+"Burhan Sönmez",
 "",
 5,
 16,
 0
 ],
 [
-"Hakan Gunday",
+"Hakan Günday",
 "",
 5,
 16,
 0
 ],
 [
-"Ayse Kulin",
+"Ayşe Kulin",
 "",
 4,
 17,
@@ -8169,28 +8211,28 @@
 0
 ],
 [
-"Nedim Gursel",
+"Nedim Gürsel",
 "",
 5,
 16,
 0
 ],
 [
-"Selim Ileri",
+"Selim İleri",
 "",
 5,
 16,
 0
 ],
 [
-"Ferit Edgu",
+"Ferit Edgü",
 "",
 5,
 16,
 0
 ],
 [
-"Yusuf Atilgan",
+"Yusuf Atılgan",
 "",
 5,
 16,
@@ -8211,7 +8253,7 @@
 0
 ],
 [
-"Pinar Kur",
+"Pınar Kür",
 "",
 5,
 16,
@@ -8236,7 +8278,7 @@
 0
 ],
 [
-"Ngugi",
+"Ngũgĩ",
 "",
 3,
 21,
@@ -8341,14 +8383,14 @@
 0
 ],
 [
-"Sembene",
+"Sembène",
 "",
 4,
 19,
 0
 ],
 [
-"Mariama Ba",
+"Mariama Bâ",
 "",
 4,
 18,
@@ -8432,7 +8474,7 @@
 0
 ],
 [
-"Andre Brink",
+"André Brink",
 "",
 4,
 19,
@@ -8667,14 +8709,14 @@
 0
 ],
 [
-"Soseki",
+"Sōseki",
 "",
 3,
 20,
 0
 ],
 [
-"Basho",
+"Bashō",
 "",
 3,
 23,
@@ -8695,7 +8737,7 @@
 0
 ],
 [
-"Kobo Abe",
+"Kōbō Abe",
 "",
 4,
 18,
@@ -8716,14 +8758,14 @@
 0
 ],
 [
-"Sei Shonagon",
+"Sei Shōnagon",
 "",
 4,
 19,
 0
 ],
 [
-"Endo",
+"Endō",
 "",
 4,
 26,
@@ -8744,7 +8786,7 @@
 0
 ],
 [
-"Ryu Murakami",
+"Ryū Murakami",
 "",
 4,
 20,
@@ -8814,21 +8856,21 @@
 0
 ],
 [
-"Mori Ogai",
+"Mori Ōgai",
 "",
 4,
 18,
 0
 ],
 [
-"Higuchi Ichiyo",
+"Higuchi Ichiyō",
 "",
 5,
 16,
 0
 ],
 [
-"Shimazaki Toson",
+"Shimazaki Tōson",
 "",
 5,
 16,
@@ -8842,7 +8884,7 @@
 0
 ],
 [
-"Kafu",
+"Kafū",
 "",
 5,
 17,
@@ -8870,7 +8912,7 @@
 0
 ],
 [
-"Ohba",
+"Ōba",
 "",
 5,
 17,
@@ -8912,7 +8954,7 @@
 0
 ],
 [
-"Seicho Matsumoto",
+"Seichō Matsumoto",
 "",
 5,
 16,
@@ -8982,7 +9024,7 @@
 0
 ],
 [
-"Kenzaburo Oe",
+"Kenzaburō Ōe",
 "",
 4,
 18,
@@ -8993,7 +9035,7 @@
 "latin american writers": {
 "words": [
 [
-"Garcia Marquez",
+"García Márquez",
 "",
 1,
 25,
@@ -9042,7 +9084,7 @@
 0
 ],
 [
-"Cortazar",
+"Cortázar",
 "",
 3,
 22,
@@ -9063,7 +9105,7 @@
 0
 ],
 [
-"Bolano",
+"Bolaño",
 "",
 3,
 21,
@@ -9119,7 +9161,7 @@
 0
 ],
 [
-"Sabato",
+"Sábato",
 "",
 4,
 19,
@@ -9168,14 +9210,14 @@
 0
 ],
 [
-"Jose Marti",
+"José Martí",
 "",
 3,
 20,
 0
 ],
 [
-"Ruben Dario",
+"Rubén Darío",
 "",
 4,
 19,
@@ -9252,7 +9294,7 @@
 0
 ],
 [
-"Guimaraes Rosa",
+"Guimarães Rosa",
 "",
 4,
 17,
@@ -9329,14 +9371,14 @@
 0
 ],
 [
-"Skarmeta",
+"Skármeta",
 "",
 5,
 17,
 0
 ],
 [
-"Sepulveda",
+"Sepúlveda",
 "",
 4,
 21,
@@ -9378,7 +9420,7 @@
 0
 ],
 [
-"Vasquez",
+"Vásquez",
 "",
 4,
 22,
@@ -9420,7 +9462,7 @@
 0
 ],
 [
-"Cecilia Meireles",
+"Cecília Meireles",
 "",
 5,
 16,
@@ -9448,21 +9490,21 @@
 0
 ],
 [
-"Mujica Lainez",
+"Mujica Láinez",
 "",
 5,
 15,
 0
 ],
 [
-"Alegria",
+"Alegría",
 "",
 5,
 21,
 0
 ],
 [
-"Ferre",
+"Ferré",
 "",
 5,
 18,
@@ -9473,7 +9515,7 @@
 "children's authors": {
 "words": [
 [
-"Dr Seuss",
+"Dr. Seuss",
 "",
 1,
 30,
@@ -9501,7 +9543,7 @@
 0
 ],
 [
-"JK Rowling",
+"J. K. Rowling",
 "",
 2,
 26,
@@ -9515,7 +9557,7 @@
 0
 ],
 [
-"AA Milne",
+"A. A. Milne",
 "",
 2,
 25,
@@ -9543,7 +9585,7 @@
 0
 ],
 [
-"CS Lewis",
+"C. S. Lewis",
 "",
 2,
 29,
@@ -9592,7 +9634,7 @@
 0
 ],
 [
-"RL Stine",
+"R. L. Stine",
 "",
 3,
 23,
@@ -9606,7 +9648,7 @@
 0
 ],
 [
-"EB White",
+"E. B. White",
 "",
 2,
 24,
@@ -9725,7 +9767,7 @@
 0
 ],
 [
-"JM Barrie",
+"J. M. Barrie",
 "",
 3,
 24,
@@ -9844,14 +9886,14 @@
 0
 ],
 [
-"Erich Kastner",
+"Erich Kästner",
 "",
 4,
 20,
 0
 ],
 [
-"Saint-Exupery",
+"Saint-Exupéry",
 "",
 3,
 22,
@@ -9956,7 +9998,7 @@
 0
 ],
 [
-"HA Rey",
+"H. A. Rey",
 "",
 3,
 21,
@@ -10019,7 +10061,7 @@
 0
 ],
 [
-"Ann M Martin",
+"Ann M. Martin",
 "",
 3,
 21,
@@ -10089,7 +10131,7 @@
 0
 ],
 [
-"EL Konigsburg",
+"E. L. Konigsburg",
 "",
 4,
 19,
@@ -10145,7 +10187,7 @@
 0
 ],
 [
-"PL Travers",
+"P. L. Travers",
 "",
 3,
 21,
@@ -10159,7 +10201,7 @@
 0
 ],
 [
-"Edith Nesbit",
+"E. Nesbit",
 "",
 4,
 21,
@@ -10180,7 +10222,7 @@
 0
 ],
 [
-"LM Montgomery",
+"L. M. Montgomery",
 "",
 3,
 21,
@@ -10351,6 +10393,27 @@
 "Ruth Manning-Sanders",
 "",
 5,
+18,
+0
+],
+[
+"Madeleine L'Engle",
+"",
+3,
+22,
+0
+],
+[
+"Scott O'Dell",
+"",
+4,
+19,
+0
+],
+[
+"Robert C. O'Brien",
+"",
+4,
 18,
 0
 ]
@@ -11315,7 +11378,7 @@
 0
 ],
 [
-"TS Eliot",
+"T. S. Eliot",
 "",
 2,
 26,
@@ -11483,7 +11546,7 @@
 0
 ],
 [
-"EE Cummings",
+"E. E. Cummings",
 "",
 3,
 22,
@@ -11609,7 +11672,7 @@
 0
 ],
 [
-"Basho",
+"Bashō",
 "",
 3,
 23,
@@ -11665,7 +11728,7 @@
 0
 ],
 [
-"Milosz",
+"Miłosz",
 "",
 4,
 20,
@@ -12111,6 +12174,13 @@
 4,
 20,
 0
+],
+[
+"Frank O'Hara",
+"",
+4,
+20,
+0
 ]
 ]
 },
@@ -12518,9 +12588,37 @@
 5,
 16,
 0
+],
+[
+"A Midsummer Night's Dream",
+"",
+1,
+26,
+0
+],
+[
+"The Winter's Tale",
+"",
+3,
+21,
+0
+],
+[
+"Love's Labour's Lost",
+"",
+4,
+19,
+0
+],
+[
+"All's Well That Ends Well",
+"",
+3,
+21,
+0
 ]
 ],
-"flag": "Plays named after their title character (Hamlet, Macbeth, Othello, King Lear, Julius Caesar, Richard III, Henry V, Coriolanus, Titus Andronicus, Pericles, Cymbeline, King John...) are listed under the sub-theme shakespeare characters. Titles with apostrophes (A Midsummer Night's Dream, The Winter's Tale, Love's Labour's Lost, All's Well That Ends Well) are left out; consider allowing an apostrophe or a short form like \"Midsummer\"."
+"flag": "Plays named after their title character (Hamlet, Macbeth, Othello, King Lear, Julius Caesar, Richard III, Henry V, Coriolanus, Titus Andronicus, Pericles, Cymbeline, King John...) are listed under the sub-theme shakespeare characters."
 },
 "shakespeare characters": {
 "words": [
@@ -14102,6 +14200,27 @@
 5,
 15,
 0
+],
+[
+"Emperor's New Clothes",
+"",
+1,
+24,
+0
+],
+[
+"Babes in the Wood",
+"",
+3,
+20,
+0
+],
+[
+"Stone Soup",
+"",
+3,
+21,
+0
 ]
 ]
 },
@@ -14311,13 +14430,6 @@
 0
 ],
 [
-"Ariel",
-"",
-3,
-32,
-0
-],
-[
 "Aurora",
 "",
 3,
@@ -14332,55 +14444,6 @@
 0
 ],
 [
-"Maleficent",
-"",
-3,
-23,
-0
-],
-[
-"Grumpy",
-"",
-3,
-30,
-0
-],
-[
-"Dopey",
-"",
-3,
-24,
-0
-],
-[
-"Sneezy",
-"",
-3,
-21,
-0
-],
-[
-"Bashful",
-"",
-3,
-25,
-0
-],
-[
-"Sleepy",
-"",
-3,
-34,
-0
-],
-[
-"Doc",
-"",
-3,
-36,
-0
-],
-[
 "Magic Mirror",
 "",
 2,
@@ -14388,42 +14451,42 @@
 0
 ],
 [
-"Huntsman",
+"huntsman",
 "",
 3,
 25,
 0
 ],
 [
-"Woodcutter",
+"woodcutter",
 "",
 3,
 23,
 0
 ],
 [
-"Witch",
+"witch",
 "",
 2,
 41,
 0
 ],
 [
-"Ogre",
+"ogre",
 "",
 2,
 31,
 0
 ],
 [
-"Troll",
+"troll",
 "",
 2,
 33,
 0
 ],
 [
-"Giant",
+"giant",
 "",
 2,
 47,
@@ -14577,28 +14640,28 @@
 0
 ],
 [
-"Fairy",
+"fairy",
 "",
 2,
 41,
 0
 ],
 [
-"Elf",
+"elf",
 "",
 2,
 35,
 0
 ],
 [
-"Goblin",
+"goblin",
 "",
 2,
 32,
 0
 ],
 [
-"Genie",
+"genie",
 "",
 2,
 31,
@@ -15681,8 +15744,8 @@
 0
 ],
 [
+"1984",
 "Nineteen Eighty-Four",
-"",
 2,
 20,
 0
@@ -15737,7 +15800,7 @@
 0
 ],
 [
-"Les Miserables",
+"Les Misérables",
 "",
 1,
 26,
@@ -16115,8 +16178,8 @@
 0
 ],
 [
+"Mrs. Dalloway",
 "Mrs Dalloway",
-"",
 3,
 22,
 0
@@ -16136,7 +16199,7 @@
 0
 ],
 [
-"Lady Chatterley",
+"Lady Chatterley's Lover",
 "",
 3,
 22,
@@ -16584,20 +16647,6 @@
 0
 ],
 [
-"Lord of the Rings",
-"",
-1,
-27,
-0
-],
-[
-"Hobbit",
-"",
-1,
-31,
-0
-],
-[
 "Watership Down",
 "",
 2,
@@ -16616,6 +16665,55 @@
 "",
 3,
 20,
+0
+],
+[
+"Fahrenheit 451",
+"",
+1,
+24,
+0
+],
+[
+"Catch-22",
+"",
+2,
+25,
+0
+],
+[
+"Gulliver's Travels",
+"",
+1,
+25,
+0
+],
+[
+"Uncle Tom's Cabin",
+"",
+2,
+23,
+0
+],
+[
+"Pilgrim's Progress",
+"",
+2,
+22,
+0
+],
+[
+"Swann's Way",
+"",
+4,
+18,
+0
+],
+[
+"Tom Brown's School Days",
+"Tom Brown's Schooldays",
+4,
+17,
 0
 ]
 ]
@@ -17190,14 +17288,14 @@
 0
 ],
 [
-"shonen",
+"shōnen",
 "",
 4,
 21,
 0
 ],
 [
-"shojo",
+"shōjo",
 "",
 4,
 20,
@@ -17225,14 +17323,14 @@
 0
 ],
 [
-"tankobon",
+"tankōbon",
 "",
 5,
 14,
 0
 ],
 [
-"bande dessinee",
+"bande dessinée",
 "",
 5,
 15,
@@ -17698,7 +17796,7 @@
 0
 ],
 [
-"son et lumiere",
+"son et lumière",
 "",
 5,
 16,
@@ -18718,7 +18816,7 @@
 0
 ],
 [
-"voila",
+"voilà",
 "",
 3,
 31,
@@ -19016,14 +19114,14 @@
 0
 ],
 [
-"Penn and Teller",
+"Penn & Teller",
 "",
 2,
 22,
 0
 ],
 [
-"Siegfried and Roy",
+"Siegfried & Roy",
 "",
 2,
 21,
@@ -19219,7 +19317,7 @@
 0
 ],
 [
-"PT Selbit",
+"P. T. Selbit",
 "",
 5,
 13,
@@ -20039,13 +20137,6 @@
 0
 ],
 [
-"Mr Bean",
-"",
-1,
-25,
-0
-],
-[
 "Buster Keaton",
 "",
 3,
@@ -20235,7 +20326,7 @@
 0
 ],
 [
-"Louis CK",
+"Louis C.K.",
 "",
 3,
 23,
@@ -20915,6 +21006,34 @@
 ],
 [
 "Zach Galifianakis",
+"",
+3,
+21,
+0
+],
+[
+"Conan O'Brien",
+"",
+2,
+24,
+0
+],
+[
+"Rosie O'Donnell",
+"",
+3,
+23,
+0
+],
+[
+"Dara Ó Briain",
+"",
+4,
+19,
+0
+],
+[
+"Catherine O'Hara",
 "",
 3,
 21,
@@ -21906,7 +22025,7 @@
 0
 ],
 [
-"Port Aventura",
+"PortAventura",
 "",
 4,
 17,
@@ -22036,6 +22155,13 @@
 "",
 4,
 15,
+0
+],
+[
+"Knott's Berry Farm",
+"",
+3,
+19,
 0
 ]
 ]

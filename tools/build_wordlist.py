@@ -59,7 +59,7 @@ def reason(t):
 words = collections.OrderedDict()
 forms = collections.defaultdict(collections.Counter)
 flags, missing = [], []
-for path in sorted(glob.glob(os.path.join(ROOT, 'data', 'gen', 'words', 'batch-*.json'))):
+for path in sorted(glob.glob(os.path.join(ROOT, 'data', 'gen', 'words', 'batch-[0-9][0-9].json'))):
     for tname, v in json.load(open(path, encoding='utf-8')).items():
         ti = by_name.get(tname)
         if ti is None: missing.append(tname); continue

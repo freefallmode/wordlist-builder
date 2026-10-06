@@ -1,0 +1,33 @@
+{
+ "separate": [
+  "sports balls",
+  "soccer terms",
+  "european soccer clubs",
+  "basketball terms",
+  "nba teams",
+  "american football terms",
+  "nfl teams",
+  "baseball terms",
+  "mlb teams",
+  "cricket terms",
+  "rugby terms",
+  "volleyball terms",
+  "tennis terms",
+  "golf terms",
+  "table tennis terms",
+  "cue sports terms",
+  "archery terms",
+  "darts terms",
+  "bowling terms",
+  "swimming strokes",
+  "swimming words",
+  "diving terms",
+  "scuba words",
+  "surfing words",
+  "rowing words",
+  "skiing words",
+  "skating words"
+ ],
+ "removed": [],
+ "notes": "No fiction found to remove. Parent/sub-theme overlaps removed (not fiction): handball (ball sports), skittles (racket and target sports), lawn bowls (racket and target sports). Sixers and Niners kept alongside 76ers and 49ers (common names in their own right). Schalke kept without 04 (common short form). darts 'bullseye' kept plain (usual darts spelling); archery uses bull's-eye."
+}

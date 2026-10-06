@@ -1,0 +1,19 @@
+{
+ "separate": [
+  "garden birds",
+  "gardening verbs",
+  "famous gardens",
+  "japanese garden",
+  "mountain features",
+  "river features",
+  "cave features",
+  "bodies of water",
+  "scottish landscape words",
+  "cappadocia",
+  "weather instruments",
+  "named winds",
+  "sky phenomena"
+ ],
+ "removed": [],
+ "notes": "No modern-fiction members found (Jack Frost is folklore; gnome is generic). No digit members fit these themes, so none added. Parents seashore, seasons in nature and plants of the world are not playable themes, so their children were not judged. Under landscapes: mountain/river/cave features are separate because many members are parts of a landform that read as nonsense alone (pass, face, mouth, bank, curtain, popcorn); desert and ice features kept as not separate because most members are landform-scale (dune, mesa, glacier, ice sheet), though a few (wash, growler, erratic) are weak alone. Bodies of water separate (sound, mere, pool read oddly as landscapes). Garden birds and gardening verbs separate (different category; 'water', 'train', 'layer' alone are nonsense). Accents: Turkish place names in cappadocia now use Turkish letters (Göreme, Ürgüp, Kaymaklı with dotless i, Nevşehir, Paşabağ, Soğanlı); Ryoanji -> Ryōan-ji; névé, arête, El Niño, La Niña. Kept serac and foehn plain (dictionary main forms). Maori plant names left without macrons (pohutukawa, kowhai, manuka, totara, kumara, nikau, rata...): Oxford and Britannica write them plain, though NZ usage now prefers macrons (pōhutukawa, kōwhai, mānuka); switch if you want NZ style. Saint names written 'St John's wort', 'St Elmo's fire' (no period) to match the brief's 'St Peter's'. 'mayday' -> 'Mayday', 'creeping charlie' -> 'creeping Charlie'. Overlap mulch/weed/compost between garden (nouns) and gardening verbs left as is since gardening verbs is separate."
+}

@@ -1,0 +1,14 @@
+{
+ "separate": [
+  "cruise lines",
+  "military vehicles",
+  "space vehicles",
+  "horse-drawn vehicles",
+  "truck types"
+ ],
+ "removed": [
+  "Hello Kitty (japanese souvenirs)",
+  "Squaw Valley (famous ski resorts)"
+ ],
+ "notes": "Squaw Valley removed as a duplicate of Palisades Tahoe (resort renamed 2021). Fixed typo Mayrhofer -> Mayrhofen. Kept workarounds four-by-four (desert travel) and eighteen-wheeler (truck types) as they are common names; added 4x4 and 18-wheeler beside them. Left plain where English sources mostly do: Hawaii Volcanoes (no okina), Iznik, raki, Da Nang, Thingvellir. Parc Astérix and Enterprise (shuttle) kept as real places/vehicles. Souvenir sub-themes judged not separate (kimono, tequila, fez read as souvenirs)."
+}

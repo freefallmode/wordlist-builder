@@ -205,6 +205,13 @@
 0
 ],
 [
+"duck-billed platypus",
+"",
+2,
+16,
+0
+],
+[
 "three-toed sloth",
 "",
 2,
@@ -338,7 +345,7 @@
 0
 ],
 [
-"arctic hare",
+"Arctic hare",
 "",
 3,
 17,
@@ -359,6 +366,20 @@
 0
 ],
 [
+"African forest elephant",
+"",
+3,
+14,
+0
+],
+[
+"Florida manatee",
+"",
+3,
+14,
+0
+],
+[
 "nine-banded armadillo",
 "",
 3,
@@ -367,6 +388,13 @@
 ],
 [
 "star-nosed mole",
+"",
+3,
+13,
+0
+],
+[
+"African bush elephant",
 "",
 3,
 13,
@@ -513,14 +541,21 @@
 0
 ],
 [
-"Stellers sea cow",
+"Hawaiian monk seal",
+"",
+4,
+13,
+0
+],
+[
+"Steller's sea cow",
 "",
 4,
 12,
 0
 ],
 [
-"Stellers sea lion",
+"Steller's sea lion",
 "",
 4,
 12,
@@ -535,6 +570,41 @@
 ],
 [
 "banded mongoose",
+"",
+4,
+12,
+0
+],
+[
+"West Indian manatee",
+"",
+4,
+12,
+0
+],
+[
+"short-beaked echidna",
+"",
+4,
+12,
+0
+],
+[
+"northern elephant seal",
+"",
+4,
+12,
+0
+],
+[
+"Cape fur seal",
+"",
+4,
+12,
+0
+],
+[
+"Antarctic fur seal",
 "",
 4,
 12,
@@ -748,6 +818,13 @@
 0
 ],
 [
+"African lion",
+"",
+2,
+20,
+0
+],
+[
 "saber-toothed tiger",
 "sabre-toothed tiger",
 2,
@@ -815,6 +892,27 @@
 "",
 3,
 17,
+0
+],
+[
+"African leopard",
+"",
+3,
+15,
+0
+],
+[
+"white lion",
+"",
+3,
+15,
+0
+],
+[
+"king cheetah",
+"",
+3,
+14,
 0
 ],
 [
@@ -895,6 +993,13 @@
 0
 ],
 [
+"Indian leopard",
+"",
+4,
+12,
+0
+],
+[
 "American lion",
 "",
 5,
@@ -924,6 +1029,13 @@
 ],
 [
 "Sunda clouded leopard",
+"",
+5,
+11,
+0
+],
+[
+"Sri Lankan leopard",
 "",
 5,
 11,
@@ -1074,7 +1186,7 @@
 0
 ],
 [
-"Pallas cat",
+"Pallas's cat",
 "",
 4,
 13,
@@ -1151,7 +1263,7 @@
 0
 ],
 [
-"Geoffroys cat",
+"Geoffroy's cat",
 "",
 5,
 11,
@@ -1421,6 +1533,20 @@
 0
 ],
 [
+"Cross River gorilla",
+"",
+4,
+12,
+0
+],
+[
+"Philippine tarsier",
+"",
+4,
+12,
+0
+],
+[
 "eastern lowland gorilla",
 "",
 4,
@@ -1471,6 +1597,20 @@
 ],
 [
 "fork-marked lemur",
+"",
+5,
+10,
+0
+],
+[
+"Coquerel's sifaka",
+"",
+5,
+10,
+0
+],
+[
+"Verreaux's sifaka",
 "",
 5,
 10,
@@ -1747,7 +1887,7 @@
 0
 ],
 [
-"hanuman langur",
+"Hanuman langur",
 "",
 4,
 13,
@@ -1824,6 +1964,13 @@
 0
 ],
 [
+"black-and-white colobus",
+"",
+4,
+12,
+0
+],
+[
 "golden snub-nosed monkey",
 "",
 4,
@@ -1894,7 +2041,14 @@
 0
 ],
 [
-"De Brazzas monkey",
+"De Brazza's monkey",
+"",
+5,
+11,
+0
+],
+[
+"red-shanked douc",
 "",
 5,
 11,
@@ -1902,6 +2056,41 @@
 ],
 [
 "surili",
+"",
+5,
+10,
+0
+],
+[
+"L'Hoest's monkey",
+"",
+5,
+10,
+0
+],
+[
+"Allen's swamp monkey",
+"",
+5,
+10,
+0
+],
+[
+"Goeldi's marmoset",
+"",
+5,
+10,
+0
+],
+[
+"Geoffroy's tamarin",
+"",
+5,
+10,
+0
+],
+[
+"Geoffroy's spider monkey",
 "",
 5,
 10,
@@ -2171,6 +2360,13 @@
 0
 ],
 [
+"fox squirrel",
+"",
+3,
+16,
+0
+],
+[
 "harvest mouse",
 "",
 3,
@@ -2189,6 +2385,13 @@
 "",
 3,
 15,
+0
+],
+[
+"eastern gray squirrel",
+"eastern grey squirrel",
+3,
+14,
 0
 ],
 [
@@ -2304,6 +2507,20 @@
 0
 ],
 [
+"black-tailed prairie dog",
+"",
+4,
+12,
+0
+],
+[
+"Patagonian mara",
+"",
+4,
+12,
+0
+],
+[
 "northern flying squirrel",
 "",
 4,
@@ -2360,6 +2577,27 @@
 0
 ],
 [
+"thirteen-lined ground squirrel",
+"",
+5,
+11,
+0
+],
+[
+"Abert's squirrel",
+"",
+5,
+11,
+0
+],
+[
+"Gambian pouched rat",
+"",
+5,
+11,
+0
+],
+[
 "tuco-tuco",
 "",
 5,
@@ -2382,6 +2620,34 @@
 ],
 [
 "pacarana",
+"",
+5,
+10,
+0
+],
+[
+"Richardson's ground squirrel",
+"",
+5,
+10,
+0
+],
+[
+"Belding's ground squirrel",
+"",
+5,
+10,
+0
+],
+[
+"Ord's kangaroo rat",
+"",
+5,
+10,
+0
+],
+[
+"African giant pouched rat",
 "",
 5,
 10,
@@ -2644,7 +2910,7 @@
 0
 ],
 [
-"Hectors dolphin",
+"Hector's dolphin",
 "",
 4,
 12,
@@ -2665,14 +2931,14 @@
 0
 ],
 [
-"Dalls porpoise",
+"Dall's porpoise",
 "",
 4,
 11,
 0
 ],
 [
-"Rissos dolphin",
+"Risso's dolphin",
 "",
 4,
 11,
@@ -2770,14 +3036,14 @@
 0
 ],
 [
-"Brydes whale",
+"Bryde's whale",
 "",
 5,
 11,
 0
 ],
 [
-"Cuviers beaked whale",
+"Cuvier's beaked whale",
 "",
 5,
 11,
@@ -2826,14 +3092,14 @@
 0
 ],
 [
-"Frasers dolphin",
+"Fraser's dolphin",
 "",
 5,
 10,
 0
 ],
 [
-"Commersons dolphin",
+"Commerson's dolphin",
 "",
 5,
 10,
@@ -2854,7 +3120,63 @@
 0
 ],
 [
-"Burmeisters porpoise",
+"Blainville's beaked whale",
+"",
+5,
+10,
+0
+],
+[
+"Sowerby's beaked whale",
+"",
+5,
+10,
+0
+],
+[
+"Baird's beaked whale",
+"",
+5,
+10,
+0
+],
+[
+"Heaviside's dolphin",
+"",
+5,
+10,
+0
+],
+[
+"Peale's dolphin",
+"",
+5,
+10,
+0
+],
+[
+"Omura's whale",
+"",
+5,
+10,
+0
+],
+[
+"northern right whale dolphin",
+"",
+5,
+10,
+0
+],
+[
+"Antarctic minke whale",
+"",
+5,
+10,
+0
+],
+[
+"Burmeister's porpoise",
 "",
 5,
 9,
@@ -3068,6 +3390,27 @@
 0
 ],
 [
+"Bennett's wallaby",
+"",
+4,
+12,
+0
+],
+[
+"hairy-nosed wombat",
+"",
+4,
+12,
+0
+],
+[
+"red-necked wallaby",
+"",
+4,
+12,
+0
+],
+[
 "western gray kangaroo",
 "western grey kangaroo",
 4,
@@ -3152,6 +3495,13 @@
 0
 ],
 [
+"Leadbeater's possum",
+"",
+5,
+11,
+0
+],
+[
 "kowari",
 "",
 5,
@@ -3202,6 +3552,34 @@
 ],
 [
 "musky rat-kangaroo",
+"",
+5,
+10,
+0
+],
+[
+"Lumholtz's tree-kangaroo",
+"",
+5,
+10,
+0
+],
+[
+"Goodfellow's tree-kangaroo",
+"",
+5,
+10,
+0
+],
+[
+"Matschie's tree-kangaroo",
+"",
+5,
+10,
+0
+],
+[
+"northern hairy-nosed wombat",
 "",
 5,
 10,
@@ -3478,7 +3856,7 @@
 0
 ],
 [
-"vicuna",
+"vicuña",
 "",
 3,
 16,
@@ -3492,6 +3870,13 @@
 0
 ],
 [
+"pygmy hippopotamus",
+"",
+3,
+15,
+0
+],
+[
 "Indian rhino",
 "",
 3,
@@ -3499,7 +3884,7 @@
 0
 ],
 [
-"Przewalskis horse",
+"Przewalski's horse",
 "",
 3,
 14,
@@ -3576,7 +3961,7 @@
 0
 ],
 [
-"Grevys zebra",
+"Grévy's zebra",
 "",
 4,
 12,
@@ -3584,6 +3969,34 @@
 ],
 [
 "red river hog",
+"",
+4,
+12,
+0
+],
+[
+"Baird's tapir",
+"",
+4,
+12,
+0
+],
+[
+"Burchell's zebra",
+"",
+4,
+12,
+0
+],
+[
+"Grant's zebra",
+"",
+4,
+12,
+0
+],
+[
+"Brazilian tapir",
 "",
 4,
 12,
@@ -3639,7 +4052,28 @@
 0
 ],
 [
+"Somali wild ass",
+"",
+5,
+11,
+0
+],
+[
 "takhi",
+"",
+5,
+10,
+0
+],
+[
+"Hartmann's mountain zebra",
+"",
+5,
+10,
+0
+],
+[
+"greater one-horned rhinoceros",
 "",
 5,
 10,
@@ -3846,7 +4280,28 @@
 0
 ],
 [
-"Pere Davids deer",
+"Père David's deer",
+"",
+4,
+12,
+0
+],
+[
+"Indian muntjac",
+"",
+4,
+12,
+0
+],
+[
+"Roosevelt elk",
+"",
+4,
+12,
+0
+],
+[
+"tule elk",
 "",
 4,
 12,
@@ -3909,6 +4364,13 @@
 0
 ],
 [
+"Reeves's muntjac",
+"",
+5,
+11,
+0
+],
+[
 "huemul",
 "",
 5,
@@ -3930,7 +4392,21 @@
 0
 ],
 [
-"Elds deer",
+"Eld's deer",
+"",
+5,
+10,
+0
+],
+[
+"Schomburgk's deer",
+"",
+5,
+10,
+0
+],
+[
+"Calamian deer",
 "",
 5,
 10,
@@ -4001,6 +4477,13 @@
 "",
 2,
 18,
+0
+],
+[
+"blue wildebeest",
+"",
+2,
+16,
 0
 ],
 [
@@ -4095,14 +4578,28 @@
 0
 ],
 [
-"Thomsons gazelle",
+"black wildebeest",
+"",
+3,
+14,
+0
+],
+[
+"Thomson's gazelle",
 "",
 3,
 13,
 0
 ],
 [
-"Grants gazelle",
+"Grant's gazelle",
+"",
+3,
+13,
+0
+],
+[
+"common eland",
 "",
 3,
 13,
@@ -4263,6 +4760,20 @@
 0
 ],
 [
+"Kirk's dik-dik",
+"",
+4,
+12,
+0
+],
+[
+"Uganda kob",
+"",
+4,
+12,
+0
+],
+[
 "kob",
 "",
 5,
@@ -4355,6 +4866,90 @@
 ],
 [
 "red-fronted gazelle",
+"",
+5,
+10,
+0
+],
+[
+"Günther's dik-dik",
+"",
+5,
+10,
+0
+],
+[
+"Speke's gazelle",
+"",
+5,
+10,
+0
+],
+[
+"Soemmerring's gazelle",
+"",
+5,
+10,
+0
+],
+[
+"Cuvier's gazelle",
+"",
+5,
+10,
+0
+],
+[
+"Lichtenstein's hartebeest",
+"",
+5,
+10,
+0
+],
+[
+"Jentink's duiker",
+"",
+5,
+10,
+0
+],
+[
+"Ader's duiker",
+"",
+5,
+10,
+0
+],
+[
+"Harvey's duiker",
+"",
+5,
+10,
+0
+],
+[
+"Peters's duiker",
+"",
+5,
+10,
+0
+],
+[
+"Bates's pygmy antelope",
+"",
+5,
+10,
+0
+],
+[
+"Hunter's hartebeest",
+"",
+5,
+10,
+0
+],
+[
+"Lord Derby's eland",
 "",
 5,
 10,
@@ -4470,6 +5065,13 @@
 0
 ],
 [
+"Indian bison",
+"",
+4,
+12,
+0
+],
+[
 "anoa",
 "",
 5,
@@ -4509,6 +5111,27 @@
 "",
 5,
 11,
+0
+],
+[
+"lowland anoa",
+"",
+5,
+11,
+0
+],
+[
+"mountain anoa",
+"",
+5,
+11,
+0
+],
+[
+"African forest buffalo",
+"",
+5,
+10,
 0
 ]
 ]
@@ -4663,6 +5286,34 @@
 0
 ],
 [
+"desert bighorn sheep",
+"",
+4,
+12,
+0
+],
+[
+"Rocky Mountain bighorn sheep",
+"",
+4,
+12,
+0
+],
+[
+"Spanish ibex",
+"",
+4,
+12,
+0
+],
+[
+"European mouflon",
+"",
+4,
+12,
+0
+],
+[
 "bezoar",
 "",
 5,
@@ -4751,6 +5402,13 @@
 "",
 5,
 11,
+0
+],
+[
+"Sierra Nevada bighorn sheep",
+"",
+5,
+10,
 0
 ],
 [
@@ -4870,6 +5528,13 @@
 0
 ],
 [
+"Asian black bear",
+"",
+3,
+13,
+0
+],
+[
 "moon bear",
 "",
 4,
@@ -4912,6 +5577,27 @@
 0
 ],
 [
+"Alaskan brown bear",
+"",
+4,
+13,
+0
+],
+[
+"California grizzly bear",
+"",
+4,
+12,
+0
+],
+[
+"Malayan sun bear",
+"",
+4,
+12,
+0
+],
+[
 "Eurasian brown bear",
 "",
 4,
@@ -4948,6 +5634,20 @@
 ],
 [
 "Syrian brown bear",
+"",
+5,
+11,
+0
+],
+[
+"Kamchatka brown bear",
+"",
+5,
+11,
+0
+],
+[
+"Himalayan brown bear",
 "",
 5,
 11,
@@ -5007,7 +5707,7 @@
 0
 ],
 [
-"arctic fox",
+"Arctic fox",
 "",
 2,
 21,
@@ -5070,7 +5770,7 @@
 0
 ],
 [
-"arctic wolf",
+"Arctic wolf",
 "",
 3,
 16,
@@ -5203,6 +5903,13 @@
 0
 ],
 [
+"eastern wolf",
+"",
+4,
+12,
+0
+],
+[
 "Bengal fox",
 "",
 5,
@@ -5210,7 +5917,7 @@
 0
 ],
 [
-"cape fox",
+"Cape fox",
 "",
 5,
 12,
@@ -5294,7 +6001,7 @@
 0
 ],
 [
-"Darwins fox",
+"Darwin's fox",
 "",
 5,
 11,
@@ -5308,6 +6015,20 @@
 0
 ],
 [
+"Arabian wolf",
+"",
+5,
+11,
+0
+],
+[
+"Himalayan wolf",
+"",
+5,
+11,
+0
+],
+[
 "short-eared dog",
 "",
 5,
@@ -5315,15 +6036,36 @@
 0
 ],
 [
-"Rueppells fox",
+"Rüppell's fox",
 "",
 5,
 10,
 0
 ],
 [
-"Blanfords fox",
+"Blanford's fox",
 "",
+5,
+10,
+0
+],
+[
+"Falkland Islands wolf",
+"",
+5,
+10,
+0
+],
+[
+"Sechuran fox",
+"",
+5,
+10,
+0
+],
+[
+"South American gray fox",
+"South American grey fox",
 5,
 10,
 0
@@ -5480,6 +6222,13 @@
 0
 ],
 [
+"American mink",
+"",
+3,
+13,
+0
+],
+[
 "ratel",
 "",
 4,
@@ -5502,6 +6251,34 @@
 ],
 [
 "long-tailed weasel",
+"",
+4,
+12,
+0
+],
+[
+"North American river otter",
+"",
+4,
+12,
+0
+],
+[
+"European mink",
+"",
+4,
+12,
+0
+],
+[
+"American marten",
+"",
+4,
+12,
+0
+],
+[
+"European pine marten",
 "",
 4,
 12,
@@ -5635,6 +6412,20 @@
 ],
 [
 "striped polecat",
+"",
+5,
+10,
+0
+],
+[
+"hairy-nosed otter",
+"",
+5,
+10,
+0
+],
+[
+"spotted-necked otter",
 "",
 5,
 10,
@@ -5820,6 +6611,41 @@
 0
 ],
 [
+"Indian flying fox",
+"",
+4,
+12,
+0
+],
+[
+"large flying fox",
+"",
+4,
+12,
+0
+],
+[
+"greater horseshoe bat",
+"",
+4,
+12,
+0
+],
+[
+"lesser horseshoe bat",
+"",
+4,
+12,
+0
+],
+[
+"common pipistrelle",
+"",
+4,
+12,
+0
+],
+[
 "Mexican free-tailed bat",
 "",
 4,
@@ -5842,6 +6668,27 @@
 ],
 [
 "Honduran white bat",
+"",
+4,
+11,
+0
+],
+[
+"golden-crowned flying fox",
+"",
+4,
+11,
+0
+],
+[
+"brown long-eared bat",
+"",
+4,
+11,
+0
+],
+[
+"soprano pipistrelle",
 "",
 4,
 11,
@@ -5939,7 +6786,7 @@
 0
 ],
 [
-"Daubentons bat",
+"Daubenton's bat",
 "",
 5,
 11,
@@ -5974,14 +6821,14 @@
 0
 ],
 [
-"Natterers bat",
+"Natterer's bat",
 "",
 5,
 10,
 0
 ],
 [
-"Bechsteins bat",
+"Bechstein's bat",
 "",
 5,
 10,
@@ -6010,6 +6857,55 @@
 ],
 [
 "long-tongued bat",
+"",
+5,
+10,
+0
+],
+[
+"Leisler's bat",
+"",
+5,
+10,
+0
+],
+[
+"Brandt's bat",
+"",
+5,
+10,
+0
+],
+[
+"Kuhl's pipistrelle",
+"",
+5,
+10,
+0
+],
+[
+"Nathusius' pipistrelle",
+"",
+5,
+10,
+0
+],
+[
+"Townsend's big-eared bat",
+"",
+5,
+10,
+0
+],
+[
+"Rafinesque's big-eared bat",
+"",
+5,
+10,
+0
+],
+[
+"Seba's short-tailed bat",
 "",
 5,
 10,
@@ -6244,6 +7140,55 @@
 0
 ],
 [
+"yellow-bellied sapsucker",
+"",
+3,
+13,
+0
+],
+[
+"laughing kookaburra",
+"",
+3,
+13,
+0
+],
+[
+"Eurasian collared dove",
+"",
+3,
+13,
+0
+],
+[
+"common cuckoo",
+"",
+3,
+13,
+0
+],
+[
+"greater roadrunner",
+"",
+3,
+13,
+0
+],
+[
+"rhinoceros hornbill",
+"",
+3,
+13,
+0
+],
+[
+"great hornbill",
+"",
+3,
+13,
+0
+],
+[
 "sandgrouse",
 "",
 4,
@@ -6342,7 +7287,7 @@
 0
 ],
 [
-"nicobar pigeon",
+"Nicobar pigeon",
 "",
 4,
 12,
@@ -6367,6 +7312,69 @@
 "",
 4,
 12,
+0
+],
+[
+"great Indian bustard",
+"",
+4,
+12,
+0
+],
+[
+"kori bustard",
+"",
+4,
+12,
+0
+],
+[
+"Gila woodpecker",
+"",
+4,
+12,
+0
+],
+[
+"acorn woodpecker",
+"",
+4,
+12,
+0
+],
+[
+"black woodpecker",
+"",
+4,
+12,
+0
+],
+[
+"yellow-billed cuckoo",
+"",
+4,
+12,
+0
+],
+[
+"lesser spotted woodpecker",
+"",
+4,
+11,
+0
+],
+[
+"blue-winged kookaburra",
+"",
+4,
+11,
+0
+],
+[
+"southern ground hornbill",
+"",
+4,
+11,
 0
 ],
 [
@@ -6462,6 +7470,27 @@
 ],
 [
 "go-away-bird",
+"",
+5,
+10,
+0
+],
+[
+"Lewis's woodpecker",
+"",
+5,
+10,
+0
+],
+[
+"Nuttall's woodpecker",
+"",
+5,
+10,
+0
+],
+[
+"Williamson's sapsucker",
 "",
 5,
 10,
@@ -6612,17 +7641,45 @@
 0
 ],
 [
-"Coopers hawk",
+"Cooper's hawk",
 "",
 3,
 13,
 0
 ],
 [
-"Harris hawk",
+"Harris's hawk",
 "",
 3,
 13,
+0
+],
+[
+"common kestrel",
+"",
+3,
+13,
+0
+],
+[
+"common buzzard",
+"",
+3,
+13,
+0
+],
+[
+"Eurasian sparrowhawk",
+"",
+3,
+12,
+0
+],
+[
+"northern goshawk",
+"",
+3,
+12,
 0
 ],
 [
@@ -6724,7 +7781,7 @@
 0
 ],
 [
-"Galapagos hawk",
+"Galápagos hawk",
 "",
 4,
 12,
@@ -6759,7 +7816,7 @@
 0
 ],
 [
-"Swainsons hawk",
+"Swainson's hawk",
 "",
 4,
 12,
@@ -6787,6 +7844,13 @@
 0
 ],
 [
+"crested caracara",
+"",
+4,
+12,
+0
+],
+[
 "rough-legged buzzard",
 "",
 4,
@@ -6802,6 +7866,20 @@
 ],
 [
 "white-tailed kite",
+"",
+4,
+11,
+0
+],
+[
+"Montagu's harrier",
+"",
+4,
+11,
+0
+],
+[
+"Eurasian hobby",
 "",
 4,
 11,
@@ -6871,6 +7949,13 @@
 0
 ],
 [
+"Mauritius kestrel",
+"",
+5,
+11,
+0
+],
+[
 "sooty falcon",
 "",
 5,
@@ -6906,7 +7991,7 @@
 0
 ],
 [
-"Eleonoras falcon",
+"Eleonora's falcon",
 "",
 5,
 10,
@@ -6914,6 +7999,13 @@
 ],
 [
 "zone-tailed hawk",
+"",
+5,
+10,
+0
+],
+[
+"Ridgway's hawk",
 "",
 5,
 10,
@@ -7037,7 +8129,7 @@
 ],
 [
 "great gray owl",
-"",
+"great grey owl",
 3,
 14,
 0
@@ -7113,6 +8205,13 @@
 0
 ],
 [
+"northern spotted owl",
+"",
+4,
+12,
+0
+],
+[
 "northern saw-whet owl",
 "",
 4,
@@ -7127,7 +8226,42 @@
 0
 ],
 [
-"Blakistons fish owl",
+"Blakiston's fish owl",
+"",
+4,
+11,
+0
+],
+[
+"Eurasian pygmy owl",
+"",
+4,
+11,
+0
+],
+[
+"northern pygmy owl",
+"",
+4,
+11,
+0
+],
+[
+"Eurasian scops owl",
+"",
+4,
+11,
+0
+],
+[
+"western screech owl",
+"",
+4,
+11,
+0
+],
+[
+"spotted eagle-owl",
 "",
 4,
 11,
@@ -7225,14 +8359,42 @@
 0
 ],
 [
-"Tengmalms owl",
+"Tengmalm's owl",
 "",
 5,
 10,
 0
 ],
 [
-"Verreauxs eagle-owl",
+"Verreaux's eagle-owl",
+"",
+5,
+10,
+0
+],
+[
+"ferruginous pygmy owl",
+"",
+5,
+10,
+0
+],
+[
+"Pel's fishing owl",
+"",
+5,
+10,
+0
+],
+[
+"Mexican spotted owl",
+"",
+5,
+10,
+0
+],
+[
+"Hume's owl",
 "",
 5,
 10,
@@ -7320,7 +8482,7 @@
 0
 ],
 [
-"Stellers sea eagle",
+"Steller's sea eagle",
 "",
 3,
 13,
@@ -7411,7 +8573,7 @@
 0
 ],
 [
-"Haasts eagle",
+"Haast's eagle",
 "",
 4,
 12,
@@ -7426,6 +8588,20 @@
 ],
 [
 "Spanish imperial eagle",
+"",
+4,
+11,
+0
+],
+[
+"eastern imperial eagle",
+"",
+4,
+11,
+0
+],
+[
+"white-bellied sea eagle",
 "",
 4,
 11,
@@ -7460,14 +8636,14 @@
 0
 ],
 [
-"Verreauxs eagle",
+"Verreaux's eagle",
 "",
 5,
 10,
 0
 ],
 [
-"Bonellis eagle",
+"Bonelli's eagle",
 "",
 5,
 10,
@@ -7495,7 +8671,49 @@
 0
 ],
 [
-"Wahlbergs eagle",
+"Pallas's fish eagle",
+"",
+5,
+10,
+0
+],
+[
+"Madagascar fish eagle",
+"",
+5,
+10,
+0
+],
+[
+"Sanford's sea eagle",
+"",
+5,
+10,
+0
+],
+[
+"Gurney's eagle",
+"",
+5,
+10,
+0
+],
+[
+"Cassin's hawk-eagle",
+"",
+5,
+10,
+0
+],
+[
+"Ayres's hawk-eagle",
+"",
+5,
+10,
+0
+],
+[
+"Wahlberg's eagle",
 "",
 5,
 9,
@@ -7632,6 +8850,20 @@
 0
 ],
 [
+"Old World vulture",
+"",
+4,
+12,
+0
+],
+[
+"New World vulture",
+"",
+4,
+12,
+0
+],
+[
 "Himalayan vulture",
 "",
 4,
@@ -7646,7 +8878,21 @@
 0
 ],
 [
-"Rueppells vulture",
+"Rüppell's vulture",
+"",
+4,
+11,
+0
+],
+[
+"Indian vulture",
+"",
+4,
+11,
+0
+],
+[
+"Eurasian griffon vulture",
 "",
 4,
 11,
@@ -7696,6 +8942,13 @@
 ],
 [
 "slender-billed vulture",
+"",
+5,
+10,
+0
+],
+[
+"white-rumped vulture",
 "",
 5,
 10,
@@ -7846,7 +9099,7 @@
 0
 ],
 [
-"arctic tern",
+"Arctic tern",
 "",
 3,
 15,
@@ -8077,6 +9330,13 @@
 0
 ],
 [
+"Manx shearwater",
+"",
+4,
+12,
+0
+],
+[
 "horned puffin",
 "",
 4,
@@ -8113,6 +9373,76 @@
 ],
 [
 "black-legged kittiwake",
+"",
+4,
+11,
+0
+],
+[
+"Bonaparte's gull",
+"",
+4,
+11,
+0
+],
+[
+"Franklin's gull",
+"",
+4,
+11,
+0
+],
+[
+"Forster's tern",
+"",
+4,
+11,
+0
+],
+[
+"lesser black-backed gull",
+"",
+4,
+11,
+0
+],
+[
+"black-browed albatross",
+"",
+4,
+11,
+0
+],
+[
+"Laysan albatross",
+"",
+4,
+11,
+0
+],
+[
+"royal albatross",
+"",
+4,
+11,
+0
+],
+[
+"Nazca booby",
+"",
+4,
+11,
+0
+],
+[
+"common murre",
+"",
+4,
+11,
+0
+],
+[
+"rhinoceros auklet",
 "",
 4,
 11,
@@ -8161,21 +9491,63 @@
 0
 ],
 [
-"Wilsons storm petrel",
+"Wilson's storm petrel",
 "",
 5,
 10,
 0
 ],
 [
-"Sabines gull",
+"Sabine's gull",
 "",
 5,
 10,
 0
 ],
 [
-"Ross gull",
+"Ross's gull",
+"",
+5,
+10,
+0
+],
+[
+"Leach's storm petrel",
+"",
+5,
+10,
+0
+],
+[
+"Cory's shearwater",
+"",
+5,
+10,
+0
+],
+[
+"Audubon's shearwater",
+"",
+5,
+10,
+0
+],
+[
+"Heermann's gull",
+"",
+5,
+10,
+0
+],
+[
+"Kittlitz's murrelet",
+"",
+5,
+10,
+0
+],
+[
+"Cassin's auklet",
 "",
 5,
 10,
@@ -8382,7 +9754,21 @@
 0
 ],
 [
+"American crow",
+"",
+2,
+16,
+0
+],
+[
 "red-winged blackbird",
+"",
+2,
+15,
+0
+],
+[
+"European robin",
 "",
 2,
 15,
@@ -8690,6 +10076,13 @@
 0
 ],
 [
+"carrion crow",
+"",
+3,
+14,
+0
+],
+[
 "hedge sparrow",
 "",
 3,
@@ -8715,6 +10108,41 @@
 "",
 3,
 13,
+0
+],
+[
+"Carolina wren",
+"",
+3,
+13,
+0
+],
+[
+"Steller's jay",
+"",
+3,
+13,
+0
+],
+[
+"hooded crow",
+"",
+3,
+13,
+0
+],
+[
+"common raven",
+"",
+3,
+13,
+0
+],
+[
+"superb lyrebird",
+"",
+3,
+12,
 0
 ],
 [
@@ -9040,6 +10468,83 @@
 0
 ],
 [
+"Bewick's wren",
+"",
+4,
+11,
+0
+],
+[
+"Swainson's thrush",
+"",
+4,
+11,
+0
+],
+[
+"Brewer's blackbird",
+"",
+4,
+11,
+0
+],
+[
+"Bullock's oriole",
+"",
+4,
+11,
+0
+],
+[
+"Kirtland's warbler",
+"",
+4,
+11,
+0
+],
+[
+"Wilson's warbler",
+"",
+4,
+11,
+0
+],
+[
+"Say's phoebe",
+"",
+4,
+11,
+0
+],
+[
+"Clark's nutcracker",
+"",
+4,
+11,
+0
+],
+[
+"Cetti's warbler",
+"",
+4,
+11,
+0
+],
+[
+"Dartford warbler",
+"",
+4,
+11,
+0
+],
+[
+"Cape May warbler",
+"",
+4,
+11,
+0
+],
+[
 "waterthrush",
 "",
 5,
@@ -9122,6 +10627,41 @@
 5,
 11,
 0
+],
+[
+"Lincoln's sparrow",
+"",
+5,
+10,
+0
+],
+[
+"Harris's sparrow",
+"",
+5,
+10,
+0
+],
+[
+"Townsend's warbler",
+"",
+5,
+10,
+0
+],
+[
+"Bell's vireo",
+"",
+5,
+10,
+0
+],
+[
+"Pallas's warbler",
+"",
+5,
+10,
+0
 ]
 ]
 },
@@ -9191,7 +10731,7 @@
 0
 ],
 [
-"Darwins finch",
+"Darwin's finch",
 "",
 2,
 14,
@@ -9272,6 +10812,13 @@
 "",
 3,
 13,
+0
+],
+[
+"Eurasian bullfinch",
+"",
+3,
+12,
 0
 ],
 [
@@ -9387,6 +10934,41 @@
 0
 ],
 [
+"Cassin's finch",
+"",
+4,
+11,
+0
+],
+[
+"common rosefinch",
+"",
+4,
+11,
+0
+],
+[
+"red crossbill",
+"",
+4,
+11,
+0
+],
+[
+"white-winged crossbill",
+"",
+4,
+11,
+0
+],
+[
+"Scottish crossbill",
+"",
+4,
+11,
+0
+],
+[
 "strawberry finch",
 "",
 4,
@@ -9458,6 +11040,34 @@
 ],
 [
 "vampire ground finch",
+"",
+5,
+10,
+0
+],
+[
+"Lawrence's goldfinch",
+"",
+5,
+10,
+0
+],
+[
+"medium ground finch",
+"",
+5,
+10,
+0
+],
+[
+"large ground finch",
+"",
+5,
+10,
+0
+],
+[
+"Pallas's rosefinch",
 "",
 5,
 10,
@@ -9580,6 +11190,20 @@
 0
 ],
 [
+"common moorhen",
+"",
+3,
+12,
+0
+],
+[
+"Eurasian coot",
+"",
+3,
+12,
+0
+],
+[
 "screamer",
 "",
 4,
@@ -9609,6 +11233,13 @@
 ],
 [
 "water rail",
+"",
+4,
+13,
+0
+],
+[
+"corncrake",
 "",
 4,
 13,
@@ -9706,6 +11337,69 @@
 0
 ],
 [
+"Clark's grebe",
+"",
+4,
+11,
+0
+],
+[
+"Slavonian grebe",
+"",
+4,
+11,
+0
+],
+[
+"black-necked grebe",
+"",
+4,
+11,
+0
+],
+[
+"Virginia rail",
+"",
+4,
+11,
+0
+],
+[
+"king rail",
+"",
+4,
+11,
+0
+],
+[
+"clapper rail",
+"",
+4,
+11,
+0
+],
+[
+"Pacific loon",
+"",
+4,
+11,
+0
+],
+[
+"yellow-billed loon",
+"",
+4,
+11,
+0
+],
+[
+"Arctic loon",
+"",
+4,
+11,
+0
+],
+[
 "finfoot",
 "",
 5,
@@ -9721,6 +11415,13 @@
 ],
 [
 "black-throated diver",
+"",
+5,
+10,
+0
+],
+[
+"Ridgway's rail",
 "",
 5,
 10,
@@ -9927,6 +11628,34 @@
 0
 ],
 [
+"American black duck",
+"",
+3,
+12,
+0
+],
+[
+"northern pintail",
+"",
+3,
+12,
+0
+],
+[
+"northern shoveler",
+"",
+3,
+12,
+0
+],
+[
+"common eider",
+"",
+3,
+12,
+0
+],
+[
 "redhead",
 "",
 4,
@@ -10011,13 +11740,6 @@
 0
 ],
 [
-"oldsquaw",
-"",
-4,
-12,
-0
-],
-[
 "long-tailed duck",
 "",
 4,
@@ -10061,6 +11783,83 @@
 ],
 [
 "ring-necked duck",
+"",
+4,
+11,
+0
+],
+[
+"Eurasian wigeon",
+"",
+4,
+11,
+0
+],
+[
+"American wigeon",
+"",
+4,
+11,
+0
+],
+[
+"common goldeneye",
+"",
+4,
+11,
+0
+],
+[
+"common merganser",
+"",
+4,
+11,
+0
+],
+[
+"red-breasted merganser",
+"",
+4,
+11,
+0
+],
+[
+"lesser scaup",
+"",
+4,
+11,
+0
+],
+[
+"greater scaup",
+"",
+4,
+11,
+0
+],
+[
+"surf scoter",
+"",
+4,
+11,
+0
+],
+[
+"white-winged scoter",
+"",
+4,
+11,
+0
+],
+[
+"Pacific black duck",
+"",
+4,
+11,
+0
+],
+[
+"Cayuga duck",
 "",
 4,
 11,
@@ -10144,14 +11943,14 @@
 0
 ],
 [
-"Barrows goldeneye",
+"Barrow's goldeneye",
 "",
 5,
 10,
 0
 ],
 [
-"Stellers eider",
+"Steller's eider",
 "",
 5,
 10,
@@ -10159,6 +11958,27 @@
 ],
 [
 "black-bellied whistling duck",
+"",
+5,
+10,
+0
+],
+[
+"Laysan duck",
+"",
+5,
+10,
+0
+],
+[
+"Meller's duck",
+"",
+5,
+10,
+0
+],
+[
+"fulvous whistling duck",
 "",
 5,
 10,
@@ -10365,7 +12185,7 @@
 0
 ],
 [
-"Bewicks swan",
+"Bewick's swan",
 "",
 4,
 11,
@@ -10386,6 +12206,27 @@
 0
 ],
 [
+"greater white-fronted goose",
+"",
+4,
+11,
+0
+],
+[
+"African goose",
+"",
+4,
+11,
+0
+],
+[
+"Sebastopol goose",
+"",
+4,
+11,
+0
+],
+[
 "Orinoco goose",
 "",
 5,
@@ -10400,7 +12241,7 @@
 0
 ],
 [
-"Ross goose",
+"Ross's goose",
 "",
 5,
 11,
@@ -10422,6 +12263,20 @@
 ],
 [
 "spur-winged goose",
+"",
+5,
+10,
+0
+],
+[
+"lesser white-fronted goose",
+"",
+5,
+10,
+0
+],
+[
+"Pilgrim goose",
 "",
 5,
 10,
@@ -10712,6 +12567,83 @@
 0
 ],
 [
+"Eurasian curlew",
+"",
+3,
+12,
+0
+],
+[
+"American avocet",
+"",
+3,
+12,
+0
+],
+[
+"red-crowned crane",
+"",
+3,
+12,
+0
+],
+[
+"common crane",
+"",
+3,
+12,
+0
+],
+[
+"great white egret",
+"",
+3,
+12,
+0
+],
+[
+"Goliath heron",
+"",
+3,
+12,
+0
+],
+[
+"little blue heron",
+"",
+3,
+12,
+0
+],
+[
+"lesser flamingo",
+"",
+3,
+12,
+0
+],
+[
+"greater flamingo",
+"",
+3,
+12,
+0
+],
+[
+"American flamingo",
+"",
+3,
+12,
+0
+],
+[
+"Chilean flamingo",
+"",
+3,
+12,
+0
+],
+[
 "knot",
 "",
 4,
@@ -10950,8 +12882,127 @@
 0
 ],
 [
-"grey crowned crane",
 "gray crowned crane",
+"grey crowned crane",
+4,
+11,
+0
+],
+[
+"Wilson's phalarope",
+"",
+4,
+11,
+0
+],
+[
+"Wilson's snipe",
+"",
+4,
+11,
+0
+],
+[
+"Kentish plover",
+"",
+4,
+11,
+0
+],
+[
+"long-billed curlew",
+"",
+4,
+11,
+0
+],
+[
+"Eskimo curlew",
+"",
+4,
+11,
+0
+],
+[
+"Hudsonian godwit",
+"",
+4,
+11,
+0
+],
+[
+"black-necked stilt",
+"",
+4,
+11,
+0
+],
+[
+"pied avocet",
+"",
+4,
+11,
+0
+],
+[
+"Eurasian spoonbill",
+"",
+4,
+11,
+0
+],
+[
+"Siberian crane",
+"",
+4,
+11,
+0
+],
+[
+"yellow-crowned night heron",
+"",
+4,
+11,
+0
+],
+[
+"American bittern",
+"",
+4,
+11,
+0
+],
+[
+"northern bald ibis",
+"",
+4,
+11,
+0
+],
+[
+"hadada ibis",
+"",
+4,
+11,
+0
+],
+[
+"saddle-billed stork",
+"",
+4,
+11,
+0
+],
+[
+"greater adjutant",
+"",
+4,
+11,
+0
+],
+[
+"Andean flamingo",
+"",
 4,
 11,
 0
@@ -11028,6 +13079,34 @@
 ],
 [
 "semipalmated plover",
+"",
+5,
+10,
+0
+],
+[
+"Wilson's plover",
+"",
+5,
+10,
+0
+],
+[
+"Baird's sandpiper",
+"",
+5,
+10,
+0
+],
+[
+"Temminck's stint",
+"",
+5,
+10,
+0
+],
+[
+"James's flamingo",
 "",
 5,
 10,
@@ -11122,7 +13201,7 @@
 0
 ],
 [
-"Adelie penguin",
+"Adélie penguin",
 "",
 3,
 14,
@@ -11206,10 +13285,17 @@
 0
 ],
 [
-"Galapagos penguin",
+"Galápagos penguin",
 "",
 3,
 13,
+0
+],
+[
+"common ostrich",
+"",
+3,
+12,
 0
 ],
 [
@@ -11297,7 +13383,42 @@
 0
 ],
 [
-"Galapagos cormorant",
+"Galápagos cormorant",
+"",
+4,
+11,
+0
+],
+[
+"greater rhea",
+"",
+4,
+11,
+0
+],
+[
+"southern cassowary",
+"",
+4,
+11,
+0
+],
+[
+"dwarf cassowary",
+"",
+4,
+11,
+0
+],
+[
+"Somali ostrich",
+"",
+4,
+11,
+0
+],
+[
+"giant moa",
 "",
 4,
 11,
@@ -11333,6 +13454,62 @@
 ],
 [
 "Inaccessible Island rail",
+"",
+5,
+10,
+0
+],
+[
+"Darwin's rhea",
+"",
+5,
+10,
+0
+],
+[
+"North Island brown kiwi",
+"",
+5,
+10,
+0
+],
+[
+"southern brown kiwi",
+"",
+5,
+10,
+0
+],
+[
+"Okarito kiwi",
+"",
+5,
+10,
+0
+],
+[
+"southern rockhopper penguin",
+"",
+5,
+10,
+0
+],
+[
+"northern rockhopper penguin",
+"",
+5,
+10,
+0
+],
+[
+"Guam rail",
+"",
+5,
+10,
+0
+],
+[
+"Rodrigues solitaire",
 "",
 5,
 10,
@@ -11518,8 +13695,8 @@
 0
 ],
 [
-"sulphur-crested cockatoo",
 "sulfur-crested cockatoo",
+"sulphur-crested cockatoo",
 3,
 13,
 0
@@ -11529,6 +13706,13 @@
 "",
 3,
 13,
+0
+],
+[
+"sun conure",
+"",
+3,
+12,
 0
 ],
 [
@@ -11623,7 +13807,7 @@
 0
 ],
 [
-"Spix macaw",
+"Spix's macaw",
 "",
 4,
 12,
@@ -11637,7 +13821,91 @@
 0
 ],
 [
-"Major Mitchells cockatoo",
+"Major Mitchell's cockatoo",
+"",
+4,
+11,
+0
+],
+[
+"Goffin's cockatoo",
+"",
+4,
+11,
+0
+],
+[
+"Moluccan cockatoo",
+"",
+4,
+11,
+0
+],
+[
+"Fischer's lovebird",
+"",
+4,
+11,
+0
+],
+[
+"peach-faced lovebird",
+"",
+4,
+11,
+0
+],
+[
+"red-tailed black cockatoo",
+"",
+4,
+11,
+0
+],
+[
+"yellow-tailed black cockatoo",
+"",
+4,
+11,
+0
+],
+[
+"crimson rosella",
+"",
+4,
+11,
+0
+],
+[
+"eastern rosella",
+"",
+4,
+11,
+0
+],
+[
+"Alexandrine parakeet",
+"",
+4,
+11,
+0
+],
+[
+"green-cheeked conure",
+"",
+4,
+11,
+0
+],
+[
+"Indian ringneck",
+"",
+4,
+11,
+0
+],
+[
+"Pacific parrotlet",
 "",
 4,
 11,
@@ -11756,14 +14024,14 @@
 0
 ],
 [
-"Bourkes parrot",
+"Bourke's parrot",
 "",
 5,
 10,
 0
 ],
 [
-"Pesquets parrot",
+"Pesquet's parrot",
 "",
 5,
 10,
@@ -11771,6 +14039,69 @@
 ],
 [
 "yellow-naped amazon",
+"",
+5,
+10,
+0
+],
+[
+"Meyer's parrot",
+"",
+5,
+10,
+0
+],
+[
+"Jardine's parrot",
+"",
+5,
+10,
+0
+],
+[
+"Lilian's lovebird",
+"",
+5,
+10,
+0
+],
+[
+"Hahn's macaw",
+"",
+5,
+10,
+0
+],
+[
+"Lear's macaw",
+"",
+5,
+10,
+0
+],
+[
+"Buffon's macaw",
+"",
+5,
+10,
+0
+],
+[
+"Carnaby's black cockatoo",
+"",
+5,
+10,
+0
+],
+[
+"Baudin's black cockatoo",
+"",
+5,
+10,
+0
+],
+[
+"Puerto Rican amazon",
 "",
 5,
 10,
@@ -11942,6 +14273,20 @@
 0
 ],
 [
+"northern bobwhite",
+"",
+3,
+12,
+0
+],
+[
+"common quail",
+"",
+3,
+12,
+0
+],
+[
 "chukar",
 "",
 4,
@@ -12061,7 +14406,7 @@
 0
 ],
 [
-"Gambels quail",
+"Gambel's quail",
 "",
 4,
 12,
@@ -12082,7 +14427,63 @@
 0
 ],
 [
-"Lady Amherst pheasant",
+"Lady Amherst's pheasant",
+"",
+4,
+11,
+0
+],
+[
+"Himalayan monal",
+"",
+4,
+11,
+0
+],
+[
+"great argus",
+"",
+4,
+11,
+0
+],
+[
+"greater sage-grouse",
+"",
+4,
+11,
+0
+],
+[
+"lesser prairie chicken",
+"",
+4,
+11,
+0
+],
+[
+"mountain quail",
+"",
+4,
+11,
+0
+],
+[
+"ocellated turkey",
+"",
+4,
+11,
+0
+],
+[
+"western capercaillie",
+"",
+4,
+11,
+0
+],
+[
+"rock partridge",
 "",
 4,
 11,
@@ -12145,7 +14546,7 @@
 0
 ],
 [
-"Reeves pheasant",
+"Reeves's pheasant",
 "",
 5,
 10,
@@ -12153,6 +14554,62 @@
 ],
 [
 "greater prairie chicken",
+"",
+5,
+10,
+0
+],
+[
+"Temminck's tragopan",
+"",
+5,
+10,
+0
+],
+[
+"Cabot's tragopan",
+"",
+5,
+10,
+0
+],
+[
+"Elliot's pheasant",
+"",
+5,
+10,
+0
+],
+[
+"Swinhoe's pheasant",
+"",
+5,
+10,
+0
+],
+[
+"Hume's pheasant",
+"",
+5,
+10,
+0
+],
+[
+"Bulwer's pheasant",
+"",
+5,
+10,
+0
+],
+[
+"Attwater's prairie chicken",
+"",
+5,
+10,
+0
+],
+[
+"Mikado pheasant",
 "",
 5,
 10,
@@ -12296,6 +14753,13 @@
 0
 ],
 [
+"northern cardinal",
+"",
+2,
+14,
+0
+],
+[
 "roller",
 "",
 3,
@@ -12408,6 +14872,13 @@
 0
 ],
 [
+"Steller's jay",
+"",
+3,
+13,
+0
+],
+[
 "toco toucan",
 "",
 3,
@@ -12423,6 +14894,20 @@
 ],
 [
 "keel-billed toucan",
+"",
+3,
+12,
+0
+],
+[
+"Indian peafowl",
+"",
+3,
+12,
+0
+],
+[
+"common kingfisher",
 "",
 3,
 12,
@@ -12520,7 +15005,105 @@
 0
 ],
 [
-"Lady Amherst pheasant",
+"Lady Amherst's pheasant",
+"",
+4,
+11,
+0
+],
+[
+"rainbow bee-eater",
+"",
+4,
+11,
+0
+],
+[
+"European bee-eater",
+"",
+4,
+11,
+0
+],
+[
+"Raggiana bird-of-paradise",
+"",
+4,
+11,
+0
+],
+[
+"superb bird-of-paradise",
+"",
+4,
+11,
+0
+],
+[
+"Andean cock-of-the-rock",
+"",
+4,
+11,
+0
+],
+[
+"Lady Gouldian finch",
+"",
+4,
+11,
+0
+],
+[
+"green peafowl",
+"",
+4,
+11,
+0
+],
+[
+"vermilion flycatcher",
+"",
+4,
+11,
+0
+],
+[
+"superb starling",
+"",
+4,
+11,
+0
+],
+[
+"violet-backed starling",
+"",
+4,
+11,
+0
+],
+[
+"crimson rosella",
+"",
+4,
+11,
+0
+],
+[
+"eclectus parrot",
+"",
+4,
+11,
+0
+],
+[
+"elegant trogon",
+"",
+4,
+11,
+0
+],
+[
+"blue-crowned motmot",
 "",
 4,
 11,
@@ -12549,6 +15132,27 @@
 ],
 [
 "purple honeycreeper",
+"",
+5,
+10,
+0
+],
+[
+"Wilson's bird-of-paradise",
+"",
+5,
+10,
+0
+],
+[
+"King of Saxony bird-of-paradise",
+"",
+5,
+10,
+0
+],
+[
+"spangled cotinga",
 "",
 5,
 10,
@@ -12846,6 +15450,13 @@
 0
 ],
 [
+"sternum",
+"",
+4,
+18,
+0
+],
+[
 "pinion",
 "",
 4,
@@ -12924,6 +15535,27 @@
 ],
 [
 "nictitating membrane",
+"",
+4,
+11,
+0
+],
+[
+"primary feather",
+"",
+4,
+11,
+0
+],
+[
+"secondary feather",
+"",
+4,
+11,
+0
+],
+[
+"brood patch",
 "",
 4,
 11,
@@ -13057,6 +15689,27 @@
 ],
 [
 "greater coverts",
+"",
+5,
+9,
+0
+],
+[
+"semiplume",
+"",
+5,
+9,
+0
+],
+[
+"filoplume",
+"",
+5,
+9,
+0
+],
+[
+"proventriculus",
 "",
 5,
 9,
@@ -13312,10 +15965,31 @@
 0
 ],
 [
-"Christmas bird count",
+"Christmas Bird Count",
 "",
 3,
 13,
+0
+],
+[
+"bird table",
+"",
+3,
+13,
+0
+],
+[
+"bird hide",
+"",
+3,
+12,
+0
+],
+[
+"bird blind",
+"",
+3,
+12,
 0
 ],
 [
@@ -13396,6 +16070,20 @@
 0
 ],
 [
+"RSPB",
+"",
+4,
+14,
+0
+],
+[
+"big day",
+"",
+4,
+14,
+0
+],
+[
 "jizz",
 "",
 4,
@@ -13404,6 +16092,13 @@
 ],
 [
 "eBird",
+"",
+4,
+13,
+0
+],
+[
+"Audubon Society",
 "",
 4,
 13,
@@ -13509,6 +16204,13 @@
 ],
 [
 "little brown job",
+"",
+5,
+10,
+0
+],
+[
+"big sit",
 "",
 5,
 10,
@@ -13664,6 +16366,20 @@
 0
 ],
 [
+"hognose snake",
+"",
+3,
+13,
+0
+],
+[
+"flying snake",
+"",
+3,
+13,
+0
+],
+[
 "coachwhip",
 "",
 4,
@@ -13755,6 +16471,41 @@
 0
 ],
 [
+"paradise tree snake",
+"",
+4,
+11,
+0
+],
+[
+"eastern garter snake",
+"",
+4,
+11,
+0
+],
+[
+"common garter snake",
+"",
+4,
+11,
+0
+],
+[
+"western hognose snake",
+"",
+4,
+11,
+0
+],
+[
+"northern water snake",
+"",
+4,
+11,
+0
+],
+[
 "mud snake",
 "",
 5,
@@ -13825,6 +16576,13 @@
 0
 ],
 [
+"keelback",
+"",
+5,
+11,
+0
+],
+[
 "crayfish snake",
 "",
 5,
@@ -13847,6 +16605,34 @@
 ],
 [
 "snail-eater",
+"",
+5,
+10,
+0
+],
+[
+"DeKay's brown snake",
+"",
+5,
+10,
+0
+],
+[
+"Kirtland's snake",
+"",
+5,
+10,
+0
+],
+[
+"Butler's garter snake",
+"",
+5,
+10,
+0
+],
+[
+"Brahminy blind snake",
 "",
 5,
 10,
@@ -14095,7 +16881,7 @@
 0
 ],
 [
-"Russells viper",
+"Russell's viper",
 "",
 3,
 13,
@@ -14214,6 +17000,20 @@
 0
 ],
 [
+"eastern diamondback rattlesnake",
+"",
+4,
+12,
+0
+],
+[
+"western diamondback rattlesnake",
+"",
+4,
+12,
+0
+],
+[
 "monocled cobra",
 "",
 4,
@@ -14270,6 +17070,55 @@
 0
 ],
 [
+"prairie rattlesnake",
+"",
+4,
+11,
+0
+],
+[
+"common krait",
+"",
+4,
+11,
+0
+],
+[
+"black-necked spitting cobra",
+"",
+4,
+11,
+0
+],
+[
+"Mozambique spitting cobra",
+"",
+4,
+11,
+0
+],
+[
+"eastern green mamba",
+"",
+4,
+11,
+0
+],
+[
+"Belcher's sea snake",
+"",
+4,
+11,
+0
+],
+[
+"yellow-bellied sea snake",
+"",
+4,
+11,
+0
+],
+[
 "jararaca",
 "",
 5,
@@ -14292,6 +17141,13 @@
 ],
 [
 "mulga snake",
+"",
+5,
+11,
+0
+],
+[
+"forest cobra",
 "",
 5,
 11,
@@ -14340,7 +17196,63 @@
 0
 ],
 [
-"Waglers viper",
+"Wagler's viper",
+"",
+5,
+10,
+0
+],
+[
+"tiger rattlesnake",
+"",
+5,
+10,
+0
+],
+[
+"speckled rattlesnake",
+"",
+5,
+10,
+0
+],
+[
+"red diamond rattlesnake",
+"",
+5,
+10,
+0
+],
+[
+"Pope's pit viper",
+"",
+5,
+10,
+0
+],
+[
+"Jameson's mamba",
+"",
+5,
+10,
+0
+],
+[
+"Fea's viper",
+"",
+5,
+10,
+0
+],
+[
+"Okinawa habu",
+"",
+5,
+10,
+0
+],
+[
+"hundred-pacer",
 "",
 5,
 10,
@@ -14652,7 +17564,7 @@
 0
 ],
 [
-"Dumerils boa",
+"Duméril's boa",
 "",
 4,
 11,
@@ -14674,6 +17586,48 @@
 ],
 [
 "black rat snake",
+"",
+4,
+11,
+0
+],
+[
+"Brazilian rainbow boa",
+"",
+4,
+11,
+0
+],
+[
+"red-tailed boa",
+"",
+4,
+11,
+0
+],
+[
+"common boa",
+"",
+4,
+11,
+0
+],
+[
+"Amazon tree boa",
+"",
+4,
+11,
+0
+],
+[
+"Mexican black kingsnake",
+"",
+4,
+11,
+0
+],
+[
+"Honduran milk snake",
 "",
 4,
 11,
@@ -14750,7 +17704,7 @@
 0
 ],
 [
-"Childrens python",
+"Children's python",
 "",
 5,
 10,
@@ -14758,6 +17712,90 @@
 ],
 [
 "four-lined snake",
+"",
+5,
+10,
+0
+],
+[
+"Stimson's python",
+"",
+5,
+10,
+0
+],
+[
+"Macklot's python",
+"",
+5,
+10,
+0
+],
+[
+"Boelen's python",
+"",
+5,
+10,
+0
+],
+[
+"Angolan python",
+"",
+5,
+10,
+0
+],
+[
+"Argentine boa",
+"",
+5,
+10,
+0
+],
+[
+"Round Island boa",
+"",
+5,
+10,
+0
+],
+[
+"Sinaloan milk snake",
+"",
+5,
+10,
+0
+],
+[
+"Great Plains rat snake",
+"",
+5,
+10,
+0
+],
+[
+"Everglades rat snake",
+"",
+5,
+10,
+0
+],
+[
+"Japanese rat snake",
+"",
+5,
+10,
+0
+],
+[
+"Baird's rat snake",
+"",
+5,
+10,
+0
+],
+[
+"Trans-Pecos rat snake",
 "",
 5,
 10,
@@ -14901,6 +17939,13 @@
 0
 ],
 [
+"green iguana",
+"",
+3,
+14,
+0
+],
+[
 "green anole",
 "",
 3,
@@ -14943,6 +17988,13 @@
 0
 ],
 [
+"house gecko",
+"",
+3,
+13,
+0
+],
+[
 "panther chameleon",
 "",
 3,
@@ -14971,7 +18023,14 @@
 0
 ],
 [
-"Jacksons chameleon",
+"Jackson's chameleon",
+"",
+3,
+12,
+0
+],
+[
+"common house gecko",
 "",
 3,
 12,
@@ -15195,7 +18254,7 @@
 0
 ],
 [
-"Parsons chameleon",
+"Parson's chameleon",
 "",
 4,
 11,
@@ -15213,6 +18272,132 @@
 "",
 4,
 11,
+0
+],
+[
+"Mexican beaded lizard",
+"",
+4,
+11,
+0
+],
+[
+"blue iguana",
+"",
+4,
+11,
+0
+],
+[
+"Galápagos land iguana",
+"",
+4,
+11,
+0
+],
+[
+"Texas horned lizard",
+"",
+4,
+11,
+0
+],
+[
+"Gould's monitor",
+"",
+4,
+11,
+0
+],
+[
+"Asian water monitor",
+"",
+4,
+11,
+0
+],
+[
+"Bengal monitor",
+"",
+4,
+11,
+0
+],
+[
+"prehensile-tailed skink",
+"",
+4,
+11,
+0
+],
+[
+"Madagascar day gecko",
+"",
+4,
+11,
+0
+],
+[
+"giant day gecko",
+"",
+4,
+11,
+0
+],
+[
+"satanic leaf-tailed gecko",
+"",
+4,
+11,
+0
+],
+[
+"leaf-tailed gecko",
+"",
+4,
+11,
+0
+],
+[
+"gargoyle gecko",
+"",
+4,
+11,
+0
+],
+[
+"African fat-tailed gecko",
+"",
+4,
+11,
+0
+],
+[
+"Moorish gecko",
+"",
+4,
+11,
+0
+],
+[
+"Mediterranean house gecko",
+"",
+4,
+11,
+0
+],
+[
+"pygmy chameleon",
+"",
+4,
+11,
+0
+],
+[
+"Argentine black and white tegu",
+"",
+4,
+10,
 0
 ],
 [
@@ -15342,6 +18527,97 @@
 0
 ],
 [
+"Fiji banded iguana",
+"",
+5,
+10,
+0
+],
+[
+"Lesser Antillean iguana",
+"",
+5,
+10,
+0
+],
+[
+"emerald tree monitor",
+"",
+5,
+10,
+0
+],
+[
+"Mertens' water monitor",
+"",
+5,
+10,
+0
+],
+[
+"Rosenberg's monitor",
+"",
+5,
+10,
+0
+],
+[
+"Dumeril's monitor",
+"",
+5,
+10,
+0
+],
+[
+"Schneider's skink",
+"",
+5,
+10,
+0
+],
+[
+"Solomon Islands skink",
+"",
+5,
+10,
+0
+],
+[
+"Henkel's leaf-tailed gecko",
+"",
+5,
+10,
+0
+],
+[
+"Meller's chameleon",
+"",
+5,
+10,
+0
+],
+[
+"Oustalet's chameleon",
+"",
+5,
+10,
+0
+],
+[
+"Fischer's chameleon",
+"",
+5,
+10,
+0
+],
+[
+"Labord's chameleon",
+"",
+5,
+10,
+0
+],
+[
 "zonure",
 "",
 5,
@@ -15409,7 +18685,7 @@
 0
 ],
 [
-"Galapagos tortoise",
+"Galápagos tortoise",
 "",
 2,
 15,
@@ -15514,7 +18790,14 @@
 0
 ],
 [
-"Hermanns tortoise",
+"green sea turtle",
+"",
+3,
+13,
+0
+],
+[
+"Hermann's tortoise",
 "",
 3,
 12,
@@ -15522,6 +18805,41 @@
 ],
 [
 "red-footed tortoise",
+"",
+3,
+12,
+0
+],
+[
+"eastern box turtle",
+"",
+3,
+12,
+0
+],
+[
+"common snapping turtle",
+"",
+3,
+12,
+0
+],
+[
+"loggerhead sea turtle",
+"",
+3,
+12,
+0
+],
+[
+"hawksbill sea turtle",
+"",
+3,
+12,
+0
+],
+[
+"leatherback sea turtle",
 "",
 3,
 12,
@@ -15647,7 +18965,7 @@
 0
 ],
 [
-"Kemps ridley",
+"Kemp's ridley",
 "",
 4,
 12,
@@ -15675,7 +18993,7 @@
 0
 ],
 [
-"Blandings turtle",
+"Blanding's turtle",
 "",
 4,
 11,
@@ -15704,6 +19022,55 @@
 ],
 [
 "yellow-bellied slider",
+"",
+4,
+11,
+0
+],
+[
+"Horsfield's tortoise",
+"",
+4,
+11,
+0
+],
+[
+"Indian star tortoise",
+"",
+4,
+11,
+0
+],
+[
+"African spurred tortoise",
+"",
+4,
+11,
+0
+],
+[
+"marginated tortoise",
+"",
+4,
+11,
+0
+],
+[
+"ornate box turtle",
+"",
+4,
+11,
+0
+],
+[
+"three-toed box turtle",
+"",
+4,
+11,
+0
+],
+[
+"western painted turtle",
 "",
 4,
 11,
@@ -15774,6 +19141,76 @@
 ],
 [
 "Fly River turtle",
+"",
+5,
+10,
+0
+],
+[
+"Reeves's turtle",
+"",
+5,
+10,
+0
+],
+[
+"Bell's hinge-back tortoise",
+"",
+5,
+10,
+0
+],
+[
+"Home's hinge-back tortoise",
+"",
+5,
+10,
+0
+],
+[
+"Forsten's tortoise",
+"",
+5,
+10,
+0
+],
+[
+"Burmese star tortoise",
+"",
+5,
+10,
+0
+],
+[
+"Travancore tortoise",
+"",
+5,
+10,
+0
+],
+[
+"Pinta Island tortoise",
+"",
+5,
+10,
+0
+],
+[
+"flatback sea turtle",
+"",
+5,
+10,
+0
+],
+[
+"spiny softshell turtle",
+"",
+5,
+10,
+0
+],
+[
+"Yangtze giant softshell turtle",
 "",
 5,
 10,
@@ -15966,6 +19403,20 @@
 0
 ],
 [
+"Australian freshwater crocodile",
+"",
+4,
+11,
+0
+],
+[
+"Indian gharial",
+"",
+4,
+11,
+0
+],
+[
 "deinosuchus",
 "",
 5,
@@ -16008,14 +19459,14 @@
 0
 ],
 [
-"Morelets crocodile",
+"Morelet's crocodile",
 "",
 5,
 10,
 0
 ],
 [
-"Johnstons crocodile",
+"Johnstone's crocodile",
 "",
 5,
 10,
@@ -16044,6 +19495,20 @@
 ],
 [
 "West African crocodile",
+"",
+5,
+10,
+0
+],
+[
+"Cuvier's dwarf caiman",
+"",
+5,
+10,
+0
+],
+[
+"Schneider's dwarf caiman",
 "",
 5,
 10,
@@ -16243,7 +19708,7 @@
 0
 ],
 [
-"White tree frog",
+"White's tree frog",
 "",
 3,
 12,
@@ -16257,6 +19722,20 @@
 0
 ],
 [
+"African dwarf frog",
+"",
+3,
+12,
+0
+],
+[
+"Australian green tree frog",
+"",
+3,
+12,
+0
+],
+[
 "peeper",
 "",
 4,
@@ -16264,7 +19743,7 @@
 0
 ],
 [
-"coqui",
+"coquí",
 "",
 4,
 14,
@@ -16397,14 +19876,14 @@
 0
 ],
 [
-"Darwins frog",
+"Darwin's frog",
 "",
 4,
 11,
 0
 ],
 [
-"Fowlers toad",
+"Fowler's toad",
 "",
 4,
 11,
@@ -16439,7 +19918,112 @@
 0
 ],
 [
+"Pacific tree frog",
+"",
+4,
+11,
+0
+],
+[
+"Pacific chorus frog",
+"",
+4,
+11,
+0
+],
+[
+"Cuban tree frog",
+"",
+4,
+11,
+0
+],
+[
+"blue poison dart frog",
+"",
+4,
+11,
+0
+],
+[
+"Panamanian golden frog",
+"",
+4,
+11,
+0
+],
+[
+"Oriental fire-bellied toad",
+"",
+4,
+11,
+0
+],
+[
+"European green toad",
+"",
+4,
+11,
+0
+],
+[
+"Asian common toad",
+"",
+4,
+11,
+0
+],
+[
+"Brazilian horned frog",
+"",
+4,
+11,
+0
+],
+[
+"Argentine horned frog",
+"",
+4,
+11,
+0
+],
+[
+"northern leopard frog",
+"",
+4,
+11,
+0
+],
+[
+"southern leopard frog",
+"",
+4,
+11,
+0
+],
+[
+"California red-legged frog",
+"",
+4,
+11,
+0
+],
+[
+"barking tree frog",
+"",
+4,
+11,
+0
+],
+[
 "American green treefrog",
+"",
+4,
+10,
+0
+],
+[
+"green and black poison dart frog",
 "",
 4,
 10,
@@ -16565,7 +20149,7 @@
 0
 ],
 [
-"Budgetts frog",
+"Budgett's frog",
 "",
 5,
 10,
@@ -16573,6 +20157,83 @@
 ],
 [
 "water-holding frog",
+"",
+5,
+10,
+0
+],
+[
+"Wallace's flying frog",
+"",
+5,
+10,
+0
+],
+[
+"Couch's spadefoot",
+"",
+5,
+10,
+0
+],
+[
+"Woodhouse's toad",
+"",
+5,
+10,
+0
+],
+[
+"Blanchard's cricket frog",
+"",
+5,
+10,
+0
+],
+[
+"Hamilton's frog",
+"",
+5,
+10,
+0
+],
+[
+"Archey's frog",
+"",
+5,
+10,
+0
+],
+[
+"Hochstetter's frog",
+"",
+5,
+10,
+0
+],
+[
+"Lehmann's poison frog",
+"",
+5,
+10,
+0
+],
+[
+"dyeing poison dart frog",
+"",
+5,
+10,
+0
+],
+[
+"Kihansi spray toad",
+"",
+5,
+10,
+0
+],
+[
+"Pine Barrens tree frog",
 "",
 5,
 10,

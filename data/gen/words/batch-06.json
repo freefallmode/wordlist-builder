@@ -107,7 +107,7 @@
     0
    ],
    [
-    "Norwegian Forest",
+    "Norwegian Forest Cat",
     "",
     3,
     16,
@@ -797,7 +797,7 @@
     0
    ],
    [
-    "Montbeliarde",
+    "Montbéliarde",
     "",
     5,
     10,
@@ -1284,14 +1284,14 @@
     0
    ],
    [
-    "Crevecoeur",
+    "Crèvecœur",
     "",
     5,
     16,
     0
    ],
    [
-    "La Fleche",
+    "La Flèche",
     "",
     5,
     14,
@@ -2277,18 +2277,39 @@
     5,
     16,
     0
+   ],
+   [
+    "K-9",
+    "",
+    3,
+    28,
+    0
+   ],
+   [
+    "search and rescue dog",
+    "",
+    2,
+    15,
+    0
+   ],
+   [
+    "seeing-eye dog",
+    "",
+    2,
+    20,
+    0
+   ],
+   [
+    "detection dog",
+    "",
+    3,
+    15,
+    0
    ]
   ]
  },
  "horses": {
   "words": [
-   [
-    "horse",
-    "",
-    1,
-    53,
-    0
-   ],
    [
     "pony",
     "",
@@ -2403,13 +2424,6 @@
    ],
    [
     "racehorse",
-    "",
-    2,
-    33,
-    0
-   ],
-   [
-    "thoroughbred",
     "",
     2,
     33,
@@ -2683,7 +2697,7 @@
    ],
    [
     "manege",
-    "",
+    "manège",
     5,
     12,
     0
@@ -2981,7 +2995,7 @@
     0
    ],
    [
-    "Selle Francais",
+    "Selle Français",
     "",
     4,
     12,
@@ -3182,6 +3196,13 @@
     5,
     11,
     0
+   ],
+   [
+    "Paint Horse",
+    "",
+    3,
+    15,
+    0
    ]
   ]
  },
@@ -3335,7 +3356,7 @@
     0
    ],
    [
-    "Galiceno",
+    "Galiceño",
     "",
     5,
     10,
@@ -3426,7 +3447,7 @@
     0
    ],
    [
-    "Dulmen",
+    "Dülmen",
     "",
     5,
     10,
@@ -3454,14 +3475,14 @@
     0
    ],
    [
-    "Merens",
+    "Mérens",
     "",
     5,
     10,
     0
    ],
    [
-    "Asturcon",
+    "Asturcón",
     "",
     5,
     10,
@@ -3479,6 +3500,20 @@
     "",
     5,
     11,
+    0
+   ],
+   [
+    "Pony of the Americas",
+    "",
+    5,
+    8,
+    0
+   ],
+   [
+    "Welsh Cob",
+    "",
+    4,
+    12,
     0
    ]
   ]
@@ -3773,7 +3808,7 @@
     0
    ],
    [
-    "pangare",
+    "pangaré",
     "",
     5,
     10,
@@ -4457,7 +4492,7 @@
     0
    ],
    [
-    "Przewalski horse",
+    "Przewalski's horse",
     "",
     4,
     13,
@@ -5103,6 +5138,34 @@
     5,
     10,
     0
+   ],
+   [
+    "Thomson's gazelle",
+    "",
+    3,
+    18,
+    0
+   ],
+   [
+    "Grevy's zebra",
+    "",
+    4,
+    12,
+    0
+   ],
+   [
+    "Grant's gazelle",
+    "",
+    4,
+    12,
+    0
+   ],
+   [
+    "Jackson's chameleon",
+    "",
+    4,
+    10,
+    0
    ]
   ]
  },
@@ -5643,6 +5706,13 @@
     5,
     11,
     0
+   ],
+   [
+    "Coquerel's sifaka",
+    "",
+    5,
+    8,
+    0
    ]
   ]
  },
@@ -5878,6 +5948,13 @@
     5,
     10,
     0
+   ],
+   [
+    "Rüppell's fox",
+    "",
+    5,
+    8,
+    0
    ]
   ]
  },
@@ -6024,7 +6101,7 @@
     0
    ],
    [
-    "Catalburun",
+    "Çatalburun",
     "",
     5,
     10,
@@ -6127,7 +6204,7 @@
     0
    ],
    [
-    "Przewalski horse",
+    "Przewalski's horse",
     "",
     3,
     13,
@@ -6148,7 +6225,7 @@
     0
    ],
    [
-    "Mandarin duck",
+    "mandarin duck",
     "",
     3,
     17,
@@ -6369,6 +6446,34 @@
     "",
     5,
     10,
+    0
+   ],
+   [
+    "Père David's deer",
+    "",
+    4,
+    10,
+    0
+   ],
+   [
+    "Pallas's cat",
+    "",
+    4,
+    12,
+    0
+   ],
+   [
+    "Chinese giant salamander",
+    "",
+    3,
+    12,
+    0
+   ],
+   [
+    "South China tiger",
+    "",
+    4,
+    12,
     0
    ]
   ],
@@ -7598,6 +7703,13 @@
     5,
     10,
     0
+   ],
+   [
+    "Rajah Brooke's birdwing",
+    "",
+    4,
+    8,
+    0
    ]
   ]
  },
@@ -8022,6 +8134,20 @@
     5,
     11,
     0
+   ],
+   [
+    "Leadbeater's possum",
+    "",
+    4,
+    10,
+    0
+   ],
+   [
+    "Bennett's wallaby",
+    "",
+    4,
+    10,
+    0
    ]
   ]
  },
@@ -8224,7 +8350,7 @@
     0
    ],
    [
-    "Major Mitchell",
+    "Major Mitchell's cockatoo",
     "",
     4,
     15,
@@ -8571,7 +8697,7 @@
     0
    ],
    [
-    "Haast eagle",
+    "Haast's eagle",
     "",
     4,
     12,
@@ -8669,7 +8795,7 @@
     0
    ],
    [
-    "Hamilton frog",
+    "Hamilton's frog",
     "",
     5,
     10,
@@ -8742,6 +8868,20 @@
     "jeweled gecko",
     "jewelled gecko",
     5,
+    10,
+    0
+   ],
+   [
+    "Hector's dolphin",
+    "",
+    3,
+    14,
+    0
+   ],
+   [
+    "New Zealand fur seal",
+    "",
+    4,
     10,
     0
    ]
@@ -8895,6 +9035,20 @@
     5,
     10,
     0
+   ],
+   [
+    "Wilson's storm petrel",
+    "",
+    5,
+    8,
+    0
+   ],
+   [
+    "Antarctic fur seal",
+    "",
+    4,
+    10,
+    0
    ]
   ],
   "flag": "only about 21 outside penguins; animals that also live in the Arctic or every ocean (orca, blue whale, humpback) left out to keep it apart from arctic animals"
@@ -8916,7 +9070,7 @@
     0
    ],
    [
-    "Adelie penguin",
+    "Adélie penguin",
     "",
     2,
     15,
@@ -9734,7 +9888,7 @@
     0
    ],
    [
-    "vicuna",
+    "vicuña",
     "",
     2,
     18,
@@ -10099,6 +10253,13 @@
     "",
     5,
     10,
+    0
+   ],
+   [
+    "Darwin's finch",
+    "",
+    2,
+    20,
     0
    ]
   ]
@@ -10962,6 +11123,48 @@
     5,
     10,
     0
+   ],
+   [
+    "Steller's jay",
+    "",
+    4,
+    12,
+    0
+   ],
+   [
+    "Gambel's quail",
+    "",
+    4,
+    10,
+    0
+   ],
+   [
+    "Anna's hummingbird",
+    "",
+    4,
+    10,
+    0
+   ],
+   [
+    "Harris's hawk",
+    "",
+    4,
+    12,
+    0
+   ],
+   [
+    "yellow-bellied sapsucker",
+    "",
+    3,
+    12,
+    0
+   ],
+   [
+    "black-capped chickadee",
+    "",
+    3,
+    12,
+    0
    ]
   ]
  },
@@ -11364,7 +11567,7 @@
     0
    ],
    [
-    "Hermann tortoise",
+    "Hermann's tortoise",
     "",
     4,
     11,
@@ -11948,6 +12151,27 @@
     4,
     18,
     0
+   ],
+   [
+    "Daubenton's bat",
+    "",
+    4,
+    8,
+    0
+   ],
+   [
+    "Bewick's swan",
+    "",
+    4,
+    10,
+    0
+   ],
+   [
+    "horseshoe bat",
+    "",
+    3,
+    15,
+    0
    ]
   ]
  },
@@ -12045,7 +12269,7 @@
     0
    ],
    [
-    "alpine salamander",
+    "Alpine salamander",
     "",
     4,
     11,
@@ -12059,7 +12283,7 @@
     0
    ],
    [
-    "alpine newt",
+    "Alpine newt",
     "",
     4,
     11,
@@ -12154,7 +12378,7 @@
     0
    ],
    [
-    "arctic fox",
+    "Arctic fox",
     "",
     1,
     20,
@@ -12210,7 +12434,7 @@
     0
    ],
    [
-    "arctic hare",
+    "Arctic hare",
     "",
     2,
     15,
@@ -12231,7 +12455,7 @@
     0
    ],
    [
-    "arctic wolf",
+    "Arctic wolf",
     "",
     2,
     16,
@@ -12259,7 +12483,7 @@
     0
    ],
    [
-    "arctic tern",
+    "Arctic tern",
     "",
     3,
     15,
@@ -12403,6 +12627,13 @@
     "",
     5,
     11,
+    0
+   ],
+   [
+    "Ross's gull",
+    "",
+    5,
+    8,
     0
    ]
   ]
@@ -13599,6 +13830,13 @@
     5,
     10,
     0
+   ],
+   [
+    "western diamondback",
+    "",
+    4,
+    12,
+    0
    ]
   ]
  },
@@ -14023,6 +14261,13 @@
     4,
     22,
     0
+   ],
+   [
+    "red-eyed tree frog",
+    "",
+    2,
+    15,
+    0
    ]
   ]
  },
@@ -14383,6 +14628,13 @@
     "",
     4,
     11,
+    0
+   ],
+   [
+    "Thomson's gazelle",
+    "",
+    3,
+    18,
     0
    ]
   ]

@@ -20,39 +20,39 @@
     tables and desks
     beds
     storage furniture
-    lights and lamps
-    soft furnishings
+    lights and lamps [separate]
+    soft furnishings [separate]
       window coverings -- curtains, blinds, shutters, drapes, valance, roller blind
       rugs and carpets -- kilim, shag, Persian rug, dhurrie, runner, doormat
     antique furniture -- armoire, bureau, chaise longue, credenza, escritoire, chiffonier
   appliances
     kitchen appliances
     cleaning appliances
-    home electronics
+    home electronics [separate]
     heating and cooling
-      fireplace words -- hearth, mantel, grate, poker, bellows, flue, kindling
+      fireplace words [separate] -- hearth, mantel, grate, poker, bellows, flue, kindling
     small appliances
-    bathroom fixtures
-    electrical fittings -- plug, socket, switch, fuse, adapter, dimmer, breaker
+    bathroom fixtures [separate]
+    electrical fittings [separate] -- plug, socket, switch, fuse, adapter, dimmer, breaker
   tools
     hand tools
-      saws -- hacksaw, coping saw, bow saw, fret saw, chainsaw, band saw
+      saws [separate] -- hacksaw, coping saw, bow saw, fret saw, chainsaw, band saw
     power tools
-    fixings
+    fixings [separate]
     measuring tools
-    painting and decorating
-    plumbing words
-    adhesives -- glues, tapes and sealants: duct tape, epoxy, superglue, caulk
+    painting and decorating [separate]
+    plumbing words [separate]
+    adhesives [separate] -- glues, tapes and sealants: duct tape, epoxy, superglue, caulk
   cleaning
     cleaning items
       brooms and brushes -- push broom, besom, dustpan brush, toilet brush, feather duster
     cleaning verbs
     laundry words
     cleaning products
-    chores
-    bins and recycling
+    chores [separate]
+    bins and recycling [separate]
     washing up -- doing the dishes: suds, scourer, drying rack, tea towel
-    household pests -- pests indoors: mice, cockroaches, silverfish, termites, moths
+    household pests [separate] -- pests indoors: mice, cockroaches, silverfish, termites, moths
   house and building
     building materials
     parts of a house
@@ -61,9 +61,9 @@
     windows and doors
       parts of a door -- hinge, knob, latch, jamb, threshold, knocker, peephole
     diy words
-    house styles
+    house styles [separate]
     real estate words -- mortgage, lease, tenant, landlord, deposit, listing
-    household bills -- rent, electricity, water, internet, insurance, property tax
+    household bills [separate] -- rent, electricity, water, internet, insurance, property tax
   clothes
     tops
     pants and shorts
@@ -83,8 +83,8 @@
     work clothes -- overalls, apron, scrubs, lab coat, hi-vis vest, boiler suit
     swimwear
     knitwear
-    fashion styles -- preppy, boho, grunge, punk, goth, streetwear, vintage
-    fashion designers -- real designers and houses: Chanel, Dior, Versace, Armani, Prada
+    fashion styles [separate] -- preppy, boho, grunge, punk, goth, streetwear, vintage
+    fashion designers [separate] -- real designers and houses: Chanel, Dior, Versace, Armani, Prada
   accessories
     shoes
     boots
@@ -105,33 +105,33 @@
       sewing kit
     knitting words
     fabric prints
-    clothing parts
-      necklines -- V-neck, crew, scoop, boat, sweetheart, halter
+    clothing parts [separate]
+      necklines [separate] -- V-neck, crew, scoop, boat, sweetheart, halter
     fastenings
   holidays and celebrations
-    christmas
+    christmas [separate]
       christmas carols
-    halloween
-    easter
-    new year
-    thanksgiving
-    weddings
-      wedding anniversaries -- anniversary gift names: paper, tin, crystal, silver, pearl, ruby, gold
-    birthdays
+    halloween [separate]
+    easter [separate]
+    new year [separate]
+    thanksgiving [separate]
+    weddings [separate]
+      wedding anniversaries [separate] -- anniversary gift names: paper, tin, crystal, silver, pearl, ruby, gold
+    birthdays [separate]
       party supplies
-    valentine's day
+    valentine's day [separate]
     festivals of the world
-      diwali [region:Asia]
-      lunar new year [region:Asia]
-      holi [region:Asia]
-      mid-autumn festival [region:Asia]
-      ramadan and eid [region:Middle East]
-      hanukkah [region:Middle East]
-      day of the dead [region:North America]
-      anzac day [region:Oceania]
-      midsummer [region:Europe]
-      oktoberfest [region:Europe] [adult]
-      st. patrick's day [region:Europe]
+      diwali [region:Asia] [separate]
+      lunar new year [region:Asia] [separate]
+      holi [region:Asia] [separate]
+      mid-autumn festival [region:Asia] [separate]
+      ramadan and eid [region:Middle East] [separate]
+      hanukkah [region:Middle East] [separate]
+      day of the dead [region:North America] [separate]
+      anzac day [region:Oceania] [separate]
+      midsummer [region:Europe] [separate]
+      oktoberfest [region:Europe] [adult] [separate]
+      st. patrick's day [region:Europe] [separate]
   time
     months
     days and weeks -- weekday names plus weekend, fortnight, midweek
@@ -141,13 +141,13 @@
       clock parts -- hand, face, pendulum, chime, cog, escapement
       clock types -- cuckoo, grandfather, sundial, hourglass, stopwatch
     times of day
-    zodiac signs
-    chinese zodiac [region:Asia]
+    zodiac signs [separate]
+    chinese zodiac [region:Asia] [separate]
   household objects
     containers
     cords and strings -- rope, twine, cord, lace, ribbon, yarn, cable
     paper goods -- tissue, napkin, paper towel, envelope, wrapping paper
-    candle words -- candle types and parts: taper, votive, tealight, wick, wax, candelabra
+    candle words [separate] -- candle types and parts: taper, votive, tealight, wick, wax, candelabra
     emergency supplies
     retro household items -- rotary phone, VCR, typewriter, mangle, washboard, record player
     home decor -- vase, ornament, picture frame, figurine, candlestick

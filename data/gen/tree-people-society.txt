@@ -2,14 +2,14 @@
     family members
     extended family
     relationships
-    terms of endearment
-    greetings
+    terms of endearment [separate]
+    greetings [separate]
       greetings around the world -- hello in other languages: hola, bonjour, ciao, namaste, merhaba, jambo, aloha, kia ora
-    ways to say goodbye -- farewell, adieu, cheerio, so long, adios, sayonara, ta-ta
-    ages and stages
+    ways to say goodbye [separate] -- farewell, adieu, cheerio, so long, adios, sayonara, ta-ta
+    ages and stages [separate]
     words for friend -- pal, buddy, mate, chum, bestie, companion, comrade, confidant
-    life events -- milestones of a life: birth, christening, graduation, engagement, wedding, retirement, funeral
-    honorifics -- titles before a name: Mr, Mrs, Ms, Dr, Sir, Dame, Professor, Reverend
+    life events [separate] -- milestones of a life: birth, christening, graduation, engagement, wedding, retirement, funeral
+    honorifics [separate] -- titles before a name: Mr, Mrs, Ms, Dr, Sir, Dame, Professor, Reverend
   emotions
     happy words
     sad words
@@ -19,7 +19,7 @@
     love words -- adore, cherish, affection, devotion, crush, passion, smitten
     calm words -- serene, tranquil, relaxed, placid, peaceful, composed, mellow
     disgust words -- revolted, repulsed, sickened, appalled, grossed out, yuck
-    personality traits
+    personality traits [separate]
       positive traits -- kind, honest, generous, loyal, patient, brave
       negative traits -- greedy, rude, lazy, selfish, arrogant, stubborn
     moods
@@ -35,21 +35,21 @@
     food jobs -- chef, baker, butcher, waiter, barista, sommelier, fishmonger, grocer
     animal jobs -- vet, zookeeper, groom, farrier, shepherd, dog walker, kennel hand
     old-time jobs -- jobs that have mostly vanished in the last 150 years: milkman, chimney sweep, lamplighter, switchboard operator, town crier; not medieval
-    workplace words -- salary, boss, shift, promotion, interview, overtime, pension, colleague
-    cowboy words [region:North America] -- lasso, saddle, spurs, stetson, ranch, rodeo, chaps, corral, sheriff, posse
-    gaucho words [region:South America] -- Argentine/Uruguayan cowboy life: poncho, bolas, mate, asado, estancia, pampas, facon, rebenque
+    workplace words [separate] -- salary, boss, shift, promotion, interview, overtime, pension, colleague
+    cowboy words [region:North America] [separate] -- lasso, saddle, spurs, stetson, ranch, rodeo, chaps, corral, sheriff, posse
+    gaucho words [region:South America] [separate] -- Argentine/Uruguayan cowboy life: poncho, bolas, mate, asado, estancia, pampas, facon, rebenque
   government
     government words
     election words
     political titles
     royal titles
-      ottoman titles [region:Middle East] -- sultan, pasha, vizier, bey, agha, effendi, janissary, kadi, sipahi, beylerbey
-    royal things -- objects and occasions of monarchy: crown, throne, scepter, orb, tiara, coronation, jubilee, ermine
+      ottoman titles [region:Middle East] [separate] -- sultan, pasha, vizier, bey, agha, effendi, janissary, kadi, sipahi, beylerbey
+    royal things [separate] -- objects and occasions of monarchy: crown, throne, scepter, orb, tiara, coronation, jubilee, ermine
     types of government
     parts of parliament
     political ideologies -- socialism, liberalism, conservatism, communism, anarchism, capitalism, nationalism
     diplomacy words -- embassy, ambassador, consul, treaty, summit, envoy, sanctions, attache
-    international organizations -- UN, NATO, EU, WHO, UNESCO, OPEC, IMF, Interpol, Red Cross, ASEAN
+    international organizations [separate] -- UN, NATO, EU, WHO, UNESCO, OPEC, IMF, Interpol, Red Cross, ASEAN
     us government [region:North America] -- congress, senate, house, supreme court, cabinet, white house, governor, veto
     british politics [region:Europe] -- Westminster, Downing Street, Whitehall, Commons, Lords, MP, whip, backbencher, chancellor
   law and order
@@ -57,11 +57,11 @@
     courtroom words
     police words
     prison words [adult]
-    detective words
+    detective words [separate]
     legal documents
-    legal latin -- habeas corpus, pro bono, de facto, subpoena, affidavit, alibi, bona fide, quid pro quo
-    punishments [adult] -- fine, jail, probation, parole, community service, detention, curfew, ban
-    spy words -- agent, mole, cipher, handler, double agent, safe house, codename, wiretap
+    legal latin [separate] -- habeas corpus, pro bono, de facto, subpoena, affidavit, alibi, bona fide, quid pro quo
+    punishments [adult] [separate] -- fine, jail, probation, parole, community service, detention, curfew, ban
+    spy words [separate] -- agent, mole, cipher, handler, double agent, safe house, codename, wiretap
   money
     money words
     currencies
@@ -73,11 +73,11 @@
     coins
       historic coins -- doubloon, ducat, florin, farthing, guinea, sovereign, groat, denarius, thaler, piece of eight
     tax words
-    shopping words
+    shopping words [separate]
     money slang -- dough, bread, moolah, bucks, quid, loot, dosh, greenbacks, clams, smackers
     stock market words -- shares, bull, bear, dividend, broker, index, portfolio, bond
-    business words -- profit, revenue, merger, startup, CEO, shareholder, budget, invoice
-    bazaar [place] [region:Middle East] -- things in a Middle Eastern or Turkish market: carpets, spices, lanterns, haggling, tea, brass, stall
+    business words [separate] -- profit, revenue, merger, startup, CEO, shareholder, budget, invoice
+    bazaar [place] [region:Middle East] [separate] -- things in a Middle Eastern or Turkish market: carpets, spices, lanterns, haggling, tea, brass, stall
   religion
     religion words
     religious festivals
@@ -85,8 +85,8 @@
     holy books
     angels and spirits
     places of worship
-    pilgrimage sites -- Mecca, Lourdes, Varanasi, Jerusalem, Santiago de Compostela, Canterbury, Bodh Gaya, Amritsar
-    famous saints -- Patrick, Nicholas, George, Francis, Valentine, Andrew, Christopher, Joan
+    pilgrimage sites [separate] -- Mecca, Lourdes, Varanasi, Jerusalem, Santiago de Compostela, Canterbury, Bodh Gaya, Amritsar
+    famous saints [separate] -- Patrick, Nicholas, George, Francis, Valentine, Andrew, Christopher, Joan
     religious clothing -- cassock, habit, hijab, kippah, turban, miter, surplice, wimple
     afterlife words -- heaven, hell, paradise, purgatory, limbo, nirvana, underworld, reincarnation
     islam words [region:Middle East] -- mosque, minaret, imam, Ramadan, hajj, Quran, Eid, halal, muezzin
@@ -116,7 +116,7 @@
   media and communication
     newspaper words
     social media words
-    social media platforms -- real brands: Facebook, Instagram, TikTok, YouTube, Snapchat, Reddit, LinkedIn
+    social media platforms [separate] -- real brands: Facebook, Instagram, TikTok, YouTube, Snapchat, Reddit, LinkedIn
     phone words
     mail words
     journalism words

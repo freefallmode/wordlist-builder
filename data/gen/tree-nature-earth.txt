@@ -4,10 +4,10 @@
     fruit trees
     nut trees
     tropical trees
-    tree parts
-    types of wood
-    hedge plants -- shrubs and trees grown as hedges: privet, box, yew, hawthorn, beech, laurel
-    things that fall from trees [property] -- leaves, acorns, conkers, pine cones, sycamore keys, blossom, sap
+    tree parts [separate]
+    types of wood [separate]
+    hedge plants [separate] -- shrubs and trees grown as hedges: privet, box, yew, hawthorn, beech, laurel
+    things that fall from trees [property] [separate] -- leaves, acorns, conkers, pine cones, sycamore keys, blossom, sap
     trees of the world:
       african trees [region:Africa]
       asian trees [region:Asia]
@@ -16,22 +16,22 @@
       north american trees [region:North America]
       mediterranean trees [region:Europe]
   forests
-    woodland [place]
-    forest floor [place] -- what lies on the ground in a forest: moss, leaf litter, fungi, ferns, beetles
-    woodland features -- clearing, glade, thicket, canopy, undergrowth, stump, trail
+    woodland [place] [separate]
+    forest floor [place] [separate] -- what lies on the ground in a forest: moss, leaf litter, fungi, ferns, beetles
+    woodland features [separate] -- clearing, glade, thicket, canopy, undergrowth, stump, trail
     forest types -- boreal, cloud forest, mangrove, temperate, coniferous, bamboo forest
-    famous forests -- Black Forest, Sherwood, Amazon, Daintree, Bialowieza, Sundarbans
-    forestry words -- logging, lumberjack, sawmill, timber, felling, coppice, plantation
-    wildfire words -- blaze, embers, firebreak, smoke jumper, backburn, bushfire
+    famous forests [separate] -- Black Forest, Sherwood, Amazon, Daintree, Bialowieza, Sundarbans
+    forestry words [separate] -- logging, lumberjack, sawmill, timber, felling, coppice, plantation
+    wildfire words [separate] -- blaze, embers, firebreak, smoke jumper, backburn, bushfire
   flowers
     garden flowers
     wildflowers
     spring flowers
     summer flowers
     tropical flowers
-    flower parts
+    flower parts [separate]
     bouquet flowers
-    edible flowers -- nasturtium, borage, violet, calendula, elderflower, squash blossom
+    edible flowers [separate] -- nasturtium, borage, violet, calendula, elderflower, squash blossom
     flowers with animal names [wordplay] -- flower names containing an animal: foxglove, larkspur, tiger lily, snapdragon, cowslip
     flowers of the world:
       anatolian flowers [region:Middle East] -- flowers native to or iconic in Turkey: tulip, hyacinth, crocus, cyclamen, fritillary
@@ -46,7 +46,7 @@
     vines and climbers
     water plants
     poisonous plants
-    plant parts
+    plant parts [separate]
     grasses and reeds -- bamboo, pampas, papyrus, sedge, rush, cattail, marram, fescue
     medicinal plants -- aloe vera, ginseng, echinacea, valerian, witch hazel, feverfew, arnica
     weeds -- dandelion, nettle, thistle, bindweed, dock, chickweed, ragwort, knotweed
@@ -59,21 +59,21 @@
     garden features
     garden pests
     garden furniture
-    garden birds
-    gardening verbs
+    garden birds [separate]
+    gardening verbs [separate]
     garden styles -- rock garden, cottage garden, kitchen garden, zen garden, knot garden, walled garden
-    famous gardens -- Kew, Versailles, Keukenhof, Giverny, Butchart, Kirstenbosch, Boboli
-    japanese garden [place] [region:Asia] -- koi, bonsai, stone lantern, raked gravel, moss, teahouse, stepping stones
+    famous gardens [separate] -- Kew, Versailles, Keukenhof, Giverny, Butchart, Kirstenbosch, Boboli
+    japanese garden [place] [region:Asia] [separate] -- koi, bonsai, stone lantern, raked gravel, moss, teahouse, stepping stones
   landscapes
-    mountain features
-    river features
+    mountain features [separate]
+    river features [separate]
     desert features
     ice features
-    cave features
+    cave features [separate]
     flat landscapes -- plain, plateau, prairie, steppe, tundra, moor, heath, fen, veld, pampas
-    bodies of water -- lake, pond, lagoon, reservoir, loch, tarn, fjord, bay, gulf, estuary, sound
-    scottish landscape words [region:Europe] -- glen, loch, ben, burn, brae, firth, strath, corrie, munro
-    cappadocia [place] [region:Middle East] -- fairy chimneys, hot air balloons, cave hotels, tuff, underground city, pigeon houses
+    bodies of water [separate] -- lake, pond, lagoon, reservoir, loch, tarn, fjord, bay, gulf, estuary, sound
+    scottish landscape words [region:Europe] [separate] -- glen, loch, ben, burn, brae, firth, strath, corrie, munro
+    cappadocia [place] [region:Middle East] [separate] -- fairy chimneys, hot air balloons, cave hotels, tuff, underground city, pigeon houses
   seashore:
     seashells -- cowrie, conch, scallop, cockle, whelk, clam, abalone, nautilus, limpet, sand dollar
     rock pool [place] -- crab, starfish, limpet, anemone, barnacle, periwinkle, shrimp, blenny
@@ -88,10 +88,10 @@
     storms
     cloud types
     snow and ice
-    weather instruments
-    named winds -- mistral, sirocco, chinook, foehn, bora, harmattan, khamsin, santa ana, haboob
+    weather instruments [separate]
+    named winds [separate] -- mistral, sirocco, chinook, foehn, bora, harmattan, khamsin, santa ana, haboob
     forecast words -- front, pressure, isobar, humidity, outlook, dew point, wind chill, visibility
-    sky phenomena -- rainbow, aurora, halo, sundog, moonbow, mirage, green flash, crepuscular rays
+    sky phenomena [separate] -- rainbow, aurora, halo, sundog, moonbow, mirage, green flash, crepuscular rays
     antarctic weather [region:Antarctica] -- blizzard, whiteout, katabatic wind, diamond dust, polar night, sastrugi
   seasons in nature:
     signs of spring [property] -- buds, blossom, lambs, catkins, frogspawn, nesting, daffodils
@@ -104,15 +104,15 @@
   rocks and minerals
     gemstones
       quartz varieties -- amethyst, citrine, rose quartz, agate, onyx, jasper, carnelian, tiger's eye
-    metals
+    metals [separate]
     rock types
       igneous rocks -- granite, basalt, obsidian, pumice, gabbro, andesite, rhyolite, tuff
       sedimentary rocks -- sandstone, limestone, shale, chalk, coal, conglomerate, flint, mudstone
     minerals
     birthstones
     building stones
-    mining words -- shaft, seam, ore, quarry, nugget, vein, lode, pickaxe, slag, smelter
-    gold rush words [region:North America] -- prospector, claim, panning, sluice, boomtown, forty-niner, Klondike
+    mining words [separate] -- shaft, seam, ore, quarry, nugget, vein, lode, pickaxe, slag, smelter
+    gold rush words [region:North America] [separate] -- prospector, claim, panning, sluice, boomtown, forty-niner, Klondike
   earth science
     natural disasters
     volcano words
@@ -144,6 +144,6 @@
     renewable energy
     conservation words
     climate words
-    endangered animals
-    fossil fuels -- coal, oil, natural gas, peat, lignite, anthracite, petroleum, tar sands
+    endangered animals [separate]
+    fossil fuels [separate] -- coal, oil, natural gas, peat, lignite, anthracite, petroleum, tar sands
     green living words -- composting, upcycling, carpooling, reusable, refill, solar panel, rewilding

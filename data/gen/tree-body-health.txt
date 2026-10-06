@@ -4,34 +4,34 @@
     arms and legs
     torso
     joints -- elbow, knee, ankle, wrist, hip, shoulder, knuckle, jaw
-    hair
+    hair [separate]
       hairstyles
-    skin words
+    skin words [separate]
     paired body parts [property] -- body parts that come in twos: eye, ear, lung, kidney, knee, elbow
   inside the body
     bones
     organs
     muscles
-    blood words
-    teeth
+    blood words [separate]
+    teeth [separate]
     brain parts
-    body systems -- digestive, nervous, circulatory, respiratory, skeletal, immune
+    body systems [separate] -- digestive, nervous, circulatory, respiratory, skeletal, immune
     hormones
   senses -- the five senses and sense organs: sight, hearing, smell, taste, touch, eye, ear, nose, tongue, skin
-    sight words
-    hearing words
-    smell words
-    ear parts
-    touch words
-    eye parts
-    smelly things [property] -- things known for a strong smell: garlic, skunk, socks, durian, blue cheese, onion
+    sight words [separate]
+    hearing words [separate]
+    smell words [separate]
+    ear parts [separate]
+    touch words [separate]
+    eye parts [separate]
+    smelly things [property] [separate] -- things known for a strong smell: garlic, skunk, socks, durian, blue cheese, onion
   illnesses
     common illnesses
     childhood illnesses
-    allergies
+    allergies [separate]
     infections
-    injuries
-    symptoms
+    injuries [separate]
+    symptoms [separate]
     historic diseases
     tropical diseases [region:Africa]
     cold weather ailments [region:Antarctica] -- frostbite, hypothermia, snow blindness, chilblains, windburn
@@ -46,9 +46,9 @@
     pharmacy [place]
     operating room [place]
     first aid
-    dental words
-    smoking words [adult] -- cigarette, cigar, pipe, ashtray, lighter, filter, vape, hookah, tobacco
-    illegal drugs [adult]
+    dental words [separate]
+    smoking words [adult] [separate] -- cigarette, cigar, pipe, ashtray, lighter, filter, vape, hookah, tobacco
+    illegal drugs [adult] [separate]
   healing traditions:
     chinese medicine [region:Asia]
     middle eastern remedies [region:Middle East] -- black seed, cupping, miswak, frankincense, myrrh, rose water, honey
@@ -66,51 +66,51 @@
   fitness
     exercises
     gym equipment
-    yoga poses
-    yoga words [region:Asia] -- asana, namaste, chakra, mantra, om, mudra, savasana, vinyasa
+    yoga poses [separate]
+    yoga words [region:Asia] [separate] -- asana, namaste, chakra, mantra, om, mudra, savasana, vinyasa
     workout types
     fitness words
-    stretches
+    stretches [separate]
   sleep
     sleep words
     bedding
     nightwear
-    dream words
-    bedtime routine
+    dream words [separate]
+    bedtime routine [separate]
     sleep disorders
   personal care
     toiletries for washing
     hair care
     skincare products
-      korean skincare [region:Asia]
+      korean skincare [region:Asia] [separate]
     makeup
     nail care
     bath time
-    dental care
+    dental care [separate]
     middle eastern grooming [region:Middle East] -- kohl, henna, oud, attar, rose water, argan oil, black soap, miswak
   mind and wellbeing
     mental health words
-    phobias
-    massage types
-    bad habits -- nail biting, slouching, knuckle cracking, snacking, procrastinating
+    phobias [separate]
+    massage types [separate]
+    bad habits [separate] -- nail biting, slouching, knuckle cracking, snacking, procrastinating
     healthy habits -- flossing, walking, drinking water, early nights, stretching
-    spa [place]
-    turkish bath [place] [region:Middle East] -- hammam: kese, pestemal, marble slab, steam, foam, dome, clogs
-    european spa towns [region:Europe] -- Bath, Baden-Baden, Vichy, Spa, Karlovy Vary, Evian
+    spa [place] [separate]
+    turkish bath [place] [region:Middle East] [separate] -- hammam: kese, pestemal, marble slab, steam, foam, dome, clogs
+    european spa towns [region:Europe] [separate] -- Bath, Baden-Baden, Vichy, Spa, Karlovy Vary, Evian
   nutrition
     vitamins
     dietary minerals -- iron, calcium, zinc, magnesium, potassium, iodine, selenium
     food groups
     nutrients
-    diet types
+    diet types [separate]
     superfoods
-    healthy snacks
+    healthy snacks [separate]
   body movement
     facial expressions
     gestures
     body actions
     hand actions
     ways of walking
-    ways of looking
-    ways of speaking
-    body noises -- burp, hiccup, sneeze, cough, snore, yawn, sniff, gulp, sigh
+    ways of looking [separate]
+    ways of speaking [separate]
+    body noises [separate] -- burp, hiccup, sneeze, cough, snore, yawn, sniff, gulp, sigh

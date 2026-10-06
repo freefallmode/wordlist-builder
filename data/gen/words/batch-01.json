@@ -9,7 +9,7 @@
     0
    ],
    [
-    "eclair",
+    "éclair",
     "",
     1,
     30,
@@ -107,7 +107,7 @@
     0
    ],
    [
-    "canele",
+    "canelé",
     "",
     4,
     14,
@@ -128,7 +128,7 @@
     0
    ],
    [
-    "Saint-Honore",
+    "Saint-Honoré",
     "",
     4,
     14,
@@ -198,7 +198,7 @@
     0
    ],
    [
-    "tropezienne",
+    "tarte tropézienne",
     "",
     5,
     10,
@@ -226,7 +226,7 @@
     0
    ],
    [
-    "jesuite",
+    "jésuite",
     "",
     5,
     10,
@@ -248,6 +248,41 @@
    ],
    [
     "oreillette",
+    "",
+    5,
+    8,
+    0
+   ],
+   [
+    "pain au chocolat",
+    "",
+    1,
+    26,
+    0
+   ],
+   [
+    "pain aux raisins",
+    "",
+    3,
+    14,
+    0
+   ],
+   [
+    "tarte au citron",
+    "",
+    3,
+    14,
+    0
+   ],
+   [
+    "chausson aux pommes",
+    "",
+    4,
+    10,
+    0
+   ],
+   [
+    "pets de nonne",
     "",
     5,
     8,
@@ -384,7 +419,7 @@
     0
    ],
    [
-    "upside-down",
+    "upside-down cake",
     "",
     3,
     22,
@@ -482,8 +517,8 @@
     0
    ],
    [
-    "gateau",
     "gâteau",
+    "",
     3,
     28,
     0
@@ -496,7 +531,7 @@
     0
    ],
    [
-    "genoise",
+    "génoise",
     "",
     4,
     16,
@@ -594,7 +629,7 @@
     0
    ],
    [
-    "Esterhazy torte",
+    "Esterházy torte",
     "",
     5,
     12,
@@ -706,7 +741,7 @@
     0
    ],
    [
-    "funfetti",
+    "Funfetti",
     "",
     3,
     18,
@@ -731,6 +766,20 @@
     "",
     4,
     16,
+    0
+   ],
+   [
+    "devil's food",
+    "",
+    2,
+    22,
+    0
+   ],
+   [
+    "7Up cake",
+    "",
+    4,
+    10,
     0
    ]
   ]
@@ -941,7 +990,7 @@
     0
    ],
    [
-    "pfeffernusse",
+    "pfeffernüsse",
     "",
     4,
     14,
@@ -969,7 +1018,7 @@
     0
    ],
    [
-    "sable",
+    "sablé",
     "",
     4,
     20,
@@ -997,7 +1046,7 @@
     0
    ],
    [
-    "polvoron",
+    "polvorón",
     "",
     5,
     12,
@@ -1214,10 +1263,66 @@
     0
    ],
    [
-    "Monster cookie",
+    "monster cookie",
     "",
     4,
     14,
+    0
+   ],
+   [
+    "peanut butter cookie",
+    "",
+    1,
+    20,
+    0
+   ],
+   [
+    "Mexican wedding cookie",
+    "",
+    3,
+    12,
+    0
+   ],
+   [
+    "black and white cookie",
+    "",
+    3,
+    12,
+    0
+   ],
+   [
+    "white chocolate macadamia",
+    "",
+    3,
+    12,
+    0
+   ],
+   [
+    "Nutter Butter",
+    "",
+    3,
+    16,
+    0
+   ],
+   [
+    "Lorna Doone",
+    "",
+    4,
+    12,
+    0
+   ],
+   [
+    "Thin Mint",
+    "",
+    2,
+    18,
+    0
+   ],
+   [
+    "McVitie's",
+    "",
+    3,
+    18,
     0
    ]
   ]
@@ -1309,7 +1414,7 @@
     0
    ],
    [
-    "tarte tatin",
+    "tarte Tatin",
     "",
     3,
     20,
@@ -1545,6 +1650,27 @@
     5,
     10,
     0
+   ],
+   [
+    "sweet potato pie",
+    "",
+    1,
+    20,
+    0
+   ],
+   [
+    "coconut cream pie",
+    "",
+    2,
+    16,
+    0
+   ],
+   [
+    "chocolate cream pie",
+    "",
+    3,
+    14,
+    0
    ]
   ]
  },
@@ -1747,7 +1873,7 @@
     0
    ],
    [
-    "glace cherry",
+    "glacé cherry",
     "",
     4,
     16,
@@ -1929,7 +2055,7 @@
     0
    ],
    [
-    "creme fraiche",
+    "crème fraîche",
     "",
     3,
     26,
@@ -1981,6 +2107,20 @@
     "instant yeast",
     "",
     3,
+    20,
+    0
+   ],
+   [
+    "cream of tartar",
+    "",
+    1,
+    22,
+    0
+   ],
+   [
+    "confectioners' sugar",
+    "",
+    2,
     20,
     0
    ]
@@ -2323,6 +2463,13 @@
     5,
     20,
     0
+   ],
+   [
+    "tipo 00",
+    "",
+    4,
+    10,
+    0
    ]
   ]
  },
@@ -2371,7 +2518,7 @@
     0
    ],
    [
-    "souffle",
+    "soufflé",
     "",
     2,
     26,
@@ -2508,6 +2655,13 @@
     "",
     3,
     26,
+    0
+   ],
+   [
+    "s'more",
+    "",
+    1,
+    22,
     0
    ]
   ],
@@ -2845,13 +2999,6 @@
     0
    ],
    [
-    "Superman",
-    "",
-    4,
-    44,
-    0
-   ],
-   [
     "Blue Moon",
     "",
     4,
@@ -2989,6 +3136,34 @@
     "",
     3,
     26,
+    0
+   ],
+   [
+    "cookies and cream",
+    "",
+    1,
+    24,
+    0
+   ],
+   [
+    "pralines and cream",
+    "",
+    3,
+    12,
+    0
+   ],
+   [
+    "dulce de leche",
+    "",
+    2,
+    22,
+    0
+   ],
+   [
+    "moose tracks",
+    "",
+    3,
+    14,
     0
    ]
   ]
@@ -3274,6 +3449,41 @@
     5,
     16,
     0
+   ],
+   [
+    "ice cream sandwich",
+    "",
+    1,
+    22,
+    0
+   ],
+   [
+    "ice cream cake",
+    "",
+    2,
+    20,
+    0
+   ],
+   [
+    "Dippin' Dots",
+    "",
+    2,
+    16,
+    0
+   ],
+   [
+    "99 Flake",
+    "",
+    3,
+    12,
+    0
+   ],
+   [
+    "Choco Taco",
+    "",
+    3,
+    14,
+    0
    ]
   ]
  },
@@ -3455,7 +3665,7 @@
     0
    ],
    [
-    "Malva pudding",
+    "malva pudding",
     "",
     4,
     14,
@@ -3501,6 +3711,27 @@
     "",
     3,
     18,
+    0
+   ],
+   [
+    "Eve's pudding",
+    "",
+    4,
+    10,
+    0
+   ],
+   [
+    "queen of puddings",
+    "",
+    4,
+    10,
+    0
+   ],
+   [
+    "bread and butter pudding",
+    "",
+    2,
+    16,
     0
    ]
   ]
@@ -3823,7 +4054,7 @@
     0
    ],
    [
-    "Sour Patch",
+    "Sour Patch Kids",
     "",
     2,
     20,
@@ -4234,6 +4465,97 @@
     5,
     10,
     0
+   ],
+   [
+    "M&M's",
+    "",
+    1,
+    30,
+    0
+   ],
+   [
+    "Reese's",
+    "",
+    1,
+    28,
+    0
+   ],
+   [
+    "Reese's Pieces",
+    "",
+    2,
+    20,
+    0
+   ],
+   [
+    "Werther's",
+    "",
+    2,
+    18,
+    0
+   ],
+   [
+    "Mike and Ike",
+    "",
+    3,
+    16,
+    0
+   ],
+   [
+    "Good & Plenty",
+    "",
+    3,
+    14,
+    0
+   ],
+   [
+    "Life Savers",
+    "",
+    2,
+    22,
+    0
+   ],
+   [
+    "3 Musketeers",
+    "",
+    2,
+    20,
+    0
+   ],
+   [
+    "100 Grand",
+    "",
+    3,
+    14,
+    0
+   ],
+   [
+    "5th Avenue",
+    "",
+    4,
+    12,
+    0
+   ],
+   [
+    "Whatchamacallit",
+    "",
+    3,
+    14,
+    0
+   ],
+   [
+    "peppermint patty",
+    "",
+    2,
+    16,
+    0
+   ],
+   [
+    "Dairy Milk",
+    "",
+    2,
+    24,
+    0
    ]
   ]
  },
@@ -4331,7 +4653,7 @@
     0
    ],
    [
-    "Hershey",
+    "Hershey's",
     "",
     1,
     32,
@@ -4450,14 +4772,14 @@
     0
    ],
    [
-    "Whitman",
+    "Whitman's",
     "",
     4,
     30,
     0
    ],
    [
-    "Hershey Kiss",
+    "Hershey's Kiss",
     "",
     2,
     22,
@@ -4527,7 +4849,7 @@
     0
    ],
    [
-    "Mon Cheri",
+    "Mon Chéri",
     "",
     4,
     16,
@@ -4562,7 +4884,7 @@
     0
    ],
    [
-    "Sprungli",
+    "Sprüngli",
     "",
     5,
     10,
@@ -4639,7 +4961,7 @@
     0
    ],
    [
-    "dragee",
+    "dragée",
     "",
     4,
     14,
@@ -4658,6 +4980,34 @@
     4,
     12,
     0
+   ],
+   [
+    "See's",
+    "",
+    4,
+    16,
+    0
+   ],
+   [
+    "Green & Black's",
+    "",
+    4,
+    12,
+    0
+   ],
+   [
+    "Côte d'Or",
+    "",
+    4,
+    12,
+    0
+   ],
+   [
+    "Läderach",
+    "",
+    5,
+    10,
+    0
    ]
   ],
   "flag": "read as boxed and filled chocolates, chocolate types (dark, milk, white) and chocolate makers; chocolate bars are in candy"
@@ -4672,7 +5022,7 @@
     0
    ],
    [
-    "creme brulee",
+    "crème brûlée",
     "",
     1,
     26,
@@ -4721,14 +5071,14 @@
     0
    ],
    [
-    "creme caramel",
+    "crème caramel",
     "",
     3,
     20,
     0
    ],
    [
-    "crepe Suzette",
+    "crêpe Suzette",
     "",
     3,
     20,
@@ -4798,14 +5148,14 @@
     0
    ],
    [
-    "ile flottante",
+    "île flottante",
     "",
     4,
     14,
     0
    ],
    [
-    "mont blanc",
+    "Mont Blanc",
     "",
     4,
     22,
@@ -4994,7 +5344,7 @@
     0
    ],
    [
-    "turron",
+    "turrón",
     "",
     4,
     16,
@@ -5036,7 +5386,7 @@
     0
    ],
    [
-    "Rote Grutze",
+    "Rote Grütze",
     "",
     5,
     10,
@@ -5078,7 +5428,7 @@
     0
    ],
    [
-    "somloi",
+    "somlói galuska",
     "",
     5,
     10,
@@ -5092,7 +5442,7 @@
     0
    ],
    [
-    "bunuelo",
+    "buñuelo",
     "",
     4,
     14,
@@ -5159,6 +5509,34 @@
     "",
     4,
     18,
+    0
+   ],
+   [
+    "dulce de leche",
+    "",
+    2,
+    22,
+    0
+   ],
+   [
+    "arroz con leche",
+    "",
+    3,
+    14,
+    0
+   ],
+   [
+    "pastel de nata",
+    "",
+    2,
+    16,
+    0
+   ],
+   [
+    "pot de crème",
+    "",
+    3,
+    12,
     0
    ]
   ]
@@ -5723,7 +6101,7 @@
     0
    ],
    [
-    "creme anglaise",
+    "crème anglaise",
     "",
     4,
     18,
@@ -5776,6 +6154,27 @@
     "",
     4,
     18,
+    0
+   ],
+   [
+    "hundreds and thousands",
+    "",
+    3,
+    14,
+    0
+   ],
+   [
+    "dulce de leche",
+    "",
+    3,
+    22,
+    0
+   ],
+   [
+    "Reddi-wip",
+    "",
+    3,
+    14,
     0
    ]
   ]
@@ -6136,6 +6535,20 @@
     "invert sugar",
     "",
     4,
+    18,
+    0
+   ],
+   [
+    "Sweet'N Low",
+    "",
+    2,
+    16,
+    0
+   ],
+   [
+    "high-fructose corn syrup",
+    "",
+    2,
     18,
     0
    ]
@@ -6812,6 +7225,13 @@
     5,
     16,
     0
+   ],
+   [
+    "capelli d'angelo",
+    "",
+    4,
+    10,
+    0
    ]
   ]
  },
@@ -6839,7 +7259,7 @@
     0
    ],
    [
-    "alfredo",
+    "Alfredo",
     "",
     1,
     26,
@@ -6984,9 +7404,36 @@
     5,
     8,
     0
+   ],
+   [
+    "mac and cheese",
+    "",
+    1,
+    30,
+    0
+   ],
+   [
+    "spaghetti and meatballs",
+    "",
+    1,
+    20,
+    0
+   ],
+   [
+    "aglio e olio",
+    "",
+    3,
+    14,
+    0
+   ],
+   [
+    "pasta alla Norma",
+    "",
+    4,
+    10,
+    0
    ]
-  ],
-  "flag": "\"cacio e pepe\" kept as three words because the theme note names it"
+  ]
  },
  "noodles": {
   "words": [
@@ -7832,7 +8279,7 @@
     0
    ],
    [
-    "hoppin John",
+    "hoppin' John",
     "",
     4,
     14,
@@ -7899,6 +8346,41 @@
     "",
     5,
     10,
+    0
+   ],
+   [
+    "arroz con pollo",
+    "",
+    2,
+    18,
+    0
+   ],
+   [
+    "rice and peas",
+    "",
+    3,
+    16,
+    0
+   ],
+   [
+    "red beans and rice",
+    "",
+    2,
+    16,
+    0
+   ],
+   [
+    "risi e bisi",
+    "",
+    4,
+    10,
+    0
+   ],
+   [
+    "omurice",
+    "",
+    3,
+    14,
     0
    ]
   ]
@@ -8082,6 +8564,13 @@
    ],
    [
     "kaniwa",
+    "",
+    5,
+    10,
+    0
+   ],
+   [
+    "Job's tears",
     "",
     5,
     10,
@@ -8447,6 +8936,55 @@
     3,
     20,
     0
+   ],
+   [
+    "Cap'n Crunch",
+    "",
+    1,
+    22,
+    0
+   ],
+   [
+    "Cinnamon Toast Crunch",
+    "",
+    1,
+    18,
+    0
+   ],
+   [
+    "Honey Nut Cheerios",
+    "",
+    2,
+    18,
+    0
+   ],
+   [
+    "Reese's Puffs",
+    "",
+    3,
+    14,
+    0
+   ],
+   [
+    "Honey Bunches of Oats",
+    "",
+    2,
+    16,
+    0
+   ],
+   [
+    "Cracklin' Oat Bran",
+    "",
+    4,
+    10,
+    0
+   ],
+   [
+    "Fruit 'n Fibre",
+    "",
+    4,
+    10,
+    0
    ]
   ]
  },
@@ -8586,7 +9124,7 @@
     0
    ],
    [
-    "Knodel",
+    "Knödel",
     "",
     4,
     12,
@@ -8642,35 +9180,35 @@
     0
    ],
    [
-    "Germknodel",
+    "Germknödel",
     "",
     4,
     12,
     0
    ],
    [
-    "Klosse",
+    "Klöße",
     "",
     5,
     12,
     0
    ],
    [
-    "Semmelknodel",
+    "Semmelknödel",
     "",
     5,
     10,
     0
    ],
    [
-    "Marillenknodel",
+    "Marillenknödel",
     "",
     5,
     10,
     0
    ],
    [
-    "halusky",
+    "halušky",
     "",
     4,
     12,
@@ -8775,7 +9313,7 @@
     0
    ],
    [
-    "knedlik",
+    "knedlík",
     "",
     5,
     10,
@@ -8793,6 +9331,13 @@
     "",
     5,
     10,
+    0
+   ],
+   [
+    "char siu bao",
+    "",
+    3,
+    14,
     0
    ]
   ]
@@ -8915,6 +9460,20 @@
     "black salt",
     "",
     5,
+    16,
+    0
+   ],
+   [
+    "fleur de sel",
+    "",
+    4,
+    14,
+    0
+   ],
+   [
+    "Himalayan salt",
+    "",
+    3,
     16,
     0
    ]
@@ -9584,6 +10143,27 @@
     5,
     16,
     0
+   ],
+   [
+    "grains of paradise",
+    "",
+    4,
+    12,
+    0
+   ],
+   [
+    "smoked paprika",
+    "",
+    2,
+    20,
+    0
+   ],
+   [
+    "pimentón",
+    "",
+    4,
+    14,
+    0
    ]
   ]
  },
@@ -9611,7 +10191,7 @@
     0
    ],
    [
-    "zaatar",
+    "za'atar",
     "",
     3,
     18,
@@ -9702,7 +10282,7 @@
     0
    ],
    [
-    "quatre epices",
+    "quatre épices",
     "",
     5,
     10,
@@ -9751,7 +10331,7 @@
     0
    ],
    [
-    "sazon",
+    "sazón",
     "",
     4,
     16,
@@ -9842,7 +10422,7 @@
     0
    ],
    [
-    "Tajin",
+    "Tajín",
     "",
     3,
     16,
@@ -9903,13 +10483,48 @@
     5,
     10,
     0
+   ],
+   [
+    "ras el hanout",
+    "",
+    3,
+    16,
+    0
+   ],
+   [
+    "herbes de Provence",
+    "",
+    2,
+    18,
+    0
+   ],
+   [
+    "apple pie spice",
+    "",
+    3,
+    14,
+    0
+   ],
+   [
+    "Lawry's",
+    "",
+    3,
+    16,
+    0
+   ],
+   [
+    "Tony Chachere's",
+    "",
+    4,
+    8,
+    0
    ]
   ]
  },
  "chili peppers": {
   "words": [
    [
-    "jalapeno",
+    "jalapeño",
     "",
     1,
     30,
@@ -10021,7 +10636,7 @@
     0
    ],
    [
-    "arbol",
+    "chile de árbol",
     "",
     4,
     14,
@@ -10077,7 +10692,7 @@
     0
    ],
    [
-    "padron",
+    "padrón",
     "",
     3,
     16,
@@ -10119,14 +10734,14 @@
     0
    ],
    [
-    "aji amarillo",
+    "ají amarillo",
     "",
     4,
     14,
     0
    ],
    [
-    "aji panca",
+    "ají panca",
     "",
     5,
     10,
@@ -10284,6 +10899,27 @@
     "",
     3,
     20,
+    0
+   ],
+   [
+    "bird's eye",
+    "",
+    2,
+    18,
+    0
+   ],
+   [
+    "piquillo",
+    "",
+    4,
+    14,
+    0
+   ],
+   [
+    "Cubanelle",
+    "",
+    4,
+    12,
     0
    ]
   ]
@@ -10620,7 +11256,7 @@
     0
    ],
    [
-    "Tapatio",
+    "Tapatío",
     "",
     5,
     14,
@@ -10632,13 +11268,48 @@
     3,
     16,
     0
+   ],
+   [
+    "Frank's RedHot",
+    "",
+    2,
+    16,
+    0
+   ],
+   [
+    "A1",
+    "",
+    2,
+    20,
+    0
+   ],
+   [
+    "Heinz 57",
+    "",
+    3,
+    12,
+    0
+   ],
+   [
+    "Lea & Perrins",
+    "",
+    3,
+    14,
+    0
+   ],
+   [
+    "Hellmann's",
+    "",
+    3,
+    18,
+    0
    ]
   ]
  },
  "french sauces": {
   "words": [
    [
-    "bechamel",
+    "béchamel",
     "",
     1,
     24,
@@ -10652,14 +11323,14 @@
     0
    ],
    [
-    "veloute",
+    "velouté",
     "",
     3,
     18,
     0
    ],
    [
-    "bearnaise",
+    "béarnaise",
     "",
     2,
     22,
@@ -10673,7 +11344,7 @@
     0
    ],
    [
-    "mornay",
+    "Mornay",
     "",
     3,
     18,
@@ -10694,7 +11365,7 @@
     0
    ],
    [
-    "remoulade",
+    "rémoulade",
     "",
     3,
     20,
@@ -10715,7 +11386,7 @@
     0
    ],
    [
-    "choron",
+    "Choron",
     "",
     5,
     10,
@@ -10841,7 +11512,7 @@
     0
    ],
    [
-    "Perigueux",
+    "Périgueux",
     "",
     5,
     10,
@@ -10883,7 +11554,7 @@
     0
    ],
    [
-    "supreme",
+    "suprême",
     "",
     4,
     30,
@@ -10894,6 +11565,27 @@
     "",
     5,
     12,
+    0
+   ],
+   [
+    "sauce au poivre",
+    "",
+    3,
+    12,
+    0
+   ],
+   [
+    "beurre maître d'hôtel",
+    "",
+    5,
+    8,
+    0
+   ],
+   [
+    "sauce Robert",
+    "",
+    5,
+    8,
     0
    ]
   ]
@@ -11158,6 +11850,27 @@
     5,
     10,
     0
+   ],
+   [
+    "sweet and sour",
+    "",
+    1,
+    24,
+    0
+   ],
+   [
+    "Lao Gan Ma",
+    "",
+    4,
+    10,
+    0
+   ],
+   [
+    "Lee Kum Kee",
+    "",
+    4,
+    10,
+    0
    ]
   ]
  },
@@ -11308,6 +12021,27 @@
     "",
     4,
     26,
+    0
+   ],
+   [
+    "Newman's Own",
+    "",
+    3,
+    16,
+    0
+   ],
+   [
+    "Ken's",
+    "",
+    4,
+    14,
+    0
+   ],
+   [
+    "oil and vinegar",
+    "",
+    2,
+    20,
     0
    ]
   ]
@@ -11558,6 +12292,34 @@
     5,
     10,
     0
+   ],
+   [
+    "seven-layer dip",
+    "",
+    2,
+    14,
+    0
+   ],
+   [
+    "chile con queso",
+    "",
+    3,
+    14,
+    0
+   ],
+   [
+    "pico de gallo",
+    "",
+    2,
+    18,
+    0
+   ],
+   [
+    "taramasalata",
+    "",
+    3,
+    16,
+    0
    ]
   ]
  },
@@ -11613,8 +12375,8 @@
     0
    ],
    [
-    "pate",
     "pâté",
+    "",
     2,
     28,
     0
@@ -11746,7 +12508,7 @@
     0
    ],
    [
-    "nduja",
+    "'nduja",
     "",
     4,
     16,
@@ -11820,6 +12582,20 @@
     "",
     4,
     16,
+    0
+   ],
+   [
+    "I Can't Believe It's Not Butter",
+    "",
+    3,
+    10,
+    0
+   ],
+   [
+    "Gentleman's Relish",
+    "",
+    5,
+    10,
     0
    ]
   ]
@@ -12111,6 +12887,20 @@
     "",
     5,
     12,
+    0
+   ],
+   [
+    "bread and butter pickle",
+    "",
+    2,
+    14,
+    0
+   ],
+   [
+    "Major Grey's",
+    "",
+    4,
+    10,
     0
    ]
   ]
@@ -12960,6 +13750,118 @@
     5,
     14,
     0
+   ],
+   [
+    "toad in the hole",
+    "",
+    2,
+    18,
+    0
+   ],
+   [
+    "bangers and mash",
+    "",
+    1,
+    18,
+    0
+   ],
+   [
+    "fish and chips",
+    "",
+    1,
+    30,
+    0
+   ],
+   [
+    "surf and turf",
+    "",
+    2,
+    18,
+    0
+   ],
+   [
+    "chicken and waffles",
+    "",
+    2,
+    16,
+    0
+   ],
+   [
+    "chicken and dumplings",
+    "",
+    3,
+    14,
+    0
+   ],
+   [
+    "bubble and squeak",
+    "",
+    2,
+    16,
+    0
+   ],
+   [
+    "steak au poivre",
+    "",
+    3,
+    12,
+    0
+   ],
+   [
+    "chicken cordon bleu",
+    "",
+    2,
+    16,
+    0
+   ],
+   [
+    "chicken à la king",
+    "",
+    3,
+    12,
+    0
+   ],
+   [
+    "General Tso's",
+    "",
+    2,
+    18,
+    0
+   ],
+   [
+    "Nashville hot chicken",
+    "",
+    3,
+    12,
+    0
+   ],
+   [
+    "pigs in blankets",
+    "",
+    2,
+    16,
+    0
+   ],
+   [
+    "shrimp and grits",
+    "",
+    3,
+    14,
+    0
+   ],
+   [
+    "liver and onions",
+    "",
+    3,
+    14,
+    0
+   ],
+   [
+    "sweet and sour pork",
+    "",
+    2,
+    16,
+    0
    ]
   ]
  },
@@ -13120,7 +14022,7 @@
     0
    ],
    [
-    "consomme",
+    "consommé",
     "",
     3,
     20,
@@ -13404,6 +14306,69 @@
     "",
     3,
     20,
+    0
+   ],
+   [
+    "matzo ball soup",
+    "",
+    2,
+    16,
+    0
+   ],
+   [
+    "cream of mushroom",
+    "",
+    2,
+    18,
+    0
+   ],
+   [
+    "hot and sour",
+    "",
+    2,
+    18,
+    0
+   ],
+   [
+    "pasta e fagioli",
+    "",
+    3,
+    14,
+    0
+   ],
+   [
+    "cock-a-leekie",
+    "",
+    4,
+    10,
+    0
+   ],
+   [
+    "caldo de pollo",
+    "",
+    4,
+    10,
+    0
+   ],
+   [
+    "bird's nest soup",
+    "",
+    4,
+    12,
+    0
+   ],
+   [
+    "pea and ham",
+    "",
+    3,
+    14,
+    0
+   ],
+   [
+    "leek and potato",
+    "",
+    2,
+    16,
     0
    ]
   ]
@@ -13808,6 +14773,27 @@
     4,
     16,
     0
+   ],
+   [
+    "étouffée",
+    "",
+    3,
+    14,
+    0
+   ],
+   [
+    "coq au vin",
+    "",
+    2,
+    20,
+    0
+   ],
+   [
+    "pot-au-feu",
+    "",
+    3,
+    14,
+    0
    ]
   ]
  },
@@ -13898,7 +14884,7 @@
     0
    ],
    [
-    "Nicoise",
+    "Niçoise",
     "",
     3,
     18,
@@ -14136,9 +15122,23 @@
     0
    ],
    [
-    "Jello salad",
+    "Jell-O salad",
     "",
     4,
+    14,
+    0
+   ],
+   [
+    "seven-layer salad",
+    "",
+    3,
+    12,
+    0
+   ],
+   [
+    "three-bean salad",
+    "",
+    3,
     14,
     0
    ]
@@ -14203,7 +15203,7 @@
     0
    ],
    [
-    "po-boy",
+    "po' boy",
     "",
     3,
     18,
@@ -14231,7 +15231,7 @@
     0
    ],
    [
-    "croque monsieur",
+    "croque-monsieur",
     "",
     3,
     18,
@@ -14322,7 +15322,7 @@
     0
    ],
    [
-    "smorrebrod",
+    "smørrebrød",
     "",
     4,
     12,
@@ -14357,7 +15357,7 @@
     0
    ],
    [
-    "PBJ",
+    "PB&J",
     "",
     3,
     20,
@@ -14406,7 +15406,7 @@
     0
    ],
    [
-    "choripan",
+    "choripán",
     "",
     4,
     12,
@@ -14476,7 +15476,7 @@
     0
    ],
    [
-    "gatsby",
+    "Gatsby",
     "",
     5,
     16,
@@ -14525,7 +15525,7 @@
     0
    ],
    [
-    "croque madame",
+    "croque-madame",
     "",
     3,
     16,
@@ -14550,6 +15550,34 @@
     "",
     3,
     18,
+    0
+   ],
+   [
+    "ham and cheese",
+    "",
+    1,
+    22,
+    0
+   ],
+   [
+    "egg and cress",
+    "",
+    3,
+    12,
+    0
+   ],
+   [
+    "fish finger sandwich",
+    "",
+    3,
+    12,
+    0
+   ],
+   [
+    "fluffernutter",
+    "",
+    3,
+    14,
     0
    ]
   ]
@@ -14891,9 +15919,177 @@
     5,
     26,
     0
+   ],
+   [
+    "McDonald's",
+    "",
+    1,
+    40,
+    0
+   ],
+   [
+    "Wendy's",
+    "",
+    1,
+    28,
+    0
+   ],
+   [
+    "Arby's",
+    "",
+    2,
+    22,
+    0
+   ],
+   [
+    "Domino's",
+    "",
+    1,
+    28,
+    0
+   ],
+   [
+    "Papa John's",
+    "",
+    2,
+    20,
+    0
+   ],
+   [
+    "Chick-fil-A",
+    "",
+    1,
+    24,
+    0
+   ],
+   [
+    "Jack in the Box",
+    "",
+    2,
+    18,
+    0
+   ],
+   [
+    "In-N-Out",
+    "",
+    2,
+    18,
+    0
+   ],
+   [
+    "Hardee's",
+    "",
+    3,
+    18,
+    0
+   ],
+   [
+    "Carl's Jr.",
+    "",
+    3,
+    16,
+    0
+   ],
+   [
+    "Dunkin'",
+    "",
+    2,
+    22,
+    0
+   ],
+   [
+    "Culver's",
+    "",
+    3,
+    16,
+    0
+   ],
+   [
+    "Raising Cane's",
+    "",
+    3,
+    14,
+    0
+   ],
+   [
+    "Zaxby's",
+    "",
+    4,
+    12,
+    0
+   ],
+   [
+    "Church's Chicken",
+    "",
+    4,
+    12,
+    0
+   ],
+   [
+    "Long John Silver's",
+    "",
+    3,
+    14,
+    0
+   ],
+   [
+    "Nando's",
+    "",
+    2,
+    20,
+    0
+   ],
+   [
+    "Steak 'n Shake",
+    "",
+    3,
+    14,
+    0
+   ],
+   [
+    "A&W",
+    "",
+    3,
+    18,
+    0
+   ],
+   [
+    "Jimmy John's",
+    "",
+    3,
+    16,
+    0
+   ],
+   [
+    "Jersey Mike's",
+    "",
+    3,
+    14,
+    0
+   ],
+   [
+    "Auntie Anne's",
+    "",
+    3,
+    14,
+    0
+   ],
+   [
+    "Nathan's",
+    "",
+    4,
+    18,
+    0
+   ],
+   [
+    "Filet-O-Fish",
+    "",
+    2,
+    16,
+    0
    ]
   ],
-  "flag": "mixes fast food items and fast food chains; chains with apostrophes (McDonalds, Wendys, Arbys, Dominos) left out"
+  "flag": "mixes fast food items and fast food chains"
  },
  "breakfast foods": {
   "words": [
@@ -14947,7 +16143,7 @@
     0
    ],
    [
-    "crepe",
+    "crêpe",
     "",
     2,
     26,
@@ -15073,14 +16269,14 @@
     0
    ],
    [
-    "acai bowl",
+    "açaí bowl",
     "",
     3,
     16,
     0
    ],
    [
-    "Johnnycake",
+    "johnnycake",
     "",
     4,
     14,
@@ -15139,6 +16335,48 @@
     "upma",
     "",
     5,
+    10,
+    0
+   ],
+   [
+    "eggs Benedict",
+    "",
+    1,
+    22,
+    0
+   ],
+   [
+    "bacon and eggs",
+    "",
+    1,
+    22,
+    0
+   ],
+   [
+    "biscuits and gravy",
+    "",
+    2,
+    16,
+    0
+   ],
+   [
+    "huevos rancheros",
+    "",
+    2,
+    16,
+    0
+   ],
+   [
+    "shakshuka",
+    "",
+    3,
+    16,
+    0
+   ],
+   [
+    "egg in a hole",
+    "",
+    3,
     10,
     0
    ]
@@ -15539,7 +16777,7 @@
     0
    ],
    [
-    "chicharron",
+    "chicharrón",
     "",
     4,
     16,
@@ -15634,6 +16872,48 @@
     "",
     5,
     8,
+    0
+   ],
+   [
+    "Lay's",
+    "",
+    1,
+    26,
+    0
+   ],
+   [
+    "Pirate's Booty",
+    "",
+    3,
+    14,
+    0
+   ],
+   [
+    "Snyder's",
+    "",
+    4,
+    14,
+    0
+   ],
+   [
+    "Smith's",
+    "",
+    4,
+    22,
+    0
+   ],
+   [
+    "nuts and bolts",
+    "",
+    4,
+    12,
+    0
+   ],
+   [
+    "ants on a log",
+    "",
+    3,
+    10,
     0
    ]
   ]

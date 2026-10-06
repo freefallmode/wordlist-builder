@@ -15,29 +15,29 @@
     languages of the americas
       native north american languages [region:North America]
       indigenous south american languages [region:South America]
-    codes and signals
+    codes and signals [separate]
   alphabets and writing
     greek letters
-    phonetic alphabet
+    phonetic alphabet [separate]
     punctuation
     keyboard symbols -- names of symbols on a keyboard: ampersand, tilde, caret, hashtag, asterisk
     writing systems
     handwriting words
     typography words
-    fonts -- typeface names: Helvetica, Garamond, Arial, Futura
+    fonts [separate] -- typeface names: Helvetica, Garamond, Arial, Futura
   grammar
     parts of speech
     grammar terms
     tenses
     sentence parts
-    pronouns
-    prepositions
-    conjunctions
-    interjections
-    irregular past tenses -- the words themselves: went, swam, caught, flew
-    irregular plurals -- the words themselves: mice, geese, cacti, oxen
-    figures of speech
-    poetry forms
+    pronouns [separate]
+    prepositions [separate]
+    conjunctions [separate]
+    interjections [separate]
+    irregular past tenses [separate] -- the words themselves: went, swam, caught, flew
+    irregular plurals [separate] -- the words themselves: mice, geese, cacti, oxen
+    figures of speech [separate]
+    poetry forms [separate]
   foreign words:
     hello around the world -- hola, bonjour, konnichiwa, jambo, kia ora
     thank you around the world -- gracias, merci, arigato, shukran, asante

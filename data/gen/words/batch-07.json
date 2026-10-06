@@ -142,7 +142,7 @@
 0
 ],
 [
-"vicuna",
+"vicuña",
 "",
 3,
 20,
@@ -419,6 +419,13 @@
 "",
 4,
 13,
+0
+],
+[
+"Pallas's cat",
+"",
+4,
+18,
 0
 ]
 ]
@@ -830,6 +837,13 @@
 3,
 32,
 0
+],
+[
+"gray squirrel",
+"grey squirrel",
+1,
+25,
+0
 ]
 ]
 },
@@ -1113,6 +1127,13 @@
 "",
 3,
 47,
+0
+],
+[
+"Pel's fishing owl",
+"",
+5,
+5,
 0
 ]
 ]
@@ -1622,6 +1643,34 @@
 2,
 18,
 0
+],
+[
+"Russell's viper",
+"",
+4,
+15,
+0
+],
+[
+"Brazilian wandering spider",
+"",
+3,
+12,
+0
+],
+[
+"eastern brown snake",
+"",
+3,
+12,
+0
+],
+[
+"duck-billed platypus",
+"",
+3,
+15,
+0
 ]
 ]
 },
@@ -1849,6 +1898,20 @@
 "",
 4,
 15,
+0
+],
+[
+"Daubenton's bat",
+"",
+5,
+8,
+0
+],
+[
+"thirteen-lined ground squirrel",
+"",
+5,
+5,
 0
 ]
 ]
@@ -2232,6 +2295,27 @@
 4,
 12,
 0
+],
+[
+"Swainson's hawk",
+"",
+4,
+10,
+0
+],
+[
+"Christmas Island red crab",
+"",
+3,
+10,
+0
+],
+[
+"ruby-throated hummingbird",
+"",
+4,
+12,
+0
 ]
 ]
 },
@@ -2427,8 +2511,8 @@
 0
 ],
 [
+"Colorado potato beetle",
 "Colorado beetle",
-"",
 4,
 15,
 0
@@ -2458,6 +2542,13 @@
 "tiger fish",
 "",
 4,
+15,
+0
+],
+[
+"Grévy's zebra",
+"",
+3,
 15,
 0
 ]
@@ -2681,6 +2772,20 @@
 3,
 31,
 0
+],
+[
+"Geoffroy's cat",
+"",
+5,
+8,
+0
+],
+[
+"spotted hyena",
+"",
+2,
+20,
+0
 ]
 ]
 },
@@ -2873,6 +2978,34 @@
 "",
 4,
 27,
+0
+],
+[
+"Dall's porpoise",
+"",
+4,
+10,
+0
+],
+[
+"Commerson's dolphin",
+"",
+4,
+8,
+0
+],
+[
+"black-and-white warbler",
+"",
+4,
+8,
+0
+],
+[
+"Holstein Friesian",
+"",
+4,
+10,
 0
 ]
 ]
@@ -3325,6 +3458,13 @@
 "",
 5,
 11,
+0
+],
+[
+"Père David's deer",
+"",
+5,
+8,
 0
 ]
 ]
@@ -4301,6 +4441,13 @@
 3,
 21,
 0
+],
+[
+"leaf-tailed gecko",
+"",
+4,
+8,
+0
 ]
 ]
 },
@@ -4549,6 +4696,13 @@
 "",
 3,
 27,
+0
+],
+[
+"Rüppell's vulture",
+"",
+4,
+8,
 0
 ]
 ]
@@ -5033,6 +5187,27 @@
 "",
 2,
 52,
+0
+],
+[
+"Thomson's gazelle",
+"",
+3,
+15,
+0
+],
+[
+"peregrine falcon",
+"",
+1,
+25,
+0
+],
+[
+"Mexican free-tailed bat",
+"",
+5,
+8,
 0
 ]
 ]
@@ -5734,7 +5909,7 @@
 0
 ],
 [
-"T rex",
+"T. rex",
 "",
 1,
 28,
@@ -6256,6 +6431,13 @@
 "",
 5,
 10,
+0
+],
+[
+"Tyrannosaurus rex",
+"",
+1,
+30,
 0
 ]
 ]
@@ -7051,6 +7233,13 @@
 "",
 5,
 11,
+0
+],
+[
+"Opisthocoelicaudia",
+"",
+5,
+5,
 0
 ]
 ]
@@ -8037,6 +8226,13 @@
 4,
 14,
 0
+],
+[
+"Jefferson's ground sloth",
+"",
+5,
+5,
+0
 ]
 ]
 },
@@ -8085,7 +8281,7 @@
 0
 ],
 [
-"Steller sea cow",
+"Steller's sea cow",
 "",
 4,
 13,
@@ -8309,7 +8505,7 @@
 0
 ],
 [
-"Haast eagle",
+"Haast's eagle",
 "",
 4,
 12,
@@ -8404,6 +8600,34 @@
 "",
 5,
 10,
+0
+],
+[
+"Schomburgk's deer",
+"",
+5,
+5,
+0
+],
+[
+"Bachman's warbler",
+"",
+5,
+8,
+0
+],
+[
+"Bramble Cay melomys",
+"",
+5,
+5,
+0
+],
+[
+"Japanese sea lion",
+"",
+5,
+8,
 0
 ]
 ]
@@ -9060,7 +9284,7 @@
 ],
 [
 "armor plate",
-"",
+"armour plate",
 4,
 15,
 0
@@ -9953,8 +10177,8 @@
 0
 ],
 [
-"eyrie",
 "aerie",
+"eyrie",
 3,
 18,
 0
@@ -12673,6 +12897,13 @@
 5,
 20,
 0
+],
+[
+"opposable thumb",
+"",
+4,
+15,
+0
 ]
 ]
 },
@@ -14166,6 +14397,13 @@
 5,
 12,
 0
+],
+[
+"veterinary surgeon",
+"",
+2,
+25,
+0
 ]
 ]
 },
@@ -14257,7 +14495,7 @@
 ],
 [
 "hematophage",
-"",
+"haematophage",
 5,
 10,
 0

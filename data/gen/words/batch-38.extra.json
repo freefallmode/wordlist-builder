@@ -1,0 +1,37 @@
+{
+ "separate": [
+  "expedition ships",
+  "astronauts",
+  "famous voyages",
+  "discoveries",
+  "silk road",
+  "spice trade",
+  "polynesian voyaging",
+  "age of sail",
+  "pirate ships",
+  "pirate places",
+  "pirate crew",
+  "famous battles",
+  "cold war",
+  "peace words"
+ ],
+ "removed": [
+  "Pirates of the Caribbean (pirates)",
+  "One Piece (pirates)",
+  "Black Sails (pirates)",
+  "Captain Pugwash (pirates)",
+  "Jack Sparrow (famous pirates)",
+  "Barbossa (famous pirates)",
+  "Dread Pirate Roberts (famous pirates)",
+  "Captain Pugwash (famous pirates)",
+  "Black Pearl (pirate ships)",
+  "Going Merry (pirate ships)",
+  "Thousand Sunny (pirate ships)",
+  "Shipwreck Cove (pirate places)",
+  "Isla de Muerta (pirate places)",
+  "Skull Island (pirate places)",
+  "hook (pirates)",
+  "Jolly Roger (pirate ships)"
+ ],
+ "notes": "Fiction removed: Pirates of the Caribbean, One Piece, Black Sails, Captain Pugwash, The Princess Bride and King Kong items. Kept public-domain fiction: Peter Pan (Captain Hook, Smee, Neverland), Treasure Island (Long John Silver, Captain Flint, Hispaniola, Walrus), Captain Blood (1922), The Pirates of Penzance, and myth/folklore (Flying Dutchman, Odyssey, Argo, Sinbad, King Arthur). 'hook' was dropped from pirates and 'Jolly Roger' (Hook's ship) from pirate ships because pirates must not repeat its sub-themes' members; Jolly Roger stays in pirates as the flag. 'Star Wars program' (cold war) kept: it is the real nickname of SDI, not the film. Hokulea is now \"Hōkūle'a\" with an ASCII apostrophe standing in for the Hawaiian okina; Maori canoe names use macrons (Tākitimu, Mātaatua, Kurahaupō, Taputapuātea), but kumara, Hawaii and Aotearoa stay plain. Names that English reference works write without diacritics stay plain: Vo Nguyen Giap, Dien Bien Phu, Bao Dai, Liliuokalani, Ain Jalut. 'Pourquoi-Pas' stays without its '?' because '?' is not an allowed character. St. Albans, St. Mihiel and V-E Day/V-J Day use the American form, with the British form in uk. Separate themes: the parents exploration and polar exploration are not in this batch. I assumed they are playable. 'famous battles' is separate from 'wars and battles' because bare place names (Trenton, Sedan) do not read as war; its child battle themes are fine under it. The parent 'famous people' has sub-themes outside this batch (us presidents, inventors, reformers, famous women in history), so I could not check it for overlap with them."
+}

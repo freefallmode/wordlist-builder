@@ -44,7 +44,7 @@
     port cities [property]
     holy cities -- pilgrimage cities: Mecca, Jerusalem, Varanasi, Lhasa, Lourdes
     silk road cities [region:Asia] -- Samarkand, Bukhara, Kashgar, Xi'an, Merv, Tabriz
-    ancient cities -- cities of antiquity: Troy, Babylon, Carthage, Sparta, Ur, Petra
+    ancient cities [separate] -- cities of antiquity: Troy, Babylon, Carthage, Sparta, Ur, Petra
   regions
     us states [region:North America]
     canadian provinces [region:North America] -- provinces and territories
@@ -57,7 +57,7 @@
     german states [region:Europe]
     indian states [region:Asia]
     european holiday regions [region:Europe] -- Tuscany, Provence, Algarve, Cotswolds, Amalfi Coast, Dalmatia
-    turkish resorts [region:Middle East] -- Bodrum, Antalya, Fethiye, Cappadocia, Marmaris, Kas
+    turkish resorts [region:Middle East] [separate] -- Bodrum, Antalya, Fethiye, Cappadocia, Marmaris, Kas
     wine regions [adult] -- Bordeaux, Champagne, Rioja, Napa, Tuscany, Barossa
   famous natural features
     mountain ranges
@@ -72,8 +72,8 @@
       pacific islands [region:Oceania]
       indonesian islands [region:Asia]
     famous beaches -- Bondi, Copacabana, Waikiki, Malibu, Ipanema, Whitehaven
-    peninsulas -- Iberian, Arabian, Korean, Crimea, Yucatan, Jutland, Sinai
-    antarctic places [region:Antarctica] -- South Pole, Ross Sea, Weddell Sea, McMurdo, Mount Erebus, Vinson Massif
+    peninsulas [separate] -- Iberian, Arabian, Korean, Crimea, Yucatan, Jutland, Sinai
+    antarctic places [region:Antarctica] [separate] -- South Pole, Ross Sea, Weddell Sea, McMurdo, Mount Erebus, Vinson Massif
   famous waters
     famous rivers
       african rivers [region:Africa]
@@ -90,9 +90,9 @@
     famous buildings
     famous bridges
     famous towers
-    famous statues
+    famous statues [separate]
     famous palaces
-    famous castles -- named castles: Windsor, Neuschwanstein, Edinburgh, Bran, Himeji
+    famous castles [separate] -- named castles: Windsor, Neuschwanstein, Edinburgh, Bran, Himeji
     ancient wonders -- the Seven Wonders of the Ancient World and the New Seven Wonders
     famous squares -- Times Square, Red Square, Trafalgar, Tiananmen, Taksim, Zocalo
     famous streets -- Broadway, Champs-Elysees, Fifth Avenue, Wall Street, Istiklal, Las Ramblas
@@ -120,8 +120,8 @@
       rome landmarks [region:Europe]
       new york landmarks [region:North America]
   maps and globes
-    continents and supercontinents -- Africa, Asia, Europe, Eurasia, Oceania, Pangaea, Gondwana, Laurasia
-    world regions -- Middle East, Far East, Balkans, Scandinavia, Caribbean, Patagonia
+    continents and supercontinents [separate] -- Africa, Asia, Europe, Eurasia, Oceania, Pangaea, Gondwana, Laurasia
+    world regions [separate] -- Middle East, Far East, Balkans, Scandinavia, Caribbean, Patagonia
     lines on a map
     map words
     kinds of maps -- road map, atlas, globe, chart, street plan, relief map
@@ -185,16 +185,16 @@
     east asian buildings [region:Asia] -- pagoda, stupa, shrine, teahouse, dojo, ryokan, hanok
   streets and roads
     road types
-    street names -- common generic names: Main, High, Church, Elm, Park, Station, Mill
+    street names [separate] -- common generic names: Main, High, Church, Elm, Park, Station, Mill
     street furniture
     traffic words
     parts of a road
-    parts of a town
-    kinds of settlements -- hamlet, village, town, city, suburb, metropolis, borough
+    parts of a town [separate]
+    kinds of settlements [separate] -- hamlet, village, town, city, suburb, metropolis, borough
   national symbols
-    national animals
-    national flowers
-    national dishes
-    national sports
-    national instruments
-    national costumes
+    national animals [separate]
+    national flowers [separate]
+    national dishes [separate]
+    national sports [separate]
+    national instruments [separate]
+    national costumes [separate]

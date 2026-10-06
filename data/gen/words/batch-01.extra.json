@@ -1,0 +1,20 @@
+{
+ "separate": [
+  "flours",
+  "ice cream flavors",
+  "chocolates",
+  "toppings",
+  "sweeteners",
+  "breakfast cereals",
+  "chili peppers",
+  "asian sauces",
+  "salad dressings",
+  "oils and vinegars",
+  "fast food",
+  "snacks"
+ ],
+ "removed": [
+  "Superman (ice cream flavors)"
+ ],
+ "notes": "Separate rationale: flours, asian sauces, salad dressings, oils and vinegars are modifier words (plain, bread, fish, plum, French, Greek, olive, malt) meaningless under their parent; ice cream flavors (mango, coffee, honey) and chocolates (dark, milk, white, Lindt) do not read as desserts; toppings and sweeteners are ingredients, not desserts; breakfast cereals are mostly brand names (Froot Loops) that do not read as pasta/rice/grains; chili peppers has many place-name varieties (Anaheim, Fresno, Hatch, Aleppo) that do not read as herbs/spices; fast food is largely chain names and snacks are brands/packaged snacks, neither reads as 'dishes'. Borderline kept not separate: dumplings under pasta, rice and grains; spreads, pickles and dips under herbs, spices and sauces; noodle dishes under noodles. Superman removed as a DC character name even though it is a real Midwest ice cream flavour; restore if brand-named flavours of that kind are acceptable. Kept as brands, not fiction: Count Chocula, Dagwood (generic sandwich term), Gatsby (sandwich; novel is public domain), Lady Baltimore, Monte Cristo. Spelling choices: spaetzle, aebleskiver, kakigori, nuoc cham, banh mi, pho, bun cha, lechon kept plain as English references usually do; 'nduja given its leading apostrophe to match batch-00; croque monsieur/madame hyphenated per Merriam-Webster; arbol renamed to 'chile de árbol', somloi to 'somlói galuska', upside-down to 'upside-down cake', Sour Patch to 'Sour Patch Kids', Jello salad to 'Jell-O salad', PBJ to 'PB&J'. The fast food flag no longer mentions apostrophes; the pasta dishes flag about 'cacio e pepe' was dropped. Carl's Jr written without its period (period not an allowed character). 'spotted dick' left adult=0 as before; consider adult=1. Some added items may overlap themes in other batches (pastel de nata, dulce de leche, fish and chips)."
+}

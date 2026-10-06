@@ -3,9 +3,8 @@ andean crops: theme name says Andean but the note says first grown in South Amer
 desserts and sweets: most desserts belong to the sub-themes or to cakes, cookies, pies and pastries; these are the generic desserts left over (brownie, mousse, crumble, cobbler...)
 chocolates: read as boxed and filled chocolates, chocolate types (dark, milk, white) and chocolate makers; chocolate bars are in candy
 pasta, rice and grains: members left after the sub-themes are mainly rice varieties and grain staples (couscous, polenta, grits)
-pasta dishes: "cacio e pepe" kept as three words because the theme note names it
 herbs, spices and sauces: almost every member belongs to a sub-theme; only general seasonings that are not herbs, spices, blends, chilies, sauces, dips, spreads, pickles or oils (salts, stock, MSG, pastes)
-fast food: mixes fast food items and fast food chains; chains with apostrophes (McDonalds, Wendys, Arbys, Dominos) left out
+fast food: mixes fast food items and fast food chains
 cuisines: empty: the nine regional sub-themes cover every cuisine
 african food: residual is Central and Southern African (outside South Africa) dishes; Zimbabwe, Zambia, Mozambique, Madagascar could arguably count as East African
 oceanian food: residual is New Zealand food (not covered by the three sub-themes)
@@ -48,15 +47,12 @@ boats and ships: core ship and voyage words not covered by the sub-themes; nauti
 trains: all members belong to its sub-themes
 us national parks: closed set of all 63 US national parks; several are three-plus-word names (Great Smoky Mountains, Great Sand Dunes, New River Gorge, Gates of the Arctic, Wrangell-St Elias); Black Canyon is the short form of Black Canyon of the Gunnison
 african national parks: Masai Mara, Ngorongoro, Okavango, Samburu, Central Kalahari and Hluhluwe-iMfolozi left out: they are reserves or conservation areas, not national parks
-south american travel: note's Ruta 40 has a digit and cannot be written; left out
-american road trip: note's Route 66 has a digit and cannot be written; left out
 body parts: only 10 members left; most body parts belong to the sub-themes
 cold weather ailments: small set: about 10 core members (frostbite, hypothermia, chilblains...), the rest are milder cold-related complaints
 medicine: leftover general medicine words (treatments, practices, concepts); most specific medical vocabulary belongs to the sub-themes
-medical specialties: keeps five standard names longer than 12 letters (gastroenterology, endocrinology, ophthalmology, anesthesiology, otolaryngology)
 doctor's office: surgery is the British sense (a GP's premises)
 illegal drugs: street slang (speed, blow, ice, snow, horse, junk) only reads as a drug in context; ketamine and fentanyl are legal medicines when prescribed
-african remedies: only about 30 good members; the note's devil's claw needs an apostrophe, so its other common name grapple plant is used
+african remedies: only about 30 good members
 oceanian remedies: about 40 members, many familiarity 4-5
 babies and birth: most members belong in the six sub-themes; these are the leftovers (people, events, records)
 fitness: most members belong in the seven sub-themes; these are the leftovers (places, people, clothing, gadgets, supplements)
@@ -84,7 +80,7 @@ combat sports: only sport names not covered by martial arts, boxing, wrestling, 
 athletics and gymnastics: only combined events and a few general words remain once track, field, gymnastics, running, triathlon and olympic sports are taken
 sports gear and places: empty: its sub-themes (equipment, venues, officials, clothing, scoring words, sports verbs) cover everything
 sporting events: empty: its sub-themes (famous events, tournament words, stadiums, host cities, trophies, famous races) cover everything
-video games: members are game titles and characters only; genres, terms, hardware, arcade titles, controls, esports and pickups are in the sub-themes
+video games: members are video game companies and studios; game titles and characters were removed (no trademarked fiction); genres, terms, hardware, arcade, controls, esports and pickups are in the sub-themes
 afl clubs: closed set: 18 current clubs plus Tasmania, historical clubs and common nicknames
 instruments: nearly every instrument belongs to a sub-theme; only free-reed and novelty instruments are left here (14 members)
 music styles: the sub-themes cover nearly all styles; only broad categories of music are left here (17 members)
@@ -94,15 +90,15 @@ dance: the sub-themes cover almost everything; these are general dance words (pe
 folk dances: the regional sub-themes cover nearly all folk dances; these are generic folk-dance types and dances from regions without a sub-theme (Melanesia, Australia, Caribbean)
 art: sub-themes cover most art vocabulary; this list holds art forms outside them (printmaking, crafts, street and digital art) and roles in the art world
 painters: covers baroque, rococo, neoclassical, romantic, realist, Pre-Raphaelite, British, American and Japanese painters and the Post-Impressionists; Renaissance, Impressionist, modern, Dutch, Spanish and Latin American painters are in sub-themes
-shakespeare plays: Plays named after their title character (Hamlet, Macbeth, Othello, King Lear, Julius Caesar, Richard III, Henry V, Coriolanus, Titus Andronicus, Pericles, Cymbeline, King John...) are listed under the sub-theme shakespeare characters. Titles with apostrophes (A Midsummer Night's Dream, The Winter's Tale, Love's Labour's Lost, All's Well That Ends Well) are left out; consider allowing an apostrophe or a short form like "Midsummer".
+shakespeare plays: Plays named after their title character (Hamlet, Macbeth, Othello, King Lear, Julius Caesar, Richard III, Henry V, Coriolanus, Titus Andronicus, Pericles, Cymbeline, King John...) are listed under the sub-theme shakespeare characters.
 ottoman sultans: only about 16 distinct sultan names exist (many sultans share names); epithet forms added for the best-known
-archaeology: only archaeologists and famous fictional archaeologists: every other archaeology word belongs to one of the nine sub-themes
+archaeology: only archaeologists: every other archaeology word belongs to one of the nine sub-themes
 ancient sites: only sites outside the seven regional sub-themes: North America outside Mesoamerica, non-Maya and non-Aztec Mesoamerica, Oceania
 mythology: mythology terms plus gods of pantheons with no sub-theme (Slavic, Canaanite, Persian, Maya, Hawaiian, Finnish, Native American)
 inca gods: about 20 members; most beyond the first dozen are specialist
 sea monsters: about 24 well-attested members
 labors of hercules: closed set: exactly the twelve labors; the last four use their usual multi-word titles (mares of Diomedes, girdle of Hippolyta, cattle of Geryon, apples of the Hesperides)
-turkish folklore: about 30 members; most are specialist (familiarity 4-5); names written without Turkish diacritics (Keloglan, Karagoz, Sahmeran)
+turkish folklore: about 30 members; most are specialist (familiarity 4-5); names use their Turkish letters (Keloğlan, Karagöz, Şahmeran)
 revolutions: written as the qualifier only (Velvet, Glorious, Cuban) so the word does not give away the theme; many qualifiers are also ordinary words, so check collisions with other themes
 dynasties: non-Chinese, non-European ruling dynasties written as the dynasty name (Abbasid, Joseon, Tokugawa); European royal houses go to royal houses, empire names to empires
 empires: written as the qualifier only (Ottoman, Mongol, Aztec), like the revolutions theme
@@ -114,7 +110,7 @@ computers: parent theme: holds kinds of computer, famous machines and pioneers n
 tech companies: parent theme: only companies outside Silicon Valley, Asia and Europe (Seattle, Texas, Canada, Australia, Israel...)
 gadgets: parent theme: sub-themes cover most gadgets; these are the leftovers (34 or so)
 engineering: parent theme: general engineering terms, structures and workshop items not covered by sub-themes
-languages: only constructed and fictional languages are left; every natural language belongs to a sub-theme
+languages: only constructed languages are left; every natural language belongs to a sub-theme
 grammar: the sub-themes cover every grammar member; nothing left for the parent
 hidden animals: the note's example pOWLer hides an owl, which belongs to the sub-theme hidden birds
 sounds like a letter: a small closed set: only 26 members, several rare (ell, wye, cay)

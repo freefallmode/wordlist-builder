@@ -1,0 +1,23 @@
+{
+ "separate": [
+  "hair",
+  "skin words",
+  "blood words",
+  "teeth",
+  "body systems",
+  "sight words",
+  "hearing words",
+  "smell words",
+  "touch words",
+  "eye parts",
+  "ear parts",
+  "smelly things",
+  "allergies",
+  "injuries",
+  "symptoms"
+ ],
+ "removed": [
+  "Fu Manchu (hair)"
+ ],
+ "notes": "Resolved parent/sub-theme overlaps: removed temple (body parts), neck (joints), bangs and fringe (hair), neuron, synapse and spinal cord (brain parts), nose (smell words), insomnia (symptoms), gout (historic diseases). Fu Manchu (hair) removed: named after a novel character still under copyright in places, and a dated stereotype. Down syndrome gets uk \"Down's syndrome\". Kept E coli, C diff and St Vitus'/St Anthony's/St John's without periods since the checker rejects '.'; the standard forms are E. coli, C. diff, St. John's wort. Kept COVID (usual name) rather than COVID-19. Skipped 20/20 vision (slash not allowed). Separate: hair, skin words (shampoo, tattoo, acne are not body parts); blood words and teeth (transfusion, braces, filling are not 'inside the body'); body systems (adjectives like nervous, digestive); all senses sub-themes (glance, noise, soft, retina, hammer, garlic do not read as senses); allergies, injuries, symptoms (peanut, bruise, cough are not illnesses). Not separate: face, hands and feet, arms and legs, torso, joints, paired body parts, hairstyles, bones, organs, muscles, brain parts, hormones, common/childhood/historic/tropical/cold weather illnesses, infections, medicines."
+}

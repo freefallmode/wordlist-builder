@@ -1,0 +1,11 @@
+{
+ "separate": [
+  "pizza styles",
+  "pizza toppings",
+  "kebab types",
+  "turkish drinks",
+  "south american drinks"
+ ],
+ "removed": [],
+ "notes": "No trademarked fiction found (brands like Vegemite, Tim Tam, Inca Kola kept as real brands; South African 'Gatsby' sandwich kept, it is a real dish). Accents: followed the batch notes, so Turkish dishes now use Turkish letters (döner, köfte, çay, gözleme, börek...), but English-established forms stay plain: kebab, shish, raki, Iskender, manti, crepe, aioli, smorgasbord, weisswurst. Vietnamese dishes left without diacritics (pho, banh mi, bun cha...) because the notes and dictionaries use plain forms; say if you want Vietnamese diacritics added for consistency with Turkish. 'General Tso' became \"General Tso's chicken\". Separate: pizza styles (New York, Chicago, Hawaiian, California do not read as dishes), pizza toppings (ingredients, not dishes), kebab types (Adana, Urfa, Bursa, Tokat are city names), turkish drinks and south american drinks (drinks under food). Bush tucker kept as not separate, though kangaroo, emu, possum, echidna read as animals out of context. No apostrophe- or digit-stripped words were found except the additions listed; 'St Louis' (pizza styles) left without a period since periods are not allowed."
+}

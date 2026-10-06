@@ -16,8 +16,8 @@ Food & Drink:
     beans and pulses
     onion family
     cabbage family
-    mushrooms
-    andean crops [region:South America] -- first grown in South America: potato, quinoa, cassava, oca, peanut
+    mushrooms [separate]
+    andean crops [region:South America] [separate] -- first grown in South America: potato, quinoa, cassava, oca, peanut
   meat and seafood
     cuts of meat
     poultry
@@ -26,9 +26,9 @@ Food & Drink:
     cured meats
     shellfish
     fish to eat
-    seafood dishes -- fish and chips, clam chowder, crab cakes, lobster roll, calamari, scampi
-    barbecue foods -- brisket, ribs, pulled pork, burnt ends, wings, corn on the cob
-    butcher shop [place]
+    seafood dishes [separate] -- fish and chips, clam chowder, crab cakes, lobster roll, calamari, scampi
+    barbecue foods [separate] -- brisket, ribs, pulled pork, burnt ends, wings, corn on the cob
+    butcher shop [place] [separate]
   dairy and eggs
     cheeses
       hard cheeses
@@ -37,10 +37,10 @@ Food & Drink:
       french cheeses [region:Europe]
       italian cheeses [region:Europe]
     milk products
-    types of milk -- whole, skim, oat, almond, soy, goat, buttermilk, condensed
-    egg dishes
-    cheese dishes -- fondue, raclette, mac and cheese, grilled cheese, quesadilla, welsh rarebit
-    cheesemaking words -- curd, whey, rennet, rind, wheel, brine, aging, culture
+    types of milk [separate] -- whole, skim, oat, almond, soy, goat, buttermilk, condensed
+    egg dishes [separate]
+    cheese dishes [separate] -- fondue, raclette, mac and cheese, grilled cheese, quesadilla, welsh rarebit
+    cheesemaking words [separate] -- curd, whey, rennet, rind, wheel, brine, aging, culture
   breads and baking
     breads
       flatbreads -- pita, naan, tortilla, lavash, chapati, injera, pide, yufka, arepa
@@ -50,17 +50,17 @@ Food & Drink:
     cookies
     pies and tarts
     baking ingredients
-    flours -- plain, self-rising, bread, whole wheat, rye, spelt, almond, rice, buckwheat
+    flours [separate] -- plain, self-rising, bread, whole wheat, rye, spelt, almond, rice, buckwheat
   desserts and sweets
-    ice cream flavors
+    ice cream flavors [separate]
     frozen desserts -- sorbet, gelato, sundae, popsicle, granita, frozen yogurt, kulfi
     puddings
     candy
-    chocolates
+    chocolates [separate]
     desserts of the world
       indian sweets [region:Asia] -- gulab jamun, jalebi, barfi, ladoo, rasgulla, kheer
-    toppings
-    sweeteners -- sugar, honey, maple syrup, agave, molasses, stevia, treacle, jaggery
+    toppings [separate]
+    sweeteners [separate] -- sugar, honey, maple syrup, agave, molasses, stevia, treacle, jaggery
   pasta, rice and grains
     pasta shapes
     pasta dishes -- carbonara, lasagna, bolognese, alfredo, cacio e pepe, puttanesca
@@ -68,34 +68,34 @@ Food & Drink:
       noodle dishes [region:Asia] -- pad thai, ramen, pho, chow mein, laksa, japchae, yakisoba
     rice dishes
     grains
-    breakfast cereals
+    breakfast cereals [separate]
     dumplings
   herbs, spices and sauces
     herbs
     spices
     spice blends
-    chili peppers
+    chili peppers [separate]
     sauces and condiments
       french sauces [region:Europe] -- béchamel, hollandaise, velouté, béarnaise, beurre blanc, mornay
-      asian sauces [region:Asia] -- soy, oyster, fish, hoisin, teriyaki, gochujang, ponzu, sambal
-      salad dressings -- ranch, vinaigrette, caesar, thousand island, honey mustard, green goddess
+      asian sauces [region:Asia] [separate] -- soy, oyster, fish, hoisin, teriyaki, gochujang, ponzu, sambal
+      salad dressings [separate] -- ranch, vinaigrette, caesar, thousand island, honey mustard, green goddess
     dips -- hummus, guacamole, salsa, tzatziki, baba ganoush, queso, raita
     spreads -- jam, marmalade, peanut butter, Nutella, Marmite, Vegemite, lemon curd, pâté
     pickles and preserves
-    oils and vinegars -- olive, sesame, canola, coconut, balsamic, malt, cider, rice vinegar
+    oils and vinegars [separate] -- olive, sesame, canola, coconut, balsamic, malt, cider, rice vinegar
   dishes
     soups
     stews -- goulash, chili, cassoulet, tagine, gumbo, bourguignon, stroganoff, hotpot
     salads
     sandwiches
-    fast food
+    fast food [separate]
     breakfast foods
-    snacks
+    snacks [separate]
     street food
     potato dishes -- fries, mashed, hash browns, gratin, rosti, latkes, tater tots, gnocchi
     savory pies -- shepherd's pie, pot pie, pork pie, quiche, pasty, empanada, tourtière, börek
-    pizza styles -- margherita, pepperoni, hawaiian, neapolitan, deep-dish, calzone, diavola
-    pizza toppings
+    pizza styles [separate] -- margherita, pepperoni, hawaiian, neapolitan, deep-dish, calzone, diavola
+    pizza toppings [separate]
   cuisines
     european food [region:Europe]
       italian food [region:Europe]
@@ -107,8 +107,8 @@ Food & Drink:
       eastern european food [region:Europe] -- pierogi, borscht, goulash, kielbasa, blini, pelmeni
     turkish food [region:Middle East]
       turkish breakfast [region:Middle East] -- simit, menemen, sucuk, beyaz peynir, kaymak, gözleme, çay
-      kebab types [region:Middle East] -- adana, urfa, iskender, döner, şiş, beyti, cağ kebab
-      turkish drinks [region:Middle East] -- çay, ayran, turkish coffee, salep, boza, şalgam, sherbet
+      kebab types [region:Middle East] [separate] -- adana, urfa, iskender, döner, şiş, beyti, cağ kebab
+      turkish drinks [region:Middle East] [separate] -- çay, ayran, turkish coffee, salep, boza, şalgam, sherbet
     middle eastern food [region:Middle East]
       meze [region:Middle East] -- small shared plates: hummus, tabbouleh, dolma, muhammara, falafel
       persian food [region:Middle East] -- tahdig, ghormeh sabzi, fesenjan, koobideh, ash reshteh
@@ -135,24 +135,24 @@ Food & Drink:
       peruvian food [region:South America] -- ceviche, lomo saltado, anticuchos, causa, ají de gallina
       brazilian food [region:South America] -- feijoada, pão de queijo, coxinha, moqueca, farofa, açaí
       argentinian food [region:South America] -- asado, empanadas, chimichurri, milanesa, choripán, locro
-      south american drinks [region:South America] -- non-alcoholic: mate, chicha morada, Inca Kola, guaraná
+      south american drinks [region:South America] [separate] -- non-alcoholic: mate, chicha morada, Inca Kola, guaraná
     north american food [region:North America]
       mexican food [region:North America]
       southern food [region:North America] -- US South: grits, fried chicken, hush puppies, collard greens, biscuits
       canadian food [region:North America] -- poutine, butter tarts, nanaimo bars, tourtière, bannock
   drinks
     hot drinks
-    teas
+    teas [separate]
     coffee drinks
-      coffee words -- bean, roast, grind, barista, crema, arabica, robusta, decaf, moka pot
+      coffee words [separate] -- bean, roast, grind, barista, crema, arabica, robusta, decaf, moka pot
     soft drinks
-    juices
+    juices [separate]
     asian drinks [region:Asia] -- non-alcoholic: bubble tea, matcha, lassi, chai, thai iced tea, teh tarik
     cocktails [adult]
     wines [adult]
       red wines [adult] -- grapes and styles: merlot, pinot noir, shiraz, malbec, chianti, rioja
       white wines [adult] -- chardonnay, sauvignon blanc, riesling, pinot grigio, chablis, sancerre
-      wine words [adult] -- vintage, cork, sommelier, tannin, bouquet, decant, cellar, terroir
+      wine words [adult] [separate] -- vintage, cork, sommelier, tannin, bouquet, decant, cellar, terroir
     beers [adult]
     spirits [adult]
       liqueurs [adult] -- amaretto, cointreau, limoncello, sambuca, chartreuse, triple sec
@@ -164,9 +164,9 @@ Food & Drink:
     kitchen utensils
     baking words
     ways to preserve food -- smoking, salting, pickling, canning, freezing, drying, curing, fermenting
-    in the pantry [place]
-    lunchbox [place]
-    picnic basket [place]
+    in the pantry [place] [separate]
+    lunchbox [place] [separate]
+    picnic basket [place] [separate]
   eating out:
     restaurant words
     kitchen brigade -- restaurant kitchen roles: head chef, sous chef, pastry chef, line cook, commis
@@ -216,8 +216,8 @@ Animals:
     parrots
     game birds
     colorful birds [property] -- birds known for bright plumage: peacock, toucan, macaw, kingfisher
-    bird body parts
-    birdwatching words
+    bird body parts [separate]
+    birdwatching words [separate]
   reptiles and amphibians
     snakes
       venomous snakes
@@ -236,16 +236,16 @@ Animals:
     tropical fish
     rays and eels
     deep sea fish
-    fish body parts
+    fish body parts [separate]
   sea life
     crustaceans
-    mollusks
+    mollusks [separate]
       cephalopods -- octopus, squid, cuttlefish, nautilus and their kinds
     sea mammals
       seals and sea lions
     reef life
     jellyfish and relatives
-    seaweeds
+    seaweeds [separate]
     tide pool life [place]
     ocean giants [property] -- the largest sea creatures: blue whale, whale shark, giant squid, manta ray
   insects and bugs
@@ -254,14 +254,14 @@ Animals:
     bees and wasps
     spiders
     garden bugs
-    insect body parts
+    insect body parts [separate]
     biting bugs [property] -- bugs that bite or suck blood: mosquito, flea, tick, bedbug
-    insect life cycle
+    insect life cycle [separate]
   domestic animals
     farm animals
     pets
       small pets
-      pet supplies
+      pet supplies [separate]
     dog breeds
       terriers
       hounds
@@ -269,18 +269,18 @@ Animals:
       herding dogs
       working dogs
       sporting dogs -- retrievers, spaniels, setters, pointers
-    cat breeds
-    cattle breeds
-    chicken breeds
-    sheep breeds
+    cat breeds [separate]
+    cattle breeds [separate]
+    chicken breeds [separate]
+    sheep breeds [separate]
     working animals -- animals that do jobs for people: guide dog, sled dog, ox, camel
   horses
-    horse breeds
-    pony breeds
-    horse colors
+    horse breeds [separate]
+    pony breeds [separate]
+    horse colors [separate]
     horse tack
-    parts of a horse
-    horse family -- horse, donkey, zebra, mule, onager, kiang
+    parts of a horse [separate]
+    horse family [separate] -- horse, donkey, zebra, mule, onager, kiang
   animals of the world:
     african animals [region:Africa]
       african birds [region:Africa]
@@ -294,9 +294,9 @@ Animals:
       southeast asian animals [region:Asia]
     australian animals [region:Oceania]
       australian birds [region:Oceania]
-      new zealand animals [region:Oceania]
+      new zealand animals [region:Oceania] [separate]
     antarctic animals [region:Antarctica]
-      penguins [region:Antarctica]
+      penguins [region:Antarctica] [separate]
     south american animals [region:South America]
       amazon animals [region:South America]
       andean animals [region:South America]
@@ -339,14 +339,14 @@ Animals:
     flying reptiles
     sea reptiles
     ice age animals
-    extinct animals
-    prehistoric periods
-    dinosaur words
+    extinct animals [separate]
+    prehistoric periods [separate]
+    dinosaur words [separate]
   animal words
     baby animals
     animal homes
     animal sounds
-    collective nouns
+    collective nouns [separate]
     male animals
     female animals
     animal body parts
@@ -362,10 +362,10 @@ Nature & Earth:
     fruit trees
     nut trees
     tropical trees
-    tree parts
-    types of wood
-    hedge plants -- shrubs and trees grown as hedges: privet, box, yew, hawthorn, beech, laurel
-    things that fall from trees [property] -- leaves, acorns, conkers, pine cones, sycamore keys, blossom, sap
+    tree parts [separate]
+    types of wood [separate]
+    hedge plants [separate] -- shrubs and trees grown as hedges: privet, box, yew, hawthorn, beech, laurel
+    things that fall from trees [property] [separate] -- leaves, acorns, conkers, pine cones, sycamore keys, blossom, sap
     trees of the world:
       african trees [region:Africa]
       asian trees [region:Asia]
@@ -374,22 +374,22 @@ Nature & Earth:
       north american trees [region:North America]
       mediterranean trees [region:Europe]
   forests
-    woodland [place]
-    forest floor [place] -- what lies on the ground in a forest: moss, leaf litter, fungi, ferns, beetles
-    woodland features -- clearing, glade, thicket, canopy, undergrowth, stump, trail
+    woodland [place] [separate]
+    forest floor [place] [separate] -- what lies on the ground in a forest: moss, leaf litter, fungi, ferns, beetles
+    woodland features [separate] -- clearing, glade, thicket, canopy, undergrowth, stump, trail
     forest types -- boreal, cloud forest, mangrove, temperate, coniferous, bamboo forest
-    famous forests -- Black Forest, Sherwood, Amazon, Daintree, Bialowieza, Sundarbans
-    forestry words -- logging, lumberjack, sawmill, timber, felling, coppice, plantation
-    wildfire words -- blaze, embers, firebreak, smoke jumper, backburn, bushfire
+    famous forests [separate] -- Black Forest, Sherwood, Amazon, Daintree, Bialowieza, Sundarbans
+    forestry words [separate] -- logging, lumberjack, sawmill, timber, felling, coppice, plantation
+    wildfire words [separate] -- blaze, embers, firebreak, smoke jumper, backburn, bushfire
   flowers
     garden flowers
     wildflowers
     spring flowers
     summer flowers
     tropical flowers
-    flower parts
+    flower parts [separate]
     bouquet flowers
-    edible flowers -- nasturtium, borage, violet, calendula, elderflower, squash blossom
+    edible flowers [separate] -- nasturtium, borage, violet, calendula, elderflower, squash blossom
     flowers with animal names [wordplay] -- flower names containing an animal: foxglove, larkspur, tiger lily, snapdragon, cowslip
     flowers of the world:
       anatolian flowers [region:Middle East] -- flowers native to or iconic in Turkey: tulip, hyacinth, crocus, cyclamen, fritillary
@@ -404,7 +404,7 @@ Nature & Earth:
     vines and climbers
     water plants
     poisonous plants
-    plant parts
+    plant parts [separate]
     grasses and reeds -- bamboo, pampas, papyrus, sedge, rush, cattail, marram, fescue
     medicinal plants -- aloe vera, ginseng, echinacea, valerian, witch hazel, feverfew, arnica
     weeds -- dandelion, nettle, thistle, bindweed, dock, chickweed, ragwort, knotweed
@@ -417,21 +417,21 @@ Nature & Earth:
     garden features
     garden pests
     garden furniture
-    garden birds
-    gardening verbs
+    garden birds [separate]
+    gardening verbs [separate]
     garden styles -- rock garden, cottage garden, kitchen garden, zen garden, knot garden, walled garden
-    famous gardens -- Kew, Versailles, Keukenhof, Giverny, Butchart, Kirstenbosch, Boboli
-    japanese garden [place] [region:Asia] -- koi, bonsai, stone lantern, raked gravel, moss, teahouse, stepping stones
+    famous gardens [separate] -- Kew, Versailles, Keukenhof, Giverny, Butchart, Kirstenbosch, Boboli
+    japanese garden [place] [region:Asia] [separate] -- koi, bonsai, stone lantern, raked gravel, moss, teahouse, stepping stones
   landscapes
-    mountain features
-    river features
+    mountain features [separate]
+    river features [separate]
     desert features
     ice features
-    cave features
+    cave features [separate]
     flat landscapes -- plain, plateau, prairie, steppe, tundra, moor, heath, fen, veld, pampas
-    bodies of water -- lake, pond, lagoon, reservoir, loch, tarn, fjord, bay, gulf, estuary, sound
-    scottish landscape words [region:Europe] -- glen, loch, ben, burn, brae, firth, strath, corrie, munro
-    cappadocia [place] [region:Middle East] -- fairy chimneys, hot air balloons, cave hotels, tuff, underground city, pigeon houses
+    bodies of water [separate] -- lake, pond, lagoon, reservoir, loch, tarn, fjord, bay, gulf, estuary, sound
+    scottish landscape words [region:Europe] [separate] -- glen, loch, ben, burn, brae, firth, strath, corrie, munro
+    cappadocia [place] [region:Middle East] [separate] -- fairy chimneys, hot air balloons, cave hotels, tuff, underground city, pigeon houses
   seashore:
     seashells -- cowrie, conch, scallop, cockle, whelk, clam, abalone, nautilus, limpet, sand dollar
     rock pool [place] -- crab, starfish, limpet, anemone, barnacle, periwinkle, shrimp, blenny
@@ -446,10 +446,10 @@ Nature & Earth:
     storms
     cloud types
     snow and ice
-    weather instruments
-    named winds -- mistral, sirocco, chinook, foehn, bora, harmattan, khamsin, santa ana, haboob
+    weather instruments [separate]
+    named winds [separate] -- mistral, sirocco, chinook, foehn, bora, harmattan, khamsin, santa ana, haboob
     forecast words -- front, pressure, isobar, humidity, outlook, dew point, wind chill, visibility
-    sky phenomena -- rainbow, aurora, halo, sundog, moonbow, mirage, green flash, crepuscular rays
+    sky phenomena [separate] -- rainbow, aurora, halo, sundog, moonbow, mirage, green flash, crepuscular rays
     antarctic weather [region:Antarctica] -- blizzard, whiteout, katabatic wind, diamond dust, polar night, sastrugi
   seasons in nature:
     signs of spring [property] -- buds, blossom, lambs, catkins, frogspawn, nesting, daffodils
@@ -462,15 +462,15 @@ Nature & Earth:
   rocks and minerals
     gemstones
       quartz varieties -- amethyst, citrine, rose quartz, agate, onyx, jasper, carnelian, tiger's eye
-    metals
+    metals [separate]
     rock types
       igneous rocks -- granite, basalt, obsidian, pumice, gabbro, andesite, rhyolite, tuff
       sedimentary rocks -- sandstone, limestone, shale, chalk, coal, conglomerate, flint, mudstone
     minerals
     birthstones
     building stones
-    mining words -- shaft, seam, ore, quarry, nugget, vein, lode, pickaxe, slag, smelter
-    gold rush words [region:North America] -- prospector, claim, panning, sluice, boomtown, forty-niner, Klondike
+    mining words [separate] -- shaft, seam, ore, quarry, nugget, vein, lode, pickaxe, slag, smelter
+    gold rush words [region:North America] [separate] -- prospector, claim, panning, sluice, boomtown, forty-niner, Klondike
   earth science
     natural disasters
     volcano words
@@ -502,8 +502,8 @@ Nature & Earth:
     renewable energy
     conservation words
     climate words
-    endangered animals
-    fossil fuels -- coal, oil, natural gas, peat, lignite, anthracite, petroleum, tar sands
+    endangered animals [separate]
+    fossil fuels [separate] -- coal, oil, natural gas, peat, lignite, anthracite, petroleum, tar sands
     green living words -- composting, upcycling, carpooling, reusable, refill, solar panel, rewilding
 Places & Geography:
   countries
@@ -552,7 +552,7 @@ Places & Geography:
     port cities [property]
     holy cities -- pilgrimage cities: Mecca, Jerusalem, Varanasi, Lhasa, Lourdes
     silk road cities [region:Asia] -- Samarkand, Bukhara, Kashgar, Xi'an, Merv, Tabriz
-    ancient cities -- cities of antiquity: Troy, Babylon, Carthage, Sparta, Ur, Petra
+    ancient cities [separate] -- cities of antiquity: Troy, Babylon, Carthage, Sparta, Ur, Petra
   regions
     us states [region:North America]
     canadian provinces [region:North America] -- provinces and territories
@@ -565,7 +565,7 @@ Places & Geography:
     german states [region:Europe]
     indian states [region:Asia]
     european holiday regions [region:Europe] -- Tuscany, Provence, Algarve, Cotswolds, Amalfi Coast, Dalmatia
-    turkish resorts [region:Middle East] -- Bodrum, Antalya, Fethiye, Cappadocia, Marmaris, Kas
+    turkish resorts [region:Middle East] [separate] -- Bodrum, Antalya, Fethiye, Cappadocia, Marmaris, Kas
     wine regions [adult] -- Bordeaux, Champagne, Rioja, Napa, Tuscany, Barossa
   famous natural features
     mountain ranges
@@ -580,8 +580,8 @@ Places & Geography:
       pacific islands [region:Oceania]
       indonesian islands [region:Asia]
     famous beaches -- Bondi, Copacabana, Waikiki, Malibu, Ipanema, Whitehaven
-    peninsulas -- Iberian, Arabian, Korean, Crimea, Yucatan, Jutland, Sinai
-    antarctic places [region:Antarctica] -- South Pole, Ross Sea, Weddell Sea, McMurdo, Mount Erebus, Vinson Massif
+    peninsulas [separate] -- Iberian, Arabian, Korean, Crimea, Yucatan, Jutland, Sinai
+    antarctic places [region:Antarctica] [separate] -- South Pole, Ross Sea, Weddell Sea, McMurdo, Mount Erebus, Vinson Massif
   famous waters
     famous rivers
       african rivers [region:Africa]
@@ -598,9 +598,9 @@ Places & Geography:
     famous buildings
     famous bridges
     famous towers
-    famous statues
+    famous statues [separate]
     famous palaces
-    famous castles -- named castles: Windsor, Neuschwanstein, Edinburgh, Bran, Himeji
+    famous castles [separate] -- named castles: Windsor, Neuschwanstein, Edinburgh, Bran, Himeji
     ancient wonders -- the Seven Wonders of the Ancient World and the New Seven Wonders
     famous squares -- Times Square, Red Square, Trafalgar, Tiananmen, Taksim, Zocalo
     famous streets -- Broadway, Champs-Elysees, Fifth Avenue, Wall Street, Istiklal, Las Ramblas
@@ -628,8 +628,8 @@ Places & Geography:
       rome landmarks [region:Europe]
       new york landmarks [region:North America]
   maps and globes
-    continents and supercontinents -- Africa, Asia, Europe, Eurasia, Oceania, Pangaea, Gondwana, Laurasia
-    world regions -- Middle East, Far East, Balkans, Scandinavia, Caribbean, Patagonia
+    continents and supercontinents [separate] -- Africa, Asia, Europe, Eurasia, Oceania, Pangaea, Gondwana, Laurasia
+    world regions [separate] -- Middle East, Far East, Balkans, Scandinavia, Caribbean, Patagonia
     lines on a map
     map words
     kinds of maps -- road map, atlas, globe, chart, street plan, relief map
@@ -693,19 +693,19 @@ Places & Geography:
     east asian buildings [region:Asia] -- pagoda, stupa, shrine, teahouse, dojo, ryokan, hanok
   streets and roads
     road types
-    street names -- common generic names: Main, High, Church, Elm, Park, Station, Mill
+    street names [separate] -- common generic names: Main, High, Church, Elm, Park, Station, Mill
     street furniture
     traffic words
     parts of a road
-    parts of a town
-    kinds of settlements -- hamlet, village, town, city, suburb, metropolis, borough
+    parts of a town [separate]
+    kinds of settlements [separate] -- hamlet, village, town, city, suburb, metropolis, borough
   national symbols
-    national animals
-    national flowers
-    national dishes
-    national sports
-    national instruments
-    national costumes
+    national animals [separate]
+    national flowers [separate]
+    national dishes [separate]
+    national sports [separate]
+    national instruments [separate]
+    national costumes [separate]
 Travel & Transport:
   cars
     car brands
@@ -716,33 +716,33 @@ Travel & Transport:
     car parts
       dashboard items -- things on or in a car dashboard: speedometer, odometer, glove box, fuel gauge
     car types
-      famous car models -- named models: Model T, Beetle, Mustang, Mini, Corvette, Corolla
+      famous car models [separate] -- named models: Model T, Beetle, Mustang, Mini, Corvette, Corolla
     driving words
     motor racing
-      famous race tracks -- Monza, Silverstone, Daytona, Le Mans, Suzuka, Indianapolis
+      famous race tracks [separate] -- Monza, Silverstone, Daytona, Le Mans, Suzuka, Indianapolis
     road signs
-    gas station [place]
+    gas station [place] [separate]
     parking words
   public transportation
     bus types
-    on a bus [place]
+    on a bus [place] [separate]
     ticket words -- fare, pass, one-way, round-trip, stub, validate
     commuting words
     taxis of the world -- cab, tuk-tuk, jeepney, matatu, dolmus, pedicab, water taxi
-    cable cars and lifts -- cable car, gondola, chairlift, funicular, T-bar, aerial tram
+    cable cars and lifts [separate] -- cable car, gondola, chairlift, funicular, T-bar, aerial tram
   air travel
     aircraft types
     plane parts
     airport words
     flight crew
-    airlines
+    airlines [separate]
       european airlines [region:Europe]
       asian airlines [region:Asia]
       middle eastern airlines [region:Middle East]
     flying machines
-    famous airports -- Heathrow, JFK, Changi, O'Hare, Schiphol, Narita
+    famous airports [separate] -- Heathrow, JFK, Changi, O'Hare, Schiphol, Narita
     in-flight words -- tray table, overhead bin, aisle seat, seatbelt sign, turbulence
-    aircraft makers -- Boeing, Airbus, Embraer, Cessna, Lockheed, Antonov
+    aircraft makers [separate] -- Boeing, Airbus, Embraer, Cessna, Lockheed, Antonov
   boats and ships
     boat types
       small boats -- canoe, kayak, dinghy, rowboat, punt, raft, skiff
@@ -752,9 +752,9 @@ Travel & Transport:
     ship parts
     sailing words
     ports and harbors -- parts of a harbor: dock, pier, quay, wharf, jetty, marina, berth
-    famous ships
-    knots -- knots you tie: bowline, reef knot, clove hitch, sheepshank
-    famous canals -- Suez, Panama, Erie, Kiel, Corinth, Grand Canal
+    famous ships [separate]
+    knots [separate] -- knots you tie: bowline, reef knot, clove hitch, sheepshank
+    famous canals [separate] -- Suez, Panama, Erie, Kiel, Corinth, Grand Canal
     nautical directions -- port, starboard, bow, stern, aft, leeward, windward
     ship crew -- captain, first mate, bosun, deckhand, purser, helmsman
   trains
@@ -762,11 +762,11 @@ Travel & Transport:
     parts of a train
     railway words
     station words
-    famous trains
+    famous trains [separate]
       high-speed trains -- Shinkansen, TGV, ICE, AVE, Eurostar, Acela, KTX
       famous locomotives -- Flying Scotsman, Mallard, Rocket, Big Boy
-    metro systems -- names of city rail systems: Tube, U-Bahn, BART, MTR, the El, Marmaray
-    famous train stations -- Grand Central, King's Cross, Gare du Nord, Haydarpasa, Shinjuku
+    metro systems [separate] -- names of city rail systems: Tube, U-Bahn, BART, MTR, the El, Marmaray
+    famous train stations [separate] -- Grand Central, King's Cross, Gare du Nord, Haydarpasa, Shinjuku
     railroad jobs -- conductor, engineer, porter, signalman, stoker, brakeman
   bikes and boards:
     bicycle parts
@@ -778,26 +778,26 @@ Travel & Transport:
     skateboard tricks
     scooters and skates -- kick scooter, roller skates, inline skates, skateboard, hoverboard, unicycle
   journeys -- words for a trip: voyage, trek, tour, excursion, expedition, outing, odyssey
-    kinds of travelers -- tourist, backpacker, nomad, pilgrim, commuter, globetrotter, hitchhiker
-    travel verbs -- depart, arrive, board, embark, roam, wander, commute, hitchhike
-    famous routes -- Silk Road, Route 66, Camino de Santiago, Pan-American Highway, Spice Route
-    animal-powered travel -- camel, mule, dog sled, ox cart, elephant, llama, horse and buggy
-    giving directions -- turn left, go straight, U-turn, next exit, roundabout, two blocks
-    road trip words -- detour, rest stop, mileage, carpool, motel, snacks, playlist, odometer, convoy
+    kinds of travelers [separate] -- tourist, backpacker, nomad, pilgrim, commuter, globetrotter, hitchhiker
+    travel verbs [separate] -- depart, arrive, board, embark, roam, wander, commute, hitchhike
+    famous routes [separate] -- Silk Road, Route 66, Camino de Santiago, Pan-American Highway, Spice Route
+    animal-powered travel [separate] -- camel, mule, dog sled, ox cart, elephant, llama, horse and buggy
+    giving directions [separate] -- turn left, go straight, U-turn, next exit, roundabout, two blocks
+    road trip words [separate] -- detour, rest stop, mileage, carpool, motel, snacks, playlist, odometer, convoy
   accommodation -- places to stay: hotel, motel, hostel, inn, B&B, campsite, guesthouse
-    hotel [place]
-    hotel staff
-    room types
+    hotel [place] [separate]
+    hotel staff [separate]
+    room types [separate]
     vacation homes -- villa, chalet, cabin, cottage, condo, bungalow, timeshare
-    famous hotels -- Ritz, Savoy, Plaza, Waldorf Astoria, Burj Al Arab, Raffles, Pera Palace
-    hotel chains -- Hilton, Marriott, Hyatt, Sheraton, Holiday Inn, Ibis, Radisson
+    famous hotels [separate] -- Ritz, Savoy, Plaza, Waldorf Astoria, Burj Al Arab, Raffles, Pera Palace
+    hotel chains [separate] -- Hilton, Marriott, Hyatt, Sheraton, Holiday Inn, Ibis, Radisson
     traditional lodgings -- ryokan, riad, caravanserai, pousada, parador, ger, longhouse
   campsite [place]
     camping gear
-    tent parts
-    tent types -- dome, tipi, bell, tunnel, pup tent, A-frame, bivy
-    campfire foods
-    survival skills
+    tent parts [separate]
+    tent types [separate] -- dome, tipi, bell, tunnel, pup tent, A-frame, bivy
+    campfire foods [separate]
+    survival skills [separate]
     rvs and campers -- RV, motorhome, camper van, trailer, Airstream, fifth wheel, teardrop
   outdoors:
     hiking gear
@@ -825,7 +825,7 @@ Travel & Transport:
     beach vacation -- things on a beach vacation: sunscreen, deck chair, sandcastle, cabana
     ski trip -- things on a ski trip: chairlift, chalet, piste, lift pass, apres-ski
     cruise words
-      cruise lines -- Carnival, Royal Caribbean, Cunard, Princess, MSC, Holland America
+      cruise lines [separate] -- Carnival, Royal Caribbean, Cunard, Princess, MSC, Holland America
     sightseeing words
     tourist attractions -- kinds of attraction: museum, aquarium, gallery, viewpoint, old town
     famous theme parks -- Disneyland, Tivoli, Efteling, Europa-Park, Cedar Point, Everland
@@ -845,11 +845,11 @@ Travel & Transport:
     emergency vehicles
     construction vehicles
     farm vehicles
-    military vehicles [adult]
+    military vehicles [adult] [separate]
     delivery vehicles
-    space vehicles
-    horse-drawn vehicles -- carriage, wagon, buggy, stagecoach, chariot, hansom cab, sleigh
-    truck types -- pickup, semi, dump truck, tow truck, flatbed, tanker, box truck
+    space vehicles [separate]
+    horse-drawn vehicles [separate] -- carriage, wagon, buggy, stagecoach, chariot, hansom cab, sleigh
+    truck types [separate] -- pickup, semi, dump truck, tow truck, flatbed, tanker, box truck
 Body & Health:
   body parts
     face
@@ -857,34 +857,34 @@ Body & Health:
     arms and legs
     torso
     joints -- elbow, knee, ankle, wrist, hip, shoulder, knuckle, jaw
-    hair
+    hair [separate]
       hairstyles
-    skin words
+    skin words [separate]
     paired body parts [property] -- body parts that come in twos: eye, ear, lung, kidney, knee, elbow
   inside the body
     bones
     organs
     muscles
-    blood words
-    teeth
+    blood words [separate]
+    teeth [separate]
     brain parts
-    body systems -- digestive, nervous, circulatory, respiratory, skeletal, immune
+    body systems [separate] -- digestive, nervous, circulatory, respiratory, skeletal, immune
     hormones
   senses -- the five senses and sense organs: sight, hearing, smell, taste, touch, eye, ear, nose, tongue, skin
-    sight words
-    hearing words
-    smell words
-    ear parts
-    touch words
-    eye parts
-    smelly things [property] -- things known for a strong smell: garlic, skunk, socks, durian, blue cheese, onion
+    sight words [separate]
+    hearing words [separate]
+    smell words [separate]
+    ear parts [separate]
+    touch words [separate]
+    eye parts [separate]
+    smelly things [property] [separate] -- things known for a strong smell: garlic, skunk, socks, durian, blue cheese, onion
   illnesses
     common illnesses
     childhood illnesses
-    allergies
+    allergies [separate]
     infections
-    injuries
-    symptoms
+    injuries [separate]
+    symptoms [separate]
     historic diseases
     tropical diseases [region:Africa]
     cold weather ailments [region:Antarctica] -- frostbite, hypothermia, snow blindness, chilblains, windburn
@@ -899,9 +899,9 @@ Body & Health:
     pharmacy [place]
     operating room [place]
     first aid
-    dental words
-    smoking words [adult] -- cigarette, cigar, pipe, ashtray, lighter, filter, vape, hookah, tobacco
-    illegal drugs [adult]
+    dental words [separate]
+    smoking words [adult] [separate] -- cigarette, cigar, pipe, ashtray, lighter, filter, vape, hookah, tobacco
+    illegal drugs [adult] [separate]
   healing traditions:
     chinese medicine [region:Asia]
     middle eastern remedies [region:Middle East] -- black seed, cupping, miswak, frankincense, myrrh, rose water, honey
@@ -919,67 +919,67 @@ Body & Health:
   fitness
     exercises
     gym equipment
-    yoga poses
-    yoga words [region:Asia] -- asana, namaste, chakra, mantra, om, mudra, savasana, vinyasa
+    yoga poses [separate]
+    yoga words [region:Asia] [separate] -- asana, namaste, chakra, mantra, om, mudra, savasana, vinyasa
     workout types
     fitness words
-    stretches
+    stretches [separate]
   sleep
     sleep words
     bedding
     nightwear
-    dream words
-    bedtime routine
+    dream words [separate]
+    bedtime routine [separate]
     sleep disorders
   personal care
     toiletries for washing
     hair care
     skincare products
-      korean skincare [region:Asia]
+      korean skincare [region:Asia] [separate]
     makeup
     nail care
     bath time
-    dental care
+    dental care [separate]
     middle eastern grooming [region:Middle East] -- kohl, henna, oud, attar, rose water, argan oil, black soap, miswak
   mind and wellbeing
     mental health words
-    phobias
-    massage types
-    bad habits -- nail biting, slouching, knuckle cracking, snacking, procrastinating
+    phobias [separate]
+    massage types [separate]
+    bad habits [separate] -- nail biting, slouching, knuckle cracking, snacking, procrastinating
     healthy habits -- flossing, walking, drinking water, early nights, stretching
-    spa [place]
-    turkish bath [place] [region:Middle East] -- hammam: kese, pestemal, marble slab, steam, foam, dome, clogs
-    european spa towns [region:Europe] -- Bath, Baden-Baden, Vichy, Spa, Karlovy Vary, Evian
+    spa [place] [separate]
+    turkish bath [place] [region:Middle East] [separate] -- hammam: kese, pestemal, marble slab, steam, foam, dome, clogs
+    european spa towns [region:Europe] [separate] -- Bath, Baden-Baden, Vichy, Spa, Karlovy Vary, Evian
   nutrition
     vitamins
     dietary minerals -- iron, calcium, zinc, magnesium, potassium, iodine, selenium
     food groups
     nutrients
-    diet types
+    diet types [separate]
     superfoods
-    healthy snacks
+    healthy snacks [separate]
   body movement
     facial expressions
     gestures
     body actions
     hand actions
     ways of walking
-    ways of looking
-    ways of speaking
-    body noises -- burp, hiccup, sneeze, cough, snore, yawn, sniff, gulp, sigh
+    ways of looking [separate]
+    ways of speaking [separate]
+    body noises [separate] -- burp, hiccup, sneeze, cough, snore, yawn, sniff, gulp, sigh
 People & Society:
   family and friends
     family members
     extended family
     relationships
-    terms of endearment
-    greetings
+    terms of endearment [separate]
+    greetings [separate]
       greetings around the world -- hello in other languages: hola, bonjour, ciao, namaste, merhaba, jambo, aloha, kia ora
-    ways to say goodbye -- farewell, adieu, cheerio, so long, adios, sayonara, ta-ta
-    ages and stages
+    ways to say goodbye [separate] -- farewell, adieu, cheerio, so long, adios, sayonara, ta-ta
+    ages and stages [separate]
     words for friend -- pal, buddy, mate, chum, bestie, companion, comrade, confidant
-    life events -- milestones of a life: birth, christening, graduation, engagement, wedding, retirement, funeral
-    honorifics -- titles before a name: Mr, Mrs, Ms, Dr, Sir, Dame, Professor, Reverend
+    life events [separate] -- milestones of a life: birth, christening, graduation, engagement, wedding, retirement, funeral
+    honorifics [separate] -- titles before a name: Mr, Mrs, Ms, Dr, Sir, Dame, Professor, Reverend
   emotions
     happy words
     sad words
@@ -989,7 +989,7 @@ People & Society:
     love words -- adore, cherish, affection, devotion, crush, passion, smitten
     calm words -- serene, tranquil, relaxed, placid, peaceful, composed, mellow
     disgust words -- revolted, repulsed, sickened, appalled, grossed out, yuck
-    personality traits
+    personality traits [separate]
       positive traits -- kind, honest, generous, loyal, patient, brave
       negative traits -- greedy, rude, lazy, selfish, arrogant, stubborn
     moods
@@ -1005,21 +1005,21 @@ People & Society:
     food jobs -- chef, baker, butcher, waiter, barista, sommelier, fishmonger, grocer
     animal jobs -- vet, zookeeper, groom, farrier, shepherd, dog walker, kennel hand
     old-time jobs -- jobs that have mostly vanished in the last 150 years: milkman, chimney sweep, lamplighter, switchboard operator, town crier; not medieval
-    workplace words -- salary, boss, shift, promotion, interview, overtime, pension, colleague
-    cowboy words [region:North America] -- lasso, saddle, spurs, stetson, ranch, rodeo, chaps, corral, sheriff, posse
-    gaucho words [region:South America] -- Argentine/Uruguayan cowboy life: poncho, bolas, mate, asado, estancia, pampas, facon, rebenque
+    workplace words [separate] -- salary, boss, shift, promotion, interview, overtime, pension, colleague
+    cowboy words [region:North America] [separate] -- lasso, saddle, spurs, stetson, ranch, rodeo, chaps, corral, sheriff, posse
+    gaucho words [region:South America] [separate] -- Argentine/Uruguayan cowboy life: poncho, bolas, mate, asado, estancia, pampas, facon, rebenque
   government
     government words
     election words
     political titles
     royal titles
-      ottoman titles [region:Middle East] -- sultan, pasha, vizier, bey, agha, effendi, janissary, kadi, sipahi, beylerbey
-    royal things -- objects and occasions of monarchy: crown, throne, scepter, orb, tiara, coronation, jubilee, ermine
+      ottoman titles [region:Middle East] [separate] -- sultan, pasha, vizier, bey, agha, effendi, janissary, kadi, sipahi, beylerbey
+    royal things [separate] -- objects and occasions of monarchy: crown, throne, scepter, orb, tiara, coronation, jubilee, ermine
     types of government
     parts of parliament
     political ideologies -- socialism, liberalism, conservatism, communism, anarchism, capitalism, nationalism
     diplomacy words -- embassy, ambassador, consul, treaty, summit, envoy, sanctions, attache
-    international organizations -- UN, NATO, EU, WHO, UNESCO, OPEC, IMF, Interpol, Red Cross, ASEAN
+    international organizations [separate] -- UN, NATO, EU, WHO, UNESCO, OPEC, IMF, Interpol, Red Cross, ASEAN
     us government [region:North America] -- congress, senate, house, supreme court, cabinet, white house, governor, veto
     british politics [region:Europe] -- Westminster, Downing Street, Whitehall, Commons, Lords, MP, whip, backbencher, chancellor
   law and order
@@ -1027,11 +1027,11 @@ People & Society:
     courtroom words
     police words
     prison words [adult]
-    detective words
+    detective words [separate]
     legal documents
-    legal latin -- habeas corpus, pro bono, de facto, subpoena, affidavit, alibi, bona fide, quid pro quo
-    punishments [adult] -- fine, jail, probation, parole, community service, detention, curfew, ban
-    spy words -- agent, mole, cipher, handler, double agent, safe house, codename, wiretap
+    legal latin [separate] -- habeas corpus, pro bono, de facto, subpoena, affidavit, alibi, bona fide, quid pro quo
+    punishments [adult] [separate] -- fine, jail, probation, parole, community service, detention, curfew, ban
+    spy words [separate] -- agent, mole, cipher, handler, double agent, safe house, codename, wiretap
   money
     money words
     currencies
@@ -1043,11 +1043,11 @@ People & Society:
     coins
       historic coins -- doubloon, ducat, florin, farthing, guinea, sovereign, groat, denarius, thaler, piece of eight
     tax words
-    shopping words
+    shopping words [separate]
     money slang -- dough, bread, moolah, bucks, quid, loot, dosh, greenbacks, clams, smackers
     stock market words -- shares, bull, bear, dividend, broker, index, portfolio, bond
-    business words -- profit, revenue, merger, startup, CEO, shareholder, budget, invoice
-    bazaar [place] [region:Middle East] -- things in a Middle Eastern or Turkish market: carpets, spices, lanterns, haggling, tea, brass, stall
+    business words [separate] -- profit, revenue, merger, startup, CEO, shareholder, budget, invoice
+    bazaar [place] [region:Middle East] [separate] -- things in a Middle Eastern or Turkish market: carpets, spices, lanterns, haggling, tea, brass, stall
   religion
     religion words
     religious festivals
@@ -1055,8 +1055,8 @@ People & Society:
     holy books
     angels and spirits
     places of worship
-    pilgrimage sites -- Mecca, Lourdes, Varanasi, Jerusalem, Santiago de Compostela, Canterbury, Bodh Gaya, Amritsar
-    famous saints -- Patrick, Nicholas, George, Francis, Valentine, Andrew, Christopher, Joan
+    pilgrimage sites [separate] -- Mecca, Lourdes, Varanasi, Jerusalem, Santiago de Compostela, Canterbury, Bodh Gaya, Amritsar
+    famous saints [separate] -- Patrick, Nicholas, George, Francis, Valentine, Andrew, Christopher, Joan
     religious clothing -- cassock, habit, hijab, kippah, turban, miter, surplice, wimple
     afterlife words -- heaven, hell, paradise, purgatory, limbo, nirvana, underworld, reincarnation
     islam words [region:Middle East] -- mosque, minaret, imam, Ramadan, hajj, Quran, Eid, halal, muezzin
@@ -1086,7 +1086,7 @@ People & Society:
   media and communication
     newspaper words
     social media words
-    social media platforms -- real brands: Facebook, Instagram, TikTok, YouTube, Snapchat, Reddit, LinkedIn
+    social media platforms [separate] -- real brands: Facebook, Instagram, TikTok, YouTube, Snapchat, Reddit, LinkedIn
     phone words
     mail words
     journalism words
@@ -1132,39 +1132,39 @@ Home & Everyday:
     tables and desks
     beds
     storage furniture
-    lights and lamps
-    soft furnishings
+    lights and lamps [separate]
+    soft furnishings [separate]
       window coverings -- curtains, blinds, shutters, drapes, valance, roller blind
       rugs and carpets -- kilim, shag, Persian rug, dhurrie, runner, doormat
     antique furniture -- armoire, bureau, chaise longue, credenza, escritoire, chiffonier
   appliances
     kitchen appliances
     cleaning appliances
-    home electronics
+    home electronics [separate]
     heating and cooling
-      fireplace words -- hearth, mantel, grate, poker, bellows, flue, kindling
+      fireplace words [separate] -- hearth, mantel, grate, poker, bellows, flue, kindling
     small appliances
-    bathroom fixtures
-    electrical fittings -- plug, socket, switch, fuse, adapter, dimmer, breaker
+    bathroom fixtures [separate]
+    electrical fittings [separate] -- plug, socket, switch, fuse, adapter, dimmer, breaker
   tools
     hand tools
-      saws -- hacksaw, coping saw, bow saw, fret saw, chainsaw, band saw
+      saws [separate] -- hacksaw, coping saw, bow saw, fret saw, chainsaw, band saw
     power tools
-    fixings
+    fixings [separate]
     measuring tools
-    painting and decorating
-    plumbing words
-    adhesives -- glues, tapes and sealants: duct tape, epoxy, superglue, caulk
+    painting and decorating [separate]
+    plumbing words [separate]
+    adhesives [separate] -- glues, tapes and sealants: duct tape, epoxy, superglue, caulk
   cleaning
     cleaning items
       brooms and brushes -- push broom, besom, dustpan brush, toilet brush, feather duster
     cleaning verbs
     laundry words
     cleaning products
-    chores
-    bins and recycling
+    chores [separate]
+    bins and recycling [separate]
     washing up -- doing the dishes: suds, scourer, drying rack, tea towel
-    household pests -- pests indoors: mice, cockroaches, silverfish, termites, moths
+    household pests [separate] -- pests indoors: mice, cockroaches, silverfish, termites, moths
   house and building
     building materials
     parts of a house
@@ -1173,9 +1173,9 @@ Home & Everyday:
     windows and doors
       parts of a door -- hinge, knob, latch, jamb, threshold, knocker, peephole
     diy words
-    house styles
+    house styles [separate]
     real estate words -- mortgage, lease, tenant, landlord, deposit, listing
-    household bills -- rent, electricity, water, internet, insurance, property tax
+    household bills [separate] -- rent, electricity, water, internet, insurance, property tax
   clothes
     tops
     pants and shorts
@@ -1195,8 +1195,8 @@ Home & Everyday:
     work clothes -- overalls, apron, scrubs, lab coat, hi-vis vest, boiler suit
     swimwear
     knitwear
-    fashion styles -- preppy, boho, grunge, punk, goth, streetwear, vintage
-    fashion designers -- real designers and houses: Chanel, Dior, Versace, Armani, Prada
+    fashion styles [separate] -- preppy, boho, grunge, punk, goth, streetwear, vintage
+    fashion designers [separate] -- real designers and houses: Chanel, Dior, Versace, Armani, Prada
   accessories
     shoes
     boots
@@ -1217,33 +1217,33 @@ Home & Everyday:
       sewing kit
     knitting words
     fabric prints
-    clothing parts
-      necklines -- V-neck, crew, scoop, boat, sweetheart, halter
+    clothing parts [separate]
+      necklines [separate] -- V-neck, crew, scoop, boat, sweetheart, halter
     fastenings
   holidays and celebrations
-    christmas
+    christmas [separate]
       christmas carols
-    halloween
-    easter
-    new year
-    thanksgiving
-    weddings
-      wedding anniversaries -- anniversary gift names: paper, tin, crystal, silver, pearl, ruby, gold
-    birthdays
+    halloween [separate]
+    easter [separate]
+    new year [separate]
+    thanksgiving [separate]
+    weddings [separate]
+      wedding anniversaries [separate] -- anniversary gift names: paper, tin, crystal, silver, pearl, ruby, gold
+    birthdays [separate]
       party supplies
-    valentine's day
+    valentine's day [separate]
     festivals of the world
-      diwali [region:Asia]
-      lunar new year [region:Asia]
-      holi [region:Asia]
-      mid-autumn festival [region:Asia]
-      ramadan and eid [region:Middle East]
-      hanukkah [region:Middle East]
-      day of the dead [region:North America]
-      anzac day [region:Oceania]
-      midsummer [region:Europe]
-      oktoberfest [region:Europe] [adult]
-      st. patrick's day [region:Europe]
+      diwali [region:Asia] [separate]
+      lunar new year [region:Asia] [separate]
+      holi [region:Asia] [separate]
+      mid-autumn festival [region:Asia] [separate]
+      ramadan and eid [region:Middle East] [separate]
+      hanukkah [region:Middle East] [separate]
+      day of the dead [region:North America] [separate]
+      anzac day [region:Oceania] [separate]
+      midsummer [region:Europe] [separate]
+      oktoberfest [region:Europe] [adult] [separate]
+      st. patrick's day [region:Europe] [separate]
   time
     months
     days and weeks -- weekday names plus weekend, fortnight, midweek
@@ -1253,13 +1253,13 @@ Home & Everyday:
       clock parts -- hand, face, pendulum, chime, cog, escapement
       clock types -- cuckoo, grandfather, sundial, hourglass, stopwatch
     times of day
-    zodiac signs
-    chinese zodiac [region:Asia]
+    zodiac signs [separate]
+    chinese zodiac [region:Asia] [separate]
   household objects
     containers
     cords and strings -- rope, twine, cord, lace, ribbon, yarn, cable
     paper goods -- tissue, napkin, paper towel, envelope, wrapping paper
-    candle words -- candle types and parts: taper, votive, tealight, wick, wax, candelabra
+    candle words [separate] -- candle types and parts: taper, votive, tealight, wick, wax, candelabra
     emergency supplies
     retro household items -- rotary phone, VCR, typewriter, mangle, washboard, record player
     home decor -- vase, ornament, picture frame, figurine, candlestick
@@ -1282,47 +1282,47 @@ Home & Everyday:
 Sports & Games:
   ball sports
     team ball sports
-    sports balls [property] -- types of ball named for their sport or object: football, golf ball, shuttlecock, puck
-    soccer terms
+    sports balls [property] [separate] -- types of ball named for their sport or object: football, golf ball, shuttlecock, puck
+    soccer terms [separate]
       soccer positions
-      european soccer clubs [region:Europe]
-    basketball terms
-      nba teams [region:North America]
-    american football terms [region:North America]
-      nfl teams [region:North America]
-    baseball terms [region:North America]
-      mlb teams [region:North America]
-    cricket terms
+      european soccer clubs [region:Europe] [separate]
+    basketball terms [separate]
+      nba teams [region:North America] [separate]
+    american football terms [region:North America] [separate]
+      nfl teams [region:North America] [separate]
+    baseball terms [region:North America] [separate]
+      mlb teams [region:North America] [separate]
+    cricket terms [separate]
       cricket fielding positions
-    rugby terms
-    volleyball terms
+    rugby terms [separate]
+    volleyball terms [separate]
   racket and target sports
     racket sports
-    tennis terms
+    tennis terms [separate]
       tennis shots
-    golf terms
+    golf terms [separate]
       golf shots
-    table tennis terms
-    cue sports terms -- snooker, pool and billiards words
-    archery terms
-    darts terms
-    bowling terms
+    table tennis terms [separate]
+    cue sports terms [separate] -- snooker, pool and billiards words
+    archery terms [separate]
+    darts terms [separate]
+    bowling terms [separate]
   water sports
-    swimming strokes
-    swimming words
-    diving terms -- springboard and platform diving, not scuba
-    scuba words
-    surfing words
-    rowing words
+    swimming strokes [separate]
+    swimming words [separate]
+    diving terms [separate] -- springboard and platform diving, not scuba
+    scuba words [separate]
+    surfing words [separate]
+    rowing words [separate]
     sailing sports
     board and paddle sports
   winter sports
     snow sports
-    skiing words
-    skating words
+    skiing words [separate]
+    skating words [separate]
       figure skating moves
     ice hockey terms
-      nhl teams [region:North America]
+      nhl teams [region:North America] [separate]
     snowboard tricks
     curling words
     winter olympic events
@@ -1330,13 +1330,13 @@ Sports & Games:
     martial arts
       japanese martial arts [region:Asia]
       chinese martial arts [region:Asia]
-    boxing terms
+    boxing terms [separate]
       boxing weight classes
-    wrestling terms
-      sumo words [region:Asia]
-    fencing terms
-    karate words
-    judo words
+    wrestling terms [separate]
+      sumo words [region:Asia] [separate]
+    fencing terms [separate]
+    karate words [separate]
+    judo words [separate]
   athletics and gymnastics
     track events
     field events
@@ -1344,22 +1344,22 @@ Sports & Games:
       gymnastics apparatus
       gymnastics moves
     running words
-      famous marathons
-    triathlon words
-    olympic sports
+      famous marathons [separate]
+    triathlon words [separate]
+    olympic sports [separate]
   sports gear and places
     sports equipment
     sports venues
     sports officials
     sports clothing
-    scoring words
-    sports verbs -- actions players do: kick, dribble, serve, tackle, volley
+    scoring words [separate]
+    sports verbs [separate] -- actions players do: kick, dribble, serve, tackle, volley
   sporting events
     famous sporting events
-    tournament words
-    famous stadiums
-    olympic host cities
-    trophies and prizes
+    tournament words [separate]
+    famous stadiums [separate]
+    olympic host cities [separate]
+    trophies and prizes [separate]
     famous races -- Tour de France, Kentucky Derby, Boston Marathon, Indy 500, Grand National, Monaco Grand Prix, Daytona 500
   famous athletes
     famous soccer players
@@ -1369,57 +1369,57 @@ Sports & Games:
     olympic legends
     formula one drivers
   horse and animal sports
-    horse riding words
-    horse racing terms
-    famous horse races
+    horse riding words [separate]
+    horse racing terms [separate]
+    famous horse races [separate]
     equestrian events
-    rodeo words [region:North America]
-    bullfighting words [region:Europe] [adult]
+    rodeo words [region:North America] [separate]
+    bullfighting words [region:Europe] [adult] [separate]
   adventure and outdoor sports
     extreme sports
     air sports
-    climbing words
-    mountaineering words
-    fishing words
+    climbing words [separate]
+    mountaineering words [separate]
+    fishing words [separate]
       fishing tackle
-    hunting words [adult]
+    hunting words [adult] [separate]
   games of chance [adult]
     casino games [adult]
-    casino words [adult]
-    poker terms [adult]
-    blackjack terms [adult]
-    betting words [adult]
-    lottery words
+    casino words [adult] [separate]
+    poker terms [adult] [separate]
+    blackjack terms [adult] [separate]
+    betting words [adult] [separate]
+    lottery words [separate]
   table games
     board games
       asian board games [region:Asia]
     card games
-    chess terms
+    chess terms [separate]
       chess openings
     dice games
-    card game words
+    card game words [separate]
     classic games
-    game pieces [property] -- things you move or play with on a table: pawn, token, die, tile, marble
-    word games
-    mahjong words [region:Asia]
+    game pieces [property] [separate] -- things you move or play with on a table: pawn, token, die, tile, marble
+    word games [separate]
+    mahjong words [region:Asia] [separate]
   video games
     video game genres
     gaming words
     gaming hardware
-    arcade words
-    game controls
-    esports words
-    power-ups and pickups -- items collected in video games: coin, extra life, health pack, shield
+    arcade words [separate]
+    game controls [separate]
+    esports words [separate]
+    power-ups and pickups [separate] -- items collected in video games: coin, extra life, health pack, shield
   hobbies and crafts
     crafts
-    collecting hobbies
-    model making
+    collecting hobbies [separate]
+    model making [separate]
     puzzles
       logic puzzles
-    magic tricks
+    magic tricks [separate]
     paper crafts
-    pottery words
-    woodworking words
+    pottery words [separate]
+    woodworking words [separate]
   toys and play
     toys
     playground
@@ -1442,7 +1442,7 @@ Sports & Games:
 Arts & Entertainment:
   instruments
     string instruments
-      guitar types
+      guitar types [separate]
       bowed instruments
     woodwind instruments
     brass instruments
@@ -1461,23 +1461,23 @@ Arts & Entertainment:
       andean instruments [region:South America]
       celtic instruments [region:Europe]
     electronic instruments
-    instrument parts
+    instrument parts [separate]
   music styles
     music genres
       rock styles
       electronic music styles
-    classical forms
-    jazz words
+    classical forms [separate]
+    jazz words [separate]
     world music styles
       african music styles [region:Africa]
-      arabic music words [region:Middle East]
+      arabic music words [region:Middle East] [separate]
       asian music styles [region:Asia]
       latin music styles [region:South America]
       american roots music [region:North America]
       european folk music [region:Europe]
     dance music
-    song types
-    hip hop words
+    song types [separate]
+    hip hop words [separate]
   music words
     music terms
     voice types
@@ -1485,16 +1485,16 @@ Arts & Entertainment:
     tempo words
     dynamics markings
     notes and rests
-    concert words
+    concert words [separate]
     recording studio words [place]
-    music festivals
+    music festivals [separate]
   musicians
     composers
       baroque composers
       romantic composers
       opera composers
       film composers
-    famous bands
+    famous bands [separate]
     pop stars
     jazz musicians
     rock guitarists
@@ -1505,7 +1505,7 @@ Arts & Entertainment:
   dance
     dances
     ballet terms
-      famous ballets
+      famous ballets [separate]
     ballroom dances
     latin dances
     folk dances
@@ -1518,7 +1518,7 @@ Arts & Entertainment:
       european folk dances [region:Europe]
     dance moves
     street dance styles
-    dance studio words [place]
+    dance studio words [place] [separate]
   art
     painting words
     painters
@@ -1531,9 +1531,9 @@ Arts & Entertainment:
     art movements
     art materials
     sculpture words
-    photography words
+    photography words [separate]
       camera parts
-    famous paintings
+    famous paintings [separate]
     art gallery words [place]
     color theory words
     drawing techniques
@@ -1548,7 +1548,7 @@ Arts & Entertainment:
     parts of a stage
     theater jobs
     opera words
-      famous operas
+      famous operas [separate]
     puppets
     musicals words
     stage genres
@@ -1560,19 +1560,19 @@ Arts & Entertainment:
     film words
     behind the camera
     cartoon words
-    award words
+    award words [separate]
       entertainment awards
-    film festivals
+    film festivals [separate]
     movie theater words [place]
     tv words
     special effects words
-    film directors
-    classic film stars
-    bollywood stars [region:Asia]
+    film directors [separate]
+    classic film stars [separate]
+    bollywood stars [region:Asia] [separate]
     anime and manga words [region:Asia]
   literature
     book genres
-    authors
+    authors [separate]
       british novelists [region:Europe]
       american novelists [region:North America]
       russian writers [region:Europe]
@@ -1582,68 +1582,68 @@ Arts & Entertainment:
       latin american writers [region:South America]
       children's authors
     poetry terms
-      poets
-      persian poets [region:Middle East]
+      poets [separate]
+      persian poets [region:Middle East] [separate]
     shakespeare plays
-      shakespeare characters
+      shakespeare characters [separate]
     fairy tales
     fairy tale characters
     parts of a book
     publishing words
     classic novels
-    comic book words
+    comic book words [separate]
   shows and fun
-    circus
+    circus [separate]
       circus acts
-    magic show words
-      famous magicians
-    comedy words
-      comedians
+    magic show words [separate]
+      famous magicians [separate]
+    comedy words [separate]
+      comedians [separate]
     fairground rides
     street performers
-    theme park words
+    theme park words [separate]
     party entertainment
-    nightclub words [place] [adult]
-    brazilian carnival words [region:South America]
+    nightclub words [place] [adult] [separate]
+    brazilian carnival words [region:South America] [separate]
   architecture
     architecture styles
-    architects
-    church parts
-    mosque parts [region:Middle East]
-    asian temple features [region:Asia]
+    architects [separate]
+    church parts [separate]
+    mosque parts [region:Middle East] [separate]
+    asian temple features [region:Asia] [separate]
     bridge types
     roof styles
-    column styles
+    column styles [separate]
     architectural features
     window styles
 History & Myth:
   ancient civilizations
-    ancient egypt [region:Africa]
+    ancient egypt [region:Africa] [separate]
       pharaohs [region:Africa]
       egyptian afterlife [region:Africa] -- mummies, canopic jars, Book of the Dead, ka, ba, scarab, Duat
-    ancient greece [region:Europe]
+    ancient greece [region:Europe] [separate]
       greek philosophers
-      ancient olympics -- events, places and words of the ancient Games: stadion, pankration, laurel, Olympia
-    ancient rome [region:Europe]
+      ancient olympics [separate] -- events, places and words of the ancient Games: stadion, pankration, laurel, Olympia
+    ancient rome [region:Europe] [separate]
       roman life -- forum, toga, bathhouse, aqueduct, villa, senate, gladiator, chariot
       roman army [adult]
-    aztecs and maya [region:North America]
-    inca empire [region:South America]
-    ancient china [region:Asia]
-    ancient india [region:Asia]
-    mesopotamia [region:Middle East]
-    ancient persia [region:Middle East]
-    feudal japan [region:Asia]
-    vikings [region:Europe]
-    byzantine empire [region:Middle East]
-    ottoman empire [region:Middle East]
+    aztecs and maya [region:North America] [separate]
+    inca empire [region:South America] [separate]
+    ancient china [region:Asia] [separate]
+    ancient india [region:Asia] [separate]
+    mesopotamia [region:Middle East] [separate]
+    ancient persia [region:Middle East] [separate]
+    feudal japan [region:Asia] [separate]
+    vikings [region:Europe] [separate]
+    byzantine empire [region:Middle East] [separate]
+    ottoman empire [region:Middle East] [separate]
       ottoman sultans [region:Middle East]
-    celts [region:Europe]
+    celts [region:Europe] [separate]
   medieval times
     knights
-      orders of knighthood -- Templars, Hospitallers, Teutonic, Garter, Golden Fleece
-      knightly virtues [property] -- chivalry, honor, valor, loyalty, courtesy, piety
-    castles
+      orders of knighthood [separate] -- Templars, Hospitallers, Teutonic, Garter, Golden Fleece
+      knightly virtues [property] [separate] -- chivalry, honor, valor, loyalty, courtesy, piety
+    castles [separate]
       castle parts -- keep, moat, drawbridge, portcullis, battlements, turret
     medieval jobs
     feudal ranks
@@ -1666,26 +1666,26 @@ History & Myth:
     polar exploration
       antarctic explorers [region:Antarctica]
       arctic explorers
-      expedition ships [region:Antarctica] -- polar expedition vessels: Endurance, Fram, Terra Nova, Discovery, Erebus
+      expedition ships [region:Antarctica] [separate] -- polar expedition vessels: Endurance, Fram, Terra Nova, Discovery, Erebus
       polar expedition gear [region:Antarctica]
-    astronauts
-    famous voyages
-    discoveries
-    silk road [region:Asia]
-    spice trade [region:Asia]
-    polynesian voyaging [region:Oceania]
-    age of sail
+    astronauts [separate]
+    famous voyages [separate]
+    discoveries [separate]
+    silk road [region:Asia] [separate]
+    spice trade [region:Asia] [separate]
+    polynesian voyaging [region:Oceania] [separate]
+    age of sail [separate]
   pirates
     pirate words
     famous pirates
     treasure
-    pirate ships
+    pirate ships [separate]
     pirate weapons
-    pirate places
-    pirate crew
+    pirate places [separate]
+    pirate crew [separate]
     pirate punishments [adult] -- walk the plank, keelhaul, maroon, flogging, cat o' nine tails
   wars and battles [adult]
-    famous battles [adult]
+    famous battles [adult] [separate]
       ancient battles [adult]
       medieval battles [adult]
       napoleonic battles [adult]
@@ -1697,9 +1697,9 @@ History & Myth:
     siege weapons [adult]
     soldiers of history [adult]
     famous generals [adult]
-    cold war [adult]
+    cold war [adult] [separate]
     world war ii terms [adult]
-    peace words
+    peace words [separate]
   famous people
     famous leaders
       african historical leaders [region:Africa]
@@ -1712,15 +1712,15 @@ History & Myth:
     emperors
       roman emperors [region:Europe]
       chinese emperors [region:Asia]
-    us presidents [region:North America]
-    inventors
+    us presidents [region:North America] [separate]
+    inventors [separate]
     reformers
       civil rights figures [region:North America]
       suffragists
     famous women in history
   archaeology
     archaeology words
-    dig site [place]
+    dig site [place] [separate]
     ancient sites
       ancient sites of turkey [region:Middle East]
       ancient sites of the middle east [region:Middle East]
@@ -1729,7 +1729,7 @@ History & Myth:
       ancient sites of asia [region:Asia]
       maya and aztec sites [region:North America]
       andean sites [region:South America]
-    fossils
+    fossils [separate]
     artifacts
     tombs and burials
     ancient writing
@@ -1738,11 +1738,11 @@ History & Myth:
   mythology
     greek gods [region:Europe]
       titans
-      greek monsters
-      trojan war [region:Middle East]
+      greek monsters [separate]
+      trojan war [region:Middle East] [separate]
     roman gods [region:Europe]
     norse gods [region:Europe]
-      norse mythology [region:Europe] -- places and things, not gods: Valhalla, Asgard, Yggdrasil, Ragnarok, Mjolnir
+      norse mythology [region:Europe] [separate] -- places and things, not gods: Valhalla, Asgard, Yggdrasil, Ragnarok, Mjolnir
     egyptian gods [region:Africa]
     hindu gods [region:Asia]
     mesopotamian gods [region:Middle East]
@@ -1760,19 +1760,19 @@ History & Myth:
       cryptids
       undead -- vampire, zombie, mummy, ghoul, lich, revenant, draugr
     greek heroes
-      labors of hercules -- the twelve labors: Nemean lion, Hydra, Augean stables, Cerberus
+      labors of hercules [separate] -- the twelve labors: Nemean lion, Hydra, Augean stables, Cerberus
     legendary places -- Atlantis, El Dorado, Avalon, Shangri-La, Camelot, Elysium
   fantasy
     fantasy races
     magic items
     wizard words
     witchcraft
-    alchemy
+    alchemy [separate]
     dragons
     fairy folk
-    legendary heroes
-      arthurian legend [region:Europe]
-      robin hood legend [region:Europe]
+    legendary heroes [separate]
+      arthurian legend [region:Europe] [separate]
+      robin hood legend [region:Europe] [separate]
   folklore
     japanese folklore [region:Asia]
       yokai [region:Asia]
@@ -1782,27 +1782,27 @@ History & Myth:
     native american folklore [region:North America]
     latin american folklore [region:South America]
     turkish folklore [region:Middle East] -- Nasreddin Hodja, Keloglan, Dede Korkut, Karagoz, Sahmeran, Tepegoz
-    arabian nights [region:Middle East]
+    arabian nights [region:Middle East] [separate]
     aboriginal dreaming [region:Oceania]
     american tall tales [region:North America]
     ghosts and spirits
-    superstitions
+    superstitions [separate]
   historical periods
     ages of history
-    revolutions
-      french revolution [region:Europe]
-      american revolution [region:North America]
+    revolutions [separate]
+      french revolution [region:Europe] [separate]
+      american revolution [region:North America] [separate]
     dynasties
       chinese dynasties [region:Asia]
       royal houses -- Tudor, Stuart, Habsburg, Bourbon, Romanov, Plantagenet, Windsor
-    empires
-    industrial revolution
-    renaissance
-    victorian era [region:Europe]
-    wild west [region:North America]
-    colonial america [region:North America]
-    roaring twenties
-    historic documents -- Magna Carta, Domesday Book, Emancipation Proclamation, Code of Hammurabi
+    empires [separate]
+    industrial revolution [separate]
+    renaissance [separate]
+    victorian era [region:Europe] [separate]
+    wild west [region:North America] [separate]
+    colonial america [region:North America] [separate]
+    roaring twenties [separate]
+    historic documents [separate] -- Magna Carta, Domesday Book, Emancipation Proclamation, Code of Hammurabi
 Science & Tech:
   chemistry:
     chemical elements
@@ -1841,18 +1841,18 @@ Science & Tech:
     microscope parts -- eyepiece, objective lens, stage, slide, coverslip, focus knob, nosepiece
   space
     planets -- include dwarf planets (Pluto, Ceres, Eris) to reach 12
-    moons
-    constellations
-    southern sky [region:Oceania] -- stars and objects seen from the south: Southern Cross, Canopus, Alpha Centauri, Magellanic Clouds
-    space missions
+    moons [separate]
+    constellations [separate]
+    southern sky [region:Oceania] [separate] -- stars and objects seen from the south: Southern Cross, Canopus, Alpha Centauri, Magellanic Clouds
+    space missions [separate]
     astronomy terms
-    stars -- named stars: Sirius, Vega, Polaris, Betelgeuse, Rigel, Antares
-      star types -- red dwarf, white dwarf, red giant, supergiant, neutron star, pulsar, supernova
+    stars [separate] -- named stars: Sirius, Vega, Polaris, Betelgeuse, Rigel, Antares
+      star types [separate] -- red dwarf, white dwarf, red giant, supergiant, neutron star, pulsar, supernova
     space rocks -- asteroid, comet, meteor, meteorite, shooting star, fireball, Kuiper belt
     spaceflight words -- launch, countdown, liftoff, orbit, docking, spacewalk, splashdown, payload
     moon phases -- new, crescent, gibbous, full, waxing, waning, blue moon, supermoon
-    space telescopes -- Hubble, James Webb, Kepler, Spitzer, Chandra, Herschel, Gaia
-    galaxies and nebulae -- Milky Way, Andromeda, Orion Nebula, Crab Nebula, Whirlpool, Horsehead
+    space telescopes [separate] -- Hubble, James Webb, Kepler, Spitzer, Chandra, Herschel, Gaia
+    galaxies and nebulae [separate] -- Milky Way, Andromeda, Orion Nebula, Crab Nebula, Whirlpool, Horsehead
   math:
     math terms
     numbers
@@ -1861,7 +1861,7 @@ Science & Tech:
     geometry
       polygons -- triangle, pentagon, hexagon, octagon, decagon, rhombus, trapezoid
       circle parts -- radius, diameter, circumference, arc, chord, sector, tangent
-      angle words -- acute, obtuse, right, reflex, straight, complementary, supplementary
+      angle words [separate] -- acute, obtuse, right, reflex, straight, complementary, supplementary
     fractions
     math operations
     algebra words -- variable, equation, formula, coefficient, exponent, polynomial, inequality
@@ -1871,8 +1871,8 @@ Science & Tech:
     length units
     weight units
     volume units
-    temperature words
-    metric prefixes
+    temperature words [separate]
+    metric prefixes [separate]
     measuring instruments -- meters and gauges: barometer, voltmeter, odometer, seismograph, anemometer
     imperial units -- inch, foot, yard, mile, ounce, pound, stone, pint, gallon, acre
     units named after people [property] -- units that are scientists' names: newton, joule, watt, volt, ohm, kelvin, hertz, pascal
@@ -1880,8 +1880,8 @@ Science & Tech:
   science history:
     scientists
       women in science -- Curie, Lovelace, Franklin, Goodall, Hopper, Meitner, Noether, Carson
-      islamic golden age scholars [region:Middle East] -- Avicenna, al-Khwarizmi, al-Biruni, Ibn al-Haytham, al-Razi, Averroes
-      ancient greek thinkers [region:Europe] -- Aristotle, Archimedes, Euclid, Hippocrates, Ptolemy, Democritus
+      islamic golden age scholars [region:Middle East] [separate] -- Avicenna, al-Khwarizmi, al-Biruni, Ibn al-Haytham, al-Razi, Averroes
+      ancient greek thinkers [region:Europe] [separate] -- Aristotle, Archimedes, Euclid, Hippocrates, Ptolemy, Democritus
       famous physicists -- Newton, Einstein, Galileo, Bohr, Feynman, Hawking, Faraday, Maxwell
       famous naturalists -- Darwin, Linnaeus, Wallace, Audubon, Humboldt, Attenborough, Mendel
     famous mathematicians -- Euclid, Pythagoras, Euler, Gauss, Fermat, Fibonacci, Turing, Leibniz
@@ -1903,36 +1903,36 @@ Science & Tech:
     inca engineering [region:South America] -- quipu, terraces, rope bridge, aqueduct, Inca road, stone walls
   computers
     computer parts
-      keyboard keys -- enter, shift, tab, escape, space bar, backspace, caps lock, delete
-    programming languages
+      keyboard keys [separate] -- enter, shift, tab, escape, space bar, backspace, caps lock, delete
+    programming languages [separate]
     coding words -- loop, variable, function, bug, debug, compile, syntax, array, algorithm
     software words
     internet words
     networking
-    file types
+    file types [separate]
     cybersecurity words -- hacker, malware, phishing, firewall, password, encryption, ransomware, spyware
-    computer actions -- click, scroll, drag, copy, paste, save, upload, download, reboot, log in
-    tech companies
+    computer actions [separate] -- click, scroll, drag, copy, paste, save, upload, download, reboot, log in
+    tech companies [separate]
       silicon valley companies [region:North America] -- Apple, Google, Intel, Nvidia, Netflix, Oracle, Adobe
       asian tech companies [region:Asia] -- Samsung, Sony, Huawei, Alibaba, Toshiba, Panasonic, Xiaomi, Lenovo
       european tech companies [region:Europe] -- Nokia, Ericsson, SAP, Philips, Siemens, Spotify, ASML
   gadgets
     handheld gadgets
-    phone features
-    robots
-    ai words
+    phone features [separate]
+    robots [separate]
+    ai words [separate]
     smart home
-    cameras
+    cameras [separate]
     retro tech -- floppy disk, cassette, VHS, pager, walkman, fax machine, dial-up, punch card
     wearable tech -- smartwatch, fitness tracker, VR headset, earbuds, smart glasses, hearing aid
     audio gear -- headphones, speaker, amplifier, microphone, turntable, subwoofer, soundbar
-    display tech -- LCD, LED, OLED, plasma, CRT, touchscreen, projector, e-ink, 4K
-    battery types -- AA, AAA, 9-volt, button cell, lithium-ion, alkaline, power bank, car battery
+    display tech [separate] -- LCD, LED, OLED, plasma, CRT, touchscreen, projector, e-ink, 4K
+    battery types [separate] -- AA, AAA, 9-volt, button cell, lithium-ion, alkaline, power bank, car battery
   engineering
     simple machines -- the six simple machines plus everyday examples: lever, pulley, wedge, screw, ramp, seesaw, crowbar
-    engines -- engine kinds: diesel, steam, jet, rocket, turbine, rotary, two-stroke, V8
-    engineering fields
-    energy sources -- includes fossil and nuclear: coal, oil, gas, uranium, solar, wind, tidal
+    engines [separate] -- engine kinds: diesel, steam, jet, rocket, turbine, rotary, two-stroke, V8
+    engineering fields [separate]
+    energy sources [separate] -- includes fossil and nuclear: coal, oil, gas, uranium, solar, wind, tidal
       fuels -- petrol, diesel, kerosene, propane, butane, ethanol, charcoal, jet fuel
     electronic parts
     materials science
@@ -1966,29 +1966,29 @@ Language & Wordplay:
     languages of the americas
       native north american languages [region:North America]
       indigenous south american languages [region:South America]
-    codes and signals
+    codes and signals [separate]
   alphabets and writing
     greek letters
-    phonetic alphabet
+    phonetic alphabet [separate]
     punctuation
     keyboard symbols -- names of symbols on a keyboard: ampersand, tilde, caret, hashtag, asterisk
     writing systems
     handwriting words
     typography words
-    fonts -- typeface names: Helvetica, Garamond, Arial, Futura
+    fonts [separate] -- typeface names: Helvetica, Garamond, Arial, Futura
   grammar
     parts of speech
     grammar terms
     tenses
     sentence parts
-    pronouns
-    prepositions
-    conjunctions
-    interjections
-    irregular past tenses -- the words themselves: went, swam, caught, flew
-    irregular plurals -- the words themselves: mice, geese, cacti, oxen
-    figures of speech
-    poetry forms
+    pronouns [separate]
+    prepositions [separate]
+    conjunctions [separate]
+    interjections [separate]
+    irregular past tenses [separate] -- the words themselves: went, swam, caught, flew
+    irregular plurals [separate] -- the words themselves: mice, geese, cacti, oxen
+    figures of speech [separate]
+    poetry forms [separate]
   foreign words:
     hello around the world -- hola, bonjour, konnichiwa, jambo, kia ora
     thank you around the world -- gracias, merci, arigato, shukran, asante
@@ -2142,7 +2142,7 @@ Qualities:
     shades of pink
     shades of gray
     metallic colors -- gold, silver, bronze, copper, pewter, gunmetal
-    color terms -- hue, tint, shade, tone, pigment, palette, saturation, primary
+    color terms [separate] -- hue, tint, shade, tone, pigment, palette, saturation, primary
     colors in other languages:
       colors in spanish [region:South America] -- rojo, azul, verde, amarillo, blanco
       colors in french [region:Europe] -- rouge, bleu, vert, jaune, blanc
@@ -2151,7 +2151,7 @@ Qualities:
     2d shapes
     3d shapes
     patterns
-    line types
+    line types [separate]
     symbols
     curves and spirals
     shaped things:
@@ -2165,7 +2165,7 @@ Qualities:
     hard materials
     soft materials
     see-through materials
-    things that rust [property] -- nail, anchor, bike chain, iron gate, old car, tin can
+    things that rust [property] [separate] -- nail, anchor, bike chain, iron gate, old car, tin can
     made of…:
       things made of wood [property] -- pencil, chopsticks, violin, canoe, barrel
       things made of glass [property] -- window, mirror, bottle, lightbulb, marble
@@ -2226,12 +2226,12 @@ Qualities:
     onomatopoeia
       eating sounds -- crunch, munch, slurp, gulp, chomp, burp, nom
       impact sounds -- bang, crash, thud, thump, clang, splat, wham
-    loud things [property] -- thunder, jet engine, fireworks, siren, jackhammer, drum
-    quiet things [property] -- whisper, snowfall, mouse, library, feather, tiptoe
+    loud things [property] [separate] -- thunder, jet engine, fireworks, siren, jackhammer, drum
+    quiet things [property] [separate] -- whisper, snowfall, mouse, library, feather, tiptoe
     water sounds
     machine sounds
     voice sounds
-    sound qualities -- shrill, booming, muffled, hoarse, husky, raspy, tinny, mellow
+    sound qualities [separate] -- shrill, booming, muffled, hoarse, husky, raspy, tinny, mellow
   smells:
     things that smell good [property] -- fresh bread, roses, coffee, vanilla, cut grass
     things that smell bad [property] -- skunk, garbage, rotten egg, wet dog, old socks

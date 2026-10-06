@@ -1,0 +1,12 @@
+{
+ "separate": [
+  "fish body parts",
+  "mollusks",
+  "seaweeds",
+  "insect body parts",
+  "insect life cycle",
+  "pet supplies"
+ ],
+ "removed": [],
+ "notes": "No fiction or digit cases in this batch. Moved 'Christmas tree worm' from sea life to its sub-theme reef life. mollusks marked separate because it holds land snails and slugs (garden snail, banana slug, apple snail) that would be wrong in a sea life level; drop it from the list if you prefer keeping the marine majority. seaweeds marked separate: algae under Animals > sea life, and several (agar, nori, wakame, kombu) read as foods. Dog breed sub-themes and dog breeds under domestic animals kept non-separate since breeds read as dogs. Accent choices follow dictionary main forms: bichon frise, Munsterlander, Entlebucher left plain; Löwchen, Hamiltonstövare, Český terrier, Galápagos, Coton de Tuléar, Vendéen accented. Lowercased papillon, vizsla, kuvasz, komondor per Merriam-Webster."
+}

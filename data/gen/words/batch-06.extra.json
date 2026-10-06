@@ -1,0 +1,20 @@
+{
+ "separate": [
+  "cat breeds",
+  "cattle breeds",
+  "chicken breeds",
+  "sheep breeds",
+  "horse breeds",
+  "pony breeds",
+  "horse colors",
+  "parts of a horse",
+  "horse family",
+  "new zealand animals",
+  "penguins"
+ ],
+ "removed": [
+  "horse (horses)",
+  "thoroughbred (horses)"
+ ],
+ "notes": "No fiction found in this batch, so nothing removed for rule 6; 'horse' and 'thoroughbred' were dropped from horses because they belong to its sub-themes (horse family, horse breeds). Separate: breed lists under domestic animals and horses (Persian, Jersey, Sussex, Arabian, Welsh read as nonsense), horse colors and parts of a horse (chestnut, frog, knee, poll), horse family (zebra, donkey, onager are not horses), new zealand animals (kiwi on an Australian-animals balloon would be wrong) and penguins (African, Humboldt, Galapagos penguins are not Antarctic). Horse tack kept non-separate since the horses parent already mixes in gear and stable words (horseshoe, stable, jockey). Maori names (kakapo, takahe, weta, tui, pukeko, piwakawaka, etc.) kept without macrons, as Merriam-Webster and Oxford spell them; NZ sources (DOC, Te Ara) use macrons (kākāpō, takahē, wētā), so switch if you prefer that. Galapagos kept plain (English references write it so); Adélie penguin given its accent. Turkish Kivircik kept plain (dotless ı may not reduce to a plain letter); Çatalburun given its cedilla. manege now has uk 'manège'. St Bernard and St Croix keep 'St' without a full stop since full stops are not allowed. Arctic/Alpine now capitalised consistently in their themes. Overlap between themes in the same level (e.g. Thomson's gazelle in african and savanna animals, many african/savanna and amazon/rainforest shared words) is unchanged from the first pass."
+}

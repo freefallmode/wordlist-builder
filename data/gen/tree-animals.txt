@@ -31,8 +31,8 @@
     parrots
     game birds
     colorful birds [property] -- birds known for bright plumage: peacock, toucan, macaw, kingfisher
-    bird body parts
-    birdwatching words
+    bird body parts [separate]
+    birdwatching words [separate]
   reptiles and amphibians
     snakes
       venomous snakes
@@ -51,16 +51,16 @@
     tropical fish
     rays and eels
     deep sea fish
-    fish body parts
+    fish body parts [separate]
   sea life
     crustaceans
-    mollusks
+    mollusks [separate]
       cephalopods -- octopus, squid, cuttlefish, nautilus and their kinds
     sea mammals
       seals and sea lions
     reef life
     jellyfish and relatives
-    seaweeds
+    seaweeds [separate]
     tide pool life [place]
     ocean giants [property] -- the largest sea creatures: blue whale, whale shark, giant squid, manta ray
   insects and bugs
@@ -69,14 +69,14 @@
     bees and wasps
     spiders
     garden bugs
-    insect body parts
+    insect body parts [separate]
     biting bugs [property] -- bugs that bite or suck blood: mosquito, flea, tick, bedbug
-    insect life cycle
+    insect life cycle [separate]
   domestic animals
     farm animals
     pets
       small pets
-      pet supplies
+      pet supplies [separate]
     dog breeds
       terriers
       hounds
@@ -84,18 +84,18 @@
       herding dogs
       working dogs
       sporting dogs -- retrievers, spaniels, setters, pointers
-    cat breeds
-    cattle breeds
-    chicken breeds
-    sheep breeds
+    cat breeds [separate]
+    cattle breeds [separate]
+    chicken breeds [separate]
+    sheep breeds [separate]
     working animals -- animals that do jobs for people: guide dog, sled dog, ox, camel
   horses
-    horse breeds
-    pony breeds
-    horse colors
+    horse breeds [separate]
+    pony breeds [separate]
+    horse colors [separate]
     horse tack
-    parts of a horse
-    horse family -- horse, donkey, zebra, mule, onager, kiang
+    parts of a horse [separate]
+    horse family [separate] -- horse, donkey, zebra, mule, onager, kiang
   animals of the world:
     african animals [region:Africa]
       african birds [region:Africa]
@@ -109,9 +109,9 @@
       southeast asian animals [region:Asia]
     australian animals [region:Oceania]
       australian birds [region:Oceania]
-      new zealand animals [region:Oceania]
+      new zealand animals [region:Oceania] [separate]
     antarctic animals [region:Antarctica]
-      penguins [region:Antarctica]
+      penguins [region:Antarctica] [separate]
     south american animals [region:South America]
       amazon animals [region:South America]
       andean animals [region:South America]
@@ -154,14 +154,14 @@
     flying reptiles
     sea reptiles
     ice age animals
-    extinct animals
-    prehistoric periods
-    dinosaur words
+    extinct animals [separate]
+    prehistoric periods [separate]
+    dinosaur words [separate]
   animal words
     baby animals
     animal homes
     animal sounds
-    collective nouns
+    collective nouns [separate]
     male animals
     female animals
     animal body parts

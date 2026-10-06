@@ -1,6 +1,6 @@
   instruments
     string instruments
-      guitar types
+      guitar types [separate]
       bowed instruments
     woodwind instruments
     brass instruments
@@ -19,23 +19,23 @@
       andean instruments [region:South America]
       celtic instruments [region:Europe]
     electronic instruments
-    instrument parts
+    instrument parts [separate]
   music styles
     music genres
       rock styles
       electronic music styles
-    classical forms
-    jazz words
+    classical forms [separate]
+    jazz words [separate]
     world music styles
       african music styles [region:Africa]
-      arabic music words [region:Middle East]
+      arabic music words [region:Middle East] [separate]
       asian music styles [region:Asia]
       latin music styles [region:South America]
       american roots music [region:North America]
       european folk music [region:Europe]
     dance music
-    song types
-    hip hop words
+    song types [separate]
+    hip hop words [separate]
   music words
     music terms
     voice types
@@ -43,16 +43,16 @@
     tempo words
     dynamics markings
     notes and rests
-    concert words
+    concert words [separate]
     recording studio words [place]
-    music festivals
+    music festivals [separate]
   musicians
     composers
       baroque composers
       romantic composers
       opera composers
       film composers
-    famous bands
+    famous bands [separate]
     pop stars
     jazz musicians
     rock guitarists
@@ -63,7 +63,7 @@
   dance
     dances
     ballet terms
-      famous ballets
+      famous ballets [separate]
     ballroom dances
     latin dances
     folk dances
@@ -76,7 +76,7 @@
       european folk dances [region:Europe]
     dance moves
     street dance styles
-    dance studio words [place]
+    dance studio words [place] [separate]
   art
     painting words
     painters
@@ -89,9 +89,9 @@
     art movements
     art materials
     sculpture words
-    photography words
+    photography words [separate]
       camera parts
-    famous paintings
+    famous paintings [separate]
     art gallery words [place]
     color theory words
     drawing techniques
@@ -106,7 +106,7 @@
     parts of a stage
     theater jobs
     opera words
-      famous operas
+      famous operas [separate]
     puppets
     musicals words
     stage genres
@@ -118,19 +118,19 @@
     film words
     behind the camera
     cartoon words
-    award words
+    award words [separate]
       entertainment awards
-    film festivals
+    film festivals [separate]
     movie theater words [place]
     tv words
     special effects words
-    film directors
-    classic film stars
-    bollywood stars [region:Asia]
+    film directors [separate]
+    classic film stars [separate]
+    bollywood stars [region:Asia] [separate]
     anime and manga words [region:Asia]
   literature
     book genres
-    authors
+    authors [separate]
       british novelists [region:Europe]
       american novelists [region:North America]
       russian writers [region:Europe]
@@ -140,37 +140,37 @@
       latin american writers [region:South America]
       children's authors
     poetry terms
-      poets
-      persian poets [region:Middle East]
+      poets [separate]
+      persian poets [region:Middle East] [separate]
     shakespeare plays
-      shakespeare characters
+      shakespeare characters [separate]
     fairy tales
     fairy tale characters
     parts of a book
     publishing words
     classic novels
-    comic book words
+    comic book words [separate]
   shows and fun
-    circus
+    circus [separate]
       circus acts
-    magic show words
-      famous magicians
-    comedy words
-      comedians
+    magic show words [separate]
+      famous magicians [separate]
+    comedy words [separate]
+      comedians [separate]
     fairground rides
     street performers
-    theme park words
+    theme park words [separate]
     party entertainment
-    nightclub words [place] [adult]
-    brazilian carnival words [region:South America]
+    nightclub words [place] [adult] [separate]
+    brazilian carnival words [region:South America] [separate]
   architecture
     architecture styles
-    architects
-    church parts
-    mosque parts [region:Middle East]
-    asian temple features [region:Asia]
+    architects [separate]
+    church parts [separate]
+    mosque parts [region:Middle East] [separate]
+    asian temple features [region:Asia] [separate]
     bridge types
     roof styles
-    column styles
+    column styles [separate]
     architectural features
     window styles

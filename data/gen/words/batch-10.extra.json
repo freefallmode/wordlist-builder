@@ -1,0 +1,5 @@
+{
+ "separate": ["monsoon season", "dry season", "metals", "mining words", "gold rush words", "endangered animals", "fossil fuels", "rainforest", "ocean", "desert", "savanna", "polar regions", "wetlands", "mountains", "meadow", "pond", "taiga", "oasis", "outback", "andes", "prairie", "antarctic coast"],
+ "removed": ["Lorax (environment)"],
+ "notes": "Habitat themes (rainforest ... antarctic coast) are listed as separate because their members are animals, plants and places of a habitat, not habitats; this only matters if 'habitats' is itself playable. Same for monsoon/dry season under 'seasons in nature'. metals are separate because alloys and elements like sodium or steel are not rocks or minerals. Borderline but kept NOT separate: natural disasters (includes famine, locust swarm), volcano words (named volcanoes, Pele, Vulcan), geothermal words (named places), soil words (hoe, mulch), building stones (ashlar, rubble). 'Mount St Helens' left without the period since the checker does not allow '.'. Kept 'forty-niner' (usual form) rather than '49er'. Parent/sub-theme overlap checked: none."
+}

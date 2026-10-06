@@ -1,0 +1,35 @@
+{
+ "separate": [
+  "knots",
+  "famous canals",
+  "famous trains",
+  "metro systems",
+  "famous train stations",
+  "motorcycle brands",
+  "cycling races",
+  "skateboard tricks",
+  "kinds of travelers",
+  "travel verbs",
+  "famous routes",
+  "animal-powered travel",
+  "giving directions",
+  "road trip words",
+  "hotel",
+  "hotel staff",
+  "room types",
+  "famous hotels",
+  "hotel chains",
+  "tent parts",
+  "tent types",
+  "campfire foods",
+  "survival skills"
+ ],
+ "removed": [
+  "Hogwarts Express (famous trains)",
+  "Polar Express (famous trains)",
+  "Thomas (famous locomotives)",
+  "Hogwarts Castle (famous locomotives)",
+  "Clockwork Orange (metro systems)"
+ ],
+ "notes": "Clockwork Orange removed from metro systems: it is the Glasgow Subway's real nickname but reads as the novel/film title; Glasgow Subway added instead. Hogwarts Castle is a real renamed locomotive but its name is franchise fiction. Giro kept alongside Giro d'Italia (both common). Locomotion left as is (usual 'Locomotion No. 1' needs a period). bosun kept (bo'sun is a variant). cafe racer kept plain (main dictionary form). Not marked separate: nautical directions, ship crew, train types, parts of a train, railway words, station words, railroad jobs, high-speed trains and famous locomotives (they read as famous trains), bike/motorcycle types, bicycle parts, cycling words, scooters and skates, vacation homes, traditional lodgings, camping gear, rvs and campers, hiking gear."
+}

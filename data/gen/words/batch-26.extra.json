@@ -1,0 +1,13 @@
+{
+ "separate": [
+  "adhesives",
+  "chores",
+  "bins and recycling",
+  "household pests",
+  "house styles",
+  "household bills",
+  "fashion styles"
+ ],
+ "removed": [],
+ "notes": "No fiction removals: kept 'Daisy Dukes' (pants, from the Dukes of Hazzard character), 'Harrington jacket' (named after a Peyton Place character) and 'Lolita' (fashion style, after Nabokov) as they are now generic garment/style names; drop them if you want to be strict. Hawaiian clothing left in plain spelling (muumuu, holoku, pau skirt, kihei) as English dictionaries mostly print them without the okina/kahako. Ottoman clothing switched to Turkish letters (şalvar, çarşaf, kuşak, sarık, hırka, cübbe, bindallı). adhesives is under 'tools', but glue and tape do not read as tools, so marked separate. 'Mr Muscle' kept without period (UK brand style); 'Mr. Clean' gets one (US brand)."
+}

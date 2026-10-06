@@ -1,0 +1,27 @@
+{
+ "separate": [
+  "codes and signals",
+  "phonetic alphabet",
+  "fonts",
+  "pronouns",
+  "prepositions",
+  "conjunctions",
+  "interjections",
+  "irregular past tenses",
+  "irregular plurals",
+  "figures of speech",
+  "poetry forms"
+ ],
+ "removed": [
+  "Klingon (languages)",
+  "Elvish (languages)",
+  "Dothraki (languages)",
+  "Sindarin (languages)",
+  "Quenya (languages)",
+  "Valyrian (languages)",
+  "Newspeak (languages)",
+  "Nadsat (languages)",
+  "la gon (goodbye around the world)"
+ ],
+ "notes": "Removed 'la gon' (goodbye) as unverifiable. Constructed-language parent 'languages' now holds only real conlangs (fiction removed). Romanized Japanese/Chinese/Korean/Greek greetings kept plain (arigato, ni hao, efharisto) as English references usually write them. Phonetic alphabet words all capitalized as code words (Alfa, X-ray). Considered but did not mark separate: greek letters, keyboard symbols, typography words (some deep members like widow/bowl/counter only make sense in typography). Hello/thank you/goodbye kept non-separate under 'foreign words'; did not add English g'day for that reason."
+}

@@ -114,7 +114,7 @@
 0
 ],
 [
-"Nordenskjold",
+"Nordenskjöld",
 "",
 5,
 14,
@@ -440,14 +440,14 @@
 0
 ],
 [
-"Nordenskiold",
+"Nordenskiöld",
 "",
 4,
 14,
 0
 ],
 [
-"Andree",
+"Andrée",
 "",
 4,
 16,
@@ -822,7 +822,7 @@
 0
 ],
 [
-"Gjoa",
+"Gjøa",
 "",
 4,
 12,
@@ -941,7 +941,7 @@
 0
 ],
 [
-"St Roch",
+"St. Roch",
 "",
 5,
 12,
@@ -1053,7 +1053,7 @@
 0
 ],
 [
-"Francais",
+"Français",
 "",
 5,
 14,
@@ -2066,7 +2066,7 @@
 0
 ],
 [
-"Nina",
+"Niña",
 "",
 3,
 35,
@@ -2220,7 +2220,7 @@
 0
 ],
 [
-"La Perouse",
+"La Pérouse",
 "",
 5,
 16,
@@ -2318,7 +2318,7 @@
 0
 ],
 [
-"Hokulea",
+"Hōkūle'a",
 "",
 4,
 14,
@@ -2378,6 +2378,20 @@
 "",
 5,
 18,
+0
+],
+[
+"Apollo 11",
+"",
+1,
+26,
+0
+],
+[
+"Apollo 13",
+"",
+2,
+22,
 0
 ]
 ]
@@ -2700,7 +2714,7 @@
 0
 ],
 [
-"Halley",
+"Halley's Comet",
 "",
 3,
 28,
@@ -2879,14 +2893,14 @@
 0
 ],
 [
-"Xian",
+"Xi'an",
 "",
 3,
 24,
 0
 ],
 [
-"Changan",
+"Chang'an",
 "",
 4,
 14,
@@ -3664,7 +3678,7 @@
 0
 ],
 [
-"Hokulea",
+"Hōkūle'a",
 "",
 3,
 14,
@@ -3755,7 +3769,7 @@
 0
 ],
 [
-"Taputapuatea",
+"Taputapuātea",
 "",
 5,
 10,
@@ -3951,7 +3965,7 @@
 0
 ],
 [
-"Takitimu",
+"Tākitimu",
 "",
 5,
 14,
@@ -3965,7 +3979,7 @@
 0
 ],
 [
-"Mataatua",
+"Mātaatua",
 "",
 5,
 12,
@@ -3979,7 +3993,7 @@
 0
 ],
 [
-"Kurahaupo",
+"Kurahaupō",
 "",
 5,
 10,
@@ -4512,13 +4526,6 @@
 0
 ],
 [
-"hook",
-"",
-2,
-44,
-0
-],
-[
 "parrot",
 "",
 1,
@@ -4589,7 +4596,7 @@
 0
 ],
 [
-"ship wheel",
+"ship's wheel",
 "",
 3,
 14,
@@ -4600,13 +4607,6 @@
 "",
 2,
 20,
-0
-],
-[
-"Pirates of the Caribbean",
-"",
-1,
-28,
 0
 ],
 [
@@ -4652,31 +4652,10 @@
 0
 ],
 [
-"One Piece",
-"",
-2,
-24,
-0
-],
-[
-"Black Sails",
-"",
-4,
-16,
-0
-],
-[
 "Golden Age of Piracy",
 "",
 3,
 14,
-0
-],
-[
-"Captain Pugwash",
-"",
-4,
-12,
 0
 ]
 ]
@@ -4976,6 +4955,13 @@
 4,
 14,
 0
+],
+[
+"Davy Jones's locker",
+"",
+1,
+16,
+0
 ]
 ]
 },
@@ -5143,7 +5129,7 @@
 0
 ],
 [
-"Stortebeker",
+"Störtebeker",
 "",
 5,
 10,
@@ -5171,7 +5157,7 @@
 0
 ],
 [
-"Jose Gaspar",
+"José Gaspar",
 "",
 4,
 12,
@@ -5192,13 +5178,6 @@
 0
 ],
 [
-"Jack Sparrow",
-"",
-1,
-26,
-0
-],
-[
 "Captain Flint",
 "",
 2,
@@ -5206,31 +5185,10 @@
 0
 ],
 [
-"Barbossa",
-"",
-2,
-20,
-0
-],
-[
 "Captain Blood",
 "",
 3,
 18,
-0
-],
-[
-"Dread Pirate Roberts",
-"",
-3,
-12,
-0
-],
-[
-"Captain Pugwash",
-"",
-4,
-12,
 0
 ],
 [
@@ -5242,6 +5200,20 @@
 ],
 [
 "Granuaile",
+"",
+4,
+10,
+0
+],
+[
+"Grace O'Malley",
+"",
+3,
+14,
+0
+],
+[
+"François l'Olonnais",
 "",
 4,
 10,
@@ -5530,6 +5502,13 @@
 1,
 18,
 0
+],
+[
+"king's ransom",
+"",
+3,
+16,
+0
 ]
 ]
 },
@@ -5606,20 +5585,6 @@
 0
 ],
 [
-"Black Pearl",
-"",
-1,
-24,
-0
-],
-[
-"Jolly Roger",
-"",
-2,
-24,
-0
-],
-[
 "Flying Dutchman",
 "",
 1,
@@ -5676,20 +5641,6 @@
 0
 ],
 [
-"Going Merry",
-"",
-4,
-12,
-0
-],
-[
-"Thousand Sunny",
-"",
-4,
-12,
-0
-],
-[
 "Mocha Frigate",
 "",
 5,
@@ -5701,6 +5652,13 @@
 "",
 5,
 10,
+0
+],
+[
+"Queen Anne's Revenge",
+"",
+2,
+14,
 0
 ]
 ]
@@ -5999,13 +5957,6 @@
 0
 ],
 [
-"Skull Island",
-"",
-3,
-18,
-0
-],
-[
 "Ocracoke",
 "",
 3,
@@ -6031,20 +5982,6 @@
 "",
 2,
 26,
-0
-],
-[
-"Shipwreck Cove",
-"",
-4,
-10,
-0
-],
-[
-"Isla de Muerta",
-"",
-4,
-10,
 0
 ],
 [
@@ -6132,7 +6069,7 @@
 0
 ],
 [
-"Petit-Goave",
+"Petit-Goâve",
 "",
 5,
 8,
@@ -6357,7 +6294,7 @@
 0
 ],
 [
-"cat-o-nine-tails",
+"cat-o'-nine-tails",
 "",
 2,
 18,
@@ -6399,7 +6336,7 @@
 0
 ],
 [
-"Moses Law",
+"Moses' Law",
 "",
 4,
 10,
@@ -6494,21 +6431,21 @@
 0
 ],
 [
-"Hundred Years War",
+"Hundred Years' War",
 "",
 2,
 24,
 0
 ],
 [
-"Thirty Years War",
+"Thirty Years' War",
 "",
 3,
 22,
 0
 ],
 [
-"Seven Years War",
+"Seven Years' War",
 "",
 3,
 22,
@@ -6814,6 +6751,41 @@
 4,
 14,
 0
+],
+[
+"War of 1812",
+"",
+2,
+24,
+0
+],
+[
+"Eighty Years' War",
+"",
+4,
+14,
+0
+],
+[
+"King Philip's War",
+"",
+4,
+12,
+0
+],
+[
+"Queen Anne's War",
+"",
+5,
+10,
+0
+],
+[
+"War of the Austrian Succession",
+"",
+4,
+14,
+0
 ]
 ]
 },
@@ -7114,7 +7086,7 @@
 0
 ],
 [
-"Mohacs",
+"Mohács",
 "",
 4,
 14,
@@ -7149,7 +7121,7 @@
 0
 ],
 [
-"Koniggratz",
+"Königgrätz",
 "",
 5,
 12,
@@ -7282,14 +7254,14 @@
 0
 ],
 [
-"Boyaca",
+"Boyacá",
 "",
 4,
 14,
 0
 ],
 [
-"Maipu",
+"Maipú",
 "",
 5,
 14,
@@ -7314,6 +7286,13 @@
 "",
 3,
 26,
+0
+],
+[
+"Rorke's Drift",
+"",
+3,
+16,
 0
 ]
 ]
@@ -7696,7 +7675,7 @@
 0
 ],
 [
-"Crecy",
+"Crécy",
 "",
 2,
 18,
@@ -7962,7 +7941,7 @@
 0
 ],
 [
-"Orleans",
+"Orléans",
 "",
 3,
 30,
@@ -8109,8 +8088,8 @@
 0
 ],
 [
+"St. Albans",
 "St Albans",
-"",
 4,
 28,
 0
@@ -8281,7 +8260,7 @@
 0
 ],
 [
-"Lutzen",
+"Lützen",
 "",
 4,
 12,
@@ -8358,21 +8337,21 @@
 0
 ],
 [
-"Rolica",
+"Roliça",
 "",
 5,
 8,
 0
 ],
 [
-"Fuentes de Onoro",
+"Fuentes de Oñoro",
 "",
 5,
 8,
 0
 ],
 [
-"Bailen",
+"Bailén",
 "",
 5,
 10,
@@ -8386,7 +8365,7 @@
 0
 ],
 [
-"Eckmuhl",
+"Eckmühl",
 "",
 5,
 10,
@@ -8491,7 +8470,7 @@
 0
 ],
 [
-"La Rothiere",
+"La Rothière",
 "",
 5,
 8,
@@ -8747,8 +8726,8 @@
 0
 ],
 [
+"St. Mihiel",
 "St Mihiel",
-"",
 4,
 12,
 0
@@ -8761,7 +8740,7 @@
 0
 ],
 [
-"Gorlice-Tarnow",
+"Gorlice-Tarnów",
 "",
 5,
 10,
@@ -8831,7 +8810,7 @@
 0
 ],
 [
-"Pozieres",
+"Pozières",
 "",
 4,
 10,
@@ -8845,7 +8824,7 @@
 0
 ],
 [
-"Chateau-Thierry",
+"Château-Thierry",
 "",
 4,
 12,
@@ -8915,7 +8894,7 @@
 0
 ],
 [
-"Przemysl",
+"Przemyśl",
 "",
 5,
 12,
@@ -8929,7 +8908,7 @@
 0
 ],
 [
-"Liege",
+"Liège",
 "",
 4,
 24,
@@ -9031,6 +9010,13 @@
 "",
 5,
 10,
+0
+],
+[
+"Hill 60",
+"",
+4,
+12,
 0
 ]
 ]
@@ -9311,7 +9297,7 @@
 0
 ],
 [
-"Hurtgen Forest",
+"Hürtgen Forest",
 "",
 3,
 14,
@@ -11043,6 +11029,20 @@
 2,
 38,
 0
+],
+[
+"no man's land",
+"",
+2,
+22,
+0
+],
+[
+"POW",
+"",
+2,
+28,
+0
 ]
 ]
 },
@@ -11932,14 +11932,14 @@
 0
 ],
 [
-"Ulysses Grant",
+"Ulysses S. Grant",
 "",
 2,
 20,
 0
 ],
 [
-"Robert E Lee",
+"Robert E. Lee",
 "",
 1,
 20,
@@ -12093,7 +12093,7 @@
 0
 ],
 [
-"Blucher",
+"Blücher",
 "",
 3,
 16,
@@ -12156,7 +12156,7 @@
 0
 ],
 [
-"Petain",
+"Pétain",
 "",
 3,
 18,
@@ -12254,7 +12254,7 @@
 0
 ],
 [
-"Simon Bolivar",
+"Simón Bolívar",
 "",
 3,
 24,
@@ -12506,7 +12506,7 @@
 0
 ],
 [
-"Jan Zizka",
+"Jan Žižka",
 "",
 4,
 10,
@@ -12657,7 +12657,7 @@
 0
 ],
 [
-"detente",
+"détente",
 "",
 3,
 20,
@@ -13131,6 +13131,20 @@
 3,
 34,
 0
+],
+[
+"U-2",
+"",
+3,
+22,
+0
+],
+[
+"38th parallel",
+"",
+4,
+14,
+0
 ]
 ]
 },
@@ -13249,7 +13263,7 @@
 0
 ],
 [
-"Fuhrer",
+"Führer",
 "",
 2,
 20,
@@ -13445,15 +13459,15 @@
 0
 ],
 [
+"V-E Day",
 "VE Day",
-"",
 2,
 20,
 0
 ],
 [
+"V-J Day",
 "VJ Day",
-"",
 3,
 16,
 0
@@ -13838,6 +13852,34 @@
 ],
 [
 "Desert Fox",
+"",
+4,
+16,
+0
+],
+[
+"V-2",
+"",
+3,
+20,
+0
+],
+[
+"V-1",
+"",
+4,
+16,
+0
+],
+[
+"B-17",
+"",
+4,
+16,
+0
+],
+[
+"B-29",
 "",
 4,
 16,
@@ -14650,7 +14692,7 @@
 0
 ],
 [
-"Pele",
+"Pelé",
 "",
 2,
 30,
@@ -14773,7 +14815,7 @@
 0
 ],
 [
-"Ataturk",
+"Atatürk",
 "",
 3,
 22,
@@ -15067,14 +15109,14 @@
 0
 ],
 [
-"Juan Peron",
+"Juan Perón",
 "",
 3,
 20,
 0
 ],
 [
-"Eva Peron",
+"Eva Perón",
 "",
 3,
 22,
@@ -15109,21 +15151,21 @@
 0
 ],
 [
-"Benito Juarez",
+"Benito Juárez",
 "",
 3,
 18,
 0
 ],
 [
-"Lech Walesa",
+"Lech Wałęsa",
 "",
 3,
 18,
 0
 ],
 [
-"Vaclav Havel",
+"Václav Havel",
 "",
 3,
 18,
@@ -15281,7 +15323,7 @@
 0
 ],
 [
-"Leopold Senghor",
+"Léopold Senghor",
 "",
 4,
 14,
@@ -15302,7 +15344,7 @@
 0
 ],
 [
-"Amilcar Cabral",
+"Amílcar Cabral",
 "",
 4,
 14,
@@ -15358,7 +15400,7 @@
 0
 ],
 [
-"Samori Toure",
+"Samori Touré",
 "",
 4,
 12,
@@ -15456,7 +15498,7 @@
 0
 ],
 [
-"Ahmed Sekou Toure",
+"Ahmed Sékou Touré",
 "",
 4,
 12,
@@ -15523,21 +15565,21 @@
 "latin american liberators": {
 "words": [
 [
-"Simon Bolivar",
+"Simón Bolívar",
 "",
 1,
 24,
 0
 ],
 [
-"Jose de San Martin",
+"José de San Martín",
 "",
 2,
 18,
 0
 ],
 [
-"Antonio Jose de Sucre",
+"Antonio José de Sucre",
 "",
 3,
 14,
@@ -15551,21 +15593,21 @@
 0
 ],
 [
-"Jose Maria Morelos",
+"José María Morelos",
 "",
 3,
 14,
 0
 ],
 [
-"Agustin de Iturbide",
+"Agustín de Iturbide",
 "",
 4,
 14,
 0
 ],
 [
-"Jose Marti",
+"José Martí",
 "",
 2,
 20,
@@ -15586,14 +15628,14 @@
 0
 ],
 [
-"Alexandre Petion",
+"Alexandre Pétion",
 "",
 4,
 12,
 0
 ],
 [
-"Jose Artigas",
+"José Artigas",
 "",
 4,
 14,
@@ -15614,7 +15656,7 @@
 0
 ],
 [
-"Jose Antonio Paez",
+"José Antonio Páez",
 "",
 4,
 12,
@@ -15628,7 +15670,7 @@
 0
 ],
 [
-"Francisco Morazan",
+"Francisco Morazán",
 "",
 4,
 12,
@@ -15642,7 +15684,7 @@
 0
 ],
 [
-"Manuela Saenz",
+"Manuela Sáenz",
 "",
 3,
 14,
@@ -15670,21 +15712,21 @@
 0
 ],
 [
-"Jose Miguel Carrera",
+"José Miguel Carrera",
 "",
 4,
 12,
 0
 ],
 [
-"Manuel Rodriguez",
+"Manuel Rodríguez",
 "",
 5,
 16,
 0
 ],
 [
-"Antonio Narino",
+"Antonio Nariño",
 "",
 4,
 12,
@@ -15730,6 +15772,13 @@
 "",
 4,
 16,
+0
+],
+[
+"Bernardo O'Higgins",
+"",
+2,
+18,
 0
 ]
 ]
@@ -17475,14 +17524,14 @@
 0
 ],
 [
-"Marie de Medici",
+"Marie de' Medici",
 "",
 4,
 16,
 0
 ],
 [
-"Catherine de Medici",
+"Catherine de' Medici",
 "",
 3,
 18,

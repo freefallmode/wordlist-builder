@@ -1,0 +1,21 @@
+{
+ "separate": [
+  "dental care",
+  "korean skincare",
+  "phobias",
+  "massage types",
+  "bad habits",
+  "spa",
+  "turkish bath",
+  "european spa towns",
+  "diet types",
+  "healthy snacks",
+  "ways of speaking",
+  "ways of looking",
+  "body noises"
+ ],
+ "removed": [
+  "Vulcan salute (gestures)"
+ ],
+ "notes": "Changed: Dr Jart -> Dr. Jart (korean skincare); Heviz -> Hévíz (european spa towns); Piestany -> Piešťany (european spa towns); Rogaska Slatina -> Rogaška Slatina (european spa towns); St Moritz -> St. Moritz (european spa towns); Jurmala -> Jūrmala (european spa towns); Cagaloglu -> Cağaloğlu (turkish bath); Cemberlitas -> Çemberlitaş (turkish bath); acai -> açaí (superfoods); puppy eyes -> puppy-dog eyes (facial expressions). Added: vitamin B12 (vitamins); vitamin B6 (vitamins); omega-3 (nutrients); omega-6 (nutrients); 10-step routine (korean skincare); seasonal affective disorder (mental health words); postnatal depression (mental health words); ants on a log (healthy snacks); good night's sleep (healthy habits); sign of the cross (gestures); alpha hydroxy acid (skincare products); SPF (skincare products). Superfoods kept under nutrition (borderline: they are foods, but \"superfood\" is a nutrition idea). Not added because the checker rejects the characters: 5:2 diet and 16:8 fasting (colon), 10,000 steps (comma). Dr. Jart is really Dr.Jart+ (plus sign dropped). Phasmophobia kept: it is a real word as well as a video game title."
+}

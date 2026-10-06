@@ -7,33 +7,33 @@
     car parts
       dashboard items -- things on or in a car dashboard: speedometer, odometer, glove box, fuel gauge
     car types
-      famous car models -- named models: Model T, Beetle, Mustang, Mini, Corvette, Corolla
+      famous car models [separate] -- named models: Model T, Beetle, Mustang, Mini, Corvette, Corolla
     driving words
     motor racing
-      famous race tracks -- Monza, Silverstone, Daytona, Le Mans, Suzuka, Indianapolis
+      famous race tracks [separate] -- Monza, Silverstone, Daytona, Le Mans, Suzuka, Indianapolis
     road signs
-    gas station [place]
+    gas station [place] [separate]
     parking words
   public transportation
     bus types
-    on a bus [place]
+    on a bus [place] [separate]
     ticket words -- fare, pass, one-way, round-trip, stub, validate
     commuting words
     taxis of the world -- cab, tuk-tuk, jeepney, matatu, dolmus, pedicab, water taxi
-    cable cars and lifts -- cable car, gondola, chairlift, funicular, T-bar, aerial tram
+    cable cars and lifts [separate] -- cable car, gondola, chairlift, funicular, T-bar, aerial tram
   air travel
     aircraft types
     plane parts
     airport words
     flight crew
-    airlines
+    airlines [separate]
       european airlines [region:Europe]
       asian airlines [region:Asia]
       middle eastern airlines [region:Middle East]
     flying machines
-    famous airports -- Heathrow, JFK, Changi, O'Hare, Schiphol, Narita
+    famous airports [separate] -- Heathrow, JFK, Changi, O'Hare, Schiphol, Narita
     in-flight words -- tray table, overhead bin, aisle seat, seatbelt sign, turbulence
-    aircraft makers -- Boeing, Airbus, Embraer, Cessna, Lockheed, Antonov
+    aircraft makers [separate] -- Boeing, Airbus, Embraer, Cessna, Lockheed, Antonov
   boats and ships
     boat types
       small boats -- canoe, kayak, dinghy, rowboat, punt, raft, skiff
@@ -43,9 +43,9 @@
     ship parts
     sailing words
     ports and harbors -- parts of a harbor: dock, pier, quay, wharf, jetty, marina, berth
-    famous ships
-    knots -- knots you tie: bowline, reef knot, clove hitch, sheepshank
-    famous canals -- Suez, Panama, Erie, Kiel, Corinth, Grand Canal
+    famous ships [separate]
+    knots [separate] -- knots you tie: bowline, reef knot, clove hitch, sheepshank
+    famous canals [separate] -- Suez, Panama, Erie, Kiel, Corinth, Grand Canal
     nautical directions -- port, starboard, bow, stern, aft, leeward, windward
     ship crew -- captain, first mate, bosun, deckhand, purser, helmsman
   trains
@@ -53,11 +53,11 @@
     parts of a train
     railway words
     station words
-    famous trains
+    famous trains [separate]
       high-speed trains -- Shinkansen, TGV, ICE, AVE, Eurostar, Acela, KTX
       famous locomotives -- Flying Scotsman, Mallard, Rocket, Big Boy
-    metro systems -- names of city rail systems: Tube, U-Bahn, BART, MTR, the El, Marmaray
-    famous train stations -- Grand Central, King's Cross, Gare du Nord, Haydarpasa, Shinjuku
+    metro systems [separate] -- names of city rail systems: Tube, U-Bahn, BART, MTR, the El, Marmaray
+    famous train stations [separate] -- Grand Central, King's Cross, Gare du Nord, Haydarpasa, Shinjuku
     railroad jobs -- conductor, engineer, porter, signalman, stoker, brakeman
   bikes and boards:
     bicycle parts
@@ -69,26 +69,26 @@
     skateboard tricks
     scooters and skates -- kick scooter, roller skates, inline skates, skateboard, hoverboard, unicycle
   journeys -- words for a trip: voyage, trek, tour, excursion, expedition, outing, odyssey
-    kinds of travelers -- tourist, backpacker, nomad, pilgrim, commuter, globetrotter, hitchhiker
-    travel verbs -- depart, arrive, board, embark, roam, wander, commute, hitchhike
-    famous routes -- Silk Road, Route 66, Camino de Santiago, Pan-American Highway, Spice Route
-    animal-powered travel -- camel, mule, dog sled, ox cart, elephant, llama, horse and buggy
-    giving directions -- turn left, go straight, U-turn, next exit, roundabout, two blocks
-    road trip words -- detour, rest stop, mileage, carpool, motel, snacks, playlist, odometer, convoy
+    kinds of travelers [separate] -- tourist, backpacker, nomad, pilgrim, commuter, globetrotter, hitchhiker
+    travel verbs [separate] -- depart, arrive, board, embark, roam, wander, commute, hitchhike
+    famous routes [separate] -- Silk Road, Route 66, Camino de Santiago, Pan-American Highway, Spice Route
+    animal-powered travel [separate] -- camel, mule, dog sled, ox cart, elephant, llama, horse and buggy
+    giving directions [separate] -- turn left, go straight, U-turn, next exit, roundabout, two blocks
+    road trip words [separate] -- detour, rest stop, mileage, carpool, motel, snacks, playlist, odometer, convoy
   accommodation -- places to stay: hotel, motel, hostel, inn, B&B, campsite, guesthouse
-    hotel [place]
-    hotel staff
-    room types
+    hotel [place] [separate]
+    hotel staff [separate]
+    room types [separate]
     vacation homes -- villa, chalet, cabin, cottage, condo, bungalow, timeshare
-    famous hotels -- Ritz, Savoy, Plaza, Waldorf Astoria, Burj Al Arab, Raffles, Pera Palace
-    hotel chains -- Hilton, Marriott, Hyatt, Sheraton, Holiday Inn, Ibis, Radisson
+    famous hotels [separate] -- Ritz, Savoy, Plaza, Waldorf Astoria, Burj Al Arab, Raffles, Pera Palace
+    hotel chains [separate] -- Hilton, Marriott, Hyatt, Sheraton, Holiday Inn, Ibis, Radisson
     traditional lodgings -- ryokan, riad, caravanserai, pousada, parador, ger, longhouse
   campsite [place]
     camping gear
-    tent parts
-    tent types -- dome, tipi, bell, tunnel, pup tent, A-frame, bivy
-    campfire foods
-    survival skills
+    tent parts [separate]
+    tent types [separate] -- dome, tipi, bell, tunnel, pup tent, A-frame, bivy
+    campfire foods [separate]
+    survival skills [separate]
     rvs and campers -- RV, motorhome, camper van, trailer, Airstream, fifth wheel, teardrop
   outdoors:
     hiking gear
@@ -116,7 +116,7 @@
     beach vacation -- things on a beach vacation: sunscreen, deck chair, sandcastle, cabana
     ski trip -- things on a ski trip: chairlift, chalet, piste, lift pass, apres-ski
     cruise words
-      cruise lines -- Carnival, Royal Caribbean, Cunard, Princess, MSC, Holland America
+      cruise lines [separate] -- Carnival, Royal Caribbean, Cunard, Princess, MSC, Holland America
     sightseeing words
     tourist attractions -- kinds of attraction: museum, aquarium, gallery, viewpoint, old town
     famous theme parks -- Disneyland, Tivoli, Efteling, Europa-Park, Cedar Point, Everland
@@ -136,8 +136,8 @@
     emergency vehicles
     construction vehicles
     farm vehicles
-    military vehicles [adult]
+    military vehicles [adult] [separate]
     delivery vehicles
-    space vehicles
-    horse-drawn vehicles -- carriage, wagon, buggy, stagecoach, chariot, hansom cab, sleigh
-    truck types -- pickup, semi, dump truck, tow truck, flatbed, tanker, box truck
+    space vehicles [separate]
+    horse-drawn vehicles [separate] -- carriage, wagon, buggy, stagecoach, chariot, hansom cab, sleigh
+    truck types [separate] -- pickup, semi, dump truck, tow truck, flatbed, tanker, box truck

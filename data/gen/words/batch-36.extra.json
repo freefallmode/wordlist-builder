@@ -1,0 +1,35 @@
+{
+ "separate": [
+  "poets",
+  "persian poets",
+  "shakespeare characters",
+  "comic book words",
+  "circus",
+  "magic show words",
+  "famous magicians",
+  "comedy words",
+  "comedians",
+  "theme park words",
+  "nightclub words",
+  "brazilian carnival words",
+  "architects",
+  "church parts",
+  "mosque parts",
+  "asian temple features",
+  "column styles"
+ ],
+ "removed": [
+  "Ariel (fairy tale characters)",
+  "Maleficent (fairy tale characters)",
+  "Grumpy (fairy tale characters)",
+  "Dopey (fairy tale characters)",
+  "Sneezy (fairy tale characters)",
+  "Bashful (fairy tale characters)",
+  "Sleepy (fairy tale characters)",
+  "Doc (fairy tale characters)",
+  "Lord of the Rings (classic novels)",
+  "Hobbit (classic novels)",
+  "Mr Bean (comedians)"
+ ],
+ "notes": "Fiction removed: Lord of the Rings and Hobbit (Tolkien estate franchise), Mr Bean (TV character), and the Disney-only fairy tale names (Ariel, Maleficent, the seven dwarfs' names). Kept Belle, Aurora, Briar Rose, Prince Charming, Seven Dwarfs (older public-domain sources). Kept classic novels still under copyright that are single literary titles rather than franchises (To Kill a Mockingbird, Lord of the Flies, Catcher in the Rye, Watership Down, Gone with the Wind, Brave New World); drop them if the rule is meant to cover every copyrighted title. '1984' now uses the digits with 'Nineteen Eighty-Four' as the uk form; 'Mrs. Dalloway' likewise. Initials now use periods (J. K. Rowling, C. S. Lewis, T. S. Eliot, I. M. Pei, O. Henry, Louis C.K.). Japanese names use Hepburn macrons as Britannica does (Sōseki, Bashō, Ōe); Turkish names use Turkish letters except Elif Shafak, her English byline; Mariana Enriquez left unaccented (her own spelling). Generic fairy tale characters lowercased (witch, ogre, giant...); Beast stays capitalised. beer pong and drinking games in party entertainment now adult=1. Not separate: the novelist sub-themes (surnames read as authors), circus acts, fairground rides, street performers, party entertainment, architecture styles, bridge types, roof styles, window styles, architectural features. Separate column styles because several entries are bare adjectives (Egyptian, Persian, Composite, Tuscan). Shakespeare plays flag trimmed: the apostrophe titles are now in. 'Much Ado' kept as the usual short form."
+}
