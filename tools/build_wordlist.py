@@ -109,7 +109,7 @@ for k, w in words.items():
     r = reason(text)
     note = '; '.join(dict.fromkeys([r] + w['notes'] if r else w['notes']))
     rows.append([text, w['th'], 0 if r else 1, round(z * 10) if z else 0, 0, 'L', note, w['uk'],
-                 w.get('x', []), 1 if 'x' in w else 0, [], [[t, f] for t, f in w['fam'].items()], round(zest * 10) if zest else 0, w['adult'],
+                 [t for t in w.get('x', []) if t not in w['th']], 1 if 'x' in w else 0, [], [[t, f] for t, f in w['fam'].items()], round(zest * 10) if zest else 0, w['adult'],
                  [[t, f] for t, f in w['tform'].items() if f != text]])
 
 out = {

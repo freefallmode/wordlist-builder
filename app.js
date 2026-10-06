@@ -3,7 +3,7 @@
 // The project lives in IndexedDB (autosaved) and in project files. Both use
 // the compact format from serialize(): words point at themes by index.
 
-const VERSION = '24';  // must match data-v and the ?v= links in index.html
+const VERSION = '25';  // must match data-v and the ?v= links in index.html
 const $ = s => document.querySelector(s);
 const esc = s => String(s ?? '').replace(/[&<>"']/g, c => ({ '&': '&amp;', '<': '&lt;', '>': '&gt;', '"': '&quot;', "'": '&#39;' }[c]));
 const slug = t => t.normalize('NFKD').replace(/[̀-ͯ]/g, '').replace(/[^\p{L}\p{N}]+/gu, '_').replace(/^_|_$/g, '').toLowerCase();
@@ -358,14 +358,14 @@ function exportGame() {
     const o = SET.spelling === 'UK' ? w.t : w.uk;
     const forms = Object.entries(w.tf || {}).filter(([t]) => at[t] !== undefined).map(([t, f]) => [at[t], f, plain(f)]);
     words.push([form(w), plain(form(w)), w.z == null ? 0 : Math.round(w.z * 10), th.map(t => at[t]), th.map(t => wordDiff(w, t)),
-      (w.x || []).filter(t => at[t] !== undefined).map(t => at[t]), o && o !== form(w) ? o : '', forms]);
+      (w.x || []).filter(t => at[t] !== undefined).map(t => at[t]), o && o !== form(w) ? o : '', forms, +((w.note || '').match(/anagram set (\d+)/) || [0, 0])[1]]);
   }
   words.sort((a, b) => a[0].localeCompare(b[0]));
   return JSON.stringify({
-    v: 3, generated: new Date().toISOString(), spelling: SET.spelling, familyFriendly: !!fam,
+    v: 4, generated: new Date().toISOString(), spelling: SET.spelling, familyFriendly: !!fam,
     themeFields: ['id', 'name', 'label', 'parent', 'group', 'kind', 'region', 'difficulty', 'adult', 'separate'],
     themes: themes.map(t => [t.id, t.name, t.label || '', t.parent ? at[t.parent] : -1, t.group ? 1 : 0, t.kind || '', t.region || '', themeDiff(t.id), themeAdult(t.id) ? 1 : 0, t.sep ? 1 : 0]),
-    wordFields: ['text', 'balloonText', 'zipf10', 'themes', 'difficultyPerTheme', 'clashes', 'otherSpelling', 'formsPerTheme'],
+    wordFields: ['text', 'balloonText', 'zipf10', 'themes', 'difficultyPerTheme', 'clashes', 'otherSpelling', 'formsPerTheme', 'anagramSet'],
     words,
   });
 }

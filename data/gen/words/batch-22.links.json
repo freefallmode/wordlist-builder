@@ -14787,6 +14787,1862 @@
    "famous trains"
   ]
  },
+ "neighbor": {
+  "also": [],
+  "clash": [
+   "american suburb"
+  ]
+ },
+ "household": {
+  "also": [],
+  "clash": [
+   "household objects"
+  ]
+ },
+ "family tree": {
+  "also": [],
+  "clash": [
+   "genetics words"
+  ]
+ },
+ "relative": {
+  "also": [],
+  "clash": [
+   "physics words"
+  ]
+ },
+ "get-together": {
+  "also": [],
+  "clash": [
+   "party entertainment"
+  ]
+ },
+ "kin": {
+  "also": [],
+  "clash": [
+   "extended family"
+  ]
+ },
+ "relation": {
+  "also": [],
+  "clash": [
+   "extended family"
+  ]
+ },
+ "kinsman": {
+  "also": [],
+  "clash": [
+   "extended family"
+  ]
+ },
+ "kinswoman": {
+  "also": [],
+  "clash": [
+   "extended family"
+  ]
+ },
+ "family friend": {
+  "also": [],
+  "clash": [
+   "words for friend"
+  ]
+ },
+ "housemate": {
+  "also": [],
+  "clash": [
+   "words for friend"
+  ]
+ },
+ "ancestry": {
+  "also": [],
+  "clash": [
+   "genetics words"
+  ]
+ },
+ "progeny": {
+  "also": [],
+  "clash": [
+   "baby animals"
+  ]
+ },
+ "wife": {
+  "also": [
+   [
+    "relationships",
+    1
+   ]
+  ],
+  "clash": []
+ },
+ "husband": {
+  "also": [
+   [
+    "relationships",
+    1
+   ]
+  ],
+  "clash": []
+ },
+ "spouse": {
+  "also": [
+   [
+    "relationships",
+    1
+   ]
+  ],
+  "clash": []
+ },
+ "hubby": {
+  "also": [
+   [
+    "relationships",
+    2
+   ]
+  ],
+  "clash": [
+   "terms of endearment"
+  ]
+ },
+ "missus": {
+  "also": [
+   [
+    "relationships",
+    2
+   ]
+  ],
+  "clash": [
+   "british slang"
+  ]
+ },
+ "daddy": {
+  "also": [],
+  "clash": [
+   "baby talk",
+   "terms of endearment"
+  ]
+ },
+ "ma": {
+  "also": [],
+  "clash": [
+   "baby talk"
+  ]
+ },
+ "pa": {
+  "also": [],
+  "clash": [
+   "baby talk"
+  ]
+ },
+ "poppa": {
+  "also": [],
+  "clash": [
+   "baby talk"
+  ]
+ },
+ "gran": {
+  "also": [
+   [
+    "british english words",
+    2
+   ]
+  ],
+  "clash": []
+ },
+ "godson": {
+  "also": [],
+  "clash": [
+   "religion words"
+  ]
+ },
+ "goddaughter": {
+  "also": [],
+  "clash": [
+   "religion words"
+  ]
+ },
+ "godchild": {
+  "also": [],
+  "clash": [
+   "religion words"
+  ]
+ },
+ "godparent": {
+  "also": [],
+  "clash": [
+   "religion words"
+  ]
+ },
+ "ex": {
+  "also": [
+   [
+    "sounds like a letter",
+    2
+   ]
+  ],
+  "clash": []
+ },
+ "soulmate": {
+  "also": [],
+  "clash": [
+   "words for friend"
+  ]
+ },
+ "other half": {
+  "also": [],
+  "clash": [
+   "fractions"
+  ]
+ },
+ "spinster": {
+  "also": [],
+  "clash": [
+   "old-fashioned insults"
+  ]
+ },
+ "matchmaker": {
+  "also": [],
+  "clash": [
+   "old-time jobs"
+  ]
+ },
+ "precious": {
+  "also": [],
+  "clash": [
+   "precious materials"
+  ]
+ },
+ "goodbye": {
+  "also": [],
+  "clash": [
+   "goodbye around the world"
+  ]
+ },
+ "see you": {
+  "also": [],
+  "clash": [
+   "sounds like a letter"
+  ]
+ },
+ "sixties": {
+  "also": [],
+  "clash": [
+   "historical periods"
+  ]
+ },
+ "seventies": {
+  "also": [],
+  "clash": [
+   "historical periods"
+  ]
+ },
+ "eighties": {
+  "also": [],
+  "clash": [
+   "historical periods"
+  ]
+ },
+ "nineties": {
+  "also": [],
+  "clash": [
+   "historical periods"
+  ]
+ },
+ "puberty": {
+  "also": [],
+  "clash": [
+   "hormones"
+  ]
+ },
+ "old-timer": {
+  "also": [],
+  "clash": [
+   "cowboy slang"
+  ]
+ },
+ "bro": {
+  "also": [],
+  "clash": [
+   "family members"
+  ]
+ },
+ "cuz": {
+  "also": [],
+  "clash": [
+   "extended family"
+  ]
+ },
+ "playmate": {
+  "also": [],
+  "clash": [
+   "toys and play"
+  ]
+ },
+ "bestie": {
+  "also": [],
+  "clash": [
+   "gen z slang"
+  ]
+ },
+ "schoolfriend": {
+  "also": [],
+  "clash": [
+   "school"
+  ]
+ },
+ "divorce": {
+  "also": [
+   [
+    "relationships",
+    1
+   ]
+  ],
+  "clash": []
+ },
+ "baby shower": {
+  "also": [
+   [
+    "pregnancy words",
+    2
+   ]
+  ],
+  "clash": [
+   "babies and birth"
+  ]
+ },
+ "gender reveal": {
+  "also": [],
+  "clash": [
+   "pregnancy words",
+   "babies and birth"
+  ]
+ },
+ "naming ceremony": {
+  "also": [],
+  "clash": [
+   "babies and birth"
+  ]
+ },
+ "Dr.": {
+  "also": [],
+  "clash": [
+   "medical jobs"
+  ]
+ },
+ "Dame": {
+  "also": [],
+  "clash": [
+   "royal titles",
+   "orders of knighthood"
+  ]
+ },
+ "Madame": {
+  "also": [],
+  "clash": [
+   "words from french"
+  ]
+ },
+ "Monsieur": {
+  "also": [],
+  "clash": [
+   "words from french"
+  ]
+ },
+ "Mademoiselle": {
+  "also": [],
+  "clash": [
+   "words from french"
+  ]
+ },
+ "Señor": {
+  "also": [],
+  "clash": [
+   "words from spanish"
+  ]
+ },
+ "Señora": {
+  "also": [],
+  "clash": [
+   "words from spanish"
+  ]
+ },
+ "Señorita": {
+  "also": [],
+  "clash": [
+   "words from spanish"
+  ]
+ },
+ "Herr": {
+  "also": [],
+  "clash": [
+   "words from german"
+  ]
+ },
+ "Frau": {
+  "also": [],
+  "clash": [
+   "words from german"
+  ]
+ },
+ "Fräulein": {
+  "also": [],
+  "clash": [
+   "words from german"
+  ]
+ },
+ "Signor": {
+  "also": [],
+  "clash": [
+   "words from italian"
+  ]
+ },
+ "Signora": {
+  "also": [],
+  "clash": [
+   "words from italian"
+  ]
+ },
+ "Signorina": {
+  "also": [],
+  "clash": [
+   "words from italian"
+  ]
+ },
+ "Honorable": {
+  "also": [],
+  "clash": [
+   "positive traits"
+  ]
+ },
+ "Esquire": {
+  "also": [],
+  "clash": [
+   "knights"
+  ]
+ },
+ "Venerable": {
+  "also": [],
+  "clash": [
+   "religion words"
+  ]
+ },
+ "curiosity": {
+  "also": [],
+  "clash": [
+   "space missions"
+  ]
+ },
+ "adventurous": {
+  "also": [
+   [
+    "positive traits",
+    2
+   ]
+  ],
+  "clash": []
+ },
+ "rebellious": {
+  "also": [],
+  "clash": [
+   "negative traits"
+  ]
+ },
+ "impulsive": {
+  "also": [],
+  "clash": [
+   "negative traits"
+  ]
+ },
+ "absent-minded": {
+  "also": [],
+  "clash": [
+   "negative traits"
+  ]
+ },
+ "intellectual": {
+  "also": [],
+  "clash": [
+   "words for smart"
+  ]
+ },
+ "cerebral": {
+  "also": [],
+  "clash": [
+   "words for smart"
+  ]
+ },
+ "solemn": {
+  "also": [],
+  "clash": [
+   "sad words"
+  ]
+ },
+ "introspective": {
+  "also": [],
+  "clash": [
+   "moods"
+  ]
+ },
+ "contemplative": {
+  "also": [],
+  "clash": [
+   "moods"
+  ]
+ },
+ "zany": {
+  "also": [],
+  "clash": [
+   "words for strange"
+  ]
+ },
+ "methodical": {
+  "also": [
+   [
+    "positive traits",
+    2
+   ]
+  ],
+  "clash": []
+ },
+ "studious": {
+  "also": [
+   [
+    "positive traits",
+    2
+   ]
+  ],
+  "clash": []
+ },
+ "highly strung": {
+  "also": [],
+  "clash": [
+   "negative traits",
+   "moods"
+  ]
+ },
+ "bodyguard": {
+  "also": [],
+  "clash": [
+   "service jobs"
+  ]
+ },
+ "social worker": {
+  "also": [],
+  "clash": [
+   "service jobs"
+  ]
+ },
+ "shoemaker": {
+  "also": [],
+  "clash": [
+   "old-time jobs"
+  ]
+ },
+ "boilermaker": {
+  "also": [],
+  "clash": [
+   "cocktails"
+  ]
+ },
+ "millwright": {
+  "also": [
+   [
+    "old-time jobs",
+    3
+   ]
+  ],
+  "clash": []
+ },
+ "panel beater": {
+  "also": [
+   [
+    "british english words",
+    3
+   ]
+  ],
+  "clash": []
+ },
+ "signwriter": {
+  "also": [],
+  "clash": [
+   "arts jobs"
+  ]
+ },
+ "economist": {
+  "also": [],
+  "clash": [
+   "office jobs"
+  ]
+ },
+ "food scientist": {
+  "also": [],
+  "clash": [
+   "food jobs"
+  ]
+ },
+ "chauffeur": {
+  "also": [],
+  "clash": [
+   "words from french"
+  ]
+ },
+ "beautician": {
+  "also": [],
+  "clash": [
+   "hair salon"
+  ]
+ },
+ "cosmetologist": {
+  "also": [],
+  "clash": [
+   "hair salon"
+  ]
+ },
+ "Uber driver": {
+  "also": [],
+  "clash": [
+   "taxis of the world"
+  ]
+ },
+ "telemarketer": {
+  "also": [],
+  "clash": [
+   "office jobs"
+  ]
+ },
+ "pool cleaner": {
+  "also": [],
+  "clash": [
+   "swimming pool"
+  ]
+ },
+ "call center agent": {
+  "also": [],
+  "clash": [
+   "office jobs"
+  ]
+ },
+ "customer service representative": {
+  "also": [],
+  "clash": [
+   "office jobs"
+  ]
+ },
+ "errand boy": {
+  "also": [],
+  "clash": [
+   "old-time jobs"
+  ]
+ },
+ "art director": {
+  "also": [
+   [
+    "behind the camera",
+    3
+   ]
+  ],
+  "clash": []
+ },
+ "recruiter": {
+  "also": [],
+  "clash": [
+   "workplace words"
+  ]
+ },
+ "financial advisor": {
+  "also": [],
+  "clash": [
+   "banking words"
+  ]
+ },
+ "bean counter": {
+  "also": [],
+  "clash": [
+   "money slang"
+  ]
+ },
+ "city clerk": {
+  "also": [],
+  "clash": [
+   "government words"
+  ]
+ },
+ "medical secretary": {
+  "also": [],
+  "clash": [
+   "medical jobs"
+  ]
+ },
+ "road worker": {
+  "also": [],
+  "clash": [
+   "construction site"
+  ]
+ },
+ "orchardist": {
+  "also": [],
+  "clash": [
+   "farm"
+  ]
+ },
+ "ice cream man": {
+  "also": [],
+  "clash": [
+   "old-time jobs"
+  ]
+ },
+ "cocktail waitress": {
+  "also": [],
+  "clash": [
+   "nightclub words"
+  ]
+ },
+ "grill cook": {
+  "also": [],
+  "clash": [
+   "kitchen brigade"
+  ]
+ },
+ "pastry cook": {
+  "also": [],
+  "clash": [
+   "kitchen brigade"
+  ]
+ },
+ "deli clerk": {
+  "also": [],
+  "clash": [
+   "supermarket"
+  ]
+ },
+ "food stylist": {
+  "also": [],
+  "clash": [
+   "arts jobs"
+  ]
+ },
+ "food server": {
+  "also": [],
+  "clash": [
+   "restaurant words"
+  ]
+ },
+ "herder": {
+  "also": [],
+  "clash": [
+   "farm"
+  ]
+ },
+ "herdsman": {
+  "also": [],
+  "clash": [
+   "farm"
+  ]
+ },
+ "cowherd": {
+  "also": [],
+  "clash": [
+   "farm",
+   "cowboy words"
+  ]
+ },
+ "goatherd": {
+  "also": [],
+  "clash": [
+   "farm"
+  ]
+ },
+ "swineherd": {
+  "also": [],
+  "clash": [
+   "farm"
+  ]
+ },
+ "stable boy": {
+  "also": [],
+  "clash": [
+   "horse riding words"
+  ]
+ },
+ "stable hand": {
+  "also": [],
+  "clash": [
+   "horse riding words"
+  ]
+ },
+ "game warden": {
+  "also": [
+   [
+    "outdoor jobs",
+    2
+   ]
+  ],
+  "clash": []
+ },
+ "dog handler": {
+  "also": [],
+  "clash": [
+   "police words"
+  ]
+ },
+ "fishery officer": {
+  "also": [],
+  "clash": [
+   "outdoor jobs"
+  ]
+ },
+ "equine vet": {
+  "also": [],
+  "clash": [
+   "medical jobs"
+  ]
+ },
+ "laundress": {
+  "also": [],
+  "clash": [
+   "laundry words"
+  ]
+ },
+ "usherette": {
+  "also": [],
+  "clash": [
+   "movie theater words"
+  ]
+ },
+ "lector": {
+  "also": [],
+  "clash": [
+   "religion words"
+  ]
+ },
+ "cigarette girl": {
+  "also": [],
+  "clash": [
+   "smoking words"
+  ]
+ },
+ "copy boy": {
+  "also": [],
+  "clash": [
+   "journalism words"
+  ]
+ },
+ "ice cutter": {
+  "also": [],
+  "clash": [
+   "ice words"
+  ]
+ },
+ "ice harvester": {
+  "also": [],
+  "clash": [
+   "ice words"
+  ]
+ },
+ "coal heaver": {
+  "also": [],
+  "clash": [
+   "mining words"
+  ]
+ },
+ "lamp trimmer": {
+  "also": [],
+  "clash": [
+   "lights and lamps"
+  ]
+ },
+ "bonus": {
+  "also": [],
+  "clash": [
+   "gaming words"
+  ]
+ },
+ "salary": {
+  "also": [],
+  "clash": [
+   "money words"
+  ]
+ },
+ "wage": {
+  "also": [],
+  "clash": [
+   "money words"
+  ]
+ },
+ "paycheck": {
+  "also": [],
+  "clash": [
+   "money words"
+  ]
+ },
+ "pension": {
+  "also": [],
+  "clash": [
+   "money words"
+  ]
+ },
+ "CV": {
+  "also": [
+   [
+    "words made of roman numerals",
+    3
+   ]
+  ],
+  "clash": [
+   "latin phrases",
+   "acronyms"
+  ]
+ },
+ "HR": {
+  "also": [],
+  "clash": [
+   "acronyms"
+  ]
+ },
+ "minimum wage": {
+  "also": [],
+  "clash": [
+   "government words"
+  ]
+ },
+ "unemployment": {
+  "also": [],
+  "clash": [
+   "government words"
+  ]
+ },
+ "dress code": {
+  "also": [],
+  "clash": [
+   "manners and etiquette"
+  ]
+ },
+ "video call": {
+  "also": [],
+  "clash": [
+   "phone words"
+  ]
+ },
+ "appraisal": {
+  "also": [],
+  "clash": [
+   "real estate words"
+  ]
+ },
+ "furlough": {
+  "also": [],
+  "clash": [
+   "army words"
+  ]
+ },
+ "headhunter": {
+  "also": [
+   [
+    "office jobs",
+    2
+   ]
+  ],
+  "clash": []
+ },
+ "expense account": {
+  "also": [],
+  "clash": [
+   "banking words"
+  ]
+ },
+ "Wild West": {
+  "also": [
+   [
+    "wild west",
+    1
+   ]
+  ],
+  "clash": []
+ },
+ "herd": {
+  "also": [
+   [
+    "collective nouns",
+    1
+   ]
+  ],
+  "clash": []
+ },
+ "bunkhouse": {
+  "also": [],
+  "clash": [
+   "farm buildings"
+  ]
+ },
+ "Pampa": {
+  "also": [],
+  "clash": [
+   "flat landscapes"
+  ]
+ },
+ "facón": {
+  "also": [],
+  "clash": [
+   "historic weapons"
+  ]
+ },
+ "premier": {
+  "also": [],
+  "clash": [
+   "soccer terms"
+  ]
+ },
+ "burgomaster": {
+  "also": [],
+  "clash": [
+   "words from dutch"
+  ]
+ },
+ "heraldry": {
+  "also": [],
+  "clash": [
+   "heraldry"
+  ]
+ },
+ "scepter": {
+  "also": [],
+  "clash": [
+   "magic items"
+  ]
+ },
+ "royal guard": {
+  "also": [],
+  "clash": [
+   "military units"
+  ]
+ },
+ "palace guard": {
+  "also": [],
+  "clash": [
+   "military units"
+  ]
+ },
+ "King's Guard": {
+  "also": [],
+  "clash": [
+   "military units"
+  ]
+ },
+ "Queen's Guard": {
+  "also": [],
+  "clash": [
+   "military units"
+  ]
+ },
+ "Trooping the Colour": {
+  "also": [],
+  "clash": [
+   "army words"
+  ]
+ },
+ "dais": {
+  "also": [],
+  "clash": [
+   "parts of a stage"
+  ]
+ },
+ "anointing": {
+  "also": [],
+  "clash": [
+   "religion words"
+  ]
+ },
+ "heartbroken": {
+  "also": [],
+  "clash": [
+   "love words"
+  ]
+ },
+ "wistful": {
+  "also": [],
+  "clash": [
+   "moods",
+   "emotions"
+  ]
+ },
+ "downbeat": {
+  "also": [
+   [
+    "music terms",
+    3
+   ]
+  ],
+  "clash": []
+ },
+ "glum": {
+  "also": [],
+  "clash": [
+   "moods"
+  ]
+ },
+ "down in the dumps": {
+  "also": [],
+  "clash": [
+   "moods"
+  ]
+ },
+ "dejected": {
+  "also": [],
+  "clash": [
+   "moods"
+  ]
+ },
+ "downcast": {
+  "also": [],
+  "clash": [
+   "moods"
+  ]
+ },
+ "mopey": {
+  "also": [],
+  "clash": [
+   "moods"
+  ]
+ },
+ "weepy": {
+  "also": [],
+  "clash": [
+   "moods"
+  ]
+ },
+ "downhearted": {
+  "also": [],
+  "clash": [
+   "moods"
+  ]
+ },
+ "dispirited": {
+  "also": [],
+  "clash": [
+   "moods"
+  ]
+ },
+ "long-faced": {
+  "also": [],
+  "clash": [
+   "facial expressions"
+  ]
+ },
+ "heartsick": {
+  "also": [],
+  "clash": [
+   "love words"
+  ]
+ },
+ "lugubrious": {
+  "also": [],
+  "clash": [
+   "silly-sounding words"
+  ]
+ },
+ "funny": {
+  "also": [],
+  "clash": [
+   "words for strange"
+  ]
+ },
+ "thoughtful": {
+  "also": [],
+  "clash": [
+   "moods"
+  ]
+ },
+ "independent": {
+  "also": [],
+  "clash": [
+   "election words"
+  ]
+ },
+ "determined": {
+  "also": [],
+  "clash": [
+   "emotions"
+  ]
+ },
+ "optimistic": {
+  "also": [],
+  "clash": [
+   "happy words"
+  ]
+ },
+ "enthusiastic": {
+  "also": [],
+  "clash": [
+   "happy words"
+  ]
+ },
+ "faithful": {
+  "also": [],
+  "clash": [
+   "love words"
+  ]
+ },
+ "sympathetic": {
+  "also": [],
+  "clash": [
+   "emotions"
+  ]
+ },
+ "energetic": {
+  "also": [],
+  "clash": [
+   "moods"
+  ]
+ },
+ "spirited": {
+  "also": [],
+  "clash": [
+   "moods",
+   "happy words"
+  ]
+ },
+ "mature": {
+  "also": [],
+  "clash": [
+   "ages and stages"
+  ]
+ },
+ "trusting": {
+  "also": [],
+  "clash": [
+   "emotions"
+  ]
+ },
+ "empathetic": {
+  "also": [],
+  "clash": [
+   "emotions"
+  ]
+ },
+ "level-headed": {
+  "also": [],
+  "clash": [
+   "calm words"
+  ]
+ },
+ "quick-witted": {
+  "also": [],
+  "clash": [
+   "words for smart"
+  ]
+ },
+ "lazy": {
+  "also": [],
+  "clash": [
+   "moods"
+  ]
+ },
+ "annoying": {
+  "also": [],
+  "clash": [
+   "angry words"
+  ]
+ },
+ "smug": {
+  "also": [],
+  "clash": [
+   "emotions"
+  ]
+ },
+ "pessimistic": {
+  "also": [],
+  "clash": [
+   "sad words"
+  ]
+ },
+ "cunning": {
+  "also": [],
+  "clash": [
+   "words for smart"
+  ]
+ },
+ "cheeky": {
+  "also": [],
+  "clash": [
+   "british slang"
+  ]
+ },
+ "apathetic": {
+  "also": [],
+  "clash": [
+   "emotions"
+  ]
+ },
+ "spiteful": {
+  "also": [],
+  "clash": [
+   "angry words"
+  ]
+ },
+ "petulant": {
+  "also": [],
+  "clash": [
+   "moods"
+  ]
+ },
+ "quarrelsome": {
+  "also": [],
+  "clash": [
+   "angry words"
+  ]
+ },
+ "hot-headed": {
+  "also": [],
+  "clash": [
+   "angry words"
+  ]
+ },
+ "happy": {
+  "also": [],
+  "clash": [
+   "fairy tale characters"
+  ]
+ },
+ "giddy": {
+  "also": [],
+  "clash": [
+   "moods"
+  ]
+ },
+ "cheery": {
+  "also": [],
+  "clash": [
+   "moods"
+  ]
+ },
+ "perky": {
+  "also": [],
+  "clash": [
+   "moods"
+  ]
+ },
+ "jaunty": {
+  "also": [],
+  "clash": [
+   "moods"
+  ]
+ },
+ "lighthearted": {
+  "also": [],
+  "clash": [
+   "moods"
+  ]
+ },
+ "high-spirited": {
+  "also": [],
+  "clash": [
+   "moods"
+  ]
+ },
+ "in high spirits": {
+  "also": [],
+  "clash": [
+   "moods"
+  ]
+ },
+ "jovial": {
+  "also": [],
+  "clash": [
+   "positive traits"
+  ]
+ },
+ "heated": {
+  "also": [],
+  "clash": [
+   "words for hot"
+  ]
+ },
+ "belligerent": {
+  "also": [],
+  "clash": [
+   "negative traits"
+  ]
+ },
+ "wound up": {
+  "also": [],
+  "clash": [
+   "moods"
+  ]
+ },
+ "huffy": {
+  "also": [],
+  "clash": [
+   "moods"
+  ]
+ },
+ "peeved": {
+  "also": [],
+  "clash": [
+   "moods"
+  ]
+ },
+ "pique": {
+  "also": [],
+  "clash": [
+   "cotton fabrics"
+  ]
+ },
+ "irascible": {
+  "also": [],
+  "clash": [
+   "negative traits"
+  ]
+ },
+ "horrified": {
+  "also": [],
+  "clash": [
+   "disgust words"
+  ]
+ },
+ "jumpy": {
+  "also": [],
+  "clash": [
+   "moods"
+  ]
+ },
+ "edgy": {
+  "also": [],
+  "clash": [
+   "moods"
+  ]
+ },
+ "jittery": {
+  "also": [],
+  "clash": [
+   "moods"
+  ]
+ },
+ "dismay": {
+  "also": [],
+  "clash": [
+   "sad words"
+  ]
+ },
+ "aghast": {
+  "also": [],
+  "clash": [
+   "surprised words"
+  ]
+ },
+ "cold feet": {
+  "also": [],
+  "clash": [
+   "weddings"
+  ]
+ },
+ "creeped out": {
+  "also": [],
+  "clash": [
+   "disgust words"
+  ]
+ },
+ "fright": {
+  "also": [],
+  "clash": [
+   "halloween"
+  ]
+ },
+ "startled": {
+  "also": [],
+  "clash": [
+   "scared words"
+  ]
+ },
+ "devoted": {
+  "also": [],
+  "clash": [
+   "positive traits"
+  ]
+ },
+ "devotion": {
+  "also": [],
+  "clash": [
+   "religion words"
+  ]
+ },
+ "affectionate": {
+  "also": [],
+  "clash": [
+   "positive traits"
+  ]
+ },
+ "flirt": {
+  "also": [],
+  "clash": [
+   "relationships"
+  ]
+ },
+ "courting": {
+  "also": [],
+  "clash": [
+   "relationships"
+  ]
+ },
+ "lovelorn": {
+  "also": [],
+  "clash": [
+   "sad words"
+  ]
+ },
+ "calm": {
+  "also": [],
+  "clash": [
+   "wind words"
+  ]
+ },
+ "peaceful": {
+  "also": [],
+  "clash": [
+   "peace words"
+  ]
+ },
+ "peaceable": {
+  "also": [],
+  "clash": [
+   "peace words"
+  ]
+ },
+ "restful": {
+  "also": [],
+  "clash": [
+   "sleep words"
+  ]
+ },
+ "lulled": {
+  "also": [],
+  "clash": [
+   "sleep words"
+  ]
+ },
+ "unflappable": {
+  "also": [],
+  "clash": [
+   "positive traits"
+  ]
+ },
+ "imperturbable": {
+  "also": [],
+  "clash": [
+   "positive traits"
+  ]
+ },
+ "self-possessed": {
+  "also": [],
+  "clash": [
+   "positive traits"
+  ]
+ },
+ "sangfroid": {
+  "also": [],
+  "clash": [
+   "words from french"
+  ]
+ },
+ "nasty": {
+  "also": [],
+  "clash": [
+   "words for bad"
+  ]
+ },
+ "vile": {
+  "also": [],
+  "clash": [
+   "words for bad"
+  ]
+ },
+ "nauseated": {
+  "also": [],
+  "clash": [
+   "symptoms"
+  ]
+ },
+ "cringeworthy": {
+  "also": [],
+  "clash": [
+   "gen z slang"
+  ]
+ },
+ "repelled": {
+  "also": [],
+  "clash": [
+   "magnet words"
+  ]
+ },
+ "nostalgic": {
+  "also": [],
+  "clash": [
+   "emotions"
+  ]
+ },
+ "flirty": {
+  "also": [],
+  "clash": [
+   "love words",
+   "relationships"
+  ]
+ },
+ "agitated": {
+  "also": [],
+  "clash": [
+   "angry words",
+   "scared words"
+  ]
+ },
+ "high spirits": {
+  "also": [],
+  "clash": [
+   "happy words"
+  ]
+ },
+ "low spirits": {
+  "also": [],
+  "clash": [
+   "sad words"
+  ]
+ },
+ "testy": {
+  "also": [],
+  "clash": [
+   "angry words"
+  ]
+ },
+ "tetchy": {
+  "also": [],
+  "clash": [
+   "angry words"
+  ]
+ },
+ "snippy": {
+  "also": [],
+  "clash": [
+   "angry words"
+  ]
+ },
+ "peevish": {
+  "also": [],
+  "clash": [
+   "angry words"
+  ]
+ },
+ "crotchety": {
+  "also": [],
+  "clash": [
+   "angry words",
+   "negative traits"
+  ]
+ },
+ "snappish": {
+  "also": [],
+  "clash": [
+   "angry words"
+  ]
+ },
+ "crabby": {
+  "also": [],
+  "clash": [
+   "angry words"
+  ]
+ },
+ "sulky": {
+  "also": [],
+  "clash": [
+   "negative traits"
+  ]
+ },
+ "CTO": {
+  "also": [],
+  "clash": [
+   "acronyms",
+   "office jobs"
+  ]
+ },
+ "product manager": {
+  "also": [],
+  "clash": [
+   "office jobs"
+  ]
+ },
+ "data analyst": {
+  "also": [],
+  "clash": [
+   "office jobs"
+  ]
+ },
+ "scrum master": {
+  "also": [],
+  "clash": [
+   "rugby terms"
+  ]
+ },
+ "web designer": {
+  "also": [],
+  "clash": [
+   "arts jobs"
+  ]
+ },
+ "UX designer": {
+  "also": [],
+  "clash": [
+   "arts jobs"
+  ]
+ },
+ "UI designer": {
+  "also": [],
+  "clash": [
+   "arts jobs"
+  ]
+ },
+ "interaction designer": {
+  "also": [],
+  "clash": [
+   "arts jobs"
+  ]
+ },
+ "technical writer": {
+  "also": [],
+  "clash": [
+   "arts jobs"
+  ]
+ },
+ "law": {
+  "also": [],
+  "clash": [
+   "law and order"
+  ]
+ },
+ "opposition": {
+  "also": [],
+  "clash": [
+   "parts of parliament"
+  ]
+ },
+ "ministry": {
+  "also": [],
+  "clash": [
+   "religion words"
+  ]
+ },
+ "propaganda": {
+  "also": [],
+  "clash": [
+   "war words"
+  ]
+ },
+ "rule of law": {
+  "also": [],
+  "clash": [
+   "law and order"
+  ]
+ },
+ "cover-up": {
+  "also": [],
+  "clash": [
+   "makeup"
+  ]
+ },
+ "jurisdiction": {
+  "also": [],
+  "clash": [
+   "courtroom words"
+  ]
+ },
+ "audit": {
+  "also": [],
+  "clash": [
+   "tax words"
+  ]
+ },
+ "tariff": {
+  "also": [
+   [
+    "tax words",
+    2
+   ]
+  ],
+  "clash": []
+ },
+ "judiciary": {
+  "also": [],
+  "clash": [
+   "courtroom words"
+  ]
+ },
+ "due process": {
+  "also": [],
+  "clash": [
+   "courtroom words"
+  ]
+ },
+ "checks and balances": {
+  "also": [],
+  "clash": [
+   "us government"
+  ]
+ },
+ "campaign": {
+  "also": [],
+  "clash": [
+   "war words"
+  ]
+ },
+ "mail-in ballot": {
+  "also": [],
+  "clash": [
+   "mail words"
+  ]
+ },
+ "postal vote": {
+  "also": [],
+  "clash": [
+   "mail words"
+  ]
+ },
+ "referendum": {
+  "also": [],
+  "clash": [
+   "government words"
+  ]
+ },
+ "regent": {
+  "also": [],
+  "clash": [
+   "famous streets"
+  ]
+ },
+ "queen consort": {
+  "also": [],
+  "clash": [
+   "relationships"
+  ]
+ },
+ "prince consort": {
+  "also": [],
+  "clash": [
+   "relationships"
+  ]
+ },
+ "king consort": {
+  "also": [],
+  "clash": [
+   "relationships"
+  ]
+ },
+ "grand duchess": {
+  "also": [],
+  "clash": [
+   "feudal ranks"
+  ]
+ },
+ "archduchess": {
+  "also": [],
+  "clash": [
+   "feudal ranks"
+  ]
+ },
  "firstborn": {
   "also": [
    [

@@ -12,6 +12,10 @@ Written at the end of the session that built the word library; the next session 
 
 ## The data
 
+**Final figures:** 2,208 playable themes (2,287 with folders), 79,783 words, 171,233 word-theme links (43,163 of them
+from the cross-theme check), 32,487 clashes. Game file: 75,439 enabled words (4.7 MB); family-friendly game file:
+2,235 themes, 73,654 words.
+
 | File | What it is |
 |---|---|
 | `data/themes.txt` | The theme tree as an indented outline (format in `HANDOFF.md`). 14 groups, 2,208 playable themes. |
@@ -25,13 +29,13 @@ Written at the end of the session that built the word library; the next session 
 Rebuild: `python3 tools/merge_tree.py` (tree) then `python3 tools/build_wordlist.py` (library); the game files
 are exported from the app (Import / export → Export game file; Settings → Family-friendly game file).
 
-### Game file (v3)
+### Game file (v4)
 
 ```
-{ v: 3, generated, spelling: "US"|"UK", familyFriendly,
+{ v: 4, generated, spelling: "US"|"UK", familyFriendly,
   themeFields: [id, name, label, parent, group, kind, region, difficulty, adult, separate],
   themes: [...rows],               // parent is an index into themes, -1 for top level
-  wordFields: [text, balloonText, zipf10, themes, difficultyPerTheme, clashes, otherSpelling, formsPerTheme],
+  wordFields: [text, balloonText, zipf10, themes, difficultyPerTheme, clashes, otherSpelling, formsPerTheme, anagramSet],
   words: [...rows] }
 ```
 
@@ -44,6 +48,7 @@ are exported from the app (Import / export → Export game file; Settings → Fa
 - `clashes`: theme indices a player could wrongly think the word belongs to. **Never put the word in a level
   with any of these themes.**
 - `otherSpelling`: the other dialect's spelling when it differs (`color` / `colour`).
+- `anagramSet`: for "anagrams of each other", the set number (words with the same number are one set of four); 0 otherwise.
 - `formsPerTheme`: `[[themeIndex, form, plainForm]]` where a theme writes the word differently (capitals: `Mercury`
   the planet, `mercury` the metal).
 
@@ -61,16 +66,25 @@ are exported from the app (Import / export → Export game file; Settings → Fa
 
 ### Data caveats the level builder must handle
 
-- **Words are keyed by lowercase text**, so homographs are one word with several themes (date: fruit and
+- **A word in a sub-theme also belongs to the parent theme** (and further up), unless the sub-theme is `separate`.
+  `themes` lists only direct memberships, so the checker must expand each word's themes upward through
+  non-separate parents before testing a level.
+- **Words that are a theme's own name** (fruit, pharmacy, circus) were recorded as clashes with that theme where
+  found. Add a rule anyway: never show a word in a level with a theme whose name or label it equals.
+- **Heavily overlapping theme pairs** exist on purpose (airport / airport words, symptoms / common illnesses,
+  sight words / ways of looking, rooms of the house, sibling army and navy themes). Clashes keep them apart; a
+  theme-pair overlap score computed from shared words would let the generator skip such pairs quickly.
+- **Words are keyed by lowercase, accent-folded text**, so homographs are one word with several themes (date: fruit and
   calendar; Soho: London district and space telescope). Correct for the "no word fits two themes" rule.
 - **Spelling-based themes** (double letters, hidden words, palindromes, no vowels, sounds like a letter …) are only
   partly listed; hundreds of words qualify by spelling alone. The checker should test these by rule on every word
   on screen, not trust the lists.
 - **Names longer than two words** are disabled by the filter (they do not fit a balloon); single words up to 20 letters.
-- **"anagrams of each other"** is stored as sets of four (word note "anagram set N"); a level must use one whole set.
-  The set number is in the library (`wordlist.json` word notes) but not yet in the game file. Add it to the export.
-- **Cross-check links come from a model** and were not reviewed by a person. Spot-check before relying on them;
-  some are cautious (Goldfish clashes with pets).
+- **"anagrams of each other"** is stored as sets of four (`anagramSet`); a level must use one whole set.
+- **Cross-check links come from a model** and were not reviewed by a person. Spot-check before relying on them.
+  Some are cautious (Goldfish clashes with pets; every non-English name clashes with girls' and boys' names), and
+  links to spelling themes (hidden words, double letters) are generous. Per-batch reports and the scripts that
+  built each `batch-NN.links.json` were in the session scratchpad and are not kept; the links files are final.
 - Thin themes kept on purpose: "names that are months" (6 words), "sounds like a number" (10).
 
 ## Decisions made by Simon
@@ -167,7 +181,7 @@ for example `3 + themes / 2`. Hints and spare tries are what in-app purchases wo
 6. Hint button.
 7. Theme families (meta-merge) and the combine-setting decision.
 8. Half-word balloons: split list (generate in the builder), rendering, joining, checker rules, queue rule.
-9. Export additions: anagram set numbers; split data; anything else the generator needs.
+9. Export additions: split data for half-word balloons; anything else the generator needs.
 10. Hand review of difficulty and cross-check links, starting with the themes used in early levels.
 
 ## Answers from Simon (latest)

@@ -1,0 +1,13594 @@
+{
+ "10-4": {
+  "also": [
+   [
+    "police words",
+    3
+   ],
+   [
+    "radio words",
+    3
+   ]
+  ],
+  "clash": [
+   "texting abbreviations"
+  ]
+ },
+ "abjad": {
+  "also": [
+   [
+    "ancient writing",
+    5
+   ]
+  ],
+  "clash": []
+ },
+ "aboard": {
+  "also": [
+   [
+    "hidden animals",
+    2
+   ]
+  ],
+  "clash": [
+   "boats and ships",
+   "cruise words"
+  ]
+ },
+ "about": {
+  "also": [],
+  "clash": [
+   "nautical directions"
+  ]
+ },
+ "above": {
+  "also": [],
+  "clash": [
+   "___board"
+  ]
+ },
+ "abstract noun": {
+  "also": [],
+  "clash": [
+   "parts of speech"
+  ]
+ },
+ "across": {
+  "also": [
+   [
+    "hidden names",
+    2
+   ]
+  ],
+  "clash": []
+ },
+ "acrostic": {
+  "also": [
+   [
+    "poetry terms",
+    3
+   ],
+   [
+    "word games",
+    3
+   ]
+  ],
+  "clash": []
+ },
+ "active voice": {
+  "also": [],
+  "clash": [
+   "voice types"
+  ]
+ },
+ "addio": {
+  "also": [],
+  "clash": [
+   "ways to say goodbye"
+  ]
+ },
+ "adeus": {
+  "also": [
+   [
+    "ways to say goodbye",
+    4
+   ]
+  ],
+  "clash": []
+ },
+ "adieu": {
+  "also": [
+   [
+    "rhymes with blue",
+    3
+   ],
+   [
+    "ways to say goodbye",
+    2
+   ]
+  ],
+  "clash": [
+   "french phrases in english"
+  ]
+ },
+ "adiós": {
+  "also": [
+   [
+    "ways to say goodbye",
+    1
+   ],
+   [
+    "words from spanish",
+    1
+   ]
+  ],
+  "clash": [
+   "greetings around the world"
+  ]
+ },
+ "adjective": {
+  "also": [],
+  "clash": [
+   "grammar terms"
+  ]
+ },
+ "adverb": {
+  "also": [],
+  "clash": [
+   "grammar terms"
+  ]
+ },
+ "Afrikaans": {
+  "also": [],
+  "clash": [
+   "nationalities",
+   "words from afrikaans"
+  ]
+ },
+ "after": {
+  "also": [
+   [
+    "conjunctions",
+    2
+   ]
+  ],
+  "clash": []
+ },
+ "agreement": {
+  "also": [
+   [
+    "diplomacy words",
+    2
+   ],
+   [
+    "peace words",
+    2
+   ]
+  ],
+  "clash": [
+   "business words",
+   "legal documents"
+  ]
+ },
+ "aha": {
+  "also": [
+   [
+    "palindromes",
+    2
+   ]
+  ],
+  "clash": [
+   "famous bands"
+  ]
+ },
+ "ahem": {
+  "also": [
+   [
+    "onomatopoeia",
+    2
+   ],
+   [
+    "voice sounds",
+    3
+   ]
+  ],
+  "clash": []
+ },
+ "ahlan": {
+  "also": [
+   [
+    "greetings around the world",
+    4
+   ]
+  ],
+  "clash": []
+ },
+ "ahoj": {
+  "also": [
+   [
+    "greetings around the world",
+    4
+   ]
+  ],
+  "clash": [
+   "goodbye around the world",
+   "greetings",
+   "pirate words"
+  ]
+ },
+ "ahoy": {
+  "also": [
+   [
+    "boats and ships",
+    2
+   ],
+   [
+    "greetings",
+    2
+   ],
+   [
+    "navy words",
+    2
+   ],
+   [
+    "pirate words",
+    1
+   ]
+  ],
+  "clash": []
+ },
+ "Ainu": {
+  "also": [],
+  "clash": [
+   "feudal japan",
+   "japanese folklore"
+  ]
+ },
+ "Akan": {
+  "also": [],
+  "clash": [
+   "nationalities"
+  ]
+ },
+ "Akkadian": {
+  "also": [
+   [
+    "ancient writing",
+    3
+   ],
+   [
+    "empires",
+    3
+   ]
+  ],
+  "clash": [
+   "mesopotamia"
+  ]
+ },
+ "akwaaba": {
+  "also": [],
+  "clash": [
+   "greetings around the world"
+  ]
+ },
+ "Alabama": {
+  "also": [
+   [
+    "us states",
+    1
+   ]
+  ],
+  "clash": []
+ },
+ "alas": {
+  "also": [],
+  "clash": [
+   "sad words"
+  ]
+ },
+ "Albanian": {
+  "also": [
+   [
+    "nationalities",
+    2
+   ]
+  ],
+  "clash": []
+ },
+ "Aldis lamp": {
+  "also": [
+   [
+    "old ways to communicate",
+    4
+   ]
+  ],
+  "clash": []
+ },
+ "Alfa": {
+  "also": [],
+  "clash": [
+   "car brands"
+  ]
+ },
+ "algae": {
+  "also": [
+   [
+    "green things",
+    2
+   ],
+   [
+    "microbes",
+    2
+   ],
+   [
+    "pond",
+    2
+   ],
+   [
+    "slippery things",
+    3
+   ]
+  ],
+  "clash": [
+   "seaweeds"
+  ]
+ },
+ "Algonquin": {
+  "also": [
+   [
+    "canadian landmarks",
+    3
+   ]
+  ],
+  "clash": [
+   "famous hotels"
+  ]
+ },
+ "allegory": {
+  "also": [
+   [
+    "hidden body parts",
+    3
+   ],
+   [
+    "literature",
+    3
+   ]
+  ],
+  "clash": []
+ },
+ "alliteration": {
+  "also": [
+   [
+    "hidden animals",
+    3
+   ],
+   [
+    "poetry terms",
+    2
+   ]
+  ],
+  "clash": []
+ },
+ "aloha": {
+  "also": [
+   [
+    "goodbye around the world",
+    2
+   ],
+   [
+    "greetings around the world",
+    1
+   ],
+   [
+    "hawaiian words",
+    1
+   ],
+   [
+    "ways to say goodbye",
+    3
+   ]
+  ],
+  "clash": []
+ },
+ "alongside": {
+  "also": [
+   [
+    "nautical directions",
+    3
+   ]
+  ],
+  "clash": []
+ },
+ "alpha": {
+  "also": [],
+  "clash": [
+   "animal words",
+   "gen z slang",
+   "software words"
+  ]
+ },
+ "alphabet": {
+  "also": [],
+  "clash": [
+   "middle eastern inventions",
+   "silicon valley companies"
+  ]
+ },
+ "Altai": {
+  "also": [
+   [
+    "mountain ranges",
+    3
+   ]
+  ],
+  "clash": []
+ },
+ "although": {
+  "also": [
+   [
+    "ough words",
+    1
+   ]
+  ],
+  "clash": []
+ },
+ "alumni": {
+  "also": [
+   [
+    "graduation words",
+    2
+   ]
+  ],
+  "clash": [
+   "university words"
+  ]
+ },
+ "alvida": {
+  "also": [
+   [
+    "hindi everyday words",
+    4
+   ]
+  ],
+  "clash": []
+ },
+ "amen": {
+  "also": [
+   [
+    "anagrams of each other",
+    2
+   ],
+   [
+    "religion words",
+    1
+   ]
+  ],
+  "clash": []
+ },
+ "Amorite": {
+  "also": [
+   [
+    "bronze age",
+    4
+   ]
+  ],
+  "clash": []
+ },
+ "ampersand": {
+  "also": [
+   [
+    "symbols",
+    3
+   ]
+  ],
+  "clash": [
+   "punctuation"
+  ]
+ },
+ "anaphora": {
+  "also": [
+   [
+    "poetry terms",
+    4
+   ]
+  ],
+  "clash": []
+ },
+ "Ancient Egyptian": {
+  "also": [],
+  "clash": [
+   "ancient egypt"
+  ]
+ },
+ "Ancient Greek": {
+  "also": [],
+  "clash": [
+   "ancient greece"
+  ]
+ },
+ "angle bracket": {
+  "also": [],
+  "clash": [
+   "keyboard symbols"
+  ]
+ },
+ "annyeong": {
+  "also": [
+   [
+    "greetings around the world",
+    3
+   ]
+  ],
+  "clash": [
+   "goodbye around the world"
+  ]
+ },
+ "annyeonghaseyo": {
+  "also": [
+   [
+    "greetings around the world",
+    4
+   ]
+  ],
+  "clash": []
+ },
+ "antecedent": {
+  "also": [
+   [
+    "hidden insects",
+    3
+   ]
+  ],
+  "clash": []
+ },
+ "antennae": {
+  "also": [
+   [
+    "galaxies and nebulae",
+    5
+   ]
+  ],
+  "clash": [
+   "insect body parts"
+  ]
+ },
+ "anticlimax": {
+  "also": [
+   [
+    "hidden insects",
+    3
+   ]
+  ],
+  "clash": []
+ },
+ "antithesis": {
+  "also": [
+   [
+    "hidden insects",
+    3
+   ]
+  ],
+  "clash": [
+   "hidden birds"
+  ]
+ },
+ "anyone": {
+  "also": [
+   [
+    "hidden numbers",
+    1
+   ]
+  ],
+  "clash": []
+ },
+ "anything": {
+  "also": [
+   [
+    "rhymes with ring",
+    1
+   ]
+  ],
+  "clash": []
+ },
+ "apa kabar": {
+  "also": [
+   [
+    "greetings around the world",
+    4
+   ]
+  ],
+  "clash": []
+ },
+ "Apache": {
+  "also": [],
+  "clash": [
+   "military vehicles",
+   "wild west"
+  ]
+ },
+ "apostrophe": {
+  "also": [
+   [
+    "poetry terms",
+    4
+   ]
+  ],
+  "clash": [
+   "keyboard symbols"
+  ]
+ },
+ "Arabic": {
+  "also": [
+   [
+    "school subjects",
+    2
+   ]
+  ],
+  "clash": [
+   "arabic names",
+   "arabic-speaking countries",
+   "words from arabic"
+  ]
+ },
+ "Arabic script": {
+  "also": [],
+  "clash": [
+   "ancient writing",
+   "islamic art words"
+  ]
+ },
+ "Aragonese": {
+  "also": [],
+  "clash": [
+   "hidden numbers",
+   "spanish regions"
+  ]
+ },
+ "Aramaic": {
+  "also": [
+   [
+    "ancient writing",
+    3
+   ]
+  ],
+  "clash": []
+ },
+ "Arawak": {
+  "also": [],
+  "clash": [
+   "caribbean islands"
+  ]
+ },
+ "argh": {
+  "also": [],
+  "clash": [
+   "pirate words"
+  ]
+ },
+ "arigato": {
+  "also": [],
+  "clash": [
+   "words from japanese"
+  ]
+ },
+ "arose": {
+  "also": [
+   [
+    "hidden colors",
+    3
+   ]
+  ],
+  "clash": []
+ },
+ "Arrernte": {
+  "also": [
+   [
+    "aboriginal culture",
+    5
+   ]
+  ],
+  "clash": []
+ },
+ "arrivederci": {
+  "also": [
+   [
+    "ways to say goodbye",
+    2
+   ]
+  ],
+  "clash": []
+ },
+ "article": {
+  "also": [
+   [
+    "journalism words",
+    1
+   ],
+   [
+    "newspaper words",
+    1
+   ]
+  ],
+  "clash": [
+   "legal documents"
+  ]
+ },
+ "as if": {
+  "also": [],
+  "clash": [
+   "gen z slang"
+  ]
+ },
+ "asante": {
+  "also": [
+   [
+    "hidden insects",
+    3
+   ],
+   [
+    "swahili words",
+    2
+   ]
+  ],
+  "clash": []
+ },
+ "ascender": {
+  "also": [
+   [
+    "climbing gear",
+    4
+   ],
+   [
+    "climbing words",
+    4
+   ]
+  ],
+  "clash": []
+ },
+ "ASCII": {
+  "also": [
+   [
+    "acronyms",
+    3
+   ]
+  ],
+  "clash": [
+   "coding words"
+  ]
+ },
+ "aspect": {
+  "also": [
+   [
+    "hidden animals",
+    3
+   ]
+  ],
+  "clash": []
+ },
+ "Assamese": {
+  "also": [],
+  "clash": [
+   "indian states",
+   "teas"
+  ]
+ },
+ "Assiniboine": {
+  "also": [
+   [
+    "famous mountains",
+    5
+   ]
+  ],
+  "clash": [
+   "north american rivers"
+  ]
+ },
+ "assonance": {
+  "also": [
+   [
+    "poetry terms",
+    3
+   ]
+  ],
+  "clash": []
+ },
+ "Assyrian": {
+  "also": [
+   [
+    "empires",
+    2
+   ]
+  ],
+  "clash": [
+   "ancient civilizations",
+   "mesopotamia"
+  ]
+ },
+ "asterisk": {
+  "also": [
+   [
+    "symbols",
+    2
+   ]
+  ],
+  "clash": [
+   "punctuation"
+  ]
+ },
+ "Asturian": {
+  "also": [],
+  "clash": [
+   "spanish regions"
+  ]
+ },
+ "at sign": {
+  "also": [
+   [
+    "symbols",
+    2
+   ]
+  ],
+  "clash": [
+   "internet words"
+  ]
+ },
+ "ate": {
+  "also": [
+   [
+    "anagrams of each other",
+    1
+   ],
+   [
+    "gen z slang",
+    2
+   ],
+   [
+    "homophones",
+    1
+   ],
+   [
+    "sounds like a number",
+    1
+   ]
+  ],
+  "clash": []
+ },
+ "au revoir": {
+  "also": [
+   [
+    "french phrases in english",
+    2
+   ],
+   [
+    "ways to say goodbye",
+    2
+   ]
+  ],
+  "clash": []
+ },
+ "aubade": {
+  "also": [
+   [
+    "poetry terms",
+    5
+   ],
+   [
+    "song types",
+    4
+   ]
+  ],
+  "clash": []
+ },
+ "auf Wiedersehen": {
+  "also": [
+   [
+    "ways to say goodbye",
+    2
+   ]
+  ],
+  "clash": []
+ },
+ "autograph": {
+  "also": [
+   [
+    "collecting hobbies",
+    2
+   ],
+   [
+    "concert words",
+    2
+   ],
+   [
+    "hidden vehicles",
+    2
+   ]
+  ],
+  "clash": []
+ },
+ "automata": {
+  "also": [],
+  "clash": [
+   "robots"
+  ]
+ },
+ "auxiliary verb": {
+  "also": [],
+  "clash": [
+   "grammar terms"
+  ]
+ },
+ "Avestan": {
+  "also": [],
+  "clash": [
+   "ancient persia"
+  ]
+ },
+ "aw": {
+  "also": [],
+  "clash": [
+   "fast food",
+   "fizzy drinks",
+   "soft drinks"
+  ]
+ },
+ "Aymara": {
+  "also": [
+   [
+    "andes",
+    3
+   ]
+  ],
+  "clash": []
+ },
+ "ayubowan": {
+  "also": [],
+  "clash": [
+   "goodbye around the world",
+   "greetings around the world"
+  ]
+ },
+ "Azerbaijani": {
+  "also": [
+   [
+    "nationalities",
+    2
+   ]
+  ],
+  "clash": []
+ },
+ "Azeri": {
+  "also": [
+   [
+    "nationalities",
+    3
+   ]
+  ],
+  "clash": []
+ },
+ "Babylonian": {
+  "also": [
+   [
+    "city demonyms",
+    3
+   ],
+   [
+    "empires",
+    2
+   ]
+  ],
+  "clash": [
+   "mesopotamia"
+  ]
+ },
+ "backslash": {
+  "also": [
+   [
+    "hidden trees",
+    2
+   ],
+   [
+    "keyboard keys",
+    3
+   ]
+  ],
+  "clash": [
+   "hidden body parts",
+   "punctuation"
+  ]
+ },
+ "backtick": {
+  "also": [
+   [
+    "hidden insects",
+    3
+   ]
+  ],
+  "clash": [
+   "punctuation"
+  ]
+ },
+ "bacteria": {
+  "also": [
+   [
+    "discoveries",
+    2
+   ],
+   [
+    "famous discoveries",
+    2
+   ],
+   [
+    "microbes",
+    1
+   ]
+  ],
+  "clash": []
+ },
+ "Bactrian": {
+  "also": [],
+  "clash": [
+   "asian animals",
+   "desert animals",
+   "middle eastern animals"
+  ]
+ },
+ "bah": {
+  "also": [],
+  "clash": [
+   "animal sounds"
+  ]
+ },
+ "Bai": {
+  "also": [
+   [
+    "chinese surnames",
+    3
+   ]
+  ],
+  "clash": []
+ },
+ "Bajan": {
+  "also": [
+   [
+    "nationalities",
+    4
+   ]
+  ],
+  "clash": []
+ },
+ "Balinese": {
+  "also": [
+   [
+    "cat breeds",
+    3
+   ],
+   [
+    "massage types",
+    3
+   ]
+  ],
+  "clash": [
+   "asian dances"
+  ]
+ },
+ "ballad": {
+  "also": [
+   [
+    "musicals words",
+    3
+   ],
+   [
+    "poetry terms",
+    2
+   ],
+   [
+    "song types",
+    1
+   ]
+  ],
+  "clash": []
+ },
+ "ballade": {
+  "also": [
+   [
+    "classical forms",
+    3
+   ],
+   [
+    "song types",
+    4
+   ]
+  ],
+  "clash": []
+ },
+ "Bambara": {
+  "also": [
+   [
+    "beans and pulses",
+    5
+   ]
+  ],
+  "clash": []
+ },
+ "barcode": {
+  "also": [
+   [
+    "hidden animals",
+    2
+   ],
+   [
+    "parts of a book",
+    4
+   ],
+   [
+    "shopping words",
+    2
+   ],
+   [
+    "supermarket",
+    2
+   ]
+  ],
+  "clash": [
+   "american inventions",
+   "library",
+   "ticket words"
+  ]
+ },
+ "barev": {
+  "also": [],
+  "clash": [
+   "greetings around the world"
+  ]
+ },
+ "baseline": {
+  "also": [
+   [
+    "basketball terms",
+    3
+   ],
+   [
+    "line types",
+    3
+   ],
+   [
+    "tennis terms",
+    2
+   ]
+  ],
+  "clash": [
+   "hidden vehicles"
+  ]
+ },
+ "Bashkir": {
+  "also": [
+   [
+    "horse breeds",
+    5
+   ]
+  ],
+  "clash": []
+ },
+ "Baskerville": {
+  "also": [],
+  "clash": [
+   "detective words"
+  ]
+ },
+ "Basque": {
+  "also": [
+   [
+    "underwear",
+    4
+   ]
+  ],
+  "clash": [
+   "french regions",
+   "nationalities",
+   "spanish regions"
+  ]
+ },
+ "Batak": {
+  "also": [
+   [
+    "hidden animals",
+    3
+   ],
+   [
+    "pony breeds",
+    5
+   ]
+  ],
+  "clash": []
+ },
+ "Bauhaus": {
+  "also": [
+   [
+    "architecture styles",
+    3
+   ],
+   [
+    "art movements",
+    3
+   ],
+   [
+    "house styles",
+    4
+   ],
+   [
+    "words from german",
+    4
+   ]
+  ],
+  "clash": []
+ },
+ "Bavarian": {
+  "also": [],
+  "clash": [
+   "german food",
+   "german states",
+   "oktoberfest"
+  ]
+ },
+ "beacon": {
+  "also": [
+   [
+    "old ways to communicate",
+    2
+   ]
+  ],
+  "clash": [
+   "cured meats",
+   "ports and harbors",
+   "shipwreck coast words",
+   "things that glow"
+  ]
+ },
+ "before": {
+  "also": [
+   [
+    "conjunctions",
+    2
+   ]
+  ],
+  "clash": []
+ },
+ "behind": {
+  "also": [
+   [
+    "aussie rules terms",
+    1
+   ],
+   [
+    "hidden animals",
+    4
+   ],
+   [
+    "scoring words",
+    4
+   ]
+  ],
+  "clash": [
+   "body parts"
+  ]
+ },
+ "Belarusian": {
+  "also": [
+   [
+    "nationalities",
+    2
+   ]
+  ],
+  "clash": []
+ },
+ "below": {
+  "also": [
+   [
+    "letters in alphabetical order",
+    1
+   ],
+   [
+    "nautical directions",
+    2
+   ]
+  ],
+  "clash": []
+ },
+ "bent": {
+  "also": [
+   [
+    "letters in alphabetical order",
+    2
+   ]
+  ],
+  "clash": [
+   "british slang"
+  ]
+ },
+ "Berber": {
+  "also": [
+   [
+    "rugs and carpets",
+    4
+   ]
+  ],
+  "clash": [
+   "nationalities",
+   "north african food"
+  ]
+ },
+ "beside": {
+  "also": [
+   [
+    "hidden names",
+    2
+   ]
+  ],
+  "clash": []
+ },
+ "beta": {
+  "also": [
+   [
+    "gaming words",
+    3
+   ],
+   [
+    "hindi everyday words",
+    3
+   ],
+   [
+    "motorcycle brands",
+    5
+   ],
+   [
+    "software words",
+    2
+   ]
+  ],
+  "clash": [
+   "climbing words",
+   "fish"
+  ]
+ },
+ "Biblical Hebrew": {
+  "also": [],
+  "clash": [
+   "judaism words"
+  ]
+ },
+ "Biloxi": {
+  "also": [],
+  "clash": [
+   "american cities"
+  ]
+ },
+ "binary code": {
+  "also": [],
+  "clash": [
+   "coding words",
+   "computers"
+  ]
+ },
+ "bis bald": {
+  "also": [],
+  "clash": [
+   "ways to say goodbye"
+  ]
+ },
+ "bit": {
+  "also": [
+   [
+    "coding words",
+    2
+   ],
+   [
+    "horse riding words",
+    3
+   ],
+   [
+    "horse tack",
+    2
+   ],
+   [
+    "measurement",
+    4
+   ]
+  ],
+  "clash": [
+   "computers"
+  ]
+ },
+ "Blackfoot": {
+  "also": [],
+  "clash": [
+   "black___",
+   "hidden body parts",
+   "hidden colors"
+  ]
+ },
+ "blackletter": {
+  "also": [],
+  "clash": [
+   "fonts",
+   "hidden colors"
+  ]
+ },
+ "blank verse": {
+  "also": [
+   [
+    "poetry terms",
+    3
+   ]
+  ],
+  "clash": []
+ },
+ "bled": {
+  "also": [
+   [
+    "famous lakes",
+    3
+   ]
+  ],
+  "clash": []
+ },
+ "blew": {
+  "also": [
+   [
+    "homophones",
+    1
+   ],
+   [
+    "rhymes with blue",
+    1
+   ]
+  ],
+  "clash": []
+ },
+ "blimey": {
+  "also": [
+   [
+    "british slang",
+    2
+   ],
+   [
+    "hidden fruits",
+    3
+   ],
+   [
+    "pirate words",
+    3
+   ],
+   [
+    "polite swears",
+    1
+   ],
+   [
+    "surprised words",
+    3
+   ]
+  ],
+  "clash": []
+ },
+ "block letters": {
+  "also": [],
+  "clash": [
+   "typography words"
+  ]
+ },
+ "bold": {
+  "also": [
+   [
+    "line types",
+    3
+   ],
+   [
+    "positive traits",
+    2
+   ]
+  ],
+  "clash": [
+   "words for good"
+  ]
+ },
+ "bom dia": {
+  "also": [
+   [
+    "greetings around the world",
+    3
+   ]
+  ],
+  "clash": []
+ },
+ "bon dia": {
+  "also": [],
+  "clash": [
+   "greetings around the world"
+  ]
+ },
+ "bonjour": {
+  "also": [
+   [
+    "greetings around the world",
+    1
+   ]
+  ],
+  "clash": [
+   "french phrases in english"
+  ]
+ },
+ "boo": {
+  "also": [
+   [
+    "baby talk",
+    1
+   ],
+   [
+    "rhymes with blue",
+    2
+   ],
+   [
+    "terms of endearment",
+    2
+   ]
+  ],
+  "clash": []
+ },
+ "bore": {
+  "also": [
+   [
+    "outback",
+    4
+   ]
+  ],
+  "clash": [
+   "woodworking words",
+   "words for bad"
+  ]
+ },
+ "Bosnian": {
+  "also": [
+   [
+    "nationalities",
+    2
+   ],
+   [
+    "pony breeds",
+    5
+   ]
+  ],
+  "clash": []
+ },
+ "bought": {
+  "also": [
+   [
+    "ough words",
+    1
+   ]
+  ],
+  "clash": []
+ },
+ "bound": {
+  "also": [
+   [
+    "animal movements",
+    2
+   ],
+   [
+    "snow___",
+    2
+   ],
+   [
+    "ways to jump",
+    2
+   ]
+  ],
+  "clash": []
+ },
+ "bowl": {
+  "also": [
+   [
+    "containers",
+    1
+   ],
+   [
+    "dining room",
+    1
+   ],
+   [
+    "hidden birds",
+    2
+   ],
+   [
+    "kitchen utensils",
+    1
+   ],
+   [
+    "pottery words",
+    2
+   ],
+   [
+    "restaurant",
+    2
+   ],
+   [
+    "round things",
+    2
+   ],
+   [
+    "sports verbs",
+    1
+   ],
+   [
+    "table setting",
+    1
+   ]
+  ],
+  "clash": [
+   "bowling terms",
+   "cricket terms",
+   "sports balls"
+  ]
+ },
+ "brace": {
+  "also": [
+   [
+    "medical equipment",
+    2
+   ]
+  ],
+  "clash": [
+   "collective nouns",
+   "dental words",
+   "soccer terms"
+  ]
+ },
+ "bracket": {
+  "also": [
+   [
+    "algebra words",
+    3
+   ],
+   [
+    "basketball terms",
+    3
+   ],
+   [
+    "figure skating moves",
+    4
+   ],
+   [
+    "fixings",
+    2
+   ],
+   [
+    "tournament words",
+    1
+   ]
+  ],
+  "clash": [
+   "diy words",
+   "esports words",
+   "keyboard symbols"
+  ]
+ },
+ "Brahmi": {
+  "also": [
+   [
+    "ancient india",
+    4
+   ],
+   [
+    "ancient writing",
+    4
+   ],
+   [
+    "ayurveda words",
+    3
+   ]
+  ],
+  "clash": []
+ },
+ "braille": {
+  "also": [
+   [
+    "european inventions",
+    2
+   ],
+   [
+    "media and communication",
+    2
+   ],
+   [
+    "touch words",
+    3
+   ],
+   [
+    "words named after people",
+    2
+   ]
+  ],
+  "clash": [
+   "inventors"
+  ]
+ },
+ "Bravo": {
+  "also": [
+   [
+    "opera words",
+    2
+   ],
+   [
+    "words from italian",
+    1
+   ]
+  ],
+  "clash": [
+   "interjections"
+  ]
+ },
+ "brethren": {
+  "also": [],
+  "clash": [
+   "religion words"
+  ]
+ },
+ "Breton": {
+  "also": [
+   [
+    "celts",
+    3
+   ]
+  ],
+  "clash": [
+   "french regions",
+   "horse breeds"
+  ]
+ },
+ "Brittonic": {
+  "also": [
+   [
+    "celts",
+    4
+   ]
+  ],
+  "clash": []
+ },
+ "broke": {
+  "also": [
+   [
+    "money slang",
+    2
+   ],
+   [
+    "money words",
+    1
+   ]
+  ],
+  "clash": []
+ },
+ "brought": {
+  "also": [
+   [
+    "ough words",
+    1
+   ]
+  ],
+  "clash": []
+ },
+ "buenos días": {
+  "also": [
+   [
+    "greetings around the world",
+    2
+   ]
+  ],
+  "clash": []
+ },
+ "bugle call": {
+  "also": [
+   [
+    "old ways to communicate",
+    3
+   ]
+  ],
+  "clash": [
+   "army words"
+  ]
+ },
+ "bula": {
+  "also": [
+   [
+    "greetings around the world",
+    3
+   ]
+  ],
+  "clash": []
+ },
+ "Bulgarian": {
+  "also": [
+   [
+    "nationalities",
+    2
+   ]
+  ],
+  "clash": []
+ },
+ "bună ziua": {
+  "also": [],
+  "clash": [
+   "greetings around the world"
+  ]
+ },
+ "buongiorno": {
+  "also": [
+   [
+    "greetings around the world",
+    2
+   ]
+  ],
+  "clash": []
+ },
+ "Burmese": {
+  "also": [
+   [
+    "cat breeds",
+    2
+   ],
+   [
+    "nationalities",
+    2
+   ]
+  ],
+  "clash": []
+ },
+ "but": {
+  "also": [
+   [
+    "prepositions",
+    3
+   ],
+   [
+    "reversible words",
+    1
+   ]
+  ],
+  "clash": []
+ },
+ "by": {
+  "also": [
+   [
+    "homophones",
+    1
+   ],
+   [
+    "no vowels",
+    1
+   ]
+  ],
+  "clash": []
+ },
+ "cacti": {
+  "also": [],
+  "clash": [
+   "cacti and succulents",
+   "desert",
+   "prickly things"
+  ]
+ },
+ "Caesar cipher": {
+  "also": [],
+  "clash": [
+   "roman emperors",
+   "salad dressings"
+  ]
+ },
+ "calligraphy": {
+  "also": [
+   [
+    "art",
+    2
+   ],
+   [
+    "asian art forms",
+    2
+   ],
+   [
+    "crafts",
+    2
+   ],
+   [
+    "islamic art words",
+    2
+   ]
+  ],
+  "clash": [
+   "ancient china",
+   "drawing techniques"
+  ]
+ },
+ "calves": {
+  "also": [],
+  "clash": [
+   "arms and legs",
+   "baby animals"
+  ]
+ },
+ "Cambria": {
+  "also": [
+   [
+    "old country names",
+    4
+   ]
+  ],
+  "clash": []
+ },
+ "Cantonese": {
+  "also": [
+   [
+    "hidden numbers",
+    3
+   ]
+  ],
+  "clash": [
+   "chinese food"
+  ]
+ },
+ "canzone": {
+  "also": [
+   [
+    "hidden numbers",
+    3
+   ]
+  ],
+  "clash": [
+   "song types"
+  ]
+ },
+ "caret": {
+  "also": [
+   [
+    "symbols",
+    4
+   ]
+  ],
+  "clash": [
+   "homophones",
+   "root vegetables"
+  ]
+ },
+ "Carib": {
+  "also": [],
+  "clash": [
+   "caribbean islands",
+   "pirates"
+  ]
+ },
+ "case": {
+  "also": [
+   [
+    "___book",
+    2
+   ],
+   [
+    "clock parts",
+    3
+   ],
+   [
+    "computer parts",
+    3
+   ],
+   [
+    "containers",
+    2
+   ],
+   [
+    "courtroom words",
+    1
+   ],
+   [
+    "detective words",
+    1
+   ],
+   [
+    "head___",
+    2
+   ],
+   [
+    "luggage",
+    1
+   ],
+   [
+    "police words",
+    2
+   ]
+  ],
+  "clash": []
+ },
+ "Catalan": {
+  "also": [
+   [
+    "chess openings",
+    4
+   ],
+   [
+    "hidden animals",
+    3
+   ],
+   [
+    "number types",
+    5
+   ]
+  ],
+  "clash": [
+   "nationalities",
+   "spanish regions"
+  ]
+ },
+ "Catawba": {
+  "also": [
+   [
+    "hidden animals",
+    3
+   ]
+  ],
+  "clash": []
+ },
+ "caught": {
+  "also": [
+   [
+    "cricket terms",
+    2
+   ]
+  ],
+  "clash": []
+ },
+ "Celtiberian": {
+  "also": [
+   [
+    "celts",
+    5
+   ]
+  ],
+  "clash": []
+ },
+ "Centaur": {
+  "also": [
+   [
+    "fantasy races",
+    2
+   ],
+   [
+    "greek monsters",
+    2
+   ],
+   [
+    "mythical creatures",
+    1
+   ],
+   [
+    "space rocks",
+    5
+   ]
+  ],
+  "clash": []
+ },
+ "Chaga": {
+  "also": [
+   [
+    "mushrooms",
+    4
+   ]
+  ],
+  "clash": []
+ },
+ "Chagatai": {
+  "also": [],
+  "clash": [
+   "empires"
+  ]
+ },
+ "chalk": {
+  "also": [
+   [
+    "___board",
+    1
+   ],
+   [
+    "art materials",
+    1
+   ],
+   [
+    "betting words",
+    4
+   ],
+   [
+    "classroom items",
+    1
+   ],
+   [
+    "climbing gear",
+    2
+   ],
+   [
+    "climbing words",
+    2
+   ],
+   [
+    "colors",
+    4
+   ],
+   [
+    "cue sports terms",
+    2
+   ],
+   [
+    "gym equipment",
+    3
+   ],
+   [
+    "junk drawer",
+    3
+   ],
+   [
+    "sedimentary rocks",
+    1
+   ],
+   [
+    "silent letter words",
+    2
+   ],
+   [
+    "sports equipment",
+    2
+   ],
+   [
+    "white things",
+    2
+   ]
+  ],
+  "clash": [
+   "gymnastics",
+   "natural materials"
+  ]
+ },
+ "Chamorro": {
+  "also": [],
+  "clash": [
+   "nationalities"
+  ]
+ },
+ "Charlie": {
+  "also": [
+   [
+    "boys' names",
+    1
+   ],
+   [
+    "unisex names",
+    1
+   ]
+  ],
+  "clash": [
+   "illegal drugs"
+  ]
+ },
+ "chau": {
+  "also": [],
+  "clash": [
+   "hello around the world",
+   "ways to say goodbye"
+  ]
+ },
+ "Cherokee": {
+  "also": [
+   [
+    "famous car models",
+    2
+   ]
+  ],
+  "clash": [
+   "native american folklore"
+  ]
+ },
+ "cherubim": {
+  "also": [
+   [
+    "angels and spirits",
+    3
+   ]
+  ],
+  "clash": []
+ },
+ "Cheyenne": {
+  "also": [
+   [
+    "american cities",
+    3
+   ],
+   [
+    "hidden body parts",
+    3
+   ]
+  ],
+  "clash": [
+   "names that are places",
+   "prairie",
+   "wild west"
+  ]
+ },
+ "chi": {
+  "also": [],
+  "clash": [
+   "chinese medicine",
+   "mahjong words"
+  ]
+ },
+ "chiasmus": {
+  "also": [
+   [
+    "poetry terms",
+    5
+   ]
+  ],
+  "clash": []
+ },
+ "Chickasaw": {
+  "also": [
+   [
+    "hidden birds",
+    4
+   ]
+  ],
+  "clash": []
+ },
+ "children": {
+  "also": [],
+  "clash": [
+   "family members"
+  ]
+ },
+ "Chinese characters": {
+  "also": [],
+  "clash": [
+   "ancient china"
+  ]
+ },
+ "Chinook": {
+  "also": [
+   [
+    "canadian slang",
+    3
+   ],
+   [
+    "hidden body parts",
+    4
+   ],
+   [
+    "migrating animals",
+    3
+   ],
+   [
+    "named winds",
+    2
+   ],
+   [
+    "salmon and trout",
+    3
+   ],
+   [
+    "words from native american languages",
+    4
+   ]
+  ],
+  "clash": [
+   "aircraft types",
+   "military vehicles"
+  ]
+ },
+ "Chinook Jargon": {
+  "also": [],
+  "clash": [
+   "words from native american languages"
+  ]
+ },
+ "Choctaw": {
+  "also": [
+   [
+    "figure skating moves",
+    4
+   ]
+  ],
+  "clash": []
+ },
+ "châteaux": {
+  "also": [],
+  "clash": [
+   "castles"
+  ]
+ },
+ "ciao": {
+  "also": [
+   [
+    "greetings around the world",
+    1
+   ],
+   [
+    "ways to say goodbye",
+    1
+   ],
+   [
+    "words from italian",
+    1
+   ]
+  ],
+  "clash": [
+   "hello around the world"
+  ]
+ },
+ "Cimbrian": {
+  "also": [],
+  "clash": [
+   "hidden names"
+  ]
+ },
+ "cinquain": {
+  "also": [
+   [
+    "poetry terms",
+    4
+   ]
+  ],
+  "clash": []
+ },
+ "cipher": {
+  "also": [
+   [
+    "cybersecurity words",
+    3
+   ],
+   [
+    "puzzles",
+    3
+   ],
+   [
+    "spy words",
+    2
+   ],
+   [
+    "things with keys",
+    4
+   ],
+   [
+    "words from arabic",
+    3
+   ]
+  ],
+  "clash": []
+ },
+ "circa": {
+  "also": [],
+  "clash": [
+   "latin phrases"
+  ]
+ },
+ "circumflex": {
+  "also": [],
+  "clash": [
+   "french phrases in english",
+   "punctuation",
+   "typography words"
+  ]
+ },
+ "Classical Chinese": {
+  "also": [],
+  "clash": [
+   "ancient china"
+  ]
+ },
+ "Classical Maya": {
+  "also": [],
+  "clash": [
+   "aztecs and maya"
+  ]
+ },
+ "classifier": {
+  "also": [],
+  "clash": [
+   "ai words"
+  ]
+ },
+ "clause": {
+  "also": [],
+  "clash": [
+   "legal documents"
+  ]
+ },
+ "clerihew": {
+  "also": [
+   [
+    "poetry terms",
+    5
+   ]
+  ],
+  "clash": []
+ },
+ "clung": {
+  "also": [
+   [
+    "hidden body parts",
+    3
+   ]
+  ],
+  "clash": []
+ },
+ "codeword": {
+  "also": [
+   [
+    "hidden animals",
+    2
+   ],
+   [
+    "spy words",
+    3
+   ]
+  ],
+  "clash": []
+ },
+ "codex": {
+  "also": [
+   [
+    "ancient writing",
+    3
+   ],
+   [
+    "hidden animals",
+    2
+   ],
+   [
+    "museum",
+    3
+   ]
+  ],
+  "clash": [
+   "aztecs and maya"
+  ]
+ },
+ "collective noun": {
+  "also": [],
+  "clash": [
+   "collective nouns",
+   "parts of speech"
+  ]
+ },
+ "colon": {
+  "also": [
+   [
+    "latin american currencies",
+    3
+   ],
+   [
+    "organs",
+    2
+   ]
+  ],
+  "clash": [
+   "inside the body",
+   "keyboard symbols"
+  ]
+ },
+ "Comanche": {
+  "also": [],
+  "clash": [
+   "prairie",
+   "wild west"
+  ]
+ },
+ "comma": {
+  "also": [],
+  "clash": [
+   "butterflies and moths",
+   "keyboard symbols"
+  ]
+ },
+ "common noun": {
+  "also": [],
+  "clash": [
+   "parts of speech"
+  ]
+ },
+ "comparative": {
+  "also": [],
+  "clash": [
+   "hidden animals"
+  ]
+ },
+ "complement": {
+  "also": [
+   [
+    "homophones",
+    3
+   ]
+  ],
+  "clash": []
+ },
+ "conceit": {
+  "also": [],
+  "clash": [
+   "negative traits"
+  ]
+ },
+ "concerti": {
+  "also": [],
+  "clash": [
+   "classical forms"
+  ]
+ },
+ "concrete poem": {
+  "also": [
+   [
+    "poetry terms",
+    4
+   ]
+  ],
+  "clash": []
+ },
+ "condensed": {
+  "also": [
+   [
+    "types of milk",
+    2
+   ]
+  ],
+  "clash": []
+ },
+ "conditional": {
+  "also": [
+   [
+    "coding words",
+    3
+   ]
+  ],
+  "clash": []
+ },
+ "conjugation": {
+  "also": [],
+  "clash": [
+   "tenses"
+  ]
+ },
+ "conjunction": {
+  "also": [
+   [
+    "astronomy terms",
+    3
+   ]
+  ],
+  "clash": [
+   "grammar terms"
+  ]
+ },
+ "consonance": {
+  "also": [
+   [
+    "music terms",
+    4
+   ],
+   [
+    "poetry terms",
+    4
+   ],
+   [
+    "sounds",
+    5
+   ]
+  ],
+  "clash": []
+ },
+ "consonant": {
+  "also": [
+   [
+    "hidden insects",
+    2
+   ]
+  ],
+  "clash": []
+ },
+ "contraction": {
+  "also": [
+   [
+    "childbirth words",
+    1
+   ]
+  ],
+  "clash": [
+   "pregnancy words"
+  ]
+ },
+ "copperplate": {
+  "also": [
+   [
+    "fonts",
+    4
+   ]
+  ],
+  "clash": [
+   "hidden colors"
+  ]
+ },
+ "Copperplate": {
+  "also": [
+   [
+    "handwriting words",
+    3
+   ],
+   [
+    "hidden colors",
+    4
+   ]
+  ],
+  "clash": []
+ },
+ "Coptic": {
+  "also": [
+   [
+    "ancient writing",
+    3
+   ]
+  ],
+  "clash": [
+   "ancient egypt"
+  ]
+ },
+ "Cornish": {
+  "also": [
+   [
+    "celts",
+    3
+   ]
+  ],
+  "clash": [
+   "british food",
+   "cat breeds",
+   "chicken breeds",
+   "savory pies"
+  ]
+ },
+ "Corsican": {
+  "also": [],
+  "clash": [
+   "french regions",
+   "nationalities"
+  ]
+ },
+ "countable noun": {
+  "also": [],
+  "clash": [
+   "parts of speech"
+  ]
+ },
+ "counter": {
+  "also": [
+   [
+    "butcher shop",
+    2
+   ],
+   [
+    "cafe",
+    2
+   ],
+   [
+    "diner",
+    1
+   ],
+   [
+    "figure skating moves",
+    4
+   ],
+   [
+    "game pieces",
+    2
+   ],
+   [
+    "kitchen",
+    2
+   ],
+   [
+    "pharmacy",
+    2
+   ],
+   [
+    "post office",
+    2
+   ]
+  ],
+  "clash": [
+   "bakery",
+   "restaurant words",
+   "shops"
+  ]
+ },
+ "couplet": {
+  "also": [
+   [
+    "poetry terms",
+    2
+   ]
+  ],
+  "clash": []
+ },
+ "Courier": {
+  "also": [
+   [
+    "mail words",
+    2
+   ],
+   [
+    "post office",
+    2
+   ],
+   [
+    "service jobs",
+    2
+   ]
+  ],
+  "clash": [
+   "delivery vehicles"
+  ]
+ },
+ "crap": {
+  "also": [
+   [
+    "words meaning nonsense",
+    2
+   ]
+  ],
+  "clash": []
+ },
+ "Creek": {
+  "also": [
+   [
+    "bodies of water",
+    2
+   ],
+   [
+    "river features",
+    2
+   ]
+  ],
+  "clash": [
+   "campsite"
+  ]
+ },
+ "crikey": {
+  "also": [
+   [
+    "australian slang",
+    1
+   ],
+   [
+    "polite swears",
+    1
+   ],
+   [
+    "surprised words",
+    3
+   ]
+  ],
+  "clash": []
+ },
+ "Crimean Tatar": {
+  "also": [],
+  "clash": [
+   "nationalities"
+  ]
+ },
+ "cripes": {
+  "also": [
+   [
+    "polite swears",
+    2
+   ]
+  ],
+  "clash": []
+ },
+ "Croatian": {
+  "also": [
+   [
+    "nationalities",
+    2
+   ]
+  ],
+  "clash": []
+ },
+ "Crow": {
+  "also": [
+   [
+    "___berry",
+    2
+   ],
+   [
+    "animal sounds",
+    3
+   ],
+   [
+    "birds",
+    1
+   ],
+   [
+    "black things",
+    1
+   ],
+   [
+    "city animals",
+    1
+   ],
+   [
+    "garden birds",
+    1
+   ],
+   [
+    "scavengers",
+    2
+   ],
+   [
+    "songbirds",
+    2
+   ],
+   [
+    "things that fly",
+    1
+   ],
+   [
+    "things with wings",
+    2
+   ],
+   [
+    "yoga poses",
+    2
+   ]
+  ],
+  "clash": []
+ },
+ "cryptogram": {
+  "also": [
+   [
+    "hidden animals",
+    3
+   ],
+   [
+    "word games",
+    3
+   ]
+  ],
+  "clash": [
+   "puzzles"
+  ]
+ },
+ "Cumbric": {
+  "also": [
+   [
+    "celts",
+    5
+   ]
+  ],
+  "clash": []
+ },
+ "cuneiform": {
+  "also": [
+   [
+    "ancient writing",
+    2
+   ],
+   [
+    "bones",
+    5
+   ],
+   [
+    "mesopotamia",
+    2
+   ],
+   [
+    "middle eastern inventions",
+    2
+   ]
+  ],
+  "clash": []
+ },
+ "curly brace": {
+  "also": [],
+  "clash": [
+   "punctuation"
+  ]
+ },
+ "curly bracket": {
+  "also": [],
+  "clash": [
+   "coding words",
+   "keyboard symbols"
+  ]
+ },
+ "cursive": {
+  "also": [],
+  "clash": [
+   "fonts",
+   "typography words"
+  ]
+ },
+ "Cyrillic": {
+  "also": [],
+  "clash": [
+   "ancient writing"
+  ]
+ },
+ "Czech": {
+  "also": [
+   [
+    "nationalities",
+    1
+   ]
+  ],
+  "clash": [
+   "banking words",
+   "homophones"
+  ]
+ },
+ "cześć": {
+  "also": [
+   [
+    "greetings around the world",
+    4
+   ]
+  ],
+  "clash": [
+   "goodbye around the world"
+  ]
+ },
+ "Dacian": {
+  "also": [],
+  "clash": [
+   "ancient civilizations"
+  ]
+ },
+ "Dakota": {
+  "also": [
+   [
+    "prairie",
+    3
+   ],
+   [
+    "unisex names",
+    2
+   ]
+  ],
+  "clash": [
+   "new york landmarks",
+   "us states"
+  ]
+ },
+ "Dalmatian": {
+  "also": [
+   [
+    "black and white animals",
+    2
+   ],
+   [
+    "dog breeds",
+    1
+   ],
+   [
+    "fire station",
+    3
+   ],
+   [
+    "spotted animals",
+    1
+   ],
+   [
+    "words named after places",
+    2
+   ]
+  ],
+  "clash": []
+ },
+ "damn": {
+  "also": [
+   [
+    "silent letter words",
+    2
+   ]
+  ],
+  "clash": []
+ },
+ "dang": {
+  "also": [
+   [
+    "polite swears",
+    1
+   ]
+  ],
+  "clash": []
+ },
+ "Danish": {
+  "also": [
+   [
+    "nationalities",
+    1
+   ],
+   [
+    "pastries",
+    1
+   ],
+   [
+    "sweet foods",
+    3
+   ]
+  ],
+  "clash": [
+   "bakery",
+   "cafe",
+   "words named after places"
+  ]
+ },
+ "danke": {
+  "also": [],
+  "clash": [
+   "words from german"
+  ]
+ },
+ "Dari": {
+  "also": [],
+  "clash": [
+   "hidden numbers"
+  ]
+ },
+ "darn": {
+  "also": [
+   [
+    "polite swears",
+    1
+   ],
+   [
+    "sewing words",
+    2
+   ]
+  ],
+  "clash": []
+ },
+ "dash": {
+  "also": [
+   [
+    "___board",
+    1
+   ],
+   [
+    "diet types",
+    3
+   ],
+   [
+    "hidden trees",
+    2
+   ],
+   [
+    "motion verbs",
+    2
+   ],
+   [
+    "track events",
+    2
+   ]
+  ],
+  "clash": [
+   "cooking",
+   "game controls",
+   "keyboard symbols"
+  ]
+ },
+ "dealt": {
+  "also": [
+   [
+    "card game words",
+    3
+   ]
+  ],
+  "clash": []
+ },
+ "declarative": {
+  "also": [],
+  "clash": [
+   "hidden animals"
+  ]
+ },
+ "Delta": {
+  "also": [
+   [
+    "airlines",
+    1
+   ],
+   [
+    "coastal features",
+    3
+   ],
+   [
+    "erosion words",
+    3
+   ],
+   [
+    "greek letters",
+    1
+   ],
+   [
+    "river features",
+    1
+   ],
+   [
+    "wetlands",
+    3
+   ]
+  ],
+  "clash": []
+ },
+ "delta": {
+  "also": [
+   [
+    "airlines",
+    1
+   ],
+   [
+    "coastal features",
+    3
+   ],
+   [
+    "erosion words",
+    3
+   ],
+   [
+    "math terms",
+    4
+   ],
+   [
+    "phonetic alphabet",
+    1
+   ],
+   [
+    "river features",
+    1
+   ],
+   [
+    "wetlands",
+    3
+   ]
+  ],
+  "clash": []
+ },
+ "descender": {
+  "also": [
+   [
+    "climbing gear",
+    4
+   ]
+  ],
+  "clash": []
+ },
+ "despite": {
+  "also": [
+   [
+    "rhymes with light",
+    1
+   ]
+  ],
+  "clash": []
+ },
+ "determiner": {
+  "also": [
+   [
+    "hidden animals",
+    4
+   ]
+  ],
+  "clash": [
+   "grammar terms"
+  ]
+ },
+ "Devanagari": {
+  "also": [],
+  "clash": [
+   "hidden vehicles"
+  ]
+ },
+ "dhanyavaad": {
+  "also": [
+   [
+    "hindi everyday words",
+    3
+   ]
+  ],
+  "clash": []
+ },
+ "Dia duit": {
+  "also": [],
+  "clash": [
+   "greetings around the world"
+  ]
+ },
+ "diagnoses": {
+  "also": [
+   [
+    "hidden body parts",
+    3
+   ]
+  ],
+  "clash": []
+ },
+ "dice": {
+  "also": [
+   [
+    "casino words",
+    2
+   ],
+   [
+    "game pieces",
+    1
+   ],
+   [
+    "junk drawer",
+    3
+   ],
+   [
+    "mahjong words",
+    3
+   ],
+   [
+    "square things",
+    2
+   ],
+   [
+    "things that come in pairs",
+    3
+   ],
+   [
+    "things that roll",
+    1
+   ],
+   [
+    "ways to cut food",
+    1
+   ]
+  ],
+  "clash": [
+   "dice games"
+  ]
+ },
+ "did": {
+  "also": [
+   [
+    "palindromes",
+    1
+   ],
+   [
+    "words made of roman numerals",
+    1
+   ]
+  ],
+  "clash": []
+ },
+ "diminutive": {
+  "also": [
+   [
+    "words for small",
+    3
+   ]
+  ],
+  "clash": []
+ },
+ "DIN": {
+  "also": [
+   [
+    "loud things",
+    2
+   ],
+   [
+    "sounds",
+    2
+   ]
+  ],
+  "clash": []
+ },
+ "dingbat": {
+  "also": [
+   [
+    "hidden animals",
+    3
+   ],
+   [
+    "old-fashioned insults",
+    3
+   ],
+   [
+    "silly-sounding words",
+    3
+   ]
+  ],
+  "clash": [
+   "symbols"
+  ]
+ },
+ "dirge": {
+  "also": [
+   [
+    "poetry terms",
+    3
+   ],
+   [
+    "song types",
+    2
+   ]
+  ],
+  "clash": []
+ },
+ "do svidaniya": {
+  "also": [
+   [
+    "ways to say goodbye",
+    3
+   ]
+  ],
+  "clash": []
+ },
+ "dobar dan": {
+  "also": [
+   [
+    "greetings around the world",
+    4
+   ]
+  ],
+  "clash": []
+ },
+ "dobrý den": {
+  "also": [],
+  "clash": [
+   "greetings around the world"
+  ]
+ },
+ "doei": {
+  "also": [],
+  "clash": [
+   "ways to say goodbye"
+  ]
+ },
+ "Dogri": {
+  "also": [
+   [
+    "hidden animals",
+    3
+   ]
+  ],
+  "clash": []
+ },
+ "dollar sign": {
+  "also": [
+   [
+    "symbols",
+    1
+   ]
+  ],
+  "clash": [
+   "money words"
+  ]
+ },
+ "Dong": {
+  "also": [
+   [
+    "asian currencies",
+    3
+   ],
+   [
+    "chinese surnames",
+    2
+   ]
+  ],
+  "clash": []
+ },
+ "doodle": {
+  "also": [],
+  "clash": [
+   "drawing techniques",
+   "silly-sounding words"
+  ]
+ },
+ "double dactyl": {
+  "also": [
+   [
+    "poetry terms",
+    5
+   ]
+  ],
+  "clash": []
+ },
+ "double entendre": {
+  "also": [
+   [
+    "comedy words",
+    3
+   ],
+   [
+    "french phrases in english",
+    3
+   ]
+  ],
+  "clash": []
+ },
+ "double quote": {
+  "also": [],
+  "clash": [
+   "keyboard symbols"
+  ]
+ },
+ "dove": {
+  "also": [
+   [
+    "birds",
+    1
+   ],
+   [
+    "chocolates",
+    3
+   ],
+   [
+    "game meats",
+    3
+   ],
+   [
+    "garden birds",
+    2
+   ],
+   [
+    "homographs",
+    2
+   ],
+   [
+    "peace words",
+    1
+   ],
+   [
+    "pets",
+    3
+   ],
+   [
+    "shades of gray",
+    4
+   ],
+   [
+    "white things",
+    2
+   ]
+  ],
+  "clash": []
+ },
+ "down": {
+  "also": [
+   [
+    "___light",
+    2
+   ],
+   [
+    "animal coverings",
+    3
+   ],
+   [
+    "bird body parts",
+    3
+   ],
+   [
+    "natural materials",
+    3
+   ],
+   [
+    "sad words",
+    3
+   ],
+   [
+    "soft materials",
+    2
+   ],
+   [
+    "soft things",
+    3
+   ],
+   [
+    "sun___",
+    2
+   ]
+  ],
+  "clash": [
+   "american football terms"
+  ]
+ },
+ "dramatic monologue": {
+  "also": [
+   [
+    "poetry terms",
+    4
+   ]
+  ],
+  "clash": []
+ },
+ "drat": {
+  "also": [
+   [
+    "hidden animals",
+    3
+   ],
+   [
+    "polite swears",
+    1
+   ]
+  ],
+  "clash": []
+ },
+ "dreamt": {
+  "also": [
+   [
+    "dream words",
+    2
+   ]
+  ],
+  "clash": []
+ },
+ "drew": {
+  "also": [
+   [
+    "rhymes with blue",
+    1
+   ],
+   [
+    "unisex names",
+    2
+   ]
+  ],
+  "clash": []
+ },
+ "drove": {
+  "also": [
+   [
+    "collective nouns",
+    3
+   ]
+  ],
+  "clash": []
+ },
+ "dumela": {
+  "also": [
+   [
+    "greetings around the world",
+    5
+   ]
+  ],
+  "clash": []
+ },
+ "Dutch": {
+  "also": [
+   [
+    "nationalities",
+    1
+   ]
+  ],
+  "clash": [
+   "words from dutch"
+  ]
+ },
+ "dwarves": {
+  "also": [],
+  "clash": [
+   "fantasy races"
+  ]
+ },
+ "dzień dobry": {
+  "also": [],
+  "clash": [
+   "greetings around the world"
+  ]
+ },
+ "each other": {
+  "also": [],
+  "clash": [
+   "groups of people"
+  ]
+ },
+ "Echo": {
+  "also": [
+   [
+    "acoustics words",
+    1
+   ],
+   [
+    "hearing words",
+    2
+   ],
+   [
+    "smart home",
+    2
+   ],
+   [
+    "sounds",
+    1
+   ],
+   [
+    "words from mythology",
+    2
+   ]
+  ],
+  "clash": [
+   "greek gods",
+   "things that bounce"
+  ]
+ },
+ "Edo": {
+  "also": [
+   [
+    "old city names",
+    3
+   ]
+  ],
+  "clash": [
+   "feudal japan"
+  ]
+ },
+ "eek": {
+  "also": [],
+  "clash": [
+   "scared words"
+  ]
+ },
+ "egad": {
+  "also": [
+   [
+    "polite swears",
+    2
+   ]
+  ],
+  "clash": []
+ },
+ "either": {
+  "also": [],
+  "clash": [
+   "pronouns"
+  ]
+ },
+ "Elamite": {
+  "also": [
+   [
+    "empires",
+    5
+   ]
+  ],
+  "clash": []
+ },
+ "Elder Futhark": {
+  "also": [
+   [
+    "ancient writing",
+    4
+   ],
+   [
+    "vikings",
+    4
+   ]
+  ],
+  "clash": []
+ },
+ "elegy": {
+  "also": [
+   [
+    "classical forms",
+    3
+   ],
+   [
+    "hidden body parts",
+    3
+   ],
+   [
+    "poetry terms",
+    3
+   ],
+   [
+    "song types",
+    3
+   ]
+  ],
+  "clash": []
+ },
+ "ellipsis": {
+  "also": [],
+  "clash": [
+   "2d shapes",
+   "geometry"
+  ]
+ },
+ "elves": {
+  "also": [],
+  "clash": [
+   "christmas",
+   "fairy folk",
+   "fantasy races"
+  ]
+ },
+ "em": {
+  "also": [],
+  "clash": [
+   "sounds like a letter"
+  ]
+ },
+ "em dash": {
+  "also": [],
+  "clash": [
+   "typography words"
+  ]
+ },
+ "Emilian": {
+  "also": [],
+  "clash": [
+   "italian regions"
+  ]
+ },
+ "en dash": {
+  "also": [],
+  "clash": [
+   "typography words"
+  ]
+ },
+ "English": {
+  "also": [
+   [
+    "cue sports terms",
+    4
+   ],
+   [
+    "nationalities",
+    1
+   ],
+   [
+    "school subjects",
+    1
+   ]
+  ],
+  "clash": [
+   "british english words",
+   "english counties"
+  ]
+ },
+ "Enigma code": {
+  "also": [],
+  "clash": [
+   "spy words",
+   "world war ii terms"
+  ]
+ },
+ "epic": {
+  "also": [
+   [
+    "book genres",
+    3
+   ],
+   [
+    "movie genres",
+    3
+   ],
+   [
+    "mythology",
+    3
+   ],
+   [
+    "poetry terms",
+    2
+   ],
+   [
+    "words for big",
+    3
+   ]
+  ],
+  "clash": [
+   "gen z slang"
+  ]
+ },
+ "epigram": {
+  "also": [
+   [
+    "hidden animals",
+    3
+   ],
+   [
+    "poetry terms",
+    4
+   ]
+  ],
+  "clash": []
+ },
+ "epitaph": {
+  "also": [
+   [
+    "poetry terms",
+    3
+   ],
+   [
+    "tombs and burials",
+    3
+   ]
+  ],
+  "clash": []
+ },
+ "epithalamium": {
+  "also": [
+   [
+    "poetry terms",
+    5
+   ],
+   [
+    "song types",
+    5
+   ]
+  ],
+  "clash": []
+ },
+ "epithet": {
+  "also": [],
+  "clash": [
+   "old-fashioned insults"
+  ]
+ },
+ "epsilon": {
+  "also": [],
+  "clash": [
+   "math terms"
+  ]
+ },
+ "equals sign": {
+  "also": [
+   [
+    "symbols",
+    2
+   ]
+  ],
+  "clash": [
+   "math terms"
+  ]
+ },
+ "er": {
+  "also": [
+   [
+    "hospital",
+    2
+   ],
+   [
+    "hospital words",
+    2
+   ]
+  ],
+  "clash": []
+ },
+ "errata": {
+  "also": [
+   [
+    "hidden animals",
+    3
+   ],
+   [
+    "parts of a book",
+    5
+   ]
+  ],
+  "clash": []
+ },
+ "Esperanto": {
+  "also": [],
+  "clash": [
+   "hidden insects"
+  ]
+ },
+ "Estonian": {
+  "also": [
+   [
+    "nationalities",
+    2
+   ]
+  ],
+  "clash": []
+ },
+ "eta": {
+  "also": [
+   [
+    "anagrams of each other",
+    3
+   ]
+  ],
+  "clash": [
+   "airport words"
+  ]
+ },
+ "Etruscan": {
+  "also": [
+   [
+    "ancient writing",
+    4
+   ]
+  ],
+  "clash": [
+   "ancient civilizations"
+  ]
+ },
+ "euphemism": {
+  "also": [],
+  "clash": [
+   "polite swears"
+  ]
+ },
+ "eureka": {
+  "also": [
+   [
+    "gold rush words",
+    2
+   ],
+   [
+    "places that are also words",
+    3
+   ]
+  ],
+  "clash": []
+ },
+ "euro sign": {
+  "also": [
+   [
+    "symbols",
+    3
+   ]
+  ],
+  "clash": [
+   "money words"
+  ]
+ },
+ "everyone": {
+  "also": [
+   [
+    "hidden numbers",
+    1
+   ]
+  ],
+  "clash": []
+ },
+ "everything": {
+  "also": [
+   [
+    "rhymes with ring",
+    1
+   ]
+  ],
+  "clash": []
+ },
+ "Ewe": {
+  "also": [
+   [
+    "farm animals",
+    2
+   ],
+   [
+    "female animals",
+    1
+   ],
+   [
+    "homophones",
+    2
+   ],
+   [
+    "palindromes",
+    2
+   ],
+   [
+    "rhymes with blue",
+    2
+   ],
+   [
+    "sounds like a letter",
+    2
+   ]
+  ],
+  "clash": [
+   "farm"
+  ]
+ },
+ "except": {
+  "also": [
+   [
+    "conjunctions",
+    3
+   ]
+  ],
+  "clash": []
+ },
+ "exclamation mark": {
+  "also": [
+   [
+    "symbols",
+    1
+   ]
+  ],
+  "clash": [
+   "keyboard symbols"
+  ]
+ },
+ "exclamation point": {
+  "also": [],
+  "clash": [
+   "keyboard symbols"
+  ]
+ },
+ "Fante": {
+  "also": [],
+  "clash": [
+   "hidden insects"
+  ]
+ },
+ "Faroese": {
+  "also": [
+   [
+    "pony breeds",
+    5
+   ]
+  ],
+  "clash": []
+ },
+ "Farsi": {
+  "also": [],
+  "clash": [
+   "persian food"
+  ]
+ },
+ "farvel": {
+  "also": [],
+  "clash": [
+   "ways to say goodbye"
+  ]
+ },
+ "feet": {
+  "also": [
+   [
+    "homophones",
+    1
+   ],
+   [
+    "smelly things",
+    3
+   ],
+   [
+    "things that come in pairs",
+    1
+   ]
+  ],
+  "clash": [
+   "imperial units",
+   "length units"
+  ]
+ },
+ "fell": {
+  "also": [
+   [
+    "pony breeds",
+    4
+   ]
+  ],
+  "clash": [
+   "mountain features",
+   "scottish landscape words"
+  ]
+ },
+ "felt": {
+  "also": [
+   [
+    "casino words",
+    4
+   ],
+   [
+    "cue sports terms",
+    3
+   ],
+   [
+    "fabrics",
+    2
+   ],
+   [
+    "soft materials",
+    2
+   ],
+   [
+    "wool fabrics",
+    2
+   ]
+  ],
+  "clash": []
+ },
+ "Fijian": {
+  "also": [
+   [
+    "nationalities",
+    2
+   ]
+  ],
+  "clash": []
+ },
+ "Filipino": {
+  "also": [
+   [
+    "hidden body parts",
+    3
+   ],
+   [
+    "nationalities",
+    1
+   ]
+  ],
+  "clash": [
+   "filipino food"
+  ]
+ },
+ "Finnish": {
+  "also": [
+   [
+    "nationalities",
+    1
+   ]
+  ],
+  "clash": []
+ },
+ "first person": {
+  "also": [
+   [
+    "literature",
+    3
+   ]
+  ],
+  "clash": []
+ },
+ "flare": {
+  "also": [
+   [
+    "emergency supplies",
+    2
+   ],
+   [
+    "rhymes with bear",
+    2
+   ],
+   [
+    "shipwreck coast words",
+    2
+   ]
+  ],
+  "clash": [
+   "fire words",
+   "pants and shorts",
+   "sky phenomena",
+   "things that glow"
+  ]
+ },
+ "Flemish": {
+  "also": [],
+  "clash": [
+   "dutch painters",
+   "nationalities"
+  ]
+ },
+ "flew": {
+  "also": [
+   [
+    "homophones",
+    1
+   ],
+   [
+    "rhymes with blue",
+    1
+   ]
+  ],
+  "clash": []
+ },
+ "flourish": {
+  "also": [
+   [
+    "magic tricks",
+    4
+   ]
+  ],
+  "clash": [
+   "hand actions",
+   "music terms"
+  ]
+ },
+ "flung": {
+  "also": [
+   [
+    "hidden body parts",
+    3
+   ]
+  ],
+  "clash": []
+ },
+ "foghorn": {
+  "also": [
+   [
+    "loud things",
+    2
+   ],
+   [
+    "shipwreck coast words",
+    2
+   ]
+  ],
+  "clash": [
+   "ship parts"
+  ]
+ },
+ "font": {
+  "also": [
+   [
+    "church parts",
+    3
+   ]
+  ],
+  "clash": [
+   "religion words"
+  ]
+ },
+ "for": {
+  "also": [
+   [
+    "conjunctions",
+    3
+   ],
+   [
+    "homophones",
+    1
+   ],
+   [
+    "sounds like a number",
+    1
+   ]
+  ],
+  "clash": []
+ },
+ "formulae": {
+  "also": [
+   [
+    "motor racing",
+    3
+   ]
+  ],
+  "clash": []
+ },
+ "forward slash": {
+  "also": [],
+  "clash": [
+   "punctuation"
+  ]
+ },
+ "fought": {
+  "also": [
+   [
+    "ough words",
+    1
+   ]
+  ],
+  "clash": []
+ },
+ "fountain pen": {
+  "also": [
+   [
+    "stationery",
+    2
+   ]
+  ],
+  "clash": [
+   "collecting hobbies"
+  ]
+ },
+ "Foxtrot": {
+  "also": [
+   [
+    "ballroom dances",
+    1
+   ],
+   [
+    "dance music",
+    1
+   ],
+   [
+    "dances",
+    2
+   ],
+   [
+    "hidden animals",
+    2
+   ],
+   [
+    "roaring twenties",
+    2
+   ]
+  ],
+  "clash": []
+ },
+ "free verse": {
+  "also": [
+   [
+    "poetry terms",
+    2
+   ]
+  ],
+  "clash": []
+ },
+ "French": {
+  "also": [
+   [
+    "empires",
+    3
+   ],
+   [
+    "nationalities",
+    1
+   ],
+   [
+    "salad dressings",
+    2
+   ],
+   [
+    "school subjects",
+    1
+   ]
+  ],
+  "clash": [
+   "french food",
+   "french phrases in english",
+   "french-speaking countries",
+   "words from french"
+  ]
+ },
+ "Frisian": {
+  "also": [],
+  "clash": [
+   "cattle breeds"
+  ]
+ },
+ "froze": {
+  "also": [],
+  "clash": [
+   "cold things"
+  ]
+ },
+ "Frutiger": {
+  "also": [],
+  "clash": [
+   "hidden animals"
+  ]
+ },
+ "Fulani": {
+  "also": [],
+  "clash": [
+   "nationalities"
+  ]
+ },
+ "full stop": {
+  "also": [
+   [
+    "british english words",
+    2
+   ]
+  ],
+  "clash": []
+ },
+ "fungi": {
+  "also": [
+   [
+    "classification words",
+    3
+   ],
+   [
+    "signs of autumn",
+    2
+   ],
+   [
+    "soil words",
+    3
+   ]
+  ],
+  "clash": [
+   "mushrooms"
+  ]
+ },
+ "futhark": {
+  "also": [
+   [
+    "ancient writing",
+    4
+   ],
+   [
+    "vikings",
+    4
+   ]
+  ],
+  "clash": []
+ },
+ "futhorc": {
+  "also": [],
+  "clash": [
+   "ancient writing"
+  ]
+ },
+ "Futunan": {
+  "also": [],
+  "clash": [
+   "hidden animals"
+  ]
+ },
+ "future": {
+  "also": [
+   [
+    "time",
+    1
+   ]
+  ],
+  "clash": []
+ },
+ "gadzooks": {
+  "also": [
+   [
+    "polite swears",
+    2
+   ]
+  ],
+  "clash": []
+ },
+ "Gaelic": {
+  "also": [
+   [
+    "celts",
+    2
+   ]
+  ],
+  "clash": [
+   "scottish words",
+   "st. patrick's day"
+  ]
+ },
+ "Galatian": {
+  "also": [
+   [
+    "celts",
+    5
+   ]
+  ],
+  "clash": []
+ },
+ "Galician": {
+  "also": [],
+  "clash": [
+   "spanish regions"
+  ]
+ },
+ "gamarjoba": {
+  "also": [],
+  "clash": [
+   "greetings around the world"
+  ]
+ },
+ "Gamilaraay": {
+  "also": [
+   [
+    "aboriginal culture",
+    5
+   ]
+  ],
+  "clash": []
+ },
+ "gamma": {
+  "also": [],
+  "clash": [
+   "light words",
+   "nuclear words"
+  ]
+ },
+ "Gan": {
+  "also": [
+   [
+    "ai words",
+    5
+   ]
+  ],
+  "clash": []
+ },
+ "Garamond": {
+  "also": [],
+  "clash": [
+   "hidden animals"
+  ]
+ },
+ "Gascon": {
+  "also": [],
+  "clash": [
+   "french regions"
+  ]
+ },
+ "Gaulish": {
+  "also": [
+   [
+    "celts",
+    4
+   ]
+  ],
+  "clash": []
+ },
+ "Ge'ez": {
+  "also": [],
+  "clash": [
+   "ancient writing"
+  ]
+ },
+ "Ge'ez script": {
+  "also": [],
+  "clash": [
+   "ancient writing"
+  ]
+ },
+ "gee": {
+  "also": [
+   [
+    "polite swears",
+    1
+   ],
+   [
+    "sounds like a letter",
+    2
+   ],
+   [
+    "surprised words",
+    2
+   ]
+  ],
+  "clash": []
+ },
+ "geese": {
+  "also": [
+   [
+    "signs of autumn",
+    2
+   ]
+  ],
+  "clash": [
+   "farm animals",
+   "geese and swans",
+   "migrating animals"
+  ]
+ },
+ "geia sou": {
+  "also": [],
+  "clash": [
+   "goodbye around the world",
+   "greetings around the world"
+  ]
+ },
+ "Georgia": {
+  "also": [
+   [
+    "countries",
+    2
+   ],
+   [
+    "countries ending in ia",
+    2
+   ],
+   [
+    "flags with crosses",
+    2
+   ],
+   [
+    "names that are places",
+    1
+   ],
+   [
+    "places named after people",
+    3
+   ],
+   [
+    "red and white flags",
+    3
+   ],
+   [
+    "us states",
+    1
+   ]
+  ],
+  "clash": [
+   "asian countries",
+   "european countries"
+  ]
+ },
+ "German": {
+  "also": [
+   [
+    "empires",
+    3
+   ],
+   [
+    "nationalities",
+    1
+   ],
+   [
+    "school subjects",
+    1
+   ]
+  ],
+  "clash": [
+   "german food",
+   "words from german"
+  ]
+ },
+ "ghazal": {
+  "also": [
+   [
+    "asian music styles",
+    2
+   ],
+   [
+    "poetry terms",
+    4
+   ],
+   [
+    "words from persian",
+    5
+   ]
+  ],
+  "clash": []
+ },
+ "Glagolitic": {
+  "also": [
+   [
+    "ancient writing",
+    5
+   ]
+  ],
+  "clash": []
+ },
+ "glyph": {
+  "also": [
+   [
+    "aztecs and maya",
+    3
+   ],
+   [
+    "no vowels",
+    2
+   ]
+  ],
+  "clash": [
+   "ancient writing"
+  ]
+ },
+ "goedendag": {
+  "also": [
+   [
+    "greetings around the world",
+    4
+   ],
+   [
+    "medieval weapons",
+    5
+   ]
+  ],
+  "clash": []
+ },
+ "Golf": {
+  "also": [
+   [
+    "___ball",
+    1
+   ],
+   [
+    "ball sports",
+    1
+   ],
+   [
+    "famous car models",
+    2
+   ],
+   [
+    "olympic sports",
+    1
+   ],
+   [
+    "outdoor activities",
+    1
+   ],
+   [
+    "reversible words",
+    1
+   ]
+  ],
+  "clash": []
+ },
+ "golly": {
+  "also": [
+   [
+    "polite swears",
+    1
+   ],
+   [
+    "surprised words",
+    2
+   ]
+  ],
+  "clash": []
+ },
+ "gosh": {
+  "also": [
+   [
+    "polite swears",
+    1
+   ],
+   [
+    "surprised words",
+    2
+   ]
+  ],
+  "clash": []
+ },
+ "Gotham": {
+  "also": [],
+  "clash": [
+   "comic book words",
+   "legendary places"
+  ]
+ },
+ "Gothic": {
+  "also": [
+   [
+    "architecture styles",
+    1
+   ],
+   [
+    "art movements",
+    3
+   ],
+   [
+    "book genres",
+    2
+   ],
+   [
+    "fashion styles",
+    2
+   ]
+  ],
+  "clash": [
+   "fonts",
+   "medieval times",
+   "typography words"
+  ]
+ },
+ "gracias": {
+  "also": [],
+  "clash": [
+   "words from spanish"
+  ]
+ },
+ "graffiti": {
+  "also": [
+   [
+    "art",
+    1
+   ],
+   [
+    "crimes",
+    3
+   ],
+   [
+    "hip hop words",
+    2
+   ],
+   [
+    "words from italian",
+    1
+   ]
+  ],
+  "clash": []
+ },
+ "graphology": {
+  "also": [],
+  "clash": [
+   "science fields"
+  ]
+ },
+ "grave accent": {
+  "also": [],
+  "clash": [
+   "punctuation",
+   "typography words"
+  ]
+ },
+ "grazie": {
+  "also": [],
+  "clash": [
+   "words from italian"
+  ]
+ },
+ "greater-than sign": {
+  "also": [],
+  "clash": [
+   "math terms",
+   "symbols"
+  ]
+ },
+ "Greek": {
+  "also": [
+   [
+    "nationalities",
+    1
+   ],
+   [
+    "salad dressings",
+    3
+   ],
+   [
+    "school subjects",
+    2
+   ]
+  ],
+  "clash": [
+   "ancient greece",
+   "column styles",
+   "greek food",
+   "greek letters"
+  ]
+ },
+ "Greek alphabet": {
+  "also": [],
+  "clash": [
+   "ancient greece"
+  ]
+ },
+ "grew": {
+  "also": [
+   [
+    "rhymes with blue",
+    1
+   ]
+  ],
+  "clash": []
+ },
+ "ground": {
+  "also": [
+   [
+    "back___",
+    1
+   ],
+   [
+    "painting words",
+    4
+   ]
+  ],
+  "clash": [
+   "coffee words",
+   "soil words"
+  ]
+ },
+ "grüß Gott": {
+  "also": [
+   [
+    "greetings around the world",
+    4
+   ]
+  ],
+  "clash": []
+ },
+ "Guaraní": {
+  "also": [
+   [
+    "latin american currencies",
+    3
+   ]
+  ],
+  "clash": [
+   "south american soccer clubs"
+  ]
+ },
+ "Gujarati": {
+  "also": [],
+  "clash": [
+   "indian food",
+   "indian states"
+  ]
+ },
+ "Gullah": {
+  "also": [],
+  "clash": [
+   "hidden birds"
+  ]
+ },
+ "guten Tag": {
+  "also": [
+   [
+    "greetings around the world",
+    2
+   ]
+  ],
+  "clash": []
+ },
+ "gâteaux": {
+  "also": [],
+  "clash": [
+   "cakes"
+  ]
+ },
+ "güle güle": {
+  "also": [
+   [
+    "turkish everyday words",
+    4
+   ]
+  ],
+  "clash": []
+ },
+ "habari": {
+  "also": [
+   [
+    "greetings around the world",
+    4
+   ],
+   [
+    "swahili words",
+    3
+   ]
+  ],
+  "clash": []
+ },
+ "hafa adai": {
+  "also": [],
+  "clash": [
+   "greetings around the world"
+  ]
+ },
+ "haiku": {
+  "also": [
+   [
+    "feudal japan",
+    2
+   ],
+   [
+    "poetry terms",
+    1
+   ],
+   [
+    "rhymes with blue",
+    3
+   ],
+   [
+    "words from japanese",
+    2
+   ]
+  ],
+  "clash": []
+ },
+ "Hainanese": {
+  "also": [],
+  "clash": [
+   "chinese food",
+   "rice dishes"
+  ]
+ },
+ "Haitian Creole": {
+  "also": [],
+  "clash": [
+   "nationalities"
+  ]
+ },
+ "hallelujah": {
+  "also": [
+   [
+    "religion words",
+    2
+   ]
+  ],
+  "clash": []
+ },
+ "hallo": {
+  "also": [
+   [
+    "greetings around the world",
+    3
+   ]
+  ],
+  "clash": [
+   "greetings"
+  ]
+ },
+ "halo": {
+  "also": [
+   [
+    "motor racing",
+    3
+   ],
+   [
+    "sky phenomena",
+    2
+   ],
+   [
+    "things that glow",
+    3
+   ],
+   [
+    "video games",
+    2
+   ]
+  ],
+  "clash": [
+   "angels and spirits",
+   "greetings",
+   "religion words"
+  ]
+ },
+ "halves": {
+  "also": [],
+  "clash": [
+   "fractions"
+  ]
+ },
+ "hamba kahle": {
+  "also": [],
+  "clash": [
+   "ways to say goodbye"
+  ]
+ },
+ "hand": {
+  "also": [
+   [
+    "___ball",
+    1
+   ],
+   [
+    "___book",
+    1
+   ],
+   [
+    "___man",
+    2
+   ],
+   [
+    "back___",
+    1
+   ],
+   [
+    "card game words",
+    2
+   ],
+   [
+    "clock parts",
+    1
+   ],
+   [
+    "hands and feet",
+    1
+   ],
+   [
+    "horses",
+    4
+   ],
+   [
+    "imperial units",
+    3
+   ],
+   [
+    "length units",
+    3
+   ],
+   [
+    "old units",
+    3
+   ],
+   [
+    "paired body parts",
+    1
+   ]
+  ],
+  "clash": []
+ },
+ "hand signal": {
+  "also": [],
+  "clash": [
+   "cycling words",
+   "driving words",
+   "gestures"
+  ]
+ },
+ "Hangul": {
+  "also": [
+   [
+    "himalayan animals",
+    5
+   ],
+   [
+    "inventions",
+    5
+   ]
+  ],
+  "clash": [
+   "korean food"
+  ]
+ },
+ "hanzi": {
+  "also": [
+   [
+    "words from chinese",
+    5
+   ]
+  ],
+  "clash": []
+ },
+ "Haryanvi": {
+  "also": [],
+  "clash": [
+   "hidden names"
+  ]
+ },
+ "hash": {
+  "also": [
+   [
+    "campfire foods",
+    3
+   ],
+   [
+    "coding words",
+    3
+   ],
+   [
+    "hidden trees",
+    2
+   ],
+   [
+    "illegal drugs",
+    2
+   ]
+  ],
+  "clash": [
+   "breakfast foods",
+   "diner",
+   "punctuation",
+   "symbols"
+  ]
+ },
+ "hashtag": {
+  "also": [
+   [
+    "hidden trees",
+    2
+   ],
+   [
+    "internet words",
+    1
+   ],
+   [
+    "social media words",
+    1
+   ],
+   [
+    "symbols",
+    1
+   ]
+  ],
+  "clash": [
+   "punctuation"
+  ]
+ },
+ "hasta la vista": {
+  "also": [
+   [
+    "ways to say goodbye",
+    2
+   ],
+   [
+    "words from spanish",
+    2
+   ]
+  ],
+  "clash": []
+ },
+ "hasta luego": {
+  "also": [
+   [
+    "ways to say goodbye",
+    2
+   ]
+  ],
+  "clash": []
+ },
+ "hasta mañana": {
+  "also": [
+   [
+    "ways to say goodbye",
+    2
+   ]
+  ],
+  "clash": []
+ },
+ "Hawaiian": {
+  "also": [
+   [
+    "massage types",
+    4
+   ],
+   [
+    "pizza styles",
+    1
+   ],
+   [
+    "world music styles",
+    3
+   ]
+  ],
+  "clash": [
+   "hawaiian words"
+  ]
+ },
+ "Hawrami": {
+  "also": [],
+  "clash": [
+   "hidden animals"
+  ]
+ },
+ "he": {
+  "also": [],
+  "clash": [
+   "chinese surnames"
+  ]
+ },
+ "heard": {
+  "also": [
+   [
+    "hidden body parts",
+    2
+   ],
+   [
+    "homophones",
+    1
+   ]
+  ],
+  "clash": []
+ },
+ "Hebrew": {
+  "also": [],
+  "clash": [
+   "biblical names",
+   "judaism words"
+  ]
+ },
+ "Hebrew alphabet": {
+  "also": [],
+  "clash": [
+   "judaism words"
+  ]
+ },
+ "heck": {
+  "also": [
+   [
+    "polite swears",
+    1
+   ]
+  ],
+  "clash": []
+ },
+ "hei": {
+  "also": [
+   [
+    "greetings around the world",
+    3
+   ],
+   [
+    "hanukkah",
+    5
+   ]
+  ],
+  "clash": []
+ },
+ "hej": {
+  "also": [
+   [
+    "greetings around the world",
+    3
+   ]
+  ],
+  "clash": [
+   "goodbye around the world"
+  ]
+ },
+ "held": {
+  "also": [
+   [
+    "hand___",
+    2
+   ]
+  ],
+  "clash": []
+ },
+ "heliograph": {
+  "also": [
+   [
+    "old ways to communicate",
+    4
+   ],
+   [
+    "things that reflect",
+    5
+   ]
+  ],
+  "clash": []
+ },
+ "hell": {
+  "also": [
+   [
+    "afterlife words",
+    1
+   ]
+  ],
+  "clash": [
+   "homophones"
+  ]
+ },
+ "Helvetica": {
+  "also": [],
+  "clash": [
+   "old country names"
+  ]
+ },
+ "hendiadys": {
+  "also": [],
+  "clash": [
+   "hidden birds"
+  ]
+ },
+ "hey": {
+  "also": [
+   [
+    "greetings",
+    1
+   ]
+  ],
+  "clash": []
+ },
+ "hieroglyphics": {
+  "also": [
+   [
+    "ancient egypt",
+    1
+   ],
+   [
+    "ancient writing",
+    1
+   ]
+  ],
+  "clash": []
+ },
+ "him": {
+  "also": [
+   [
+    "homophones",
+    1
+   ]
+  ],
+  "clash": []
+ },
+ "Hindi": {
+  "also": [],
+  "clash": [
+   "hindi everyday words"
+  ]
+ },
+ "Hindustani": {
+  "also": [
+   [
+    "asian music styles",
+    3
+   ]
+  ],
+  "clash": []
+ },
+ "hiragana": {
+  "also": [
+   [
+    "words from japanese",
+    5
+   ]
+  ],
+  "clash": []
+ },
+ "Hittite": {
+  "also": [
+   [
+    "bronze age",
+    3
+   ],
+   [
+    "empires",
+    3
+   ],
+   [
+    "hidden birds",
+    4
+   ]
+  ],
+  "clash": []
+ },
+ "hmm": {
+  "also": [
+   [
+    "no vowels",
+    2
+   ]
+  ],
+  "clash": []
+ },
+ "Hmong": {
+  "also": [],
+  "clash": [
+   "nationalities"
+  ]
+ },
+ "hoi": {
+  "also": [
+   [
+    "greetings around the world",
+    4
+   ]
+  ],
+  "clash": []
+ },
+ "hola": {
+  "also": [
+   [
+    "greetings around the world",
+    1
+   ]
+  ],
+  "clash": [
+   "words from spanish"
+  ]
+ },
+ "hooray": {
+  "also": [],
+  "clash": [
+   "happy words"
+  ]
+ },
+ "hooves": {
+  "also": [],
+  "clash": [
+   "animal body parts"
+  ]
+ },
+ "Hopi": {
+  "also": [],
+  "clash": [
+   "native american folklore"
+  ]
+ },
+ "Hotel": {
+  "also": [
+   [
+    "accommodation",
+    1
+   ],
+   [
+    "buildings",
+    1
+   ]
+  ],
+  "clash": []
+ },
+ "huh": {
+  "also": [
+   [
+    "palindromes",
+    2
+   ]
+  ],
+  "clash": []
+ },
+ "hujambo": {
+  "also": [],
+  "clash": [
+   "greetings around the world",
+   "swahili words"
+  ]
+ },
+ "hung": {
+  "also": [],
+  "clash": [
+   "courtroom words"
+  ]
+ },
+ "Hungarian": {
+  "also": [
+   [
+    "nationalities",
+    1
+   ],
+   [
+    "revolutions",
+    3
+   ]
+  ],
+  "clash": []
+ },
+ "hurrah": {
+  "also": [],
+  "clash": [
+   "happy words"
+  ]
+ },
+ "hymn": {
+  "also": [
+   [
+    "___book",
+    1
+   ],
+   [
+    "homophones",
+    2
+   ],
+   [
+    "no vowels",
+    2
+   ],
+   [
+    "religion words",
+    2
+   ],
+   [
+    "silent letter words",
+    2
+   ],
+   [
+    "song types",
+    1
+   ]
+  ],
+  "clash": []
+ },
+ "hyperbole": {
+  "also": [
+   [
+    "poetry terms",
+    3
+   ]
+  ],
+  "clash": []
+ },
+ "hyphen": {
+  "also": [],
+  "clash": [
+   "hidden birds",
+   "keyboard symbols"
+  ]
+ },
+ "I": {
+  "also": [
+   [
+    "homophones",
+    1
+   ],
+   [
+    "sounds like a letter",
+    1
+   ]
+  ],
+  "clash": []
+ },
+ "ia orana": {
+  "also": [],
+  "clash": [
+   "greetings around the world"
+  ]
+ },
+ "Iban": {
+  "also": [],
+  "clash": [
+   "arabic names",
+   "banking words"
+  ]
+ },
+ "Iberian": {
+  "also": [
+   [
+    "peninsulas",
+    1
+   ]
+  ],
+  "clash": []
+ },
+ "Icelandic": {
+  "also": [
+   [
+    "horse breeds",
+    3
+   ],
+   [
+    "nationalities",
+    1
+   ]
+  ],
+  "clash": [
+   "sheep breeds"
+  ]
+ },
+ "ideogram": {
+  "also": [
+   [
+    "ancient writing",
+    4
+   ],
+   [
+    "hidden animals",
+    3
+   ]
+  ],
+  "clash": []
+ },
+ "Ido": {
+  "also": [],
+  "clash": [
+   "homophones",
+   "weddings"
+  ]
+ },
+ "idyll": {
+  "also": [
+   [
+    "poetry terms",
+    4
+   ]
+  ],
+  "clash": [
+   "homophones"
+  ]
+ },
+ "if": {
+  "also": [],
+  "clash": [
+   "coding words"
+  ]
+ },
+ "illegible": {
+  "also": [
+   [
+    "hidden body parts",
+    2
+   ]
+  ],
+  "clash": []
+ },
+ "Impact": {
+  "also": [],
+  "clash": [
+   "impact sounds"
+  ]
+ },
+ "imperative": {
+  "also": [],
+  "clash": [
+   "hidden animals"
+  ]
+ },
+ "imperfect": {
+  "also": [],
+  "clash": [
+   "grammar terms"
+  ]
+ },
+ "in": {
+  "also": [
+   [
+    "___box",
+    1
+   ],
+   [
+    "homophones",
+    1
+   ]
+  ],
+  "clash": []
+ },
+ "India": {
+  "also": [
+   [
+    "asian countries",
+    1
+   ],
+   [
+    "countries ending in ia",
+    1
+   ],
+   [
+    "names that are places",
+    2
+   ],
+   [
+    "tricolor flags",
+    1
+   ]
+  ],
+  "clash": []
+ },
+ "indicative": {
+  "also": [],
+  "clash": [
+   "hidden animals"
+  ]
+ },
+ "Indonesian": {
+  "also": [
+   [
+    "nationalities",
+    1
+   ]
+  ],
+  "clash": [
+   "hidden numbers"
+  ]
+ },
+ "infinitive": {
+  "also": [],
+  "clash": [
+   "tenses"
+  ]
+ },
+ "inflection": {
+  "also": [],
+  "clash": [
+   "ways of speaking"
+  ]
+ },
+ "initials": {
+  "also": [
+   [
+    "arcade words",
+    3
+   ]
+  ],
+  "clash": [
+   "names"
+  ]
+ },
+ "ink": {
+  "also": [
+   [
+    "art materials",
+    2
+   ],
+   [
+    "black things",
+    2
+   ],
+   [
+    "colors",
+    4
+   ],
+   [
+    "stationery",
+    2
+   ]
+  ],
+  "clash": [
+   "___berry",
+   "cephalopods"
+  ]
+ },
+ "inkwell": {
+  "also": [
+   [
+    "stationery",
+    3
+   ]
+  ],
+  "clash": []
+ },
+ "innuendo": {
+  "also": [
+   [
+    "comedy words",
+    3
+   ]
+  ],
+  "clash": []
+ },
+ "inside": {
+  "also": [],
+  "clash": [
+   "hidden names"
+  ]
+ },
+ "instrumental": {
+  "also": [
+   [
+    "music styles",
+    2
+   ]
+  ],
+  "clash": [
+   "music terms",
+   "song types"
+  ]
+ },
+ "Inter": {
+  "also": [],
+  "clash": [
+   "european soccer clubs"
+  ]
+ },
+ "interjection": {
+  "also": [],
+  "clash": [
+   "grammar terms"
+  ]
+ },
+ "interrobang": {
+  "also": [],
+  "clash": [
+   "silly-sounding words"
+  ]
+ },
+ "into": {
+  "also": [
+   [
+    "rhymes with blue",
+    1
+   ]
+  ],
+  "clash": []
+ },
+ "iota": {
+  "also": [
+   [
+    "tiny things",
+    3
+   ]
+  ],
+  "clash": [
+   "words for small"
+  ]
+ },
+ "Irish": {
+  "also": [
+   [
+    "celts",
+    3
+   ],
+   [
+    "hidden body parts",
+    3
+   ],
+   [
+    "nationalities",
+    1
+   ]
+  ],
+  "clash": [
+   "irish names",
+   "st. patrick's day"
+  ]
+ },
+ "Irish Gaelic": {
+  "also": [
+   [
+    "celts",
+    3
+   ]
+  ],
+  "clash": [
+   "st. patrick's day"
+  ]
+ },
+ "irony": {
+  "also": [
+   [
+    "literature",
+    2
+   ]
+  ],
+  "clash": []
+ },
+ "Italian": {
+  "also": [
+   [
+    "nationalities",
+    1
+   ],
+   [
+    "salad dressings",
+    2
+   ],
+   [
+    "school subjects",
+    2
+   ]
+  ],
+  "clash": [
+   "italian food",
+   "peninsulas",
+   "words from italian"
+  ]
+ },
+ "italic": {
+  "also": [],
+  "clash": [
+   "fonts"
+  ]
+ },
+ "italic hand": {
+  "also": [],
+  "clash": [
+   "typography words"
+  ]
+ },
+ "jaa ne": {
+  "also": [],
+  "clash": [
+   "ways to say goodbye"
+  ]
+ },
+ "Jamaican Patois": {
+  "also": [],
+  "clash": [
+   "nationalities"
+  ]
+ },
+ "jambo": {
+  "also": [
+   [
+    "greetings around the world",
+    3
+   ],
+   [
+    "safari words",
+    3
+   ],
+   [
+    "swahili words",
+    2
+   ]
+  ],
+  "clash": []
+ },
+ "Japanese": {
+  "also": [
+   [
+    "empires",
+    3
+   ],
+   [
+    "nationalities",
+    1
+   ],
+   [
+    "school subjects",
+    2
+   ]
+  ],
+  "clash": [
+   "japanese food",
+   "japanese names",
+   "words from japanese"
+  ]
+ },
+ "Javanese": {
+  "also": [
+   [
+    "cat breeds",
+    4
+   ],
+   [
+    "hidden vehicles",
+    3
+   ]
+  ],
+  "clash": [
+   "nationalities"
+  ]
+ },
+ "jeez": {
+  "also": [
+   [
+    "polite swears",
+    1
+   ],
+   [
+    "surprised words",
+    2
+   ]
+  ],
+  "clash": []
+ },
+ "Jenson": {
+  "also": [],
+  "clash": [
+   "formula one drivers"
+  ]
+ },
+ "Jin": {
+  "also": [
+   [
+    "chinese dynasties",
+    3
+   ],
+   [
+    "chinese surnames",
+    3
+   ]
+  ],
+  "clash": []
+ },
+ "Juliett": {
+  "also": [],
+  "clash": [
+   "girls' names",
+   "shakespeare characters"
+  ]
+ },
+ "justification": {
+  "also": [],
+  "clash": [
+   "hidden animals"
+  ]
+ },
+ "K'iche'": {
+  "also": [],
+  "clash": [
+   "aztecs and maya"
+  ]
+ },
+ "ka kite": {
+  "also": [
+   [
+    "maori words",
+    3
+   ]
+  ],
+  "clash": []
+ },
+ "Kachin": {
+  "also": [
+   [
+    "hidden body parts",
+    3
+   ]
+  ],
+  "clash": []
+ },
+ "kaixo": {
+  "also": [],
+  "clash": [
+   "goodbye around the world",
+   "greetings around the world"
+  ]
+ },
+ "kamusta": {
+  "also": [],
+  "clash": [
+   "greetings around the world"
+  ]
+ },
+ "kanji": {
+  "also": [
+   [
+    "words from japanese",
+    4
+   ]
+  ],
+  "clash": []
+ },
+ "Kannada": {
+  "also": [],
+  "clash": [
+   "indian states"
+  ]
+ },
+ "kappa": {
+  "also": [
+   [
+    "mythical creatures",
+    3
+   ],
+   [
+    "yokai",
+    2
+   ]
+  ],
+  "clash": []
+ },
+ "Karen": {
+  "also": [
+   [
+    "gen z slang",
+    2
+   ],
+   [
+    "girls' names",
+    1
+   ]
+  ],
+  "clash": []
+ },
+ "Kashmiri": {
+  "also": [
+   [
+    "chili peppers",
+    4
+   ]
+  ],
+  "clash": [
+   "fabrics",
+   "indian states",
+   "wool fabrics"
+  ]
+ },
+ "katakana": {
+  "also": [
+   [
+    "words from japanese",
+    5
+   ]
+  ],
+  "clash": []
+ },
+ "Kaurna": {
+  "also": [
+   [
+    "aboriginal culture",
+    5
+   ]
+  ],
+  "clash": []
+ },
+ "Kazakh": {
+  "also": [
+   [
+    "nationalities",
+    2
+   ]
+  ],
+  "clash": []
+ },
+ "kenning": {
+  "also": [
+   [
+    "poetry terms",
+    5
+   ]
+  ],
+  "clash": []
+ },
+ "kerning": {
+  "also": [
+   [
+    "publishing words",
+    4
+   ]
+  ],
+  "clash": []
+ },
+ "Kharosthi": {
+  "also": [
+   [
+    "ancient writing",
+    5
+   ]
+  ],
+  "clash": []
+ },
+ "Khmer": {
+  "also": [
+   [
+    "empires",
+    3
+   ]
+  ],
+  "clash": [
+   "ancient civilizations"
+  ]
+ },
+ "kia ora": {
+  "also": [
+   [
+    "greetings around the world",
+    3
+   ],
+   [
+    "maori culture",
+    2
+   ],
+   [
+    "maori words",
+    2
+   ],
+   [
+    "thank you around the world",
+    4
+   ]
+  ],
+  "clash": []
+ },
+ "Kilo": {
+  "also": [
+   [
+    "metric prefixes",
+    1
+   ],
+   [
+    "weight units",
+    1
+   ]
+  ],
+  "clash": []
+ },
+ "kine": {
+  "also": [],
+  "clash": [
+   "cattle breeds"
+  ]
+ },
+ "Kiribati": {
+  "also": [
+   [
+    "island nations",
+    3
+   ],
+   [
+    "oceanian countries",
+    3
+   ],
+   [
+    "pacific islands",
+    3
+   ],
+   [
+    "tiny countries",
+    4
+   ]
+  ],
+  "clash": []
+ },
+ "Klamath": {
+  "also": [
+   [
+    "north american rivers",
+    4
+   ]
+  ],
+  "clash": []
+ },
+ "knelt": {
+  "also": [
+   [
+    "silent k words",
+    2
+   ]
+  ],
+  "clash": []
+ },
+ "knew": {
+  "also": [
+   [
+    "homophones",
+    1
+   ],
+   [
+    "rhymes with blue",
+    1
+   ],
+   [
+    "silent k words",
+    1
+   ]
+  ],
+  "clash": []
+ },
+ "knives": {
+  "also": [
+   [
+    "silent k words",
+    1
+   ]
+  ],
+  "clash": [
+   "kitchen utensils",
+   "things that cut"
+  ]
+ },
+ "Koine Greek": {
+  "also": [],
+  "clash": [
+   "ancient greece"
+  ]
+ },
+ "Kongo": {
+  "also": [
+   [
+    "empires",
+    5
+   ]
+  ],
+  "clash": []
+ },
+ "konnichiwa": {
+  "also": [
+   [
+    "greetings around the world",
+    2
+   ]
+  ],
+  "clash": [
+   "words from japanese"
+  ]
+ },
+ "Korean": {
+  "also": [
+   [
+    "empires",
+    4
+   ],
+   [
+    "nationalities",
+    1
+   ]
+  ],
+  "clash": [
+   "korean food",
+   "peninsulas"
+  ]
+ },
+ "Kriol": {
+  "also": [],
+  "clash": [
+   "aboriginal culture"
+  ]
+ },
+ "Kuna": {
+  "also": [
+   [
+    "european currencies",
+    4
+   ]
+  ],
+  "clash": []
+ },
+ "Kurdish": {
+  "also": [],
+  "clash": [
+   "nationalities"
+  ]
+ },
+ "kuzuzangpo": {
+  "also": [],
+  "clash": [
+   "greetings around the world"
+  ]
+ },
+ "kwaheri": {
+  "also": [
+   [
+    "swahili words",
+    3
+   ]
+  ],
+  "clash": []
+ },
+ "Kyrgyz": {
+  "also": [
+   [
+    "nationalities",
+    3
+   ]
+  ],
+  "clash": []
+ },
+ "labas": {
+  "also": [
+   [
+    "greetings around the world",
+    4
+   ]
+  ],
+  "clash": []
+ },
+ "laid": {
+  "also": [
+   [
+    "reversible words",
+    2
+   ]
+  ],
+  "clash": []
+ },
+ "Laki": {
+  "also": [],
+  "clash": [
+   "famous volcanoes"
+  ]
+ },
+ "Lakota": {
+  "also": [],
+  "clash": [
+   "prairie"
+  ]
+ },
+ "lambda": {
+  "also": [
+   [
+    "coding words",
+    4
+   ],
+   [
+    "hidden animals",
+    3
+   ]
+  ],
+  "clash": []
+ },
+ "lament": {
+  "also": [
+   [
+    "anagrams of each other",
+    2
+   ],
+   [
+    "song types",
+    2
+   ]
+  ],
+  "clash": []
+ },
+ "Lao": {
+  "also": [
+   [
+    "nationalities",
+    3
+   ]
+  ],
+  "clash": []
+ },
+ "larvae": {
+  "also": [],
+  "clash": [
+   "insect life cycle"
+  ]
+ },
+ "Latin": {
+  "also": [
+   [
+    "ancient rome",
+    2
+   ],
+   [
+    "school subjects",
+    2
+   ]
+  ],
+  "clash": [
+   "latin dances",
+   "latin phrases",
+   "legal latin"
+  ]
+ },
+ "Latin alphabet": {
+  "also": [],
+  "clash": [
+   "ancient rome"
+  ]
+ },
+ "Latvian": {
+  "also": [
+   [
+    "nationalities",
+    2
+   ]
+  ],
+  "clash": [
+   "chess openings"
+  ]
+ },
+ "lay": {
+  "also": [],
+  "clash": [
+   "betting words",
+   "song types"
+  ]
+ },
+ "leading": {
+  "also": [],
+  "clash": [
+   "words for leader"
+  ]
+ },
+ "leapt": {
+  "also": [
+   [
+    "anagrams of each other",
+    2
+   ]
+  ],
+  "clash": []
+ },
+ "leaves": {
+  "also": [
+   [
+    "homographs",
+    2
+   ]
+  ],
+  "clash": [
+   "plant parts",
+   "signs of autumn",
+   "things that fall from trees"
+  ]
+ },
+ "led": {
+  "also": [
+   [
+    "display tech",
+    1
+   ],
+   [
+    "electricity words",
+    2
+   ],
+   [
+    "electronic parts",
+    1
+   ],
+   [
+    "electronics workbench",
+    1
+   ],
+   [
+    "homophones",
+    1
+   ],
+   [
+    "things that glow",
+    3
+   ]
+  ],
+  "clash": []
+ },
+ "left": {
+  "also": [
+   [
+    "giving directions",
+    1
+   ]
+  ],
+  "clash": [
+   "compass directions",
+   "political ideologies"
+  ]
+ },
+ "legible": {
+  "also": [
+   [
+    "hidden body parts",
+    2
+   ]
+  ],
+  "clash": []
+ },
+ "lent": {
+  "also": [
+   [
+    "easter",
+    2
+   ],
+   [
+    "religious festivals",
+    2
+   ],
+   [
+    "tempo words",
+    5
+   ]
+  ],
+  "clash": []
+ },
+ "Leonese": {
+  "also": [],
+  "clash": [
+   "hidden numbers",
+   "spanish regions"
+  ]
+ },
+ "Lepontic": {
+  "also": [
+   [
+    "celts",
+    5
+   ]
+  ],
+  "clash": []
+ },
+ "less-than sign": {
+  "also": [],
+  "clash": [
+   "math terms",
+   "symbols"
+  ]
+ },
+ "letter": {
+  "also": [
+   [
+    "___box",
+    1
+   ],
+   [
+    "black___",
+    5
+   ],
+   [
+    "mail words",
+    1
+   ],
+   [
+    "post office",
+    1
+   ],
+   [
+    "things made of paper",
+    1
+   ]
+  ],
+  "clash": [
+   "things that fold"
+  ]
+ },
+ "lettering": {
+  "also": [
+   [
+    "comic book words",
+    4
+   ]
+  ],
+  "clash": [
+   "typography words"
+  ]
+ },
+ "letterpress": {
+  "also": [
+   [
+    "word games",
+    5
+   ]
+  ],
+  "clash": [
+   "crafts"
+  ]
+ },
+ "libretti": {
+  "also": [],
+  "clash": [
+   "opera words"
+  ]
+ },
+ "lice": {
+  "also": [
+   [
+    "head___",
+    2
+   ]
+  ],
+  "clash": [
+   "biting bugs"
+  ]
+ },
+ "ligature": {
+  "also": [],
+  "clash": [
+   "cords and strings",
+   "instrument parts",
+   "medical equipment"
+  ]
+ },
+ "Ligurian": {
+  "also": [],
+  "clash": [
+   "italian regions",
+   "oceans and seas"
+  ]
+ },
+ "like": {
+  "also": [
+   [
+    "internet words",
+    3
+   ],
+   [
+    "social media words",
+    1
+   ]
+  ],
+  "clash": []
+ },
+ "Lima": {
+  "also": [
+   [
+    "capital cities",
+    2
+   ],
+   [
+    "foods named after places",
+    4
+   ],
+   [
+    "south american cities",
+    1
+   ]
+  ],
+  "clash": [
+   "beans and pulses"
+  ]
+ },
+ "Limburgish": {
+  "also": [
+   [
+    "hidden body parts",
+    3
+   ]
+  ],
+  "clash": []
+ },
+ "limerick": {
+  "also": [
+   [
+    "hidden fruits",
+    3
+   ],
+   [
+    "places that are also words",
+    3
+   ],
+   [
+    "poetry terms",
+    2
+   ],
+   [
+    "words named after places",
+    3
+   ]
+  ],
+  "clash": []
+ },
+ "Linear A": {
+  "also": [
+   [
+    "ancient writing",
+    3
+   ],
+   [
+    "bronze age",
+    4
+   ]
+  ],
+  "clash": []
+ },
+ "Linear B": {
+  "also": [
+   [
+    "ancient greece",
+    4
+   ],
+   [
+    "ancient writing",
+    3
+   ],
+   [
+    "bronze age",
+    4
+   ]
+  ],
+  "clash": []
+ },
+ "lit": {
+  "also": [
+   [
+    "back___",
+    2
+   ],
+   [
+    "gen z slang",
+    1
+   ],
+   [
+    "star___",
+    1
+   ],
+   [
+    "sun___",
+    2
+   ]
+  ],
+  "clash": []
+ },
+ "Lithuanian": {
+  "also": [
+   [
+    "nationalities",
+    2
+   ]
+  ],
+  "clash": []
+ },
+ "lives": {
+  "also": [
+   [
+    "anagrams of each other",
+    1
+   ],
+   [
+    "gaming words",
+    3
+   ],
+   [
+    "homographs",
+    2
+   ]
+  ],
+  "clash": []
+ },
+ "loaves": {
+  "also": [],
+  "clash": [
+   "breads"
+  ]
+ },
+ "locative": {
+  "also": [],
+  "clash": [
+   "hidden animals"
+  ]
+ },
+ "logogram": {
+  "also": [
+   [
+    "ancient writing",
+    4
+   ],
+   [
+    "hidden animals",
+    3
+   ]
+  ],
+  "clash": []
+ },
+ "Lombard": {
+  "also": [],
+  "clash": [
+   "banking words",
+   "italian regions"
+  ]
+ },
+ "longhand": {
+  "also": [
+   [
+    "hidden body parts",
+    2
+   ]
+  ],
+  "clash": []
+ },
+ "lorem ipsum": {
+  "also": [],
+  "clash": [
+   "latin phrases"
+  ]
+ },
+ "lost": {
+  "also": [
+   [
+    "letters in alphabetical order",
+    1
+   ]
+  ],
+  "clash": []
+ },
+ "lowercase": {
+  "also": [],
+  "clash": [
+   "keyboard keys"
+  ]
+ },
+ "Luo": {
+  "also": [
+   [
+    "chinese surnames",
+    2
+   ]
+  ],
+  "clash": []
+ },
+ "Lydian": {
+  "also": [
+   [
+    "music terms",
+    4
+   ]
+  ],
+  "clash": []
+ },
+ "Macedonian": {
+  "also": [
+   [
+    "empires",
+    3
+   ],
+   [
+    "nationalities",
+    2
+   ]
+  ],
+  "clash": []
+ },
+ "made": {
+  "also": [
+   [
+    "hand___",
+    1
+   ],
+   [
+    "homophones",
+    1
+   ]
+  ],
+  "clash": []
+ },
+ "madrigal": {
+  "also": [
+   [
+    "classical forms",
+    3
+   ],
+   [
+    "song types",
+    3
+   ]
+  ],
+  "clash": []
+ },
+ "mahalo": {
+  "also": [
+   [
+    "hawaiian words",
+    2
+   ]
+  ],
+  "clash": []
+ },
+ "Makonde": {
+  "also": [
+   [
+    "african art words",
+    4
+   ]
+  ],
+  "clash": []
+ },
+ "Malagasy": {
+  "also": [
+   [
+    "nationalities",
+    3
+   ]
+  ],
+  "clash": []
+ },
+ "malapropism": {
+  "also": [
+   [
+    "words named after people",
+    4
+   ]
+  ],
+  "clash": []
+ },
+ "Malay": {
+  "also": [
+   [
+    "peninsulas",
+    2
+   ]
+  ],
+  "clash": [
+   "chicken breeds",
+   "nationalities"
+  ]
+ },
+ "Malayalam": {
+  "also": [
+   [
+    "palindromes",
+    3
+   ]
+  ],
+  "clash": []
+ },
+ "Maltese": {
+  "also": [
+   [
+    "nationalities",
+    2
+   ],
+   [
+    "toy dogs",
+    2
+   ],
+   [
+    "white things",
+    4
+   ],
+   [
+    "words named after places",
+    4
+   ]
+  ],
+  "clash": []
+ },
+ "Mam": {
+  "also": [],
+  "clash": [
+   "family members"
+  ]
+ },
+ "mambo": {
+  "also": [
+   [
+    "ballroom dances",
+    2
+   ],
+   [
+    "dance music",
+    2
+   ],
+   [
+    "dances",
+    2
+   ],
+   [
+    "latin dances",
+    2
+   ],
+   [
+    "latin music styles",
+    1
+   ]
+  ],
+  "clash": [
+   "swahili words"
+  ]
+ },
+ "Manchu": {
+  "also": [],
+  "clash": [
+   "ancient china",
+   "chinese dynasties"
+  ]
+ },
+ "Mandarin": {
+  "also": [
+   [
+    "citrus fruits",
+    2
+   ],
+   [
+    "fruit trees",
+    3
+   ],
+   [
+    "school subjects",
+    2
+   ],
+   [
+    "shades of orange",
+    3
+   ]
+  ],
+  "clash": [
+   "chinese food",
+   "juices",
+   "perfume notes",
+   "political titles"
+  ]
+ },
+ "Manipuri": {
+  "also": [
+   [
+    "asian dances",
+    4
+   ],
+   [
+    "pony breeds",
+    4
+   ]
+  ],
+  "clash": [
+   "indian states"
+  ]
+ },
+ "manuscript": {
+  "also": [
+   [
+    "publishing words",
+    2
+   ]
+  ],
+  "clash": [
+   "library",
+   "museum"
+  ]
+ },
+ "Manx": {
+  "also": [
+   [
+    "cat breeds",
+    2
+   ],
+   [
+    "celts",
+    4
+   ]
+  ],
+  "clash": []
+ },
+ "Mapuche": {
+  "also": [],
+  "clash": [
+   "latin american folklore"
+  ]
+ },
+ "Marathi": {
+  "also": [],
+  "clash": [
+   "empires",
+   "indian states"
+  ]
+ },
+ "marhaba": {
+  "also": [
+   [
+    "greetings around the world",
+    4
+   ]
+  ],
+  "clash": []
+ },
+ "Mari": {
+  "also": [],
+  "clash": [
+   "ancient sites of the middle east",
+   "mesopotamia"
+  ]
+ },
+ "Marshallese": {
+  "also": [
+   [
+    "nationalities",
+    4
+   ]
+  ],
+  "clash": []
+ },
+ "Marwari": {
+  "also": [
+   [
+    "horse breeds",
+    4
+   ]
+  ],
+  "clash": []
+ },
+ "mass noun": {
+  "also": [],
+  "clash": [
+   "parts of speech"
+  ]
+ },
+ "Massachusett": {
+  "also": [],
+  "clash": [
+   "us states"
+  ]
+ },
+ "mata ne": {
+  "also": [],
+  "clash": [
+   "ways to say goodbye"
+  ]
+ },
+ "matrices": {
+  "also": [],
+  "clash": [
+   "math terms"
+  ]
+ },
+ "maxima": {
+  "also": [
+   [
+    "famous car models",
+    3
+   ],
+   [
+    "notes and rests",
+    5
+   ]
+  ],
+  "clash": []
+ },
+ "Maya script": {
+  "also": [
+   [
+    "ancient writing",
+    3
+   ],
+   [
+    "aztecs and maya",
+    3
+   ]
+  ],
+  "clash": []
+ },
+ "Mayan": {
+  "also": [
+   [
+    "ancient civilizations",
+    2
+   ],
+   [
+    "aztecs and maya",
+    2
+   ]
+  ],
+  "clash": []
+ },
+ "mayday": {
+  "also": [
+   [
+    "air travel",
+    3
+   ],
+   [
+    "radio words",
+    2
+   ]
+  ],
+  "clash": [
+   "holidays and celebrations",
+   "rhyming pairs",
+   "shipwreck coast words"
+  ]
+ },
+ "mbote": {
+  "also": [],
+  "clash": [
+   "greetings around the world"
+  ]
+ },
+ "me": {
+  "also": [],
+  "clash": [
+   "homophones"
+  ]
+ },
+ "meant": {
+  "also": [
+   [
+    "hidden insects",
+    2
+   ]
+  ],
+  "clash": []
+ },
+ "meh": {
+  "also": [],
+  "clash": [
+   "gen z slang"
+  ]
+ },
+ "meiosis": {
+  "also": [
+   [
+    "genetics words",
+    3
+   ]
+  ],
+  "clash": []
+ },
+ "men": {
+  "also": [
+   [
+    "sea___",
+    2
+   ]
+  ],
+  "clash": []
+ },
+ "Menominee": {
+  "also": [],
+  "clash": [
+   "north american rivers"
+  ]
+ },
+ "merci": {
+  "also": [
+   [
+    "chocolates",
+    4
+   ]
+  ],
+  "clash": [
+   "french phrases in english"
+  ]
+ },
+ "merci beaucoup": {
+  "also": [],
+  "clash": [
+   "french phrases in english"
+  ]
+ },
+ "merhaba": {
+  "also": [
+   [
+    "greetings around the world",
+    3
+   ],
+   [
+    "turkish everyday words",
+    3
+   ]
+  ],
+  "clash": []
+ },
+ "Meroitic": {
+  "also": [
+   [
+    "ancient writing",
+    5
+   ]
+  ],
+  "clash": []
+ },
+ "met": {
+  "also": [
+   [
+    "new york landmarks",
+    3
+   ]
+  ],
+  "clash": []
+ },
+ "metaphor": {
+  "also": [
+   [
+    "poetry terms",
+    2
+   ]
+  ],
+  "clash": []
+ },
+ "metonymy": {
+  "also": [
+   [
+    "poetry terms",
+    4
+   ]
+  ],
+  "clash": []
+ },
+ "mhoro": {
+  "also": [],
+  "clash": [
+   "greetings around the world"
+  ]
+ },
+ "Miao": {
+  "also": [],
+  "clash": [
+   "animal sounds"
+  ]
+ },
+ "mice": {
+  "also": [
+   [
+    "computer parts",
+    2
+   ],
+   [
+    "nature at night",
+    3
+   ]
+  ],
+  "clash": [
+   "rodents",
+   "small pets"
+  ]
+ },
+ "Mike": {
+  "also": [
+   [
+    "boys' names",
+    1
+   ],
+   [
+    "short forms of names",
+    1
+   ]
+  ],
+  "clash": [
+   "concert words",
+   "radio words"
+  ]
+ },
+ "mine": {
+  "also": [
+   [
+    "military",
+    2
+   ],
+   [
+    "mining words",
+    1
+   ]
+  ],
+  "clash": [
+   "modern weapons"
+  ]
+ },
+ "mingalaba": {
+  "also": [
+   [
+    "greetings around the world",
+    5
+   ]
+  ],
+  "clash": []
+ },
+ "Minoan": {
+  "also": [
+   [
+    "bronze age",
+    2
+   ],
+   [
+    "column styles",
+    4
+   ]
+  ],
+  "clash": [
+   "ancient civilizations",
+   "ancient greece"
+  ]
+ },
+ "minus sign": {
+  "also": [],
+  "clash": [
+   "math operations",
+   "symbols"
+  ]
+ },
+ "minuscule": {
+  "also": [
+   [
+    "words for small",
+    2
+   ]
+  ],
+  "clash": []
+ },
+ "Mixtec": {
+  "also": [
+   [
+    "ancient civilizations",
+    4
+   ]
+  ],
+  "clash": []
+ },
+ "Mizo": {
+  "also": [],
+  "clash": [
+   "indian states"
+  ]
+ },
+ "Moabite": {
+  "also": [],
+  "clash": [
+   "biblical names"
+  ]
+ },
+ "Mochica": {
+  "also": [],
+  "clash": [
+   "ancient civilizations",
+   "andean sites"
+  ]
+ },
+ "modal verb": {
+  "also": [],
+  "clash": [
+   "grammar terms"
+  ]
+ },
+ "Mohave": {
+  "also": [],
+  "clash": [
+   "desert",
+   "famous deserts"
+  ]
+ },
+ "Mohawk": {
+  "also": [
+   [
+    "figure skating moves",
+    4
+   ],
+   [
+    "hairstyles",
+    1
+   ],
+   [
+    "hidden birds",
+    3
+   ]
+  ],
+  "clash": []
+ },
+ "Mohican": {
+  "also": [
+   [
+    "hairstyles",
+    2
+   ]
+  ],
+  "clash": []
+ },
+ "moi": {
+  "also": [],
+  "clash": [
+   "french phrases in english",
+   "goodbye around the world"
+  ]
+ },
+ "moin": {
+  "also": [
+   [
+    "greetings around the world",
+    4
+   ]
+  ],
+  "clash": []
+ },
+ "Mojave": {
+  "also": [
+   [
+    "famous deserts",
+    2
+   ]
+  ],
+  "clash": [
+   "desert"
+  ]
+ },
+ "Moksha": {
+  "also": [
+   [
+    "afterlife words",
+    3
+   ]
+  ],
+  "clash": [
+   "buddhism words",
+   "hinduism words"
+  ]
+ },
+ "Moldovan": {
+  "also": [
+   [
+    "nationalities",
+    3
+   ]
+  ],
+  "clash": [
+   "hidden vehicles"
+  ]
+ },
+ "molo": {
+  "also": [
+   [
+    "greetings around the world",
+    5
+   ]
+  ],
+  "clash": []
+ },
+ "Mon": {
+  "also": [
+   [
+    "feudal japan",
+    5
+   ]
+  ],
+  "clash": []
+ },
+ "Monaco": {
+  "also": [
+   [
+    "european capitals",
+    3
+   ],
+   [
+    "european cities",
+    2
+   ],
+   [
+    "european soccer clubs",
+    3
+   ],
+   [
+    "famous race tracks",
+    1
+   ],
+   [
+    "french-speaking countries",
+    2
+   ],
+   [
+    "red and white flags",
+    2
+   ],
+   [
+    "tiny countries",
+    1
+   ],
+   [
+    "western european countries",
+    2
+   ]
+  ],
+  "clash": []
+ },
+ "Mongolian": {
+  "also": [
+   [
+    "nationalities",
+    1
+   ]
+  ],
+  "clash": [
+   "empires"
+  ]
+ },
+ "monospace": {
+  "also": [],
+  "clash": [
+   "fonts"
+  ]
+ },
+ "Montenegrin": {
+  "also": [
+   [
+    "hidden numbers",
+    3
+   ],
+   [
+    "nationalities",
+    3
+   ]
+  ],
+  "clash": []
+ },
+ "Montserrat": {
+  "also": [
+   [
+    "caribbean islands",
+    3
+   ],
+   [
+    "famous churches",
+    3
+   ],
+   [
+    "pilgrimage sites",
+    3
+   ]
+  ],
+  "clash": []
+ },
+ "Monégasque": {
+  "also": [
+   [
+    "nationalities",
+    3
+   ]
+  ],
+  "clash": []
+ },
+ "mood": {
+  "also": [
+   [
+    "___board",
+    1
+   ],
+   [
+    "emotions",
+    1
+   ],
+   [
+    "mental health words",
+    2
+   ],
+   [
+    "reversible words",
+    1
+   ]
+  ],
+  "clash": [
+   "music terms"
+  ]
+ },
+ "morphology": {
+  "also": [
+   [
+    "biology words",
+    3
+   ],
+   [
+    "branches of biology",
+    4
+   ]
+  ],
+  "clash": []
+ },
+ "Morse code": {
+  "also": [
+   [
+    "american inventions",
+    2
+   ],
+   [
+    "old ways to communicate",
+    1
+   ],
+   [
+    "words named after people",
+    2
+   ]
+  ],
+  "clash": [
+   "radio words"
+  ]
+ },
+ "moshi moshi": {
+  "also": [],
+  "clash": [
+   "phone words",
+   "words from japanese"
+  ]
+ },
+ "mothers-in-law": {
+  "also": [],
+  "clash": [
+   "extended family"
+  ]
+ },
+ "mu": {
+  "also": [],
+  "clash": [
+   "animal sounds",
+   "legendary places"
+  ]
+ },
+ "Muisca": {
+  "also": [],
+  "clash": [
+   "ancient civilizations"
+  ]
+ },
+ "Mycenaean Greek": {
+  "also": [],
+  "clash": [
+   "ancient greece",
+   "bronze age"
+  ]
+ },
+ "Myriad": {
+  "also": [
+   [
+    "big numbers",
+    3
+   ]
+  ],
+  "clash": []
+ },
+ "mālō e lelei": {
+  "also": [
+   [
+    "greetings around the world",
+    5
+   ]
+  ],
+  "clash": []
+ },
+ "Māori": {
+  "also": [
+   [
+    "maori culture",
+    1
+   ]
+  ],
+  "clash": [
+   "maori words",
+   "nationalities"
+  ]
+ },
+ "Nabataean": {
+  "also": [],
+  "clash": [
+   "ancient sites of the middle east",
+   "hidden animals"
+  ]
+ },
+ "Nahuatl": {
+  "also": [
+   [
+    "aztecs and maya",
+    3
+   ]
+  ],
+  "clash": [
+   "words from nahuatl"
+  ]
+ },
+ "namaskar": {
+  "also": [
+   [
+    "hindi everyday words",
+    4
+   ],
+   [
+    "yoga words",
+    4
+   ]
+  ],
+  "clash": [
+   "greetings around the world"
+  ]
+ },
+ "namaste": {
+  "also": [
+   [
+    "gestures",
+    2
+   ],
+   [
+    "greetings around the world",
+    2
+   ],
+   [
+    "hindi everyday words",
+    1
+   ],
+   [
+    "hinduism words",
+    2
+   ],
+   [
+    "yoga words",
+    1
+   ]
+  ],
+  "clash": [
+   "goodbye around the world"
+  ]
+ },
+ "Natchez": {
+  "also": [],
+  "clash": [
+   "american cities"
+  ]
+ },
+ "Nauruan": {
+  "also": [
+   [
+    "nationalities",
+    4
+   ]
+  ],
+  "clash": []
+ },
+ "Navajo": {
+  "also": [],
+  "clash": [
+   "fabric prints",
+   "native american folklore"
+  ]
+ },
+ "Navajo code": {
+  "also": [],
+  "clash": [
+   "world war ii terms"
+  ]
+ },
+ "Ndebele": {
+  "also": [
+   [
+    "african art words",
+    4
+   ]
+  ],
+  "clash": [
+   "african home"
+  ]
+ },
+ "Neapolitan": {
+  "also": [
+   [
+    "city demonyms",
+    2
+   ],
+   [
+    "ice cream flavors",
+    2
+   ],
+   [
+    "pizza styles",
+    2
+   ]
+  ],
+  "clash": [
+   "hidden colors"
+  ]
+ },
+ "near": {
+  "also": [
+   [
+    "hidden body parts",
+    2
+   ]
+  ],
+  "clash": []
+ },
+ "neither": {
+  "also": [],
+  "clash": [
+   "pronouns"
+  ]
+ },
+ "Neo-Aramaic": {
+  "also": [],
+  "clash": [
+   "ancient writing"
+  ]
+ },
+ "Nepali": {
+  "also": [
+   [
+    "nationalities",
+    2
+   ]
+  ],
+  "clash": []
+ },
+ "ni hao": {
+  "also": [
+   [
+    "greetings around the world",
+    2
+   ]
+  ],
+  "clash": []
+ },
+ "nib": {
+  "also": [
+   [
+    "stationery",
+    3
+   ]
+  ],
+  "clash": [
+   "art materials"
+  ]
+ },
+ "nomoshkar": {
+  "also": [],
+  "clash": [
+   "greetings around the world"
+  ]
+ },
+ "none": {
+  "also": [
+   [
+    "hidden numbers",
+    2
+   ],
+   [
+    "homophones",
+    1
+   ]
+  ],
+  "clash": []
+ },
+ "nonet": {
+  "also": [
+   [
+    "hidden numbers",
+    2
+   ]
+  ],
+  "clash": [
+   "music terms"
+  ]
+ },
+ "Noongar": {
+  "also": [
+   [
+    "aboriginal culture",
+    4
+   ]
+  ],
+  "clash": []
+ },
+ "Norn": {
+  "also": [],
+  "clash": [
+   "norse mythology"
+  ]
+ },
+ "Norwegian": {
+  "also": [
+   [
+    "cruise lines",
+    2
+   ],
+   [
+    "european airlines",
+    3
+   ],
+   [
+    "nationalities",
+    1
+   ]
+  ],
+  "clash": [
+   "cat breeds"
+  ]
+ },
+ "Noto": {
+  "also": [
+   [
+    "peninsulas",
+    5
+   ]
+  ],
+  "clash": []
+ },
+ "notwithstanding": {
+  "also": [],
+  "clash": [
+   "hidden colors"
+  ]
+ },
+ "noun": {
+  "also": [],
+  "clash": [
+   "grammar terms"
+  ]
+ },
+ "November": {
+  "also": [
+   [
+    "months",
+    1
+   ]
+  ],
+  "clash": [
+   "day of the dead",
+   "thanksgiving"
+  ]
+ },
+ "nu": {
+  "also": [
+   [
+    "homophones",
+    3
+   ]
+  ],
+  "clash": [
+   "sounds like a letter"
+  ]
+ },
+ "Nubian": {
+  "also": [],
+  "clash": [
+   "ancient egypt",
+   "ancient sites of africa"
+  ]
+ },
+ "nuclei": {
+  "also": [],
+  "clash": [
+   "cell parts"
+  ]
+ },
+ "number sign": {
+  "also": [],
+  "clash": [
+   "punctuation"
+  ]
+ },
+ "numeral": {
+  "also": [
+   [
+    "clock parts",
+    2
+   ]
+  ],
+  "clash": [
+   "numbers"
+  ]
+ },
+ "o'er": {
+  "also": [],
+  "clash": [
+   "poetry terms"
+  ]
+ },
+ "oases": {
+  "also": [],
+  "clash": [
+   "desert"
+  ]
+ },
+ "object": {
+  "also": [
+   [
+    "coding words",
+    3
+   ],
+   [
+    "homographs",
+    2
+   ]
+  ],
+  "clash": []
+ },
+ "oblique": {
+  "also": [
+   [
+    "angle words",
+    3
+   ],
+   [
+    "line types",
+    2
+   ]
+  ],
+  "clash": [
+   "muscles"
+  ]
+ },
+ "Occidental": {
+  "also": [],
+  "clash": [
+   "compass directions",
+   "world regions"
+  ]
+ },
+ "Occitan": {
+  "also": [],
+  "clash": [
+   "french regions",
+   "hidden colors"
+  ]
+ },
+ "octothorpe": {
+  "also": [],
+  "clash": [
+   "punctuation",
+   "silly-sounding words"
+  ]
+ },
+ "ode": {
+  "also": [
+   [
+    "poetry terms",
+    2
+   ]
+  ],
+  "clash": []
+ },
+ "Odia": {
+  "also": [],
+  "clash": [
+   "indian states"
+  ]
+ },
+ "off": {
+  "also": [
+   [
+    "hand___",
+    3
+   ]
+  ],
+  "clash": [
+   "cricket terms"
+  ]
+ },
+ "Ogham": {
+  "also": [
+   [
+    "ancient writing",
+    3
+   ],
+   [
+    "celtic folklore",
+    4
+   ],
+   [
+    "celts",
+    3
+   ]
+  ],
+  "clash": []
+ },
+ "oh": {
+  "also": [
+   [
+    "sounds like a letter",
+    1
+   ]
+  ],
+  "clash": []
+ },
+ "ohayo": {
+  "also": [],
+  "clash": [
+   "words from japanese"
+  ]
+ },
+ "Okinawan": {
+  "also": [],
+  "clash": [
+   "japanese martial arts",
+   "karate words"
+  ]
+ },
+ "Old Chinese": {
+  "also": [],
+  "clash": [
+   "ancient china"
+  ]
+ },
+ "Old Church Slavonic": {
+  "also": [],
+  "clash": [
+   "alphabets and writing"
+  ]
+ },
+ "Old English": {
+  "also": [],
+  "clash": [
+   "fonts",
+   "typography words"
+  ]
+ },
+ "Old Irish": {
+  "also": [
+   [
+    "celts",
+    4
+   ]
+  ],
+  "clash": []
+ },
+ "Old Norse": {
+  "also": [],
+  "clash": [
+   "norse mythology",
+   "vikings"
+  ]
+ },
+ "Old Persian": {
+  "also": [
+   [
+    "ancient persia",
+    4
+   ]
+  ],
+  "clash": []
+ },
+ "Old Welsh": {
+  "also": [
+   [
+    "celts",
+    5
+   ]
+  ],
+  "clash": []
+ },
+ "olá": {
+  "also": [
+   [
+    "greetings around the world",
+    2
+   ]
+  ],
+  "clash": [
+   "taxis of the world"
+  ]
+ },
+ "Omaha": {
+  "also": [
+   [
+    "american cities",
+    2
+   ],
+   [
+    "poker terms",
+    4
+   ]
+  ],
+  "clash": []
+ },
+ "omega": {
+  "also": [
+   [
+    "hidden names",
+    3
+   ]
+  ],
+  "clash": []
+ },
+ "omicron": {
+  "also": [],
+  "clash": [
+   "viruses"
+  ]
+ },
+ "on": {
+  "also": [
+   [
+    "___board",
+    1
+   ],
+   [
+    "head___",
+    2
+   ],
+   [
+    "reversible words",
+    1
+   ]
+  ],
+  "clash": []
+ },
+ "once": {
+  "also": [
+   [
+    "spanish numbers",
+    3
+   ]
+  ],
+  "clash": []
+ },
+ "one-time pad": {
+  "also": [
+   [
+    "spy words",
+    5
+   ]
+  ],
+  "clash": []
+ },
+ "Oneida": {
+  "also": [],
+  "clash": [
+   "hidden numbers"
+  ]
+ },
+ "oneself": {
+  "also": [
+   [
+    "hidden numbers",
+    2
+   ]
+  ],
+  "clash": []
+ },
+ "onomatopoeia": {
+  "also": [
+   [
+    "poetry terms",
+    2
+   ]
+  ],
+  "clash": []
+ },
+ "onto": {
+  "also": [
+   [
+    "rhymes with blue",
+    1
+   ]
+  ],
+  "clash": []
+ },
+ "oof": {
+  "also": [
+   [
+    "gen z slang",
+    2
+   ]
+  ],
+  "clash": []
+ },
+ "oops": {
+  "also": [
+   [
+    "polite swears",
+    1
+   ]
+  ],
+  "clash": []
+ },
+ "opposite": {
+  "also": [
+   [
+    "angle words",
+    3
+   ],
+   [
+    "giving directions",
+    2
+   ]
+  ],
+  "clash": []
+ },
+ "or": {
+  "also": [
+   [
+    "homophones",
+    1
+   ],
+   [
+    "sounds like a letter",
+    2
+   ]
+  ],
+  "clash": [
+   "heraldry"
+  ]
+ },
+ "Orkhon script": {
+  "also": [],
+  "clash": [
+   "ancient writing"
+  ]
+ },
+ "Oromo": {
+  "also": [],
+  "clash": [
+   "nationalities"
+  ]
+ },
+ "orphan": {
+  "also": [],
+  "clash": [
+   "family members",
+   "relationships"
+  ]
+ },
+ "orthography": {
+  "also": [],
+  "clash": [
+   "hidden animals"
+  ]
+ },
+ "Oscar": {
+  "also": [
+   [
+    "boys' names",
+    1
+   ],
+   [
+    "entertainment awards",
+    1
+   ]
+  ],
+  "clash": [
+   "award words",
+   "hidden body parts"
+  ]
+ },
+ "Otomí": {
+  "also": [],
+  "clash": [
+   "mexican souvenirs"
+  ]
+ },
+ "ottava rima": {
+  "also": [
+   [
+    "poetry terms",
+    5
+   ]
+  ],
+  "clash": []
+ },
+ "Ottoman Turkish": {
+  "also": [],
+  "clash": [
+   "ottoman empire"
+  ]
+ },
+ "ours": {
+  "also": [
+   [
+    "homophones",
+    2
+   ]
+  ],
+  "clash": []
+ },
+ "ova": {
+  "also": [
+   [
+    "anime and manga words",
+    4
+   ]
+  ],
+  "clash": [
+   "insect life cycle"
+  ]
+ },
+ "over": {
+  "also": [
+   [
+    "___board",
+    1
+   ],
+   [
+    "cricket terms",
+    2
+   ],
+   [
+    "hand___",
+    2
+   ]
+  ],
+  "clash": [
+   "radio words"
+  ]
+ },
+ "oxen": {
+  "also": [
+   [
+    "things that come in pairs",
+    3
+   ]
+  ],
+  "clash": [
+   "farm animals",
+   "working animals"
+  ]
+ },
+ "Oxford comma": {
+  "also": [],
+  "clash": [
+   "grammar terms"
+  ]
+ },
+ "paalam": {
+  "also": [],
+  "clash": [
+   "ways to say goodbye"
+  ]
+ },
+ "Pahlavi": {
+  "also": [
+   [
+    "ancient persia",
+    4
+   ],
+   [
+    "dynasties",
+    4
+   ]
+  ],
+  "clash": []
+ },
+ "Palauan": {
+  "also": [
+   [
+    "nationalities",
+    4
+   ]
+  ],
+  "clash": []
+ },
+ "Pali": {
+  "also": [
+   [
+    "hawaiian words",
+    4
+   ]
+  ],
+  "clash": [
+   "buddhism words"
+  ]
+ },
+ "palimpsest": {
+  "also": [],
+  "clash": [
+   "ancient writing"
+  ]
+ },
+ "palinode": {
+  "also": [
+   [
+    "poetry terms",
+    5
+   ]
+  ],
+  "clash": []
+ },
+ "pangram": {
+  "also": [
+   [
+    "hidden animals",
+    3
+   ]
+  ],
+  "clash": [
+   "word games"
+  ]
+ },
+ "pantoum": {
+  "also": [
+   [
+    "hidden insects",
+    3
+   ],
+   [
+    "poetry terms",
+    5
+   ]
+  ],
+  "clash": []
+ },
+ "Papa": {
+  "also": [
+   [
+    "baby talk",
+    2
+   ],
+   [
+    "family members",
+    2
+   ]
+  ],
+  "clash": [
+   "terms of endearment"
+  ]
+ },
+ "paparazzi": {
+  "also": [
+   [
+    "journalism words",
+    2
+   ],
+   [
+    "photography words",
+    3
+   ],
+   [
+    "words from italian",
+    2
+   ]
+  ],
+  "clash": []
+ },
+ "Papyrus": {
+  "also": [
+   [
+    "ancient egypt",
+    2
+   ],
+   [
+    "ancient writing",
+    2
+   ],
+   [
+    "artifacts",
+    2
+   ],
+   [
+    "grasses and reeds",
+    2
+   ],
+   [
+    "materials from africa",
+    2
+   ],
+   [
+    "natural materials",
+    3
+   ],
+   [
+    "plants of the middle east",
+    3
+   ],
+   [
+    "water plants",
+    2
+   ],
+   [
+    "wetlands",
+    3
+   ]
+  ],
+  "clash": [
+   "alphabets and writing"
+  ]
+ },
+ "papyrus": {
+  "also": [
+   [
+    "ancient egypt",
+    2
+   ],
+   [
+    "ancient writing",
+    2
+   ],
+   [
+    "artifacts",
+    2
+   ],
+   [
+    "fonts",
+    2
+   ],
+   [
+    "grasses and reeds",
+    2
+   ],
+   [
+    "materials from africa",
+    2
+   ],
+   [
+    "natural materials",
+    3
+   ],
+   [
+    "plants of the middle east",
+    3
+   ],
+   [
+    "water plants",
+    2
+   ],
+   [
+    "wetlands",
+    3
+   ]
+  ],
+  "clash": [
+   "paper goods"
+  ]
+ },
+ "paradox": {
+  "also": [
+   [
+    "hidden animals",
+    3
+   ]
+  ],
+  "clash": []
+ },
+ "parchment": {
+  "also": [
+   [
+    "ancient writing",
+    2
+   ],
+   [
+    "baking words",
+    2
+   ],
+   [
+    "breads and baking",
+    2
+   ]
+  ],
+  "clash": [
+   "art materials",
+   "medieval times",
+   "paper goods"
+  ]
+ },
+ "parentheses": {
+  "also": [],
+  "clash": [
+   "punctuation"
+  ]
+ },
+ "parenthesis": {
+  "also": [
+   [
+    "algebra words",
+    3
+   ]
+  ],
+  "clash": [
+   "keyboard symbols"
+  ]
+ },
+ "Parthian": {
+  "also": [
+   [
+    "empires",
+    3
+   ]
+  ],
+  "clash": [
+   "ancient persia"
+  ]
+ },
+ "participle": {
+  "also": [],
+  "clash": [
+   "tenses"
+  ]
+ },
+ "particle": {
+  "also": [
+   [
+    "particle physics",
+    2
+   ],
+   [
+    "physics words",
+    2
+   ]
+  ],
+  "clash": [
+   "___board"
+  ]
+ },
+ "Pashto": {
+  "also": [],
+  "clash": [
+   "nationalities"
+  ]
+ },
+ "passive voice": {
+  "also": [],
+  "clash": [
+   "voice types"
+  ]
+ },
+ "past": {
+  "also": [
+   [
+    "giving directions",
+    3
+   ],
+   [
+    "time",
+    1
+   ]
+  ],
+  "clash": []
+ },
+ "Pawnee": {
+  "also": [
+   [
+    "prairie",
+    3
+   ]
+  ],
+  "clash": []
+ },
+ "pen": {
+  "also": [
+   [
+    "___man",
+    2
+   ],
+   [
+    "animal homes",
+    2
+   ],
+   [
+    "home office",
+    1
+   ],
+   [
+    "in a handbag",
+    2
+   ],
+   [
+    "junk drawer",
+    1
+   ],
+   [
+    "office",
+    1
+   ],
+   [
+    "sea___",
+    3
+   ],
+   [
+    "stationery",
+    1
+   ],
+   [
+    "things to pack",
+    1
+   ]
+  ],
+  "clash": [
+   "___light",
+   "prison words"
+  ]
+ },
+ "pen stroke": {
+  "also": [],
+  "clash": [
+   "drawing techniques"
+  ]
+ },
+ "pence": {
+  "also": [],
+  "clash": [
+   "coins",
+   "money words"
+  ]
+ },
+ "pencil": {
+  "also": [
+   [
+    "___box",
+    1
+   ],
+   [
+    "art materials",
+    1
+   ],
+   [
+    "classroom items",
+    1
+   ],
+   [
+    "home office",
+    1
+   ],
+   [
+    "junk drawer",
+    1
+   ],
+   [
+    "office",
+    1
+   ],
+   [
+    "stationery",
+    1
+   ],
+   [
+    "things made of wood",
+    1
+   ]
+  ],
+  "clash": [
+   "things that roll",
+   "yellow things"
+  ]
+ },
+ "penmanship": {
+  "also": [
+   [
+    "hidden body parts",
+    3
+   ]
+  ],
+  "clash": []
+ },
+ "Pennsylvania Dutch": {
+  "also": [],
+  "clash": [
+   "us states"
+  ]
+ },
+ "per": {
+  "also": [],
+  "clash": [
+   "latin phrases"
+  ]
+ },
+ "percent sign": {
+  "also": [
+   [
+    "symbols",
+    2
+   ]
+  ],
+  "clash": [
+   "math terms"
+  ]
+ },
+ "perfect": {
+  "also": [
+   [
+    "homographs",
+    2
+   ],
+   [
+    "number types",
+    3
+   ]
+  ],
+  "clash": [
+   "words for good"
+  ]
+ },
+ "period": {
+  "also": [
+   [
+    "ice hockey terms",
+    2
+   ],
+   [
+    "time units",
+    3
+   ]
+  ],
+  "clash": [
+   "ages of history",
+   "keyboard symbols"
+  ]
+ },
+ "Perpetua": {
+  "also": [],
+  "clash": [
+   "famous saints"
+  ]
+ },
+ "Persian": {
+  "also": [
+   [
+    "cat breeds",
+    1
+   ],
+   [
+    "column styles",
+    4
+   ],
+   [
+    "empires",
+    1
+   ]
+  ],
+  "clash": [
+   "ancient persia",
+   "nationalities",
+   "persian food",
+   "rugs and carpets"
+  ]
+ },
+ "personification": {
+  "also": [
+   [
+    "national symbols",
+    4
+   ],
+   [
+    "poetry terms",
+    3
+   ]
+  ],
+  "clash": []
+ },
+ "phenomena": {
+  "also": [
+   [
+    "hidden birds",
+    2
+   ]
+  ],
+  "clash": []
+ },
+ "phi": {
+  "also": [],
+  "clash": [
+   "math terms"
+  ]
+ },
+ "Phoenician": {
+  "also": [
+   [
+    "ancient writing",
+    3
+   ]
+  ],
+  "clash": [
+   "ancient civilizations"
+  ]
+ },
+ "Phoenician alphabet": {
+  "also": [],
+  "clash": [
+   "ancient writing"
+  ]
+ },
+ "phoneme": {
+  "also": [
+   [
+    "hidden numbers",
+    3
+   ]
+  ],
+  "clash": []
+ },
+ "phrase": {
+  "also": [
+   [
+    "___book",
+    2
+   ],
+   [
+    "music terms",
+    3
+   ]
+  ],
+  "clash": []
+ },
+ "Phrygian": {
+  "also": [
+   [
+    "music terms",
+    4
+   ]
+  ],
+  "clash": [
+   "historical hats"
+  ]
+ },
+ "pi": {
+  "also": [
+   [
+    "math terms",
+    1
+   ]
+  ],
+  "clash": [
+   "detective words",
+   "homophones",
+   "sounds like a letter"
+  ]
+ },
+ "pica": {
+  "also": [
+   [
+    "length units",
+    5
+   ]
+  ],
+  "clash": [
+   "old units"
+  ]
+ },
+ "Picard": {
+  "also": [],
+  "clash": [
+   "french regions"
+  ]
+ },
+ "Pictish": {
+  "also": [
+   [
+    "celts",
+    4
+   ]
+  ],
+  "clash": []
+ },
+ "pictograph": {
+  "also": [],
+  "clash": [
+   "ancient writing",
+   "symbols"
+  ]
+ },
+ "Piedmontese": {
+  "also": [
+   [
+    "cattle breeds",
+    4
+   ]
+  ],
+  "clash": [
+   "italian regions"
+  ]
+ },
+ "pigpen cipher": {
+  "also": [],
+  "clash": [
+   "puzzles"
+  ]
+ },
+ "pilcrow": {
+  "also": [
+   [
+    "hidden birds",
+    4
+   ],
+   [
+    "symbols",
+    5
+   ]
+  ],
+  "clash": [
+   "punctuation"
+  ]
+ },
+ "Pima": {
+  "also": [],
+  "clash": [
+   "cotton fabrics"
+  ]
+ },
+ "pinyin": {
+  "also": [
+   [
+    "words from chinese",
+    4
+   ]
+  ],
+  "clash": []
+ },
+ "pipe": {
+  "also": [
+   [
+    "___fish",
+    2
+   ],
+   [
+    "instrument parts",
+    3
+   ],
+   [
+    "plumbing words",
+    1
+   ],
+   [
+    "smoking words",
+    1
+   ],
+   [
+    "volleyball terms",
+    4
+   ],
+   [
+    "water___",
+    3
+   ]
+  ],
+  "clash": [
+   "factory",
+   "punctuation",
+   "things that roll",
+   "under the sink",
+   "woodwind instruments"
+  ]
+ },
+ "Pitjantjatjara": {
+  "also": [
+   [
+    "aboriginal culture",
+    4
+   ]
+  ],
+  "clash": []
+ },
+ "Plantin": {
+  "also": [],
+  "clash": [
+   "hidden insects"
+  ]
+ },
+ "plateaux": {
+  "also": [],
+  "clash": [
+   "flat landscapes"
+  ]
+ },
+ "pluperfect": {
+  "also": [],
+  "clash": [
+   "grammar terms"
+  ]
+ },
+ "plural": {
+  "also": [],
+  "clash": [
+   "parts of speech"
+  ]
+ },
+ "plus sign": {
+  "also": [
+   [
+    "symbols",
+    1
+   ]
+  ],
+  "clash": [
+   "math operations",
+   "math terms"
+  ]
+ },
+ "Polish": {
+  "also": [
+   [
+    "cleaning verbs",
+    1
+   ],
+   [
+    "dentist's office",
+    3
+   ],
+   [
+    "homographs",
+    2
+   ],
+   [
+    "nationalities",
+    1
+   ]
+  ],
+  "clash": [
+   "chicken breeds",
+   "nail care"
+  ]
+ },
+ "Portuguese": {
+  "also": [
+   [
+    "empires",
+    3
+   ],
+   [
+    "nationalities",
+    1
+   ]
+  ],
+  "clash": [
+   "portuguese explorers"
+  ]
+ },
+ "possessive": {
+  "also": [
+   [
+    "double letters",
+    2
+   ],
+   [
+    "negative traits",
+    2
+   ]
+  ],
+  "clash": []
+ },
+ "postposition": {
+  "also": [],
+  "clash": [
+   "horse racing terms"
+  ]
+ },
+ "pound sign": {
+  "also": [
+   [
+    "symbols",
+    3
+   ]
+  ],
+  "clash": [
+   "british english words",
+   "money words"
+  ]
+ },
+ "Powhatan": {
+  "also": [
+   [
+    "colonial america",
+    3
+   ]
+  ],
+  "clash": []
+ },
+ "predicate": {
+  "also": [
+   [
+    "hidden animals",
+    3
+   ]
+  ],
+  "clash": []
+ },
+ "prefix": {
+  "also": [
+   [
+    "metric prefixes",
+    3
+   ]
+  ],
+  "clash": []
+ },
+ "preposition": {
+  "also": [],
+  "clash": [
+   "grammar terms"
+  ]
+ },
+ "present": {
+  "also": [
+   [
+    "birthdays",
+    1
+   ],
+   [
+    "christmas",
+    1
+   ],
+   [
+    "homographs",
+    2
+   ],
+   [
+    "time",
+    1
+   ]
+  ],
+  "clash": [
+   "party supplies"
+  ]
+ },
+ "present perfect": {
+  "also": [],
+  "clash": [
+   "grammar terms"
+  ]
+ },
+ "print": {
+  "also": [
+   [
+    "art gallery",
+    2
+   ],
+   [
+    "computer actions",
+    1
+   ],
+   [
+    "foot___",
+    1
+   ]
+  ],
+  "clash": [
+   "fabric prints",
+   "photography words",
+   "publishing words"
+  ]
+ },
+ "privet": {
+  "also": [
+   [
+    "greetings around the world",
+    4
+   ],
+   [
+    "hedge plants",
+    2
+   ]
+  ],
+  "clash": [
+   "poisonous plants"
+  ]
+ },
+ "pronoun": {
+  "also": [],
+  "clash": [
+   "grammar terms"
+  ]
+ },
+ "proper noun": {
+  "also": [],
+  "clash": [
+   "grammar terms"
+  ]
+ },
+ "prose poem": {
+  "also": [
+   [
+    "poetry terms",
+    4
+   ]
+  ],
+  "clash": []
+ },
+ "Provençal": {
+  "also": [],
+  "clash": [
+   "french food",
+   "french regions"
+  ]
+ },
+ "provided": {
+  "also": [],
+  "clash": [
+   "prepositions"
+  ]
+ },
+ "psalm": {
+  "also": [
+   [
+    "religion words",
+    2
+   ],
+   [
+    "silent letter words",
+    2
+   ],
+   [
+    "song types",
+    2
+   ]
+  ],
+  "clash": [
+   "holy books"
+  ]
+ },
+ "psi": {
+  "also": [],
+  "clash": [
+   "imperial units"
+  ]
+ },
+ "psst": {
+  "also": [
+   [
+    "no vowels",
+    3
+   ],
+   [
+    "onomatopoeia",
+    2
+   ]
+  ],
+  "clash": []
+ },
+ "pun": {
+  "also": [
+   [
+    "comedy words",
+    2
+   ]
+  ],
+  "clash": []
+ },
+ "Punic": {
+  "also": [],
+  "clash": [
+   "ancient battles"
+  ]
+ },
+ "Punjabi": {
+  "also": [],
+  "clash": [
+   "indian food",
+   "indian states"
+  ]
+ },
+ "Qashqai": {
+  "also": [
+   [
+    "famous car models",
+    3
+   ]
+  ],
+  "clash": [
+   "rugs and carpets"
+  ]
+ },
+ "qasida": {
+  "also": [
+   [
+    "arabic music words",
+    4
+   ]
+  ],
+  "clash": []
+ },
+ "QR code": {
+  "also": [
+   [
+    "japanese inventions",
+    2
+   ]
+  ],
+  "clash": [
+   "square things",
+   "ticket words"
+  ]
+ },
+ "quanta": {
+  "also": [
+   [
+    "hidden insects",
+    3
+   ]
+  ],
+  "clash": []
+ },
+ "quantifier": {
+  "also": [
+   [
+    "hidden insects",
+    3
+   ]
+  ],
+  "clash": []
+ },
+ "quatrain": {
+  "also": [
+   [
+    "hidden vehicles",
+    2
+   ],
+   [
+    "poetry terms",
+    3
+   ]
+  ],
+  "clash": []
+ },
+ "Quebec": {
+  "also": [
+   [
+    "canadian provinces",
+    1
+   ]
+  ],
+  "clash": [
+   "canadian cities"
+  ]
+ },
+ "Quechua": {
+  "also": [
+   [
+    "andes",
+    2
+   ],
+   [
+    "inca empire",
+    3
+   ]
+  ],
+  "clash": []
+ },
+ "question mark": {
+  "also": [
+   [
+    "symbols",
+    1
+   ]
+  ],
+  "clash": [
+   "keyboard symbols"
+  ]
+ },
+ "Quiché": {
+  "also": [
+   [
+    "aztecs and maya",
+    4
+   ]
+  ],
+  "clash": [
+   "egg dishes",
+   "french food",
+   "picnic basket",
+   "savory pies",
+   "words from french"
+  ]
+ },
+ "quill": {
+  "also": [
+   [
+    "art materials",
+    3
+   ],
+   [
+    "bird body parts",
+    2
+   ],
+   [
+    "stationery",
+    3
+   ]
+  ],
+  "clash": [
+   "medieval times",
+   "prickly things"
+  ]
+ },
+ "quotation mark": {
+  "also": [],
+  "clash": [
+   "keyboard symbols"
+  ]
+ },
+ "radii": {
+  "also": [],
+  "clash": [
+   "circle parts"
+  ]
+ },
+ "rahmat": {
+  "also": [],
+  "clash": [
+   "arabic names"
+  ]
+ },
+ "Rajasthani": {
+  "also": [],
+  "clash": [
+   "indian states"
+  ]
+ },
+ "ran": {
+  "also": [],
+  "clash": [
+   "motion verbs"
+  ]
+ },
+ "Rapa Nui": {
+  "also": [
+   [
+    "pacific islands",
+    3
+   ],
+   [
+    "polynesian voyaging",
+    3
+   ]
+  ],
+  "clash": [
+   "ancient sites",
+   "famous islands"
+  ]
+ },
+ "renga": {
+  "also": [
+   [
+    "poetry terms",
+    5
+   ]
+  ],
+  "clash": []
+ },
+ "rho": {
+  "also": [],
+  "clash": [
+   "sounds like a letter"
+  ]
+ },
+ "rhyme royal": {
+  "also": [
+   [
+    "poetry terms",
+    5
+   ]
+  ],
+  "clash": []
+ },
+ "Roboto": {
+  "also": [],
+  "clash": [
+   "robots"
+  ]
+ },
+ "Rockwell": {
+  "also": [],
+  "clash": [
+   "modern artists"
+  ]
+ },
+ "rode": {
+  "also": [
+   [
+    "homophones",
+    1
+   ]
+  ],
+  "clash": [
+   "horse riding words"
+  ]
+ },
+ "Rohingya": {
+  "also": [],
+  "clash": [
+   "nationalities"
+  ]
+ },
+ "roman": {
+  "also": [
+   [
+    "city demonyms",
+    1
+   ],
+   [
+    "empires",
+    1
+   ],
+   [
+    "pizza styles",
+    3
+   ]
+  ],
+  "clash": [
+   "ancient rome",
+   "fonts"
+  ]
+ },
+ "Romani": {
+  "also": [],
+  "clash": [
+   "ancient rome",
+   "groups of people",
+   "roman life"
+  ]
+ },
+ "Romanian": {
+  "also": [
+   [
+    "nationalities",
+    1
+   ]
+  ],
+  "clash": []
+ },
+ "Romeo": {
+  "also": [
+   [
+    "shakespeare characters",
+    1
+   ]
+  ],
+  "clash": [
+   "boys' names",
+   "love words"
+  ]
+ },
+ "rondeau": {
+  "also": [
+   [
+    "cookware",
+    5
+   ],
+   [
+    "poetry terms",
+    5
+   ],
+   [
+    "song types",
+    5
+   ]
+  ],
+  "clash": []
+ },
+ "rongorongo": {
+  "also": [
+   [
+    "ancient writing",
+    4
+   ],
+   [
+    "pacific art words",
+    5
+   ]
+  ],
+  "clash": []
+ },
+ "root word": {
+  "also": [],
+  "clash": [
+   "plant parts"
+  ]
+ },
+ "rose": {
+  "also": [
+   [
+    "anagrams of each other",
+    1
+   ],
+   [
+    "anatolian flowers",
+    2
+   ],
+   [
+    "bouquet flowers",
+    1
+   ],
+   [
+    "edible flowers",
+    2
+   ],
+   [
+    "english cottage",
+    3
+   ],
+   [
+    "garden flowers",
+    1
+   ],
+   [
+    "homophones",
+    1
+   ],
+   [
+    "ice cream flavors",
+    4
+   ],
+   [
+    "middle eastern scents",
+    2
+   ],
+   [
+    "names that are flowers",
+    1
+   ],
+   [
+    "national flowers",
+    1
+   ],
+   [
+    "perfume notes",
+    1
+   ],
+   [
+    "red things",
+    1
+   ],
+   [
+    "revolutions",
+    4
+   ],
+   [
+    "shades of pink",
+    1
+   ],
+   [
+    "street names",
+    3
+   ],
+   [
+    "sun___",
+    3
+   ],
+   [
+    "things that smell good",
+    1
+   ],
+   [
+    "valentine's day",
+    1
+   ],
+   [
+    "wines",
+    2
+   ]
+  ],
+  "clash": [
+   "candle scents",
+   "prickly things",
+   "summer flowers"
+  ]
+ },
+ "round": {
+  "also": [
+   [
+    "2d shapes",
+    2
+   ],
+   [
+    "___house",
+    2
+   ],
+   [
+    "archery terms",
+    4
+   ],
+   [
+    "boxing terms",
+    1
+   ],
+   [
+    "mahjong words",
+    3
+   ],
+   [
+    "math terms",
+    3
+   ],
+   [
+    "round things",
+    1
+   ],
+   [
+    "song types",
+    3
+   ]
+  ],
+  "clash": [
+   "golf terms"
+  ]
+ },
+ "round hand": {
+  "also": [],
+  "clash": [
+   "typography words"
+  ]
+ },
+ "roundel": {
+  "also": [
+   [
+    "heraldry",
+    4
+   ]
+  ],
+  "clash": []
+ },
+ "rubai": {
+  "also": [
+   [
+    "poetry terms",
+    5
+   ]
+  ],
+  "clash": []
+ },
+ "runes": {
+  "also": [
+   [
+    "ancient writing",
+    2
+   ],
+   [
+    "vikings",
+    2
+   ]
+  ],
+  "clash": [
+   "norse mythology",
+   "witchcraft",
+   "wizard words"
+  ]
+ },
+ "Russian": {
+  "also": [
+   [
+    "empires",
+    2
+   ],
+   [
+    "nationalities",
+    1
+   ],
+   [
+    "salad dressings",
+    3
+   ],
+   [
+    "school subjects",
+    2
+   ]
+  ],
+  "clash": [
+   "revolutions"
+  ]
+ },
+ "Sabaean": {
+  "also": [],
+  "clash": [
+   "ancient sites of the middle east"
+  ]
+ },
+ "said": {
+  "also": [],
+  "clash": [
+   "arabic names"
+  ]
+ },
+ "salaam": {
+  "also": [
+   [
+    "greetings around the world",
+    3
+   ],
+   [
+    "islam words",
+    3
+   ],
+   [
+    "peace words",
+    4
+   ]
+  ],
+  "clash": [
+   "gestures",
+   "goodbye around the world"
+  ]
+ },
+ "salem": {
+  "also": [],
+  "clash": [
+   "american cities",
+   "holy cities",
+   "witchcraft"
+  ]
+ },
+ "salut": {
+  "also": [
+   [
+    "goodbye around the world",
+    3
+   ],
+   [
+    "greetings around the world",
+    3
+   ]
+  ],
+  "clash": []
+ },
+ "salve": {
+  "also": [
+   [
+    "forms of medicine",
+    3
+   ],
+   [
+    "greetings around the world",
+    4
+   ],
+   [
+    "latin phrases",
+    4
+   ]
+  ],
+  "clash": [
+   "first aid",
+   "medicines"
+  ]
+ },
+ "Samoan": {
+  "also": [
+   [
+    "nationalities",
+    2
+   ]
+  ],
+  "clash": []
+ },
+ "San Francisco": {
+  "also": [
+   [
+    "american cities",
+    1
+   ],
+   [
+    "places named after people",
+    3
+   ]
+  ],
+  "clash": []
+ },
+ "sannu": {
+  "also": [
+   [
+    "greetings around the world",
+    5
+   ]
+  ],
+  "clash": []
+ },
+ "sans serif": {
+  "also": [],
+  "clash": [
+   "fonts"
+  ]
+ },
+ "Sanskrit": {
+  "also": [
+   [
+    "ancient india",
+    2
+   ],
+   [
+    "ancient writing",
+    2
+   ],
+   [
+    "hinduism words",
+    2
+   ],
+   [
+    "yoga words",
+    3
+   ]
+  ],
+  "clash": []
+ },
+ "sarcasm": {
+  "also": [
+   [
+    "comedy words",
+    3
+   ]
+  ],
+  "clash": []
+ },
+ "Sardinian": {
+  "also": [],
+  "clash": [
+   "italian regions"
+  ]
+ },
+ "sat": {
+  "also": [
+   [
+    "exam words",
+    2
+   ]
+  ],
+  "clash": []
+ },
+ "sat sri akal": {
+  "also": [
+   [
+    "greetings around the world",
+    4
+   ]
+  ],
+  "clash": []
+ },
+ "save": {
+  "also": [
+   [
+    "baseball terms",
+    3
+   ],
+   [
+    "computer actions",
+    1
+   ],
+   [
+    "sports verbs",
+    1
+   ]
+  ],
+  "clash": [
+   "soccer terms"
+  ]
+ },
+ "saw": {
+  "also": [
+   [
+    "___fish",
+    1
+   ],
+   [
+    "___fly",
+    2
+   ],
+   [
+    "construction site",
+    2
+   ],
+   [
+    "hand tools",
+    1
+   ],
+   [
+    "hand___",
+    2
+   ],
+   [
+    "reversible words",
+    1
+   ],
+   [
+    "saws",
+    1
+   ],
+   [
+    "things that cut",
+    1
+   ],
+   [
+    "things with handles",
+    2
+   ],
+   [
+    "things with teeth",
+    1
+   ],
+   [
+    "woodworking words",
+    1
+   ]
+  ],
+  "clash": []
+ },
+ "sawasdee": {
+  "also": [
+   [
+    "greetings around the world",
+    4
+   ]
+  ],
+  "clash": [
+   "goodbye around the world"
+  ]
+ },
+ "sawubona": {
+  "also": [
+   [
+    "greetings around the world",
+    4
+   ]
+  ],
+  "clash": []
+ },
+ "sayonara": {
+  "also": [
+   [
+    "ways to say goodbye",
+    2
+   ],
+   [
+    "words from japanese",
+    3
+   ]
+  ],
+  "clash": []
+ },
+ "scarves": {
+  "also": [],
+  "clash": [
+   "scarves and gloves"
+  ]
+ },
+ "Scots": {
+  "also": [
+   [
+    "nationalities",
+    2
+   ]
+  ],
+  "clash": [
+   "scottish clan names",
+   "scottish words"
+  ]
+ },
+ "Scottish Gaelic": {
+  "also": [
+   [
+    "celts",
+    3
+   ]
+  ],
+  "clash": [
+   "scottish words"
+  ]
+ },
+ "scribble": {
+  "also": [
+   [
+    "hidden body parts",
+    2
+   ]
+  ],
+  "clash": [
+   "drawing techniques"
+  ]
+ },
+ "scribe": {
+  "also": [
+   [
+    "ancient egypt",
+    2
+   ],
+   [
+    "ancient writing",
+    2
+   ],
+   [
+    "medieval jobs",
+    2
+   ]
+  ],
+  "clash": [
+   "monastery",
+   "old-time jobs"
+  ]
+ },
+ "script": {
+  "also": [
+   [
+    "coding words",
+    2
+   ],
+   [
+    "theater words",
+    1
+   ]
+  ],
+  "clash": [
+   "film words",
+   "fonts",
+   "typography words"
+  ]
+ },
+ "scroll": {
+  "also": [
+   [
+    "ancient writing",
+    2
+   ],
+   [
+    "artifacts",
+    2
+   ],
+   [
+    "computer actions",
+    1
+   ],
+   [
+    "long things",
+    2
+   ],
+   [
+    "social media words",
+    2
+   ],
+   [
+    "things made of paper",
+    3
+   ],
+   [
+    "wizard words",
+    2
+   ]
+  ],
+  "clash": [
+   "curves and spirals",
+   "graduation words",
+   "instrument parts",
+   "museum"
+  ]
+ },
+ "Scythian": {
+  "also": [],
+  "clash": [
+   "ancient civilizations"
+  ]
+ },
+ "second person": {
+  "also": [],
+  "clash": [
+   "literature"
+  ]
+ },
+ "section sign": {
+  "also": [],
+  "clash": [
+   "legal documents",
+   "symbols"
+  ]
+ },
+ "selam": {
+  "also": [],
+  "clash": [
+   "greetings around the world",
+   "turkish everyday words"
+  ]
+ },
+ "semaphore": {
+  "also": [
+   [
+    "flag words",
+    4
+   ],
+   [
+    "old ways to communicate",
+    2
+   ]
+  ],
+  "clash": [
+   "railway words"
+  ]
+ },
+ "semicolon": {
+  "also": [
+   [
+    "coding words",
+    3
+   ]
+  ],
+  "clash": [
+   "keyboard symbols"
+  ]
+ },
+ "Seneca": {
+  "also": [
+   [
+    "ancient rome",
+    3
+   ]
+  ],
+  "clash": [
+   "ancient greek thinkers",
+   "greek philosophers"
+  ]
+ },
+ "senryu": {
+  "also": [
+   [
+    "poetry terms",
+    5
+   ]
+  ],
+  "clash": []
+ },
+ "sent": {
+  "also": [
+   [
+    "homophones",
+    1
+   ]
+  ],
+  "clash": []
+ },
+ "seraphim": {
+  "also": [
+   [
+    "angels and spirits",
+    3
+   ],
+   [
+    "orders of knighthood",
+    5
+   ]
+  ],
+  "clash": []
+ },
+ "Serbian": {
+  "also": [
+   [
+    "nationalities",
+    2
+   ]
+  ],
+  "clash": []
+ },
+ "serial comma": {
+  "also": [],
+  "clash": [
+   "grammar terms"
+  ]
+ },
+ "serif": {
+  "also": [],
+  "clash": [
+   "fonts"
+  ]
+ },
+ "servus": {
+  "also": [
+   [
+    "greetings around the world",
+    4
+   ]
+  ],
+  "clash": [
+   "goodbye around the world"
+  ]
+ },
+ "sestet": {
+  "also": [
+   [
+    "poetry terms",
+    4
+   ]
+  ],
+  "clash": []
+ },
+ "sestina": {
+  "also": [
+   [
+    "poetry terms",
+    4
+   ]
+  ],
+  "clash": [
+   "hidden names"
+  ]
+ },
+ "Setswana": {
+  "also": [
+   [
+    "hidden birds",
+    3
+   ]
+  ],
+  "clash": []
+ },
+ "shalom": {
+  "also": [
+   [
+    "goodbye around the world",
+    3
+   ],
+   [
+    "greetings around the world",
+    2
+   ],
+   [
+    "judaism words",
+    2
+   ],
+   [
+    "peace words",
+    3
+   ]
+  ],
+  "clash": []
+ },
+ "Shan": {
+  "also": [],
+  "clash": [
+   "boys' names",
+   "scottish words"
+  ]
+ },
+ "Shanghainese": {
+  "also": [
+   [
+    "city demonyms",
+    3
+   ]
+  ],
+  "clash": []
+ },
+ "Shawnee": {
+  "also": [],
+  "clash": [
+   "girls' names"
+  ]
+ },
+ "she": {
+  "also": [
+   [
+    "languages of china",
+    5
+   ]
+  ],
+  "clash": []
+ },
+ "She": {
+  "also": [
+   [
+    "pronouns",
+    1
+   ]
+  ],
+  "clash": []
+ },
+ "shelves": {
+  "also": [],
+  "clash": [
+   "library",
+   "storage furniture"
+  ]
+ },
+ "shh": {
+  "also": [
+   [
+    "no vowels",
+    2
+   ],
+   [
+    "onomatopoeia",
+    1
+   ]
+  ],
+  "clash": []
+ },
+ "Shina": {
+  "also": [
+   [
+    "hidden body parts",
+    3
+   ]
+  ],
+  "clash": []
+ },
+ "shone": {
+  "also": [
+   [
+    "hidden numbers",
+    2
+   ]
+  ],
+  "clash": []
+ },
+ "shoo": {
+  "also": [
+   [
+    "___fly",
+    2
+   ],
+   [
+    "rhymes with blue",
+    2
+   ]
+  ],
+  "clash": []
+ },
+ "shook": {
+  "also": [
+   [
+    "gen z slang",
+    2
+   ],
+   [
+    "surprised words",
+    3
+   ]
+  ],
+  "clash": [
+   "fixings"
+  ]
+ },
+ "shorthand": {
+  "also": [
+   [
+    "hidden body parts",
+    2
+   ]
+  ],
+  "clash": [
+   "office jobs"
+  ]
+ },
+ "Shoshone": {
+  "also": [],
+  "clash": [
+   "hidden numbers"
+  ]
+ },
+ "shot": {
+  "also": [
+   [
+    "film words",
+    2
+   ],
+   [
+    "forms of medicine",
+    2
+   ],
+   [
+    "head___",
+    1
+   ],
+   [
+    "sports equipment",
+    2
+   ],
+   [
+    "sports verbs",
+    2
+   ]
+  ],
+  "clash": [
+   "drinks"
+  ]
+ },
+ "shucks": {
+  "also": [
+   [
+    "polite swears",
+    2
+   ]
+  ],
+  "clash": []
+ },
+ "shukran": {
+  "also": [],
+  "clash": [
+   "words from arabic"
+  ]
+ },
+ "shukriya": {
+  "also": [
+   [
+    "hindi everyday words",
+    3
+   ]
+  ],
+  "clash": []
+ },
+ "shwmae": {
+  "also": [
+   [
+    "greetings around the world",
+    5
+   ]
+  ],
+  "clash": []
+ },
+ "Sicilian": {
+  "also": [
+   [
+    "pizza styles",
+    2
+   ]
+  ],
+  "clash": [
+   "chess openings",
+   "italian regions"
+  ]
+ },
+ "Sierra": {
+  "also": [
+   [
+    "famous car models",
+    3
+   ],
+   [
+    "words from spanish",
+    3
+   ]
+  ],
+  "clash": [
+   "mountain ranges"
+  ]
+ },
+ "sigma": {
+  "also": [
+   [
+    "gen z slang",
+    2
+   ]
+  ],
+  "clash": [
+   "statistics words"
+  ]
+ },
+ "sign language": {
+  "also": [
+   [
+    "media and communication",
+    2
+   ]
+  ],
+  "clash": [
+   "gestures",
+   "hearing words"
+  ]
+ },
+ "signal flag": {
+  "also": [
+   [
+    "flag words",
+    4
+   ],
+   [
+    "old ways to communicate",
+    3
+   ]
+  ],
+  "clash": []
+ },
+ "signature": {
+  "also": [
+   [
+    "hidden insects",
+    3
+   ],
+   [
+    "parts of a book",
+    4
+   ]
+  ],
+  "clash": [
+   "legal documents",
+   "painting words",
+   "post office"
+  ]
+ },
+ "Silbo Gomero": {
+  "also": [],
+  "clash": [
+   "languages"
+  ]
+ },
+ "Silesian": {
+  "also": [],
+  "clash": [
+   "german states"
+  ]
+ },
+ "simile": {
+  "also": [
+   [
+    "poetry terms",
+    2
+   ]
+  ],
+  "clash": []
+ },
+ "simple past": {
+  "also": [],
+  "clash": [
+   "grammar terms"
+  ]
+ },
+ "since": {
+  "also": [
+   [
+    "conjunctions",
+    2
+   ]
+  ],
+  "clash": []
+ },
+ "Sindhi": {
+  "also": [],
+  "clash": [
+   "indian food"
+  ]
+ },
+ "single quote": {
+  "also": [],
+  "clash": [
+   "keyboard symbols"
+  ]
+ },
+ "singular": {
+  "also": [
+   [
+    "words for strange",
+    3
+   ]
+  ],
+  "clash": []
+ },
+ "Sinhalese": {
+  "also": [],
+  "clash": [
+   "nationalities"
+  ]
+ },
+ "slab serif": {
+  "also": [],
+  "clash": [
+   "fonts"
+  ]
+ },
+ "slant": {
+  "also": [
+   [
+    "hidden insects",
+    2
+   ]
+  ],
+  "clash": [
+   "line types"
+  ]
+ },
+ "slash": {
+  "also": [
+   [
+    "hidden body parts",
+    2
+   ],
+   [
+    "hidden trees",
+    2
+   ],
+   [
+    "rock guitarists",
+    2
+   ]
+  ],
+  "clash": [
+   "keyboard symbols",
+   "ways to cut food"
+  ]
+ },
+ "slate": {
+  "also": [
+   [
+    "anagrams of each other",
+    2
+   ],
+   [
+    "building materials",
+    2
+   ],
+   [
+    "building stones",
+    1
+   ],
+   [
+    "cue sports terms",
+    4
+   ],
+   [
+    "natural materials",
+    2
+   ],
+   [
+    "rock types",
+    1
+   ],
+   [
+    "roof parts",
+    2
+   ],
+   [
+    "shades of gray",
+    2
+   ]
+  ],
+  "clash": [
+   "behind the camera",
+   "classroom items",
+   "hard materials"
+  ]
+ },
+ "slept": {
+  "also": [
+   [
+    "sleep words",
+    2
+   ]
+  ],
+  "clash": []
+ },
+ "slew": {
+  "also": [
+   [
+    "rhymes with blue",
+    3
+   ]
+  ],
+  "clash": []
+ },
+ "Slovak": {
+  "also": [
+   [
+    "nationalities",
+    2
+   ]
+  ],
+  "clash": []
+ },
+ "Slovenian": {
+  "also": [
+   [
+    "nationalities",
+    2
+   ]
+  ],
+  "clash": []
+ },
+ "smoke signal": {
+  "also": [
+   [
+    "old ways to communicate",
+    1
+   ]
+  ],
+  "clash": [
+   "fire words",
+   "survival skills"
+  ]
+ },
+ "so": {
+  "also": [
+   [
+    "homophones",
+    1
+   ]
+  ],
+  "clash": []
+ },
+ "solidus": {
+  "also": [
+   [
+    "historic coins",
+    4
+   ]
+  ],
+  "clash": [
+   "byzantine empire"
+  ]
+ },
+ "Somali": {
+  "also": [
+   [
+    "cat breeds",
+    4
+   ],
+   [
+    "nationalities",
+    2
+   ]
+  ],
+  "clash": []
+ },
+ "somebody": {
+  "also": [
+   [
+    "words for a person",
+    1
+   ]
+  ],
+  "clash": []
+ },
+ "someone": {
+  "also": [
+   [
+    "hidden numbers",
+    1
+   ],
+   [
+    "words for a person",
+    1
+   ]
+  ],
+  "clash": []
+ },
+ "something": {
+  "also": [
+   [
+    "rhymes with ring",
+    1
+   ]
+  ],
+  "clash": []
+ },
+ "Songhai": {
+  "also": [
+   [
+    "empires",
+    3
+   ]
+  ],
+  "clash": []
+ },
+ "sonnet": {
+  "also": [
+   [
+    "poetry terms",
+    1
+   ],
+   [
+    "words from italian",
+    3
+   ]
+  ],
+  "clash": []
+ },
+ "SOS": {
+  "also": [
+   [
+    "acronyms",
+    2
+   ],
+   [
+    "palindromes",
+    1
+   ]
+  ],
+  "clash": [
+   "emergency supplies",
+   "radio words",
+   "shipwreck coast words"
+  ]
+ },
+ "sought": {
+  "also": [
+   [
+    "ough words",
+    2
+   ]
+  ],
+  "clash": []
+ },
+ "Sourashtra": {
+  "also": [],
+  "clash": [
+   "hidden body parts"
+  ]
+ },
+ "Souvenir": {
+  "also": [
+   [
+    "bazaar",
+    3
+   ],
+   [
+    "road trip words",
+    2
+   ],
+   [
+    "sightseeing words",
+    1
+   ],
+   [
+    "street market",
+    2
+   ],
+   [
+    "theme park words",
+    2
+   ],
+   [
+    "words from french",
+    1
+   ]
+  ],
+  "clash": []
+ },
+ "Spanish": {
+  "also": [
+   [
+    "___fly",
+    3
+   ],
+   [
+    "empires",
+    2
+   ],
+   [
+    "nationalities",
+    1
+   ],
+   [
+    "school subjects",
+    1
+   ]
+  ],
+  "clash": [
+   "spanish food",
+   "spanish-speaking countries",
+   "words from spanish"
+  ]
+ },
+ "spat": {
+  "also": [
+   [
+    "baby animals",
+    5
+   ],
+   [
+    "reversible words",
+    2
+   ]
+  ],
+  "clash": []
+ },
+ "spelling": {
+  "also": [
+   [
+    "school subjects",
+    1
+   ]
+  ],
+  "clash": [
+   "exam words",
+   "witchcraft",
+   "word games"
+  ]
+ },
+ "spoke": {
+  "also": [
+   [
+    "bicycle parts",
+    2
+   ]
+  ],
+  "clash": []
+ },
+ "spoonerism": {
+  "also": [
+   [
+    "words named after people",
+    4
+   ]
+  ],
+  "clash": []
+ },
+ "spun": {
+  "also": [],
+  "clash": [
+   "things that spin"
+  ]
+ },
+ "square bracket": {
+  "also": [],
+  "clash": [
+   "algebra words",
+   "keyboard symbols"
+  ]
+ },
+ "squiggle": {
+  "also": [
+   [
+    "curves and spirals",
+    2
+   ]
+  ],
+  "clash": [
+   "line types",
+   "portmanteau words"
+  ]
+ },
+ "stank": {
+  "also": [
+   [
+    "hidden colors",
+    3
+   ],
+   [
+    "scottish words",
+    4
+   ]
+  ],
+  "clash": []
+ },
+ "stem": {
+  "also": [
+   [
+    "bicycle parts",
+    3
+   ],
+   [
+    "flower parts",
+    1
+   ],
+   [
+    "plant biology",
+    1
+   ],
+   [
+    "plant parts",
+    1
+   ],
+   [
+    "ship parts",
+    3
+   ],
+   [
+    "tree parts",
+    2
+   ]
+  ],
+  "clash": [
+   "school subjects"
+  ]
+ },
+ "stigmata": {
+  "also": [],
+  "clash": [
+   "religion words"
+  ]
+ },
+ "stole": {
+  "also": [
+   [
+    "graduation words",
+    3
+   ],
+   [
+    "religious clothing",
+    3
+   ],
+   [
+    "scarves and gloves",
+    2
+   ]
+  ],
+  "clash": []
+ },
+ "strata": {
+  "also": [
+   [
+    "archaeology words",
+    3
+   ],
+   [
+    "hidden animals",
+    3
+   ],
+   [
+    "rocks and minerals",
+    3
+   ]
+  ],
+  "clash": []
+ },
+ "struck": {
+  "also": [
+   [
+    "star___",
+    1
+   ],
+   [
+    "sun___",
+    2
+   ]
+  ],
+  "clash": []
+ },
+ "stylus": {
+  "also": [
+   [
+    "ancient writing",
+    3
+   ],
+   [
+    "computer parts",
+    3
+   ]
+  ],
+  "clash": [
+   "gadgets",
+   "roman life"
+  ]
+ },
+ "subject": {
+  "also": [
+   [
+    "homographs",
+    2
+   ],
+   [
+    "school",
+    2
+   ]
+  ],
+  "clash": [
+   "school subjects"
+  ]
+ },
+ "suffix": {
+  "also": [],
+  "clash": [
+   "parts of speech"
+  ]
+ },
+ "Sui": {
+  "also": [
+   [
+    "chinese dynasties",
+    3
+   ]
+  ],
+  "clash": []
+ },
+ "Sumerian": {
+  "also": [
+   [
+    "ancient writing",
+    3
+   ],
+   [
+    "bronze age",
+    3
+   ]
+  ],
+  "clash": [
+   "mesopotamia"
+  ]
+ },
+ "superlative": {
+  "also": [
+   [
+    "words for good",
+    3
+   ]
+  ],
+  "clash": []
+ },
+ "sveiki": {
+  "also": [
+   [
+    "greetings around the world",
+    5
+   ]
+  ],
+  "clash": [
+   "goodbye around the world"
+  ]
+ },
+ "Swahili": {
+  "also": [],
+  "clash": [
+   "swahili words"
+  ]
+ },
+ "swash": {
+  "also": [
+   [
+    "hidden trees",
+    3
+   ],
+   [
+    "water sounds",
+    3
+   ]
+  ],
+  "clash": [
+   "pirate words"
+  ]
+ },
+ "Swati": {
+  "also": [],
+  "clash": [
+   "indian names"
+  ]
+ },
+ "Swedish": {
+  "also": [
+   [
+    "massage types",
+    1
+   ],
+   [
+    "nationalities",
+    1
+   ]
+  ],
+  "clash": []
+ },
+ "swept": {
+  "also": [
+   [
+    "back___",
+    2
+   ],
+   [
+    "rain___",
+    2
+   ]
+  ],
+  "clash": []
+ },
+ "Swiss German": {
+  "also": [],
+  "clash": [
+   "nationalities"
+  ]
+ },
+ "syllabary": {
+  "also": [
+   [
+    "ancient writing",
+    4
+   ]
+  ],
+  "clash": []
+ },
+ "syllable": {
+  "also": [],
+  "clash": [
+   "poetry terms"
+  ]
+ },
+ "synecdoche": {
+  "also": [
+   [
+    "poetry terms",
+    4
+   ]
+  ],
+  "clash": []
+ },
+ "syntax": {
+  "also": [
+   [
+    "coding words",
+    2
+   ]
+  ],
+  "clash": []
+ },
+ "Syriac": {
+  "also": [],
+  "clash": [
+   "ancient writing"
+  ]
+ },
+ "szia": {
+  "also": [
+   [
+    "greetings around the world",
+    4
+   ]
+  ],
+  "clash": [
+   "goodbye around the world"
+  ]
+ },
+ "Sámi": {
+  "also": [],
+  "clash": [
+   "arabic names",
+   "arctic explorers",
+   "polar regions"
+  ]
+ },
+ "ta-da": {
+  "also": [
+   [
+    "magic show words",
+    2
+   ]
+  ],
+  "clash": []
+ },
+ "tack": {
+  "also": [
+   [
+    "fixings",
+    3
+   ],
+   [
+    "horse riding words",
+    3
+   ],
+   [
+    "horse tack",
+    3
+   ],
+   [
+    "sailing words",
+    1
+   ],
+   [
+    "sewing words",
+    3
+   ]
+  ],
+  "clash": []
+ },
+ "Tagalog": {
+  "also": [],
+  "clash": [
+   "filipino food"
+  ]
+ },
+ "Tahitian": {
+  "also": [],
+  "clash": [
+   "nationalities"
+  ]
+ },
+ "Taiwanese": {
+  "also": [
+   [
+    "nationalities",
+    2
+   ]
+  ],
+  "clash": []
+ },
+ "Tajik": {
+  "also": [
+   [
+    "nationalities",
+    3
+   ]
+  ],
+  "clash": []
+ },
+ "talking drum": {
+  "also": [
+   [
+    "african drums",
+    2
+   ],
+   [
+    "african instruments",
+    2
+   ],
+   [
+    "drums",
+    3
+   ],
+   [
+    "old ways to communicate",
+    3
+   ]
+  ],
+  "clash": []
+ },
+ "talofa": {
+  "also": [
+   [
+    "greetings around the world",
+    4
+   ]
+  ],
+  "clash": []
+ },
+ "Tamil": {
+  "also": [],
+  "clash": [
+   "indian names"
+  ]
+ },
+ "Tango": {
+  "also": [
+   [
+    "ballroom dances",
+    1
+   ],
+   [
+    "dance music",
+    1
+   ],
+   [
+    "dances",
+    1
+   ],
+   [
+    "fizzy drinks",
+    4
+   ],
+   [
+    "hidden colors",
+    1
+   ],
+   [
+    "latin american folk dances",
+    3
+   ],
+   [
+    "latin dances",
+    1
+   ],
+   [
+    "latin music styles",
+    1
+   ],
+   [
+    "words from spanish",
+    2
+   ]
+  ],
+  "clash": [
+   "shades of orange",
+   "soft drinks"
+  ]
+ },
+ "tanka": {
+  "also": [
+   [
+    "poetry terms",
+    4
+   ],
+   [
+    "words from japanese",
+    5
+   ]
+  ],
+  "clash": [
+   "hidden colors"
+  ]
+ },
+ "tap code": {
+  "also": [],
+  "clash": [
+   "prison words"
+  ]
+ },
+ "tashi delek": {
+  "also": [],
+  "clash": [
+   "greetings around the world"
+  ]
+ },
+ "Tatar": {
+  "also": [],
+  "clash": [
+   "empires",
+   "sauces and condiments"
+  ]
+ },
+ "tau": {
+  "also": [
+   [
+    "particle physics",
+    4
+   ]
+  ],
+  "clash": []
+ },
+ "taught": {
+  "also": [
+   [
+    "homophones",
+    2
+   ]
+  ],
+  "clash": []
+ },
+ "tchau": {
+  "also": [
+   [
+    "ways to say goodbye",
+    4
+   ]
+  ],
+  "clash": []
+ },
+ "teeth": {
+  "also": [
+   [
+    "dentist's office",
+    1
+   ],
+   [
+    "white things",
+    2
+   ]
+  ],
+  "clash": [
+   "things with teeth"
+  ]
+ },
+ "Teochew": {
+  "also": [],
+  "clash": [
+   "chinese food"
+  ]
+ },
+ "tercet": {
+  "also": [
+   [
+    "poetry terms",
+    4
+   ]
+  ],
+  "clash": []
+ },
+ "tere": {
+  "also": [
+   [
+    "greetings around the world",
+    4
+   ]
+  ],
+  "clash": []
+ },
+ "terminal": {
+  "also": [
+   [
+    "airport",
+    1
+   ],
+   [
+    "airport words",
+    1
+   ],
+   [
+    "cruise words",
+    2
+   ],
+   [
+    "electrical fittings",
+    3
+   ],
+   [
+    "electricity words",
+    2
+   ],
+   [
+    "mahjong words",
+    4
+   ],
+   [
+    "station words",
+    2
+   ]
+  ],
+  "clash": [
+   "computers",
+   "illnesses"
+  ]
+ },
+ "termini": {
+  "also": [
+   [
+    "famous train stations",
+    4
+   ],
+   [
+    "rome landmarks",
+    3
+   ]
+  ],
+  "clash": []
+ },
+ "terve": {
+  "also": [
+   [
+    "greetings around the world",
+    4
+   ]
+  ],
+  "clash": []
+ },
+ "terza rima": {
+  "also": [
+   [
+    "poetry terms",
+    5
+   ]
+  ],
+  "clash": []
+ },
+ "teşekkürler": {
+  "also": [
+   [
+    "turkish everyday words",
+    4
+   ]
+  ],
+  "clash": []
+ },
+ "Thai": {
+  "also": [
+   [
+    "cat breeds",
+    4
+   ],
+   [
+    "massage types",
+    2
+   ],
+   [
+    "nationalities",
+    1
+   ]
+  ],
+  "clash": [
+   "thai food"
+  ]
+ },
+ "than": {
+  "also": [],
+  "clash": [
+   "prepositions"
+  ]
+ },
+ "theta": {
+  "also": [],
+  "clash": [
+   "math terms"
+  ]
+ },
+ "thieves": {
+  "also": [],
+  "clash": [
+   "crimes",
+   "troublemakers"
+  ]
+ },
+ "third person": {
+  "also": [
+   [
+    "literature",
+    3
+   ]
+  ],
+  "clash": []
+ },
+ "thou": {
+  "also": [
+   [
+    "imperial units",
+    4
+   ],
+   [
+    "length units",
+    5
+   ]
+  ],
+  "clash": []
+ },
+ "though": {
+  "also": [
+   [
+    "ough words",
+    1
+   ],
+   [
+    "silent letter words",
+    2
+   ]
+  ],
+  "clash": []
+ },
+ "thought": {
+  "also": [
+   [
+    "ough words",
+    1
+   ]
+  ],
+  "clash": []
+ },
+ "threnody": {
+  "also": [
+   [
+    "classical forms",
+    4
+   ],
+   [
+    "song types",
+    4
+   ]
+  ],
+  "clash": []
+ },
+ "threw": {
+  "also": [
+   [
+    "homophones",
+    1
+   ],
+   [
+    "rhymes with blue",
+    1
+   ]
+  ],
+  "clash": []
+ },
+ "through": {
+  "also": [
+   [
+    "homophones",
+    1
+   ],
+   [
+    "ough words",
+    1
+   ],
+   [
+    "rhymes with blue",
+    1
+   ]
+  ],
+  "clash": []
+ },
+ "throughout": {
+  "also": [
+   [
+    "ough words",
+    1
+   ]
+  ],
+  "clash": []
+ },
+ "Tibetan": {
+  "also": [
+   [
+    "hidden colors",
+    3
+   ]
+  ],
+  "clash": [
+   "buddhism words",
+   "himalayan animals",
+   "nationalities"
+  ]
+ },
+ "Tifinagh": {
+  "also": [
+   [
+    "ancient writing",
+    5
+   ]
+  ],
+  "clash": []
+ },
+ "Tigre": {
+  "also": [],
+  "clash": [
+   "big cats"
+  ]
+ },
+ "tilde": {
+  "also": [
+   [
+    "keyboard keys",
+    4
+   ],
+   [
+    "symbols",
+    3
+   ],
+   [
+    "words from spanish",
+    4
+   ]
+  ],
+  "clash": [
+   "punctuation",
+   "typography words"
+  ]
+ },
+ "till": {
+  "also": [
+   [
+    "conjunctions",
+    3
+   ],
+   [
+    "gardening verbs",
+    3
+   ],
+   [
+    "shopping words",
+    3
+   ],
+   [
+    "supermarket",
+    2
+   ]
+  ],
+  "clash": []
+ },
+ "Times New Roman": {
+  "also": [],
+  "clash": [
+   "newspaper words"
+  ]
+ },
+ "tittle": {
+  "also": [
+   [
+    "hidden birds",
+    4
+   ]
+  ],
+  "clash": []
+ },
+ "Tiwi": {
+  "also": [],
+  "clash": [
+   "aboriginal culture"
+  ]
+ },
+ "to": {
+  "also": [
+   [
+    "homophones",
+    1
+   ],
+   [
+    "rhymes with blue",
+    1
+   ],
+   [
+    "sounds like a number",
+    1
+   ]
+  ],
+  "clash": []
+ },
+ "Toba": {
+  "also": [
+   [
+    "famous lakes",
+    4
+   ],
+   [
+    "famous volcanoes",
+    4
+   ]
+  ],
+  "clash": []
+ },
+ "toda": {
+  "also": [
+   [
+    "languages of india",
+    5
+   ]
+  ],
+  "clash": []
+ },
+ "Toda": {
+  "also": [],
+  "clash": [
+   "thank you around the world"
+  ]
+ },
+ "told": {
+  "also": [
+   [
+    "homophones",
+    1
+   ]
+  ],
+  "clash": []
+ },
+ "Tongan": {
+  "also": [
+   [
+    "nationalities",
+    2
+   ]
+  ],
+  "clash": []
+ },
+ "tot ziens": {
+  "also": [],
+  "clash": [
+   "ways to say goodbye"
+  ]
+ },
+ "Totonac": {
+  "also": [],
+  "clash": [
+   "ancient civilizations"
+  ]
+ },
+ "tracking": {
+  "also": [
+   [
+    "back___",
+    2
+   ],
+   [
+    "hunting words",
+    3
+   ],
+   [
+    "survival skills",
+    2
+   ]
+  ],
+  "clash": []
+ },
+ "Trajan": {
+  "also": [
+   [
+    "ancient rome",
+    3
+   ],
+   [
+    "roman emperors",
+    2
+   ]
+  ],
+  "clash": []
+ },
+ "transliteration": {
+  "also": [
+   [
+    "hidden animals",
+    3
+   ]
+  ],
+  "clash": []
+ },
+ "Trebuchet": {
+  "also": [
+   [
+    "historic weapons",
+    3
+   ],
+   [
+    "medieval weapons",
+    2
+   ],
+   [
+    "siege weapons",
+    1
+   ]
+  ],
+  "clash": []
+ },
+ "triolet": {
+  "also": [
+   [
+    "poetry terms",
+    5
+   ]
+  ],
+  "clash": []
+ },
+ "tritina": {
+  "also": [],
+  "clash": [
+   "hidden names"
+  ]
+ },
+ "tschüss": {
+  "also": [
+   [
+    "ways to say goodbye",
+    3
+   ]
+  ],
+  "clash": []
+ },
+ "Tsimane": {
+  "also": [],
+  "clash": [
+   "hidden body parts"
+  ]
+ },
+ "tsk": {
+  "also": [
+   [
+    "no vowels",
+    3
+   ],
+   [
+    "onomatopoeia",
+    2
+   ]
+  ],
+  "clash": []
+ },
+ "Tswana": {
+  "also": [
+   [
+    "hidden birds",
+    3
+   ]
+  ],
+  "clash": []
+ },
+ "Tupi": {
+  "also": [],
+  "clash": [
+   "brazilian food"
+  ]
+ },
+ "Turkish": {
+  "also": [
+   [
+    "nationalities",
+    1
+   ]
+  ],
+  "clash": [
+   "turkish bath",
+   "turkish everyday words",
+   "turkish food",
+   "words from turkish"
+  ]
+ },
+ "Turkmen": {
+  "also": [
+   [
+    "nationalities",
+    3
+   ]
+  ],
+  "clash": [
+   "horse breeds"
+  ]
+ },
+ "Tuvaluan": {
+  "also": [
+   [
+    "nationalities",
+    4
+   ]
+  ],
+  "clash": []
+ },
+ "typeface": {
+  "also": [
+   [
+    "publishing words",
+    3
+   ]
+  ],
+  "clash": []
+ },
+ "typesetter": {
+  "also": [
+   [
+    "old-time jobs",
+    3
+   ]
+  ],
+  "clash": []
+ },
+ "typesetting": {
+  "also": [
+   [
+    "publishing words",
+    3
+   ]
+  ],
+  "clash": []
+ },
+ "Ugaritic": {
+  "also": [
+   [
+    "ancient writing",
+    5
+   ]
+  ],
+  "clash": []
+ },
+ "ugh": {
+  "also": [
+   [
+    "disgust words",
+    1
+   ]
+  ],
+  "clash": []
+ },
+ "uh-oh": {
+  "also": [
+   [
+    "baby talk",
+    1
+   ]
+  ],
+  "clash": []
+ },
+ "Ukrainian": {
+  "also": [
+   [
+    "nationalities",
+    1
+   ]
+  ],
+  "clash": []
+ },
+ "Umbrian": {
+  "also": [],
+  "clash": [
+   "hidden names",
+   "italian regions"
+  ]
+ },
+ "underscore": {
+  "also": [],
+  "clash": [
+   "line types",
+   "punctuation"
+  ]
+ },
+ "understatement": {
+  "also": [],
+  "clash": [
+   "british english words"
+  ]
+ },
+ "Unicode": {
+  "also": [
+   [
+    "hidden animals",
+    2
+   ]
+  ],
+  "clash": [
+   "coding words"
+  ]
+ },
+ "Uniform": {
+  "also": [
+   [
+    "army words",
+    1
+   ],
+   [
+    "clothes",
+    1
+   ],
+   [
+    "fire station",
+    2
+   ],
+   [
+    "police station",
+    2
+   ],
+   [
+    "police words",
+    2
+   ],
+   [
+    "sports clothing",
+    1
+   ]
+  ],
+  "clash": [
+   "school"
+  ]
+ },
+ "until": {
+  "also": [
+   [
+    "conjunctions",
+    2
+   ]
+  ],
+  "clash": []
+ },
+ "up": {
+  "also": [
+   [
+    "___light",
+    2
+   ],
+   [
+    "back___",
+    1
+   ],
+   [
+    "sun___",
+    2
+   ]
+  ],
+  "clash": [
+   "compass directions"
+  ]
+ },
+ "uppercase": {
+  "also": [],
+  "clash": [
+   "keyboard keys"
+  ]
+ },
+ "Urartian": {
+  "also": [],
+  "clash": [
+   "ancient sites of turkey"
+  ]
+ },
+ "Urdu": {
+  "also": [],
+  "clash": [
+   "words from persian"
+  ]
+ },
+ "Ute": {
+  "also": [
+   [
+    "australian inventions",
+    3
+   ],
+   [
+    "australian slang",
+    1
+   ]
+  ],
+  "clash": [
+   "car types",
+   "outback",
+   "outback travel"
+  ]
+ },
+ "UTF-8": {
+  "also": [],
+  "clash": [
+   "coding words",
+   "file types"
+  ]
+ },
+ "Uyghur": {
+  "also": [],
+  "clash": [
+   "nationalities"
+  ]
+ },
+ "Uzbek": {
+  "also": [
+   [
+    "nationalities",
+    2
+   ]
+  ],
+  "clash": []
+ },
+ "vale": {
+  "also": [
+   [
+    "latin phrases",
+    4
+   ]
+  ],
+  "clash": [
+   "ways to say goodbye"
+  ]
+ },
+ "Valencian": {
+  "also": [],
+  "clash": [
+   "spanish cities",
+   "spanish regions"
+  ]
+ },
+ "vanakkam": {
+  "also": [
+   [
+    "greetings around the world",
+    4
+   ]
+  ],
+  "clash": []
+ },
+ "vellum": {
+  "also": [
+   [
+    "ancient writing",
+    3
+   ],
+   [
+    "see-through materials",
+    4
+   ]
+  ],
+  "clash": [
+   "art materials",
+   "medieval times"
+  ]
+ },
+ "Venetian": {
+  "also": [
+   [
+    "city demonyms",
+    2
+   ]
+  ],
+  "clash": [
+   "famous hotels",
+   "window coverings",
+   "window styles"
+  ]
+ },
+ "verb": {
+  "also": [],
+  "clash": [
+   "grammar terms"
+  ]
+ },
+ "versus": {
+  "also": [
+   [
+    "legal latin",
+    2
+   ]
+  ],
+  "clash": [
+   "sports verbs"
+  ]
+ },
+ "vertebrae": {
+  "also": [],
+  "clash": [
+   "bones"
+  ]
+ },
+ "vertical bar": {
+  "also": [],
+  "clash": [
+   "line types",
+   "punctuation"
+  ]
+ },
+ "vertices": {
+  "also": [],
+  "clash": [
+   "geometry"
+  ]
+ },
+ "Victor": {
+  "also": [
+   [
+    "boys' names",
+    1
+   ]
+  ],
+  "clash": []
+ },
+ "Vietnamese": {
+  "also": [
+   [
+    "nationalities",
+    1
+   ]
+  ],
+  "clash": [
+   "vietnamese food"
+  ]
+ },
+ "villanelle": {
+  "also": [
+   [
+    "poetry terms",
+    4
+   ]
+  ],
+  "clash": []
+ },
+ "virelai": {
+  "also": [
+   [
+    "song types",
+    5
+   ]
+  ],
+  "clash": []
+ },
+ "virtuosi": {
+  "also": [],
+  "clash": [
+   "musicians"
+  ]
+ },
+ "vis-à-vis": {
+  "also": [
+   [
+    "french phrases in english",
+    2
+   ]
+  ],
+  "clash": []
+ },
+ "vocative": {
+  "also": [],
+  "clash": [
+   "hidden animals"
+  ]
+ },
+ "voice": {
+  "also": [
+   [
+    "___box",
+    2
+   ]
+  ],
+  "clash": [
+   "voice types",
+   "ways of speaking"
+  ]
+ },
+ "voilà": {
+  "also": [
+   [
+    "french phrases in english",
+    2
+   ],
+   [
+    "magic show words",
+    3
+   ],
+   [
+    "words from french",
+    2
+   ]
+  ],
+  "clash": []
+ },
+ "vowel": {
+  "also": [],
+  "clash": [
+   "word games"
+  ]
+ },
+ "Walloon": {
+  "also": [
+   [
+    "hidden birds",
+    3
+   ]
+  ],
+  "clash": [
+   "nationalities"
+  ]
+ },
+ "Wampanoag": {
+  "also": [
+   [
+    "colonial america",
+    3
+   ],
+   [
+    "thanksgiving",
+    3
+   ]
+  ],
+  "clash": []
+ },
+ "Warlpiri": {
+  "also": [
+   [
+    "aboriginal culture",
+    4
+   ]
+  ],
+  "clash": []
+ },
+ "was": {
+  "also": [
+   [
+    "reversible words",
+    1
+   ]
+  ],
+  "clash": []
+ },
+ "we": {
+  "also": [
+   [
+    "homophones",
+    1
+   ]
+  ],
+  "clash": [
+   "sounds like a letter"
+  ]
+ },
+ "weight": {
+  "also": [
+   [
+    "clock parts",
+    3
+   ],
+   [
+    "curling words",
+    3
+   ],
+   [
+    "doctor's office",
+    2
+   ],
+   [
+    "forces",
+    2
+   ],
+   [
+    "hidden numbers",
+    1
+   ],
+   [
+    "homophones",
+    1
+   ],
+   [
+    "measurement",
+    1
+   ],
+   [
+    "physics words",
+    1
+   ]
+  ],
+  "clash": [
+   "gym equipment",
+   "heavy things"
+  ]
+ },
+ "Welsh": {
+  "also": [
+   [
+    "celts",
+    3
+   ],
+   [
+    "nationalities",
+    1
+   ],
+   [
+    "pony breeds",
+    2
+   ]
+  ],
+  "clash": [
+   "___cake"
+  ]
+ },
+ "went": {
+  "also": [],
+  "clash": [
+   "travel verbs"
+  ]
+ },
+ "whee": {
+  "also": [],
+  "clash": [
+   "happy words"
+  ]
+ },
+ "whenever": {
+  "also": [
+   [
+    "hidden birds",
+    2
+   ]
+  ],
+  "clash": []
+ },
+ "which": {
+  "also": [
+   [
+    "homophones",
+    1
+   ]
+  ],
+  "clash": []
+ },
+ "while": {
+  "also": [],
+  "clash": [
+   "coding words"
+  ]
+ },
+ "whilst": {
+  "also": [],
+  "clash": [
+   "british english words"
+  ]
+ },
+ "Whiskey": {
+  "also": [
+   [
+    "spirits",
+    1
+   ]
+  ],
+  "clash": [
+   "st. patrick's day"
+  ]
+ },
+ "whistled language": {
+  "also": [],
+  "clash": [
+   "languages"
+  ]
+ },
+ "who": {
+  "also": [
+   [
+    "international organizations",
+    2
+   ],
+   [
+    "rhymes with blue",
+    1
+   ],
+   [
+    "silent w words",
+    1
+   ]
+  ],
+  "clash": [
+   "famous bands"
+  ]
+ },
+ "whoa": {
+  "also": [
+   [
+    "horse riding words",
+    2
+   ],
+   [
+    "surprised words",
+    1
+   ]
+  ],
+  "clash": []
+ },
+ "whoever": {
+  "also": [
+   [
+    "silent w words",
+    1
+   ]
+  ],
+  "clash": []
+ },
+ "whom": {
+  "also": [
+   [
+    "silent w words",
+    2
+   ]
+  ],
+  "clash": []
+ },
+ "whoopee": {
+  "also": [
+   [
+    "1920s slang",
+    3
+   ]
+  ],
+  "clash": []
+ },
+ "whoops": {
+  "also": [],
+  "clash": [
+   "polite swears"
+  ]
+ },
+ "whose": {
+  "also": [
+   [
+    "homophones",
+    2
+   ],
+   [
+    "silent w words",
+    2
+   ]
+  ],
+  "clash": []
+ },
+ "widow": {
+  "also": [
+   [
+    "black___",
+    2
+   ],
+   [
+    "relationships",
+    1
+   ]
+  ],
+  "clash": [
+   "family members",
+   "spiders"
+  ]
+ },
+ "Wingdings": {
+  "also": [],
+  "clash": [
+   "hidden birds"
+  ]
+ },
+ "Wiradjuri": {
+  "also": [
+   [
+    "aboriginal culture",
+    4
+   ]
+  ],
+  "clash": []
+ },
+ "withdrew": {
+  "also": [],
+  "clash": [
+   "banking words"
+  ]
+ },
+ "woke": {
+  "also": [
+   [
+    "gen z slang",
+    2
+   ]
+  ],
+  "clash": []
+ },
+ "wolves": {
+  "also": [
+   [
+    "european soccer clubs",
+    3
+   ],
+   [
+    "nature at night",
+    3
+   ]
+  ],
+  "clash": [
+   "wild dogs and foxes"
+  ]
+ },
+ "won": {
+  "also": [
+   [
+    "asian currencies",
+    2
+   ],
+   [
+    "homophones",
+    1
+   ],
+   [
+    "reversible words",
+    1
+   ],
+   [
+    "sounds like a number",
+    1
+   ]
+  ],
+  "clash": []
+ },
+ "woohoo": {
+  "also": [],
+  "clash": [
+   "happy words"
+  ]
+ },
+ "wore": {
+  "also": [
+   [
+    "homophones",
+    1
+   ]
+  ],
+  "clash": []
+ },
+ "wound": {
+  "also": [
+   [
+    "first aid",
+    1
+   ],
+   [
+    "homographs",
+    1
+   ],
+   [
+    "injuries",
+    1
+   ]
+  ],
+  "clash": []
+ },
+ "wow": {
+  "also": [
+   [
+    "palindromes",
+    1
+   ],
+   [
+    "surprised words",
+    1
+   ]
+  ],
+  "clash": []
+ },
+ "wrote": {
+  "also": [
+   [
+    "homophones",
+    2
+   ],
+   [
+    "silent w words",
+    1
+   ]
+  ],
+  "clash": []
+ },
+ "wrung": {
+  "also": [
+   [
+    "silent w words",
+    3
+   ]
+  ],
+  "clash": []
+ },
+ "Wu": {
+  "also": [
+   [
+    "chinese surnames",
+    2
+   ]
+  ],
+  "clash": []
+ },
+ "X-ray": {
+  "also": [
+   [
+    "accidental inventions",
+    1
+   ],
+   [
+    "airport",
+    2
+   ],
+   [
+    "airport words",
+    2
+   ],
+   [
+    "chess terms",
+    4
+   ],
+   [
+    "dental care",
+    2
+   ],
+   [
+    "dental words",
+    2
+   ],
+   [
+    "dentist's office",
+    2
+   ],
+   [
+    "discoveries",
+    1
+   ],
+   [
+    "medical tests",
+    1
+   ],
+   [
+    "vet clinic",
+    2
+   ]
+  ],
+  "clash": [
+   "hospital"
+  ]
+ },
+ "Xavante": {
+  "also": [],
+  "clash": [
+   "hidden insects"
+  ]
+ },
+ "xi": {
+  "also": [],
+  "clash": [
+   "words made of roman numerals"
+  ]
+ },
+ "xin chào": {
+  "also": [
+   [
+    "greetings around the world",
+    4
+   ]
+  ],
+  "clash": []
+ },
+ "y'all": {
+  "also": [],
+  "clash": [
+   "words for a person"
+  ]
+ },
+ "yahoo": {
+  "also": [
+   [
+    "rhymes with blue",
+    2
+   ],
+   [
+    "silicon valley companies",
+    2
+   ],
+   [
+    "silly-sounding words",
+    3
+   ]
+  ],
+  "clash": []
+ },
+ "Yakut": {
+  "also": [
+   [
+    "hidden animals",
+    3
+   ],
+   [
+    "horse breeds",
+    5
+   ]
+  ],
+  "clash": []
+ },
+ "Yankee": {
+  "also": [
+   [
+    "soldiers of history",
+    3
+   ]
+  ],
+  "clash": [
+   "american football terms",
+   "betting words",
+   "mlb teams"
+  ]
+ },
+ "Yao": {
+  "also": [
+   [
+    "chinese surnames",
+    3
+   ]
+  ],
+  "clash": []
+ },
+ "Yapese": {
+  "also": [],
+  "clash": [
+   "hidden animals"
+  ]
+ },
+ "yasas": {
+  "also": [],
+  "clash": [
+   "goodbye around the world",
+   "greetings around the world"
+  ]
+ },
+ "yassou": {
+  "also": [],
+  "clash": [
+   "goodbye around the world",
+   "greetings around the world"
+  ]
+ },
+ "yay": {
+  "also": [
+   [
+    "palindromes",
+    2
+   ]
+  ],
+  "clash": []
+ },
+ "ye": {
+  "also": [
+   [
+    "scottish words",
+    4
+   ]
+  ],
+  "clash": [
+   "chinese surnames"
+  ]
+ },
+ "Yi": {
+  "also": [],
+  "clash": [
+   "chinese surnames"
+  ]
+ },
+ "Yiddish": {
+  "also": [],
+  "clash": [
+   "judaism words",
+   "words from yiddish"
+  ]
+ },
+ "yikes": {
+  "also": [
+   [
+    "gen z slang",
+    2
+   ],
+   [
+    "scared words",
+    2
+   ]
+  ],
+  "clash": []
+ },
+ "yippee": {
+  "also": [],
+  "clash": [
+   "happy words"
+  ]
+ },
+ "yo": {
+  "also": [
+   [
+    "greetings",
+    2
+   ]
+  ],
+  "clash": []
+ },
+ "Yolngu": {
+  "also": [
+   [
+    "aboriginal culture",
+    4
+   ]
+  ],
+  "clash": []
+ },
+ "Yoruba": {
+  "also": [],
+  "clash": [
+   "african folklore",
+   "yoruba orishas"
+  ]
+ },
+ "you": {
+  "also": [
+   [
+    "homophones",
+    1
+   ],
+   [
+    "rhymes with blue",
+    1
+   ],
+   [
+    "sounds like a letter",
+    1
+   ]
+  ],
+  "clash": []
+ },
+ "Yucatec Maya": {
+  "also": [],
+  "clash": [
+   "aztecs and maya"
+  ]
+ },
+ "yuck": {
+  "also": [
+   [
+    "disgust words",
+    1
+   ]
+  ],
+  "clash": []
+ },
+ "yum": {
+  "also": [
+   [
+    "baby talk",
+    2
+   ],
+   [
+    "eating sounds",
+    1
+   ]
+  ],
+  "clash": []
+ },
+ "zaijian": {
+  "also": [
+   [
+    "ways to say goodbye",
+    4
+   ]
+  ],
+  "clash": []
+ },
+ "Zapotec": {
+  "also": [
+   [
+    "ancient civilizations",
+    4
+   ]
+  ],
+  "clash": []
+ },
+ "zdravei": {
+  "also": [],
+  "clash": [
+   "greetings around the world"
+  ]
+ },
+ "zdravo": {
+  "also": [
+   [
+    "greetings around the world",
+    4
+   ]
+  ],
+  "clash": []
+ },
+ "zdravstvuyte": {
+  "also": [
+   [
+    "greetings around the world",
+    4
+   ]
+  ],
+  "clash": []
+ },
+ "zeugma": {
+  "also": [
+   [
+    "ancient sites of turkey",
+    4
+   ],
+   [
+    "poetry terms",
+    5
+   ],
+   [
+    "turkish landmarks",
+    4
+   ]
+  ],
+  "clash": []
+ },
+ "zounds": {
+  "also": [
+   [
+    "polite swears",
+    2
+   ]
+  ],
+  "clash": []
+ },
+ "Zulu": {
+  "also": [
+   [
+    "empires",
+    3
+   ]
+  ],
+  "clash": []
+ },
+ "à bientôt": {
+  "also": [
+   [
+    "ways to say goodbye",
+    3
+   ]
+  ],
+  "clash": [
+   "french phrases in english"
+  ]
+ },
+ "à plus tard": {
+  "also": [],
+  "clash": [
+   "french phrases in english"
+  ]
+ }
+}

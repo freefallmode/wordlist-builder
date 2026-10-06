@@ -3553,6 +3553,15 @@
    "soccer terms"
   ]
  },
+ "add": {
+  "also": [
+   [
+    "homophones",
+    2
+   ]
+  ],
+  "clash": []
+ },
  "multiply": {
   "also": [
    [
@@ -3647,6 +3656,15 @@
    [
     "hidden animals",
     3
+   ]
+  ],
+  "clash": []
+ },
+ "negation": {
+  "also": [
+   [
+    "grammar terms",
+    4
    ]
   ],
   "clash": []
@@ -10965,10 +10983,6 @@
     1
    ],
    [
-    "scientists",
-    1
-   ],
-   [
     "units named after people",
     1
    ],
@@ -11482,15 +11496,6 @@
   ],
   "clash": []
  },
- "Hooke": {
-  "also": [
-   [
-    "scientists",
-    2
-   ]
-  ],
-  "clash": []
- },
  "Huygens": {
   "also": [
    [
@@ -11576,10 +11581,6 @@
    [
     "places named after people",
     1
-   ],
-   [
-    "scientists",
-    1
    ]
   ],
   "clash": []
@@ -11602,10 +11603,6 @@
    [
     "old-fashioned names",
     3
-   ],
-   [
-    "scientists",
-    2
    ],
    [
     "scottish clan names",
@@ -11660,10 +11657,6 @@
    [
     "genetics words",
     2
-   ],
-   [
-    "scientists",
-    1
    ]
   ],
   "clash": [
@@ -11727,10 +11720,6 @@
   "also": [
    [
     "ancient rome",
-    3
-   ],
-   [
-    "scientists",
     3
    ]
   ],
@@ -19854,6 +19843,10 @@
    [
     "plant biology",
     2
+   ],
+   [
+    "school subjects",
+    3
    ]
   ],
   "clash": []
@@ -19913,7 +19906,9 @@
     3
    ]
   ],
-  "clash": []
+  "clash": [
+   "microbes"
+  ]
  },
  "physiology": {
   "also": [
@@ -19922,7 +19917,9 @@
     2
    ]
   ],
-  "clash": []
+  "clash": [
+   "medical specialties"
+  ]
  },
  "biochemistry": {
   "also": [
@@ -19941,6 +19938,12 @@
    ]
   ],
   "clash": []
+ },
+ "cell biology": {
+  "also": [],
+  "clash": [
+   "cell parts"
+  ]
  },
  "cytology": {
   "also": [
@@ -19964,6 +19967,12 @@
   ],
   "clash": []
  },
+ "mycology": {
+  "also": [],
+  "clash": [
+   "mushrooms"
+  ]
+ },
  "ornithology": {
   "also": [
    [
@@ -19980,7 +19989,21 @@
     3
    ]
   ],
-  "clash": []
+  "clash": [
+   "microbes",
+   "viruses"
+  ]
+ },
+ "bacteriology": {
+  "also": [
+   [
+    "medical specialties",
+    4
+   ]
+  ],
+  "clash": [
+   "microbes"
+  ]
  },
  "immunology": {
   "also": [
@@ -19990,6 +20013,18 @@
    ]
   ],
   "clash": []
+ },
+ "neurobiology": {
+  "also": [],
+  "clash": [
+   "brain parts"
+  ]
+ },
+ "evolutionary biology": {
+  "also": [],
+  "clash": [
+   "evolution words"
+  ]
  },
  "taxonomy": {
   "also": [
@@ -20040,6 +20075,30 @@
   ],
   "clash": []
  },
+ "oology": {
+  "also": [
+   [
+    "collecting hobbies",
+    4
+   ]
+  ],
+  "clash": []
+ },
+ "biotechnology": {
+  "also": [],
+  "clash": [
+   "engineering fields"
+  ]
+ },
+ "genomics": {
+  "also": [
+   [
+    "genetics words",
+    4
+   ]
+  ],
+  "clash": []
+ },
  "epigenetics": {
   "also": [
    [
@@ -20060,7 +20119,9 @@
     3
    ]
   ],
-  "clash": []
+  "clash": [
+   "hormones"
+  ]
  },
  "morphology": {
   "also": [
@@ -20093,6 +20154,10 @@
    [
     "rocks and minerals",
     2
+   ],
+   [
+    "school subjects",
+    4
    ]
   ],
   "clash": []
@@ -20104,7 +20169,10 @@
     2
    ]
   ],
-  "clash": []
+  "clash": [
+   "forecast words",
+   "weather"
+  ]
  },
  "oceanography": {
   "also": [
@@ -20113,7 +20181,9 @@
     3
    ]
   ],
-  "clash": []
+  "clash": [
+   "ocean"
+  ]
  },
  "seismology": {
   "also": [
@@ -20122,7 +20192,9 @@
     3
    ]
   ],
-  "clash": []
+  "clash": [
+   "earthquake words"
+  ]
  },
  "volcanology": {
   "also": [
@@ -20133,6 +20205,12 @@
   ],
   "clash": []
  },
+ "glaciology": {
+  "also": [],
+  "clash": [
+   "ice features"
+  ]
+ },
  "climatology": {
   "also": [
    [
@@ -20140,7 +20218,9 @@
     3
    ]
   ],
-  "clash": []
+  "clash": [
+   "climate words"
+  ]
  },
  "hydrology": {
   "also": [
@@ -20188,7 +20268,11 @@
     3
    ]
   ],
-  "clash": []
+  "clash": [
+   "archaeology",
+   "archaeology words",
+   "fossils"
+  ]
  },
  "geophysics": {
   "also": [
@@ -20211,6 +20295,18 @@
    ]
   ],
   "clash": []
+ },
+ "pedology": {
+  "also": [],
+  "clash": [
+   "soil words"
+  ]
+ },
+ "soil science": {
+  "also": [],
+  "clash": [
+   "soil words"
+  ]
  },
  "stratigraphy": {
   "also": [
@@ -20237,6 +20333,19 @@
    ]
   ],
   "clash": []
+ },
+ "speleology": {
+  "also": [],
+  "clash": [
+   "cave features"
+  ]
+ },
+ "gemology": {
+  "also": [],
+  "clash": [
+   "gemstones",
+   "jewelry"
+  ]
  },
  "planetary science": {
   "also": [
@@ -20265,6 +20374,13 @@
   ],
   "clash": []
  },
+ "double-slit": {
+  "also": [],
+  "clash": [
+   "light words",
+   "physics words"
+  ]
+ },
  "Stanford prison": {
   "also": [
    [
@@ -20272,7 +20388,15 @@
     3
    ]
   ],
-  "clash": []
+  "clash": [
+   "prison words"
+  ]
+ },
+ "Foucault pendulum": {
+  "also": [],
+  "clash": [
+   "clock parts"
+  ]
  },
  "Pavlov's dogs": {
   "also": [],
@@ -20320,7 +20444,9 @@
     3
    ]
   ],
-  "clash": []
+  "clash": [
+   "famous discoveries"
+  ]
  },
  "Trinity test": {
   "also": [
@@ -20344,6 +20470,18 @@
   ],
   "clash": []
  },
+ "Torricelli's tube": {
+  "also": [],
+  "clash": [
+   "measuring instruments"
+  ]
+ },
+ "Pasteur's flask": {
+  "also": [],
+  "clash": [
+   "lab glassware"
+  ]
+ },
  "cowpox": {
   "also": [
    [
@@ -20359,7 +20497,16 @@
     3
    ]
   ],
-  "clash": []
+  "clash": [
+   "famous discoveries"
+  ]
+ },
+ "Newton's prism": {
+  "also": [],
+  "clash": [
+   "famous discoveries",
+   "light words"
+  ]
  },
  "Mandela": {
   "also": [

@@ -12956,13 +12956,15 @@
 3
 ],
 [
+"hidden birds",
+3
+],
+[
 "sports verbs",
 2
 ]
 ],
-"clash": [
-"hidden birds"
-]
+"clash": []
 },
 "chamber": {
 "also": [
@@ -17992,6 +17994,12 @@
 ]
 ],
 "clash": []
+},
+"why": {
+"also": [],
+"clash": [
+"homophones"
+]
 },
 "oh": {
 "also": [
@@ -46305,6 +46313,15 @@
 [
 "ways to jump",
 1
+]
+],
+"clash": []
+},
+"peal": {
+"also": [
+[
+"homophones",
+2
 ]
 ],
 "clash": []
