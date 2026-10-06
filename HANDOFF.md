@@ -18,7 +18,7 @@ A client-side web app for generating themed wordlists for a word game. The outpu
 4. **Difficulty (1 to 5)** is currently a length-based guess and is editable per word. Real frequency scoring is planned but not built.
 5. **Stable theme IDs** are slugs of the theme name at creation and do not change on rename. This matters for the offline data file.
 6. **Localization-ready intent.** Concept IDs are intended to stay stable so per-language words can be added later. This is not implemented yet.
-7. **Deployment:** delivered as a single self-contained `wordlist-builder.html`, vanilla JS with no build step. It must be opened locally or hosted on a static site. It cannot run as a hosted claude.ai artifact, because that environment blocks requests to Wikidata, ConceptNet and the Anthropic API.
+7. **Deployment:** delivered as a single self-contained `index.html` (hosted on GitHub Pages), vanilla JS with no build step. It must be opened locally or hosted on a static site. It cannot run as a hosted claude.ai artifact, because that environment blocks requests to Wikidata, ConceptNet and the Anthropic API.
 
 ## Sources implemented
 | Source | How it works |
