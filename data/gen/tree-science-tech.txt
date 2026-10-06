@@ -1,0 +1,144 @@
+  chemistry:
+    chemical elements
+    lab equipment
+      lab glassware -- beaker, flask, test tube, pipette, burette, funnel, petri dish, measuring cylinder, condenser
+    chemistry words
+    states of matter -- the states and changes between them: solid, liquid, plasma, melting, evaporation, sublimation
+    gases
+    acids and bases
+    chemical compounds -- named compounds: water, ammonia, methane, glucose, ozone, carbon dioxide
+    chemical reactions -- combustion, oxidation, rusting, fermentation, electrolysis, neutralization
+    plastics -- nylon, polyester, PVC, acrylic, polystyrene, polyethylene, vinyl
+    household chemicals -- bleach, borax, ammonia, baking soda, vinegar, lye, turpentine
+  physics:
+    physics words
+    forces
+    energy types
+    electricity words
+    light words
+    magnet words
+    acoustics words -- science of sound: pitch, frequency, echo, decibel, amplitude, resonance, hertz
+    particle physics -- atom, proton, neutron, electron, quark, photon, neutrino, boson
+    nuclear words -- fission, fusion, reactor, uranium, half-life, radiation, chain reaction
+    heat science -- conduction, convection, insulation, thermal, calorie, joule, absolute zero
+  biology:
+    biology words
+    cell parts
+    genetics words
+    plant biology
+    microbes
+      viruses -- named viruses: flu, measles, rabies, polio, ebola, zika, smallpox
+    classification words
+    evolution words -- natural selection, adaptation, mutation, ancestor, species, extinction
+    ecology words -- ecosystem, food chain, predator, producer, decomposer, niche, symbiosis
+    life cycle words -- larva, pupa, chrysalis, tadpole, nymph, metamorphosis, seedling
+    microscope parts -- eyepiece, objective lens, stage, slide, coverslip, focus knob, nosepiece
+  space
+    planets -- include dwarf planets (Pluto, Ceres, Eris) to reach 12
+    moons
+    constellations
+    southern sky [region:Oceania] -- stars and objects seen from the south: Southern Cross, Canopus, Alpha Centauri, Magellanic Clouds
+    space missions
+    astronomy terms
+    stars -- named stars: Sirius, Vega, Polaris, Betelgeuse, Rigel, Antares
+      star types -- red dwarf, white dwarf, red giant, supergiant, neutron star, pulsar, supernova
+    space rocks -- asteroid, comet, meteor, meteorite, shooting star, fireball, Kuiper belt
+    spaceflight words -- launch, countdown, liftoff, orbit, docking, spacewalk, splashdown, payload
+    moon phases -- new, crescent, gibbous, full, waxing, waning, blue moon, supermoon
+    space telescopes -- Hubble, James Webb, Kepler, Spitzer, Chandra, Herschel, Gaia
+    galaxies and nebulae -- Milky Way, Andromeda, Orion Nebula, Crab Nebula, Whirlpool, Horsehead
+  math:
+    math terms
+    numbers
+    number types -- prime, odd, even, negative, integer, rational, irrational, square, imaginary
+    big numbers -- million, billion, trillion, googol, quintillion, zillion, lakh, crore
+    geometry
+      polygons -- triangle, pentagon, hexagon, octagon, decagon, rhombus, trapezoid
+      circle parts -- radius, diameter, circumference, arc, chord, sector, tangent
+      angle words -- acute, obtuse, right, reflex, straight, complementary, supplementary
+    fractions
+    math operations
+    algebra words -- variable, equation, formula, coefficient, exponent, polynomial, inequality
+    statistics words -- mean, median, mode, range, average, probability, sample, outlier
+    math tools -- protractor, compass, ruler, set square, calculator, abacus, slide rule
+  measurement
+    length units
+    weight units
+    volume units
+    temperature words
+    metric prefixes
+    measuring instruments -- meters and gauges: barometer, voltmeter, odometer, seismograph, anemometer
+    imperial units -- inch, foot, yard, mile, ounce, pound, stone, pint, gallon, acre
+    units named after people [property] -- units that are scientists' names: newton, joule, watt, volt, ohm, kelvin, hertz, pascal
+    old units -- cubit, furlong, league, fathom, rod, span, ell, bushel, peck, gill
+  science history:
+    scientists
+      women in science -- Curie, Lovelace, Franklin, Goodall, Hopper, Meitner, Noether, Carson
+      islamic golden age scholars [region:Middle East] -- Avicenna, al-Khwarizmi, al-Biruni, Ibn al-Haytham, al-Razi, Averroes
+      ancient greek thinkers [region:Europe] -- Aristotle, Archimedes, Euclid, Hippocrates, Ptolemy, Democritus
+      famous physicists -- Newton, Einstein, Galileo, Bohr, Feynman, Hawking, Faraday, Maxwell
+      famous naturalists -- Darwin, Linnaeus, Wallace, Audubon, Humboldt, Attenborough, Mendel
+    famous mathematicians -- Euclid, Pythagoras, Euler, Gauss, Fermat, Fibonacci, Turing, Leibniz
+    famous engineers -- Brunel, Watt, Stephenson, Eiffel, Tesla, the Wright brothers, Roebling
+    inventions
+      chinese inventions [region:Asia] -- paper, printing, compass, gunpowder, silk, porcelain, kite, paper money
+      japanese inventions [region:Asia] -- karaoke, emoji, instant noodles, bullet train, QR code, walkman
+      middle eastern inventions [region:Middle East] -- wheel, writing, plow, astrolabe, algebra, coffeehouse, glass
+      european inventions [region:Europe] -- printing press, telescope, steam engine, radio, jet engine, world wide web
+      american inventions [region:North America] -- telephone, light bulb, airplane, assembly line, internet, laser
+      australian inventions [region:Oceania] -- black box, wi-fi, cochlear implant, electric drill, ultrasound scanner, polymer banknotes
+      accidental inventions [property] -- invented by accident: microwave oven, penicillin, post-it note, velcro, x-ray, superglue
+    famous discoveries
+    science fields
+      branches of biology -- botany, zoology, ecology, genetics, anatomy, microbiology, entomology
+      earth sciences -- geology, meteorology, oceanography, seismology, volcanology, glaciology
+    famous experiments
+    nobel laureates -- famous Nobel Prize winners in any field: Einstein, Curie, Fleming, Mandela, Malala
+    inca engineering [region:South America] -- quipu, terraces, rope bridge, aqueduct, Inca road, stone walls
+  computers
+    computer parts
+      keyboard keys -- enter, shift, tab, escape, space bar, backspace, caps lock, delete
+    programming languages
+    coding words -- loop, variable, function, bug, debug, compile, syntax, array, algorithm
+    software words
+    internet words
+    networking
+    file types
+    cybersecurity words -- hacker, malware, phishing, firewall, password, encryption, ransomware, spyware
+    computer actions -- click, scroll, drag, copy, paste, save, upload, download, reboot, log in
+    tech companies
+      silicon valley companies [region:North America] -- Apple, Google, Intel, Nvidia, Netflix, Oracle, Adobe
+      asian tech companies [region:Asia] -- Samsung, Sony, Huawei, Alibaba, Toshiba, Panasonic, Xiaomi, Lenovo
+      european tech companies [region:Europe] -- Nokia, Ericsson, SAP, Philips, Siemens, Spotify, ASML
+  gadgets
+    handheld gadgets
+    phone features
+    robots
+    ai words
+    smart home
+    cameras
+    retro tech -- floppy disk, cassette, VHS, pager, walkman, fax machine, dial-up, punch card
+    wearable tech -- smartwatch, fitness tracker, VR headset, earbuds, smart glasses, hearing aid
+    audio gear -- headphones, speaker, amplifier, microphone, turntable, subwoofer, soundbar
+    display tech -- LCD, LED, OLED, plasma, CRT, touchscreen, projector, e-ink, 4K
+    battery types -- AA, AAA, 9-volt, button cell, lithium-ion, alkaline, power bank, car battery
+  engineering
+    simple machines -- the six simple machines plus everyday examples: lever, pulley, wedge, screw, ramp, seesaw, crowbar
+    engines -- engine kinds: diesel, steam, jet, rocket, turbine, rotary, two-stroke, V8
+    engineering fields
+    energy sources -- includes fossil and nuclear: coal, oil, gas, uranium, solar, wind, tidal
+      fuels -- petrol, diesel, kerosene, propane, butane, ethanol, charcoal, jet fuel
+    electronic parts
+    materials science
+      alloys -- steel, bronze, brass, pewter, solder, sterling silver, white gold
+    power grid words -- generator, transformer, pylon, substation, power line, turbine, grid
+  science places:
+    antarctic research station [place] [region:Antarctica] -- things at a polar base: ice core, weather balloon, snowcat, generator, radio
+    space station [place] -- airlock, solar panel, module, robotic arm, docking port, treadmill
+    observatory [place] -- telescope, dome, star chart, eyepiece, mount, astronomer
+    science lab [place] -- goggles, lab coat, fume hood, bunsen burner, specimen, eyewash
+    science fair [place] -- poster, volcano model, hypothesis, judge, ribbon, display board
+    launch pad [place] -- rocket, gantry, launch tower, fuel tank, countdown clock, flame trench
+    data center [place] -- server rack, cables, cooling fans, backup generator, router, raised floor
+    nuclear power plant [place] -- reactor, cooling tower, control rods, turbine, uranium, radiation suit
+    electronics workbench [place] -- soldering iron, multimeter, breadboard, oscilloscope, wire stripper, resistor

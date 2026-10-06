@@ -1,0 +1,186 @@
+  ancient civilizations
+    ancient egypt [region:Africa]
+      pharaohs [region:Africa]
+      egyptian afterlife [region:Africa] -- mummies, canopic jars, Book of the Dead, ka, ba, scarab, Duat
+    ancient greece [region:Europe]
+      greek philosophers
+      ancient olympics -- events, places and words of the ancient Games: stadion, pankration, laurel, Olympia
+    ancient rome [region:Europe]
+      roman life -- forum, toga, bathhouse, aqueduct, villa, senate, gladiator, chariot
+      roman army [adult]
+    aztecs and maya [region:North America]
+    inca empire [region:South America]
+    ancient china [region:Asia]
+    ancient india [region:Asia]
+    mesopotamia [region:Middle East]
+    ancient persia [region:Middle East]
+    feudal japan [region:Asia]
+    vikings [region:Europe]
+    byzantine empire [region:Turkey]
+    ottoman empire [region:Turkey]
+      ottoman sultans [region:Turkey]
+    celts [region:Europe]
+  medieval times
+    knights
+      orders of knighthood -- Templars, Hospitallers, Teutonic, Garter, Golden Fleece
+      knightly virtues [property] -- chivalry, honor, valor, loyalty, courtesy, piety
+    castles
+      castle parts -- keep, moat, drawbridge, portcullis, battlements, turret
+    medieval jobs
+    feudal ranks
+    medieval weapons [adult]
+    medieval food
+    medieval clothing
+    monastery [place]
+    heraldry
+    jousting tournament [place]
+    crusades [adult] [region:Middle East]
+    black death [adult]
+  exploration
+    explorers
+      conquistadors [adult] [region:South America]
+      portuguese explorers
+      australian explorers [region:Oceania]
+      explorers of africa [region:Africa]
+      great travelers -- pre-modern long-distance travelers: Marco Polo, Ibn Battuta, Zheng He, Xuanzang
+    navigation tools
+    polar exploration
+      antarctic explorers [region:Antarctica]
+      arctic explorers
+      expedition ships [region:Antarctica] -- polar expedition vessels: Endurance, Fram, Terra Nova, Discovery, Erebus
+      polar expedition gear [region:Antarctica]
+    astronauts
+    famous voyages
+    discoveries
+    silk road [region:Asia]
+    spice trade [region:Asia]
+    polynesian voyaging [region:Oceania]
+    age of sail
+  pirates
+    pirate words
+    famous pirates
+    treasure
+    pirate ships
+    pirate weapons
+    pirate places
+    pirate crew
+    pirate punishments [adult] -- walk the plank, keelhaul, maroon, flogging, cat o' nine tails
+  wars and battles [adult]
+    famous battles [adult]
+      ancient battles [adult]
+      medieval battles [adult]
+      napoleonic battles [adult]
+      world war i battles [adult]
+      world war ii battles [adult]
+      civil war battles [adult] [region:North America] -- American Civil War
+    armor
+    war words [adult]
+    siege weapons [adult]
+    soldiers of history [adult]
+    famous generals [adult]
+    cold war [adult]
+    world war ii terms [adult]
+    peace words
+  famous people
+    famous leaders
+      african historical leaders [region:Africa]
+      latin american liberators [region:South America]
+      founding fathers [region:North America]
+    monarchs
+      english monarchs [region:Europe]
+      french kings [region:Europe]
+      famous queens
+    emperors
+      roman emperors [region:Europe]
+      chinese emperors [region:Asia]
+    us presidents [region:North America]
+    inventors
+    reformers
+      civil rights figures [region:North America]
+      suffragists
+    famous women in history
+  archaeology
+    archaeology words
+    dig site [place]
+    ancient sites
+      ancient sites of turkey [region:Turkey]
+      ancient sites of the middle east [region:Middle East]
+      ancient sites of africa [region:Africa]
+      ancient sites of europe [region:Europe]
+      ancient sites of asia [region:Asia]
+      maya and aztec sites [region:North America]
+      andean sites [region:South America]
+    fossils
+    artifacts
+    tombs and burials
+    ancient writing
+    stone age
+    bronze age
+  mythology
+    greek gods [region:Europe]
+      titans
+      greek monsters
+      trojan war [region:Turkey]
+    roman gods [region:Europe]
+    norse gods [region:Europe]
+      norse mythology [region:Europe] -- places and things, not gods: Valhalla, Asgard, Yggdrasil, Ragnarok, Mjolnir
+    egyptian gods [region:Africa]
+    hindu gods [region:Asia]
+    mesopotamian gods [region:Middle East]
+    aztec gods [region:North America]
+    inca gods [region:South America]
+    shinto kami [region:Asia]
+    chinese mythology [region:Asia]
+    maori mythology [region:Oceania]
+    yoruba orishas [region:Africa]
+    celtic gods [region:Europe]
+    mythical creatures
+      sea monsters
+      winged beasts -- mythical creatures with wings: pegasus, griffin, phoenix, harpy, roc
+      shapeshifters
+      cryptids
+      undead -- vampire, zombie, mummy, ghoul, lich, revenant, draugr
+    greek heroes
+      labors of hercules -- the twelve labors: Nemean lion, Hydra, Augean stables, Cerberus
+    legendary places -- Atlantis, El Dorado, Avalon, Shangri-La, Camelot, Elysium
+  fantasy
+    fantasy races
+    magic items
+    wizard words
+    witchcraft
+    alchemy
+    dragons
+    fairy folk
+    legendary heroes
+      arthurian legend [region:Europe]
+      robin hood legend [region:Europe]
+  folklore
+    japanese folklore [region:Asia]
+      yokai [region:Asia]
+    celtic folklore [region:Europe]
+    african folklore [region:Africa]
+    slavic folklore [region:Europe]
+    native american folklore [region:North America]
+    latin american folklore [region:South America]
+    turkish folklore [region:Turkey] -- Nasreddin Hodja, Keloglan, Dede Korkut, Karagoz, Sahmeran, Tepegoz
+    arabian nights [region:Middle East]
+    aboriginal dreaming [region:Oceania]
+    american tall tales [region:North America]
+    ghosts and spirits
+    superstitions
+  historical periods
+    ages of history
+    revolutions
+      french revolution [region:Europe]
+      american revolution [region:North America]
+    dynasties
+      chinese dynasties [region:Asia]
+      royal houses -- Tudor, Stuart, Habsburg, Bourbon, Romanov, Plantagenet, Windsor
+    empires
+    industrial revolution
+    renaissance
+    victorian era [region:Europe]
+    wild west [region:North America]
+    colonial america [region:North America]
+    roaring twenties
+    historic documents -- Magna Carta, Domesday Book, Emancipation Proclamation, Code of Hammurabi

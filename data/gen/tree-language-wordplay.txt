@@ -1,0 +1,181 @@
+  languages
+    european languages
+      romance languages
+      germanic languages
+      slavic languages
+      celtic languages [region:Europe]
+    asian languages
+      languages of india [region:Asia]
+      languages of china [region:Asia]
+    african languages [region:Africa]
+    middle eastern languages [region:Middle East]
+    turkic languages [region:Turkey]
+    pacific languages [region:Oceania]
+    ancient languages
+    languages of the americas
+      native north american languages [region:North America]
+      indigenous south american languages [region:South America]
+    codes and signals
+  alphabets and writing
+    greek letters
+    phonetic alphabet
+    punctuation
+    keyboard symbols -- names of symbols on a keyboard: ampersand, tilde, caret, hashtag, asterisk
+    writing systems
+    handwriting words
+    typography words
+    fonts -- typeface names: Helvetica, Garamond, Arial, Futura
+  grammar
+    parts of speech
+    grammar terms
+    tenses
+    sentence parts
+    pronouns
+    prepositions
+    conjunctions
+    interjections
+    irregular past tenses -- the words themselves: went, swam, caught, flew
+    irregular plurals -- the words themselves: mice, geese, cacti, oxen
+    figures of speech
+    poetry forms
+  foreign words:
+    hello around the world -- hola, bonjour, konnichiwa, jambo, kia ora
+    thank you around the world -- gracias, merci, arigato, shukran, asante
+    goodbye around the world -- adios, ciao, sayonara, au revoir, kwaheri
+    spanish numbers [region:South America]
+    french phrases in english [region:Europe] -- deja vu, faux pas, rendezvous, c'est la vie
+    latin phrases -- carpe diem, status quo, ad hoc, bona fide
+    turkish everyday words [region:Turkey] -- merhaba, evet, hayir, tamam, cay, lokum
+    swahili words [region:Africa] -- jambo, asante, safari, karibu, rafiki, pole pole
+    hindi everyday words [region:Asia] -- namaste, accha, chai, jaldi, dhanyavaad, yaar
+    hawaiian words [region:Oceania] -- aloha, mahalo, ohana, luau, lei, keiki
+    maori words [region:Oceania] -- kia ora, haka, whanau, aroha, waka, kai
+  slang and sayings:
+    text speak -- lol, brb, omg, idk, tbh, smh
+    gen z slang -- rizz, sus, slay, no cap, bussin, mid
+    1920s slang -- bee's knees, swell, ritzy, flapper, giggle water
+    british slang [region:Europe] -- chuffed, knackered, gobsmacked, skint, quid
+    british english words [region:Europe] -- British words for everyday things: lorry, lift, crisps, nappy, jumper
+    scottish words [region:Europe] -- wee, bairn, loch, aye, braw, dreich, bonnie
+    cockney rhyming slang [region:Europe] -- apples and pears, dog and bone, porky pies
+    australian slang [region:Oceania] -- arvo, brekkie, ute, servo, esky, bogan, fair dinkum
+    canadian slang [region:North America] -- toque, loonie, toonie, double-double, hoser
+    cowboy slang [region:North America] -- howdy, yeehaw, varmint, greenhorn, buckaroo
+    baby talk -- tummy, choo-choo, boo-boo, night-night, binky, owie
+    old-fashioned insults -- nincompoop, nitwit, scallywag, numbskull, blockhead
+    polite swears -- gosh, darn, heck, crikey, blimey, drat, fiddlesticks
+    words meaning nonsense -- balderdash, poppycock, codswallop, hogwash, malarkey
+    silly-sounding words [property] -- words people find funny to say: kerfuffle, gobbledygook, bamboozle, skedaddle
+  words before:
+    ___ball [wordplay] -- words that come before "ball": foot, basket, snow, meat
+    ___fly [wordplay] -- words that come before "fly": butter, dragon, fire, house
+    ___house [wordplay] -- words that come before "house": light, green, farm, dog
+    ___board [wordplay] -- words that come before "board": key, skate, card, black
+    ___light [wordplay] -- words that come before "light": sun, moon, flash, spot
+    ___cake [wordplay] -- words that come before "cake": pan, cup, cheese, fish
+    ___man [wordplay] -- words that come before "man": snow, fire, post, police
+    ___box [wordplay] -- words that come before "box": post, lunch, sand, juke
+    ___book [wordplay] -- words that come before "book": note, cook, text, scrap
+    ___bird [wordplay] -- words that come before "bird": black, blue, humming, song
+    ___fish [wordplay] -- words that come before "fish": gold, sword, jelly, star
+    ___berry [wordplay] -- words that come before "berry": straw, blue, rasp, goose
+  words after:
+    fire___ [wordplay] -- words that come after "fire": works, place, man, fly
+    sun___ [wordplay] -- words that come after "sun": flower, shine, glasses, burn
+    sea___ [wordplay] -- words that come after "sea": horse, shell, weed, side
+    star___ [wordplay] -- words that come after "star": fish, light, dust, board
+    rain___ [wordplay] -- words that come after "rain": bow, coat, drop, forest
+    snow___ [wordplay] -- words that come after "snow": man, flake, ball, board
+    head___ [wordplay] -- words that come after "head": ache, line, phone, quarters
+    back___ [wordplay] -- words that come after "back": pack, yard, bone, fire
+    foot___ [wordplay] -- words that come after "foot": ball, print, step, note
+    hand___ [wordplay] -- words that come after "hand": bag, shake, cuff, writing
+    water___ [wordplay] -- words that come after "water": fall, melon, proof, color
+    black___ [wordplay] -- words that come after "black": board, bird, smith, mail
+  hidden words:
+    hidden animals [wordplay] -- an animal spelled inside a longer word: sCATter, pOWLer, bRATty
+      hidden birds [wordplay] -- a bird spelled inside a longer word: bOWL, cROWn, rEGRET, paTTERN
+      hidden insects [wordplay] -- an insect spelled inside a longer word: giANT, MOTHer, sTICKy, BUGle
+    hidden body parts [wordplay] -- a body part inside a longer word: CHINa, sHIP, bEARd
+    hidden colors [wordplay] -- a color inside a longer word: shREDded, TANgo, sTEALth
+    hidden numbers [wordplay] -- a number inside a longer word: lONEly, oFTEN, wEIGHT
+    hidden fruits [wordplay] -- a fruit inside a longer word: FIGure, sPEARs, sLIMEy, PLUMber
+    hidden names [wordplay] -- a first name inside a longer word: BENch, ANNoy, TOMato, EVEning
+    hidden vehicles [wordplay] -- a vehicle inside a longer word: sCARf, aBUSe, CABin, sTRAMp
+    hidden trees [wordplay] -- a tree inside a longer word: sOAK, hELMet, sPINE, sTEAK
+  sound-alikes:
+    sounds like a letter [wordplay] -- words that sound like a letter name: bee, sea, tea, eye, queue
+    sounds like a number [wordplay] -- words that sound like a number: won, too, for, ate, fore
+    homophones [wordplay] -- words that sound like another word but are spelled differently
+    homographs [wordplay] -- one spelling, two pronunciations: bass, bow, lead, tear, wind
+    rhymes with light [wordplay] -- kite, bite, white, height, byte
+    rhymes with bear [wordplay] -- chair, hair, pear, where, stare
+    rhymes with ring [wordplay] -- king, sing, wing, spring, thing
+    rhymes with blue [wordplay] -- shoe, two, glue, through, crew
+    rhymes with cake [wordplay] -- lake, snake, break, steak, ache
+    rhyming pairs [wordplay] -- rhyming two-part words: hocus pocus, helter skelter, walkie talkie
+    zigzag words [wordplay] -- two-part words that change only the vowel: zigzag, ping pong, tick tock, flip flop
+  letter play:
+    palindromes [wordplay] -- read the same backwards: level, radar, kayak, noon
+    reversible words [wordplay] -- spell a different word backwards: stressed, drawer, star, live
+    double letters [wordplay] -- words with two pairs of double letters: balloon, coffee, bookkeeper, committee
+    no vowels [wordplay] -- words without a, e, i, o, u: rhythm, myth, gym, lynx
+    all five vowels [wordplay] -- words containing a, e, i, o and u: education, sequoia, facetious
+    anagrams of each other [wordplay] -- each level uses one set of four mutual anagrams: listen, silent, enlist, tinsel
+    letters in alphabetical order [wordplay] -- letters run a to z: almost, first, ghost, begin
+    words made of roman numerals [wordplay] -- only the letters I V X L C D M: civic, vivid, mix, dim
+    ough words [wordplay] -- words spelled with "ough": cough, dough, through, thought
+    acronyms [wordplay] -- abbreviations said as a word: laser, scuba, radar, NASA
+    silent letter words [wordplay] -- words with a letter you don't pronounce: knife, lamb, island, psalm
+      silent k words [wordplay] -- knee, knife, knot, knight
+      silent b words [wordplay] -- lamb, thumb, debt, climb
+      silent w words [wordplay] -- write, wrist, sword, answer
+  word origins:
+    words from french [region:Europe] -- ballet, garage, menu, souvenir
+    words from spanish -- canyon, mosquito, tornado, patio
+    words from italian [region:Europe] -- piano, umbrella, balcony, volcano
+    words from german [region:Europe] -- kindergarten, hamster, wanderlust, angst
+    words from dutch [region:Europe] -- cookie, yacht, boss, landscape
+    words from yiddish -- klutz, schmooze, chutzpah, bagel, glitch
+    words from arabic [region:Middle East] -- algebra, coffee, sofa, magazine
+    words from persian [region:Middle East] -- bazaar, caravan, pajamas, paradise
+    words from turkish [region:Turkey] -- yogurt, kiosk, kebab, tulip, divan
+    words from hindi [region:Asia] -- shampoo, jungle, bungalow, bandana
+    words from japanese [region:Asia] -- tsunami, karaoke, emoji, tycoon
+    words from chinese [region:Asia] -- ketchup, typhoon, wok, kowtow, gung ho
+    words from afrikaans [region:Africa] -- aardvark, trek, meerkat, wildebeest
+    words from native american languages [region:North America] -- raccoon, moose, kayak, toboggan
+    words from nahuatl [region:North America] -- chocolate, tomato, avocado, coyote
+    words from south american languages [region:South America] -- jaguar, piranha, llama, quinoa
+    words from mythology -- panic, echo, atlas, cereal, nemesis
+    words named after people -- sandwich, cardigan, boycott, leotard, saxophone
+      flowers named after people -- magnolia, dahlia, begonia, poinsettia, fuchsia
+    words named after places -- jeans, denim, hamburger, marathon, bikini
+    brand names used as words -- facts about real brands: aspirin, escalator, zipper, trampoline, frisbee
+    portmanteau words [wordplay] -- two words blended: brunch, smog, motel, spork
+  names
+    girls' names
+    boys' names
+    unisex names -- Alex, Jordan, Taylor, Casey, Riley
+    biblical names -- Noah, Moses, Ruth, Esther, Isaac
+    old-fashioned names -- Mildred, Gertrude, Ethel, Herbert, Wilbur
+    short forms of names -- Bob, Bill, Peggy, Liz, Ted
+    names that are flowers
+    names that are gems
+    names that are months
+    names that are places
+    names that are virtues -- Hope, Faith, Grace, Patience, Prudence
+    names that are colors -- Scarlett, Violet, Hazel, Sienna, Indigo
+    names that are trees -- Ash, Willow, Rowan, Aspen, Juniper
+    names around the world:
+      turkish names [region:Turkey] -- Mehmet, Ayse, Elif, Emre, Zeynep
+      arabic names [region:Middle East] -- Omar, Fatima, Layla, Khalid, Yasmin
+      indian names [region:Asia] -- Priya, Arjun, Anjali, Rahul, Vikram
+      japanese names [region:Asia] -- Hiroshi, Yuki, Sakura, Kenji, Akira
+      latin american names [region:South America] -- Mateo, Camila, Santiago, Valentina
+      irish names [region:Europe] -- Niamh, Siobhan, Saoirse, Declan, Oisin
+      russian names [region:Europe] -- Ivan, Olga, Natasha, Dmitri, Svetlana
+    surnames:
+      surnames that are jobs [property] -- Smith, Baker, Cooper, Thatcher, Fletcher
+      scottish clan names [region:Europe] -- Campbell, MacDonald, Stewart, Fraser
+      chinese surnames [region:Asia] -- Wang, Li, Zhang, Chen, Liu

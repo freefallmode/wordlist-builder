@@ -1,0 +1,200 @@
+  countries
+    european countries
+      eastern european countries [region:Europe]
+      western european countries [region:Europe]
+    asian countries
+      middle eastern countries [region:Middle East]
+    african countries
+      west african countries [region:Africa]
+      east african countries [region:Africa]
+      southern african countries [region:Africa]
+    north american countries [region:North America] -- includes Central America and the Caribbean
+    south american countries [region:South America] -- includes French Guiana
+    oceanian countries [region:Oceania]
+    island nations [property]
+    landlocked countries [property]
+    tiny countries [property] -- microstates: Monaco, Vatican, San Marino, Nauru, Tuvalu
+    spanish-speaking countries [property]
+    french-speaking countries [property]
+    arabic-speaking countries [property] [region:Middle East]
+  cities
+    capital cities
+      european capitals [region:Europe]
+      asian capitals [region:Asia]
+      african capitals [region:Africa]
+    european cities [region:Europe]
+      british cities [region:Europe]
+      french cities [region:Europe]
+      german cities [region:Europe]
+      italian cities [region:Europe]
+      spanish cities [region:Europe]
+    turkish cities [region:Turkey]
+    middle eastern cities [region:Middle East]
+    asian cities [region:Asia]
+      chinese cities [region:Asia]
+      japanese cities [region:Asia]
+      indian cities [region:Asia]
+    american cities [region:North America] -- cities in the United States
+    canadian cities [region:North America]
+    south american cities [region:South America]
+    african cities [region:Africa]
+    oceanian cities [region:Oceania]
+      australian cities [region:Oceania]
+      new zealand cities [region:Oceania]
+    port cities [property]
+    holy cities -- pilgrimage cities: Mecca, Jerusalem, Varanasi, Lhasa, Lourdes
+    silk road cities [region:Asia] -- Samarkand, Bukhara, Kashgar, Xi'an, Merv, Tabriz
+    ancient cities -- cities of antiquity: Troy, Babylon, Carthage, Sparta, Ur, Petra
+  regions
+    us states [region:North America]
+    canadian provinces [region:North America] -- provinces and territories
+    mexican states [region:North America]
+    australian states and regions [region:Oceania] -- states, territories and well-known regions: Outback, Kimberley, Top End, Gold Coast
+    english counties [region:Europe]
+    french regions [region:Europe] -- current and traditional: Brittany, Normandy, Provence, Alsace
+    spanish regions [region:Europe]
+    italian regions [region:Europe]
+    german states [region:Europe]
+    indian states [region:Asia]
+    european holiday regions [region:Europe] -- Tuscany, Provence, Algarve, Cotswolds, Amalfi Coast, Dalmatia
+    turkish resorts [region:Turkey] -- Bodrum, Antalya, Fethiye, Cappadocia, Marmaris, Kas
+    wine regions [adult] -- Bordeaux, Champagne, Rioja, Napa, Tuscany, Barossa
+  famous natural features
+    mountain ranges
+    famous mountains
+      alpine peaks [region:Europe]
+      himalayan peaks [region:Asia]
+      famous volcanoes
+    famous deserts
+    famous islands
+      caribbean islands [region:North America]
+      greek islands [region:Europe]
+      pacific islands [region:Oceania]
+      indonesian islands [region:Asia]
+    famous beaches -- Bondi, Copacabana, Waikiki, Malibu, Ipanema, Whitehaven
+    peninsulas -- Iberian, Arabian, Korean, Crimea, Yucatan, Jutland, Sinai
+    antarctic places [region:Antarctica] -- South Pole, Ross Sea, Weddell Sea, McMurdo, Mount Erebus, Vinson Massif
+  famous waters
+    famous rivers
+      african rivers [region:Africa]
+      asian rivers [region:Asia]
+      european rivers [region:Europe]
+      north american rivers [region:North America]
+      south american rivers [region:South America]
+    famous lakes
+    famous waterfalls
+    straits and canals -- Bosporus, Gibraltar, Hormuz, Malacca, Bering, Suez, Panama
+    gulfs and bays -- Persian Gulf, Bay of Bengal, Hudson Bay, Bay of Biscay, Gulf of Mexico
+    oceans and seas
+  landmarks
+    famous buildings
+    famous bridges
+    famous towers
+    famous statues
+    famous palaces
+    famous castles -- named castles: Windsor, Neuschwanstein, Edinburgh, Bran, Himeji
+    ancient wonders -- the Seven Wonders of the Ancient World and the New Seven Wonders
+    famous squares -- Times Square, Red Square, Trafalgar, Tiananmen, Taksim, Zocalo
+    famous streets -- Broadway, Champs-Elysees, Fifth Avenue, Wall Street, Istiklal, Las Ramblas
+    famous museums
+    famous temples -- Angkor Wat, Borobudur, Golden Temple, Karnak, Parthenon
+    famous mosques [region:Middle East]
+    famous churches [region:Europe] -- cathedrals, abbeys and churches
+  landmarks by place:
+    turkish landmarks [region:Turkey] -- outside Istanbul: Cappadocia, Pamukkale, Ephesus, Troy, Mount Nemrut
+    egyptian landmarks [region:Africa]
+    african landmarks [region:Africa] -- outside Egypt: Kilimanjaro, Victoria Falls, Table Mountain, Timbuktu
+    indian landmarks [region:Asia]
+    chinese landmarks [region:Asia]
+    japanese landmarks [region:Asia]
+    australian landmarks [region:Oceania]
+    new zealand landmarks [region:Oceania]
+    south american landmarks [region:South America]
+    mexican landmarks [region:North America]
+    us landmarks [region:North America]
+    canadian landmarks [region:North America]
+    city sights:
+      istanbul landmarks [region:Turkey]
+      london landmarks [region:Europe]
+      paris landmarks [region:Europe]
+      rome landmarks [region:Europe]
+      new york landmarks [region:North America]
+  maps and globes
+    continents and supercontinents -- Africa, Asia, Europe, Eurasia, Oceania, Pangaea, Gondwana, Laurasia
+    world regions -- Middle East, Far East, Balkans, Scandinavia, Caribbean, Patagonia
+    lines on a map
+    map words
+    kinds of maps -- road map, atlas, globe, chart, street plan, relief map
+    compass directions -- the 16 points of the compass
+  flags of the world:
+    flags with stars [property] -- country names: USA, China, Brazil, Turkey, Vietnam, Chile
+    flags with crescents [property] -- Turkey, Pakistan, Algeria, Tunisia, Malaysia, Azerbaijan
+    flags with crosses [property] -- UK, Switzerland, Denmark, Norway, Sweden, Greece
+    red and white flags [property] -- Japan, Canada, Poland, Switzerland, Austria, Peru
+    tricolor flags [property] -- France, Italy, Ireland, Germany, Russia, Mexico
+    flag words -- flagpole, banner, pennant, ensign, canton, half-mast
+  place names:
+    nationalities -- Dutch, Thai, Welsh, Swiss, Greek, Peruvian
+    city demonyms -- Liverpudlian, Glaswegian, Parisian, Muscovite, Angeleno, Viennese
+    old country names -- Persia, Siam, Ceylon, Burma, Zaire, Rhodesia, Abyssinia
+    old city names -- Constantinople, Bombay, Peking, Leningrad, Saigon, Edo, Smyrna
+    places named after people [property] -- Washington, Bolivia, Victoria, Darwin, Houston, Tasmania
+    foods named after places [property] -- the place names: Cheddar, Hamburg, Dijon, Parma, Champagne, Bologna
+    places that are also words [wordplay] -- Turkey, Chile, Nice, Reading, Bath, Split, Cork, Mobile
+    countries ending in ia [wordplay] -- Australia, India, Russia, Colombia, Bolivia, Malaysia
+    places after new [wordplay] -- places that follow "New": York, Delhi, Zealand, Orleans, Jersey
+  everyday places:
+    farm [place]
+    restaurant [place]
+    supermarket [place]
+    post office [place]
+    library [place]
+    cafe [place]
+    bakery [place]
+    hair salon [place]
+    street market [place]
+  workplaces:
+    hospital [place]
+    fire station [place]
+    police station [place]
+    office [place]
+    factory [place]
+    construction site [place]
+    vet clinic [place]
+    dentist's office [place]
+  places to visit:
+    zoo [place]
+    beach [place]
+    airport [place]
+    museum [place]
+    art gallery [place]
+    aquarium [place]
+    movie theater [place]
+    swimming pool [place]
+    ski resort [place]
+  buildings
+    houses and homes
+    traditional dwellings -- igloo, yurt, tepee, longhouse, hogan, rondavel, trullo
+    religious buildings
+    public buildings
+    farm buildings
+    industrial buildings -- factory, warehouse, mill, refinery, silo, foundry, power station
+    shops
+    towers and skyscrapers -- kinds of tower: lighthouse, minaret, belfry, spire, pagoda, watchtower
+    middle eastern buildings [region:Middle East] -- souk, bazaar, minaret, hammam, caravanserai, riad, kasbah
+    east asian buildings [region:Asia] -- pagoda, stupa, shrine, teahouse, dojo, ryokan, hanok
+  streets and roads
+    road types
+    street names -- common generic names: Main, High, Church, Elm, Park, Station, Mill
+    street furniture
+    traffic words
+    parts of a road
+    parts of a town
+    kinds of settlements -- hamlet, village, town, city, suburb, metropolis, borough
+  national symbols
+    national animals
+    national flowers
+    national dishes
+    national sports
+    national instruments
+    national costumes

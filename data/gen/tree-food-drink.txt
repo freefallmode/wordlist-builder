@@ -1,0 +1,183 @@
+  fruits
+    citrus fruits
+    berries
+    tropical fruits
+    stone fruits
+    melons
+    dried fruits
+    apple varieties
+    asian fruits [region:Asia] -- lychee, durian, rambutan, mangosteen, longan, yuzu
+    nuts -- culinary nuts: almond, cashew, pecan, walnut, pistachio, peanut
+  vegetables
+    root vegetables
+    leafy greens
+    squashes
+    beans and pulses
+    onion family
+    cabbage family
+    mushrooms
+    andean crops [region:South America] -- first grown in South America: potato, quinoa, cassava, oca, peanut
+  meat and seafood
+    cuts of meat
+    poultry
+    game meats -- venison, rabbit, pheasant, boar, quail, grouse, bison
+    sausages
+    cured meats
+    shellfish
+    fish to eat
+    seafood dishes -- fish and chips, clam chowder, crab cakes, lobster roll, calamari, scampi
+    barbecue foods -- brisket, ribs, pulled pork, burnt ends, wings, corn on the cob
+    butcher shop [place]
+  dairy and eggs
+    cheeses
+      hard cheeses
+      soft cheeses
+      blue cheeses
+      french cheeses [region:Europe]
+      italian cheeses [region:Europe]
+    milk products
+    types of milk -- whole, skim, oat, almond, soy, goat, buttermilk, condensed
+    egg dishes
+    cheese dishes -- fondue, raclette, mac and cheese, grilled cheese, quesadilla, welsh rarebit
+    cheesemaking words -- curd, whey, rennet, rind, wheel, brine, aging, culture
+  breads and baking
+    breads
+      flatbreads -- pita, naan, tortilla, lavash, chapati, injera, pide, yufka, arepa
+    pastries
+      french pastries [region:Europe]
+    cakes
+    cookies
+    pies and tarts
+    baking ingredients
+    flours -- plain, self-rising, bread, whole wheat, rye, spelt, almond, rice, buckwheat
+  desserts and sweets
+    ice cream flavors
+    frozen desserts -- sorbet, gelato, sundae, popsicle, granita, frozen yogurt, kulfi
+    puddings
+    candy
+    chocolates
+    desserts of the world
+      indian sweets [region:Asia] -- gulab jamun, jalebi, barfi, ladoo, rasgulla, kheer
+    toppings
+    sweeteners -- sugar, honey, maple syrup, agave, molasses, stevia, treacle, jaggery
+  pasta, rice and grains
+    pasta shapes
+    pasta dishes -- carbonara, lasagna, bolognese, alfredo, cacio e pepe, puttanesca
+    noodles
+      noodle dishes [region:Asia] -- pad thai, ramen, pho, chow mein, laksa, japchae, yakisoba
+    rice dishes
+    grains
+    breakfast cereals
+    dumplings
+  herbs, spices and sauces
+    herbs
+    spices
+    spice blends
+    chili peppers
+    sauces and condiments
+      french sauces [region:Europe] -- béchamel, hollandaise, velouté, béarnaise, beurre blanc, mornay
+      asian sauces [region:Asia] -- soy, oyster, fish, hoisin, teriyaki, gochujang, ponzu, sambal
+      salad dressings -- ranch, vinaigrette, caesar, thousand island, honey mustard, green goddess
+    dips -- hummus, guacamole, salsa, tzatziki, baba ganoush, queso, raita
+    spreads -- jam, marmalade, peanut butter, Nutella, Marmite, Vegemite, lemon curd, pâté
+    pickles and preserves
+    oils and vinegars -- olive, sesame, canola, coconut, balsamic, malt, cider, rice vinegar
+  dishes
+    soups
+    stews -- goulash, chili, cassoulet, tagine, gumbo, bourguignon, stroganoff, hotpot
+    salads
+    sandwiches
+    fast food
+    breakfast foods
+    snacks
+    street food
+    potato dishes -- fries, mashed, hash browns, gratin, rosti, latkes, tater tots, gnocchi
+    savory pies -- shepherd's pie, pot pie, pork pie, quiche, pasty, empanada, tourtière, börek
+    pizza styles -- margherita, pepperoni, hawaiian, neapolitan, deep-dish, calzone, diavola
+    pizza toppings
+  cuisines
+    european food [region:Europe]
+      italian food [region:Europe]
+      french food [region:Europe]
+      spanish food [region:Europe]
+      british food [region:Europe] -- fish and chips, sunday roast, toad in the hole, scotch egg, crumpets
+      greek food [region:Europe] -- moussaka, souvlaki, gyros, spanakopita, dolmades, pastitsio
+      german food [region:Europe] -- sauerkraut, pretzel, schnitzel, spätzle, strudel, sauerbraten
+      eastern european food [region:Europe] -- pierogi, borscht, goulash, kielbasa, blini, pelmeni
+    turkish food [region:Turkey]
+      turkish breakfast [region:Turkey] -- simit, menemen, sucuk, beyaz peynir, kaymak, gözleme, çay
+      kebab types [region:Turkey] -- adana, urfa, iskender, döner, şiş, beyti, cağ kebab
+      turkish drinks [region:Turkey] -- çay, ayran, turkish coffee, salep, boza, şalgam, sherbet
+    middle eastern food [region:Middle East]
+      meze [region:Middle East] -- small shared plates: hummus, tabbouleh, dolma, muhammara, falafel
+      persian food [region:Middle East] -- tahdig, ghormeh sabzi, fesenjan, koobideh, ash reshteh
+    african food [region:Africa]
+      north african food [region:Africa] -- couscous, tagine, harira, shakshuka, merguez, b'stilla, brik
+      west african food [region:Africa] -- jollof rice, fufu, egusi, suya, banku, puff-puff, moi moi
+      east african food [region:Africa] -- injera, ugali, nyama choma, sukuma wiki, mandazi, kitfo
+      south african food [region:Africa] -- bobotie, biltong, boerewors, bunny chow, chakalaka, pap
+    asian food [region:Asia]
+      indian food [region:Asia]
+      chinese food [region:Asia]
+      japanese food [region:Asia]
+      sushi types [region:Asia] -- nigiri, maki, sashimi, temaki, uramaki, chirashi, inari
+      korean food [region:Asia] -- kimchi, bibimbap, bulgogi, tteokbokki, japchae, kimbap
+      thai food [region:Asia]
+      vietnamese food [region:Asia] -- pho, banh mi, goi cuon, bun cha, com tam, banh xeo
+      filipino food [region:Asia] -- adobo, sinigang, lechon, lumpia, pancit, sisig, kare-kare
+    oceanian food [region:Oceania]
+      australian food [region:Oceania] -- lamington, pavlova, meat pie, damper, anzac biscuit, fairy bread
+      bush tucker [region:Oceania] -- Australian native foods: witchetty grub, wattleseed, finger lime, quandong
+      pacific islands food [region:Oceania] -- taro, poi, kokoda, palusami, breadfruit, kalua pig, umu
+    expedition rations [region:Antarctica] -- polar and expedition food: pemmican, hardtack, freeze-dried meals, cocoa
+    south american food [region:South America]
+      peruvian food [region:South America] -- ceviche, lomo saltado, anticuchos, causa, ají de gallina
+      brazilian food [region:South America] -- feijoada, pão de queijo, coxinha, moqueca, farofa, açaí
+      argentinian food [region:South America] -- asado, empanadas, chimichurri, milanesa, choripán, locro
+      south american drinks [region:South America] -- non-alcoholic: mate, chicha morada, Inca Kola, guaraná
+    north american food [region:North America]
+      mexican food [region:North America]
+      southern food [region:North America] -- US South: grits, fried chicken, hush puppies, collard greens, biscuits
+      canadian food [region:North America] -- poutine, butter tarts, nanaimo bars, tourtière, bannock
+  drinks
+    hot drinks
+    teas
+    coffee drinks
+      coffee words -- bean, roast, grind, barista, crema, arabica, robusta, decaf, moka pot
+    soft drinks
+    juices
+    asian drinks [region:Asia] -- non-alcoholic: bubble tea, matcha, lassi, chai, thai iced tea, teh tarik
+    cocktails [adult]
+    wines [adult]
+      red wines [adult] -- grapes and styles: merlot, pinot noir, shiraz, malbec, chianti, rioja
+      white wines [adult] -- chardonnay, sauvignon blanc, riesling, pinot grigio, chablis, sancerre
+      wine words [adult] -- vintage, cork, sommelier, tannin, bouquet, decant, cellar, terroir
+    beers [adult]
+    spirits [adult]
+      liqueurs [adult] -- amaretto, cointreau, limoncello, sambuca, chartreuse, triple sec
+      national spirits [adult] -- a country's signature spirit: ouzo, rakı, tequila, soju, pisco, cachaça
+  cooking
+    cooking methods
+    ways to cut food
+    cookware
+    kitchen utensils
+    baking words
+    ways to preserve food -- smoking, salting, pickling, canning, freezing, drying, curing, fermenting
+    in the pantry [place]
+    lunchbox [place]
+    picnic basket [place]
+  eating out:
+    restaurant words
+    kitchen brigade -- restaurant kitchen roles: head chef, sous chef, pastry chef, line cook, commis
+    courses of a meal -- appetizer, starter, entrée, main, side, dessert, amuse-bouche, digestif
+    meals of the day -- breakfast, brunch, lunch, dinner, supper, elevenses, afternoon tea
+    table setting -- fork, knife, napkin, placemat, charger, wine glass, salad fork, napkin ring
+    diner [place]
+    fairground food [place]
+  food properties:
+    fermented foods [property] -- kimchi, sauerkraut, yogurt, miso, kefir, kombucha, tempeh
+    deep-fried foods [property] -- doughnut, tempura, falafel, churros, onion rings, hush puppies
+    stuffed foods [property] -- food with a filling: ravioli, burrito, samosa, empanada, dolma, pierogi
+    foods on a stick [property] -- kebab, corn dog, lollipop, popsicle, satay, candy apple, yakitori
+    foods with shells [property] -- eaten from or with a shell: egg, pistachio, crab, oyster, coconut, peanut
+    foods named after people [wordplay] -- name comes from a person: beef wellington, eggs benedict, pavlova, nachos

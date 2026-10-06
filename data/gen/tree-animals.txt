@@ -1,0 +1,172 @@
+  mammals
+    big cats
+    small wild cats
+    primates
+      monkeys
+    rodents
+    whales and dolphins
+    marsupials
+    hoofed mammals
+      deer
+      antelopes
+      wild cattle
+      wild goats and sheep
+    bears
+    wild dogs and foxes
+    weasel family
+    bats
+  birds
+    birds of prey
+      owls
+      eagles
+      vultures
+    seabirds
+    songbirds
+      finches
+    waterbirds
+      ducks
+      geese and swans
+      wading birds
+    flightless birds
+    parrots
+    game birds
+    colorful birds [property] -- birds known for bright plumage: peacock, toucan, macaw, kingfisher
+    bird body parts
+    birdwatching words
+  reptiles and amphibians
+    snakes
+      venomous snakes
+      constrictor snakes
+    lizards
+    turtles and tortoises
+    crocodilians
+    frogs and toads
+    salamanders and newts
+  fish
+    freshwater fish
+      salmon and trout
+    sea fish
+      flatfish
+    sharks
+    tropical fish
+    rays and eels
+    deep sea fish
+    fish body parts
+  sea life
+    crustaceans
+    mollusks
+      cephalopods -- octopus, squid, cuttlefish, nautilus and their kinds
+    sea mammals
+      seals and sea lions
+    reef life
+    jellyfish and relatives
+    seaweeds
+    tide pool life [place]
+    ocean giants [property] -- the largest sea creatures: blue whale, whale shark, giant squid, manta ray
+  insects and bugs
+    beetles
+    butterflies and moths
+    bees and wasps
+    spiders
+    garden bugs
+    insect body parts
+    biting bugs [property] -- bugs that bite or suck blood: mosquito, flea, tick, bedbug
+    insect life cycle
+  domestic animals
+    farm animals
+    pets
+      small pets
+      pet supplies
+    dog breeds
+      terriers
+      hounds
+      toy dogs
+      herding dogs
+      working dogs
+      sporting dogs -- retrievers, spaniels, setters, pointers
+    cat breeds
+    cattle breeds
+    chicken breeds
+    sheep breeds
+    working animals -- animals that do jobs for people: guide dog, sled dog, ox, camel
+  horses
+    horse breeds
+    pony breeds
+    horse colors
+    horse tack
+    parts of a horse
+    horse family -- horse, donkey, zebra, mule, onager, kiang
+  animals of the world:
+    african animals [region:Africa]
+      african birds [region:Africa]
+      madagascar animals [region:Africa]
+    middle eastern animals [region:Middle East]
+    turkish animals [region:Turkey]
+    asian animals [region:Asia]
+      indian animals [region:Asia]
+      himalayan animals [region:Asia]
+      japanese animals [region:Asia]
+      southeast asian animals [region:Asia]
+    australian animals [region:Oceania]
+      australian birds [region:Oceania]
+      new zealand animals [region:Oceania]
+    antarctic animals [region:Antarctica]
+      penguins [region:Antarctica]
+    south american animals [region:South America]
+      amazon animals [region:South America]
+      andean animals [region:South America]
+      galapagos animals [region:South America]
+    north american animals [region:North America]
+      north american birds [region:North America]
+      everglades animals [region:North America]
+    european animals [region:Europe]
+      british wildlife [region:Europe]
+      alpine animals [region:Europe]
+    arctic animals
+  animal habitats:
+    pond life [place]
+    woodland animals [place]
+    desert animals [place]
+    rainforest animals [place]
+    savanna animals [place]
+    mountain animals [place]
+    city animals [place] -- wildlife living in towns: pigeon, rat, fox, raccoon
+  animal traits:
+    nocturnal animals [property] -- active at night: owl, bat, hedgehog, aye-aye
+    venomous animals [property] -- inject venom by bite or sting: cobra, scorpion, stonefish, box jellyfish
+    hibernating animals [property] -- sleep through winter: dormouse, bear, hedgehog, marmot
+    migrating animals [property] -- make long seasonal journeys: swallow, wildebeest, monarch butterfly, salmon
+    striped animals [property] -- zebra, tiger, okapi, bumblebee
+    spotted animals [property] -- leopard, cheetah, dalmatian, ladybug
+    black and white animals [property] -- zebra, panda, skunk, orca
+    animals with horns [property] -- true horns or antlers: rhino, ibex, deer, buffalo
+    animals with tusks [property] -- elephant, walrus, warthog, narwhal
+    animals with shells [property] -- turtle, snail, crab, armadillo
+    burrowing animals [property] -- dig homes underground: mole, rabbit, meerkat, wombat
+    camouflaged animals [property] -- blend into surroundings: chameleon, stick insect, flounder, ptarmigan
+    scavengers [property] -- eat dead remains: vulture, hyena, jackal, crow
+    pollinators [property] -- carry pollen between flowers: bee, butterfly, hummingbird, bat
+    fast animals [property] -- among the fastest runners, fliers or swimmers: cheetah, falcon, sailfish, pronghorn
+  prehistoric life
+    dinosaurs
+      meat-eating dinosaurs
+      plant-eating dinosaurs
+    flying reptiles
+    sea reptiles
+    ice age animals
+    extinct animals
+    prehistoric periods
+    dinosaur words
+  animal words
+    baby animals
+    animal homes
+    animal sounds
+    collective nouns
+    male animals
+    female animals
+    animal body parts
+    animal movements -- ways animals move: slither, waddle, gallop, scurry
+    animal coverings -- fur, feathers, scales, quills
+    animal adjectives -- feline, canine, equine, bovine
+    animal experts -- zoologist, ornithologist, entomologist, vet
+    animal diets -- carnivore, herbivore, omnivore, scavenger

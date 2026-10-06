@@ -1,0 +1,149 @@
+  trees
+    deciduous trees
+    evergreen trees
+    fruit trees
+    nut trees
+    tropical trees
+    tree parts
+    types of wood
+    hedge plants -- shrubs and trees grown as hedges: privet, box, yew, hawthorn, beech, laurel
+    things that fall from trees [property] -- leaves, acorns, conkers, pine cones, sycamore keys, blossom, sap
+    trees of the world:
+      african trees [region:Africa]
+      asian trees [region:Asia]
+      australian trees [region:Oceania]
+      south american trees [region:South America]
+      north american trees [region:North America]
+      mediterranean trees [region:Europe]
+  forests
+    woodland [place]
+    forest floor [place] -- what lies on the ground in a forest: moss, leaf litter, fungi, ferns, beetles
+    woodland features -- clearing, glade, thicket, canopy, undergrowth, stump, trail
+    forest types -- boreal, cloud forest, mangrove, temperate, coniferous, bamboo forest
+    famous forests -- Black Forest, Sherwood, Amazon, Daintree, Bialowieza, Sundarbans
+    forestry words -- logging, lumberjack, sawmill, timber, felling, coppice, plantation
+    wildfire words -- blaze, embers, firebreak, smoke jumper, backburn, bushfire
+  flowers
+    garden flowers
+    wildflowers
+    spring flowers
+    summer flowers
+    tropical flowers
+    flower parts
+    bouquet flowers
+    edible flowers -- nasturtium, borage, violet, calendula, elderflower, squash blossom
+    flowers with animal names [wordplay] -- flower names containing an animal: foxglove, larkspur, tiger lily, snapdragon, cowslip
+    flowers of the world:
+      anatolian flowers [region:Turkey] -- flowers native to or iconic in Turkey: tulip, hyacinth, crocus, cyclamen, fritillary
+      south african flowers [region:Africa] -- protea, strelitzia, agapanthus, freesia, clivia, gerbera
+      flowers of east asia [region:Asia] -- cherry blossom, lotus, chrysanthemum, peony, camellia, wisteria
+      australian wildflowers [region:Oceania] -- kangaroo paw, waratah, wattle, banksia, flannel flower
+      south american flowers [region:South America] -- passionflower, fuchsia, alstroemeria, bromeliad, heliconia
+      alpine flowers [region:Europe] -- edelweiss, gentian, alpine rose, saxifrage, pasqueflower
+  plants
+    houseplants
+    cacti and succulents
+    vines and climbers
+    water plants
+    poisonous plants
+    plant parts
+    grasses and reeds -- bamboo, pampas, papyrus, sedge, rush, cattail, marram, fescue
+    medicinal plants -- aloe vera, ginseng, echinacea, valerian, witch hazel, feverfew, arnica
+    weeds -- dandelion, nettle, thistle, bindweed, dock, chickweed, ragwort, knotweed
+    fiber plants [property] -- plants grown for fiber: cotton, flax, hemp, jute, sisal, coir, abaca
+    plants of the world:
+      plants of the middle east [region:Middle East] -- date palm, cedar of Lebanon, frankincense, myrrh, henna, tamarisk
+      new zealand plants [region:Oceania] -- kauri, pohutukawa, silver fern, manuka, kowhai, harakeke
+  garden
+    garden tools
+    garden features
+    garden pests
+    garden furniture
+    garden birds
+    gardening verbs
+    garden styles -- rock garden, cottage garden, kitchen garden, zen garden, knot garden, walled garden
+    famous gardens -- Kew, Versailles, Keukenhof, Giverny, Butchart, Kirstenbosch, Boboli
+    japanese garden [place] [region:Asia] -- koi, bonsai, stone lantern, raked gravel, moss, teahouse, stepping stones
+  landscapes
+    mountain features
+    river features
+    desert features
+    ice features
+    cave features
+    flat landscapes -- plain, plateau, prairie, steppe, tundra, moor, heath, fen, veld, pampas
+    bodies of water -- lake, pond, lagoon, reservoir, loch, tarn, fjord, bay, gulf, estuary, sound
+    scottish landscape words [region:Europe] -- glen, loch, ben, burn, brae, firth, strath, corrie, munro
+    cappadocia [place] [region:Turkey] -- fairy chimneys, hot air balloons, cave hotels, tuff, underground city, pigeon houses
+  seashore:
+    seashells -- cowrie, conch, scallop, cockle, whelk, clam, abalone, nautilus, limpet, sand dollar
+    rock pool [place] -- crab, starfish, limpet, anemone, barnacle, periwinkle, shrimp, blenny
+    beachcombing finds -- driftwood, sea glass, shells, pebbles, mermaid's purse, cuttlebone, kelp
+    coastal features
+    coastal plants -- marram grass, sea holly, samphire, thrift, sea kale, sea lavender, mangrove
+    tides and currents
+    shipwreck coast words -- lighthouse, reef, rocks, wreck, shoal, sandbank, breakers, foghorn
+  weather
+    rain words
+    wind words
+    storms
+    cloud types
+    snow and ice
+    weather instruments
+    named winds -- mistral, sirocco, chinook, foehn, bora, harmattan, khamsin, santa ana, haboob
+    forecast words -- front, pressure, isobar, humidity, outlook, dew point, wind chill, visibility
+    sky phenomena -- rainbow, aurora, halo, sundog, moonbow, mirage, green flash, crepuscular rays
+    antarctic weather [region:Antarctica] -- blizzard, whiteout, katabatic wind, diamond dust, polar night, sastrugi
+  seasons in nature:
+    signs of spring [property] -- buds, blossom, lambs, catkins, frogspawn, nesting, daffodils
+    signs of summer [property] -- long days, heat haze, ripe berries, bees, hay, thunderstorms, sunflowers
+    signs of autumn [property] -- falling leaves, acorns, conkers, migration, frost, fungi, harvest
+    signs of winter [property] -- frost, icicles, bare trees, hibernation, snow, short days, holly
+    nature at night [property] -- owls, bats, moths, fireflies, dew, moonlight, glowworms, hedgehogs
+    monsoon season [region:Asia] -- downpour, flood, paddy fields, leeches, humidity, puddles, umbrellas
+    dry season [region:Africa] -- drought, dust, waterhole, cracked earth, bushfire, migration, thorn scrub
+  rocks and minerals
+    gemstones
+      quartz varieties -- amethyst, citrine, rose quartz, agate, onyx, jasper, carnelian, tiger's eye
+    metals
+    rock types
+      igneous rocks -- granite, basalt, obsidian, pumice, gabbro, andesite, rhyolite, tuff
+      sedimentary rocks -- sandstone, limestone, shale, chalk, coal, conglomerate, flint, mudstone
+    minerals
+    birthstones
+    building stones
+    mining words -- shaft, seam, ore, quarry, nugget, vein, lode, pickaxe, slag, smelter
+    gold rush words [region:North America] -- prospector, claim, panning, sluice, boomtown, forty-niner, Klondike
+  earth science
+    natural disasters
+    volcano words
+    earthquake words
+    layers of the earth
+    erosion words
+    geothermal words -- geyser, hot spring, fumarole, mud pool, steam vent, sulfur, onsen
+    soil words -- clay, loam, silt, peat, humus, topsoil, subsoil, loess, compost
+    water cycle words -- evaporation, condensation, precipitation, runoff, groundwater, aquifer
+  habitats:
+    rainforest [place]
+    ocean [place]
+    desert [place]
+    savanna [place]
+    polar regions [place]
+    wetlands [place]
+    mountains [place]
+    meadow [place] -- grass, poppies, clover, buttercups, butterflies, bees, hay, skylark
+    pond [place] -- frog, tadpole, newt, lily pad, reeds, dragonfly, pondweed, moorhen, frogspawn
+    taiga [place] [region:Asia] -- spruce, larch, birch, wolf, lynx, moose, sable, Siberian tiger
+    oasis [place] [region:Middle East] -- date palm, well, spring, camel, caravan, shade, pool, nomad
+    outback [place] [region:Oceania] -- red dirt, spinifex, billabong, kangaroo, dingo, road train, station, termite mound
+    andes [place] [region:South America] -- llama, alpaca, condor, vicuna, glacier, terraces, altiplano, puna
+    prairie [place] [region:North America] -- bison, prairie dog, pronghorn, tallgrass, tornado, ranch, meadowlark
+    antarctic coast [place] [region:Antarctica] -- penguin, seal, iceberg, krill, ice shelf, research station, skua
+  environment
+    pollution words
+    recycling words
+    renewable energy
+    conservation words
+    climate words
+    endangered animals
+    fossil fuels -- coal, oil, natural gas, peat, lignite, anthracite, petroleum, tar sands
+    green living words -- composting, upcycling, carpooling, reusable, refill, solar panel, rewilding

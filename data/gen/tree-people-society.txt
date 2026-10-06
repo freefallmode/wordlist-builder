@@ -1,0 +1,141 @@
+  family and friends
+    family members
+    extended family
+    relationships
+    terms of endearment
+    greetings
+      greetings around the world -- hello in other languages: hola, bonjour, ciao, namaste, merhaba, jambo, aloha, kia ora
+    ways to say goodbye -- farewell, adieu, cheerio, so long, adios, sayonara, ta-ta
+    ages and stages
+    words for friend -- pal, buddy, mate, chum, bestie, companion, comrade, confidant
+    life events -- milestones of a life: birth, christening, graduation, engagement, wedding, retirement, funeral
+    honorifics -- titles before a name: Mr, Mrs, Ms, Dr, Sir, Dame, Professor, Reverend
+  emotions
+    happy words
+    sad words
+    angry words
+    scared words
+    surprised words -- amazed, astonished, stunned, startled, flabbergasted, gobsmacked
+    love words -- adore, cherish, affection, devotion, crush, passion, smitten
+    calm words -- serene, tranquil, relaxed, placid, peaceful, composed, mellow
+    disgust words -- revolted, repulsed, sickened, appalled, grossed out, yuck
+    personality traits
+      positive traits -- kind, honest, generous, loyal, patient, brave
+      negative traits -- greedy, rude, lazy, selfish, arrogant, stubborn
+    moods
+  jobs
+    medical jobs
+    trades
+    science jobs
+    service jobs
+    arts jobs
+    tech jobs
+    office jobs
+    outdoor jobs
+    food jobs -- chef, baker, butcher, waiter, barista, sommelier, fishmonger, grocer
+    animal jobs -- vet, zookeeper, groom, farrier, shepherd, dog walker, kennel hand
+    old-time jobs -- jobs that have mostly vanished in the last 150 years: milkman, chimney sweep, lamplighter, switchboard operator, town crier; not medieval
+    workplace words -- salary, boss, shift, promotion, interview, overtime, pension, colleague
+    cowboy words [region:North America] -- lasso, saddle, spurs, stetson, ranch, rodeo, chaps, corral, sheriff, posse
+    gaucho words [region:South America] -- Argentine/Uruguayan cowboy life: poncho, bolas, mate, asado, estancia, pampas, facon, rebenque
+  government
+    government words
+    election words
+    political titles
+    royal titles
+      ottoman titles [region:Turkey] -- sultan, pasha, vizier, bey, agha, effendi, janissary, kadi, sipahi, beylerbey
+    royal things -- objects and occasions of monarchy: crown, throne, scepter, orb, tiara, coronation, jubilee, ermine
+    types of government
+    parts of parliament
+    political ideologies -- socialism, liberalism, conservatism, communism, anarchism, capitalism, nationalism
+    diplomacy words -- embassy, ambassador, consul, treaty, summit, envoy, sanctions, attache
+    international organizations -- UN, NATO, EU, WHO, UNESCO, OPEC, IMF, Interpol, Red Cross, ASEAN
+    us government [region:North America] -- congress, senate, house, supreme court, cabinet, white house, governor, veto
+    british politics [region:Europe] -- Westminster, Downing Street, Whitehall, Commons, Lords, MP, whip, backbencher, chancellor
+  law and order
+    crimes [adult]
+    courtroom words
+    police words
+    prison words [adult]
+    detective words
+    legal documents
+    legal latin -- habeas corpus, pro bono, de facto, subpoena, affidavit, alibi, bona fide, quid pro quo
+    punishments [adult] -- fine, jail, probation, parole, community service, detention, curfew, ban
+    spy words -- agent, mole, cipher, handler, double agent, safe house, codename, wiretap
+  money
+    money words
+    currencies
+      african currencies [region:Africa] -- rand, naira, shilling, cedi, birr, kwacha, pula, dalasi
+      asian currencies [region:Asia] -- yen, yuan, won, rupee, baht, ringgit, dong, rupiah, taka
+      european currencies [region:Europe] -- current and former: euro, pound, franc, lira, mark, peseta, drachma, krona, zloty, forint
+      latin american currencies [region:South America] -- real, sol, boliviano, guarani, bolivar, quetzal, colon, lempira, cordoba
+    banking words
+    coins
+      historic coins -- doubloon, ducat, florin, farthing, guinea, sovereign, groat, denarius, thaler, piece of eight
+    tax words
+    shopping words
+    money slang -- dough, bread, moolah, bucks, quid, loot, dosh, greenbacks, clams, smackers
+    stock market words -- shares, bull, bear, dividend, broker, index, portfolio, bond
+    business words -- profit, revenue, merger, startup, CEO, shareholder, budget, invoice
+    bazaar [place] [region:Middle East] -- things in a Middle Eastern or Turkish market: carpets, spices, lanterns, haggling, tea, brass, stall
+  religion
+    religion words
+    religious festivals
+    religious leaders
+    holy books
+    angels and spirits
+    places of worship
+    pilgrimage sites -- Mecca, Lourdes, Varanasi, Jerusalem, Santiago de Compostela, Canterbury, Bodh Gaya, Amritsar
+    famous saints -- Patrick, Nicholas, George, Francis, Valentine, Andrew, Christopher, Joan
+    religious clothing -- cassock, habit, hijab, kippah, turban, miter, surplice, wimple
+    afterlife words -- heaven, hell, paradise, purgatory, limbo, nirvana, underworld, reincarnation
+    islam words [region:Middle East] -- mosque, minaret, imam, Ramadan, hajj, Quran, Eid, halal, muezzin
+    judaism words [region:Middle East] -- synagogue, rabbi, Torah, kosher, Shabbat, menorah, bar mitzvah, Passover
+    buddhism words [region:Asia] -- nirvana, karma, monk, stupa, dharma, mantra, lama, zen
+    hinduism words [region:Asia] -- puja, guru, ashram, mantra, Vedas, avatar, moksha, ghat
+  military
+    military ranks
+    army words
+    navy words
+    air force words
+    medals and honors
+    historic weapons [adult]
+    modern weapons [adult] -- rifle, pistol, grenade, missile, torpedo, mortar, bazooka, machine gun
+    military units -- squad, platoon, company, battalion, regiment, brigade, division, corps, squadron
+    warships [adult] -- destroyer, frigate, submarine, aircraft carrier, battleship, cruiser, corvette, minesweeper
+  school
+    school subjects
+    stationery
+    classroom items
+    school staff
+    exam words
+    university words
+    school types -- kindergarten, preschool, elementary, middle school, high school, boarding school, academy
+    university degrees -- bachelor, master, doctorate, PhD, MBA, BA, BSc, diploma
+    graduation words -- cap, gown, diploma, tassel, valedictorian, commencement, alumni, yearbook
+  media and communication
+    newspaper words
+    social media words
+    social media platforms -- real brands: Facebook, Instagram, TikTok, YouTube, Snapchat, Reddit, LinkedIn
+    phone words
+    mail words
+    journalism words
+    advertising words
+    radio words -- DJ, frequency, broadcast, station, airwaves, jingle, FM, static
+    texting abbreviations -- LOL, BRB, OMG, BTW, IDK, TTYL, FYI, TBH
+    old ways to communicate -- telegram, Morse code, carrier pigeon, semaphore, smoke signal, fax, pager, town crier
+  society:
+    social classes -- aristocracy, nobility, gentry, middle class, working class, peasant, bourgeoisie, elite
+    protest words -- march, rally, placard, strike, boycott, petition, sit-in, picket
+    charity words -- donate, volunteer, fundraiser, appeal, sponsor, raffle, telethon, nonprofit
+    manners and etiquette -- please, thank you, RSVP, queue, tip, handshake, bow, excuse me
+    maori culture [region:Oceania] -- haka, marae, hangi, whanau, iwi, moko, waka, hongi, mana, tapu
+    aboriginal culture [region:Oceania] -- Aboriginal Australian: didgeridoo, boomerang, Dreamtime, songlines, corroboree, dot painting, Uluru
+  kinds of people:
+    words for a person -- individual, human, soul, fellow, chap, guy, bloke, dude
+    groups of people -- crowd, team, crew, gang, band, squad, mob, troupe, clan, committee
+    words for leader -- boss, chief, captain, head, director, chair, commander, skipper, ringleader
+    words for expert -- guru, ace, whiz, maestro, pro, virtuoso, connoisseur, authority
+    words for beginner -- novice, rookie, newbie, trainee, apprentice, amateur, greenhorn, tenderfoot
+    fans and followers -- fan, devotee, enthusiast, buff, aficionado, admirer, disciple, groupie
+    troublemakers -- rascal, rogue, scamp, brat, prankster, hooligan, imp, scallywag

@@ -1,0 +1,154 @@
+  colors
+    shades of red
+    shades of blue
+    shades of green
+    shades of yellow
+    shades of purple
+    shades of brown
+    shades of orange
+    shades of pink
+    shades of gray
+    metallic colors -- gold, silver, bronze, copper, pewter, gunmetal
+    color terms -- hue, tint, shade, tone, pigment, palette, saturation, primary
+    colors in other languages:
+      colors in spanish [region:South America] -- rojo, azul, verde, amarillo, blanco
+      colors in french [region:Europe] -- rouge, bleu, vert, jaune, blanc
+      colors in turkish [region:Turkey] -- kirmizi, mavi, yesil, sari, beyaz
+  shapes and patterns
+    2d shapes
+    3d shapes
+    patterns
+    line types
+    symbols
+    curves and spirals
+    shaped things:
+      round things [property] -- ball, coin, plate, wheel, clock face
+      square things [property] -- chessboard tile, waffle, napkin, sticky note, dice face
+      triangular things [property] -- pizza slice, sail, yield sign, guitar pick, nacho
+  materials
+    natural materials
+    man-made materials
+    precious materials
+    hard materials
+    soft materials
+    see-through materials
+    things that rust [property] -- nail, anchor, bike chain, iron gate, old car, tin can
+    made of…:
+      things made of wood [property] -- pencil, chopsticks, violin, canoe, barrel
+      things made of glass [property] -- window, mirror, bottle, lightbulb, marble
+      things made of paper [property] -- book, envelope, kite, napkin, origami crane
+      things made of rubber [property] -- tire, eraser, balloon, rain boots, hot water bottle
+      things made of leather [property] -- wallet, saddle, belt, baseball glove, jacket
+    materials by region:
+      materials from asia [region:Asia] -- silk, bamboo, jade, porcelain, lacquer, teak, rattan, washi
+      materials from africa [region:Africa] -- ebony, raffia, kente cloth, mudcloth, sisal, shea butter, cowrie shells
+      materials from south america [region:South America] -- alpaca wool, vicuna, balsa, rubber, tagua, toquilla straw
+      materials from oceania [region:Oceania] -- tapa cloth, pandanus, pounamu, opal, coir, kauri, merino wool
+  textures:
+    rough things [property] -- sandpaper, bark, brick, pumice, sea salt, emery board
+    smooth things [property] -- glass, marble, silk, pebble, ice, satin
+    soft things [property] -- pillow, feather, cotton ball, plush toy, kitten fur, velvet
+    sticky things [property] -- glue, honey, tape, syrup, gum, sap
+    slippery things [property] -- ice, soap, banana peel, wet floor, eel, oil
+    prickly things [property] -- cactus, hedgehog, holly, thistle, porcupine, chestnut husk
+    stretchy things [property] -- rubber band, spandex, bungee cord, chewing gum, slingshot
+    texture words -- bumpy, fuzzy, grainy, silky, coarse, gritty, velvety, glossy, matte
+  tastes:
+    sweet foods [property] -- candy, honey, cake, ripe mango, syrup, donut
+    sour foods [property] -- lemon, lime, vinegar, sauerkraut, sour cherry, pickles
+    salty foods [property] -- chips, pretzels, olives, bacon, soy sauce, anchovies
+    bitter foods [property] -- dark chocolate, coffee, kale, grapefruit, endive, tonic water
+    spicy foods [property] -- chili, wasabi, horseradish, jalapeno, salsa, curry
+    umami foods [property] -- soy sauce, parmesan, miso, anchovies, mushrooms, seaweed
+    taste words
+    food textures:
+      crunchy foods [property] -- celery, crackers, apple, croutons, pretzels
+      chewy foods [property] -- gummy bears, bagel, toffee, jerky, mochi
+      creamy foods [property] -- yogurt, custard, avocado, mashed potato, hummus
+      fizzy drinks [property] -- cola, sparkling water, ginger ale, tonic, kombucha, lemonade
+    tastes by region:
+      spicy dishes of asia [region:Asia] -- kimchi, vindaloo, tom yum, mapo tofu, laksa, sambal
+      spicy dishes of africa [region:Africa] -- peri-peri chicken, doro wat, suya, jollof rice, harissa
+      sweet treats of turkey [region:Turkey] -- baklava, lokum, kunefe, helva, sutlac, kadayif
+      south american sweets [region:South America] -- dulce de leche, alfajores, brigadeiro, quindim, picarones
+      american candy [region:North America] -- candy corn, jelly beans, Twizzlers, Peeps, saltwater taffy
+  synonyms:
+    words for big
+    words for small
+    words for fast
+    words for good -- great, excellent, superb, splendid, terrific, fine
+    words for bad -- awful, terrible, dreadful, poor, lousy, atrocious
+    words for smart -- clever, bright, brilliant, wise, sharp, intelligent
+    words for strange -- odd, weird, bizarre, peculiar, quirky, eccentric
+    words for pretty -- beautiful, lovely, gorgeous, stunning, attractive, cute
+    words for old -- ancient, aged, elderly, antique, vintage, worn
+  size and weight:
+    huge things [property] -- whale, mountain, skyscraper, elephant, cruise ship
+    tiny things [property] -- ant, atom, grain of sand, flea, crumb
+    heavy things [property] -- anvil, piano, boulder, elephant, safe
+    long things [property] -- snake, train, river, scarf, noodle
+    tall things [property] -- giraffe, skyscraper, redwood, ladder, lighthouse
+    size labels -- small, medium, large, jumbo, mini, king-size, petite, venti, fun-size
+  sounds
+    onomatopoeia
+      eating sounds -- crunch, munch, slurp, gulp, chomp, burp, nom
+      impact sounds -- bang, crash, thud, thump, clang, splat, wham
+    loud things [property] -- thunder, jet engine, fireworks, siren, jackhammer, drum
+    quiet things [property] -- whisper, snowfall, mouse, library, feather, tiptoe
+    water sounds
+    machine sounds
+    voice sounds
+    sound qualities -- shrill, booming, muffled, hoarse, husky, raspy, tinny, mellow
+  smells:
+    things that smell good [property] -- fresh bread, roses, coffee, vanilla, cut grass
+    things that smell bad [property] -- skunk, garbage, rotten egg, wet dog, old socks
+    pungent foods [property] -- garlic, durian, blue cheese, fish sauce, onion, kimchi
+    perfume notes -- musk, amber, vanilla, sandalwood, bergamot, jasmine, patchouli
+    candle scents -- vanilla, lavender, pine, cinnamon, sea breeze, apple pie
+    middle eastern scents [region:Middle East] -- oud, frankincense, myrrh, rosewater, bakhoor, attar
+  motion:
+    motion verbs
+    things that fly [property] -- bird, kite, plane, bat, frisbee, butterfly
+    things that roll [property] -- ball, wheel, marble, dice, log, bowling ball
+    things that spin [property] -- top, wheel, fan, propeller, washing machine, merry-go-round
+    things that bounce [property] -- ball, trampoline, kangaroo, pogo stick, bungee jumper, spring
+    things that float [property] -- boat, cork, raft, iceberg, duck, buoy
+    fast things [property] -- cheetah, rocket, bullet train, race car, falcon
+    ways to jump -- hop, leap, skip, bound, vault, pounce
+  temperature:
+    hot things [property] -- sun, stove, lava, oven, fire, coffee
+    cold things [property] -- ice, snow, freezer, glacier, ice cream, popsicle
+    things that melt [property] -- ice, snow, butter, chocolate, wax, ice cream
+    fire words
+    ice words
+    words for hot -- scorching, sweltering, boiling, blazing, sizzling, balmy
+    words for cold -- freezing, icy, chilly, frosty, frigid, nippy, bitter
+    extreme cold words [region:Antarctica] -- frostbite, hypothermia, windchill, whiteout, subzero, polar night
+  light and dark:
+    things that glow [property] -- firefly, moon, lantern, embers, glow stick, jellyfish
+    shiny things [property] -- mirror, new coin, chrome bumper, polished shoes, glitter
+    sparkly things [property] -- diamond, sequins, tinsel, fresh snow, sparkler
+    things that reflect [property] -- mirror, still lake, spoon, sunglasses, window
+    words for shiny -- glossy, gleaming, lustrous, glittering, polished, radiant
+    words for dark -- dim, gloomy, murky, shadowy, pitch-black, dusky
+  things by color:
+    red things [property] -- strawberry, fire truck, ladybug, tomato, stop sign, cherry
+    yellow things [property] -- banana, school bus, lemon, sunflower, taxi
+    green things [property] -- frog, lettuce, grass, emerald, lime
+    blue things [property] -- sky, blueberry, sapphire, jeans, bluebird
+    white things [property] -- snow, milk, swan, polar bear, cloud
+    black things [property] -- coal, crow, tire, panther, licorice
+  things with…:
+    things with wings [property] -- bird, plane, bat, bee, angel, butterfly
+    things with keys [property] -- piano, keyboard, map (key), lock, typewriter, calculator
+    things with wheels [property] -- car, bike, skateboard, wheelbarrow, shopping cart, roller skate
+    things with teeth [property] -- comb, saw, zipper, shark, gear, rake
+    things with shells [property] -- snail, egg, turtle, peanut, oyster
+    things with horns [property] -- rhino, goat, bull, car, unicorn
+  things that…:
+    things that sting [property] -- bee, wasp, jellyfish, nettle, scorpion, stingray
+    things that pop [property] -- balloon, popcorn, bubble, champagne cork, bubble wrap
+    things that tick [property] -- clock, metronome, kitchen timer, time bomb, watch
+    things that fold [property] -- deck chair, map, umbrella, wallet, pocketknife
+    things that cut [property] -- knife, scissors, saw, razor, axe
+    things that come in pairs [property] -- socks, shoes, gloves, earrings, chopsticks

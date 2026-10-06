@@ -1,0 +1,176 @@
+  instruments
+    string instruments
+      guitar types
+      bowed instruments
+    woodwind instruments
+    brass instruments
+    percussion instruments
+      drums
+      african drums [region:Africa]
+    keyboard instruments
+    folk instruments
+      turkish instruments [region:Turkey]
+      middle eastern instruments [region:Middle East]
+      african instruments [region:Africa]
+      chinese instruments [region:Asia]
+      japanese instruments [region:Asia]
+      indian instruments [region:Asia]
+      pacific instruments [region:Oceania]
+      andean instruments [region:South America]
+      celtic instruments [region:Europe]
+    electronic instruments
+    instrument parts
+  music styles
+    music genres
+      rock styles
+      electronic music styles
+    classical forms
+    jazz words
+    world music styles
+      african music styles [region:Africa]
+      arabic music words [region:Middle East]
+      asian music styles [region:Asia]
+      latin music styles [region:South America]
+      american roots music [region:North America]
+      european folk music [region:Europe]
+    dance music
+    song types
+    hip hop words
+  music words
+    music terms
+    voice types
+    orchestra words
+    tempo words
+    dynamics markings
+    notes and rests
+    concert words
+    recording studio words [place]
+    music festivals
+  musicians
+    composers
+      baroque composers
+      romantic composers
+      opera composers
+      film composers
+    famous bands
+    pop stars
+    jazz musicians
+    rock guitarists
+    turkish singers [region:Turkey]
+    african musicians [region:Africa]
+    south american singers [region:South America]
+    country singers [region:North America]
+  dance
+    dances
+    ballet terms
+      famous ballets
+    ballroom dances
+    latin dances
+    folk dances
+      middle eastern dances [region:Middle East]
+      african dances [region:Africa]
+      asian dances [region:Asia]
+      polynesian dances [region:Oceania]
+      latin american folk dances [region:South America]
+      north american folk dances [region:North America]
+      european folk dances [region:Europe]
+    dance moves
+    street dance styles
+    dance studio words [place]
+  art
+    painting words
+    painters
+      renaissance painters
+      impressionist painters
+      modern artists
+      dutch painters [region:Europe]
+      spanish painters [region:Europe]
+      latin american artists [region:South America] -- includes Mexican artists such as Kahlo and Rivera
+    art movements
+    art materials
+    sculpture words
+    photography words
+      camera parts
+    famous paintings
+    art gallery words [place]
+    color theory words
+    drawing techniques
+    world art:
+      islamic art words [region:Middle East]
+      turkish arts [region:Turkey] -- ebru, cini, hat, tezhip, minyatur, kilim, Iznik tiles
+      asian art forms [region:Asia]
+      pacific art words [region:Oceania] -- Aboriginal and Maori art: dot painting, ochre, koru, ta moko, tapa
+      african art words [region:Africa]
+  theater
+    theater words
+    parts of a stage
+    theater jobs
+    opera words
+      famous operas
+    puppets
+    musicals words
+    stage genres
+    asian theater forms [region:Asia]
+    theater building parts [place]
+  film and tv
+    movie genres
+    tv genres
+    film words
+    behind the camera
+    cartoon words
+    award words
+      entertainment awards
+    film festivals
+    movie theater words [place]
+    tv words
+    special effects words
+    film directors
+    classic film stars
+    bollywood stars [region:Asia]
+    anime and manga words [region:Asia]
+  literature
+    book genres
+    authors
+      british novelists [region:Europe]
+      american novelists [region:North America]
+      russian writers [region:Europe]
+      turkish writers [region:Turkey]
+      african writers [region:Africa]
+      japanese writers [region:Asia]
+      latin american writers [region:South America]
+      children's authors
+    poetry terms
+      poets
+      persian poets [region:Middle East]
+    shakespeare plays
+      shakespeare characters
+    fairy tales
+    fairy tale characters
+    parts of a book
+    publishing words
+    classic novels
+    comic book words
+  shows and fun
+    circus
+      circus acts
+    magic show words
+      famous magicians
+    comedy words
+      comedians
+    fairground rides
+    street performers
+    theme park words
+    party entertainment
+    nightclub words [place] [adult]
+    brazilian carnival words [region:South America]
+  architecture
+    architecture styles
+    architects
+    church parts
+    mosque parts [region:Middle East]
+    asian temple features [region:Asia]
+    bridge types
+    roof styles
+    column styles
+    architectural features
+    window styles

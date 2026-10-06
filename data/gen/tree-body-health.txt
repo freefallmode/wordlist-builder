@@ -1,0 +1,116 @@
+  body parts
+    face
+    hands and feet
+    arms and legs
+    torso
+    joints -- elbow, knee, ankle, wrist, hip, shoulder, knuckle, jaw
+    hair
+      hairstyles
+    skin words
+    paired body parts [property] -- body parts that come in twos: eye, ear, lung, kidney, knee, elbow
+  inside the body
+    bones
+    organs
+    muscles
+    blood words
+    teeth
+    brain parts
+    body systems -- digestive, nervous, circulatory, respiratory, skeletal, immune
+    hormones
+  senses -- the five senses and sense organs: sight, hearing, smell, taste, touch, eye, ear, nose, tongue, skin
+    sight words
+    hearing words
+    smell words
+    ear parts
+    touch words
+    eye parts
+    smelly things [property] -- things known for a strong smell: garlic, skunk, socks, durian, blue cheese, onion
+  illnesses
+    common illnesses
+    childhood illnesses
+    allergies
+    infections
+    injuries
+    symptoms
+    historic diseases
+    tropical diseases [region:Africa]
+    cold weather ailments [region:Antarctica] -- frostbite, hypothermia, snow blindness, chilblains, windburn
+  medicine
+    medicines
+    forms of medicine -- pill, capsule, syrup, ointment, drops, inhaler, injection, patch, lozenge
+    medical equipment
+    medical specialties
+    medical tests
+    hospital words
+    doctor's office [place]
+    pharmacy [place]
+    operating room [place]
+    first aid
+    dental words
+    smoking words [adult] -- cigarette, cigar, pipe, ashtray, lighter, filter, vape, hookah, tobacco
+    illegal drugs [adult]
+  healing traditions:
+    chinese medicine [region:Asia]
+    middle eastern remedies [region:Middle East] -- black seed, cupping, miswak, frankincense, myrrh, rose water, honey
+    african remedies [region:Africa] -- rooibos, buchu, devil's claw, shea butter, baobab, moringa
+    oceanian remedies [region:Oceania] -- tea tree oil, manuka honey, eucalyptus, kawakawa, kava, noni, lemon myrtle
+    ayurveda words [region:Asia] -- dosha, turmeric, ghee, neem, ashwagandha, chakra, prana, triphala
+    native american remedies [region:North America] -- echinacea, willow bark, goldenseal, witch hazel, yarrow, sweat lodge
+  babies and birth
+    pregnancy words
+    childbirth words
+    newborn care
+    baby gear
+    baby milestones
+    maternity ward [place]
+  fitness
+    exercises
+    gym equipment
+    yoga poses
+    yoga words [region:Asia] -- asana, namaste, chakra, mantra, om, mudra, savasana, vinyasa
+    workout types
+    fitness words
+    stretches
+  sleep
+    sleep words
+    bedding
+    nightwear
+    dream words
+    bedtime routine
+    sleep disorders
+  personal care
+    toiletries for washing
+    hair care
+    skincare products
+      korean skincare [region:Asia]
+    makeup
+    nail care
+    bath time
+    dental care
+    middle eastern grooming [region:Middle East] -- kohl, henna, oud, attar, rose water, argan oil, black soap, miswak
+  mind and wellbeing
+    mental health words
+    phobias
+    massage types
+    bad habits -- nail biting, slouching, knuckle cracking, snacking, procrastinating
+    healthy habits -- flossing, walking, drinking water, early nights, stretching
+    spa [place]
+    turkish bath [place] [region:Turkey] -- hammam: kese, pestemal, marble slab, steam, foam, dome, clogs
+    european spa towns [region:Europe] -- Bath, Baden-Baden, Vichy, Spa, Karlovy Vary, Evian
+  nutrition
+    vitamins
+    dietary minerals -- iron, calcium, zinc, magnesium, potassium, iodine, selenium
+    food groups
+    nutrients
+    diet types
+    superfoods
+    healthy snacks
+  body movement
+    facial expressions
+    gestures
+    body actions
+    hand actions
+    ways of walking
+    ways of looking
+    ways of speaking
+    body noises -- burp, hiccup, sneeze, cough, snore, yawn, sniff, gulp, sigh
