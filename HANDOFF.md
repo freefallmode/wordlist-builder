@@ -42,10 +42,12 @@ P = {
 ```
 - Theme `id` is a slug of the name at creation and never changes on rename (levels and translations will refer to it).
 - `kind`: '' (category), 'place' (things found at a place), 'property' (things sharing a property), 'wordplay'.
-- `region`: '' or a continent, for regional stops on the journey.
+- `region`: '' or one of Africa, Middle East, Turkey, Asia, Oceania, Antarctica, South America, North America, Europe. Acts: 1 Turkey / Middle East / Africa, 2 Asia, 3 Oceania, 4 Antarctica, 5 South America, 6 North America, 7 Europe / Turkey.
+- `adult`: not family-friendly; inherited by everything under it. Settings → "Family-friendly game file" leaves adult themes and words out of the game export.
 - `group`: a container for browsing, never a playable theme.
 - `label`: the name shown in the game when it differs from `name`.
 - Word `t` is the American spelling (capitals kept for proper nouns such as Paris or Plato); `uk` is the British spelling when it differs. The key is a lowercase slug of `t`. The Spelling setting (toolbar toggle) picks which form is shown and written to the game file; search and duplicate checks use both. Import / export → "Find British spellings" asks Claude to fill in `uk` for older words.
+- Word `fam`: `{themeId: 1..5}` familiarity of the word as a member of that theme (1 everyone, 5 specialists). Difficulty in a theme is: set by hand (`d`), else familiarity there, else from Zipf. `ze`: estimated Zipf, used only when the word is not in the frequency list (shown with ~). `adult`: word not family-friendly.
 - Word `x`: clashes, themes a player might think the word belongs to; the level generator must never put the word in a level with them. `ck`: the word has been through the theme check. `sg`: suggestions from the check awaiting review, `{themeId: 'c' (clear fit) | 'a' (arguable)}`.
 - Word `z`: Zipf (the higher of the two spellings), `null` if rarer than the list, `undefined` if not looked up yet. `d`: null means auto.
 
@@ -53,9 +55,9 @@ P = {
 
 Project file and IndexedDB autosave (`schema: 2`), compact: theme rows are arrays described by `themeFields`; word rows by `wordFields`; words refer to themes by **index** in the themes array. Zipf is stored times ten (0 = rarer than the list, -1 = unknown). Sources are one letter each (L llm, M manual, W wikidata, C conceptnet, D datamuse). Opening a schema 1 file (the first version) converts it; the first version's localStorage data (`wlb`) is migrated on first load.
 
-Game file (Import / export → Game file): minified, enabled words only, `v: 1`, `spelling: "US" | "UK"`. `themes: [id, name, label, parentIndex (-1 = top), group, kind, region, difficulty]`, `words: [text, zipf10, difficulty, [themeIndex…], [clashThemeIndex…], otherSpelling?]` where `text` is in the chosen spelling.
+Game file (Import / export → Game file): minified, enabled words only, `v: 1`, `spelling: "US" | "UK"`. `themes: [id, name, label, parentIndex (-1 = top), group, kind, region, difficulty]`, `v: 2`, `familyFriendly`. `themes: [id, name, label, parentIndex (-1 = top), group, kind, region, difficulty, adult]`, `words: [text, zipf10, [themeIndex…], [difficulty per theme…], [clashThemeIndex…], otherSpelling?]` where `text` is in the chosen spelling.
 
-Theme outline (`themes-starter.txt`, Load starter outline, Export outline): two spaces per level, groups end in `:`, and a kind may follow the name in brackets, e.g. `beach [place]`.
+Theme outline (`themes-starter.txt`, Load starter outline, Export outline): two spaces per level; a group has `:` right after its name; optional tags `[place]` `[property]` `[wordplay]` `[region:Asia]` `[adult]`; optional ` -- note` at the end, e.g. `___ball [wordplay] -- words that come before ball`.
 
 ## Word filters
 
