@@ -3,7 +3,7 @@
 // The project lives in IndexedDB (autosaved) and in project files. Both use
 // the compact format from serialize(): words point at themes by index.
 
-const VERSION = '10';  // must match data-v and the ?v= links in index.html
+const VERSION = '11';  // must match data-v and the ?v= links in index.html
 const $ = s => document.querySelector(s);
 const esc = s => String(s ?? '').replace(/[&<>"']/g, c => ({ '&': '&amp;', '<': '&lt;', '>': '&gt;', '"': '&quot;', "'": '&#39;' }[c]));
 const slug = t => t.normalize('NFKD').replace(/[̀-ͯ]/g, '').replace(/[^\p{L}\p{N}]+/gu, '_').replace(/^_|_$/g, '').toLowerCase();
@@ -434,7 +434,7 @@ function renderTree() {
       + `<span class="ac"><button data-add="${id}" title="Add sub-theme">+</button><button data-ren="${id}" title="Rename">✎</button><button data-del="${id}" title="Delete">✕</button></span></div>`
       + (kids.length && op ? kids.map(k => row(k, d + 1)).join('') : '');
   };
-  $('#tree').innerHTML = kidsOf(null).map(id => row(id, 0)).join('') || '<p class="muted">No themes yet. Add one, or load the starter outline from Import / export.</p>';
+  $('#tree').innerHTML = kidsOf(null).map(id => row(id, 0)).join('') || '<p class="muted">No themes yet. Add one, or use Import / export to open the starter wordlist or add the starter theme tree.</p>';
   $('#lock').textContent = UI.unlock ? '🔓 Drag on' : '🔒 Drag off';
   $('#lock').title = UI.unlock ? 'Drop a theme on another to nest it, near a row edge to reorder, or on "+ Top-level theme" to make it top level.' : 'Click to allow dragging themes.';
 }
@@ -771,11 +771,12 @@ function settingsDialog() {
 
 function dataDialog() {
   const t = UI.sel && theme(UI.sel);
-  dialog('Import / export', '<h4>Project</h4><p class="muted">Autosaved in this browser. Save a file to back it up or move it to another browser.</p>'
-    + '<div class="row"><button id="dx-save" class="p">Save project file</button><button id="dx-open">Open project file…</button><button id="dx-wl">Load starter wordlist</button></div>'
-    + '<h4>Exports</h4><div class="row"><button id="dx-game">Game file (enabled words, compact)</button><button id="dx-csv">CSV</button><button id="dx-out">Theme outline (.txt)</button></div>'
-    + '<h4>Theme outline</h4><p class="muted">Merge an indented outline (two spaces per level, groups end in ":") into the tree.</p>'
-    + '<div class="row"><button id="dx-starter">Load starter outline</button><button id="dx-imp">Import outline file…</button></div>'
+  dialog('Import / export', '<h4>Project: theme tree and words (.json)</h4><p class="muted">Everything in the app. It is autosaved in this browser; save a file to back it up or move it to another browser. Opening one <b>replaces</b> the current project.</p>'
+    + '<div class="row"><button id="dx-save" class="p">Save project</button><button id="dx-open">Open project…</button><button id="dx-wl">Open starter wordlist</button></div>'
+    + '<h4>Theme tree only, no words (.txt)</h4><p class="muted">The tree as an indented text list you can edit in any text editor. Importing <b>adds</b> its themes to the current tree.</p>'
+    + '<div class="row"><button id="dx-starter">Add starter theme tree</button><button id="dx-imp">Import theme tree…</button><button id="dx-out">Export theme tree</button></div>'
+    + '<h4>For the game and spreadsheets (export only)</h4><p class="muted">The game file holds enabled words only, compact, family-friendly if set in Settings.</p>'
+    + '<div class="row"><button id="dx-game">Export game file</button><button id="dx-csv">Export CSV</button></div>'
     + (t ? `<h4>Other word sources for "${esc(t.name)}"</h4>`
       + `<div class="row"><b style="width:90px">Wikidata</b><input id="dx-wd" value="${esc(t.wd || '')}" placeholder="class name or QID (blank: theme name)" style="flex:1"><button data-pull="wd">Pull</button></div><div id="dx-wdc"></div>`
       + `<div class="row"><b style="width:90px">ConceptNet</b><input id="dx-cn" value="${esc(t.cn || '')}" placeholder="IsA term (blank: theme name)" style="flex:1"><button data-pull="cn">Pull</button></div>`

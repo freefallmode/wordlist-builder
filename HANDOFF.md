@@ -57,7 +57,7 @@ Project file and IndexedDB autosave (`schema: 2`), compact: theme rows are array
 
 Game file (Import / export → Game file): minified, enabled words only, `v: 1`, `spelling: "US" | "UK"`. `themes: [id, name, label, parentIndex (-1 = top), group, kind, region, difficulty]`, `v: 2`, `familyFriendly`. `themes: [id, name, label, parentIndex (-1 = top), group, kind, region, difficulty, adult]`, `words: [text, zipf10, [themeIndex…], [difficulty per theme…], [clashThemeIndex…], otherSpelling?]` where `text` is in the chosen spelling.
 
-Theme outline (`data/themes.txt`, Load starter outline, Export outline): two spaces per level; a group has `:` right after its name; optional tags `[place]` `[property]` `[wordplay]` `[region:Asia]` `[adult]`; optional ` -- note` at the end, e.g. `___ball [wordplay] -- words that come before ball`.
+Theme tree file (`data/themes.txt`; Import / export → Add starter theme tree, Import / Export theme tree): two spaces per level; a group has `:` right after its name; optional tags `[place]` `[property]` `[wordplay]` `[region:Asia]` `[adult]`; optional ` -- note` at the end, e.g. `___ball [wordplay] -- words that come before ball`.
 
 ## Word filters
 
