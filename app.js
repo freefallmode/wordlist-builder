@@ -3,7 +3,7 @@
 // The project lives in IndexedDB (autosaved) and in project files. Both use
 // the compact format from serialize(): words point at themes by index.
 
-const VERSION = '23';  // must match data-v and the ?v= links in index.html
+const VERSION = '24';  // must match data-v and the ?v= links in index.html
 const $ = s => document.querySelector(s);
 const esc = s => String(s ?? '').replace(/[&<>"']/g, c => ({ '&': '&amp;', '<': '&lt;', '>': '&gt;', '"': '&quot;', "'": '&#39;' }[c]));
 const slug = t => t.normalize('NFKD').replace(/[̀-ͯ]/g, '').replace(/[^\p{L}\p{N}]+/gu, '_').replace(/^_|_$/g, '').toLowerCase();
@@ -817,8 +817,7 @@ function settingsDialog() {
 
 function dataDialog() {
   dialog('Import / export', '<h4>Library: theme tree and words (.json)</h4><p class="muted">Everything in the app. It is autosaved in this browser; export it to a file to back it up or move it to another browser. Importing or loading one <b>replaces</b> the current library.</p>'
-    + '<div class="row"><button id="dx-save" class="p">Export library</button><button id="dx-open">Import library…</button></div>'
-    + '<div class="row"><button id="dx-wl">Load starter library</button></div>'
+    + '<div class="row"><button id="dx-wl">Load starter library</button><button id="dx-open">Import library…</button><button id="dx-save" class="p">Export library</button></div>'
     + '<h4>Theme tree only, no words (.txt)</h4><p class="muted">The tree as an indented text list you can edit in any text editor. Importing <b>adds</b> its themes to the current tree.</p>'
     + '<div class="row"><button id="dx-starter">Load starter theme tree</button><button id="dx-imp">Import theme tree…</button><button id="dx-out">Export theme tree</button></div>'
     + '<h4>For the game and spreadsheets (export only)</h4><p class="muted">The game file holds enabled words only, compact, family-friendly if set in Settings.</p>'
