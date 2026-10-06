@@ -3,13 +3,24 @@
 // The project lives in IndexedDB (autosaved) and in project files. Both use
 // the compact format from serialize(): words point at themes by index.
 
-const VERSION = '18';  // must match data-v and the ?v= links in index.html
+const VERSION = '19';  // must match data-v and the ?v= links in index.html
 const $ = s => document.querySelector(s);
 const esc = s => String(s ?? '').replace(/[&<>"']/g, c => ({ '&': '&amp;', '<': '&lt;', '>': '&gt;', '"': '&quot;', "'": '&#39;' }[c]));
 const slug = t => t.normalize('NFKD').replace(/[̀-ͯ]/g, '').replace(/[^\p{L}\p{N}]+/gu, '_').replace(/^_|_$/g, '').toLowerCase();
-const core = t => t.replace(/[ -]/g, '');
+const core = t => t.replace(/[ \-'’]/g, '');  // what counts towards length: letters, digits, &
 // The form of a word to show and export, following the spelling setting.
 const form = w => SET.spelling === 'UK' && w.uk ? w.uk : w.t;
+// The form shown within a theme: some words are written differently per theme (Mercury the planet, mercury the metal).
+function formIn(w, themeId) {
+  if (w.tf && themeId) {
+    if (w.tf[themeId]) return w.tf[themeId];
+    for (const t of w.th) if (w.tf[t] && poolOwners(t).includes(themeId)) return w.tf[t];
+  }
+  return form(w);
+}
+// Balloon text: accents and special letters replaced by plain ones (crème brûlée -> creme brulee).
+const PLAIN = { 'ı': 'i', 'İ': 'I', 'ß': 'ss', 'ø': 'o', 'Ø': 'O', 'æ': 'ae', 'Æ': 'AE', 'œ': 'oe', 'Œ': 'OE', 'ł': 'l', 'Ł': 'L', 'đ': 'd', 'Đ': 'D', 'ð': 'd', 'þ': 'th', '’': "'" };
+const plain = t => t.replace(/[ıİßøØæÆœŒłŁđĐðþ’]/g, c => PLAIN[c]).normalize('NFKD').replace(/[\u0300-\u036f]/g, '');
 const matches = (w, q) => w.t.toLowerCase().includes(q) || (!!w.uk && w.uk.toLowerCase().includes(q));
 
 const KINDS = { '': 'category', place: 'place', property: 'property', wordplay: 'wordplay' };
@@ -177,7 +188,7 @@ const themeAdult = id => (ix().anc[id] || []).some(a => theme(a).adult);
 
 function filterReason(t) {
   const f = SET.flt, c = core(t), parts = t.split(/[ -]+/);
-  if (f.letters && !/^\p{L}+$/u.test(c)) return 'characters';
+  if (f.letters && !/^[\p{L}\p{N}&]+$/u.test(c)) return 'characters';
   if (parts.length > 1) {
     if (f.multi) return 'multi-word';
     if (parts.length > 2) return 'more than two words';
@@ -254,7 +265,7 @@ function reveal(id) { for (const a of (ix().anc[id] || []).slice(1)) UI.exp[a] =
 
 const FIELDS_T = ['id', 'name', 'label', 'parent', 'group', 'kind', 'region', 'difficulty', 'note', 'sourceTerms', 'adult', 'separate'];
 const FIELDS_W = ['text', 'themes', 'enabled', 'zipf10', 'difficulty', 'sources', 'note', 'uk', 'clashes', 'checked', 'suggestions',
-  'familiarity', 'zipfEstimate10', 'adult'];
+  'familiarity', 'zipfEstimate10', 'adult', 'themeForms'];
 // Compact project format. Themes keep their stable ids; words refer to themes by index.
 function serialize() {
   const at = Object.fromEntries(P.themes.map((t, i) => [t.id, i]));
@@ -269,7 +280,8 @@ function serialize() {
       (w.x || []).map(t => at[t]).filter(i => i !== undefined), w.ck ? 1 : 0,
       Object.entries(w.sg || {}).filter(([t]) => at[t] !== undefined).map(([t, k]) => [at[t], k === 'c' ? 1 : 2]),
       Object.entries(w.fam || {}).filter(([t]) => at[t] !== undefined).map(([t, f]) => [at[t], f]),
-      w.ze ? Math.round(w.ze * 10) : 0, w.adult ? 1 : 0]),
+      w.ze ? Math.round(w.ze * 10) : 0, w.adult ? 1 : 0,
+      Object.entries(w.tf || {}).filter(([t]) => at[t] !== undefined).map(([t, f]) => [at[t], f])]),
   };
 }
 function deserialize(j) {
@@ -279,7 +291,8 @@ function deserialize(j) {
     const words = {};
     for (const a of j.words) words[slug(a[0])] = { t: a[0], th: a[1].map(i => themes[i].id), on: !!a[2], z: a[3] === -1 ? undefined : a[3] === 0 ? null : a[3] / 10, d: a[4] || null, src: a[5].split(''), note: a[6], uk: a[7] || '',
       x: (a[8] || []).map(i => themes[i].id), ck: !!a[9], sg: Object.fromEntries((a[10] || []).map(([i, k]) => [themes[i].id, k === 1 ? 'c' : 'a'])),
-      fam: Object.fromEntries((a[11] || []).map(([i, f]) => [themes[i].id, f])), ze: a[12] ? a[12] / 10 : null, adult: !!a[13] };
+      fam: Object.fromEntries((a[11] || []).map(([i, f]) => [themes[i].id, f])), ze: a[12] ? a[12] / 10 : null, adult: !!a[13],
+      tf: a[14] && a[14].length ? Object.fromEntries(a[14].map(([i, f]) => [themes[i].id, f])) : undefined };
     return { themes, words };
   }
   if (j.schema === 1 || j.words) { // first version of the builder
@@ -343,16 +356,16 @@ function exportGame() {
     const th = w.th.filter(t => at[t] !== undefined);
     if (!th.length) continue;
     const o = SET.spelling === 'UK' ? w.t : w.uk;
-    const r = [form(w), w.z == null ? 0 : Math.round(w.z * 10), th.map(t => at[t]), th.map(t => wordDiff(w, t)), (w.x || []).filter(t => at[t] !== undefined).map(t => at[t])];
-    if (o && o !== form(w)) r.push(o);
-    words.push(r);
+    const forms = Object.entries(w.tf || {}).filter(([t]) => at[t] !== undefined).map(([t, f]) => [at[t], f, plain(f)]);
+    words.push([form(w), plain(form(w)), w.z == null ? 0 : Math.round(w.z * 10), th.map(t => at[t]), th.map(t => wordDiff(w, t)),
+      (w.x || []).filter(t => at[t] !== undefined).map(t => at[t]), o && o !== form(w) ? o : '', forms]);
   }
   words.sort((a, b) => a[0].localeCompare(b[0]));
   return JSON.stringify({
-    v: 2, generated: new Date().toISOString(), spelling: SET.spelling, familyFriendly: !!fam,
+    v: 3, generated: new Date().toISOString(), spelling: SET.spelling, familyFriendly: !!fam,
     themeFields: ['id', 'name', 'label', 'parent', 'group', 'kind', 'region', 'difficulty', 'adult', 'separate'],
     themes: themes.map(t => [t.id, t.name, t.label || '', t.parent ? at[t.parent] : -1, t.group ? 1 : 0, t.kind || '', t.region || '', themeDiff(t.id), themeAdult(t.id) ? 1 : 0, t.sep ? 1 : 0]),
-    wordFields: ['text', 'zipf10', 'themes', 'difficultyPerTheme', 'clashes', 'otherSpelling'],
+    wordFields: ['text', 'balloonText', 'zipf10', 'themes', 'difficultyPerTheme', 'clashes', 'otherSpelling', 'formsPerTheme'],
     words,
   });
 }
@@ -511,7 +524,7 @@ function renderMain() {
     const zc = z == null ? 'z2' : z >= 4.5 ? 'z5' : z < 2.5 ? 'z2' : '';
     return `<tr class="${w.on ? '' : 'off'}${picked ? ' sel' : ''}"><td><input type="checkbox" data-pick="${id}"${picked ? ' checked' : ''}></td>`
       + `<td><input type="checkbox" data-on="${id}"${w.on ? ' checked' : ''} title="Enabled"></td>`
-      + `<td class="w" data-word="${id}"${w.uk ? ` title="${esc(SET.spelling === 'UK' ? 'US: ' + w.t : 'UK: ' + w.uk)}"` : ''}>${esc(form(w))}${w.uk ? ' <small class="muted">*</small>' : ''}</td><td class="num">${core(form(w)).length}</td>`
+      + `<td class="w" data-word="${id}"${w.uk ? ` title="${esc(SET.spelling === 'UK' ? 'US: ' + w.t : 'UK: ' + w.uk)}"` : ''}>${esc(formIn(w, UI.sel))}${w.uk ? ' <small class="muted">*</small>' : ''}</td><td class="num">${core(form(w)).length}</td>`
       + `<td class="num ${zc}"${zipfEstimated(w) ? ' title="Estimated: not in the frequency list"' : ''}>${z === undefined ? '…' : z === null ? '<1.5' : (zipfEstimated(w) ? '~' : '') + z.toFixed(1)}</td>`
       + `<td><select data-d="${id}" title="${famOf(w, UI.sel) ? 'auto: familiarity in this theme' : 'auto: from frequency'}"><option value="">auto ${famOf(w, UI.sel) || autoDiff(z)}</option>${[1, 2, 3, 4, 5].map(n => `<option${n === w.d ? ' selected' : ''}>${n}</option>`).join('')}</select></td>`
       + `<td>${w.th.map(t => theme(t) ? `<button class="b" data-goto="${t}" title="${esc(pathOf(t))}">${esc(theme(t).name)}</button>` : '').join('')}`
@@ -782,7 +795,7 @@ function settingsDialog() {
     + '<h4>Filters for new words</h4><p class="muted">Words that fail are still added, but disabled, with the reason in the note.</p>'
     + `<div class="row"><label><input type="checkbox" id="se-len"${f.len ? ' checked' : ''}> Length</label> single words <input id="se-min" type="number" value="${f.min}"> to <input id="se-max" type="number" value="${f.max}"> letters</div>`
     + `<div class="row">two-word names (shown on two lines): at most <input id="se-mm" type="number" value="${f.maxMulti}"> letters in total</div>`
-    + `<div class="row"><label><input type="checkbox" id="se-let"${f.letters ? ' checked' : ''}> Letters only</label><label><input type="checkbox" id="se-mul"${f.multi ? ' checked' : ''}> Single words only</label><label><input type="checkbox" id="se-blk"${f.block ? ' checked' : ''}> Blocklist</label></div>`
+    + `<div class="row"><label><input type="checkbox" id="se-let"${f.letters ? ' checked' : ''}> Letters, digits, apostrophes and &amp; only</label><label><input type="checkbox" id="se-mul"${f.multi ? ' checked' : ''}> Single words only</label><label><input type="checkbox" id="se-blk"${f.block ? ' checked' : ''}> Blocklist</label></div>`
     + `<textarea id="se-list" rows="2" placeholder="blocklist words, comma or space separated">${esc(f.list)}</textarea>`
     + `<div class="row"><button id="se-re">Re-apply filters to all words…</button></div>`,
     [['Cancel', () => { }], ['Save', d => {

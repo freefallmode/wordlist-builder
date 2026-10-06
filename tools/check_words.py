@@ -24,7 +24,7 @@ for t, v in data.items():
         if not isinstance(w, str) or not w.strip(): errors.append(f'{t}: empty word'); continue
         if w.lower() in seen: warns.append(f'{t}: duplicate {w}')
         seen.add(w.lower())
-        if not re.fullmatch(r"[^\W\d_]+(?:[ -][^\W\d_]+)*", w): warns.append(f'{t}: not letters/space/hyphen: {w!r}')
+        if not re.fullmatch(r"[\w&'’]+(?:[ -][\w&'’]+)*", w) or '_' in w: warns.append(f'{t}: characters other than letters, digits, apostrophes, &, space, hyphen: {w!r}')
         if len(re.split(r'[ -]', w)) > 2: warns.append(f'{t}: more than two words: {w!r}')
         if not isinstance(uk, str) or (uk and uk.lower() == w.lower()): errors.append(f'{t}: uk must be "" or a different spelling: {e}')
         if fam not in (1, 2, 3, 4, 5): errors.append(f'{t}: familiarity must be 1-5: {e}')
