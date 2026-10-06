@@ -107,7 +107,7 @@
     toiletries -- travel-size items in a wash bag: toothpaste, shampoo, razor, deodorant
     beach gear
     souvenirs
-      turkish souvenirs [region:Turkey]
+      turkish souvenirs [region:Middle East]
       japanese souvenirs [region:Asia]
       mexican souvenirs [region:North America]
       moroccan souvenirs [region:Africa]
@@ -123,7 +123,7 @@
     beach destinations -- Bali, Cancun, Maldives, Ibiza, Phuket, Bodrum, Maui, Bondi
     famous ski resorts -- Aspen, Whistler, Zermatt, Chamonix, St. Moritz, Niseko
   travel around the world:
-    turkish travel words [region:Turkey] -- dolmus, otogar, vapur, gulet, caravanserai, bazaar
+    turkish travel words [region:Middle East] -- dolmus, otogar, vapur, gulet, caravanserai, bazaar
     desert travel [region:Middle East] -- camel, caravan, oasis, dune buggy, sandboard, Bedouin tent
     african transport [region:Africa] -- matatu, boda boda, tro-tro, felucca, bush taxi, pirogue
     asian transport [region:Asia] -- tuk-tuk, rickshaw, jeepney, sampan, longtail boat, bullet train

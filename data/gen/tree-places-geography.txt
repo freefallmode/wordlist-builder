@@ -28,7 +28,7 @@
       german cities [region:Europe]
       italian cities [region:Europe]
       spanish cities [region:Europe]
-    turkish cities [region:Turkey]
+    turkish cities [region:Middle East]
     middle eastern cities [region:Middle East]
     asian cities [region:Asia]
       chinese cities [region:Asia]
@@ -57,7 +57,7 @@
     german states [region:Europe]
     indian states [region:Asia]
     european holiday regions [region:Europe] -- Tuscany, Provence, Algarve, Cotswolds, Amalfi Coast, Dalmatia
-    turkish resorts [region:Turkey] -- Bodrum, Antalya, Fethiye, Cappadocia, Marmaris, Kas
+    turkish resorts [region:Middle East] -- Bodrum, Antalya, Fethiye, Cappadocia, Marmaris, Kas
     wine regions [adult] -- Bordeaux, Champagne, Rioja, Napa, Tuscany, Barossa
   famous natural features
     mountain ranges
@@ -101,7 +101,7 @@
     famous mosques [region:Middle East]
     famous churches [region:Europe] -- cathedrals, abbeys and churches
   landmarks by place:
-    turkish landmarks [region:Turkey] -- outside Istanbul: Cappadocia, Pamukkale, Ephesus, Troy, Mount Nemrut
+    turkish landmarks [region:Middle East] -- outside Istanbul: Cappadocia, Pamukkale, Ephesus, Troy, Mount Nemrut
     egyptian landmarks [region:Africa]
     african landmarks [region:Africa] -- outside Egypt: Kilimanjaro, Victoria Falls, Table Mountain, Timbuktu
     indian landmarks [region:Asia]
@@ -114,7 +114,7 @@
     us landmarks [region:North America]
     canadian landmarks [region:North America]
     city sights:
-      istanbul landmarks [region:Turkey]
+      istanbul landmarks [region:Middle East]
       london landmarks [region:Europe]
       paris landmarks [region:Europe]
       rome landmarks [region:Europe]

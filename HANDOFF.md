@@ -42,7 +42,7 @@ P = {
 ```
 - Theme `id` is a slug of the name at creation and never changes on rename (levels and translations will refer to it).
 - `kind`: '' (category), 'place' (things found at a place), 'property' (things sharing a property), 'wordplay'.
-- `region`: '' or one of Africa, Middle East, Turkey, Asia, Oceania, Antarctica, South America, North America, Europe. Acts: 1 Turkey / Middle East / Africa, 2 Asia, 3 Oceania, 4 Antarctica, 5 South America, 6 North America, 7 Europe / Turkey.
+- `region`: '' or one of Africa, Middle East (including Turkey), Asia, Oceania, Antarctica, South America, North America, Europe. Acts: 1 Turkey / Middle East / Africa, 2 Asia, 3 Oceania, 4 Antarctica, 5 South America, 6 North America, 7 Europe / Turkey.
 - `adult`: not family-friendly; inherited by everything under it. Settings → "Family-friendly game file" leaves adult themes and words out of the game export.
 - `group`: a container for browsing, never a playable theme.
 - `label`: the name shown in the game when it differs from `name`.

@@ -34,7 +34,7 @@
     edible flowers -- nasturtium, borage, violet, calendula, elderflower, squash blossom
     flowers with animal names [wordplay] -- flower names containing an animal: foxglove, larkspur, tiger lily, snapdragon, cowslip
     flowers of the world:
-      anatolian flowers [region:Turkey] -- flowers native to or iconic in Turkey: tulip, hyacinth, crocus, cyclamen, fritillary
+      anatolian flowers [region:Middle East] -- flowers native to or iconic in Turkey: tulip, hyacinth, crocus, cyclamen, fritillary
       south african flowers [region:Africa] -- protea, strelitzia, agapanthus, freesia, clivia, gerbera
       flowers of east asia [region:Asia] -- cherry blossom, lotus, chrysanthemum, peony, camellia, wisteria
       australian wildflowers [region:Oceania] -- kangaroo paw, waratah, wattle, banksia, flannel flower
@@ -73,7 +73,7 @@
     flat landscapes -- plain, plateau, prairie, steppe, tundra, moor, heath, fen, veld, pampas
     bodies of water -- lake, pond, lagoon, reservoir, loch, tarn, fjord, bay, gulf, estuary, sound
     scottish landscape words [region:Europe] -- glen, loch, ben, burn, brae, firth, strath, corrie, munro
-    cappadocia [place] [region:Turkey] -- fairy chimneys, hot air balloons, cave hotels, tuff, underground city, pigeon houses
+    cappadocia [place] [region:Middle East] -- fairy chimneys, hot air balloons, cave hotels, tuff, underground city, pigeon houses
   seashore:
     seashells -- cowrie, conch, scallop, cockle, whelk, clam, abalone, nautilus, limpet, sand dollar
     rock pool [place] -- crab, starfish, limpet, anemone, barnacle, periwinkle, shrimp, blenny

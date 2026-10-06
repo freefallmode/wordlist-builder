@@ -95,7 +95,7 @@
     bad habits -- nail biting, slouching, knuckle cracking, snacking, procrastinating
     healthy habits -- flossing, walking, drinking water, early nights, stretching
     spa [place]
-    turkish bath [place] [region:Turkey] -- hammam: kese, pestemal, marble slab, steam, foam, dome, clogs
+    turkish bath [place] [region:Middle East] -- hammam: kese, pestemal, marble slab, steam, foam, dome, clogs
     european spa towns [region:Europe] -- Bath, Baden-Baden, Vichy, Spa, Karlovy Vary, Evian
   nutrition
     vitamins

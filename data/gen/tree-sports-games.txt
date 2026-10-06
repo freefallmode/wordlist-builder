@@ -147,7 +147,7 @@
     building toys
     dolls and figures
   regional sports:
-    turkish football clubs [region:Turkey]
+    turkish football clubs [region:Middle East]
     middle eastern pastimes [region:Middle East] -- backgammon, falconry, camel racing, baloot
     african soccer clubs [region:Africa]
     south asian games [region:Asia] -- kabaddi, kho kho, carrom, gilli danda

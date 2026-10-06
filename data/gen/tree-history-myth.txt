@@ -16,9 +16,9 @@
     ancient persia [region:Middle East]
     feudal japan [region:Asia]
     vikings [region:Europe]
-    byzantine empire [region:Turkey]
-    ottoman empire [region:Turkey]
-      ottoman sultans [region:Turkey]
+    byzantine empire [region:Middle East]
+    ottoman empire [region:Middle East]
+      ottoman sultans [region:Middle East]
     celts [region:Europe]
   medieval times
     knights
@@ -103,7 +103,7 @@
     archaeology words
     dig site [place]
     ancient sites
-      ancient sites of turkey [region:Turkey]
+      ancient sites of turkey [region:Middle East]
       ancient sites of the middle east [region:Middle East]
       ancient sites of africa [region:Africa]
       ancient sites of europe [region:Europe]
@@ -120,7 +120,7 @@
     greek gods [region:Europe]
       titans
       greek monsters
-      trojan war [region:Turkey]
+      trojan war [region:Middle East]
     roman gods [region:Europe]
     norse gods [region:Europe]
       norse mythology [region:Europe] -- places and things, not gods: Valhalla, Asgard, Yggdrasil, Ragnarok, Mjolnir
@@ -162,7 +162,7 @@
     slavic folklore [region:Europe]
     native american folklore [region:North America]
     latin american folklore [region:South America]
-    turkish folklore [region:Turkey] -- Nasreddin Hodja, Keloglan, Dede Korkut, Karagoz, Sahmeran, Tepegoz
+    turkish folklore [region:Middle East] -- Nasreddin Hodja, Keloglan, Dede Korkut, Karagoz, Sahmeran, Tepegoz
     arabian nights [region:Middle East]
     aboriginal dreaming [region:Oceania]
     american tall tales [region:North America]

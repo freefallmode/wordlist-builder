@@ -104,10 +104,10 @@
       greek food [region:Europe] -- moussaka, souvlaki, gyros, spanakopita, dolmades, pastitsio
       german food [region:Europe] -- sauerkraut, pretzel, schnitzel, spätzle, strudel, sauerbraten
       eastern european food [region:Europe] -- pierogi, borscht, goulash, kielbasa, blini, pelmeni
-    turkish food [region:Turkey]
-      turkish breakfast [region:Turkey] -- simit, menemen, sucuk, beyaz peynir, kaymak, gözleme, çay
-      kebab types [region:Turkey] -- adana, urfa, iskender, döner, şiş, beyti, cağ kebab
-      turkish drinks [region:Turkey] -- çay, ayran, turkish coffee, salep, boza, şalgam, sherbet
+    turkish food [region:Middle East]
+      turkish breakfast [region:Middle East] -- simit, menemen, sucuk, beyaz peynir, kaymak, gözleme, çay
+      kebab types [region:Middle East] -- adana, urfa, iskender, döner, şiş, beyti, cağ kebab
+      turkish drinks [region:Middle East] -- çay, ayran, turkish coffee, salep, boza, şalgam, sherbet
     middle eastern food [region:Middle East]
       meze [region:Middle East] -- small shared plates: hummus, tabbouleh, dolma, muhammara, falafel
       persian food [region:Middle East] -- tahdig, ghormeh sabzi, fesenjan, koobideh, ash reshteh

@@ -9,7 +9,7 @@
       languages of china [region:Asia]
     african languages [region:Africa]
     middle eastern languages [region:Middle East]
-    turkic languages [region:Turkey]
+    turkic languages [region:Middle East]
     pacific languages [region:Oceania]
     ancient languages
     languages of the americas
@@ -45,7 +45,7 @@
     spanish numbers [region:South America]
     french phrases in english [region:Europe] -- deja vu, faux pas, rendezvous, c'est la vie
     latin phrases -- carpe diem, status quo, ad hoc, bona fide
-    turkish everyday words [region:Turkey] -- merhaba, evet, hayir, tamam, cay, lokum
+    turkish everyday words [region:Middle East] -- merhaba, evet, hayir, tamam, cay, lokum
     swahili words [region:Africa] -- jambo, asante, safari, karibu, rafiki, pole pole
     hindi everyday words [region:Asia] -- namaste, accha, chai, jaldi, dhanyavaad, yaar
     hawaiian words [region:Oceania] -- aloha, mahalo, ohana, luau, lei, keiki
@@ -139,7 +139,7 @@
     words from yiddish -- klutz, schmooze, chutzpah, bagel, glitch
     words from arabic [region:Middle East] -- algebra, coffee, sofa, magazine
     words from persian [region:Middle East] -- bazaar, caravan, pajamas, paradise
-    words from turkish [region:Turkey] -- yogurt, kiosk, kebab, tulip, divan
+    words from turkish [region:Middle East] -- yogurt, kiosk, kebab, tulip, divan
     words from hindi [region:Asia] -- shampoo, jungle, bungalow, bandana
     words from japanese [region:Asia] -- tsunami, karaoke, emoji, tycoon
     words from chinese [region:Asia] -- ketchup, typhoon, wok, kowtow, gung ho
@@ -168,7 +168,7 @@
     names that are colors -- Scarlett, Violet, Hazel, Sienna, Indigo
     names that are trees -- Ash, Willow, Rowan, Aspen, Juniper
     names around the world:
-      turkish names [region:Turkey] -- Mehmet, Ayse, Elif, Emre, Zeynep
+      turkish names [region:Middle East] -- Mehmet, Ayse, Elif, Emre, Zeynep
       arabic names [region:Middle East] -- Omar, Fatima, Layla, Khalid, Yasmin
       indian names [region:Asia] -- Priya, Arjun, Anjali, Rahul, Vikram
       japanese names [region:Asia] -- Hiroshi, Yuki, Sakura, Kenji, Akira

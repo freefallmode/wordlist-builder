@@ -101,7 +101,7 @@
       african birds [region:Africa]
       madagascar animals [region:Africa]
     middle eastern animals [region:Middle East]
-    turkish animals [region:Turkey]
+    turkish animals [region:Middle East]
     asian animals [region:Asia]
       indian animals [region:Asia]
       himalayan animals [region:Asia]

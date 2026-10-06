@@ -71,7 +71,7 @@
     coats and jackets
     underwear
     traditional clothes
-      ottoman clothing [region:Turkey] -- fez, kaftan, salvar, entari, yashmak, kalpak
+      ottoman clothing [region:Middle East] -- fez, kaftan, salvar, entari, yashmak, kalpak
       middle eastern clothing [region:Middle East] -- thobe, abaya, keffiyeh, dishdasha, bisht
       african clothing [region:Africa] -- dashiki, kente, boubou, agbada, gele, kanga
       japanese clothing [region:Asia] -- kimono, yukata, obi, hakama, geta, tabi
@@ -159,7 +159,7 @@
     things with lids [property]
     things with legs [property] -- furniture and objects, not animals
   homes around the world:
-    turkish home [place] [region:Turkey] -- kilim, divan, tea glasses, evil eye bead, cezve
+    turkish home [place] [region:Middle East] -- kilim, divan, tea glasses, evil eye bead, cezve
     majlis [place] [region:Middle East] -- dallah, finjan, incense burner, cushions, rugs
     african home [place] [region:Africa] -- calabash, clay pot, woven basket, mortar, rondavel
     japanese home [place] [region:Asia] -- tatami, futon, shoji, kotatsu, genkan

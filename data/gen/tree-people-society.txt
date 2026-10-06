@@ -43,7 +43,7 @@
     election words
     political titles
     royal titles
-      ottoman titles [region:Turkey] -- sultan, pasha, vizier, bey, agha, effendi, janissary, kadi, sipahi, beylerbey
+      ottoman titles [region:Middle East] -- sultan, pasha, vizier, bey, agha, effendi, janissary, kadi, sipahi, beylerbey
     royal things -- objects and occasions of monarchy: crown, throne, scepter, orb, tiara, coronation, jubilee, ermine
     types of government
     parts of parliament

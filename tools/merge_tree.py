@@ -9,7 +9,7 @@ ROOT = os.path.join(os.path.dirname(__file__), '..')
 GROUPS = ['Food & Drink', 'Animals', 'Nature & Earth', 'Places & Geography', 'Travel & Transport', 'Body & Health',
           'People & Society', 'Home & Everyday', 'Sports & Games', 'Arts & Entertainment', 'History & Myth',
           'Science & Tech', 'Language & Wordplay', 'Qualities']
-REGIONS = {'africa', 'middle east', 'turkey', 'asia', 'oceania', 'antarctica', 'south america', 'north america', 'europe'}
+REGIONS = {'africa', 'middle east', 'asia', 'oceania', 'antarctica', 'south america', 'north america', 'europe'}
 KINDS = {'place', 'property', 'wordplay'}
 slug = lambda g: re.sub(r'[^a-z0-9]+', '-', g.lower()).strip('-')
 

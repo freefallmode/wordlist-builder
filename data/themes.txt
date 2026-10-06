@@ -105,10 +105,10 @@ Food & Drink:
       greek food [region:Europe] -- moussaka, souvlaki, gyros, spanakopita, dolmades, pastitsio
       german food [region:Europe] -- sauerkraut, pretzel, schnitzel, spätzle, strudel, sauerbraten
       eastern european food [region:Europe] -- pierogi, borscht, goulash, kielbasa, blini, pelmeni
-    turkish food [region:Turkey]
-      turkish breakfast [region:Turkey] -- simit, menemen, sucuk, beyaz peynir, kaymak, gözleme, çay
-      kebab types [region:Turkey] -- adana, urfa, iskender, döner, şiş, beyti, cağ kebab
-      turkish drinks [region:Turkey] -- çay, ayran, turkish coffee, salep, boza, şalgam, sherbet
+    turkish food [region:Middle East]
+      turkish breakfast [region:Middle East] -- simit, menemen, sucuk, beyaz peynir, kaymak, gözleme, çay
+      kebab types [region:Middle East] -- adana, urfa, iskender, döner, şiş, beyti, cağ kebab
+      turkish drinks [region:Middle East] -- çay, ayran, turkish coffee, salep, boza, şalgam, sherbet
     middle eastern food [region:Middle East]
       meze [region:Middle East] -- small shared plates: hummus, tabbouleh, dolma, muhammara, falafel
       persian food [region:Middle East] -- tahdig, ghormeh sabzi, fesenjan, koobideh, ash reshteh
@@ -286,7 +286,7 @@ Animals:
       african birds [region:Africa]
       madagascar animals [region:Africa]
     middle eastern animals [region:Middle East]
-    turkish animals [region:Turkey]
+    turkish animals [region:Middle East]
     asian animals [region:Asia]
       indian animals [region:Asia]
       himalayan animals [region:Asia]
@@ -392,7 +392,7 @@ Nature & Earth:
     edible flowers -- nasturtium, borage, violet, calendula, elderflower, squash blossom
     flowers with animal names [wordplay] -- flower names containing an animal: foxglove, larkspur, tiger lily, snapdragon, cowslip
     flowers of the world:
-      anatolian flowers [region:Turkey] -- flowers native to or iconic in Turkey: tulip, hyacinth, crocus, cyclamen, fritillary
+      anatolian flowers [region:Middle East] -- flowers native to or iconic in Turkey: tulip, hyacinth, crocus, cyclamen, fritillary
       south african flowers [region:Africa] -- protea, strelitzia, agapanthus, freesia, clivia, gerbera
       flowers of east asia [region:Asia] -- cherry blossom, lotus, chrysanthemum, peony, camellia, wisteria
       australian wildflowers [region:Oceania] -- kangaroo paw, waratah, wattle, banksia, flannel flower
@@ -431,7 +431,7 @@ Nature & Earth:
     flat landscapes -- plain, plateau, prairie, steppe, tundra, moor, heath, fen, veld, pampas
     bodies of water -- lake, pond, lagoon, reservoir, loch, tarn, fjord, bay, gulf, estuary, sound
     scottish landscape words [region:Europe] -- glen, loch, ben, burn, brae, firth, strath, corrie, munro
-    cappadocia [place] [region:Turkey] -- fairy chimneys, hot air balloons, cave hotels, tuff, underground city, pigeon houses
+    cappadocia [place] [region:Middle East] -- fairy chimneys, hot air balloons, cave hotels, tuff, underground city, pigeon houses
   seashore:
     seashells -- cowrie, conch, scallop, cockle, whelk, clam, abalone, nautilus, limpet, sand dollar
     rock pool [place] -- crab, starfish, limpet, anemone, barnacle, periwinkle, shrimp, blenny
@@ -536,7 +536,7 @@ Places & Geography:
       german cities [region:Europe]
       italian cities [region:Europe]
       spanish cities [region:Europe]
-    turkish cities [region:Turkey]
+    turkish cities [region:Middle East]
     middle eastern cities [region:Middle East]
     asian cities [region:Asia]
       chinese cities [region:Asia]
@@ -565,7 +565,7 @@ Places & Geography:
     german states [region:Europe]
     indian states [region:Asia]
     european holiday regions [region:Europe] -- Tuscany, Provence, Algarve, Cotswolds, Amalfi Coast, Dalmatia
-    turkish resorts [region:Turkey] -- Bodrum, Antalya, Fethiye, Cappadocia, Marmaris, Kas
+    turkish resorts [region:Middle East] -- Bodrum, Antalya, Fethiye, Cappadocia, Marmaris, Kas
     wine regions [adult] -- Bordeaux, Champagne, Rioja, Napa, Tuscany, Barossa
   famous natural features
     mountain ranges
@@ -609,7 +609,7 @@ Places & Geography:
     famous mosques [region:Middle East]
     famous churches [region:Europe] -- cathedrals, abbeys and churches
   landmarks by place:
-    turkish landmarks [region:Turkey] -- outside Istanbul: Cappadocia, Pamukkale, Ephesus, Troy, Mount Nemrut
+    turkish landmarks [region:Middle East] -- outside Istanbul: Cappadocia, Pamukkale, Ephesus, Troy, Mount Nemrut
     egyptian landmarks [region:Africa]
     african landmarks [region:Africa] -- outside Egypt: Kilimanjaro, Victoria Falls, Table Mountain, Timbuktu
     indian landmarks [region:Asia]
@@ -622,7 +622,7 @@ Places & Geography:
     us landmarks [region:North America]
     canadian landmarks [region:North America]
     city sights:
-      istanbul landmarks [region:Turkey]
+      istanbul landmarks [region:Middle East]
       london landmarks [region:Europe]
       paris landmarks [region:Europe]
       rome landmarks [region:Europe]
@@ -816,7 +816,7 @@ Travel & Transport:
     toiletries -- travel-size items in a wash bag: toothpaste, shampoo, razor, deodorant
     beach gear
     souvenirs
-      turkish souvenirs [region:Turkey]
+      turkish souvenirs [region:Middle East]
       japanese souvenirs [region:Asia]
       mexican souvenirs [region:North America]
       moroccan souvenirs [region:Africa]
@@ -832,7 +832,7 @@ Travel & Transport:
     beach destinations -- Bali, Cancun, Maldives, Ibiza, Phuket, Bodrum, Maui, Bondi
     famous ski resorts -- Aspen, Whistler, Zermatt, Chamonix, St. Moritz, Niseko
   travel around the world:
-    turkish travel words [region:Turkey] -- dolmus, otogar, vapur, gulet, caravanserai, bazaar
+    turkish travel words [region:Middle East] -- dolmus, otogar, vapur, gulet, caravanserai, bazaar
     desert travel [region:Middle East] -- camel, caravan, oasis, dune buggy, sandboard, Bedouin tent
     african transport [region:Africa] -- matatu, boda boda, tro-tro, felucca, bush taxi, pirogue
     asian transport [region:Asia] -- tuk-tuk, rickshaw, jeepney, sampan, longtail boat, bullet train
@@ -948,7 +948,7 @@ Body & Health:
     bad habits -- nail biting, slouching, knuckle cracking, snacking, procrastinating
     healthy habits -- flossing, walking, drinking water, early nights, stretching
     spa [place]
-    turkish bath [place] [region:Turkey] -- hammam: kese, pestemal, marble slab, steam, foam, dome, clogs
+    turkish bath [place] [region:Middle East] -- hammam: kese, pestemal, marble slab, steam, foam, dome, clogs
     european spa towns [region:Europe] -- Bath, Baden-Baden, Vichy, Spa, Karlovy Vary, Evian
   nutrition
     vitamins
@@ -1013,7 +1013,7 @@ People & Society:
     election words
     political titles
     royal titles
-      ottoman titles [region:Turkey] -- sultan, pasha, vizier, bey, agha, effendi, janissary, kadi, sipahi, beylerbey
+      ottoman titles [region:Middle East] -- sultan, pasha, vizier, bey, agha, effendi, janissary, kadi, sipahi, beylerbey
     royal things -- objects and occasions of monarchy: crown, throne, scepter, orb, tiara, coronation, jubilee, ermine
     types of government
     parts of parliament
@@ -1183,7 +1183,7 @@ Home & Everyday:
     coats and jackets
     underwear
     traditional clothes
-      ottoman clothing [region:Turkey] -- fez, kaftan, salvar, entari, yashmak, kalpak
+      ottoman clothing [region:Middle East] -- fez, kaftan, salvar, entari, yashmak, kalpak
       middle eastern clothing [region:Middle East] -- thobe, abaya, keffiyeh, dishdasha, bisht
       african clothing [region:Africa] -- dashiki, kente, boubou, agbada, gele, kanga
       japanese clothing [region:Asia] -- kimono, yukata, obi, hakama, geta, tabi
@@ -1271,7 +1271,7 @@ Home & Everyday:
     things with lids [property]
     things with legs [property] -- furniture and objects, not animals
   homes around the world:
-    turkish home [place] [region:Turkey] -- kilim, divan, tea glasses, evil eye bead, cezve
+    turkish home [place] [region:Middle East] -- kilim, divan, tea glasses, evil eye bead, cezve
     majlis [place] [region:Middle East] -- dallah, finjan, incense burner, cushions, rugs
     african home [place] [region:Africa] -- calabash, clay pot, woven basket, mortar, rondavel
     japanese home [place] [region:Asia] -- tatami, futon, shoji, kotatsu, genkan
@@ -1429,7 +1429,7 @@ Sports & Games:
     building toys
     dolls and figures
   regional sports:
-    turkish football clubs [region:Turkey]
+    turkish football clubs [region:Middle East]
     middle eastern pastimes [region:Middle East] -- backgammon, falconry, camel racing, baloot
     african soccer clubs [region:Africa]
     south asian games [region:Asia] -- kabaddi, kho kho, carrom, gilli danda
@@ -1451,7 +1451,7 @@ Arts & Entertainment:
       african drums [region:Africa]
     keyboard instruments
     folk instruments
-      turkish instruments [region:Turkey]
+      turkish instruments [region:Middle East]
       middle eastern instruments [region:Middle East]
       african instruments [region:Africa]
       chinese instruments [region:Asia]
@@ -1498,7 +1498,7 @@ Arts & Entertainment:
     pop stars
     jazz musicians
     rock guitarists
-    turkish singers [region:Turkey]
+    turkish singers [region:Middle East]
     african musicians [region:Africa]
     south american singers [region:South America]
     country singers [region:North America]
@@ -1539,7 +1539,7 @@ Arts & Entertainment:
     drawing techniques
     world art:
       islamic art words [region:Middle East]
-      turkish arts [region:Turkey] -- ebru, cini, hat, tezhip, minyatur, kilim, Iznik tiles
+      turkish arts [region:Middle East] -- ebru, cini, hat, tezhip, minyatur, kilim, Iznik tiles
       asian art forms [region:Asia]
       pacific art words [region:Oceania] -- Aboriginal and Maori art: dot painting, ochre, koru, ta moko, tapa
       african art words [region:Africa]
@@ -1576,7 +1576,7 @@ Arts & Entertainment:
       british novelists [region:Europe]
       american novelists [region:North America]
       russian writers [region:Europe]
-      turkish writers [region:Turkey]
+      turkish writers [region:Middle East]
       african writers [region:Africa]
       japanese writers [region:Asia]
       latin american writers [region:South America]
@@ -1635,9 +1635,9 @@ History & Myth:
     ancient persia [region:Middle East]
     feudal japan [region:Asia]
     vikings [region:Europe]
-    byzantine empire [region:Turkey]
-    ottoman empire [region:Turkey]
-      ottoman sultans [region:Turkey]
+    byzantine empire [region:Middle East]
+    ottoman empire [region:Middle East]
+      ottoman sultans [region:Middle East]
     celts [region:Europe]
   medieval times
     knights
@@ -1722,7 +1722,7 @@ History & Myth:
     archaeology words
     dig site [place]
     ancient sites
-      ancient sites of turkey [region:Turkey]
+      ancient sites of turkey [region:Middle East]
       ancient sites of the middle east [region:Middle East]
       ancient sites of africa [region:Africa]
       ancient sites of europe [region:Europe]
@@ -1739,7 +1739,7 @@ History & Myth:
     greek gods [region:Europe]
       titans
       greek monsters
-      trojan war [region:Turkey]
+      trojan war [region:Middle East]
     roman gods [region:Europe]
     norse gods [region:Europe]
       norse mythology [region:Europe] -- places and things, not gods: Valhalla, Asgard, Yggdrasil, Ragnarok, Mjolnir
@@ -1781,7 +1781,7 @@ History & Myth:
     slavic folklore [region:Europe]
     native american folklore [region:North America]
     latin american folklore [region:South America]
-    turkish folklore [region:Turkey] -- Nasreddin Hodja, Keloglan, Dede Korkut, Karagoz, Sahmeran, Tepegoz
+    turkish folklore [region:Middle East] -- Nasreddin Hodja, Keloglan, Dede Korkut, Karagoz, Sahmeran, Tepegoz
     arabian nights [region:Middle East]
     aboriginal dreaming [region:Oceania]
     american tall tales [region:North America]
@@ -1960,7 +1960,7 @@ Language & Wordplay:
       languages of china [region:Asia]
     african languages [region:Africa]
     middle eastern languages [region:Middle East]
-    turkic languages [region:Turkey]
+    turkic languages [region:Middle East]
     pacific languages [region:Oceania]
     ancient languages
     languages of the americas
@@ -1996,7 +1996,7 @@ Language & Wordplay:
     spanish numbers [region:South America]
     french phrases in english [region:Europe] -- deja vu, faux pas, rendezvous, c'est la vie
     latin phrases -- carpe diem, status quo, ad hoc, bona fide
-    turkish everyday words [region:Turkey] -- merhaba, evet, hayir, tamam, cay, lokum
+    turkish everyday words [region:Middle East] -- merhaba, evet, hayir, tamam, cay, lokum
     swahili words [region:Africa] -- jambo, asante, safari, karibu, rafiki, pole pole
     hindi everyday words [region:Asia] -- namaste, accha, chai, jaldi, dhanyavaad, yaar
     hawaiian words [region:Oceania] -- aloha, mahalo, ohana, luau, lei, keiki
@@ -2090,7 +2090,7 @@ Language & Wordplay:
     words from yiddish -- klutz, schmooze, chutzpah, bagel, glitch
     words from arabic [region:Middle East] -- algebra, coffee, sofa, magazine
     words from persian [region:Middle East] -- bazaar, caravan, pajamas, paradise
-    words from turkish [region:Turkey] -- yogurt, kiosk, kebab, tulip, divan
+    words from turkish [region:Middle East] -- yogurt, kiosk, kebab, tulip, divan
     words from hindi [region:Asia] -- shampoo, jungle, bungalow, bandana
     words from japanese [region:Asia] -- tsunami, karaoke, emoji, tycoon
     words from chinese [region:Asia] -- ketchup, typhoon, wok, kowtow, gung ho
@@ -2119,7 +2119,7 @@ Language & Wordplay:
     names that are colors -- Scarlett, Violet, Hazel, Sienna, Indigo
     names that are trees -- Ash, Willow, Rowan, Aspen, Juniper
     names around the world:
-      turkish names [region:Turkey] -- Mehmet, Ayse, Elif, Emre, Zeynep
+      turkish names [region:Middle East] -- Mehmet, Ayse, Elif, Emre, Zeynep
       arabic names [region:Middle East] -- Omar, Fatima, Layla, Khalid, Yasmin
       indian names [region:Asia] -- Priya, Arjun, Anjali, Rahul, Vikram
       japanese names [region:Asia] -- Hiroshi, Yuki, Sakura, Kenji, Akira
@@ -2146,7 +2146,7 @@ Qualities:
     colors in other languages:
       colors in spanish [region:South America] -- rojo, azul, verde, amarillo, blanco
       colors in french [region:Europe] -- rouge, bleu, vert, jaune, blanc
-      colors in turkish [region:Turkey] -- kirmizi, mavi, yesil, sari, beyaz
+      colors in turkish [region:Middle East] -- kirmizi, mavi, yesil, sari, beyaz
   shapes and patterns
     2d shapes
     3d shapes
@@ -2202,7 +2202,7 @@ Qualities:
     tastes by region:
       spicy dishes of asia [region:Asia] -- kimchi, vindaloo, tom yum, mapo tofu, laksa, sambal
       spicy dishes of africa [region:Africa] -- peri-peri chicken, doro wat, suya, jollof rice, harissa
-      sweet treats of turkey [region:Turkey] -- baklava, lokum, kunefe, helva, sutlac, kadayif
+      sweet treats of turkey [region:Middle East] -- baklava, lokum, kunefe, helva, sutlac, kadayif
       south american sweets [region:South America] -- dulce de leche, alfajores, brigadeiro, quindim, picarones
       american candy [region:North America] -- candy corn, jelly beans, Twizzlers, Peeps, saltwater taffy
   synonyms:

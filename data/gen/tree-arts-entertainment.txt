@@ -9,7 +9,7 @@
       african drums [region:Africa]
     keyboard instruments
     folk instruments
-      turkish instruments [region:Turkey]
+      turkish instruments [region:Middle East]
       middle eastern instruments [region:Middle East]
       african instruments [region:Africa]
       chinese instruments [region:Asia]
@@ -56,7 +56,7 @@
     pop stars
     jazz musicians
     rock guitarists
-    turkish singers [region:Turkey]
+    turkish singers [region:Middle East]
     african musicians [region:Africa]
     south american singers [region:South America]
     country singers [region:North America]
@@ -97,7 +97,7 @@
     drawing techniques
     world art:
       islamic art words [region:Middle East]
-      turkish arts [region:Turkey] -- ebru, cini, hat, tezhip, minyatur, kilim, Iznik tiles
+      turkish arts [region:Middle East] -- ebru, cini, hat, tezhip, minyatur, kilim, Iznik tiles
       asian art forms [region:Asia]
       pacific art words [region:Oceania] -- Aboriginal and Maori art: dot painting, ochre, koru, ta moko, tapa
       african art words [region:Africa]
@@ -134,7 +134,7 @@
       british novelists [region:Europe]
       american novelists [region:North America]
       russian writers [region:Europe]
-      turkish writers [region:Turkey]
+      turkish writers [region:Middle East]
       african writers [region:Africa]
       japanese writers [region:Asia]
       latin american writers [region:South America]

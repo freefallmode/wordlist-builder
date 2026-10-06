@@ -3,7 +3,7 @@
 // The project lives in IndexedDB (autosaved) and in project files. Both use
 // the compact format from serialize(): words point at themes by index.
 
-const VERSION = '9';  // must match data-v and the ?v= links in index.html
+const VERSION = '10';  // must match data-v and the ?v= links in index.html
 const $ = s => document.querySelector(s);
 const esc = s => String(s ?? '').replace(/[&<>"']/g, c => ({ '&': '&amp;', '<': '&lt;', '>': '&gt;', '"': '&quot;', "'": '&#39;' }[c]));
 const slug = t => t.normalize('NFKD').replace(/[̀-ͯ]/g, '').replace(/[^\p{L}\p{N}]+/gu, '_').replace(/^_|_$/g, '').toLowerCase();
@@ -20,8 +20,8 @@ const KIND_HELP = {
   wordplay: 'Linked by spelling or sound: ___ball, hidden words',
 };
 // Regions for the journey's acts: 1 Turkey / Middle East / Africa, 2 Asia, 3 Oceania, 4 Antarctica,
-// 5 South America, 6 North America, 7 Europe / Turkey.
-const REGIONS = ['', 'Africa', 'Middle East', 'Turkey', 'Asia', 'Oceania', 'Antarctica', 'South America', 'North America', 'Europe'];
+// 5 South America, 6 North America, 7 Europe / Turkey. Turkey counts as Middle East.
+const REGIONS = ['', 'Africa', 'Middle East', 'Asia', 'Oceania', 'Antarctica', 'South America', 'North America', 'Europe'];
 const MODELS = [['claude-opus-5-5', 'Claude Opus 5.5'], ['claude-sonnet-5-5', 'Claude Sonnet 5.5'], ['claude-haiku-4-5', 'Claude Haiku 4.5']];
 const SRC = { llm: 'L', manual: 'M', wikidata: 'W', conceptnet: 'C', datamuse: 'D' };
 const SRC_NAME = Object.fromEntries(Object.entries(SRC).map(([k, v]) => [v, k]));
@@ -367,7 +367,7 @@ function importOutline(txt) {
     let grp = /:\s*$/.test(name);
     name = name.replace(/\s*\[([^\]]+)\]/g, (m, tag) => {
       const [k, v] = tag.split(':').map(x => x.trim());
-      if (k === 'region') region = REGIONS.find(r => r && r.toLowerCase() === (v || '').toLowerCase()) || '';
+      if (k === 'region') { const rv = (v || '').toLowerCase() === 'turkey' ? 'middle east' : (v || '').toLowerCase(); region = REGIONS.find(r => r && r.toLowerCase() === rv) || ''; }
       else if (k === 'adult') adult = true;
       else if (k in KINDS) kind = k;
       return '';
@@ -660,7 +660,7 @@ function themeDialog() {
   dialog('Theme settings', field('Name', `<input id="ts-n" value="${esc(t.name)}">`)
     + field('Name shown in the game (optional, keep it short)', `<input id="ts-l" value="${esc(t.label)}" placeholder="${esc(t.name.replace(/^./, c => c.toUpperCase()))}">`)
     + field('Kind', `<select id="ts-k">${options(Object.entries(KINDS).map(([k, v]) => [k, v + ': ' + KIND_HELP[k]]), t.kind || '')}</select>`)
-    + field('Region (acts: 1 Turkey, Middle East, Africa · 2 Asia · 3 Oceania · 4 Antarctica · 5 South America · 6 North America · 7 Europe, Turkey)', `<select id="ts-r">${options(REGIONS.map(r => [r, r || 'Any']), t.region || '')}</select>`)
+    + field('Region (acts: 1 Middle East incl. Turkey, Africa · 2 Asia · 3 Oceania · 4 Antarctica · 5 South America · 6 North America · 7 Europe, Turkey)', `<select id="ts-r">${options(REGIONS.map(r => [r, r || 'Any']), t.region || '')}</select>`)
     + field('Difficulty', `<select id="ts-d"><option value="">From depth (${Math.min(5, depth(t.id))})</option>${[1, 2, 3, 4, 5].map(n => `<option${t.d === n ? ' selected' : ''}>${n}</option>`).join('')}</select>`)
     + field('Notes (also sent to Claude to steer generation)', `<textarea id="ts-o" rows="2">${esc(t.note)}</textarea>`)
     + `<label class="pick"><input type="checkbox" id="ts-g"${t.group ? ' checked' : ''}> Group: a container for browsing, never used as a theme in a level</label>`

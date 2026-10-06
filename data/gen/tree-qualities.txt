@@ -13,7 +13,7 @@
     colors in other languages:
       colors in spanish [region:South America] -- rojo, azul, verde, amarillo, blanco
       colors in french [region:Europe] -- rouge, bleu, vert, jaune, blanc
-      colors in turkish [region:Turkey] -- kirmizi, mavi, yesil, sari, beyaz
+      colors in turkish [region:Middle East] -- kirmizi, mavi, yesil, sari, beyaz
   shapes and patterns
     2d shapes
     3d shapes
@@ -69,7 +69,7 @@
     tastes by region:
       spicy dishes of asia [region:Asia] -- kimchi, vindaloo, tom yum, mapo tofu, laksa, sambal
       spicy dishes of africa [region:Africa] -- peri-peri chicken, doro wat, suya, jollof rice, harissa
-      sweet treats of turkey [region:Turkey] -- baklava, lokum, kunefe, helva, sutlac, kadayif
+      sweet treats of turkey [region:Middle East] -- baklava, lokum, kunefe, helva, sutlac, kadayif
       south american sweets [region:South America] -- dulce de leche, alfajores, brigadeiro, quindim, picarones
       american candy [region:North America] -- candy corn, jelly beans, Twizzlers, Peeps, saltwater taffy
   synonyms:
