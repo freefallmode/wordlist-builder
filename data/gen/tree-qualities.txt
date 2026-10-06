@@ -71,7 +71,7 @@
       spicy dishes of africa [region:Africa] -- peri-peri chicken, doro wat, suya, jollof rice, harissa
       sweet treats of turkey [region:Middle East] -- baklava, lokum, kunefe, helva, sutlac, kadayif
       south american sweets [region:South America] -- dulce de leche, alfajores, brigadeiro, quindim, picarones
-      american candy [region:North America] -- candy corn, jelly beans, Twizzlers, Peeps, saltwater taffy
+      american candy [region:North America] [trademark] -- candy corn, jelly beans, Twizzlers, Peeps, saltwater taffy
   synonyms:
     words for big
     words for small

@@ -67,7 +67,7 @@
       noodle dishes [region:Asia] -- pad thai, ramen, pho, chow mein, laksa, japchae, yakisoba
     rice dishes
     grains
-    breakfast cereals [separate]
+    breakfast cereals [separate] [trademark]
     dumplings
   herbs, spices and sauces
     herbs
@@ -144,7 +144,7 @@
     teas [separate]
     coffee drinks
       coffee words [separate] -- bean, roast, grind, barista, crema, arabica, robusta, decaf, moka pot
-    soft drinks
+    soft drinks [trademark]
     juices [separate]
     asian drinks [region:Asia] -- non-alcoholic: bubble tea, matcha, lassi, chai, thai iced tea, teh tarik
     cocktails [adult]

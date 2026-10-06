@@ -68,7 +68,7 @@ Food & Drink:
       noodle dishes [region:Asia] -- pad thai, ramen, pho, chow mein, laksa, japchae, yakisoba
     rice dishes
     grains
-    breakfast cereals [separate]
+    breakfast cereals [separate] [trademark]
     dumplings
   herbs, spices and sauces
     herbs
@@ -145,7 +145,7 @@ Food & Drink:
     teas [separate]
     coffee drinks
       coffee words [separate] -- bean, roast, grind, barista, crema, arabica, robusta, decaf, moka pot
-    soft drinks
+    soft drinks [trademark]
     juices [separate]
     asian drinks [region:Asia] -- non-alcoholic: bubble tea, matcha, lassi, chai, thai iced tea, teh tarik
     cocktails [adult]
@@ -708,17 +708,17 @@ Places & Geography:
     national costumes [separate]
 Travel & Transport:
   cars
-    car brands
-      german car brands [region:Europe]
-      japanese car brands [region:Asia]
-      american car brands [region:North America]
-      british car brands [region:Europe]
+    car brands [trademark]
+      german car brands [region:Europe] [trademark]
+      japanese car brands [region:Asia] [trademark]
+      american car brands [region:North America] [trademark]
+      british car brands [region:Europe] [trademark]
     car parts
       dashboard items -- things on or in a car dashboard: speedometer, odometer, glove box, fuel gauge
     car types
-      famous car models [separate] -- named models: Model T, Beetle, Mustang, Mini, Corvette, Corolla
+      famous car models [separate] [trademark] -- named models: Model T, Beetle, Mustang, Mini, Corvette, Corolla
     driving words
-    motor racing
+    motor racing [trademark]
       famous race tracks [separate] -- Monza, Silverstone, Daytona, Le Mans, Suzuka, Indianapolis
     road signs
     gas station [place] [separate]
@@ -735,14 +735,14 @@ Travel & Transport:
     plane parts
     airport words
     flight crew
-    airlines [separate]
-      european airlines [region:Europe]
-      asian airlines [region:Asia]
-      middle eastern airlines [region:Middle East]
+    airlines [separate] [trademark]
+      european airlines [region:Europe] [trademark]
+      asian airlines [region:Asia] [trademark]
+      middle eastern airlines [region:Middle East] [trademark]
     flying machines
     famous airports [separate] -- Heathrow, JFK, Changi, O'Hare, Schiphol, Narita
     in-flight words -- tray table, overhead bin, aisle seat, seatbelt sign, turbulence
-    aircraft makers [separate] -- Boeing, Airbus, Embraer, Cessna, Lockheed, Antonov
+    aircraft makers [separate] [trademark] -- Boeing, Airbus, Embraer, Cessna, Lockheed, Antonov
   boats and ships
     boat types
       small boats -- canoe, kayak, dinghy, rowboat, punt, raft, skiff
@@ -763,7 +763,7 @@ Travel & Transport:
     railway words
     station words
     famous trains [separate]
-      high-speed trains -- Shinkansen, TGV, ICE, AVE, Eurostar, Acela, KTX
+      high-speed trains [trademark] -- Shinkansen, TGV, ICE, AVE, Eurostar, Acela, KTX
       famous locomotives -- Flying Scotsman, Mallard, Rocket, Big Boy
     metro systems [separate] -- names of city rail systems: Tube, U-Bahn, BART, MTR, the El, Marmaray
     famous train stations [separate] -- Grand Central, King's Cross, Gare du Nord, Haydarpasa, Shinjuku
@@ -771,9 +771,9 @@ Travel & Transport:
   bikes and boards:
     bicycle parts
     bike types
-    motorcycle brands
+    motorcycle brands [trademark]
     motorcycle types -- chopper, moped, dirt bike, cruiser, scooter, trike, cafe racer
-    cycling races
+    cycling races [trademark]
     cycling words
     skateboard tricks
     scooters and skates -- kick scooter, roller skates, inline skates, skateboard, hoverboard, unicycle
@@ -789,8 +789,8 @@ Travel & Transport:
     hotel staff [separate]
     room types [separate]
     vacation homes -- villa, chalet, cabin, cottage, condo, bungalow, timeshare
-    famous hotels [separate] -- Ritz, Savoy, Plaza, Waldorf Astoria, Burj Al Arab, Raffles, Pera Palace
-    hotel chains [separate] -- Hilton, Marriott, Hyatt, Sheraton, Holiday Inn, Ibis, Radisson
+    famous hotels [separate] [trademark] -- Ritz, Savoy, Plaza, Waldorf Astoria, Burj Al Arab, Raffles, Pera Palace
+    hotel chains [separate] [trademark] -- Hilton, Marriott, Hyatt, Sheraton, Holiday Inn, Ibis, Radisson
     traditional lodgings -- ryokan, riad, caravanserai, pousada, parador, ger, longhouse
   campsite [place]
     camping gear
@@ -798,7 +798,7 @@ Travel & Transport:
     tent types [separate] -- dome, tipi, bell, tunnel, pup tent, A-frame, bivy
     campfire foods [separate]
     survival skills [separate]
-    rvs and campers -- RV, motorhome, camper van, trailer, Airstream, fifth wheel, teardrop
+    rvs and campers [trademark] -- RV, motorhome, camper van, trailer, Airstream, fifth wheel, teardrop
   outdoors:
     hiking gear
     trail words
@@ -825,10 +825,10 @@ Travel & Transport:
     beach vacation -- things on a beach vacation: sunscreen, deck chair, sandcastle, cabana
     ski trip -- things on a ski trip: chairlift, chalet, piste, lift pass, apres-ski
     cruise words
-      cruise lines [separate] -- Carnival, Royal Caribbean, Cunard, Princess, MSC, Holland America
+      cruise lines [separate] [trademark] -- Carnival, Royal Caribbean, Cunard, Princess, MSC, Holland America
     sightseeing words
     tourist attractions -- kinds of attraction: museum, aquarium, gallery, viewpoint, old town
-    famous theme parks -- Disneyland, Tivoli, Efteling, Europa-Park, Cedar Point, Everland
+    famous theme parks [trademark] -- Disneyland, Tivoli, Efteling, Europa-Park, Cedar Point, Everland
     beach destinations -- Bali, Cancun, Maldives, Ibiza, Phuket, Bodrum, Maui, Bondi
     famous ski resorts -- Aspen, Whistler, Zermatt, Chamonix, St. Moritz, Niseko
   travel around the world:
@@ -889,7 +889,7 @@ Body & Health:
     tropical diseases [region:Africa]
     cold weather ailments [region:Antarctica] -- frostbite, hypothermia, snow blindness, chilblains, windburn
   medicine
-    medicines
+    medicines [trademark]
     forms of medicine -- pill, capsule, syrup, ointment, drops, inhaler, injection, patch, lozenge
     medical equipment
     medical specialties
@@ -935,7 +935,7 @@ Body & Health:
     toiletries for washing
     hair care
     skincare products
-      korean skincare [region:Asia] [separate]
+      korean skincare [region:Asia] [separate] [trademark]
     makeup
     nail care
     bath time
@@ -1086,7 +1086,7 @@ People & Society:
   media and communication
     newspaper words
     social media words
-    social media platforms [separate] -- real brands: Facebook, Instagram, TikTok, YouTube, Snapchat, Reddit, LinkedIn
+    social media platforms [separate] [trademark] -- real brands: Facebook, Instagram, TikTok, YouTube, Snapchat, Reddit, LinkedIn
     phone words
     mail words
     journalism words
@@ -1160,7 +1160,7 @@ Home & Everyday:
       brooms and brushes -- push broom, besom, dustpan brush, toilet brush, feather duster
     cleaning verbs
     laundry words
-    cleaning products
+    cleaning products [trademark]
     chores [separate]
     bins and recycling [separate]
     washing up -- doing the dishes: suds, scourer, drying rack, tea towel
@@ -1196,7 +1196,7 @@ Home & Everyday:
     swimwear
     knitwear
     fashion styles [separate] -- preppy, boho, grunge, punk, goth, streetwear, vintage
-    fashion designers [separate] -- real designers and houses: Chanel, Dior, Versace, Armani, Prada
+    fashion designers [separate] [trademark] -- real designers and houses: Chanel, Dior, Versace, Armani, Prada
   accessories
     shoes
     boots
@@ -1285,13 +1285,13 @@ Sports & Games:
     sports balls [property] [separate] -- types of ball named for their sport or object: football, golf ball, shuttlecock, puck
     soccer terms [separate]
       soccer positions
-      european soccer clubs [region:Europe] [separate]
+      european soccer clubs [region:Europe] [separate] [trademark]
     basketball terms [separate]
-      nba teams [region:North America] [separate]
+      nba teams [region:North America] [separate] [trademark]
     american football terms [region:North America] [separate]
-      nfl teams [region:North America] [separate]
+      nfl teams [region:North America] [separate] [trademark]
     baseball terms [region:North America] [separate]
-      mlb teams [region:North America] [separate]
+      mlb teams [region:North America] [separate] [trademark]
     cricket terms [separate]
       cricket fielding positions
     rugby terms [separate]
@@ -1322,7 +1322,7 @@ Sports & Games:
     skating words [separate]
       figure skating moves
     ice hockey terms
-      nhl teams [region:North America] [separate]
+      nhl teams [region:North America] [separate] [trademark]
     snowboard tricks
     curling words
     winter olympic events
@@ -1355,12 +1355,12 @@ Sports & Games:
     scoring words [separate]
     sports verbs [separate] -- actions players do: kick, dribble, serve, tackle, volley
   sporting events
-    famous sporting events
+    famous sporting events [trademark]
     tournament words [separate]
     famous stadiums [separate]
     olympic host cities [separate]
     trophies and prizes [separate]
-    famous races -- Tour de France, Kentucky Derby, Boston Marathon, Indy 500, Grand National, Monaco Grand Prix, Daytona 500
+    famous races [trademark] -- Tour de France, Kentucky Derby, Boston Marathon, Indy 500, Grand National, Monaco Grand Prix, Daytona 500
   famous athletes
     famous soccer players
     tennis champions
@@ -1371,7 +1371,7 @@ Sports & Games:
   horse and animal sports
     horse riding words [separate]
     horse racing terms [separate]
-    famous horse races [separate]
+    famous horse races [separate] [trademark]
     equestrian events
     rodeo words [region:North America] [separate]
     bullfighting words [region:Europe] [adult] [separate]
@@ -1402,13 +1402,13 @@ Sports & Games:
     game pieces [property] [separate] -- things you move or play with on a table: pawn, token, die, tile, marble
     word games [separate]
     mahjong words [region:Asia] [separate]
-  video games
+  video games [trademark]
     video game genres
     gaming words
-    gaming hardware
+    gaming hardware [trademark]
     arcade words [separate]
     game controls [separate]
-    esports words [separate]
+    esports words [separate] [trademark]
     power-ups and pickups [separate] -- items collected in video games: coin, extra life, health pack, shield
   hobbies and crafts
     crafts
@@ -1426,16 +1426,16 @@ Sports & Games:
     party games
     outdoor games
       yard games
-    building toys
-    dolls and figures
+    building toys [trademark]
+    dolls and figures [trademark]
   regional sports:
-    turkish football clubs [region:Middle East]
+    turkish football clubs [region:Middle East] [trademark]
     middle eastern pastimes [region:Middle East] -- backgammon, falconry, camel racing, baloot
-    african soccer clubs [region:Africa]
+    african soccer clubs [region:Africa] [trademark]
     south asian games [region:Asia] -- kabaddi, kho kho, carrom, gilli danda
     aussie rules terms [region:Oceania]
-    afl clubs [region:Oceania]
-    south american soccer clubs [region:South America]
+    afl clubs [region:Oceania] [trademark]
+    south american soccer clubs [region:South America] [trademark]
     capoeira words [region:South America]
     highland games [region:Europe]
     british pub games [region:Europe]
@@ -1487,14 +1487,14 @@ Arts & Entertainment:
     notes and rests
     concert words [separate]
     recording studio words [place]
-    music festivals [separate]
+    music festivals [separate] [trademark]
   musicians
     composers
       baroque composers
       romantic composers
       opera composers
       film composers
-    famous bands [separate]
+    famous bands [separate] [trademark]
     pop stars
     jazz musicians
     rock guitarists
@@ -1561,8 +1561,8 @@ Arts & Entertainment:
     behind the camera
     cartoon words
     award words [separate]
-      entertainment awards
-    film festivals [separate]
+      entertainment awards [trademark]
+    film festivals [separate] [trademark]
     movie theater words [place]
     tv words
     special effects words
@@ -1912,10 +1912,10 @@ Science & Tech:
     file types [separate]
     cybersecurity words -- hacker, malware, phishing, firewall, password, encryption, ransomware, spyware
     computer actions [separate] -- click, scroll, drag, copy, paste, save, upload, download, reboot, log in
-    tech companies [separate]
-      silicon valley companies [region:North America] -- Apple, Google, Intel, Nvidia, Netflix, Oracle, Adobe
-      asian tech companies [region:Asia] -- Samsung, Sony, Huawei, Alibaba, Toshiba, Panasonic, Xiaomi, Lenovo
-      european tech companies [region:Europe] -- Nokia, Ericsson, SAP, Philips, Siemens, Spotify, ASML
+    tech companies [separate] [trademark]
+      silicon valley companies [region:North America] [trademark] -- Apple, Google, Intel, Nvidia, Netflix, Oracle, Adobe
+      asian tech companies [region:Asia] [trademark] -- Samsung, Sony, Huawei, Alibaba, Toshiba, Panasonic, Xiaomi, Lenovo
+      european tech companies [region:Europe] [trademark] -- Nokia, Ericsson, SAP, Philips, Siemens, Spotify, ASML
   gadgets
     handheld gadgets
     phone features [separate]
@@ -1975,7 +1975,7 @@ Language & Wordplay:
     writing systems
     handwriting words
     typography words
-    fonts [separate] -- typeface names: Helvetica, Garamond, Arial, Futura
+    fonts [separate] [trademark] -- typeface names: Helvetica, Garamond, Arial, Futura
   grammar
     parts of speech
     grammar terms
@@ -2102,7 +2102,7 @@ Language & Wordplay:
     words named after people -- sandwich, cardigan, boycott, leotard, saxophone
       flowers named after people -- magnolia, dahlia, begonia, poinsettia, fuchsia
     words named after places -- jeans, denim, hamburger, marathon, bikini
-    brand names used as words -- facts about real brands: aspirin, escalator, zipper, trampoline, frisbee
+    brand names used as words [trademark] -- facts about real brands: aspirin, escalator, zipper, trampoline, frisbee
     portmanteau words [wordplay] -- two words blended: brunch, smog, motel, spork
   names
     girls' names
@@ -2204,7 +2204,7 @@ Qualities:
       spicy dishes of africa [region:Africa] -- peri-peri chicken, doro wat, suya, jollof rice, harissa
       sweet treats of turkey [region:Middle East] -- baklava, lokum, kunefe, helva, sutlac, kadayif
       south american sweets [region:South America] -- dulce de leche, alfajores, brigadeiro, quindim, picarones
-      american candy [region:North America] -- candy corn, jelly beans, Twizzlers, Peeps, saltwater taffy
+      american candy [region:North America] [trademark] -- candy corn, jelly beans, Twizzlers, Peeps, saltwater taffy
   synonyms:
     words for big
     words for small

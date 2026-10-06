@@ -36,7 +36,7 @@
     tropical diseases [region:Africa]
     cold weather ailments [region:Antarctica] -- frostbite, hypothermia, snow blindness, chilblains, windburn
   medicine
-    medicines
+    medicines [trademark]
     forms of medicine -- pill, capsule, syrup, ointment, drops, inhaler, injection, patch, lozenge
     medical equipment
     medical specialties
@@ -82,7 +82,7 @@
     toiletries for washing
     hair care
     skincare products
-      korean skincare [region:Asia] [separate]
+      korean skincare [region:Asia] [separate] [trademark]
     makeup
     nail care
     bath time

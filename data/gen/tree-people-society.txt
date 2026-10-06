@@ -116,7 +116,7 @@
   media and communication
     newspaper words
     social media words
-    social media platforms [separate] -- real brands: Facebook, Instagram, TikTok, YouTube, Snapchat, Reddit, LinkedIn
+    social media platforms [separate] [trademark] -- real brands: Facebook, Instagram, TikTok, YouTube, Snapchat, Reddit, LinkedIn
     phone words
     mail words
     journalism words

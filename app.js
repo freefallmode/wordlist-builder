@@ -3,7 +3,7 @@
 // The project lives in IndexedDB (autosaved) and in project files. Both use
 // the compact format from serialize(): words point at themes by index.
 
-const VERSION = '26';  // must match data-v and the ?v= links in index.html
+const VERSION = '27';  // must match data-v and the ?v= links in index.html
 const $ = s => document.querySelector(s);
 const esc = s => String(s ?? '').replace(/[&<>"']/g, c => ({ '&': '&amp;', '<': '&lt;', '>': '&gt;', '"': '&quot;', "'": '&#39;' }[c]));
 const slug = t => t.normalize('NFKD').replace(/[̀-ͯ]/g, '').replace(/[^\p{L}\p{N}]+/gu, '_').replace(/^_|_$/g, '').toLowerCase();
@@ -244,6 +244,7 @@ function removeThemeFromWords(ids) {
   for (const [k, w] of Object.entries(P.words)) {
     w.th = w.th.filter(t => !ids.has(t));
     if (w.x) w.x = w.x.filter(t => !ids.has(t));
+    if (w.tm) w.tm = w.tm.filter(t => !ids.has(t));
     if (w.sg) for (const t of Object.keys(w.sg)) if (ids.has(t)) delete w.sg[t];
     if (!w.th.length) delete P.words[k];
   }
@@ -292,7 +293,7 @@ function serialize() {
       Object.entries(w.sg || {}).filter(([t]) => at[t] !== undefined).map(([t, k]) => [at[t], k === 'c' ? 1 : 2]),
       Object.entries(w.fam || {}).filter(([t]) => at[t] !== undefined).map(([t, f]) => [at[t], f]),
       w.ze ? Math.round(w.ze * 10) : 0, w.adult ? 1 : 0,
-      Object.entries(w.tf || {}).filter(([t]) => at[t] !== undefined).map(([t, f]) => [at[t], f]), w.tm ? 1 : 0]),
+      Object.entries(w.tf || {}).filter(([t]) => at[t] !== undefined).map(([t, f]) => [at[t], f]), (w.tm || []).map(t => at[t]).filter(i => i !== undefined)]),
   };
 }
 function deserialize(j) {
@@ -303,7 +304,7 @@ function deserialize(j) {
     for (const a of j.words) words[slug(a[0])] = { t: a[0], th: a[1].map(i => themes[i].id), on: !!a[2], z: a[3] === -1 ? undefined : a[3] === 0 ? null : a[3] / 10, d: a[4] || null, src: a[5].split(''), note: a[6], uk: a[7] || '',
       x: (a[8] || []).map(i => themes[i].id), ck: !!a[9], sg: Object.fromEntries((a[10] || []).map(([i, k]) => [themes[i].id, k === 1 ? 'c' : 'a'])),
       fam: Object.fromEntries((a[11] || []).map(([i, f]) => [themes[i].id, f])), ze: a[12] ? a[12] / 10 : null, adult: !!a[13],
-      tf: a[14] && a[14].length ? Object.fromEntries(a[14].map(([i, f]) => [themes[i].id, f])) : undefined, tm: !!a[15] };
+      tf: a[14] && a[14].length ? Object.fromEntries(a[14].map(([i, f]) => [themes[i].id, f])) : undefined, tm: Array.isArray(a[15]) && a[15].length ? a[15].map(i => themes[i].id) : undefined };
     return { themes, words };
   }
   if (j.schema === 1 || j.words) { // first version of the builder
@@ -363,20 +364,23 @@ function exportGame() {
   const at = Object.fromEntries(themes.map((t, i) => [t.id, i]));
   const words = [];
   for (const w of Object.values(P.words)) {
-    if (!w.on || (fam && w.adult) || (notm && w.tm)) continue;
-    const th = w.th.filter(t => at[t] !== undefined);
+    if (!w.on || (fam && w.adult)) continue;
+    // Without trademarks, a word leaves the themes where it is a brand or title, and must not share a level with them.
+    const gone = notm ? (w.tm || []).filter(t => w.th.includes(t)) : [];
+    const th = w.th.filter(t => at[t] !== undefined && !gone.includes(t));
     if (!th.length) continue;
     const o = SET.spelling === 'UK' ? w.t : w.uk;
     const forms = Object.entries(w.tf || {}).filter(([t]) => at[t] !== undefined).map(([t, f]) => [at[t], f, plain(f)]);
     words.push([form(w), plain(form(w)), w.z == null ? 0 : Math.round(w.z * 10), th.map(t => at[t]), th.map(t => wordDiff(w, t)),
-      (w.x || []).filter(t => at[t] !== undefined).map(t => at[t]), o && o !== form(w) ? o : '', forms, +((w.note || '').match(/anagram set (\d+)/) || [0, 0])[1], w.tm ? 1 : 0]);
+      [...new Set([...(w.x || []), ...gone])].filter(t => at[t] !== undefined).map(t => at[t]), o && o !== form(w) ? o : '', forms, +((w.note || '').match(/anagram set (\d+)/) || [0, 0])[1],
+      th.filter(t => (w.tm || []).includes(t)).map(t => at[t])]);
   }
   words.sort((a, b) => a[0].localeCompare(b[0]));
   return JSON.stringify({
     v: 5, generated: new Date().toISOString(), spelling: SET.spelling, familyFriendly: !!fam, trademarks: !notm,
     themeFields: ['id', 'name', 'label', 'parent', 'group', 'kind', 'region', 'difficulty', 'adult', 'separate', 'trademark'],
     themes: themes.map(t => [t.id, t.name, t.label || '', t.parent ? at[t.parent] : -1, t.group ? 1 : 0, t.kind || '', t.region || '', themeDiff(t.id), themeAdult(t.id) ? 1 : 0, t.sep ? 1 : 0, themeTm(t.id) ? 1 : 0]),
-    wordFields: ['text', 'balloonText', 'zipf10', 'themes', 'difficultyPerTheme', 'clashes', 'otherSpelling', 'formsPerTheme', 'anagramSet', 'trademark'],
+    wordFields: ['text', 'balloonText', 'zipf10', 'themes', 'difficultyPerTheme', 'clashes', 'otherSpelling', 'formsPerTheme', 'anagramSet', 'trademarkIn'],
     words,
   });
 }
@@ -491,7 +495,7 @@ function shownWords() {
   const q = $('#q').value.trim().toLowerCase();
   if (q) list = list.filter(w => matches(w, q));
   const hasSg = w => !!w.sg && Object.keys(w.sg).length > 0;
-  const keep = { all: null, on: w => w.on, off: w => !w.on, sug: hasSg, clash: w => !!(w.x && w.x.length), unchecked: w => !w.ck, tm: w => !!w.tm || w.th.some(themeTm) }[UI.show];
+  const keep = { all: null, on: w => w.on, off: w => !w.on, sug: hasSg, clash: w => !!(w.x && w.x.length), unchecked: w => !w.ck, tm: w => !!(w.tm && w.tm.length) || w.th.some(themeTm) }[UI.show];
   if (keep) list = list.filter(keep);
   const key = { t: w => form(w).toLowerCase(), len: w => core(form(w)).length, z: w => w.z ?? 0, d: w => wordDiff(w, UI.sel), th: w => w.th.length }[UI.sort] || (w => w.t);
   return list.sort((a, b) => { const x = key(a), y = key(b); return (x < y ? -1 : x > y ? 1 : form(a).localeCompare(form(b))) * UI.dir; });
@@ -536,7 +540,7 @@ function renderMain() {
     const zc = z == null ? 'z2' : z >= 4.5 ? 'z5' : z < 2.5 ? 'z2' : '';
     return `<tr class="${w.on ? '' : 'off'}${picked ? ' sel' : ''}"><td><input type="checkbox" data-pick="${id}"${picked ? ' checked' : ''}></td>`
       + `<td><input type="checkbox" data-on="${id}"${w.on ? ' checked' : ''} title="Enabled"></td>`
-      + `<td class="w" data-word="${id}"${w.uk ? ` title="${esc(SET.spelling === 'UK' ? 'US: ' + w.t : 'UK: ' + w.uk)}"` : ''}>${esc(formIn(w, UI.sel))}${w.uk ? ' <small class="muted">*</small>' : ''}${w.tm ? ' <small class="muted" title="Trademark or copyrighted name">™</small>' : ''}</td><td class="num">${core(form(w)).length}</td>`
+      + `<td class="w" data-word="${id}"${w.uk ? ` title="${esc(SET.spelling === 'UK' ? 'US: ' + w.t : 'UK: ' + w.uk)}"` : ''}>${esc(formIn(w, UI.sel))}${w.uk ? ' <small class="muted">*</small>' : ''}${w.tm && w.tm.length ? ' <small class="muted" title="Trademark or copyrighted name in some themes">™</small>' : ''}</td><td class="num">${core(form(w)).length}</td>`
       + `<td class="num ${zc}"${zipfEstimated(w) ? ' title="Estimated: not in the frequency list"' : ''}>${z === undefined ? '…' : z === null ? '<1.5' : (zipfEstimated(w) ? '~' : '') + z.toFixed(1)}</td>`
       + `<td><select data-d="${id}" title="${famOf(w, UI.sel) ? 'auto: familiarity in this theme' : 'auto: from frequency'}"><option value="">auto ${famOf(w, UI.sel) || autoDiff(z)}</option>${[1, 2, 3, 4, 5].map(n => `<option${n === w.d ? ' selected' : ''}>${n}</option>`).join('')}</select></td>`
       + `<td>${w.th.map(t => theme(t) ? `<button class="b" data-goto="${t}" title="${esc(pathOf(t))}">${esc(theme(t).name)}</button>` : '').join('')}`
@@ -743,12 +747,12 @@ function wordDialog(id) {  // id changes if the American spelling is edited
     + `<label class="f" style="flex:1"><span>British spelling (if different)</span><input id="wd-uk" value="${esc(w.uk)}"></label></div>`
     + `<label class="pick"><input type="checkbox" id="wd-on"${w.on ? ' checked' : ''}> Enabled</label>`
     + `<label class="pick"><input type="checkbox" id="wd-ff"${w.adult ? '' : ' checked'}> Family-friendly</label>`
-    + `<label class="pick"><input type="checkbox" id="wd-tm"${w.tm ? ' checked' : ''}> Trademark or copyrighted name (brand, title, character)</label>`
     + field('Estimated Zipf, used only when the word is not in the frequency list', `<input id="wd-ze" type="number" step="0.1" min="0" max="8" value="${w.ze || ''}">`)
     + field('Note', `<input id="wd-note" value="${esc(w.note)}">`)
-    + '<h4>Linked themes</h4><p class="muted">Familiarity: 1 everyone knows it belongs, 5 specialists only. It sets the difficulty in that theme.</p>'
+    + '<h4>Linked themes</h4><p class="muted">Familiarity: 1 everyone knows it belongs, 5 specialists only. It sets the difficulty in that theme. ™: in this theme the word is a trademark or copyrighted name (brand, team, title, character).</p>'
     + (w.th.map(t => `<div class="row"><button class="link" data-wgo="${t}">${esc(pathOf(t))}</button><span class="grow"></span>`
       + `<select data-fam="${t}" title="Familiarity in this theme"><option value="">familiarity ?</option>${[1, 2, 3, 4, 5].map(n => `<option${w.fam && w.fam[t] === n ? ' selected' : ''}>${n}</option>`).join('')}</select>`
+      + `<label title="Trademark or copyrighted name in this theme"><input type="checkbox" data-tm="${t}"${(w.tm || []).includes(t) ? ' checked' : ''}> ™</label>`
       + `<button class="b" data-unlink="${t}" title="Unlink">✕</button></div>`).join('') || '<p class="muted">None</p>')
     + `<div class="row"><input id="wd-add" list="wd-themes" placeholder="Link to another theme…" style="flex:1"><button id="wd-addb">Link</button></div>`
     + '<h4>Clashes</h4><p class="muted">Themes a player might think this word belongs to. It is never put in a level with them.</p>'
@@ -759,8 +763,10 @@ function wordDialog(id) {  // id changes if the American spelling is edited
     + `<h4>Danger</h4><button class="danger" id="wd-del">Delete word</button>`,
     [['Close', () => { if (keep() === false) return false; changed(); }, 'p']], d => {
       keep = () => {
-        w.on = chk(d, '#wd-on'); w.note = val(d, '#wd-note').trim(); w.adult = !chk(d, '#wd-ff'); w.tm = chk(d, '#wd-tm');
+        w.on = chk(d, '#wd-on'); w.note = val(d, '#wd-note').trim(); w.adult = !chk(d, '#wd-ff');
         w.ze = +val(d, '#wd-ze') || null;
+        const tm = [...d.querySelectorAll('[data-tm]')].filter(c => c.checked).map(c => c.dataset.tm);
+        w.tm = tm.length ? tm : undefined;
         d.querySelectorAll('[data-fam]').forEach(sel => { if (sel.value) (w.fam ||= {})[sel.dataset.fam] = +sel.value; else if (w.fam) delete w.fam[sel.dataset.fam]; });
         const us = clean(val(d, '#wd-us')), uk = clean(val(d, '#wd-uk'));
         w.uk = uk && uk.toLowerCase() !== (us || w.t).toLowerCase() ? uk : '';

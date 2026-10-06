@@ -1,15 +1,15 @@
   cars
-    car brands
-      german car brands [region:Europe]
-      japanese car brands [region:Asia]
-      american car brands [region:North America]
-      british car brands [region:Europe]
+    car brands [trademark]
+      german car brands [region:Europe] [trademark]
+      japanese car brands [region:Asia] [trademark]
+      american car brands [region:North America] [trademark]
+      british car brands [region:Europe] [trademark]
     car parts
       dashboard items -- things on or in a car dashboard: speedometer, odometer, glove box, fuel gauge
     car types
-      famous car models [separate] -- named models: Model T, Beetle, Mustang, Mini, Corvette, Corolla
+      famous car models [separate] [trademark] -- named models: Model T, Beetle, Mustang, Mini, Corvette, Corolla
     driving words
-    motor racing
+    motor racing [trademark]
       famous race tracks [separate] -- Monza, Silverstone, Daytona, Le Mans, Suzuka, Indianapolis
     road signs
     gas station [place] [separate]
@@ -26,14 +26,14 @@
     plane parts
     airport words
     flight crew
-    airlines [separate]
-      european airlines [region:Europe]
-      asian airlines [region:Asia]
-      middle eastern airlines [region:Middle East]
+    airlines [separate] [trademark]
+      european airlines [region:Europe] [trademark]
+      asian airlines [region:Asia] [trademark]
+      middle eastern airlines [region:Middle East] [trademark]
     flying machines
     famous airports [separate] -- Heathrow, JFK, Changi, O'Hare, Schiphol, Narita
     in-flight words -- tray table, overhead bin, aisle seat, seatbelt sign, turbulence
-    aircraft makers [separate] -- Boeing, Airbus, Embraer, Cessna, Lockheed, Antonov
+    aircraft makers [separate] [trademark] -- Boeing, Airbus, Embraer, Cessna, Lockheed, Antonov
   boats and ships
     boat types
       small boats -- canoe, kayak, dinghy, rowboat, punt, raft, skiff
@@ -54,7 +54,7 @@
     railway words
     station words
     famous trains [separate]
-      high-speed trains -- Shinkansen, TGV, ICE, AVE, Eurostar, Acela, KTX
+      high-speed trains [trademark] -- Shinkansen, TGV, ICE, AVE, Eurostar, Acela, KTX
       famous locomotives -- Flying Scotsman, Mallard, Rocket, Big Boy
     metro systems [separate] -- names of city rail systems: Tube, U-Bahn, BART, MTR, the El, Marmaray
     famous train stations [separate] -- Grand Central, King's Cross, Gare du Nord, Haydarpasa, Shinjuku
@@ -62,9 +62,9 @@
   bikes and boards:
     bicycle parts
     bike types
-    motorcycle brands
+    motorcycle brands [trademark]
     motorcycle types -- chopper, moped, dirt bike, cruiser, scooter, trike, cafe racer
-    cycling races
+    cycling races [trademark]
     cycling words
     skateboard tricks
     scooters and skates -- kick scooter, roller skates, inline skates, skateboard, hoverboard, unicycle
@@ -80,8 +80,8 @@
     hotel staff [separate]
     room types [separate]
     vacation homes -- villa, chalet, cabin, cottage, condo, bungalow, timeshare
-    famous hotels [separate] -- Ritz, Savoy, Plaza, Waldorf Astoria, Burj Al Arab, Raffles, Pera Palace
-    hotel chains [separate] -- Hilton, Marriott, Hyatt, Sheraton, Holiday Inn, Ibis, Radisson
+    famous hotels [separate] [trademark] -- Ritz, Savoy, Plaza, Waldorf Astoria, Burj Al Arab, Raffles, Pera Palace
+    hotel chains [separate] [trademark] -- Hilton, Marriott, Hyatt, Sheraton, Holiday Inn, Ibis, Radisson
     traditional lodgings -- ryokan, riad, caravanserai, pousada, parador, ger, longhouse
   campsite [place]
     camping gear
@@ -89,7 +89,7 @@
     tent types [separate] -- dome, tipi, bell, tunnel, pup tent, A-frame, bivy
     campfire foods [separate]
     survival skills [separate]
-    rvs and campers -- RV, motorhome, camper van, trailer, Airstream, fifth wheel, teardrop
+    rvs and campers [trademark] -- RV, motorhome, camper van, trailer, Airstream, fifth wheel, teardrop
   outdoors:
     hiking gear
     trail words
@@ -116,10 +116,10 @@
     beach vacation -- things on a beach vacation: sunscreen, deck chair, sandcastle, cabana
     ski trip -- things on a ski trip: chairlift, chalet, piste, lift pass, apres-ski
     cruise words
-      cruise lines [separate] -- Carnival, Royal Caribbean, Cunard, Princess, MSC, Holland America
+      cruise lines [separate] [trademark] -- Carnival, Royal Caribbean, Cunard, Princess, MSC, Holland America
     sightseeing words
     tourist attractions -- kinds of attraction: museum, aquarium, gallery, viewpoint, old town
-    famous theme parks -- Disneyland, Tivoli, Efteling, Europa-Park, Cedar Point, Everland
+    famous theme parks [trademark] -- Disneyland, Tivoli, Efteling, Europa-Park, Cedar Point, Everland
     beach destinations -- Bali, Cancun, Maldives, Ibiza, Phuket, Bodrum, Maui, Bondi
     famous ski resorts -- Aspen, Whistler, Zermatt, Chamonix, St. Moritz, Niseko
   travel around the world:

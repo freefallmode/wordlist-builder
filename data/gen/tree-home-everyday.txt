@@ -48,7 +48,7 @@
       brooms and brushes -- push broom, besom, dustpan brush, toilet brush, feather duster
     cleaning verbs
     laundry words
-    cleaning products
+    cleaning products [trademark]
     chores [separate]
     bins and recycling [separate]
     washing up -- doing the dishes: suds, scourer, drying rack, tea towel
@@ -84,7 +84,7 @@
     swimwear
     knitwear
     fashion styles [separate] -- preppy, boho, grunge, punk, goth, streetwear, vintage
-    fashion designers [separate] -- real designers and houses: Chanel, Dior, Versace, Armani, Prada
+    fashion designers [separate] [trademark] -- real designers and houses: Chanel, Dior, Versace, Armani, Prada
   accessories
     shoes
     boots

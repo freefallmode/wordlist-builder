@@ -24,7 +24,7 @@
     writing systems
     handwriting words
     typography words
-    fonts [separate] -- typeface names: Helvetica, Garamond, Arial, Futura
+    fonts [separate] [trademark] -- typeface names: Helvetica, Garamond, Arial, Futura
   grammar
     parts of speech
     grammar terms
@@ -151,7 +151,7 @@
     words named after people -- sandwich, cardigan, boycott, leotard, saxophone
       flowers named after people -- magnolia, dahlia, begonia, poinsettia, fuchsia
     words named after places -- jeans, denim, hamburger, marathon, bikini
-    brand names used as words -- facts about real brands: aspirin, escalator, zipper, trampoline, frisbee
+    brand names used as words [trademark] -- facts about real brands: aspirin, escalator, zipper, trampoline, frisbee
     portmanteau words [wordplay] -- two words blended: brunch, smog, motel, spork
   names
     girls' names

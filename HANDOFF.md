@@ -45,6 +45,7 @@ P = {
 - `region`: '' or one of Africa, Middle East (including Turkey), Asia, Oceania, Antarctica, South America, North America, Europe. Acts: 1 Turkey / Middle East / Africa, 2 Asia, 3 Oceania, 4 Antarctica, 5 South America, 6 North America, 7 Europe / Turkey.
 - `adult`: not family-friendly; inherited by everything under it. Settings → "Family-friendly game file" leaves adult themes and words out of the game export.
 - `group`: a container for browsing, never a playable theme.
+- `tm` (outline tag `[trademark]`): the theme is almost all trademarks or copyrighted names; inherited like `adult`. Words carry `tm` too, as the list of themes where the word is a trademark (Rebecca in classic novels, not in girls' names); the ™ checkbox on each linked theme in the word dialog edits it. Settings → "Include trademarked and copyrighted names" decides whether the game file keeps them.
 - `sep` (outline tag `[separate]`): the theme's words do not count as members of its parent. A theme's word pool is itself plus its sub-themes, skipping separate ones (apple varieties are not fruits on their own: "Rome", "Jazz").
 - `label`: the name shown in the game when it differs from `name`.
 - Word `t` is the American spelling (capitals kept for proper nouns such as Paris or Plato); `uk` is the British spelling when it differs. The key is a lowercase slug of `t`. The Spelling setting (toolbar toggle) picks which form is shown and written to the game file; search and duplicate checks use both. Import / export → "Find British spellings" asks Claude to fill in `uk` for older words.
@@ -58,7 +59,7 @@ Library file and IndexedDB autosave (`schema: 2`), compact: theme rows are array
 
 Game file (Import / export → Export game file): minified, enabled words only, `v: 4`, `spelling: "US" | "UK"`, `familyFriendly`. `themes: [id, name, label, parentIndex (-1 = top), group, kind, region, difficulty, adult, separate]`, `words: [text, balloonText, zipf10, [themeIndex…], [difficulty per theme…], [clashThemeIndex…], otherSpelling, [[themeIndex, form, plainForm]…], anagramSet]` where `text` is in the chosen spelling. Field names are listed in the file (`themeFields`, `wordFields`); `GAME_HANDOFF.md` explains them.
 
-Theme tree file (`data/themes.txt`; Import / export → Load starter theme tree, Import / Export theme tree): two spaces per level; a group has `:` right after its name; optional tags `[place]` `[property]` `[wordplay]` `[region:Asia]` `[adult]`; optional ` -- note` at the end, e.g. `___ball [wordplay] -- words that come before ball`.
+Theme tree file (`data/themes.txt`; Import / export → Load starter theme tree, Import / Export theme tree): two spaces per level; a group has `:` right after its name; optional tags `[place]` `[property]` `[wordplay]` `[region:Asia]` `[adult]` `[separate]` `[trademark]`; optional ` -- note` at the end, e.g. `___ball [wordplay] -- words that come before ball`.
 
 ## Word filters
 

@@ -12,9 +12,10 @@ Written at the end of the session that built the word library; the next session 
 
 ## The data
 
-**Final figures:** 2,208 playable themes (2,287 with folders), 79,783 words, 171,233 word-theme links (43,163 of them
-from the cross-theme check), 32,487 clashes. Game file: 75,439 enabled words (4.7 MB); family-friendly game file:
-2,235 themes, 73,654 words.
+**Final figures:** 2,208 playable themes (2,287 with folders), 79,089 words (after merging 833 singular/plural
+pairs), 170,043 word-theme links, about 33,500 clashes; 3,870 words and 55 themes flagged as trademarks or
+copyrighted names. Game files: full 74,746 words (5.0 MB); family-friendly 2,235 themes, 72,975 words; without
+trademarks 2,226 themes, 70,995 words.
 
 | File | What it is |
 |---|---|
@@ -22,6 +23,8 @@ from the cross-theme check), 32,487 clashes. Game file: 75,439 enabled words (4.
 | `data/wordlist.json` | The starter library: every theme, word and word datum. Opens in the app (Import / export → Load starter library). |
 | `data/export/wordlist-game.json` | Game file, every word. |
 | `data/export/wordlist-game-family.json` | Game file, family-friendly (adult themes and words left out). |
+| `data/export/wordlist-game-no-trademarks.json` | Game file without trademarked and copyrighted names. |
+| `data/gen/words/plurals.json`, `trademarks.json` | Plural merges and clash pairs; trademark flags per word and theme. |
 | `data/gen/words/batch-NN.json` | Generated words per batch: `{theme: {"words": [[text, uk, familiarity, zipf10, adult]], "flag", "sets"}}`. |
 | `data/gen/words/batch-NN.extra.json` | Clean-up record per batch: separate sub-themes, removed words, notes. |
 | `data/gen/words/batch-NN.links.json` | Cross-theme check per batch: `{text: {"also": [[theme, familiarity]], "clash": [theme]}}`. |
@@ -35,7 +38,7 @@ are exported from the app (Import / export → Export game file; Settings → Fa
 { v: 5, generated, spelling: "US"|"UK", familyFriendly, trademarks,
   themeFields: [id, name, label, parent, group, kind, region, difficulty, adult, separate, trademark],
   themes: [...rows],               // parent is an index into themes, -1 for top level
-  wordFields: [text, balloonText, zipf10, themes, difficultyPerTheme, clashes, otherSpelling, formsPerTheme, anagramSet, trademark],
+  wordFields: [text, balloonText, zipf10, themes, difficultyPerTheme, clashes, otherSpelling, formsPerTheme, anagramSet, trademarkIn],
   words: [...rows] }
 ```
 
@@ -48,9 +51,11 @@ are exported from the app (Import / export → Export game file; Settings → Fa
 - `clashes`: theme indices a player could wrongly think the word belongs to. **Never put the word in a level
   with any of these themes.**
 - `otherSpelling`: the other dialect's spelling when it differs (`color` / `colour`).
-- `trademark` (word and theme): a trademark or copyrighted name (brand, team, title, character); a theme's flag is
-  inherited by everything below it. Settings → "Include trademarked and copyrighted names" leaves them out of the
-  export when unticked (`trademarks: false` in the file).
+- `trademarkIn`: theme indices where the word is a trademark or copyrighted name (brand, team, title, character):
+  Rebecca is one in classic novels but not in girls' names. The theme field `trademark` marks themes that are almost
+  all trademarks (car brands, nfl teams, video games); it is inherited by sub-themes. With Settings → "Include
+  trademarked and copyrighted names" unticked, the export leaves out those themes and drops each word from its
+  trademark themes, turning them into clashes instead (`trademarks: false` in the file).
 - `anagramSet`: for "anagrams of each other", the set number (words with the same number are one set of four); 0 otherwise.
 - `formsPerTheme`: `[[themeIndex, form, plainForm]]` where a theme writes the word differently (capitals: `Mercury`
   the planet, `mercury` the metal).

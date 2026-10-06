@@ -45,14 +45,14 @@
     notes and rests
     concert words [separate]
     recording studio words [place]
-    music festivals [separate]
+    music festivals [separate] [trademark]
   musicians
     composers
       baroque composers
       romantic composers
       opera composers
       film composers
-    famous bands [separate]
+    famous bands [separate] [trademark]
     pop stars
     jazz musicians
     rock guitarists
@@ -119,8 +119,8 @@
     behind the camera
     cartoon words
     award words [separate]
-      entertainment awards
-    film festivals [separate]
+      entertainment awards [trademark]
+    film festivals [separate] [trademark]
     movie theater words [place]
     tv words
     special effects words

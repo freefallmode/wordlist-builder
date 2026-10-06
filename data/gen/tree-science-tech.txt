@@ -106,10 +106,10 @@
     file types [separate]
     cybersecurity words -- hacker, malware, phishing, firewall, password, encryption, ransomware, spyware
     computer actions [separate] -- click, scroll, drag, copy, paste, save, upload, download, reboot, log in
-    tech companies [separate]
-      silicon valley companies [region:North America] -- Apple, Google, Intel, Nvidia, Netflix, Oracle, Adobe
-      asian tech companies [region:Asia] -- Samsung, Sony, Huawei, Alibaba, Toshiba, Panasonic, Xiaomi, Lenovo
-      european tech companies [region:Europe] -- Nokia, Ericsson, SAP, Philips, Siemens, Spotify, ASML
+    tech companies [separate] [trademark]
+      silicon valley companies [region:North America] [trademark] -- Apple, Google, Intel, Nvidia, Netflix, Oracle, Adobe
+      asian tech companies [region:Asia] [trademark] -- Samsung, Sony, Huawei, Alibaba, Toshiba, Panasonic, Xiaomi, Lenovo
+      european tech companies [region:Europe] [trademark] -- Nokia, Ericsson, SAP, Philips, Siemens, Spotify, ASML
   gadgets
     handheld gadgets
     phone features [separate]

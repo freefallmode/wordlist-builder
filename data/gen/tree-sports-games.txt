@@ -3,13 +3,13 @@
     sports balls [property] [separate] -- types of ball named for their sport or object: football, golf ball, shuttlecock, puck
     soccer terms [separate]
       soccer positions
-      european soccer clubs [region:Europe] [separate]
+      european soccer clubs [region:Europe] [separate] [trademark]
     basketball terms [separate]
-      nba teams [region:North America] [separate]
+      nba teams [region:North America] [separate] [trademark]
     american football terms [region:North America] [separate]
-      nfl teams [region:North America] [separate]
+      nfl teams [region:North America] [separate] [trademark]
     baseball terms [region:North America] [separate]
-      mlb teams [region:North America] [separate]
+      mlb teams [region:North America] [separate] [trademark]
     cricket terms [separate]
       cricket fielding positions
     rugby terms [separate]
@@ -40,7 +40,7 @@
     skating words [separate]
       figure skating moves
     ice hockey terms
-      nhl teams [region:North America] [separate]
+      nhl teams [region:North America] [separate] [trademark]
     snowboard tricks
     curling words
     winter olympic events
@@ -73,12 +73,12 @@
     scoring words [separate]
     sports verbs [separate] -- actions players do: kick, dribble, serve, tackle, volley
   sporting events
-    famous sporting events
+    famous sporting events [trademark]
     tournament words [separate]
     famous stadiums [separate]
     olympic host cities [separate]
     trophies and prizes [separate]
-    famous races -- Tour de France, Kentucky Derby, Boston Marathon, Indy 500, Grand National, Monaco Grand Prix, Daytona 500
+    famous races [trademark] -- Tour de France, Kentucky Derby, Boston Marathon, Indy 500, Grand National, Monaco Grand Prix, Daytona 500
   famous athletes
     famous soccer players
     tennis champions
@@ -89,7 +89,7 @@
   horse and animal sports
     horse riding words [separate]
     horse racing terms [separate]
-    famous horse races [separate]
+    famous horse races [separate] [trademark]
     equestrian events
     rodeo words [region:North America] [separate]
     bullfighting words [adult] [region:Europe] [separate]
@@ -120,13 +120,13 @@
     game pieces [property] [separate] -- things you move or play with on a table: pawn, token, die, tile, marble
     word games [separate]
     mahjong words [region:Asia] [separate]
-  video games
+  video games [trademark]
     video game genres
     gaming words
-    gaming hardware
+    gaming hardware [trademark]
     arcade words [separate]
     game controls [separate]
-    esports words [separate]
+    esports words [separate] [trademark]
     power-ups and pickups [separate] -- items collected in video games: coin, extra life, health pack, shield
   hobbies and crafts
     crafts
@@ -144,16 +144,16 @@
     party games
     outdoor games
       yard games
-    building toys
-    dolls and figures
+    building toys [trademark]
+    dolls and figures [trademark]
   regional sports:
-    turkish football clubs [region:Middle East]
+    turkish football clubs [region:Middle East] [trademark]
     middle eastern pastimes [region:Middle East] -- backgammon, falconry, camel racing, baloot
-    african soccer clubs [region:Africa]
+    african soccer clubs [region:Africa] [trademark]
     south asian games [region:Asia] -- kabaddi, kho kho, carrom, gilli danda
     aussie rules terms [region:Oceania]
-    afl clubs [region:Oceania]
-    south american soccer clubs [region:South America]
+    afl clubs [region:Oceania] [trademark]
+    south american soccer clubs [region:South America] [trademark]
     capoeira words [region:South America]
     highland games [region:Europe]
     british pub games [region:Europe]
