@@ -3,7 +3,7 @@
 // The project lives in IndexedDB (autosaved) and in project files. Both use
 // the compact format from serialize(): words point at themes by index.
 
-const VERSION = '13';  // must match data-v and the ?v= links in index.html
+const VERSION = '14';  // must match data-v and the ?v= links in index.html
 const $ = s => document.querySelector(s);
 const esc = s => String(s ?? '').replace(/[&<>"']/g, c => ({ '&': '&amp;', '<': '&lt;', '>': '&gt;', '"': '&quot;', "'": '&#39;' }[c]));
 const slug = t => t.normalize('NFKD').replace(/[̀-ͯ]/g, '').replace(/[^\p{L}\p{N}]+/gu, '_').replace(/^_|_$/g, '').toLowerCase();
@@ -435,8 +435,8 @@ function renderTree() {
       + (kids.length && op ? kids.map(k => row(k, d + 1)).join('') : '');
   };
   $('#tree').innerHTML = kidsOf(null).map(id => row(id, 0)).join('') || '<p class="muted">No themes yet. Add one, or use Import / export to open the starter wordlist or add the starter theme tree.</p>';
-  $('#lock').textContent = UI.unlock ? '🔓 Drag on' : '🔒 Drag off';
-  $('#lock').title = UI.unlock ? 'Drop a theme on another to nest it, near a row edge to reorder, or on "+ Group" to make it top level.' : 'Click to allow dragging themes.';
+  $('#lock').textContent = UI.unlock ? '🔓' : '🔒';
+  $('#lock').title = UI.unlock ? 'Drop a theme on another to nest it, near a row edge to reorder, or on ＋ to make it top level.' : 'Dragging themes is off. Click to turn it on.';
 }
 
 function shownWords() {
