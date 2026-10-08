@@ -204,7 +204,20 @@ for example `3 + themes / 2`. Hints and spare tries are what in-app purchases wo
 - Zipf numbers stay in the game file for now.
 - Localisation: much later.
 
-## Open questions for Simon
+## Progress in the game repo (2026-10-06)
+
+- Tasks 1–3 done in freefallmode/word-safari (first on a `level-generator` branch, now merged: the work is on `main`; the branch named at the top of this note did not exist).
+  The generator and checker are in `Assets/WordSafari/Scripts/Core/LevelGen/`, the build tool is `Tools/LevelBuild`, and
+  the output is `Resources/WordSafari/levels.json` plus `Docs/Levels/levels-report.md`. The game's `CLAUDE.md`
+  ("Levels and difficulty") has the format, dials and checker rules.
+- **Simon's answers:** 60 test levels covering the full range of difficulty. Tries: 3 on level 1, rising evenly to 10 on the last level of the span, 10 after it (first decided as always 3, revised 2026-10-07). The hint bank
+  starts at 5 and gains 1 every 5 levels. Region/scenery is a mild preference (tropical fruit in the tropics).
+  Defaults taken: family-friendly game file only; on-screen cap 16 balloons in landscape, 12 in portrait.
+- Library issues the levels exposed (for task 10): odd members such as Marmalade and Margarine in "herbs, spices and
+  sauces", Suffrage in "famous people", Lemon tree and Mixed peel in "fruits", Snake in "board games". Theme labels are
+  empty, so display names are capitalised by a word list in `WordLibrary.DisplayName`; real labels would be better.
+
+## Open questions for Simon (answered: see above)
 
 - **Tries per level.** Today every level allows 5 wrong drops (`GameModel.MaxTries`), whether it has 2 themes or 15.
   The proposal is to let the allowance grow with the level size, for example `3 + themes / 2` rounded down
