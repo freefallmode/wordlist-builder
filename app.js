@@ -3,7 +3,7 @@
 // The project lives in IndexedDB (autosaved) and in project files. Both use
 // the compact format from serialize(): words point at themes by index.
 
-const VERSION = '27';  // must match data-v and the ?v= links in index.html
+const VERSION = '28';  // must match data-v and the ?v= links in index.html
 const $ = s => document.querySelector(s);
 const esc = s => String(s ?? '').replace(/[&<>"']/g, c => ({ '&': '&amp;', '<': '&lt;', '>': '&gt;', '"': '&quot;', "'": '&#39;' }[c]));
 const slug = t => t.normalize('NFKD').replace(/[̀-ͯ]/g, '').replace(/[^\p{L}\p{N}]+/gu, '_').replace(/^_|_$/g, '').toLowerCase();
@@ -854,16 +854,7 @@ function dataDialog() {
         if (!await confirmBox(`Replace the current library with this file (${p.themes.length} themes, ${Object.keys(p.words).length} words)?`)) return;
         P = p; UI.sel = null; changed(); fillFreq(); render();
       }));
-      on('#dx-wl', async () => {
-        try {
-          status('Loading the starter library…');
-          const r = await fetch('data/wordlist.json?v=' + VERSION);
-          if (!r.ok) throw Error(r.status === 404 ? 'not built yet' : r.status);
-          const p = deserialize(await r.json());
-          if (!await confirmBox(`Replace the current library with the starter library (${p.themes.length} themes, ${Object.keys(p.words).length} words)?`)) return;
-          P = p; UI.sel = null; changed(); fillFreq(); render();
-        } catch (e) { status('Could not load the starter library: ' + e.message, true); }
-      });
+      on('#dx-wl', () => loadStarterLibrary(true));
       on('#dx-game', () => download(exportGame(), `wordlist-game-${stamp()}.json`));
       on('#dx-csv', () => download(exportCsv(), `wordlist-${stamp()}.csv`, 'text/csv'));
       on('#dx-out', () => download(exportOutline(), `themes-${stamp()}.txt`, 'text/plain'));
@@ -1165,6 +1156,19 @@ document.addEventListener('dragend', () => { drag = null; render(); });
 
 function fillFreq() { if (FREQ) for (const w of Object.values(P.words)) if (w.z === undefined) w.z = wordZipf(w); }
 
+// Loads data/wordlist.json into the project after the user agrees. `replacing` words the question for a library that is not empty.
+async function loadStarterLibrary(replacing) {
+  try {
+    status('Loading the starter library…');
+    const r = await fetch('data/wordlist.json?v=' + VERSION);
+    if (!r.ok) throw Error(r.status === 404 ? 'not built yet' : r.status);
+    const p = deserialize(await r.json());
+    const n = `${p.themes.length} themes, ${Object.keys(p.words).length} words`;
+    if (!await confirmBox(replacing ? `Replace the current library with the starter library (${n})?` : `The library is empty. Load the starter library (${n})?`)) { status(''); return; }
+    P = p; UI.sel = null; changed(); fillFreq(); render();
+  } catch (e) { status('Could not load the starter library: ' + e.message, true); }
+}
+
 (async function start() {
   if (document.documentElement.dataset.v !== VERSION)
     status('This page is out of date in your browser cache. Reload with Ctrl+Shift+R (Cmd+Shift+R on a Mac).', true);
@@ -1179,4 +1183,5 @@ function fillFreq() { if (FREQ) for (const w of Object.values(P.words)) if (w.z 
   if (UI.sel && !theme(UI.sel)) UI.sel = null;
   render();
   loadFreq();
+  if (!P.themes.length && !Object.keys(P.words).length) loadStarterLibrary(false);
 })();
