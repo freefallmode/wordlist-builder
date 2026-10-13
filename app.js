@@ -732,14 +732,14 @@ function themeDialog() {
     + field('Notes (also sent to Claude to steer generation)', `<textarea id="ts-o" rows="2">${esc(t.note)}</textarea>`)
     + `<label class="pick"><input type="checkbox" id="ts-g"${t.group ? ' checked' : ''}> Group: a container for browsing, never used as a theme in a level</label>`
     + (t.parent ? `<label class="pick"><input type="checkbox" id="ts-sep"${t.sep ? '' : ' checked'}> Its words also count as members of "${esc(theme(t.parent).name)}" (untick for themes like apple varieties, whose words mean nothing in the parent on their own)</label>` : '')
-    + `<label class="pick"><input type="checkbox" id="ts-ff"${themeAdult(t.id) ? '' : ' checked'}${!t.adult && themeAdult(t.id) ? ' disabled' : ''}> Family-friendly (untick for adult content: the theme and its sub-themes, and its adult words, are left out of the game file when "Family-friendly game file" is on in Settings)${!t.adult && themeAdult(t.id) ? ' (set by a parent theme)' : ''}</label>`
+    + `<label class="pick"><input type="checkbox" id="ts-adult"${themeAdult(t.id) ? ' checked' : ''}${!t.adult && themeAdult(t.id) ? ' disabled' : ''}> Not family-friendly (adult content: the theme and its sub-themes are left out of the game file when "Family-friendly game file" is on in Settings)${!t.adult && themeAdult(t.id) ? ' (set by a parent theme)' : ''}</label>`
     + `<label class="pick"><input type="checkbox" id="ts-tm"${themeTm(t.id) ? ' checked' : ''}${!t.tm && themeTm(t.id) ? ' disabled' : ''}> Trademarks or copyrighted names (brands, titles, characters; left out when "Include trademarked" is off in Settings)${!t.tm && themeTm(t.id) ? ' (set by a parent theme)' : ''}</label>`
     + `<label class="pick"><input type="checkbox" id="ts-sens"${themeSens(t.id) ? ' checked' : ''}${!t.sens && themeSens(t.id) ? ' disabled' : ''}> Sensitive topic (religion, politics, death...): the game can keep it out of early or easy levels${!t.sens && themeSens(t.id) ? ' (set by a parent theme)' : ''}</label>`
     + `<label class="pick"><input type="checkbox" id="ts-en"${themeEn(t.id) ? ' checked' : ''}${!t.en && themeEn(t.id) ? ' disabled' : ''}> English only: depends on English spelling, sound or slang, so it will not translate (rhymes, puns, slang; wordplay themes always count)${!t.en && themeEn(t.id) ? (t.kind === 'wordplay' ? ' (this is a wordplay theme)' : ' (set by a parent theme or by wordplay)') : ''}</label>`
     + `<h4>Danger</h4><button class="danger" id="ts-del">Delete theme and its sub-themes…</button>`,
     [['Cancel', () => { }], ['Save', d => {
       t.name = val(d, '#ts-n').trim() || t.name; t.label = val(d, '#ts-l').trim(); t.kind = val(d, '#ts-k'); t.region = val(d, '#ts-r');
-      t.d = val(d, '#ts-d') ? +val(d, '#ts-d') : null; t.note = val(d, '#ts-o').trim(); t.group = chk(d, '#ts-g'); if (!d.querySelector('#ts-ff').disabled) t.adult = !chk(d, '#ts-ff'); if (!d.querySelector('#ts-tm').disabled) t.tm = chk(d, '#ts-tm'); if (!d.querySelector('#ts-sens').disabled) t.sens = chk(d, '#ts-sens'); if (!d.querySelector('#ts-en').disabled) t.en = chk(d, '#ts-en'); if (d.querySelector('#ts-sep')) t.sep = !chk(d, '#ts-sep');
+      t.d = val(d, '#ts-d') ? +val(d, '#ts-d') : null; t.note = val(d, '#ts-o').trim(); t.group = chk(d, '#ts-g'); if (!d.querySelector('#ts-adult').disabled) t.adult = chk(d, '#ts-adult'); if (!d.querySelector('#ts-tm').disabled) t.tm = chk(d, '#ts-tm'); if (!d.querySelector('#ts-sens').disabled) t.sens = chk(d, '#ts-sens'); if (!d.querySelector('#ts-en').disabled) t.en = chk(d, '#ts-en'); if (d.querySelector('#ts-sep')) t.sep = !chk(d, '#ts-sep');
       changed();
     }, 'p']], d => {
       d.querySelector('#ts-del').onclick = async () => { if (await confirmBox(`Delete "${t.name}" and its sub-themes? Words left with no theme are removed.`)) { deleteTheme(t.id); render(); } };
@@ -754,7 +754,7 @@ function wordDialog(id) {  // id changes if the American spelling is edited
     + `<div class="row"><label class="f" style="flex:1"><span>American spelling</span><input id="wd-us" value="${esc(w.t)}"></label>`
     + `<label class="f" style="flex:1"><span>British spelling (if different)</span><input id="wd-uk" value="${esc(w.uk)}"></label></div>`
     + `<label class="pick"><input type="checkbox" id="wd-on"${w.on ? ' checked' : ''}> Enabled</label>`
-    + `<label class="pick"><input type="checkbox" id="wd-ff"${w.adult ? '' : ' checked'}> Family-friendly</label>`
+    + `<label class="pick"><input type="checkbox" id="wd-adult"${w.adult ? ' checked' : ''}> Not family-friendly (adult word: left out of the game file when "Family-friendly game file" is on in Settings)</label>`
     + field('Estimated Zipf, used only when the word is not in the frequency list', `<input id="wd-ze" type="number" step="0.1" min="0" max="8" value="${w.ze || ''}">`)
     + field('Note', `<input id="wd-note" value="${esc(w.note)}">`)
     + '<h4>Linked themes</h4><p class="muted">Familiarity: 1 everyone knows it belongs, 5 specialists only. It sets the difficulty in that theme. ™: in this theme the word is a trademark or copyrighted name (brand, team, title, character).</p>'
@@ -771,7 +771,7 @@ function wordDialog(id) {  // id changes if the American spelling is edited
     + `<h4>Danger</h4><button class="danger" id="wd-del">Delete word</button>`,
     [['Close', () => { if (keep() === false) return false; changed(); }, 'p']], d => {
       keep = () => {
-        w.on = chk(d, '#wd-on'); w.note = val(d, '#wd-note').trim(); w.adult = !chk(d, '#wd-ff');
+        w.on = chk(d, '#wd-on'); w.note = val(d, '#wd-note').trim(); w.adult = chk(d, '#wd-adult');
         w.ze = +val(d, '#wd-ze') || null;
         const tm = [...d.querySelectorAll('[data-tm]')].filter(c => c.checked).map(c => c.dataset.tm);
         w.tm = tm.length ? tm : undefined;
