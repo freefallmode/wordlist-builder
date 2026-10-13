@@ -185,6 +185,10 @@ const zipfEstimated = w => !!w.ze && w.z === w.ze && (zipf(w.t) == null || /[ -]
 const themeAdult = id => (ix().anc[id] || []).some(a => theme(a).adult);
 // Likewise a theme holds trademarked or copyrighted names if it or a parent is marked so.
 const themeTm = id => (ix().anc[id] || []).some(a => theme(a).tm);
+// Sensitive themes (religion, politics, ...) and English-only themes (wordplay, slang, spelling rules: they do not survive translation) are inherited the same way.
+// The game file only carries the flags; the level generator decides where such themes may appear.
+const themeSens = id => (ix().anc[id] || []).some(a => theme(a).sens);
+const themeEn = id => (ix().anc[id] || []).some(a => theme(a).en || theme(a).kind === 'wordplay'); // every wordplay theme is English-only
 
 // ---------- words ----------
 
@@ -275,7 +279,7 @@ function reveal(id) { for (const a of (ix().anc[id] || []).slice(1)) UI.exp[a] =
 
 // ---------- saving ----------
 
-const FIELDS_T = ['id', 'name', 'label', 'parent', 'group', 'kind', 'region', 'difficulty', 'note', 'sourceTerms', 'adult', 'separate', 'trademark'];
+const FIELDS_T = ['id', 'name', 'label', 'parent', 'group', 'kind', 'region', 'difficulty', 'note', 'sourceTerms', 'adult', 'separate', 'trademark', 'sensitive', 'englishOnly'];
 const FIELDS_W = ['text', 'themes', 'enabled', 'zipf10', 'difficulty', 'sources', 'note', 'uk', 'clashes', 'checked', 'suggestions',
   'familiarity', 'zipfEstimate10', 'adult', 'themeForms', 'trademark'];
 // Compact project format. Themes keep their stable ids; words refer to themes by index.
@@ -285,7 +289,7 @@ function serialize() {
     schema: 2, app: 'wordlist-builder', saved: new Date().toISOString(),
     themeFields: FIELDS_T,
     themes: P.themes.map(t => [t.id, t.name, t.label || '', t.parent ? at[t.parent] : -1, t.group ? 1 : 0, t.kind || '', t.region || '', t.d || 0, t.note || '',
-      {}, t.adult ? 1 : 0, t.sep ? 1 : 0, t.tm ? 1 : 0]),
+      {}, t.adult ? 1 : 0, t.sep ? 1 : 0, t.tm ? 1 : 0, t.sens ? 1 : 0, t.en ? 1 : 0]),
     wordFields: FIELDS_W,
     words: Object.values(P.words).map(w => [w.t, w.th.map(t => at[t]).filter(i => i !== undefined), w.on ? 1 : 0,
       w.z == null ? (w.z === null ? 0 : -1) : Math.round(w.z * 10), w.d || 0, w.src.join(''), w.note || '', w.uk || '',
@@ -298,7 +302,7 @@ function serialize() {
 }
 function deserialize(j) {
   if (j.schema === 2) {
-    const themes = j.themes.map(a => ({ id: a[0], name: a[1], label: a[2], parent: null, group: !!a[4], kind: a[5], region: a[6], d: a[7] || null, note: a[8], ...(a[9] || {}), adult: !!a[10], sep: !!a[11], tm: !!a[12] }));
+    const themes = j.themes.map(a => ({ id: a[0], name: a[1], label: a[2], parent: null, group: !!a[4], kind: a[5], region: a[6], d: a[7] || null, note: a[8], ...(a[9] || {}), adult: !!a[10], sep: !!a[11], tm: !!a[12], sens: !!a[13], en: !!a[14] }));
     j.themes.forEach((a, i) => { if (a[3] >= 0) themes[i].parent = themes[a[3]].id; });
     const words = {};
     for (const a of j.words) words[slug(a[0])] = { t: a[0], th: a[1].map(i => themes[i].id), on: !!a[2], z: a[3] === -1 ? undefined : a[3] === 0 ? null : a[3] / 10, d: a[4] || null, src: a[5].split(''), note: a[6], uk: a[7] || '',
@@ -378,8 +382,8 @@ function exportGame() {
   words.sort((a, b) => a[0].localeCompare(b[0]));
   return JSON.stringify({
     v: 5, generated: new Date().toISOString(), spelling: SET.spelling, familyFriendly: !!fam, trademarks: !notm,
-    themeFields: ['id', 'name', 'label', 'parent', 'group', 'kind', 'region', 'difficulty', 'adult', 'separate', 'trademark'],
-    themes: themes.map(t => [t.id, t.name, t.label || '', t.parent ? at[t.parent] : -1, t.group ? 1 : 0, t.kind || '', t.region || '', themeDiff(t.id), themeAdult(t.id) ? 1 : 0, t.sep ? 1 : 0, themeTm(t.id) ? 1 : 0]),
+    themeFields: ['id', 'name', 'label', 'parent', 'group', 'kind', 'region', 'difficulty', 'adult', 'separate', 'trademark', 'sensitive', 'englishOnly'],
+    themes: themes.map(t => [t.id, t.name, t.label || '', t.parent ? at[t.parent] : -1, t.group ? 1 : 0, t.kind || '', t.region || '', themeDiff(t.id), themeAdult(t.id) ? 1 : 0, t.sep ? 1 : 0, themeTm(t.id) ? 1 : 0, themeSens(t.id) ? 1 : 0, themeEn(t.id) ? 1 : 0]),
     wordFields: ['text', 'balloonText', 'zipf10', 'themes', 'difficultyPerTheme', 'clashes', 'otherSpelling', 'formsPerTheme', 'anagramSet', 'trademarkIn'],
     words,
   });
@@ -393,12 +397,12 @@ function exportOutline() {
   const out = (p, d) => kidsOf(p).map(id => {
     const t = theme(id);
     return '  '.repeat(d) + t.name + (t.group ? ':' : '') + (t.kind ? ` [${t.kind}]` : '') + (t.region ? ` [region:${t.region}]` : '')
-      + (t.adult ? ' [adult]' : '') + (t.sep ? ' [separate]' : '') + (t.tm ? ' [trademark]' : '') + (t.note ? ' -- ' + t.note.replace(/\s+/g, ' ') : '') + '\n' + out(id, d + 1);
+      + (t.adult ? ' [adult]' : '') + (t.sep ? ' [separate]' : '') + (t.tm ? ' [trademark]' : '') + (t.sens ? ' [sensitive]' : '') + (t.en ? ' [english-only]' : '') + (t.note ? ' -- ' + t.note.replace(/\s+/g, ' ') : '') + '\n' + out(id, d + 1);
   }).join('');
   return out(null, 0);
 }
 // Merges an indented outline into the tree. Two spaces per level; a group has ':' after its name;
-// optional tags [place] [property] [wordplay] [region:Asia] [adult] [separate] [trademark]; optional ' -- note' at the end,
+// optional tags [place] [property] [wordplay] [region:Asia] [adult] [separate] [trademark] [sensitive] [english-only]; optional ' -- note' at the end,
 // e.g.   ___ball [wordplay] -- words that come before ball
 function importOutline(txt) {
   let n = 0;
@@ -406,7 +410,7 @@ function importOutline(txt) {
   for (const line of txt.split(/\r?\n/)) {
     if (!line.trim()) continue;
     const ind = line.match(/^\s*/)[0].replace(/\t/g, '  ').length;
-    let name = line.trim(), note = '', kind = '', region = '', adult = false, sep = false, tm = false;
+    let name = line.trim(), note = '', kind = '', region = '', adult = false, sep = false, tm = false, sens = false, en = false;
     const nm = name.indexOf(' -- ');
     if (nm >= 0) { note = name.slice(nm + 4).trim(); name = name.slice(0, nm); }
     let grp = /:\s*$/.test(name);
@@ -416,6 +420,8 @@ function importOutline(txt) {
       else if (k === 'adult') adult = true;
       else if (k === 'separate') sep = true;
       else if (k === 'trademark') tm = true;
+      else if (k === 'sensitive') sens = true;
+      else if (k === 'english-only') en = true;
       else if (k in KINDS) kind = k;
       return '';
     }).trim();
@@ -423,8 +429,8 @@ function importOutline(txt) {
     while (st.length && st[st.length - 1].ind >= ind) st.pop();
     const parent = st.length ? st[st.length - 1].id : null;
     let id = kidsOf(parent).find(k => theme(k).name.toLowerCase() === name.toLowerCase());
-    if (!id) { id = makeTheme(name, parent, { group: grp, kind, region, adult, note, sep, tm }); n++; }
-    else { const t = theme(id); if (grp) t.group = true; if (kind) t.kind = kind; if (region) t.region = region; if (adult) t.adult = true; if (sep) t.sep = true; if (tm) t.tm = true; if (note) t.note = note; }
+    if (!id) { id = makeTheme(name, parent, { group: grp, kind, region, adult, note, sep, tm, sens, en }); n++; }
+    else { const t = theme(id); if (grp) t.group = true; if (kind) t.kind = kind; if (region) t.region = region; if (adult) t.adult = true; if (sep) t.sep = true; if (tm) t.tm = true; if (sens) t.sens = true; if (en) t.en = true; if (note) t.note = note; }
     st.push({ ind, id });
   }
   changed();
@@ -507,7 +513,7 @@ function renderMain() {
   $('#ttl').textContent = t ? t.name : 'All words';
   $('#meta').textContent = t
     ? [KINDS[t.kind || ''], t.group ? 'group' : '', 'difficulty ' + themeDiff(t.id) + (t.d ? '' : ' (from depth)'), t.region,
-      t.sep ? 'words not counted in parent' : '', themeAdult(t.id) ? 'not family-friendly' + (t.adult ? '' : ' (inherited)') : '', t.label ? 'shown as "' + t.label + '"' : '', t.note].filter(Boolean).join(' · ')
+      t.sep ? 'words not counted in parent' : '', themeAdult(t.id) ? 'not family-friendly' + (t.adult ? '' : ' (inherited)') : '', themeSens(t.id) ? 'sensitive' + (t.sens ? '' : ' (inherited)') : '', themeEn(t.id) ? 'English only' + (t.en ? '' : ' (inherited)') : '', t.label ? 'shown as "' + t.label + '"' : '', t.note].filter(Boolean).join(' · ')
     : 'Select a theme on the left, or use the buttons below.';
   $('#genWords').disabled = $('#addWords').disabled = $('#themeSet').disabled = !t;
   $('#overlap').innerHTML = t ? overlapHtml(t.id) : '';
@@ -728,10 +734,12 @@ function themeDialog() {
     + (t.parent ? `<label class="pick"><input type="checkbox" id="ts-sep"${t.sep ? '' : ' checked'}> Its words also count as members of "${esc(theme(t.parent).name)}" (untick for themes like apple varieties, whose words mean nothing in the parent on their own)</label>` : '')
     + `<label class="pick"><input type="checkbox" id="ts-ff"${t.adult ? '' : ' checked'}> Family-friendly${!t.adult && themeAdult(t.id) ? ' (but a parent theme is not, so this one is left out too)' : ''}</label>`
     + `<label class="pick"><input type="checkbox" id="ts-tm"${t.tm ? ' checked' : ''}> Trademarks or copyrighted names (brands, titles, characters)${!t.tm && themeTm(t.id) ? ' (inherited from a parent theme)' : ''}</label>`
+    + `<label class="pick"><input type="checkbox" id="ts-sens"${t.sens ? ' checked' : ''}> Sensitive topic (religion, politics, death...): the game can keep it out of early or easy levels${!t.sens && themeSens(t.id) ? ' (inherited from a parent theme)' : ''}</label>`
+    + `<label class="pick"><input type="checkbox" id="ts-en"${t.en ? ' checked' : ''}> English only: depends on English spelling, sound or slang, so it will not translate (rhymes, puns, slang; wordplay themes always count)${!t.en && themeEn(t.id) ? (t.kind === 'wordplay' ? ' (this is a wordplay theme)' : ' (inherited from a parent theme)') : ''}</label>`
     + `<h4>Danger</h4><button class="danger" id="ts-del">Delete theme and its sub-themes…</button>`,
     [['Cancel', () => { }], ['Save', d => {
       t.name = val(d, '#ts-n').trim() || t.name; t.label = val(d, '#ts-l').trim(); t.kind = val(d, '#ts-k'); t.region = val(d, '#ts-r');
-      t.d = val(d, '#ts-d') ? +val(d, '#ts-d') : null; t.note = val(d, '#ts-o').trim(); t.group = chk(d, '#ts-g'); t.adult = !chk(d, '#ts-ff'); t.tm = chk(d, '#ts-tm'); if (d.querySelector('#ts-sep')) t.sep = !chk(d, '#ts-sep');
+      t.d = val(d, '#ts-d') ? +val(d, '#ts-d') : null; t.note = val(d, '#ts-o').trim(); t.group = chk(d, '#ts-g'); t.adult = !chk(d, '#ts-ff'); t.tm = chk(d, '#ts-tm'); t.sens = chk(d, '#ts-sens'); t.en = chk(d, '#ts-en'); if (d.querySelector('#ts-sep')) t.sep = !chk(d, '#ts-sep');
       changed();
     }, 'p']], d => {
       d.querySelector('#ts-del').onclick = async () => { if (await confirmBox(`Delete "${t.name}" and its sub-themes? Words left with no theme are removed.`)) { deleteTheme(t.id); render(); } };

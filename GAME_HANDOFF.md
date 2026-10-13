@@ -36,7 +36,7 @@ are exported from the app (Import / export → Export game file; Settings → Fa
 
 ```
 { v: 5, generated, spelling: "US"|"UK", familyFriendly, trademarks,
-  themeFields: [id, name, label, parent, group, kind, region, difficulty, adult, separate, trademark],
+  themeFields: [id, name, label, parent, group, kind, region, difficulty, adult, separate, trademark, sensitive, englishOnly],
   themes: [...rows],               // parent is an index into themes, -1 for top level
   wordFields: [text, balloonText, zipf10, themes, difficultyPerTheme, clashes, otherSpelling, formsPerTheme, anagramSet, trademarkIn],
   words: [...rows] }
