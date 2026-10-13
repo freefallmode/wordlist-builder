@@ -735,11 +735,11 @@ function themeDialog() {
     + `<label class="pick"><input type="checkbox" id="ts-ff"${t.adult ? '' : ' checked'}> Family-friendly${!t.adult && themeAdult(t.id) ? ' (but a parent theme is not, so this one is left out too)' : ''}</label>`
     + `<label class="pick"><input type="checkbox" id="ts-tm"${t.tm ? ' checked' : ''}> Trademarks or copyrighted names (brands, titles, characters)${!t.tm && themeTm(t.id) ? ' (inherited from a parent theme)' : ''}</label>`
     + `<label class="pick"><input type="checkbox" id="ts-sens"${t.sens ? ' checked' : ''}> Sensitive topic (religion, politics, death...): the game can keep it out of early or easy levels${!t.sens && themeSens(t.id) ? ' (inherited from a parent theme)' : ''}</label>`
-    + `<label class="pick"><input type="checkbox" id="ts-en"${t.en ? ' checked' : ''}> English only: depends on English spelling, sound or slang, so it will not translate (rhymes, puns, slang; wordplay themes always count)${!t.en && themeEn(t.id) ? (t.kind === 'wordplay' ? ' (this is a wordplay theme)' : ' (inherited from a parent theme)') : ''}</label>`
+    + `<label class="pick"><input type="checkbox" id="ts-en"${t.en || t.kind === 'wordplay' ? ' checked' : ''}${t.kind === 'wordplay' ? ' disabled' : ''}> English only: depends on English spelling, sound or slang, so it will not translate (rhymes, puns, slang; wordplay themes always count)${!t.en && themeEn(t.id) ? (t.kind === 'wordplay' ? ' (this is a wordplay theme)' : ' (inherited from a parent theme)') : ''}</label>`
     + `<h4>Danger</h4><button class="danger" id="ts-del">Delete theme and its sub-themes…</button>`,
     [['Cancel', () => { }], ['Save', d => {
       t.name = val(d, '#ts-n').trim() || t.name; t.label = val(d, '#ts-l').trim(); t.kind = val(d, '#ts-k'); t.region = val(d, '#ts-r');
-      t.d = val(d, '#ts-d') ? +val(d, '#ts-d') : null; t.note = val(d, '#ts-o').trim(); t.group = chk(d, '#ts-g'); t.adult = !chk(d, '#ts-ff'); t.tm = chk(d, '#ts-tm'); t.sens = chk(d, '#ts-sens'); t.en = chk(d, '#ts-en'); if (d.querySelector('#ts-sep')) t.sep = !chk(d, '#ts-sep');
+      t.d = val(d, '#ts-d') ? +val(d, '#ts-d') : null; t.note = val(d, '#ts-o').trim(); t.group = chk(d, '#ts-g'); t.adult = !chk(d, '#ts-ff'); t.tm = chk(d, '#ts-tm'); t.sens = chk(d, '#ts-sens'); t.en = t.kind === 'wordplay' ? !!t.en : chk(d, '#ts-en'); if (d.querySelector('#ts-sep')) t.sep = !chk(d, '#ts-sep');
       changed();
     }, 'p']], d => {
       d.querySelector('#ts-del').onclick = async () => { if (await confirmBox(`Delete "${t.name}" and its sub-themes? Words left with no theme are removed.`)) { deleteTheme(t.id); render(); } };
