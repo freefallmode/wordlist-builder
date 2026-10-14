@@ -1,0 +1,25 @@
+# Leftovers after unflagging (unmarked words in themes that were flagged)
+- **famous bands** (167/167 marked, 0 unmarked): 
+- **famous car models** (151/153 marked, 2 unmarked): model, Tin Lizzie
+- **american car brands** (46/46 marked, 0 unmarked): 
+- **tech companies** (41/42 marked, 1 unmarked): computer
+- **famous theme parks** (70/72 marked, 2 unmarked): Coney Island, Prater
+- **car brands** (69/69 marked, 0 unmarked): 
+- **famous races** (54/56 marked, 2 unmarked): henley, boat race
+- **social media platforms** (55/55 marked, 0 unmarked): 
+- **famous horse races** (52/54 marked, 2 unmarked): stake, derby
+- **famous hotels** (65/65 marked, 0 unmarked): 
+- **famous sporting events** (104/106 marked, 2 unmarked): boat race, All-Star Game
+- **afl clubs** (45/49 marked, 4 unmarked): magpie, university, blues, roo
+- **video games** (188/203 marked, 15 unmarked): tail, snake, pickaxe, bookworm, crowbar, level, map, knuckle, breakout, games console, game console, game controller, treasure chest, mech, heads-up display
+- **south american soccer clubs** (74/81 marked, 7 unmarked): Vitoria, Santa Fe, São Paulo, Fortaleza, Santos, Bahia, junior
+- **brand names used as words** (109/128 marked, 19 unmarked): granola, mace, kerosene, tarmac, dumpster, laundromat, escalator, zodiac, zipper, windbreaker, aspirin, heroin, lava lamp, linoleum, trampoline, yo-yo, dry ice, cellophane, mimeograph
+- **high-speed trains** (36/39 marked, 3 unmarked): bullet train, Shanghai Maglev, whoosh
+- **music festivals** (72/78 marked, 6 unmarked): Bayreuth, wristband, glow stick, beer tent, Montreux, Altamont
+- **european soccer clubs** (99/118 marked, 19 unmarked): Bologna, Bordeaux, wolf, Monaco, Copenhagen, Basel, Malmö, Braga, Aberdeen, Lille, Nantes, Saint-Étienne, Munich, Stuttgart, Genoa, Parma, Valencia, lens, hearts
+- **fonts** (64/76 marked, 12 unmarked): courier, Kufic, centaur, copperplate, Garamond, Baskerville, Bodoni, Didot, Caslon, Janson, din, Jenson
+- **fashion designers** (138/174 marked, 36 unmarked): label, coach, handbag, Coco Chanel, Gianni Versace, Donatella Versace, Miuccia Prada, Elsa Schiaparelli, Martin Margiela, Virgil Abloh, Hedi Slimane, Nicolas Ghesquière, Alessandro Michele, Maria Grazia Chiuri, Pierpaolo Piccioli, Riccardo Tisci, Olivier Rousteing, Demna, Jonathan Anderson, Ossie Clark, Norman Hartnell, Alber Elbaz, Hubert de Givenchy, Cristóbal Balenciaga, Charles Frederick Worth, Paul Poiret, Madeleine Vionnet, Jeanne Lanvin, Claire McCardell, Norman Norell, Stephen Burrows, Willi Smith, Patrick Kelly, Dapper Dan, André Courrèges, Pierre Balmain
+- **building toys** (35/45 marked, 10 unmarked): brick, block, building blocks, wooden blocks, alphabet blocks, marble run, baseplate, minifigure, unit blocks, Froebel gifts
+- **breakfast cereals** (49/64 marked, 15 unmarked): rolled oats, granola, oats, cornflake, muesli, porridge, oatmeal, bran flakes, puffed wheat, puffed rice, Bircher, overnight oats, birchermuesli, Bran, leprechaun
+- **american candy** (95/121 marked, 26 unmarked): s'more, cotton candy, lollipop, jelly bean, candy cane, marshmallow, gumdrop, rock candy, candy corn, taffy, saltwater taffy, peanut brittle, jawbreaker, candy necklace, candy button, gummy worm, divinity, penuche, peppermint patty, fruit snack, gummy, candy heart, conversation heart, hard candy, peanut butter cup, licorice whip
+- **film festivals** (19/31 marked, 12 unmarked): Sarajevo, Rotterdam, Edinburgh, Clermont-Ferrand, Deauville, Taormina, San Sebastián, Busan, Palm Springs, Toronto, Mar del Plata, Marrakech
