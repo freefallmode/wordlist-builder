@@ -3,7 +3,7 @@
 // The project lives in IndexedDB (autosaved) and in project files. Both use
 // the compact format from serialize(): words point at themes by index.
 
-const VERSION = '30';  // must match data-v and the ?v= links in index.html
+const VERSION = '35';  // must match data-v and the ?v= links in index.html
 const $ = s => document.querySelector(s);
 const esc = s => String(s ?? '').replace(/[&<>"']/g, c => ({ '&': '&amp;', '<': '&lt;', '>': '&gt;', '"': '&quot;', "'": '&#39;' }[c]));
 const slug = t => t.normalize('NFKD').replace(/[̀-ͯ]/g, '').replace(/[^\p{L}\p{N}]+/gu, '_').replace(/^_|_$/g, '').toLowerCase();
@@ -47,7 +47,7 @@ const SRC_NAME = Object.fromEntries(Object.entries(SRC).map(([k, v]) => [v, k]))
 //         x: [themeId] clashes (a player could think it fits; never in a level with these), ck: checked by the theme check,
 //         sg: {themeId: 'c' | 'a'} suggestions from the check awaiting review (clear fit / arguable)}
 let P = { themes: [], words: {} };
-const UI = loadLocal('wlb-ui', { sel: null, exp: {}, sort: 't', dir: 1, sub: true, show: 'all', unlock: false });
+const UI = loadLocal('wlb-ui', { sel: null, exp: {}, sort: 't', dir: 1, sub: true, show: 'all', unlock: false, tflag: '' });
 const FLT = { len: true, min: 3, max: 20, maxMulti: 20, letters: true, multi: false, block: false, list: '' };
 const SET = loadLocal('wlb-settings', { model: MODELS[0][0], spelling: 'US', key: '', remember: false, flt: {} });
 if (SET.flt.maxMulti === undefined) SET.flt = { ...FLT, ...SET.flt, multi: false }; // older settings blocked all multi-word entries
@@ -485,18 +485,27 @@ function orderedKids(id) {
   const n = x => (c[x] || { n: 0 }).n;
   return k.slice().sort(o === 'alpha' ? byName : o === 'recog' ? (a, b) => themeDiff(a) - themeDiff(b) || byName(a, b) : (a, b) => n(b) - n(a) || byName(a, b));
 }
+// Tree filter (the select above the tree): themes with a flag, set on them or inherited from a parent, plus their parents for context.
+const THEME_FLAGS = { adult: themeAdult, tm: themeTm, sens: themeSens, en: themeEn };
+function flagVisible() {
+  const f = THEME_FLAGS[UI.tflag];
+  if (!f) return null;
+  const vis = new Set();
+  for (const t of P.themes) if (f(t.id)) for (const a of ix().anc[t.id]) vis.add(a);
+  return vis;
+}
 function renderTree() {
-  const c = getCounts();
+  const c = getCounts(), vis = flagVisible(), isOpen = id => vis ? true : UI.exp[id];
   const row = (id, d) => {
-    const t = theme(id), kids = orderedKids(id), op = UI.exp[id], n = c[id] || { n: 0, on: 0 };
+    const t = theme(id), kids = orderedKids(id).filter(k => !vis || vis.has(k)), op = isOpen(id), n = c[id] || { n: 0, on: 0 };
     return `<div class="th${id === UI.sel ? ' on' : ''}"${UI.unlock ? ' draggable="true"' : ''} style="padding-left:${d * 14 + 6}px" data-sel="${id}">`
       + `<span class="nm"><i class="tg"${kids.length ? ` data-tog="${id}"` : ''}>${kids.length ? (op ? '▾' : '▸') : ''}</i>`
-      + (t.group ? '<b>' + esc(t.name) + '</b>' : esc(t.name)) + (t.adult ? '<span class="kind">18+</span>' : '')
+      + (t.group ? '<b>' + esc(t.name) + '</b>' : esc(t.name)) + (t.adult ? '<span class="kind">18+</span>' : '') + (t.tm ? '<span class="kind" title="Trademarks or copyrighted names">™</span>' : '') + (t.sens ? '<span class="kind" title="Sensitive topic">sens</span>' : '') + (t.en && t.kind !== 'wordplay' ? '<span class="kind" title="English only">EN</span>' : '')
       + (t.kind ? `<span class="kind">${esc(t.kind)}</span>` : '') + ` <small>${n.on}/${n.n}</small></span>`
       + `<span class="ac"><button data-add="${id}" title="Add sub-theme">+</button><button data-ren="${id}" title="Rename">✎</button><button data-del="${id}" title="Delete">✕</button></span></div>`
       + (kids.length && op ? kids.map(k => row(k, d + 1)).join('') : '');
   };
-  $('#tree').innerHTML = orderedKids(null).map(id => row(id, 0)).join('') || '<p class="muted">No themes yet. Add one, or use Import / export to load the starter library or the starter theme tree.</p>';
+  $('#tree').innerHTML = orderedKids(null).filter(id => !vis || vis.has(id)).map(id => row(id, 0)).join('') || (vis ? '<p class="muted">No themes have this flag.</p>' : '') || '<p class="muted">No themes yet. Add one, or use Import / export to load the starter library or the starter theme tree.</p>';
   $('#lock').textContent = UI.unlock ? '🔓' : '🔒';
   $('#lock').title = UI.unlock ? 'Drop a theme on another to nest it, near a row edge to reorder, or on ＋ to make it top level.' : 'Dragging themes is off. Click to turn it on.';
 }
@@ -510,7 +519,7 @@ function shownWords() {
   const q = $('#q').value.trim().toLowerCase();
   if (q) list = list.filter(w => matches(w, q));
   const hasSg = w => !!w.sg && Object.keys(w.sg).length > 0;
-  const keep = { all: null, on: w => w.on, off: w => !w.on, sug: hasSg, clash: w => !!(w.x && w.x.length), unchecked: w => !w.ck, tm: w => !!(w.tm && w.tm.length) || w.th.some(themeTm) }[UI.show];
+  const keep = { all: null, on: w => w.on, off: w => !w.on, sug: hasSg, clash: w => !!(w.x && w.x.length), unchecked: w => !w.ck, tm: w => !!(w.tm && w.tm.length) || w.th.some(themeTm), adult: w => !!w.adult || w.th.some(themeAdult) }[UI.show];
   if (keep) list = list.filter(keep);
   const key = { t: w => form(w).toLowerCase(), len: w => core(form(w)).length, z: w => w.z ?? 0, d: w => wordDiff(w, UI.sel), th: w => w.th.length }[UI.sort] || (w => w.t);
   return list.sort((a, b) => { const x = key(a), y = key(b); return (x < y ? -1 : x > y ? 1 : form(a).localeCompare(form(b))) * UI.dir; });
@@ -522,7 +531,7 @@ function renderMain() {
   $('#ttl').textContent = t ? t.name : 'All words';
   $('#meta').textContent = t
     ? [KINDS[t.kind || ''], t.group ? 'group' : '', 'difficulty ' + themeDiff(t.id) + (t.d ? '' : ' (from depth)'), t.region,
-      t.sep ? 'words not counted in parent' : '', themeAdult(t.id) ? 'not family-friendly' + (t.adult ? '' : ' (inherited)') : '', themeSens(t.id) ? 'sensitive' + (t.sens ? '' : ' (inherited)') : '', themeEn(t.id) ? 'English only' + (t.en ? '' : ' (inherited)') : '', t.label ? 'shown as "' + t.label + '"' : '', t.note].filter(Boolean).join(' · ')
+      t.sep ? 'words not counted in parent' : '', themeAdult(t.id) ? 'adult content' + (t.adult ? '' : ' (inherited)') : '', themeSens(t.id) ? 'sensitive' + (t.sens ? '' : ' (inherited)') : '', themeEn(t.id) ? 'English only' + (t.en ? '' : ' (inherited)') : '', t.label ? 'shown as "' + t.label + '"' : '', t.note].filter(Boolean).join(' · ')
     : 'Select a theme on the left, or use the buttons below.';
   $('#genWords').disabled = $('#addWords').disabled = $('#themeSet').disabled = !t;
   $('#overlap').innerHTML = t ? overlapHtml(t.id) : '';
@@ -534,6 +543,7 @@ function renderMain() {
   $('#spell').textContent = 'Spelling: ' + SET.spelling;
   $('#sub').checked = UI.sub;
   $('#show').value = UI.show;
+  $('#tflag').value = UI.tflag || '';
   for (const h of document.querySelectorAll('th[data-sort]')) h.className = h.dataset.sort === UI.sort ? 's' + UI.dir : '';
 
   const ws = shownWords();
@@ -577,7 +587,11 @@ function renderFound() {
     || '<span class="muted">No matches</span>';
 }
 
-function render() { renderTree(); renderMain(); renderFound(); saveLocal(); }
+function renderTotals() {
+  const ts = P.themes, play = ts.filter(t => !t.group).length, ws = Object.values(P.words), on = ws.filter(w => w.on).length;
+  $('#totals').innerHTML = `<b>${play.toLocaleString()}</b> themes <span class="muted">(${(ts.length - play).toLocaleString()} groups)</span> · <b>${ws.length.toLocaleString()}</b> words <span class="muted">(${on.toLocaleString()} enabled)</span>`;
+}
+function render() { renderTree(); renderMain(); renderFound(); renderTotals(); saveLocal(); }
 
 // ---------- dialogs ----------
 
@@ -741,7 +755,7 @@ function themeDialog() {
     + field('Notes (also sent to Claude to steer generation)', `<textarea id="ts-o" rows="2">${esc(t.note)}</textarea>`)
     + `<label class="pick"><input type="checkbox" id="ts-g"${t.group ? ' checked' : ''}> Group: a container for browsing, never used as a theme in a level</label>`
     + (t.parent ? `<label class="pick"><input type="checkbox" id="ts-sep"${t.sep ? '' : ' checked'}> Its words also count as members of "${esc(theme(t.parent).name)}" (untick for themes like apple varieties, whose words mean nothing in the parent on their own)</label>` : '')
-    + `<label class="pick"><input type="checkbox" id="ts-adult"${themeAdult(t.id) ? ' checked' : ''}${!t.adult && themeAdult(t.id) ? ' disabled' : ''}> Not family-friendly (adult content: the theme and its sub-themes are left out of the game file when "Family-friendly game file" is on in Settings)${!t.adult && themeAdult(t.id) ? ' (set by a parent theme)' : ''}</label>`
+    + `<label class="pick"><input type="checkbox" id="ts-adult"${themeAdult(t.id) ? ' checked' : ''}${!t.adult && themeAdult(t.id) ? ' disabled' : ''}> Adult content (the theme and its sub-themes are left out of the game file when "Family-friendly game file" is on in Import / export)${!t.adult && themeAdult(t.id) ? ' (set by a parent theme)' : ''}</label>`
     + `<label class="pick"><input type="checkbox" id="ts-tm"${themeTm(t.id) ? ' checked' : ''}${!t.tm && themeTm(t.id) ? ' disabled' : ''}> Trademarks or copyrighted names (brands, titles, characters; left out when "Include trademarked" is off in Settings)${!t.tm && themeTm(t.id) ? ' (set by a parent theme)' : ''}</label>`
     + `<label class="pick"><input type="checkbox" id="ts-sens"${themeSens(t.id) ? ' checked' : ''}${!t.sens && themeSens(t.id) ? ' disabled' : ''}> Sensitive topic (religion, politics, death...): the game can keep it out of early or easy levels${!t.sens && themeSens(t.id) ? ' (set by a parent theme)' : ''}</label>`
     + `<label class="pick"><input type="checkbox" id="ts-en"${themeEn(t.id) ? ' checked' : ''}${!t.en && themeEn(t.id) ? ' disabled' : ''}> English only: depends on English spelling, sound or slang, so it will not translate (rhymes, puns, slang; wordplay themes always count)${!t.en && themeEn(t.id) ? (t.kind === 'wordplay' ? ' (this is a wordplay theme)' : ' (set by a parent theme or by wordplay)') : ''}</label>`
@@ -763,7 +777,7 @@ function wordDialog(id) {  // id changes if the American spelling is edited
     + `<div class="row"><label class="f" style="flex:1"><span>American spelling</span><input id="wd-us" value="${esc(w.t)}"></label>`
     + `<label class="f" style="flex:1"><span>British spelling (if different)</span><input id="wd-uk" value="${esc(w.uk)}"></label></div>`
     + `<label class="pick"><input type="checkbox" id="wd-on"${w.on ? ' checked' : ''}> Enabled</label>`
-    + `<label class="pick"><input type="checkbox" id="wd-adult"${w.adult ? ' checked' : ''}> Not family-friendly (adult word: left out of the game file when "Family-friendly game file" is on in Settings)</label>`
+    + `<label class="pick"><input type="checkbox" id="wd-adult"${w.adult ? ' checked' : ''}> Adult content (this word is left out of the game file when "Family-friendly game file" is on in Import / export)</label>`
     + field('Estimated Zipf, used only when the word is not in the frequency list', `<input id="wd-ze" type="number" step="0.1" min="0" max="8" value="${w.ze || ''}">`)
     + field('Note', `<input id="wd-note" value="${esc(w.note)}">`)
     + '<h4>Linked themes</h4><p class="muted">Familiarity: 1 everyone knows it belongs, 5 specialists only. It sets the difficulty in that theme. ™: in this theme the word is a trademark or copyrighted name (brand, team, title, character).</p>'
@@ -830,9 +844,6 @@ function settingsDialog() {
     + '<h4>Theme tree</h4>'
     + field('Theme order', `<select id="se-ord">${options([['manual', 'As arranged (drag to reorder)'], ['alpha', 'Alphabetical'], ['recog', 'Easiest to recognise first (theme difficulty)'], ['words', 'Most words first (theme and its sub-themes)']], SET.treeOrder || 'manual')}</select>`)
     + '<p class="muted">Only changes how the tree is shown, not the saved order. Dragging to reorder works in "As arranged".</p>'
-    + '<h4>Exports</h4>'
-    + `<label class="pick"><input type="checkbox" id="se-fam"${SET.familyExport ? ' checked' : ''}> Family-friendly game file: leave out themes and words not marked family-friendly</label>`
-    + `<label class="pick"><input type="checkbox" id="se-tm"${SET.tmExport === false ? '' : ' checked'}> Include trademarked and copyrighted names (brands, titles, characters) in the game file</label>`
     + '<h4>Filters for new words</h4><p class="muted">Words that fail are still added, but disabled, with the reason in the note.</p>'
     + `<div class="row"><label><input type="checkbox" id="se-len"${f.len ? ' checked' : ''}> Length</label> single words <input id="se-min" type="number" value="${f.min}"> to <input id="se-max" type="number" value="${f.max}"> letters</div>`
     + `<div class="row">two-word names (shown on two lines): at most <input id="se-mm" type="number" value="${f.maxMulti}"> letters in total</div>`
@@ -841,7 +852,7 @@ function settingsDialog() {
     + `<div class="row"><button id="se-re">Re-apply filters to all words…</button></div>`,
     [['Cancel', () => { }], ['Save', d => {
       const read = () => {
-        sessionKey = val(d, '#se-key').trim(); SET.remember = chk(d, '#se-rem'); SET.model = val(d, '#se-model'); SET.spelling = val(d, '#se-sp'); SET.familyExport = chk(d, '#se-fam'); SET.tmExport = chk(d, '#se-tm'); SET.treeOrder = val(d, '#se-ord');
+        sessionKey = val(d, '#se-key').trim(); SET.remember = chk(d, '#se-rem'); SET.model = val(d, '#se-model'); SET.spelling = val(d, '#se-sp'); SET.treeOrder = val(d, '#se-ord');
         Object.assign(SET.flt, { len: chk(d, '#se-len'), min: +val(d, '#se-min'), max: +val(d, '#se-max'), maxMulti: +val(d, '#se-mm'), letters: chk(d, '#se-let'), multi: chk(d, '#se-mul'), block: chk(d, '#se-blk'), list: val(d, '#se-list') });
       };
       read(); saveLocal(); render();
@@ -861,13 +872,17 @@ function dataDialog() {
     + '<div class="row"><button id="dx-wl">Load starter library</button><button id="dx-open">Import library…</button><button id="dx-save" class="p">Export library</button></div>'
     + '<h4>Theme tree only, no words (.txt)</h4><p class="muted">The tree as an indented text list you can edit in any text editor. Importing <b>adds</b> its themes to the current tree.</p>'
     + '<div class="row"><button id="dx-starter">Load starter theme tree</button><button id="dx-imp">Import theme tree…</button><button id="dx-out">Export theme tree</button></div>'
-    + '<h4>For the game and spreadsheets (export only)</h4><p class="muted">The game file holds enabled words only, compact, family-friendly if set in Settings.</p>'
+    + '<h4>For the game and spreadsheets (export only)</h4><p class="muted">The game file holds enabled words only, compact. Spelling (American or British) is set in Settings.</p>'
+    + `<label class="pick"><input type="checkbox" id="dx-fam"${SET.familyExport ? ' checked' : ''}> Family-friendly game file: leave out themes and words not marked family-friendly</label>`
+    + `<label class="pick"><input type="checkbox" id="dx-tm"${SET.tmExport === false ? '' : ' checked'}> Include trademarked and copyrighted names (brands, titles, characters) in the game file</label>`
     + '<div class="row"><button id="dx-game">Export game file</button><button id="dx-csv">Export CSV</button></div>'
     + '<h4>Maintenance</h4><div class="row"><button id="dx-uk">Find British spellings (Claude)</button><button id="dx-freq">Recompute frequencies</button><button id="dx-clrw" class="danger">Delete all words…</button><button id="dx-clr" class="danger">Delete everything…</button></div>'
     + '<input type="file" id="dx-file" hidden>',
     [['Close', () => { }]], d => {
       const on = (s, fn) => d.querySelector(s).onclick = fn;
       const pickFile = (accept, fn) => { const f = d.querySelector('#dx-file'); f.accept = accept; f.value = ''; f.onchange = () => f.files[0] && f.files[0].text().then(fn).catch(e => status('Error: ' + e.message, true)); f.click(); };
+      on('#dx-fam', () => { SET.familyExport = chk(d, '#dx-fam'); saveLocal(); });
+      on('#dx-tm', () => { SET.tmExport = chk(d, '#dx-tm'); saveLocal(); });
       on('#dx-save', () => download(JSON.stringify(serialize()), `wordlist-library-${stamp()}.json`));
       on('#dx-open', () => pickFile('.json', async txt => {
         const p = deserialize(JSON.parse(txt));
@@ -1147,6 +1162,7 @@ document.addEventListener('change', e => {
   else if (t.id === 'sub') { UI.sub = t.checked; render(); }
   else if (t.id === 'selall') { if (t.checked) shownIds.forEach(i => PICK.add(i)); else PICK.clear(); renderMain(); }
   else if (t.id === 'show') { UI.show = t.value; render(); }
+  else if (t.id === 'tflag') { UI.tflag = t.value; render(); }
 });
 $('#q').addEventListener('input', () => { limit = 500; renderMain(); });
 $('#find').addEventListener('input', renderFound);

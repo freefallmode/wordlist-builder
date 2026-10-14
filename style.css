@@ -88,3 +88,5 @@ dialog label.f input:not([type=checkbox]),dialog label.f select{width:100%}
 .st.err,#msg.err{color:var(--err)}
 #msg{color:var(--ac);min-height:1.3em}
 .pick{display:block;padding:2px 0}
+
+#totals{font-size:13px;padding:2px 0}

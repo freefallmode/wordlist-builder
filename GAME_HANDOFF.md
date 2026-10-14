@@ -30,7 +30,7 @@ trademarks 2,226 themes, 70,995 words.
 | `data/gen/words/batch-NN.links.json` | Cross-theme check per batch: `{text: {"also": [[theme, familiarity]], "clash": [theme]}}`. |
 
 Rebuild: `python3 tools/merge_tree.py` (tree) then `python3 tools/build_wordlist.py` (library); the game files
-are exported from the app (Import / export → Export game file; Settings → Family-friendly game file).
+are exported from the app (Import / export → Export game file; Import / export → Family-friendly game file).
 
 ### Game file (v5)
 
@@ -70,7 +70,7 @@ are exported from the app (Import / export → Export game file; Settings → Fa
   "holidays and events"; apple varieties like Rome or Jazz are not "fruits" alone). A playable parent's word pool
   is its own words plus its non-separate sub-themes, recursively.
 - `difficulty`: theme difficulty, depth in the tree unless set by hand.
-- `adult`: not family-friendly; inherited by everything below.
+- `adult`: adult content (shown as "Adult content" in the app; left out of the family-friendly game file); inherited by everything below.
 
 ### Data caveats the level builder must handle
 
