@@ -3,7 +3,7 @@
 // The project lives in IndexedDB (autosaved) and in project files. Both use
 // the compact format from serialize(): words point at themes by index.
 
-const VERSION = '29';  // must match data-v and the ?v= links in index.html
+const VERSION = '30';  // must match data-v and the ?v= links in index.html
 const $ = s => document.querySelector(s);
 const esc = s => String(s ?? '').replace(/[&<>"']/g, c => ({ '&': '&amp;', '<': '&lt;', '>': '&gt;', '"': '&quot;', "'": '&#39;' }[c]));
 const slug = t => t.normalize('NFKD').replace(/[̀-ͯ]/g, '').replace(/[^\p{L}\p{N}]+/gu, '_').replace(/^_|_$/g, '').toLowerCase();
@@ -476,10 +476,19 @@ const GAME = 'Word Safari is a word-sorting puzzle. Each balloon carries one wor
 
 function status(m, err) { const s = document.querySelector('dialog[open] .st') || $('#msg'); s.textContent = m; s.classList.toggle('err', !!err); }
 
+// Order of themes in the tree (Settings, "Theme order"): as arranged by hand, A to Z, easiest to recognise first
+// (theme difficulty, 1 = everyone sees the group at a glance), or most words in the theme and its sub-themes first.
+function orderedKids(id) {
+  const k = kidsOf(id), o = SET.treeOrder || 'manual';
+  if (o === 'manual' || k.length < 2) return k;
+  const c = getCounts(), byName = (a, b) => theme(a).name.localeCompare(theme(b).name);
+  const n = x => (c[x] || { n: 0 }).n;
+  return k.slice().sort(o === 'alpha' ? byName : o === 'recog' ? (a, b) => themeDiff(a) - themeDiff(b) || byName(a, b) : (a, b) => n(b) - n(a) || byName(a, b));
+}
 function renderTree() {
   const c = getCounts();
   const row = (id, d) => {
-    const t = theme(id), kids = kidsOf(id), op = UI.exp[id], n = c[id] || { n: 0, on: 0 };
+    const t = theme(id), kids = orderedKids(id), op = UI.exp[id], n = c[id] || { n: 0, on: 0 };
     return `<div class="th${id === UI.sel ? ' on' : ''}"${UI.unlock ? ' draggable="true"' : ''} style="padding-left:${d * 14 + 6}px" data-sel="${id}">`
       + `<span class="nm"><i class="tg"${kids.length ? ` data-tog="${id}"` : ''}>${kids.length ? (op ? '▾' : '▸') : ''}</i>`
       + (t.group ? '<b>' + esc(t.name) + '</b>' : esc(t.name)) + (t.adult ? '<span class="kind">18+</span>' : '')
@@ -487,7 +496,7 @@ function renderTree() {
       + `<span class="ac"><button data-add="${id}" title="Add sub-theme">+</button><button data-ren="${id}" title="Rename">✎</button><button data-del="${id}" title="Delete">✕</button></span></div>`
       + (kids.length && op ? kids.map(k => row(k, d + 1)).join('') : '');
   };
-  $('#tree').innerHTML = kidsOf(null).map(id => row(id, 0)).join('') || '<p class="muted">No themes yet. Add one, or use Import / export to load the starter library or the starter theme tree.</p>';
+  $('#tree').innerHTML = orderedKids(null).map(id => row(id, 0)).join('') || '<p class="muted">No themes yet. Add one, or use Import / export to load the starter library or the starter theme tree.</p>';
   $('#lock').textContent = UI.unlock ? '🔓' : '🔒';
   $('#lock').title = UI.unlock ? 'Drop a theme on another to nest it, near a row edge to reorder, or on ＋ to make it top level.' : 'Dragging themes is off. Click to turn it on.';
 }
@@ -818,6 +827,9 @@ function settingsDialog() {
     + '<h4>Spelling</h4>'
     + field('Show and export', `<select id="se-sp">${options([['US', 'American (color, jewelry)'], ['UK', 'British (colour, jewellery)']], SET.spelling)}</select>`)
     + '<p class="muted">Words keep both spellings; this picks which one is shown, searched first and written to the game file. The toolbar button switches it too.</p>'
+    + '<h4>Theme tree</h4>'
+    + field('Theme order', `<select id="se-ord">${options([['manual', 'As arranged (drag to reorder)'], ['alpha', 'Alphabetical'], ['recog', 'Easiest to recognise first (theme difficulty)'], ['words', 'Most words first (theme and its sub-themes)']], SET.treeOrder || 'manual')}</select>`)
+    + '<p class="muted">Only changes how the tree is shown, not the saved order. Dragging to reorder works in "As arranged".</p>'
     + '<h4>Exports</h4>'
     + `<label class="pick"><input type="checkbox" id="se-fam"${SET.familyExport ? ' checked' : ''}> Family-friendly game file: leave out themes and words not marked family-friendly</label>`
     + `<label class="pick"><input type="checkbox" id="se-tm"${SET.tmExport === false ? '' : ' checked'}> Include trademarked and copyrighted names (brands, titles, characters) in the game file</label>`
@@ -829,10 +841,10 @@ function settingsDialog() {
     + `<div class="row"><button id="se-re">Re-apply filters to all words…</button></div>`,
     [['Cancel', () => { }], ['Save', d => {
       const read = () => {
-        sessionKey = val(d, '#se-key').trim(); SET.remember = chk(d, '#se-rem'); SET.model = val(d, '#se-model'); SET.spelling = val(d, '#se-sp'); SET.familyExport = chk(d, '#se-fam'); SET.tmExport = chk(d, '#se-tm');
+        sessionKey = val(d, '#se-key').trim(); SET.remember = chk(d, '#se-rem'); SET.model = val(d, '#se-model'); SET.spelling = val(d, '#se-sp'); SET.familyExport = chk(d, '#se-fam'); SET.tmExport = chk(d, '#se-tm'); SET.treeOrder = val(d, '#se-ord');
         Object.assign(SET.flt, { len: chk(d, '#se-len'), min: +val(d, '#se-min'), max: +val(d, '#se-max'), maxMulti: +val(d, '#se-mm'), letters: chk(d, '#se-let'), multi: chk(d, '#se-mul'), block: chk(d, '#se-blk'), list: val(d, '#se-list') });
       };
-      read(); saveLocal();
+      read(); saveLocal(); render();
     }, 'p']], d => {
       d.querySelector('#se-re').onclick = async () => {
         Object.assign(SET.flt, { len: chk(d, '#se-len'), min: +val(d, '#se-min'), max: +val(d, '#se-max'), maxMulti: +val(d, '#se-mm'), letters: chk(d, '#se-let'), multi: chk(d, '#se-mul'), block: chk(d, '#se-blk'), list: val(d, '#se-list') });
