@@ -849,7 +849,8 @@ function settingsDialog() {
     + `<div class="row">two-word names (shown on two lines): at most <input id="se-mm" type="number" value="${f.maxMulti}"> letters in total</div>`
     + `<div class="row"><label><input type="checkbox" id="se-let"${f.letters ? ' checked' : ''}> Letters, digits, apostrophes, periods and &amp; only</label><label><input type="checkbox" id="se-mul"${f.multi ? ' checked' : ''}> Single words only</label><label><input type="checkbox" id="se-blk"${f.block ? ' checked' : ''}> Blocklist</label></div>`
     + `<textarea id="se-list" rows="2" placeholder="blocklist words, comma or space separated">${esc(f.list)}</textarea>`
-    + `<div class="row"><button id="se-re">Re-apply filters to all words…</button></div>`,
+    + `<div class="row"><button id="se-re">Re-apply filters to all words…</button></div>`
+    + '<h4>Maintenance</h4><div class="row"><button id="se-uk">Find British spellings (Claude)</button><button id="se-freq">Recompute frequencies</button></div>',
     [['Cancel', () => { }], ['Save', d => {
       const read = () => {
         sessionKey = val(d, '#se-key').trim(); SET.remember = chk(d, '#se-rem'); SET.model = val(d, '#se-model'); SET.spelling = val(d, '#se-sp'); SET.treeOrder = val(d, '#se-ord');
@@ -857,6 +858,25 @@ function settingsDialog() {
       };
       read(); saveLocal(); render();
     }, 'p']], d => {
+      d.querySelector('#se-uk').onclick = async () => {
+        // uses the key typed in this dialog, so it works before Save
+        const typed = val(d, '#se-key').trim(); if (typed) sessionKey = typed;
+        const todo = Object.values(P.words).filter(w => !w.uk && !w.ukChecked);
+        if (!todo.length) return status('Every word has been checked.');
+        let found = 0;
+        for (let i = 0; i < todo.length; i += 300) {
+          status(`Checking words ${i + 1} to ${Math.min(i + 300, todo.length)} of ${todo.length}…`);
+          const chunk = todo.slice(i, i + 300);
+          const r = await claude(`These English words are in American spelling. List only those whose British spelling is different, with the British form (color → colour, jewelry → jewellery, airplane → aeroplane, donut → doughnut). Leave out words spelled the same.\n\n${chunk.map(w => w.t).join('\n')}`,
+            { type: 'object', additionalProperties: false, required: ['pairs'], properties: { pairs: { type: 'array', items: {
+              type: 'object', additionalProperties: false, required: ['word', 'uk'], properties: { word: { type: 'string' }, uk: { type: 'string' } } } } } });
+          for (const x of r.pairs) { const w = P.words[slug(x.word)]; if (w && !w.uk && x.uk && x.uk.toLowerCase() !== w.t.toLowerCase()) { w.uk = clean(x.uk); w.z = wordZipf(w); found++; } }
+          for (const w of chunk) w.ukChecked = true;
+          changed(); render();
+        }
+        status(`Added ${found} British spellings.`);
+      };
+      d.querySelector('#se-freq').onclick = () => { for (const w of Object.values(P.words)) w.z = wordZipf(w); changed(); render(); status(FREQ ? 'Frequencies updated.' : 'The frequency list is not loaded.', !FREQ); };
       d.querySelector('#se-re').onclick = async () => {
         Object.assign(SET.flt, { len: chk(d, '#se-len'), min: +val(d, '#se-min'), max: +val(d, '#se-max'), maxMulti: +val(d, '#se-mm'), letters: chk(d, '#se-let'), multi: chk(d, '#se-mul'), block: chk(d, '#se-blk'), list: val(d, '#se-list') });
         saveLocal();
@@ -876,7 +896,7 @@ function dataDialog() {
     + `<label class="pick"><input type="checkbox" id="dx-fam"${SET.familyExport ? ' checked' : ''}> Family-friendly game file: leave out themes and words not marked family-friendly</label>`
     + `<label class="pick"><input type="checkbox" id="dx-tm"${SET.tmExport === false ? '' : ' checked'}> Include trademarked and copyrighted names (brands, titles, characters) in the game file</label>`
     + '<div class="row"><button id="dx-game">Export game file</button><button id="dx-csv">Export CSV</button></div>'
-    + '<h4>Maintenance</h4><div class="row"><button id="dx-uk">Find British spellings (Claude)</button><button id="dx-freq">Recompute frequencies</button><button id="dx-clrw" class="danger">Delete all words…</button><button id="dx-clr" class="danger">Delete everything…</button></div>'
+    + '<h4>Maintenance</h4><div class="row"><button id="dx-clrw" class="danger">Delete all words…</button><button id="dx-clr" class="danger">Delete everything…</button></div>'
     + '<input type="file" id="dx-file" hidden>',
     [['Close', () => { }]], d => {
       const on = (s, fn) => d.querySelector(s).onclick = fn;
@@ -898,23 +918,6 @@ function dataDialog() {
         catch (e) { status('Could not load the starter theme tree: ' + e.message, true); }
       });
       on('#dx-imp', () => pickFile('.txt', txt => { status(`Added ${importOutline(txt)} themes.`); render(); }));
-      on('#dx-uk', async () => {
-        const todo = Object.values(P.words).filter(w => !w.uk && !w.ukChecked);
-        if (!todo.length) return status('Every word has been checked.');
-        let found = 0;
-        for (let i = 0; i < todo.length; i += 300) {
-          status(`Checking words ${i + 1} to ${Math.min(i + 300, todo.length)} of ${todo.length}…`);
-          const chunk = todo.slice(i, i + 300);
-          const r = await claude(`These English words are in American spelling. List only those whose British spelling is different, with the British form (color → colour, jewelry → jewellery, airplane → aeroplane, donut → doughnut). Leave out words spelled the same.\n\n${chunk.map(w => w.t).join('\n')}`,
-            { type: 'object', additionalProperties: false, required: ['pairs'], properties: { pairs: { type: 'array', items: {
-              type: 'object', additionalProperties: false, required: ['word', 'uk'], properties: { word: { type: 'string' }, uk: { type: 'string' } } } } } });
-          for (const x of r.pairs) { const w = P.words[slug(x.word)]; if (w && !w.uk && x.uk && x.uk.toLowerCase() !== w.t.toLowerCase()) { w.uk = clean(x.uk); w.z = wordZipf(w); found++; } }
-          for (const w of chunk) w.ukChecked = true;
-          changed(); render();
-        }
-        status(`Added ${found} British spellings.`);
-      });
-      on('#dx-freq', () => { for (const w of Object.values(P.words)) w.z = wordZipf(w); changed(); render(); status(FREQ ? 'Frequencies updated.' : 'The frequency list is not loaded.', !FREQ); });
       on('#dx-clrw', async () => { if (await confirmBox('Delete every word in every theme? Themes are kept.')) { P.words = {}; changed(); render(); } });
       on('#dx-clr', async () => { if (await confirmBox('Delete all themes and all words?')) { P = { themes: [], words: {} }; UI.sel = null; changed(); render(); } });
     });
