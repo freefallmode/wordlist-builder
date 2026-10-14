@@ -1001,7 +1001,19 @@ function reviewDialog(words) {
       + `<td title="${esc(pathOf(r.t))}">${esc(theme(r.t).name)} <small class="muted">${r.k === 'c' ? 'clear' : 'arguable'}</small></td>`
       + ['c', 'a', 'i'].map(v => `<td><input type="radio" name="rv${i}" value="${v}" data-k="${r.k}"${r.k === v ? ' checked' : ''}></td>`).join('') + '</tr>').join('')
     + '</table>' + (rows.length > page.length ? `<p class="muted">Showing ${page.length} of ${rows.length}. Apply to see the rest.</p>` : '');
-  dialog(`Review suggestions (${rows.length})`, body, [['Close', () => { }], ...(page.length ? [['Apply', d => {
+  dialog(`Review suggestions (${rows.length})`, body, [['Close', () => { }],
+    ...(rows.length > page.length ? [[`Apply all ${rows.length} as suggested`, () => {
+      rows.forEach(r => applySuggestion(r.w, r.t, r.k));
+      changed(); render();
+      setTimeout(() => status(`Applied ${rows.length} suggestions as suggested.`));
+    }]] : []),
+    ...(rows.some(r => r.k === 'c') ? [[`Link all ${rows.filter(r => r.k === 'c').length} clear ones`, () => {
+      const clear = rows.filter(r => r.k === 'c');
+      clear.forEach(r => applySuggestion(r.w, r.t, 'c'));
+      changed(); render();
+      setTimeout(() => status(`Linked ${clear.length} clear suggestions. The arguable ones are still waiting for review.`));
+    }]] : []),
+    ...(page.length ? [['Apply', d => {
     page.forEach((r, i) => applySuggestion(r.w, r.t, d.querySelector(`input[name="rv${i}"]:checked`).value));
     changed(); render();
     if (reviewRows(words).length) { reviewDialog(words); return false; }
