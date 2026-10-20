@@ -3,7 +3,7 @@
 // The project lives in IndexedDB (autosaved) and in project files. Both use
 // the compact format from serialize(): words point at themes by index.
 
-const VERSION = '35';  // must match data-v and the ?v= links in index.html
+const VERSION = '36';  // must match data-v and the ?v= links in index.html
 const $ = s => document.querySelector(s);
 const esc = s => String(s ?? '').replace(/[&<>"']/g, c => ({ '&': '&amp;', '<': '&lt;', '>': '&gt;', '"': '&quot;', "'": '&#39;' }[c]));
 const slug = t => t.normalize('NFKD').replace(/[̀-ͯ]/g, '').replace(/[^\p{L}\p{N}]+/gu, '_').replace(/^_|_$/g, '').toLowerCase();
@@ -281,7 +281,7 @@ function reveal(id) { for (const a of (ix().anc[id] || []).slice(1)) UI.exp[a] =
 
 const FIELDS_T = ['id', 'name', 'label', 'parent', 'group', 'kind', 'region', 'difficulty', 'note', 'sourceTerms', 'adult', 'separate', 'trademark', 'sensitive', 'englishOnly'];
 const FIELDS_W = ['text', 'themes', 'enabled', 'zipf10', 'difficulty', 'sources', 'note', 'uk', 'clashes', 'checked', 'suggestions',
-  'familiarity', 'zipfEstimate10', 'adult', 'themeForms', 'trademark'];
+  'familiarity', 'zipfEstimate10', 'adult', 'themeForms', 'trademark', 'pos'];
 // Compact project format. Themes keep their stable ids; words refer to themes by index.
 function serialize() {
   const at = Object.fromEntries(P.themes.map((t, i) => [t.id, i]));
@@ -297,7 +297,8 @@ function serialize() {
       Object.entries(w.sg || {}).filter(([t]) => at[t] !== undefined).map(([t, k]) => [at[t], k === 'c' ? 1 : 2]),
       Object.entries(w.fam || {}).filter(([t]) => at[t] !== undefined).map(([t, f]) => [at[t], f]),
       w.ze ? Math.round(w.ze * 10) : 0, w.adult ? 1 : 0,
-      Object.entries(w.tf || {}).filter(([t]) => at[t] !== undefined).map(([t, f]) => [at[t], f]), (w.tm || []).map(t => at[t]).filter(i => i !== undefined)]),
+      Object.entries(w.tf || {}).filter(([t]) => at[t] !== undefined).map(([t, f]) => [at[t], f]), (w.tm || []).map(t => at[t]).filter(i => i !== undefined),
+      Object.entries(w.pos || {}).filter(([t]) => at[t] !== undefined).map(([t, p]) => [at[t], p])]),
   };
 }
 function deserialize(j) {
@@ -308,7 +309,8 @@ function deserialize(j) {
     for (const a of j.words) words[slug(a[0])] = { t: a[0], th: a[1].map(i => themes[i].id), on: !!a[2], z: a[3] === -1 ? undefined : a[3] === 0 ? null : a[3] / 10, d: a[4] || null, src: a[5].split(''), note: a[6], uk: a[7] || '',
       x: (a[8] || []).map(i => themes[i].id), ck: !!a[9], sg: Object.fromEntries((a[10] || []).map(([i, k]) => [themes[i].id, k === 1 ? 'c' : 'a'])),
       fam: Object.fromEntries((a[11] || []).map(([i, f]) => [themes[i].id, f])), ze: a[12] ? a[12] / 10 : null, adult: !!a[13],
-      tf: a[14] && a[14].length ? Object.fromEntries(a[14].map(([i, f]) => [themes[i].id, f])) : undefined, tm: Array.isArray(a[15]) && a[15].length ? a[15].map(i => themes[i].id) : undefined };
+      tf: a[14] && a[14].length ? Object.fromEntries(a[14].map(([i, f]) => [themes[i].id, f])) : undefined, tm: Array.isArray(a[15]) && a[15].length ? a[15].map(i => themes[i].id) : undefined,
+      pos: Array.isArray(a[16]) && a[16].length ? Object.fromEntries(a[16].map(([i, p]) => [themes[i].id, p])) : undefined };
     return { themes, words };
   }
   if (j.schema === 1 || j.words) { // first version of the builder
@@ -362,6 +364,35 @@ const stamp = () => new Date().toISOString().slice(0, 10);
 
 // Game file: enabled words only, minified, themes by index. With the family-friendly setting on,
 // adult themes (and everything under them) and adult words are left out.
+// Part of speech per word in a theme: 1 noun, 2 verb, 3 adjective, 4 adverb, 5 other (phrase, name), 0 not tagged yet.
+const POS_NAMES = ['noun', 'verb', 'adjective', 'adverb', 'other'];
+const POS_CODE = Object.fromEntries(POS_NAMES.map((n, i) => [n, i + 1]));
+const POS_CONSISTENT = 90;  // a theme counts as consistent when this percent of its tagged words share one part of speech
+// items: [themeId, pos code, label]. Returns Map(theme id -> {c: count per code, items}) for every theme whose pool the item is in.
+function posTally(items) {
+  const out = new Map();
+  for (const it of items) for (const a of poolOwners(it[0])) {
+    let o = out.get(a); if (!o) out.set(a, o = { c: [0, 0, 0, 0, 0, 0], items: [] });
+    o.c[it[1]]++; o.items.push(it);
+  }
+  return out;
+}
+// Dominant part of speech of a tally entry: [code, percent of tagged words sharing it, total tagged], or [0, 0, 0].
+function posDominant(o) {
+  const tot = o ? o.c[1] + o.c[2] + o.c[3] + o.c[4] + o.c[5] : 0;
+  if (!tot) return [0, 0, 0];
+  let best = 1;
+  for (let p = 2; p <= 5; p++) if (o.c[p] > o.c[best]) best = p;
+  return [best, Math.round(100 * o.c[best] / tot), tot];
+}
+// Per exported theme (same order as themes): [dominant part of speech, percent of tagged words sharing it, 1 if consistent].
+// A theme's words are its own plus those of its non-separate sub-themes, as in getCounts().
+function posSummary(words, themes, at) {
+  const items = [];
+  for (const r of words) r[3].forEach((ti, k) => { if (r[10][k]) items.push([themes[ti].id, r[10][k]]); });
+  const tally = posTally(items);
+  return themes.map(t => { const d = posDominant(tally.get(t.id)); return [d[0], d[1], d[0] && d[1] >= POS_CONSISTENT ? 1 : 0]; });
+}
 function exportGame() {
   const fam = SET.familyExport, notm = SET.tmExport === false;
   const themes = P.themes.filter(t => (!fam || !themeAdult(t.id)) && (!notm || !themeTm(t.id)));
@@ -377,14 +408,16 @@ function exportGame() {
     const forms = Object.entries(w.tf || {}).filter(([t]) => at[t] !== undefined).map(([t, f]) => [at[t], f, plain(f)]);
     words.push([form(w), plain(form(w)), w.z == null ? 0 : Math.round(w.z * 10), th.map(t => at[t]), th.map(t => wordDiff(w, t)),
       [...new Set([...(w.x || []), ...gone])].filter(t => at[t] !== undefined).map(t => at[t]), o && o !== form(w) ? o : '', forms, +((w.note || '').match(/anagram set (\d+)/) || [0, 0])[1],
-      th.filter(t => (w.tm || []).includes(t)).map(t => at[t])]);
+      th.filter(t => (w.tm || []).includes(t)).map(t => at[t]), th.map(t => POS_CODE[(w.pos || {})[t]] || 0)]);
   }
   words.sort((a, b) => a[0].localeCompare(b[0]));
+  const dom = posSummary(words, themes, at);
   return JSON.stringify({
-    v: 5, generated: new Date().toISOString(), spelling: SET.spelling, familyFriendly: !!fam, trademarks: !notm,
-    themeFields: ['id', 'name', 'label', 'parent', 'group', 'kind', 'region', 'difficulty', 'adult', 'separate', 'trademark', 'sensitive', 'englishOnly'],
-    themes: themes.map(t => [t.id, t.name, t.label || '', t.parent ? at[t.parent] : -1, t.group ? 1 : 0, t.kind || '', t.region || '', themeDiff(t.id), themeAdult(t.id) ? 1 : 0, t.sep ? 1 : 0, themeTm(t.id) ? 1 : 0, themeSens(t.id) ? 1 : 0, themeEn(t.id) ? 1 : 0]),
-    wordFields: ['text', 'balloonText', 'zipf10', 'themes', 'difficultyPerTheme', 'clashes', 'otherSpelling', 'formsPerTheme', 'anagramSet', 'trademarkIn'],
+    v: 6, generated: new Date().toISOString(), spelling: SET.spelling, familyFriendly: !!fam, trademarks: !notm,
+    posNames: ['', ...POS_NAMES],
+    themeFields: ['id', 'name', 'label', 'parent', 'group', 'kind', 'region', 'difficulty', 'adult', 'separate', 'trademark', 'sensitive', 'englishOnly', 'pos', 'posShare', 'posConsistent'],
+    themes: themes.map((t, i) => [t.id, t.name, t.label || '', t.parent ? at[t.parent] : -1, t.group ? 1 : 0, t.kind || '', t.region || '', themeDiff(t.id), themeAdult(t.id) ? 1 : 0, t.sep ? 1 : 0, themeTm(t.id) ? 1 : 0, themeSens(t.id) ? 1 : 0, themeEn(t.id) ? 1 : 0, ...dom[i]]),
+    wordFields: ['text', 'balloonText', 'zipf10', 'themes', 'difficultyPerTheme', 'clashes', 'otherSpelling', 'formsPerTheme', 'anagramSet', 'trademarkIn', 'posPerTheme'],
     words,
   });
 }
@@ -850,7 +883,7 @@ function settingsDialog() {
     + `<div class="row"><label><input type="checkbox" id="se-let"${f.letters ? ' checked' : ''}> Letters, digits, apostrophes, periods and &amp; only</label><label><input type="checkbox" id="se-mul"${f.multi ? ' checked' : ''}> Single words only</label><label><input type="checkbox" id="se-blk"${f.block ? ' checked' : ''}> Blocklist</label></div>`
     + `<textarea id="se-list" rows="2" placeholder="blocklist words, comma or space separated">${esc(f.list)}</textarea>`
     + `<div class="row"><button id="se-re">Re-apply filters to all words…</button></div>`
-    + '<h4>Maintenance</h4><div class="row"><button id="se-uk">Find British spellings (Claude)</button><button id="se-freq">Recompute frequencies</button></div>',
+    + '<h4>Maintenance</h4><div class="row"><button id="se-uk">Find British spellings (Claude)</button><button id="se-freq">Recompute frequencies</button><button id="se-pos">Parts of speech (Claude)…</button></div>',
     [['Cancel', () => { }], ['Save', d => {
       const read = () => {
         sessionKey = val(d, '#se-key').trim(); SET.remember = chk(d, '#se-rem'); SET.model = val(d, '#se-model'); SET.spelling = val(d, '#se-sp'); SET.treeOrder = val(d, '#se-ord');
@@ -876,6 +909,7 @@ function settingsDialog() {
         }
         status(`Added ${found} British spellings.`);
       };
+      d.querySelector('#se-pos').onclick = () => { const typed = val(d, '#se-key').trim(); if (typed) sessionKey = typed; d.close(); posDialog(); };
       d.querySelector('#se-freq').onclick = () => { for (const w of Object.values(P.words)) w.z = wordZipf(w); changed(); render(); status(FREQ ? 'Frequencies updated.' : 'The frequency list is not loaded.', !FREQ); };
       d.querySelector('#se-re').onclick = async () => {
         Object.assign(SET.flt, { len: chk(d, '#se-len'), min: +val(d, '#se-min'), max: +val(d, '#se-max'), maxMulti: +val(d, '#se-mm'), letters: chk(d, '#se-let'), multi: chk(d, '#se-mul'), block: chk(d, '#se-blk'), list: val(d, '#se-list') });
@@ -986,6 +1020,137 @@ async function runCheck(words, effort) {
   render();
   checkProgress();
   status(`${err ? 'Check stopped by an error: ' + err.message + '. ' : c.stop ? 'Check stopped. ' : 'Check finished. '}Checked ${c.done} of ${c.total} words, ${c.found} suggestions to review, about $${c.cost.toFixed(2)}.`, !!err);
+}
+
+// ---------- parts of speech ----------
+// One request per theme: Claude gives each word's part of speech as a member of that theme (light is an adjective in
+// "colour words", a noun in "lamp parts"). Stored per word and theme in w.pos as 'noun' | 'verb' | ... and exported as posPerTheme.
+
+const POS_SYSTEM = `${GAME}
+
+Your job: for one theme at a time, say which part of speech each listed word has AS A MEMBER OF THAT THEME, that is, how the word works when it is used to name or describe things in that theme. The same word can differ between themes: "light" is an adjective in "colour words" and a noun in "lamp parts"; "joy" is a noun even among "happy words".
+Use exactly one of:
+- noun: common nouns, including compounds and noun phrases (ice cream, post office) and gerunds used as nouns (swimming in "sports").
+- verb: verbs in the form listed (run, to run).
+- adjective
+- adverb
+- other: proper names (people, places, brands, titles), and anything that is not one clear word class: idioms and phrases (at last), prepositions, pronouns, numbers, letters, prefixes and suffixes, interjections, sounds.
+Judge the word as listed, by its meaning in this theme, not by its most common use. Reply with one entry per word, in the same order as the list, with exactly as many entries as there are words.`;
+const POS_SCHEMA = { type: 'object', additionalProperties: false, required: ['tags'], properties: { tags: { type: 'array', items: { type: 'string', enum: POS_NAMES } } } };
+
+let POSJOB = null;  // {stop, done, total, failed, cost} while tagging runs
+function posProgress() {
+  const c = POSJOB;
+  $('#msg').classList.remove('err');
+  $('#msg').innerHTML = c ? `Tagging parts of speech: ${c.done} of ${c.total} themes, ${c.failed.length} failed, about $${c.cost.toFixed(2)} so far. ${c.stop ? 'Stopping after the current themes…' : '<button id="stopPos">Stop</button>'}` : '';
+}
+// Tags one theme's words; long themes go in several requests. Retries on errors and on a reply of the wrong length.
+async function tagTheme(t, words, effort) {
+  const CHUNK = 150;
+  for (let i = 0; i < words.length; i += CHUNK) {
+    const chunk = words.slice(i, i + CHUNK);
+    const prompt = `Theme: ${t.name}${t.label ? ' (' + t.label + ')' : ''}\nWhere it sits: ${pathOf(t.id)}${t.kind ? '\nType: ' + KINDS[t.kind] : ''}${t.note ? '\nNote: ' + t.note : ''}\n\nWords (${chunk.length}):\n${chunk.map((w, k) => `${k + 1}. ${formIn(w, t.id)}`).join('\n')}`;
+    let tags = null, lastErr = null;
+    for (let tr = 0; tr < 3 && !tags; tr++) {
+      try {
+        const r = await claude(prompt, POS_SCHEMA, 4000, { system: POS_SYSTEM, effort });
+        POSJOB.cost += lastCost;
+        if (r.tags.length === chunk.length) tags = r.tags; else lastErr = Error(`got ${r.tags.length} tags for ${chunk.length} words`);
+      } catch (e) { lastErr = e; await new Promise(res => setTimeout(res, 1500 * (tr + 1))); }
+    }
+    if (!tags) throw lastErr;
+    chunk.forEach((w, k) => { if (POS_CODE[tags[k]]) (w.pos ||= {})[t.id] = tags[k]; });
+  }
+}
+async function runPos(jobs, effort) {
+  POSJOB = { stop: false, done: 0, total: jobs.length, failed: [], cost: 0 };
+  let next = 0;
+  const worker = async () => {
+    while (!POSJOB.stop && next < jobs.length) {
+      const [t, words] = jobs[next++];
+      try { await tagTheme(t, words, effort); } catch (e) { POSJOB.failed.push(t.name + ': ' + e.message); }
+      POSJOB.done++;
+      if (POSJOB.done % 10 === 0) { changed(); posProgress(); }
+    }
+  };
+  await Promise.all([1, 2, 3, 4, 5].map(worker));
+  const c = POSJOB;
+  POSJOB = null;
+  changed(); render(); posProgress();
+  status(`${c.stop ? 'Tagging stopped. ' : 'Tagging finished. '}${c.done} of ${c.total} themes, ${c.failed.length} failed${c.failed.length ? ' (' + c.failed.slice(0, 3).join('; ') + ')' : ''}, about $${c.cost.toFixed(2)}. Run it again to retry failures; then open the mixed-themes report.`, !!c.failed.length);
+}
+// Enabled words directly in each playable theme, grouped by theme: [[theme, words]].
+function posJobs(scope) {
+  const by = new Map();
+  for (const w of Object.values(P.words)) {
+    if (!w.on) continue;
+    for (const id of w.th) {
+      const t = theme(id);
+      if (!t || t.group) continue;
+      if (scope.only && !scope.only.has(id)) continue;
+      if (scope.newOnly && w.pos && POS_CODE[w.pos[id]]) continue;
+      if (!by.has(id)) by.set(id, []);
+      by.get(id).push(w);
+    }
+  }
+  return [...by].map(([id, ws]) => [theme(id), ws]);
+}
+function posDialog() {
+  if (POSJOB) return;
+  const t = UI.sel && theme(UI.sel);
+  const opts = [['new', `Every word not yet tagged (${posJobs({ newOnly: true }).length} themes)`], ['all', `Every word in every theme, again (${posJobs({}).length} themes)`]];
+  if (t) opts.unshift(['themeNew', `In "${t.name}" and its sub-themes, not yet tagged`], ['theme', `In "${t.name}" and its sub-themes, all`]);
+  dialog('Parts of speech', '<p>Claude gives each word the part of speech it has <b>in that theme</b> (noun, verb, adjective, adverb or other), one request per theme. The game file then carries it per word and theme, plus each theme\'s dominant part of speech and whether the theme is consistent.</p>'
+    + field('Words to tag', `<select id="ps-s">${options(opts, opts[0][0])}</select>`)
+    + field('Effort', `<select id="ps-e">${options([['low', 'Low: cheaper and faster'], ['medium', 'Medium: more thorough']], 'low')}</select>`)
+    + `<p class="muted">Model: ${esc(SET.model)}. Five requests run at once; the running cost is shown under the theme name and you can stop at any time. Tags already made are kept.</p>`
+    + '<div class="row"><button id="ps-rep">Mixed-themes report…</button></div>',
+    [['Close', () => { }], ['Start', d => {
+      const k = val(d, '#ps-s');
+      const only = k.startsWith('theme') ? desc(t.id) : null;
+      const jobs = posJobs({ only, newOnly: k === 'new' || k === 'themeNew' });
+      if (!jobs.length) { status('Nothing to tag.'); return false; }
+      if (!sessionKey) { status('Add your Anthropic API key in Settings first.', true); return false; }
+      runPos(jobs, val(d, '#ps-e'));
+    }, 'p']], d => { d.querySelector('#ps-rep').onclick = () => { d.close(); posReport(); }; });
+}
+// Playable themes whose tagged words do not share one part of speech, least consistent first.
+function posMixed() {
+  const items = [];
+  for (const w of Object.values(P.words)) {
+    if (!w.on) continue;
+    for (const id of w.th) if (w.pos && POS_CODE[w.pos[id]]) items.push([id, POS_CODE[w.pos[id]], formIn(w, id)]);
+  }
+  const tally = posTally(items);
+  const rows = [];
+  let tagged = 0, same = 0;
+  for (const t of playable()) {
+    const o = tally.get(t.id), d = posDominant(o);
+    if (!d[2]) continue;
+    tagged++;
+    if (d[1] >= POS_CONSISTENT) { same++; continue; }
+    const other = {};
+    for (const it of o.items) if (it[1] !== d[0]) (other[it[1]] ||= []).push(it[2]);
+    rows.push({ t, dom: d[0], share: d[1], tot: d[2], other });
+  }
+  rows.sort((a, b) => a.share - b.share || b.tot - a.tot);
+  return { rows, tagged, same, themes: playable().length };
+}
+const posMinority = x => Object.entries(x.other).sort((a, b) => b[1].length - a[1].length);
+function posReportText(r) {
+  const nm = p => POS_NAMES[p - 1];
+  return `# Mixed parts of speech\n\n${r.tagged} of ${r.themes} playable themes have tagged words; ${r.same} are consistent (at least ${POS_CONSISTENT}% of words share one part of speech) and ${r.rows.length} are mixed.\n\n`
+    + r.rows.map(x => `## ${x.t.name}\n${pathOf(x.t.id)}. ${x.share}% ${nm(x.dom)} (of ${x.tot} words)\n`
+      + posMinority(x).map(([p, ws]) => `- ${nm(+p)} (${ws.length}): ${ws.slice(0, 15).join(', ')}${ws.length > 15 ? ', …' : ''}`).join('\n')).join('\n\n') + '\n';
+}
+function posReport() {
+  const r = posMixed(), nm = p => POS_NAMES[p - 1];
+  if (!r.tagged) return status('No words are tagged yet. Run "Parts of speech" first.', true);
+  dialog('Mixed parts of speech', `<p>${r.tagged} of ${r.themes} playable themes have tagged words. <b>${r.same}</b> are consistent (at least ${POS_CONSISTENT}% share one part of speech); <b>${r.rows.length}</b> are mixed, least consistent first.</p>`
+    + '<div style="max-height:55vh;overflow:auto">' + r.rows.slice(0, 400).map(x => `<p><b>${esc(x.t.name)}</b> <span class="muted">${esc(pathOf(x.t.id))}: ${x.share}% ${nm(x.dom)} of ${x.tot}</span><br>`
+      + posMinority(x).map(([p, ws]) => `${nm(+p)} (${ws.length}): ${esc(ws.slice(0, 12).join(', '))}${ws.length > 12 ? ', …' : ''}`).join('<br>') + '</p>').join('')
+    + (r.rows.length > 400 ? `<p class="muted">${r.rows.length - 400} more in the downloaded report.</p>` : '') + '</div>',
+    [['Close', () => { }], ['Download report', () => { download(posReportText(r), `mixed-parts-of-speech-${stamp()}.md`, 'text/markdown'); return false; }, 'p']]);
 }
 
 function checkDialog() {
@@ -1133,6 +1298,7 @@ document.addEventListener('click', async e => {
     case 'genWords': genWordsDialog(); break;
     case 'checkBtn': checkDialog(); break;
     case 'reviewBtn': reviewDialog(); break;
+    case 'stopPos': if (POSJOB) { POSJOB.stop = true; posProgress(); } break;
     case 'stopCheck': if (CHECK) { CHECK.stop = true; checkProgress(); } break;
     case 'genSubs': genSubsDialog(); break;
     case 'addWords': addWordsDialog(); break;

@@ -32,13 +32,14 @@ trademarks 2,226 themes, 70,995 words.
 Rebuild: `python3 tools/merge_tree.py` (tree) then `python3 tools/build_wordlist.py` (library); the game files
 are exported from the app (Import / export → Export game file; Import / export → Family-friendly game file).
 
-### Game file (v5)
+### Game file (v6)
 
 ```
-{ v: 5, generated, spelling: "US"|"UK", familyFriendly, trademarks,
-  themeFields: [id, name, label, parent, group, kind, region, difficulty, adult, separate, trademark, sensitive, englishOnly],
+{ v: 6, generated, spelling: "US"|"UK", familyFriendly, trademarks,
+  themeFields: [id, name, label, parent, group, kind, region, difficulty, adult, separate, trademark, sensitive, englishOnly, pos, posShare, posConsistent],
+  posNames: ["", "noun", "verb", "adjective", "adverb", "other"],
   themes: [...rows],               // parent is an index into themes, -1 for top level
-  wordFields: [text, balloonText, zipf10, themes, difficultyPerTheme, clashes, otherSpelling, formsPerTheme, anagramSet, trademarkIn],
+  wordFields: [text, balloonText, zipf10, themes, difficultyPerTheme, clashes, otherSpelling, formsPerTheme, anagramSet, trademarkIn, posPerTheme],
   words: [...rows] }
 ```
 
@@ -59,6 +60,14 @@ are exported from the app (Import / export → Export game file; Import / export
 - `anagramSet`: for "anagrams of each other", the set number (words with the same number are one set of four); 0 otherwise.
 - `formsPerTheme`: `[[themeIndex, form, plainForm]]` where a theme writes the word differently (capitals: `Mercury`
   the planet, `mercury` the metal).
+
+- `posPerTheme`: part of speech of the word in each theme, parallel to `themes`: 1 noun, 2 verb, 3 adjective, 4 adverb,
+  5 other (proper names, phrases, idioms, prepositions, numbers, letters), 0 not tagged. Per theme: light is an adjective
+  in colour words and a noun in lamp parts. `posNames[code]` gives the name. Tagged by Claude, one request per theme
+  (Settings → Parts of speech (Claude)); not hand-reviewed. Files made before v6 lack the field: read columns by name.
+- Theme fields `pos` (dominant part of speech code of the theme's pool: its own words plus non-separate sub-themes,
+  0 = untagged), `posShare` (percent of tagged words that share it) and `posConsistent` (1 when `posShare` is at least 90).
+  For a stricter or looser rule use `posShare`, or filter words by `posPerTheme`.
 
 ### What the theme fields mean for levels
 
