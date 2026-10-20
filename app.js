@@ -3,7 +3,7 @@
 // The project lives in IndexedDB (autosaved) and in project files. Both use
 // the compact format from serialize(): words point at themes by index.
 
-const VERSION = '36';  // must match data-v and the ?v= links in index.html
+const VERSION = '37';  // must match data-v and the ?v= links in index.html
 const $ = s => document.querySelector(s);
 const esc = s => String(s ?? '').replace(/[&<>"']/g, c => ({ '&': '&amp;', '<': '&lt;', '>': '&gt;', '"': '&quot;', "'": '&#39;' }[c]));
 const slug = t => t.normalize('NFKD').replace(/[̀-ͯ]/g, '').replace(/[^\p{L}\p{N}]+/gu, '_').replace(/^_|_$/g, '').toLowerCase();
@@ -84,7 +84,7 @@ function ix() {
   }
   return IX = { byId, kids, anc };
 }
-const changed = () => { IX = null; counts = null; scheduleSave(); };
+const changed = () => { IX = null; counts = null; POSX = null; scheduleSave(); };
 const theme = id => ix().byId[id];
 const kidsOf = id => ix().kids[id || ''] || [];
 function desc(id) {
@@ -543,6 +543,28 @@ function renderTree() {
   $('#lock').title = UI.unlock ? 'Drop a theme on another to nest it, near a row edge to reorder, or on ＋ to make it top level.' : 'Dragging themes is off. Click to turn it on.';
 }
 
+// Part of speech: per-theme dominant tag over every theme's pool, cached until the next change.
+let POSX = null;
+function posInfo() {
+  if (POSX) return POSX;
+  const items = [];
+  for (const w of Object.values(P.words)) if (w.on) for (const t of w.th) if (w.pos && POS_CODE[w.pos[t]] && theme(t) && !theme(t).group) items.push([t, POS_CODE[w.pos[t]]]);
+  const tally = posTally(items), dom = {};
+  for (const [id, o] of tally) dom[id] = posDominant(o);
+  return POSX = dom;
+}
+const POS_SHORT = { noun: 'n', verb: 'v', adjective: 'adj', adverb: 'adv', other: 'other' };
+const posOptions = cur => '<option value="">–</option>' + POS_NAMES.map(n => `<option value="${n}"${n === cur ? ' selected' : ''}>${n}</option>`).join('');
+// Tags of a word inside the selected theme's pool that differ from that theme's dominant part of speech (or from each own theme's, with no selection).
+function posMinor(w) {
+  if (!w.pos) return false;
+  const dom = posInfo(), s = UI.sel ? (UI.sub ? pool(UI.sel) : new Set([UI.sel])) : null;
+  return w.th.some(t => {
+    if (s && !s.has(t)) return false;
+    const code = POS_CODE[w.pos[t]], d = dom[UI.sel || t];
+    return code && d && d[0] && code !== d[0];
+  });
+}
 function shownWords() {
   let list = Object.values(P.words);
   if (UI.sel) {
@@ -552,19 +574,31 @@ function shownWords() {
   const q = $('#q').value.trim().toLowerCase();
   if (q) list = list.filter(w => matches(w, q));
   const hasSg = w => !!w.sg && Object.keys(w.sg).length > 0;
-  const keep = { all: null, on: w => w.on, off: w => !w.on, sug: hasSg, clash: w => !!(w.x && w.x.length), unchecked: w => !w.ck, tm: w => !!(w.tm && w.tm.length) || w.th.some(themeTm), adult: w => !!w.adult || w.th.some(themeAdult) }[UI.show];
+  const keep = { all: null, on: w => w.on, off: w => !w.on, sug: hasSg, clash: w => !!(w.x && w.x.length), unchecked: w => !w.ck, tm: w => !!(w.tm && w.tm.length) || w.th.some(themeTm), adult: w => !!w.adult || w.th.some(themeAdult),
+    posminor: posMinor, posnone: w => w.th.some(t => theme(t) && !theme(t).group && !(w.pos && POS_CODE[w.pos[t]])) }[UI.show];
   if (keep) list = list.filter(keep);
   const key = { t: w => form(w).toLowerCase(), len: w => core(form(w)).length, z: w => w.z ?? 0, d: w => wordDiff(w, UI.sel), th: w => w.th.length }[UI.sort] || (w => w.t);
   return list.sort((a, b) => { const x = key(a), y = key(b); return (x < y ? -1 : x > y ? 1 : form(a).localeCompare(form(b))) * UI.dir; });
 }
 
+// Part of speech cell: an editable tag for the selected theme, or the sub-theme tags it comes from.
+function posCell(w) {
+  if (!UI.sel) return '';
+  const p = w.pos || {};
+  if (w.th.includes(UI.sel)) {
+    const dom = posInfo()[UI.sel], minor = p[UI.sel] && dom && dom[0] && POS_CODE[p[UI.sel]] !== dom[0];
+    return `<select data-pos="${slug(w.t)}" data-pt="${UI.sel}" class="${minor ? 'posminor' : ''}" title="Part of speech in this theme${minor ? ' (differs from the theme\'s main one)' : ''}">${posOptions(p[UI.sel])}</select>`;
+  }
+  const seen = w.th.filter(t => poolOwners(t).includes(UI.sel) && p[t]);
+  return seen.length ? `<small class="muted" title="Tagged in a sub-theme">${esc([...new Set(seen.map(t => POS_SHORT[p[t]]))].join(', '))}</small>` : '';
+}
 function renderMain() {
   const t = UI.sel && theme(UI.sel);
   $('#crumbs').innerHTML = t ? '<a data-sel-crumb="">All words</a>' + (ix().anc[t.id] || []).slice(1).reverse().map(a => ` › <a data-sel-crumb="${a}">${esc(theme(a).name)}</a>`).join('') : '';
   $('#ttl').textContent = t ? t.name : 'All words';
   $('#meta').textContent = t
     ? [KINDS[t.kind || ''], t.group ? 'group' : '', 'difficulty ' + themeDiff(t.id) + (t.d ? '' : ' (from depth)'), t.region,
-      t.sep ? 'words not counted in parent' : '', themeAdult(t.id) ? 'adult content' + (t.adult ? '' : ' (inherited)') : '', themeSens(t.id) ? 'sensitive' + (t.sens ? '' : ' (inherited)') : '', themeEn(t.id) ? 'English only' + (t.en ? '' : ' (inherited)') : '', t.label ? 'shown as "' + t.label + '"' : '', t.note].filter(Boolean).join(' · ')
+      t.sep ? 'words not counted in parent' : '', (() => { const d = !t.group && posInfo()[t.id]; return d && d[0] ? 'mostly ' + POS_NAMES[d[0] - 1] + ' (' + d[1] + '% of ' + d[2] + ' tagged)' : ''; })(), themeAdult(t.id) ? 'adult content' + (t.adult ? '' : ' (inherited)') : '', themeSens(t.id) ? 'sensitive' + (t.sens ? '' : ' (inherited)') : '', themeEn(t.id) ? 'English only' + (t.en ? '' : ' (inherited)') : '', t.label ? 'shown as "' + t.label + '"' : '', t.note].filter(Boolean).join(' · ')
     : 'Select a theme on the left, or use the buttons below.';
   $('#genWords').disabled = $('#addWords').disabled = $('#themeSet').disabled = !t;
   $('#overlap').innerHTML = t ? overlapHtml(t.id) : '';
@@ -600,7 +634,7 @@ function renderMain() {
       + `<td><input type="checkbox" data-on="${id}"${w.on ? ' checked' : ''} title="Enabled"></td>`
       + `<td class="w" data-word="${id}"${w.uk ? ` title="${esc(SET.spelling === 'UK' ? 'US: ' + w.t : 'UK: ' + w.uk)}"` : ''}>${esc(formIn(w, UI.sel))}${w.uk ? ' <small class="muted">*</small>' : ''}${w.tm && w.tm.length ? ' <small class="muted" title="Trademark or copyrighted name in some themes">™</small>' : ''}</td><td class="num">${core(form(w)).length}</td>`
       + `<td class="num ${zc}"${zipfEstimated(w) ? ' title="Estimated: not in the frequency list"' : ''}>${z === undefined ? '…' : z === null ? '<1.5' : (zipfEstimated(w) ? '~' : '') + z.toFixed(1)}</td>`
-      + `<td><select data-d="${id}" title="${famOf(w, UI.sel) ? 'auto: familiarity in this theme' : 'auto: from frequency'}"><option value="">auto ${famOf(w, UI.sel) || autoDiff(z)}</option>${[1, 2, 3, 4, 5].map(n => `<option${n === w.d ? ' selected' : ''}>${n}</option>`).join('')}</select></td>`
+      + `<td>${posCell(w)}</td>` + `<td><select data-d="${id}" title="${famOf(w, UI.sel) ? 'auto: familiarity in this theme' : 'auto: from frequency'}"><option value="">auto ${famOf(w, UI.sel) || autoDiff(z)}</option>${[1, 2, 3, 4, 5].map(n => `<option${n === w.d ? ' selected' : ''}>${n}</option>`).join('')}</select></td>`
       + `<td>${w.th.map(t => theme(t) ? `<button class="b" data-goto="${t}" title="${esc(pathOf(t))}">${esc(theme(t).name)}</button>` : '').join('')}`
       + (w.x || []).map(t => theme(t) ? `<button class="b clash" data-goto="${t}" title="Clashes with ${esc(pathOf(t))}: never in the same level">⚠ ${esc(theme(t).name)}</button>` : '').join('')
       + (w.sg && Object.keys(w.sg).length ? `<button class="b sug" data-review="${id}" title="Suggestions from the theme check">${Object.keys(w.sg).length} to review</button>` : '') + '</td>'
@@ -813,9 +847,10 @@ function wordDialog(id) {  // id changes if the American spelling is edited
     + `<label class="pick"><input type="checkbox" id="wd-adult"${w.adult ? ' checked' : ''}> Adult content (this word is left out of the game file when "Family-friendly game file" is on in Import / export)</label>`
     + field('Estimated Zipf, used only when the word is not in the frequency list', `<input id="wd-ze" type="number" step="0.1" min="0" max="8" value="${w.ze || ''}">`)
     + field('Note', `<input id="wd-note" value="${esc(w.note)}">`)
-    + '<h4>Linked themes</h4><p class="muted">Familiarity: 1 everyone knows it belongs, 5 specialists only. It sets the difficulty in that theme. ™: in this theme the word is a trademark or copyrighted name (brand, team, title, character).</p>'
+    + '<h4>Linked themes</h4><p class="muted">Familiarity: 1 everyone knows it belongs, 5 specialists only. It sets the difficulty in that theme. The last dropdown is the part of speech of the word in that theme. ™: in this theme the word is a trademark or copyrighted name (brand, team, title, character).</p>'
     + (w.th.map(t => `<div class="row"><button class="link" data-wgo="${t}">${esc(pathOf(t))}</button><span class="grow"></span>`
       + `<select data-fam="${t}" title="Familiarity in this theme"><option value="">familiarity ?</option>${[1, 2, 3, 4, 5].map(n => `<option${w.fam && w.fam[t] === n ? ' selected' : ''}>${n}</option>`).join('')}</select>`
+      + `<select data-wpos="${t}" title="Part of speech in this theme">${posOptions((w.pos || {})[t])}</select>`
       + `<label title="Trademark or copyrighted name in this theme"><input type="checkbox" data-tm="${t}"${(w.tm || []).includes(t) ? ' checked' : ''}> ™</label>`
       + `<button class="b" data-unlink="${t}" title="Unlink">✕</button></div>`).join('') || '<p class="muted">None</p>')
     + `<div class="row"><input id="wd-add" list="wd-themes" placeholder="Link to another theme…" style="flex:1"><button id="wd-addb">Link</button></div>`
@@ -831,6 +866,7 @@ function wordDialog(id) {  // id changes if the American spelling is edited
         w.ze = +val(d, '#wd-ze') || null;
         const tm = [...d.querySelectorAll('[data-tm]')].filter(c => c.checked).map(c => c.dataset.tm);
         w.tm = tm.length ? tm : undefined;
+        d.querySelectorAll('[data-wpos]').forEach(sel => { if (sel.value) (w.pos ||= {})[sel.dataset.wpos] = sel.value; else if (w.pos) delete w.pos[sel.dataset.wpos]; });
         d.querySelectorAll('[data-fam]').forEach(sel => { if (sel.value) (w.fam ||= {})[sel.dataset.fam] = +sel.value; else if (w.fam) delete w.fam[sel.dataset.fam]; });
         const us = clean(val(d, '#wd-us')), uk = clean(val(d, '#wd-uk'));
         w.uk = uk && uk.toLowerCase() !== (us || w.t).toLowerCase() ? uk : '';
@@ -1327,6 +1363,7 @@ document.addEventListener('change', e => {
   const t = e.target;
   if (t.closest('dialog')) return;
   if (t.dataset.on) { const w = P.words[t.dataset.on]; w.on = t.checked; if (t.checked && w.note && filterReason(w.t) === w.note) w.note = ''; changed(); render(); }
+  else if (t.dataset.pos !== undefined) { const w = P.words[t.dataset.pos]; if (t.value) (w.pos ||= {})[t.dataset.pt] = t.value; else if (w.pos) delete w.pos[t.dataset.pt]; changed(); render(); }
   else if (t.dataset.d !== undefined) { P.words[t.dataset.d].d = t.value ? +t.value : null; changed(); render(); }
   else if (t.id === 'sub') { UI.sub = t.checked; render(); }
   else if (t.id === 'selall') { if (t.checked) shownIds.forEach(i => PICK.add(i)); else PICK.clear(); renderMain(); }

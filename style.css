@@ -90,3 +90,6 @@ dialog label.f input:not([type=checkbox]),dialog label.f select{width:100%}
 .pick{display:block;padding:2px 0}
 
 #totals{font-size:13px;padding:2px 0}
+
+select.posminor { background: #fff3cd; }
+@media (prefers-color-scheme: dark) { select.posminor { background: #4a3d12; } }
