@@ -3,7 +3,7 @@
 // The project lives in IndexedDB (autosaved) and in project files. Both use
 // the compact format from serialize(): words point at themes by index.
 
-const VERSION = '37';  // must match data-v and the ?v= links in index.html
+const VERSION = '38';  // must match data-v and the ?v= links in index.html
 const $ = s => document.querySelector(s);
 const esc = s => String(s ?? '').replace(/[&<>"']/g, c => ({ '&': '&amp;', '<': '&lt;', '>': '&gt;', '"': '&quot;', "'": '&#39;' }[c]));
 const slug = t => t.normalize('NFKD').replace(/[̀-ͯ]/g, '').replace(/[^\p{L}\p{N}]+/gu, '_').replace(/^_|_$/g, '').toLowerCase();
@@ -48,10 +48,11 @@ const SRC_NAME = Object.fromEntries(Object.entries(SRC).map(([k, v]) => [v, k]))
 //         sg: {themeId: 'c' | 'a'} suggestions from the check awaiting review (clear fit / arguable)}
 let P = { themes: [], words: {} };
 const UI = loadLocal('wlb-ui', { sel: null, exp: {}, sort: 't', dir: 1, sub: true, show: 'all', unlock: false, tflag: '' });
-const FLT = { len: true, min: 3, max: 20, maxMulti: 20, letters: true, multi: false, block: false, list: '' };
+const FLT = { len: true, min: 2, max: 20, maxMulti: 20, letters: true, multi: false, block: false, list: '' };
 const SET = loadLocal('wlb-settings', { model: MODELS[0][0], spelling: 'US', key: '', remember: false, flt: {} });
 if (SET.flt.maxMulti === undefined) SET.flt = { ...FLT, ...SET.flt, multi: false }; // older settings blocked all multi-word entries
 if (!SET.flt.v2) SET.flt = { ...SET.flt, max: Math.max(SET.flt.max, 20), v2: true }; // single words up to 20 letters (was 12)
+if (!SET.flt.v3) SET.flt = { ...SET.flt, min: Math.min(SET.flt.min, 2), v3: true }; // single words from 2 letters (was 3), so words like up fit
 let sessionKey = SET.remember ? SET.key : '';
 let limit = 500;
 const PICK = new Set();   // ids of words ticked in the list
