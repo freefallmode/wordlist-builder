@@ -34,14 +34,14 @@ are exported from the app (Import / export → Export game file; Import / export
 
 ### Game file (v7)
 
-Version history: v5 had no part of speech; v6 added `posPerTheme` and the theme fields `pos`, `posShare`, `posConsistent`, `posNames`; v7 added `adultIn`. Each change only appended columns, so a reader that finds columns by name in `themeFields` and `wordFields` loads older files too.
+Version history: v5 had no part of speech; v6 added `posPerTheme` and the theme fields `pos`, `posShare`, `posConsistent`, `posNames`; v7 added `adultIn` and `recognition`. Each change only appended columns, so a reader that finds columns by name in `themeFields` and `wordFields` loads older files too.
 
 ```
 { v: 7, generated, spelling: "US"|"UK", familyFriendly, trademarks,
   themeFields: [id, name, label, parent, group, kind, region, difficulty, adult, separate, trademark, sensitive, englishOnly, pos, posShare, posConsistent],
   posNames: ["", "noun", "verb", "adjective", "adverb", "other"],
   themes: [...rows],               // parent is an index into themes, -1 for top level
-  wordFields: [text, balloonText, zipf10, themes, difficultyPerTheme, clashes, otherSpelling, formsPerTheme, anagramSet, trademarkIn, posPerTheme, adultIn],
+  wordFields: [text, balloonText, zipf10, themes, difficultyPerTheme, clashes, otherSpelling, formsPerTheme, anagramSet, trademarkIn, posPerTheme, adultIn, recognition],
   words: [...rows] }
 ```
 
@@ -68,6 +68,7 @@ Version history: v5 had no part of speech; v6 added `posPerTheme` and the theme 
   in colour words and a noun in lamp parts. `posNames[code]` gives the name. Tagged by Claude, one request per theme
   (Settings → Parts of speech (Claude)); not hand-reviewed. Files made before v6 lack the field: read columns by name.
 - `adultIn`: theme indices where the word is adult content (18+), set per word and theme: "butt" is adult as a body part but not as a smoking word. In the family-friendly file those memberships are left out and become clashes (like trademarks), so `adultIn` is empty there; the full file keeps them so the generator can decide. A word marked adult as a whole (`adult`) is left out of the family file everywhere.
+- `recognition`: how widely known the word itself is, 1 to 5, or 0 when not rated. 1 every child and adult knows it, 2 nearly every adult, 3 many adults but not all, 4 people with the interest, job or region, 5 few. The reference player is a typical adult English reader; the sense judged is the word's first sense in the theme where it is easiest. It is one value per word (not per theme) and differs from `difficultyPerTheme`, which says how typical a word is for a theme, not whether players know it. 25,272 words are rated: those whose easiest theme rating is 2 or better and that are above Zipf 2.2, plus two-word names; others are 0. Rated by AI, then calibrated across batches; not hand-reviewed. Edited per word in the word dialog (`w.rec`). The level builder (`useRecognition` plan setting) raises a word's difficulty to rating-1 when the rating is 3 or more.
 - Theme fields `pos` (dominant part of speech code of the theme's pool: its own words plus non-separate sub-themes,
   0 = untagged), `posShare` (percent of tagged words that share it) and `posConsistent` (1 when `posShare` is at least 90).
   For a stricter or looser rule use `posShare`, or filter words by `posPerTheme`.
