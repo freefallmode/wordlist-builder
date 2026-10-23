@@ -39,7 +39,7 @@ are exported from the app (Import / export → Export game file; Import / export
   themeFields: [id, name, label, parent, group, kind, region, difficulty, adult, separate, trademark, sensitive, englishOnly, pos, posShare, posConsistent],
   posNames: ["", "noun", "verb", "adjective", "adverb", "other"],
   themes: [...rows],               // parent is an index into themes, -1 for top level
-  wordFields: [text, balloonText, zipf10, themes, difficultyPerTheme, clashes, otherSpelling, formsPerTheme, anagramSet, trademarkIn, posPerTheme],
+  wordFields: [text, balloonText, zipf10, themes, difficultyPerTheme, clashes, otherSpelling, formsPerTheme, anagramSet, trademarkIn, posPerTheme, adultIn],
   words: [...rows] }
 ```
 
@@ -65,6 +65,7 @@ are exported from the app (Import / export → Export game file; Import / export
   5 other (proper names, phrases, idioms, prepositions, numbers, letters), 0 not tagged. Per theme: light is an adjective
   in colour words and a noun in lamp parts. `posNames[code]` gives the name. Tagged by Claude, one request per theme
   (Settings → Parts of speech (Claude)); not hand-reviewed. Files made before v6 lack the field: read columns by name.
+- `adultIn`: theme indices where the word is adult content (18+), set per word and theme: "butt" is adult as a body part but not as a smoking word. In the family-friendly file those memberships are left out and become clashes (like trademarks), so `adultIn` is empty there; the full file keeps them so the generator can decide. A word marked adult as a whole (`adult`) is left out of the family file everywhere.
 - Theme fields `pos` (dominant part of speech code of the theme's pool: its own words plus non-separate sub-themes,
   0 = untagged), `posShare` (percent of tagged words that share it) and `posConsistent` (1 when `posShare` is at least 90).
   For a stricter or looser rule use `posShare`, or filter words by `posPerTheme`.
