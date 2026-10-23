@@ -32,10 +32,12 @@ trademarks 2,226 themes, 70,995 words.
 Rebuild: `python3 tools/merge_tree.py` (tree) then `python3 tools/build_wordlist.py` (library); the game files
 are exported from the app (Import / export → Export game file; Import / export → Family-friendly game file).
 
-### Game file (v6)
+### Game file (v7)
+
+Version history: v5 had no part of speech; v6 added `posPerTheme` and the theme fields `pos`, `posShare`, `posConsistent`, `posNames`; v7 added `adultIn`. Each change only appended columns, so a reader that finds columns by name in `themeFields` and `wordFields` loads older files too.
 
 ```
-{ v: 6, generated, spelling: "US"|"UK", familyFriendly, trademarks,
+{ v: 7, generated, spelling: "US"|"UK", familyFriendly, trademarks,
   themeFields: [id, name, label, parent, group, kind, region, difficulty, adult, separate, trademark, sensitive, englishOnly, pos, posShare, posConsistent],
   posNames: ["", "noun", "verb", "adjective", "adverb", "other"],
   themes: [...rows],               // parent is an index into themes, -1 for top level

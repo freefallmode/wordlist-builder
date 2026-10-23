@@ -3,7 +3,7 @@
 // The project lives in IndexedDB (autosaved) and in project files. Both use
 // the compact format from serialize(): words point at themes by index.
 
-const VERSION = '40';  // must match data-v and the ?v= links in index.html
+const VERSION = '41';  // must match data-v and the ?v= links in index.html
 const $ = s => document.querySelector(s);
 const esc = s => String(s ?? '').replace(/[&<>"']/g, c => ({ '&': '&amp;', '<': '&lt;', '>': '&gt;', '"': '&quot;', "'": '&#39;' }[c]));
 const slug = t => t.normalize('NFKD').replace(/[̀-ͯ]/g, '').replace(/[^\p{L}\p{N}]+/gu, '_').replace(/^_|_$/g, '').toLowerCase();
@@ -420,7 +420,7 @@ function exportGame() {
   words.sort((a, b) => a[0].localeCompare(b[0]));
   const dom = posSummary(words, themes, at);
   return JSON.stringify({
-    v: 6, generated: new Date().toISOString(), spelling: SET.spelling, familyFriendly: !!fam, trademarks: !notm,
+    v: 7, generated: new Date().toISOString(), spelling: SET.spelling, familyFriendly: !!fam, trademarks: !notm,
     posNames: ['', ...POS_NAMES],
     themeFields: ['id', 'name', 'label', 'parent', 'group', 'kind', 'region', 'difficulty', 'adult', 'separate', 'trademark', 'sensitive', 'englishOnly', 'pos', 'posShare', 'posConsistent'],
     themes: themes.map((t, i) => [t.id, t.name, t.label || '', t.parent ? at[t.parent] : -1, t.group ? 1 : 0, t.kind || '', t.region || '', themeDiff(t.id), themeAdult(t.id) ? 1 : 0, t.sep ? 1 : 0, themeTm(t.id) ? 1 : 0, themeSens(t.id) ? 1 : 0, themeEn(t.id) ? 1 : 0, ...dom[i]]),
