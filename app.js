@@ -283,7 +283,7 @@ function reveal(id) { for (const a of (ix().anc[id] || []).slice(1)) UI.exp[a] =
 
 const FIELDS_T = ['id', 'name', 'label', 'parent', 'group', 'kind', 'region', 'difficulty', 'note', 'sourceTerms', 'adult', 'separate', 'trademark', 'sensitive', 'englishOnly'];
 const FIELDS_W = ['text', 'themes', 'enabled', 'zipf10', 'difficulty', 'sources', 'note', 'uk', 'clashes', 'checked', 'suggestions',
-  'familiarity', 'zipfEstimate10', 'adult', 'themeForms', 'trademark', 'pos', 'adultIn'];
+  'familiarity', 'zipfEstimate10', 'adult', 'themeForms', 'trademark', 'pos', 'adultIn', 'recognition'];
 // Compact project format. Themes keep their stable ids; words refer to themes by index.
 function serialize() {
   const at = Object.fromEntries(P.themes.map((t, i) => [t.id, i]));
@@ -301,7 +301,8 @@ function serialize() {
       w.ze ? Math.round(w.ze * 10) : 0, w.adult ? 1 : 0,
       Object.entries(w.tf || {}).filter(([t]) => at[t] !== undefined).map(([t, f]) => [at[t], f]), (w.tm || []).map(t => at[t]).filter(i => i !== undefined),
       Object.entries(w.pos || {}).filter(([t]) => at[t] !== undefined).map(([t, p]) => [at[t], p]),
-      (w.ad || []).map(t => at[t]).filter(i => i !== undefined)]),
+      (w.ad || []).map(t => at[t]).filter(i => i !== undefined),
+      w.rec || 0]),
   };
 }
 function deserialize(j) {
@@ -314,7 +315,8 @@ function deserialize(j) {
       fam: Object.fromEntries((a[11] || []).map(([i, f]) => [themes[i].id, f])), ze: a[12] ? a[12] / 10 : null, adult: !!a[13],
       tf: a[14] && a[14].length ? Object.fromEntries(a[14].map(([i, f]) => [themes[i].id, f])) : undefined, tm: Array.isArray(a[15]) && a[15].length ? a[15].map(i => themes[i].id) : undefined,
       pos: Array.isArray(a[16]) && a[16].length ? Object.fromEntries(a[16].map(([i, p]) => [themes[i].id, p])) : undefined,
-      ad: Array.isArray(a[17]) && a[17].length ? a[17].map(i => themes[i].id) : undefined };
+      ad: Array.isArray(a[17]) && a[17].length ? a[17].map(i => themes[i].id) : undefined,
+      rec: a[18] >= 1 && a[18] <= 5 ? a[18] : undefined };
     return { themes, words };
   }
   if (j.schema === 1 || j.words) { // first version of the builder
@@ -413,7 +415,7 @@ function exportGame() {
     const forms = Object.entries(w.tf || {}).filter(([t]) => at[t] !== undefined).map(([t, f]) => [at[t], f, plain(f)]);
     words.push([form(w), plain(form(w)), w.z == null ? 0 : Math.round(w.z * 10), th.map(t => at[t]), th.map(t => wordDiff(w, t)),
       [...new Set([...(w.x || []), ...gone])].filter(t => at[t] !== undefined).map(t => at[t]), o && o !== form(w) ? o : '', forms, +((w.note || '').match(/anagram set (\d+)/) || [0, 0])[1],
-      th.filter(t => (w.tm || []).includes(t)).map(t => at[t]), th.map(t => POS_CODE[(w.pos || {})[t]] || 0), th.filter(t => (w.ad || []).includes(t)).map(t => at[t])]);
+      th.filter(t => (w.tm || []).includes(t)).map(t => at[t]), th.map(t => POS_CODE[(w.pos || {})[t]] || 0), th.filter(t => (w.ad || []).includes(t)).map(t => at[t]), w.rec || 0]);
   }
   words.sort((a, b) => a[0].localeCompare(b[0]));
   const dom = posSummary(words, themes, at);
@@ -422,7 +424,7 @@ function exportGame() {
     posNames: ['', ...POS_NAMES],
     themeFields: ['id', 'name', 'label', 'parent', 'group', 'kind', 'region', 'difficulty', 'adult', 'separate', 'trademark', 'sensitive', 'englishOnly', 'pos', 'posShare', 'posConsistent'],
     themes: themes.map((t, i) => [t.id, t.name, t.label || '', t.parent ? at[t.parent] : -1, t.group ? 1 : 0, t.kind || '', t.region || '', themeDiff(t.id), themeAdult(t.id) ? 1 : 0, t.sep ? 1 : 0, themeTm(t.id) ? 1 : 0, themeSens(t.id) ? 1 : 0, themeEn(t.id) ? 1 : 0, ...dom[i]]),
-    wordFields: ['text', 'balloonText', 'zipf10', 'themes', 'difficultyPerTheme', 'clashes', 'otherSpelling', 'formsPerTheme', 'anagramSet', 'trademarkIn', 'posPerTheme', 'adultIn'],
+    wordFields: ['text', 'balloonText', 'zipf10', 'themes', 'difficultyPerTheme', 'clashes', 'otherSpelling', 'formsPerTheme', 'anagramSet', 'trademarkIn', 'posPerTheme', 'adultIn', 'recognition'],
     words,
   });
 }
@@ -580,6 +582,7 @@ function shownWords() {
   if (q) list = list.filter(w => matches(w, q));
   const hasSg = w => !!w.sg && Object.keys(w.sg).length > 0;
   const keep = { all: null, on: w => w.on, off: w => !w.on, sug: hasSg, clash: w => !!(w.x && w.x.length), unchecked: w => !w.ck, tm: w => !!(w.tm && w.tm.length) || w.th.some(themeTm), adult: w => !!w.adult || !!(w.ad && w.ad.length) || w.th.some(themeAdult),
+    rec3: w => w.rec >= 3, recnone: w => !w.rec,
     posminor: posMinor, posnone: w => w.th.some(t => theme(t) && !theme(t).group && !(w.pos && POS_CODE[w.pos[t]])) }[UI.show];
   if (keep) list = list.filter(keep);
   const key = { t: w => form(w).toLowerCase(), len: w => core(form(w)).length, z: w => w.z ?? 0, d: w => wordDiff(w, UI.sel), th: w => w.th.length }[UI.sort] || (w => w.t);
@@ -849,6 +852,7 @@ function wordDialog(id) {  // id changes if the American spelling is edited
     + `<div class="row"><label class="f" style="flex:1"><span>American spelling</span><input id="wd-us" value="${esc(w.t)}"></label>`
     + `<label class="f" style="flex:1"><span>British spelling (if different)</span><input id="wd-uk" value="${esc(w.uk)}"></label></div>`
     + `<label class="pick"><input type="checkbox" id="wd-on"${w.on ? ' checked' : ''}> Enabled</label>`
+    + field('Recognition: would an average player know this word at all? (1 every child, 2 most adults, 3 many adults but not all, 4 some people, 5 few). The game treats 3 or worse as harder than its theme rating says.', `<select id="wd-rec"><option value="">not rated</option>${[1, 2, 3, 4, 5].map(n => `<option value="${n}"${w.rec === n ? ' selected' : ''}>${n}</option>`).join('')}</select>`)
     + `<label class="pick"><input type="checkbox" id="wd-adult"${w.adult ? ' checked' : ''}> Adult content (this word is left out of the game file when "Family-friendly game file" is on in Import / export)</label>`
     + field('Estimated Zipf, used only when the word is not in the frequency list', `<input id="wd-ze" type="number" step="0.1" min="0" max="8" value="${w.ze || ''}">`)
     + field('Note', `<input id="wd-note" value="${esc(w.note)}">`)
@@ -868,7 +872,7 @@ function wordDialog(id) {  // id changes if the American spelling is edited
     + `<h4>Danger</h4><button class="danger" id="wd-del">Delete word</button>`,
     [['Close', () => { if (keep() === false) return false; changed(); }, 'p']], d => {
       keep = () => {
-        w.on = chk(d, '#wd-on'); w.note = val(d, '#wd-note').trim(); w.adult = chk(d, '#wd-adult');
+        w.on = chk(d, '#wd-on'); w.note = val(d, '#wd-note').trim(); w.adult = chk(d, '#wd-adult'); w.rec = +val(d, '#wd-rec') || undefined;
         w.ze = +val(d, '#wd-ze') || null;
         const tm = [...d.querySelectorAll('[data-tm]')].filter(c => c.checked).map(c => c.dataset.tm);
         w.tm = tm.length ? tm : undefined;
