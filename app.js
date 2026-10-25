@@ -106,6 +106,8 @@ function poolOwners(t) {
   return out;
 }
 const pathOf = id => ix().anc[id] ? ix().anc[id].slice().reverse().map(i => theme(i).name).join(' > ') : '';
+// Last two levels of the path, for tight rows; the full path goes in the tooltip.
+const shortPath = id => { const p = pathOf(id).split(' > '); return p.length > 2 ? '… > ' + p.slice(-2).join(' > ') : p.join(' > '); };
 const depth = id => Math.max(1, (ix().anc[id] || []).filter(i => !theme(i).group).length);
 const themeDiff = id => theme(id).d || Math.min(5, depth(id));
 
@@ -673,6 +675,7 @@ function render() { renderTree(); renderMain(); renderFound(); renderTotals(); s
 // Opens the shared <dialog>. body is HTML; buttons is [[label, fn, cls]]; a fn returning false keeps it open.
 function dialog(title, body, buttons = [], onOpen) {
   const d = $('#dlg');
+  d.classList.toggle('wide', title.startsWith('Word: '));
   d.innerHTML = `<div class="hd"><span>${esc(title)}</span><button data-x>✕</button></div><div class="bd">${body}<div class="st"></div></div>`
     + `<div class="ft">${buttons.map((b, i) => `<button data-b="${i}" class="${b[2] || ''}">${esc(b[0])}</button>`).join('')}</div>`;
   d.querySelector('[data-x]').onclick = () => d.close();
@@ -857,7 +860,7 @@ function wordDialog(id) {  // id changes if the American spelling is edited
     + field('Estimated Zipf, used only when the word is not in the frequency list', `<input id="wd-ze" type="number" step="0.1" min="0" max="8" value="${w.ze || ''}">`)
     + field('Note', `<input id="wd-note" value="${esc(w.note)}">`)
     + '<h4>Linked themes</h4><p class="muted">Familiarity: 1 everyone knows it belongs, 5 specialists only. It sets the difficulty in that theme. The last dropdown is the part of speech of the word in that theme. 18+: adult in this theme only, so the family-friendly game file leaves the word out of this theme but keeps its other themes. ™: in this theme the word is a trademark or copyrighted name (brand, team, title, character).</p>'
-    + (w.th.map(t => `<div class="row"><button class="link" data-wgo="${t}">${esc(pathOf(t))}</button><span class="grow"></span>`
+    + (w.th.map(t => `<div class="row th"><button class="link" data-wgo="${t}" title="${esc(pathOf(t))}">${esc(shortPath(t))}</button>`
       + `<select data-fam="${t}" title="Familiarity in this theme"><option value="">familiarity ?</option>${[1, 2, 3, 4, 5].map(n => `<option${w.fam && w.fam[t] === n ? ' selected' : ''}>${n}</option>`).join('')}</select>`
       + `<select data-wpos="${t}" title="Part of speech in this theme">${posOptions((w.pos || {})[t])}</select>`
       + `<label title="Adult content in this theme only: the family-friendly game file leaves the word out of this theme"><input type="checkbox" data-ad="${t}"${(w.ad || []).includes(t) ? ' checked' : ''}> 18+</label>`

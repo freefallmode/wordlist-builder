@@ -76,6 +76,10 @@ table.rv td,table.rv th{padding:2px 6px}
 
 /* dialogs */
 dialog{border:1px solid var(--bd);border-radius:10px;background:var(--card);color:var(--fg);padding:0;width:min(560px,94vw);max-height:90vh}
+dialog.wide{width:min(760px,96vw)}
+.row.th{flex-wrap:nowrap;gap:6px}
+.row.th .link{flex:1;min-width:0;overflow:hidden;text-overflow:ellipsis;white-space:nowrap;text-align:left}
+.row.th>*:not(.link){flex:none}
 dialog::backdrop{background:#0006}
 dialog .hd{display:flex;justify-content:space-between;align-items:center;padding:10px 14px;border-bottom:1px solid var(--bd);font-weight:600}
 dialog .bd{padding:10px 14px;overflow:auto;max-height:calc(90vh - 100px)}
