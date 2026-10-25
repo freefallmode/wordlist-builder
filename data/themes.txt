@@ -1310,15 +1310,18 @@ Sports & Games:
   water sports
     swimming strokes [separate]
     swimming words [separate]
+    types of diving
     diving terms [separate] -- springboard and platform diving, not scuba
     scuba words [separate]
     surfing words [separate]
+    types of rowing
     rowing words [separate]
     sailing sports
     board and paddle sports
   winter sports
     snow sports
     skiing words [separate]
+    types of skating
     skating words [separate]
       figure skating moves
     ice hockey terms
@@ -1332,6 +1335,7 @@ Sports & Games:
       chinese martial arts [region:Asia]
     boxing terms [separate]
       boxing weight classes
+    types of wrestling
     wrestling terms [separate]
       sumo words [region:Asia] [separate]
     fencing terms [separate]
@@ -1370,18 +1374,23 @@ Sports & Games:
     formula one drivers
   horse and animal sports
     horse riding words [separate]
+    types of horse racing
     horse racing terms [separate]
     famous horse races [separate] [trademark]
     equestrian events
+    rodeo events [region:North America]
     rodeo words [region:North America] [separate]
     bullfighting words [region:Europe] [adult] [separate]
   adventure and outdoor sports
     extreme sports
     air sports
+    types of climbing
     climbing words [separate]
     mountaineering words [separate]
+    types of fishing
     fishing words [separate]
       fishing tackle
+    types of hunting [adult]
     hunting words [adult] [separate]
   games of chance [adult]
     casino games [adult]
