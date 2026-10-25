@@ -3,7 +3,7 @@
 // The project lives in IndexedDB (autosaved) and in project files. Both use
 // the compact format from serialize(): words point at themes by index.
 
-const VERSION = '41';  // must match data-v and the ?v= links in index.html
+const VERSION = '42';  // must match data-v and the ?v= links in index.html
 const $ = s => document.querySelector(s);
 const esc = s => String(s ?? '').replace(/[&<>"']/g, c => ({ '&': '&amp;', '<': '&lt;', '>': '&gt;', '"': '&quot;', "'": '&#39;' }[c]));
 const slug = t => t.normalize('NFKD').replace(/[̀-ͯ]/g, '').replace(/[^\p{L}\p{N}]+/gu, '_').replace(/^_|_$/g, '').toLowerCase();
@@ -1426,16 +1426,35 @@ document.addEventListener('dragend', () => { drag = null; render(); });
 function fillFreq() { if (FREQ) for (const w of Object.values(P.words)) if (w.z === undefined) w.z = wordZipf(w); }
 
 // Loads data/wordlist.json into the project after the user agrees. `replacing` words the question for a library that is not empty.
-async function loadStarterLibrary(replacing) {
+// `updated` is true when this is the start-up offer of a newer starter library.
+async function loadStarterLibrary(replacing, updated) {
   try {
     status('Loading the starter library…');
-    const r = await fetch('data/wordlist.json?v=' + VERSION);
+    const r = await fetch('data/wordlist.json?v=' + VERSION, updated ? { cache: 'no-cache' } : undefined);
     if (!r.ok) throw Error(r.status === 404 ? 'not built yet' : r.status);
+    const stamp = starterStamp(r);
     const p = deserialize(await r.json());
     const n = `${p.themes.length} themes, ${Object.keys(p.words).length} words`;
-    if (!await confirmBox(replacing ? `Replace the current library with the starter library (${n})?` : `The library is empty. Load the starter library (${n})?`)) { status(''); return; }
+    const q = updated ? `The starter library has been updated (${n}). Loading it replaces your current library, including any edits you have made. Load the updated library?`
+      : replacing ? `Replace the current library with the starter library (${n})?` : `The library is empty. Load the starter library (${n})?`;
+    try { if (stamp) localStorage.setItem('wlb-starter', stamp); } catch (e) { }  // also when declined, so an update is offered once
+    if (!await confirmBox(q)) { status(''); return; }
     P = p; UI.sel = null; changed(); fillFreq(); render();
   } catch (e) { status('Could not load the starter library: ' + e.message, true); }
+}
+function starterStamp(r) { return r.headers.get('etag') || r.headers.get('last-modified') || r.headers.get('content-length') || ''; }
+
+// Offers the starter library again when the file on the server differs from the one last loaded or declined.
+// With no earlier record the current file is just recorded, as there is nothing to compare with.
+async function checkStarterUpdate() {
+  try {
+    const r = await fetch('data/wordlist.json?v=' + VERSION, { method: 'HEAD', cache: 'no-cache' });
+    if (!r.ok) return;
+    const now = starterStamp(r), was = localStorage.getItem('wlb-starter');
+    if (!now) return;
+    if (was === null) localStorage.setItem('wlb-starter', now);
+    else if (was !== now) loadStarterLibrary(true, true);
+  } catch (e) { }
 }
 
 (async function start() {
@@ -1453,4 +1472,5 @@ async function loadStarterLibrary(replacing) {
   render();
   loadFreq();
   if (!P.themes.length && !Object.keys(P.words).length) loadStarterLibrary(false);
+  else checkStarterUpdate();
 })();
