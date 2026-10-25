@@ -1,0 +1,262 @@
+# Inflected forms sharing a theme with their base word
+
+452 pairs in 258 themes (wordplay themes excluded). Format: inflected < base
+
+- **cooking methods** (cooking_methods): baking<bake, boiling<boil, broiling<broil, poaching<poach, roasting<roast, searing<sear, simmering<simmer, smoking<smoke
+- **breads and baking** (breads_and_baking): baking<bake, blind baking<blind bake, frosting<frost, glazed<glaze, kneading<knead, leavening<leaven, proofing<proof, whipped<whip
+- **ways to preserve food** (ways_to_preserve_food): brining<brine, canning<can, curing<cure, freezing<freeze, jarring<jar, pasteurizing<pasteurize, smoking<smoke
+- **crimes** (crimes): carjacking<carjack, fencing<fence, hijacking<hijack, joyriding<joyride, kidnapping<kidnap, mugging<mug, smuggling<smuggle
+- **fire words** (fire_words): blazing<blaze, burning<burn, charred<char, crackling<crackle, flaming<flame, scorched<scorch, scorching<scorch
+- **hunting words** (hunting_words): hunting<hunt, shooting<shoot, snaring<snare, stalking<stalk, tracking<track, trapping<trap
+- **air sports** (air_sports): ballooning<balloon, hot air ballooning<hot air balloon, microlighting<microlight, parachuting<parachute, paramotoring<paramotor, skydiving<skydive
+- **body noises** (body_noises): burping<burp, slurping<slurp, sneezing<sneeze, snoring<snore, wheezing<wheeze
+- **british slang** (british_slang): buggered<bugger, chuffed<chuff, chuffing<chuff, nicked<nick, wicked<wick
+- **love words** (love_words): adoring<adore, courting<court, doting<dote, loving<love, yearning<yearn
+- **punishments** (punishments): birching<birch, caning<cane, keelhauling<keelhaul, lashing<lash, whipping<whip
+- **social media words** (social_media_words): blocking<block, blogging<blog, posting<post, trending<trend, trolling<troll
+- **fishing words** (fishing_words): angling<angle, casting<cast, chumming<chum, fishing<fish, trolling<troll
+- **symptoms** (symptoms): bruising<bruise, flushing<flush, shivering<shiver, sneezing<sneeze, wheezing<wheeze
+- **gardening verbs** (gardening_verbs): mowing<mow, potting<pot, raking<rake, weeding<weed
+- **painting words** (painting_words): glazing<glaze, oil painting<oil paint, painting<paint, scumbling<scumble
+- **sewing words** (sewing_words): darning<darn, mending<mend, sewing<sew, tailoring<tailor
+- **pottery words** (pottery_words): coiling<coil, glazed<glaze, glazing<glaze, throwing<throw
+- **hand actions** (hand_actions): clapping<clap, grasping<grasp, pointing<point, waving<wave
+- **cricket terms** (cricket_terms): batting<bat, bowled<bowl, bowling<bowl, stumped<stump
+- **internet words** (internet_words): blogging<blog, podcasting<podcast, streaming<stream, surfing<surf
+- **skating words** (skating_words): ice dancing<ice dance, ice skating<ice skate, inline skating<inline skate, roller skating<roller skate
+- **fitness words** (fitness_words): bulking<bulk, cutting<cut, shredded<shred, weights<weight
+- **chores** (chores): ironing<iron, mopping<mop, raking<rake, sweeping<sweep
+- **outdoor activities** (outdoor_activities): abseiling<abseil, hiking<hike, rambling<ramble, rappelling<rappel
+- **snow sports** (snow_sports): skiing<ski, sledding<sled, snowboarding<snowboard, tobogganing<toboggan
+- **crafts** (crafts): beading<bead, block printing<block print, quilting<quilt, weaving<weave
+- **climbing words** (climbing_words): abseiling<abseil, bouldering<boulder, rappelling<rappel
+- **horse riding words** (horse_riding_words): cantering<canter, galloping<gallop, trotting<trot
+- **scared words** (scared_words): alarmed<alarm, cowering<cower, worried<worry
+- **running words** (running_words): jogging<jog, sprinting<sprint, strides<stride
+- **smoking words** (smoking_words): smokes<smoke, smoking<smoke, vaping<vape
+- **diy words** (diy_words): painting<paint, plastering<plaster, wallpapering<wallpaper
+- **words for cold** (words_for_cold): chilled<chill, chilling<chill, freezing<freeze
+- **ski trip** (ski_trip): skiing<ski, sledding<sled, snowboarding<snowboard
+- **newborn care** (newborn_care): burping<burp, nursing<nurse, swaddling<swaddle
+- **states of matter** (states_of_matter): boiling<boil, freezing<freeze, melting<melt
+- **green living words** (green_living_words): carpooling<carpool, composting<compost, upcycling<upcycle
+- **driving words** (driving_words): overtaking<overtake, parking<park, speeding<speed
+- **board and paddle sports** (board_and_paddle_sports): kayaking<kayak, paddleboarding<paddleboard, skimboarding<skimboard
+- **happy words** (happy_words): beaming<beam, contented<content, delighted<delight
+- **extreme sports** (extreme_sports): bungee jumping<bungee jump, skateboarding<skateboard, skydiving<skydive
+- **surprised words** (surprised_words): flabbergasted<flabbergast, shocked<shock, surprised<surprise
+- **bazaar** (bazaar): bargaining<bargain, haggling<haggle
+- **voice sounds** (voice_sounds): cooing<coo, snoring<snore
+- **beach vacation** (beach_vacation): snorkeling<snorkel, surfing<surf
+- **rowing words** (rowing_words): rowing<row, sculling<scull
+- **film words** (film_words): casting<cast, shooting<shoot
+- **circus** (circus): clowning<clown, juggling<juggle
+- **farm** (farm): lambing<lamb, milking<milk
+- **british english words** (british_english_words): chips<chip, hoovering<hoover
+- **signs of spring** (signs_of_spring): crocuses<crocus, lambing<lamb
+- **knitting words** (knitting_words): knitting<knit, ribbing<rib
+- **vet clinic** (vet_clinic): neutering<neuter, spaying<spay
+- **ways of speaking** (ways_of_speaking): babbling<babble, mumbling<mumble
+- **cycling words** (cycling_words): coasting<coast, cycling<cycle
+- **words for small** (words_for_small): pint-sized<pint-size, pocket-sized<pocket-size
+- **detective words** (detective_words): fingerprinting<fingerprint, tailing<tail
+- **___man** (man): bats<bat, lines<line
+- **chess terms** (chess_terms): castling<castle, checkmated<checkmate
+- **airport words** (airport_words): boarding<board, de-icing<de-ice
+- **forestry words** (forestry_words): logging<log, pollarding<pollard
+- **painting and decorating** (painting_and_decorating): painting<paint, wallpapering<wallpaper
+- **recycling words** (recycling_words): recycling<recycle, upcycling<upcycle
+- **sleep words** (sleep_words): snoozing<snooze, snoring<snore
+- **laundry words** (laundry_words): bleaching<bleach, ironing<iron
+- **skiing words** (skiing_words): carving<carve, ski jumping<ski jump
+- **first aid** (first_aid): bandaging<bandage, splinting<splint
+- **spy words** (spy_words): bugging<bug, eavesdropping<eavesdrop
+- **traffic words** (traffic_words): gridlocked<gridlock, overtaking<overtake
+- **onomatopoeia** (onomatopoeia): crackling<crackle, sizzling<sizzle
+- **dental words** (dental_words): flossing<floss, scaling<scale
+- **wind words** (wind_words): gusting<gust, howling<howl
+- **angry words** (angry_words): outraged<outrage, raging<rage
+- **sailing words** (sailing_words): reefing<reef, sailing<sail
+- **size labels** (size_labels): outsized<outsize, oversized<oversize
+- **calm words** (calm_words): chilled<chill, mellowed<mellow
+- **art** (art): screen printing<screen print, sketching<sketch
+- **tournament words** (tournament_words): seeded<seed, seeding<seed
+- **garden features** (garden_features): decking<deck, fencing<fence
+- **election words** (election_words): canvassing<canvass, gerrymandering<gerrymander
+- **words for big** (words_for_big): outsized<outsize, oversized<oversize
+- **exercises** (exercises): jogging<jog, skipping<skip
+- **recording studio words** (recording_studio_words): multitracking<multitrack, overdubbing<overdub
+- **water sports** (water_sports): kayaking<kayak, surfing<surf
+- **winter sports** (winter_sports): ski jumping<ski jump, skiing<ski
+- **survival skills** (survival_skills): foraging<forage, trapping<trap
+- **baby milestones** (baby_milestones): crawling<crawl, toddling<toddle
+- **personality traits** (personality_traits): extroverted<extrovert, introverted<introvert
+- **pirate punishments** (pirate_punishments): keelhauling<keelhaul, marooning<maroon
+- **fabrics and sewing** (fabrics_and_sewing): quilting<quilt, weaving<weave
+- **mountain ranges** (mountain_ranges): Tatras<Tatra, Urals<Ural
+- **words for shiny** (words_for_shiny): gleaming<gleam, shimmering<shimmer
+- **gestures** (gestures): pointing<point, waving<wave
+- **workout types** (workout_types): jogging<jog, spinning<spin
+- **disgust words** (disgust_words): disgusted<disgust, disgusting<disgust
+- **cue sports terms** (cue_sports_terms): snookered<snooker
+- **darts terms** (darts_terms): doubles<double
+- **police words** (police_words): booking<book
+- **ice hockey terms** (ice_hockey_terms): boarding<board
+- **crunchy foods** (crunchy_foods): chips<chip
+- **wine words** (wine_words): corked<cork
+- **australian slang** (australian_slang): rooted<root
+- **mexican food** (mexican_food): nopales<nopal
+- **silly-sounding words** (silly_sounding_words): flabbergasted<flabbergast
+- **words named after people** (words_named_after_people): gerrymandering<gerrymander
+- **types of milk** (types_of_milk): oats<oat
+- **flours** (flours): oats<oat
+- **snacks** (snacks): chips<chip
+- **desert travel** (desert_travel): desert camping<desert camp
+- **portmanteau words** (portmanteau_words): carjacking<carjack
+- **charity words** (charity_words): volunteering<volunteer
+- **party entertainment** (party_entertainment): face painting<face paint
+- **salty foods** (salty_foods): chips<chip
+- **vegetables** (vegetables): nopales<nopal
+- **grains** (grains): oats<oat
+- **skin words** (skin_words): wrinkled<wrinkle
+- **potato dishes** (potato_dishes): chips<chip
+- **money slang** (money_slang): coppers<copper
+- **spring flowers** (spring_flowers): crocuses<crocus
+- **coffee words** (coffee_words): cupping<cup
+- **new year** (new_year): first-footing<first-foot
+- **st. patrick's day** (st_patrick_s_day): Irish dancing<Irish dance
+- **fastenings** (fastenings): lacing<lace
+- **poker terms** (poker_terms): chips<chip
+- **clothing parts** (clothing_parts): cuffs<cuff
+- **street market** (street_market): haggling<haggle
+- **illegal drugs** (illegal_drugs): doping<dope
+- **ways to cut food** (ways_to_cut_food): shredded<shred
+- **ways of walking** (ways_of_walking): toddling<toddle
+- **scottish words** (scottish_words): havering<haver
+- **scuba words** (scuba_words): diving<dive
+- **things that come in pairs** (things_that_come_in_pairs): earring<ear
+- **blood words** (blood_words): clotting<clot
+- **fish body parts** (fish_body_parts): scales<scale
+- **cowboy slang** (cowboy_slang): mavericking<maverick
+- **___house** (house): packing<pack
+- **hair care** (hair_care): highlighting<highlight
+- **surfing words** (surfing_words): surfing<surf
+- **animal movements** (animal_movements): crawling<crawl
+- **trail words** (trail_words): hiking<hike
+- **cowboy words** (cowboy_words): cowboys<cowboy
+- **cotton fabrics** (cotton_fabrics): toweling<towel
+- **dairy and eggs** (dairy_and_eggs): milking<milk
+- **animal sounds** (animal_sounds): cooing<coo
+- **canadian slang** (canadian_slang): Canucks<Canuck
+- **polar travel** (polar_travel): dog sledding<dog sled
+- **fast food** (fast_food): chips<chip
+- **movie theater** (movie_theater): screening<screen
+- **movie theater words** (movie_theater_words): screening<screen
+- **radio words** (radio_words): podcasting<podcast
+- **diving terms** (diving_terms): high diving<high dive
+- **heraldry** (heraldry): quartering<quarter
+- **___board** (board): sounding<sound
+- **interjections** (interjections): whoops<whoop
+- **basketball terms** (basketball_terms): charging<charge
+- **cooking** (cooking): seasoning<season
+- **animal coverings** (animal_coverings): scales<scale
+- **measuring instruments** (measuring_instruments): scales<scale
+- **measuring tools** (measuring_tools): scales<scale
+- **music terms** (music_terms): scales<scale
+- **music words** (music_words): singing<sing
+- **woodworking words** (woodworking_words): carving<carve
+- **paper crafts** (paper_crafts): scrapbooking<scrapbook
+- **construction site** (construction_site): scaffolding<scaffold
+- **sculpture words** (sculpture_words): carving<carve
+- **insect life cycle** (insect_life_cycle): hatching<hatch
+- **bins and recycling** (bins_and_recycling): recycling<recycle
+- **cheesemaking words** (cheesemaking_words): pressing<press
+- **journeys** (journeys): trips<trip
+- **casino words** (casino_words): chips<chip
+- **___box** (box): nesting<nest
+- **card games** (card_games): hearts<heart
+- **courses of a meal** (courses_of_a_meal): sweets<sweet
+- **touch words** (touch_words): textured<texture
+- **gym equipment** (gym_equipment): weights<weight
+- **moon phases** (moon_phases): waxing<wax
+- **baseball terms** (baseball_terms): batting<bat
+- **color theory words** (color_theory_words): shading<shade
+- **rain words** (rain_words): sheeting<sheet
+- **cybersecurity words** (cybersecurity_words): hacking<hack
+- **gold rush words** (gold_rush_words): gold panning<gold pan
+- **tennis terms** (tennis_terms): seeding<seed
+- **business words** (business_words): branding<brand
+- **religion words** (religion_words): blessing<bless
+- **stock market words** (stock_market_words): hedging<hedge
+- **dances** (dances): Irish dancing<Irish dance
+- **hair** (hair): parting<part
+- **workplace words** (workplace_words): sacked<sack
+- **money words** (money_words): tipping<tip
+- **world war ii terms** (world_war_ii_terms): rationing<ration
+- **sad words** (sad_words): blues<blue
+- **hotel** (hotel): booking<book
+- **measurement** (measurement): weights<weight
+- **european folk dances** (european_folk_dances): Irish dancing<Irish dance
+- **ways to jump** (ways_to_jump): skipping<skip
+- **commuting words** (commuting_words): carpooling<carpool
+- **hearing words** (hearing_words): hearing<hear
+- **texture words** (texture_words): textured<texture
+- **eating sounds** (eating_sounds): slurping<slurp
+- **dance studio words** (dance_studio_words): stretching<stretch
+- **boxing terms** (boxing_terms): sparring<spar
+- **motor racing** (motor_racing): racing<race
+- **comedy words** (comedy_words): spoofing<spoof
+- **water sounds** (water_sounds): babbling<babble
+- **mining words** (mining_words): mining<mine
+- **smell words** (smell_words): scented<scent
+- **olympic sports** (olympic_sports): trampolining<trampoline
+- **impact sounds** (impact_sounds): thumping<thump
+- **family members** (family_members): twins<twin
+- **cruise words** (cruise_words): cruising<cruise
+- **facial expressions** (facial_expressions): smiling<smile
+- **betting words** (betting_words): wagering<wager
+- **mountaineering words** (mountaineering_words): mountaineering<mountaineer
+- **fabric prints** (fabric_prints): block printing<block print
+- **card game words** (card_game_words): hearts<heart
+- **wildfire words** (wildfire_words): scorched<scorch
+- **games of chance** (games_of_chance): gambling<gamble
+- **accommodation** (accommodation): lodging<lodge
+- **bad habits** (bad_habits): vaping<vape
+- **bedding** (bedding): bedding<bed
+- **earthquake words** (earthquake_words): shaking<shake
+- **software words** (software_words): macros<macro
+- **statistics words** (statistics_words): sampling<sample
+- **banking words** (banking_words): banking<bank
+- **government words** (government_words): lobbying<lobby
+- **childbirth words** (childbirth_words): pushing<push
+- **times of day** (times_of_day): morning<morn
+- **knights** (knights): knighting<knight
+- **advertising words** (advertising_words): branding<brand
+- **swimming words** (swimming_words): swimming<swim
+- **playground** (playground): skipping<skip
+- **jousting tournament** (jousting_tournament): jousting<joust
+- **handwriting words** (handwriting_words): scribbling<scribble
+- **roof parts** (roof_parts): shingles<shingle
+- **sightseeing words** (sightseeing_words): sightseeing<sightsee
+- **drawing techniques** (drawing_techniques): sketching<sketch
+- **phone features** (phone_features): tethering<tether
+- **scottish landscape words** (scottish_landscape_words): Highlands<Highland
+- **genetics words** (genetics_words): cloning<clone
+- **luggage** (luggage): trunks<trunk
+- **swimwear** (swimwear): trunks<trunk
+- **combat sports** (combat_sports): boxing<box
+- **words for hot** (words_for_hot): heated<heat
+- **truck types** (truck_types): semis<semi
+- **electricity words** (electricity_words): wiring<wire
+- **asian art forms** (asian_art_forms): woodblock printing<woodblock print
+- **line types** (line_types): curved<curve
+- **math operations** (math_operations): squaring<square
+- **eyewear** (eyewear): contact lenses<contact lens
+- **gymnastics** (gymnastics): tumbling<tumble
+- **pronouns** (pronouns): hers<her
+- **ai words** (ai_words): prompt engineering<prompt engineer
+- **ways to say goodbye** (ways_to_say_goodbye): laters<later
+- **dream words** (dream_words): daydreaming<daydream
+- **bike types** (bike_types): mountain biking<mountain bike
+- **medical specialties** (medical_specialties): geriatrics<geriatric
+- **sleep disorders** (sleep_disorders): sleepwalking<sleepwalk
