@@ -68,6 +68,8 @@ Theme tree file (`data/themes.txt`; Import / export → Load starter theme tree,
 
 Single words 3 to 20 letters; two-word names (shown on two lines in the game) up to 20 letters in total; more than two words is rejected. Filters only mark words disabled with a reason, never delete.
 
+Starter library version: `data/wordlist.json` has a top-level `"lib": {"version": N, "modified": "YYYY-MM-DD"}`. Bump `version` by 1 and set `modified` to today whenever the file is changed. The app keeps it in the project (`P.lib`, saved with the library), shows it top left, and quotes both the current and the new values in the "starter library has been updated" prompt.
+
 Content rules for the starter library: no trademarked fiction from films, TV, comics or cartoons (characters, invented places, items). Allowed: video and tabletop game titles, characters and items; single novels, including ones still under copyright; public-domain fiction; real brands and toy lines. Removals and restorations are recorded per batch in `data/gen/words/batch-NN.extra.json`.
 
 ## Known gaps and next steps

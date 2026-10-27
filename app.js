@@ -3,7 +3,7 @@
 // The project lives in IndexedDB (autosaved) and in project files. Both use
 // the compact format from serialize(): words point at themes by index.
 
-const VERSION = '46';  // must match data-v and the ?v= links in index.html
+const VERSION = '47';  // must match data-v and the ?v= links in index.html
 const $ = s => document.querySelector(s);
 const esc = s => String(s ?? '').replace(/[&<>"']/g, c => ({ '&': '&amp;', '<': '&lt;', '>': '&gt;', '"': '&quot;', "'": '&#39;' }[c]));
 const slug = t => t.normalize('NFKD').replace(/[̀-ͯ]/g, '').replace(/[^\p{L}\p{N}]+/gu, '_').replace(/^_|_$/g, '').toLowerCase();
@@ -290,7 +290,7 @@ const FIELDS_W = ['text', 'themes', 'enabled', 'zipf10', 'difficulty', 'sources'
 function serialize() {
   const at = Object.fromEntries(P.themes.map((t, i) => [t.id, i]));
   return {
-    schema: 2, app: 'wordlist-builder', saved: new Date().toISOString(),
+    schema: 2, app: 'wordlist-builder', saved: new Date().toISOString(), ...(P.lib ? { lib: P.lib } : {}),
     themeFields: FIELDS_T,
     themes: P.themes.map(t => [t.id, t.name, t.label || '', t.parent ? at[t.parent] : -1, t.group ? 1 : 0, t.kind || '', t.region || '', t.d || 0, t.note || '',
       {}, t.adult ? 1 : 0, t.sep ? 1 : 0, t.tm ? 1 : 0, t.sens ? 1 : 0, t.en ? 1 : 0, t.cmp ? 1 : 0]),
@@ -319,7 +319,7 @@ function deserialize(j) {
       pos: Array.isArray(a[16]) && a[16].length ? Object.fromEntries(a[16].map(([i, p]) => [themes[i].id, p])) : undefined,
       ad: Array.isArray(a[17]) && a[17].length ? a[17].map(i => themes[i].id) : undefined,
       rec: a[18] >= 1 && a[18] <= 5 ? a[18] : undefined };
-    return { themes, words };
+    return { themes, words, lib: j.lib && j.lib.version ? { version: j.lib.version, modified: j.lib.modified || '' } : undefined };
   }
   if (j.schema === 1 || j.words) { // first version of the builder
     const themes = (j.themes || []).map(x => ({ id: x.id, name: x.name, label: '', parent: x.parent || null, group: !!x.group, kind: '', region: '',
@@ -669,7 +669,14 @@ function renderTotals() {
   const ts = P.themes, play = ts.filter(t => !t.group).length, ws = Object.values(P.words), on = ws.filter(w => w.on).length;
   $('#totals').innerHTML = `<b>${play.toLocaleString()}</b> themes <span class="muted">(${(ts.length - play).toLocaleString()} groups)</span> · <b>${ws.length.toLocaleString()}</b> words <span class="muted">(${on.toLocaleString()} enabled)</span>`;
 }
-function render() { renderTree(); renderMain(); renderFound(); renderTotals(); saveLocal(); }
+// The starter library's version and date (set in data/wordlist.json under "lib"), shown top left; blank for a library that did not come from it.
+function libLabel(l) { return l ? `v${l.version}${l.modified ? ' · ' + l.modified : ''}` : 'no version'; }
+function renderLib() {
+  const e = $('#libver'), l = P.lib;
+  e.textContent = l ? 'Library ' + libLabel(l) : '';
+  e.title = l ? 'Version and date of the starter library this library was loaded from. Your own edits do not change them.' : '';
+}
+function render() { renderTree(); renderMain(); renderFound(); renderTotals(); renderLib(); saveLocal(); }
 
 // ---------- dialogs ----------
 
@@ -1440,7 +1447,7 @@ async function loadStarterLibrary(replacing, updated) {
     const stamp = starterStamp(r);
     const p = deserialize(await r.json());
     const n = `${p.themes.length} themes, ${Object.keys(p.words).length} words`;
-    const q = updated ? `The starter library has been updated (${n}). Loading it replaces your current library, including any edits you have made. Load the updated library?`
+    const q = updated ? `The starter library has been updated (${n}). Yours is ${libLabel(P.lib)}; the new one is ${libLabel(p.lib)}. Loading it replaces your current library, including any edits you have made. Load the updated library?`
       : replacing ? `Replace the current library with the starter library (${n})?` : `The library is empty. Load the starter library (${n})?`;
     try { if (stamp) localStorage.setItem('wlb-starter', stamp); } catch (e) { }  // also when declined, so an update is offered once
     if (!await confirmBox(q)) { status(''); return; }
