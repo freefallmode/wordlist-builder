@@ -32,13 +32,13 @@ trademarks 2,226 themes, 70,995 words.
 Rebuild: `python3 tools/merge_tree.py` (tree) then `python3 tools/build_wordlist.py` (library); the game files
 are exported from the app (Import / export → Export game file; Import / export → Family-friendly game file).
 
-### Game file (v7)
+### Game file (v8)
 
-Version history: v5 had no part of speech; v6 added `posPerTheme` and the theme fields `pos`, `posShare`, `posConsistent`, `posNames`; v7 added `adultIn` and `recognition`. Each change only appended columns, so a reader that finds columns by name in `themeFields` and `wordFields` loads older files too.
+Version history: v5 had no part of speech; v6 added `posPerTheme` and the theme fields `pos`, `posShare`, `posConsistent`, `posNames`; v7 added `adultIn` and `recognition`; v8 added the theme field `complete`. Each change only appended columns, so a reader that finds columns by name in `themeFields` and `wordFields` loads older files too.
 
 ```
-{ v: 7, generated, spelling: "US"|"UK", familyFriendly, trademarks,
-  themeFields: [id, name, label, parent, group, kind, region, difficulty, adult, separate, trademark, sensitive, englishOnly, pos, posShare, posConsistent],
+{ v: 8, generated, spelling: "US"|"UK", familyFriendly, trademarks,
+  themeFields: [id, name, label, parent, group, kind, region, difficulty, adult, separate, trademark, sensitive, englishOnly, pos, posShare, posConsistent, complete],
   posNames: ["", "noun", "verb", "adjective", "adverb", "other"],
   themes: [...rows],               // parent is an index into themes, -1 for top level
   wordFields: [text, balloonText, zipf10, themes, difficultyPerTheme, clashes, otherSpelling, formsPerTheme, anagramSet, trademarkIn, posPerTheme, adultIn, recognition],
@@ -72,6 +72,7 @@ Version history: v5 had no part of speech; v6 added `posPerTheme` and the theme 
 - Theme fields `pos` (dominant part of speech code of the theme's pool: its own words plus non-separate sub-themes,
   0 = untagged), `posShare` (percent of tagged words that share it) and `posConsistent` (1 when `posShare` is at least 90).
   For a stricter or looser rule use `posShare`, or filter words by `posPerTheme`.
+- Theme field `complete` (outline tag `[complete]`): 1 when the theme is a finite, fixed set with no more members to add (planets, card suits, months, the four evangelists). A player who sees three members can predict the fourth, so these read as easier than open themes of the same difficulty. In a simulated-player test (45 matched pairs, 2026-10-26) small complete sets were rated about 2 points easier on the 1 to 5 scale than open themes of the same stored difficulty. The flag is hand-set (66 themes, screened from the 413 themes with 4 to 30 words) and is **not** inherited by sub-themes; it is not derived from word count, because a short list can be an unfinished open theme and a closed set can be long (states, capitals). It helps most for sets of 4 to about 12; all flagged sets are fully listed under the definitions below: 8 compass points, 12 zodiac signs, 4 swimming strokes, 8 planets (dwarf planets are their own set), 50 states, 118 elements, sovereign countries only (no territories). Sets that are only borderline closed (continents, flags with crescents) are not flagged.
 
 ### What the theme fields mean for levels
 

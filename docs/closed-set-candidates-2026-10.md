@@ -1,0 +1,128 @@
+# Closed-set candidates (themes with 4 to 30 words)
+
+413 themes screened by four independent AI passes: 63 closed, 54 borderline, 296 open. Nothing is tagged yet.
+
+Missing = true members of the set that are not in our word list.
+
+## Closed (63)
+
+- **butterfly life stages** (4 words; Animals > insects and bugs > insect life cycle) — four fixed stages
+- **bears** (27 words; Animals > mammals) — eight living species
+- **orchestra sections** (4 words; Arts & Entertainment > music words > orchestra words) — four standard sections
+- **the beatles** (4 words; Arts & Entertainment > musicians > famous bands) — four members
+- **blood components** (4 words; Body & Health > inside the body > blood words) — four standard components
+- **brain lobes** (4 words; Body & Health > inside the body > brain parts) — four lobes
+- **ruminant stomachs** (4 words; Body & Health > inside the body > digestive system) — four chambers
+- **tooth types** (4 words; Body & Health > inside the body > teeth) — four tooth types
+- **four humours** (4 words; Body & Health > medicine) — four humours
+- **mount rushmore presidents** (4 words; History & Myth > famous people > us presidents) — four carved presidents
+- **rivers of the underworld** (5 words; History & Myth > mythology) — five mythic rivers
+- **titans** (26 words; History & Myth > mythology > greek gods) — twelve original Titans
+- **greek wind gods** (4 words; History & Myth > mythology > greek gods) — four Anemoi
+- **labors of hercules** (10 words; History & Myth > mythology > greek heroes) — twelve labors. Missing: Mares of Diomedes, Girdle of Hippolyta, Apples of the Hesperides
+- **wedding rhyme** (4 words; Home & Everyday > holidays and celebrations > weddings) — fixed rhyme items. Missing: sixpence
+- **months** (12 words; Home & Everyday > time) — twelve months
+- **zodiac signs** (14 words; Home & Everyday > time) — twelve signs
+- **chinese zodiac** (14 words; Home & Everyday > time) — twelve zodiac animals. Missing: ox
+- **the four seasons** (4 words; Home & Everyday > time > seasons) — four seasons
+- **phonetic alphabet** (28 words; Language & Wordplay > alphabets and writing) — NATO alphabet, 26
+- **greek letters** (20 words; Language & Wordplay > alphabets and writing) — 24-letter alphabet. Missing: mu, nu, xi, pi
+- **earth's layers** (4 words; Nature & Earth > earth science > layers of the earth) — four standard layers
+- **us coins** (5 words; People & Society > money > coins) — fixed US denominations. Missing: dollar coin
+- **archangels** (4 words; People & Society > religion > angels and spirits) — four standard archangels
+- **the four evangelists** (4 words; People & Society > religion > religion words) — fixed four gospel authors
+- **four horsemen of the apocalypse** (4 words; People & Society > religion > religion words) — four horsemen
+- **us state capitals** (24 words; Places & Geography > cities > american cities) — fifty fixed capitals. Missing: Montpelier, Concord, Hartford, Providence, Trenton, Dover, Charleston, Columbia, Frankfort, Jackson, Little Rock, Jefferson City, Topeka, Lincoln, Pierre, Bismarck, Des Moines, Madison, Lansing, St. Paul, Helena, Cheyenne, Salt Lake City, Oklahoma City, Augusta, Salem
+- **south american countries** (13 words; Places & Geography > countries) — twelve countries
+- **oceanian countries** (13 words; Places & Geography > countries) — fixed sovereign states. Missing: Papua New Guinea
+- **north american countries** (24 words; Places & Geography > countries) — 23 sovereign states, all covered
+- **spanish-speaking countries** (20 words; Places & Geography > countries) — 20 official Spanish states. Missing: Puerto Rico
+- **the five oceans** (5 words; Places & Geography > famous waters > oceans and seas) — five oceans
+- **compass directions** (19 words; Places & Geography > maps and globes) — sixteen compass points
+- **cardinal directions** (4 words; Places & Geography > maps and globes > compass directions) — four directions
+- **intercardinal directions** (4 words; Places & Geography > maps and globes > compass directions) — four fixed directions
+- **canadian provinces** (13 words; Places & Geography > regions) — 13 provinces and territories. Missing: Prince Edward Island
+- **german states** (14 words; Places & Geography > regions) — 16 states. Missing: Mecklenburg-Vorpommern, North Rhine-Westphalia
+- **mexican states** (28 words; Places & Geography > regions) — 31 states plus capital. Missing: Baja California Sur, San Luis Potosí, México, Mexico City
+- **indian states** (29 words; Places & Geography > regions) — 28 states, all covered
+- **italian regions** (19 words; Places & Geography > regions) — 20 fixed regions. Missing: Friuli-Venezia Giulia, Trentino-Alto Adige
+- **cmyk inks** (4 words; Qualities > colors) — four process inks
+- **basic tastes** (5 words; Qualities > tastes) — five basic tastes
+- **nucleobases** (5 words; Science & Tech > biology > genetics words) — five known bases
+- **classical elements** (5 words; Science & Tech > chemistry) — four or five elements
+- **four states of matter** (4 words; Science & Tech > chemistry > states of matter) — four classic states
+- **types of triangle** (6 words; Science & Tech > math > geometry) — fixed classifications
+- **arithmetic operations** (4 words; Science & Tech > math > math operations) — four basic operations
+- **metric prefixes** (28 words; Science & Tech > measurement) — 24 SI prefixes
+- **fundamental forces** (4 words; Science & Tech > physics > forces) — four fundamental forces
+- **four great chinese inventions** (4 words; Science & Tech > science history > inventions > chinese inventions) — fixed four inventions
+- **planets** (14 words; Science & Tech > space) — eight planets
+- **galilean moons** (4 words; Science & Tech > space > moons) — four Galilean moons
+- **inner planets** (4 words; Science & Tech > space > planets) — four inner planets
+- **outer planets** (4 words; Science & Tech > space > planets) — four outer planets
+- **baseball bases** (4 words; Sports & Games > ball sports > baseball terms) — four bases
+- **baseball positions** (16 words; Sports & Games > ball sports > baseball terms) — nine fielding positions covered
+- **poker betting rounds** (4 words; Sports & Games > games of chance > poker terms) — four betting rounds
+- **golf majors** (4 words; Sports & Games > racket and target sports > golf terms) — four men's majors
+- **tennis grand slams** (4 words; Sports & Games > racket and target sports > tennis terms) — four majors
+- **tarot suits** (4 words; Sports & Games > table games) — four minor arcana suits
+- **card suits** (4 words; Sports & Games > table games) — four card suits
+- **chess pieces** (6 words; Sports & Games > table games > chess terms) — six piece types
+- **main swimming strokes** (5 words; Sports & Games > water sports > swimming strokes) — fixed strokes
+
+## Borderline (54)
+
+- **penguins** (24 words; Animals > animals of the world > antarctic animals) — about 18 species, taxonomy varies. Missing: erect-crested penguin
+- **vultures** (22 words; Animals > birds > birds of prey) — finite but many species. Missing: lappet-faced vulture, white-backed vulture, white-rumped vulture, slender-billed vulture, red-headed vulture, palm-nut vulture
+- **horse family** (30 words; Animals > horses) — Equidae, mixed hybrids
+- **wild cattle** (30 words; Animals > mammals > hoofed mammals) — Bovini, disputed taxonomy
+- **column styles** (30 words; Arts & Entertainment > architecture) — five orders plus extras
+- **piano parts** (13 words; Arts & Entertainment > instruments > instrument parts) — finite but variable parts. Missing: strings, frame, action, tuning pins, agraffe, bridge
+- **shakespeare plays** (23 words; Arts & Entertainment > literature) — fixed canon, disputed edges. Missing: Hamlet, Romeo and Juliet, A Midsummer Night's Dream, The Merchant of Venice, As You Like It, The Taming of the Shrew, The Winter's Tale, Measure for Measure, Antony and Cleopatra, Timon of Athens, Troilus and Cressida, The Comedy of Errors, Love's Labour's Lost, The Two Gentlemen of Verona, The Merry Wives of Windsor, All's Well That Ends Well, Two Noble Kinsmen
+- **dynamics markings** (30 words; Arts & Entertainment > music words) — conventional but loose set
+- **classical voice types** (6 words; Arts & Entertainment > music words > voice types) — standard types, variable subdivisions. Missing: contralto, countertenor
+- **body systems** (25 words; Body & Health > inside the body) — conventional but variable list
+- **digestive system** (13 words; Body & Health > inside the body) — finite organ system, variable. Missing: mouth, rectum, anus, pharynx
+- **dietary minerals** (16 words; Body & Health > nutrition) — disputed essential list. Missing: fluoride, boron
+- **food groups** (19 words; Body & Health > nutrition) — models differ by country
+- **meal courses** (4 words; Food & Drink > eating out > courses of a meal) — course sequence varies. Missing: soup, fish
+- **ottoman sultans** (16 words; History & Myth > ancient civilizations > ottoman empire) — finite but repeated names. Missing: Musa
+- **yoruba orishas** (26 words; History & Myth > mythology) — large variable pantheon. Missing: Oranmiyan, Ayao
+- **numbers in japanese** (9 words; Language & Wordplay > foreign words > numbers in other languages) — numbers narrow-context set. Missing: ichi, ni, go, shi, shichi, ku, ju, rei
+- **numbers in french** (13 words; Language & Wordplay > foreign words > numbers in other languages) — number words, infinite series. Missing: un, six, zéro
+- **parts of speech** (19 words; Language & Wordplay > grammar) — eight traditional, variants
+- **tenses** (25 words; Language & Wordplay > grammar) — varies by language
+- **slavic languages** (24 words; Language & Wordplay > languages > european languages) — finite, disputed membership
+- **celtic languages** (20 words; Language & Wordplay > languages > european languages) — six living, extinct disputed
+- **sounds like a letter** (24 words; Language & Wordplay > sound-alikes) — 26 letters, many homophones. Missing: dee, eff, aitch, kay, em, en, oh, ess, vee, ex, zed, zee, ay
+- **sounds like a number** (9 words; Language & Wordplay > sound-alikes) — finite homophones, fuzzy. Missing: to
+- **layers of the earth** (15 words; Nature & Earth > earth science) — few layers, variable scheme
+- **main cloud types** (5 words; Nature & Earth > weather > cloud types) — ten genera, 'main' vague. Missing: altocumulus, altostratus, cirrocumulus, cirrostratus, nimbostratus, stratocumulus
+- **american capitals** (23 words; Places & Geography > cities > capital cities) — large fixed set. Missing: Belmopan, Georgetown, Paramaribo, Port-au-Prince, Port of Spain, Bridgetown, Castries, Kingstown, Roseau, Basseterre, St. John's, St. George's
+- **arabic-speaking countries** (22 words; Places & Geography > countries) — disputed membership. Missing: Palestine
+- **tiny countries** (27 words; Places & Geography > countries) — no fixed size cutoff. Missing: Comoros, Sao Tome, Samoa, Mauritius, Bahamas
+- **west african countries** (17 words; Places & Geography > countries > african countries) — region definition varies
+- **east african countries** (10 words; Places & Geography > countries > african countries) — region boundaries disputed. Missing: Madagascar, Comoros, Mauritius, Seychelles, Malawi, Mozambique
+- **southern african countries** (10 words; Places & Geography > countries > african countries) — region boundary disputed. Missing: Madagascar, Mauritius, Comoros, Seychelles
+- **middle eastern countries** (15 words; Places & Geography > countries > asian countries) — disputed membership. Missing: Palestine, Cyprus
+- **eastern european countries** (22 words; Places & Geography > countries > european countries) — region definition disputed
+- **western european countries** (26 words; Places & Geography > countries > european countries) — finite, disputed membership
+- **flags with crescents** (15 words; Places & Geography > flags of the world) — finite, disputed edges. Missing: Western Sahara
+- **flags with animals** (18 words; Places & Geography > flags of the world) — finite but disputed. Missing: Guatemala, Papua New Guinea, Andorra, Eswatini
+- **red and white flags** (22 words; Places & Geography > flags of the world) — finite but fuzzy. Missing: Lebanon
+- **ancient wonders** (14 words; Places & Geography > landmarks) — two fixed lists mixed. Missing: Temple of Artemis, Statue of Zeus, Christ the Redeemer
+- **continents and supercontinents** (30 words; Places & Geography > maps and globes) — supercontinents disputed, varied. Missing: Ur, Nena
+- **spanish regions** (26 words; Places & Geography > regions) — 17 communities, extra areas
+- **scientific method** (18 words; Science & Tech) — loose steps and terms
+- **data units** (13 words; Science & Tech > computers) — finite units, variable list. Missing: kilobit, terabit, petabit, ronnabyte, quettabyte
+- **circle parts** (19 words; Science & Tech > math > geometry) — geometry terms, variable list
+- **metric units** (15 words; Science & Tech > measurement) — large fixed unit set. Missing: second, ampere, kelvin, mole, candela, newton, joule, watt
+- **types of climbing** (9 words; Sports & Games > adventure and outdoor sports) — finite but loosely defined. Missing: free solo, top-rope climbing, alpine climbing, mountaineering
+- **paralympic sports** (14 words; Sports & Games > athletics and gymnastics) — finite but changing list. Missing: powerlifting, para rowing, para canoe, para triathlon, para judo, para taekwondo, para table tennis, para badminton, para shooting, para equestrian, para alpine skiing, para ice hockey, para snowboard
+- **field events** (21 words; Sports & Games > athletics and gymnastics) — eight standard events
+- **american football positions** (17 words; Sports & Games > ball sports > american football terms) — positions vary by scheme. Missing: defensive tackle
+- **types of horse racing** (4 words; Sports & Games > horse and animal sports) — few types, extras exist. Missing: quarter horse racing, endurance racing
+- **rodeo events** (12 words; Sports & Games > horse and animal sports) — standard events, variable. Missing: saddle bronc riding, tie-down roping
+- **golf clubs** (17 words; Sports & Games > racket and target sports > golf terms) — fixed types, many variants
+- **types of rowing** (5 words; Sports & Games > water sports) — few types, extras possible
+- **swimming strokes** (16 words; Sports & Games > water sports) — four competitive, many informal
